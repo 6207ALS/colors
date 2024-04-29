@@ -1,0 +1,31 @@
+{
+    "id": 58586,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/58586",
+    "title": "Seneca Ray Stoddard",
+    "sort_title": "Stoddard, Seneca Ray",
+    "alt_titles": [
+        "Seneca R. Stoddard"
+    ],
+    "is_artist": true,
+    "birth_date": 1844,
+    "death_date": 1917,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Seneca Ray Stoddard",
+            "Stoddard, Seneca Ray",
+            "Seneca R. Stoddard"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-01T14:35:47-05:00",
+    "updated_at": "2022-03-15T16:58:59-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

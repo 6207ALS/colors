@@ -1,0 +1,182 @@
+{
+    "id": 194154,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/194154",
+    "is_boosted": false,
+    "title": "Barrage",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFRVXl1gZl1hZ15ia3F2fnt/fq1/Z6GDeLOJcLKKdYOGjIaMjpaJgZiOh6WLgZqdoZ6hoZagsKmnqr+6rq2wuMS8s623xLG6yL/Hz7zI1sHK0sTO2cvU2s3U2M7b5NXd4dTe49Th6dfi6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMJCECgMAI8KozGBKCSHBMLgoGxCoE8Hc7FoOCJPJhIEADs=",
+        "width": 3804,
+        "height": 2572,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "2008.127",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1998,
+    "date_end": 1998,
+    "date_display": "1998",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Steve McQueen\nEnglish, born 1969",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image: 45.4 \u00d7 68.4 cm (17 7/8 \u00d7 26 15/16 in.); Frame: 45.6 \u00d7 68.5 cm (17 15/16 \u00d7 26 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68.4,
+            "width_in": 26.9292,
+            "height_cm": 45.4,
+            "height_in": 17.8741,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68.5,
+            "width_in": 26.9375,
+            "height_cm": 45.6,
+            "height_in": 17.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Frame"
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Gift of Rhona Hoffman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": "1 of 2",
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.7375,
+    "color": {
+        "h": 8,
+        "l": 44,
+        "s": 34,
+        "percentage": 0.02851137333250088,
+        "population": 137
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 100363,
+    "artist_title": "Steve McQueen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        100363
+    ],
+    "artist_titles": [
+        "Steve McQueen"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-830"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "African Diaspora"
+    ],
+    "term_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "African Diaspora"
+    ],
+    "image_id": "b9d32125-add2-58d3-b576-2c029eed32cf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.127"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Barrage"
+            ],
+            "weight": 273,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-19T11:24:38-06:00",
+    "updated_at": "2023-04-07T12:42:46-05:00",
+    "timestamp": "2023-09-24T01:37:48-05:00"
+}

@@ -1,0 +1,176 @@
+{
+    "id": 33053,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/33053",
+    "is_boosted": false,
+    "title": "Rocking Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGo2JWg6KHQ4K3E7LXpENH9ENIRKOo5TQJVURZ5YSaJYS6ZfT61eSa1fTadoSa9vTathVathVq1kVLNmUrBmVbpqXsJwXNF7b9Z6bQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVILUkiGFNzVEwjwMIEhEMyhVBFRYCADs=",
+        "width": 2101,
+        "height": 2250,
+        "alt_text": "A work made of beech and caning."
+    },
+    "main_reference_number": "1970.30",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1876,
+    "date_end": 1886,
+    "date_display": "c. 1881",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Made by Jacob And Josef Kohn\nAustria, Vienna",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": "108.9 \u00d7 58.4 \u00d7 114.3 cm (42 7/8 \u00d7 23 \u00d7 45 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 114.3,
+            "depth_in": 45,
+            "width_cm": 58.4,
+            "width_in": 23,
+            "height_cm": 108.9,
+            "height_in": 42.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Beech and caning",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Samuel G. Rautbord",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.3113,
+    "color": {
+        "h": 9,
+        "l": 55,
+        "s": 43,
+        "percentage": 0.34640301110225596,
+        "population": 2634
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 36953,
+    "artist_title": "Michael Thonet",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36953
+    ],
+    "artist_titles": [
+        "Michael Thonet"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "chair",
+        "furniture",
+        "seating",
+        "furniture",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11745",
+    "classification_title": "chair",
+    "alt_classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11745",
+        "TM-466",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "chair",
+        "seating",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2a491673-72e1-34a9-8e2a-b45a6e0da51f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.30"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rocking Chair"
+            ],
+            "weight": 1426,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:57:39-05:00",
+    "timestamp": "2023-09-24T00:35:07-05:00"
+}

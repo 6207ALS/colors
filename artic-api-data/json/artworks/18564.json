@@ -1,0 +1,179 @@
+{
+    "id": 18564,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18564",
+    "is_boosted": false,
+    "title": "Sun Bathers, Alassio",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIJ+c4iFeJuYip2bjaKfkbi0pLm1pLy5q8PAssfCs8jFt9DMwNLOwNXSw93ZzeDbzeTf0ufi1uji1enk1ujk1+jk2Ojl2Onm2erm2uvp3AAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYMQoSpNVSWEYFrYcxGA5QCAglwQ9E1WFADs=",
+        "width": 3000,
+        "height": 2429,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "1963.778",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1950,
+    "date_display": "c. 1920-1950",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Copley\nEnglish, 1875-1950",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image: 22 \u00d7 31 cm (8 11/16 \u00d7 12 1/4 in.); Sheet: 34 \u00d7 42 cm (13 7/16 \u00d7 16 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 31,
+            "width_in": 12.2048,
+            "height_cm": 22,
+            "height_in": 8.6615,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 42,
+            "width_in": 16.5355,
+            "height_cm": 34,
+            "height_in": 13.3859,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Earle Ludgin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.3316,
+    "color": {
+        "h": 47,
+        "l": 48,
+        "s": 13,
+        "percentage": 0.02400308909320504,
+        "population": 138
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 52963,
+    "artist_title": "John Copley",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        52963
+    ],
+    "artist_titles": [
+        "John Copley"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "print",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6027f0e7-71c7-86f8-a111-462adedaad52",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1963.778"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sun Bathers, Alassio"
+            ],
+            "weight": 279,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-05T09:23:05-05:00",
+    "updated_at": "2023-09-05T09:26:57-05:00",
+    "timestamp": "2023-09-24T00:27:42-05:00"
+}

@@ -1,0 +1,185 @@
+{
+    "id": 66201,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/66201",
+    "is_boosted": false,
+    "title": "Dewey Square",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADc3Ozg4Ozo5PDs6P0BBREJBREFCRUNFR0RER0NESENFSEVFSEVGSEZHSUVGSkdITHV5enV5e3Z5fHZ5fYSHiYSIi4WIi4eKjMXGxwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVINAUi3BEl8QQFGYlClRNT4AYzhACADs=",
+        "width": 2218,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1986.1425",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1962,
+    "date_end": 1962,
+    "date_display": "1962",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Frank Stella\nAmerican, born 1936",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "77.5 \u00d7 77.5 cm (30 1/2 \u00d7 30 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 77.5,
+            "width_in": 30.5,
+            "height_cm": 77.5,
+            "height_in": 30.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Bequest of Solomon B. Smith",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1987,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Frank Stella / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.2227,
+    "color": {
+        "h": 213,
+        "l": 52,
+        "s": 3,
+        "percentage": 0.12056634270532005,
+        "population": 869
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 36789,
+    "artist_title": "Frank Stella",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36789
+    ],
+    "artist_titles": [
+        "Frank Stella"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "geometric",
+        "modern and contemporary art",
+        "white (color)",
+        "black (color)",
+        "gray (color)",
+        "squares"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-9124",
+    "alt_subject_ids": [
+        "TM-11841",
+        "TM-11845",
+        "TM-11840",
+        "TM-12654"
+    ],
+    "subject_ids": [
+        "TM-9124",
+        "TM-11841",
+        "TM-11845",
+        "TM-11840",
+        "TM-12654"
+    ],
+    "subject_titles": [
+        "geometric",
+        "white (color)",
+        "black (color)",
+        "gray (color)",
+        "squares"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3b85e5ce-e2f9-2eae-43d9-b5f25ef6983e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1425"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dewey Square"
+            ],
+            "weight": 1612,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:58-05:00",
+    "updated_at": "2023-04-10T12:50:33-05:00",
+    "timestamp": "2023-09-24T00:49:07-05:00"
+}

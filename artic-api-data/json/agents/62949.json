@@ -1,0 +1,33 @@
+{
+    "id": 62949,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62949",
+    "title": "Jean Libin Vaurelle",
+    "sort_title": "Vaurelle, Jean Libin",
+    "alt_titles": [
+        "Jean-Lubin Vauzelle",
+        "Jean Lubin Vauzelle"
+    ],
+    "is_artist": true,
+    "birth_date": 1776,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Libin Vaurelle",
+            "Vaurelle, Jean Libin",
+            "Jean-Lubin Vauzelle",
+            "Jean Lubin Vauzelle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:34-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

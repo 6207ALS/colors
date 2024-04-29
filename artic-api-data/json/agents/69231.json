@@ -1,0 +1,33 @@
+{
+    "id": 69231,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/69231",
+    "title": "Alfred Jensen",
+    "sort_title": "Jensen, Alfred",
+    "alt_titles": [
+        "Alfred J. Jensen",
+        "Alfred Julio Jensen"
+    ],
+    "is_artist": true,
+    "birth_date": 1903,
+    "death_date": 1981,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alfred Jensen",
+            "Jensen, Alfred",
+            "Alfred J. Jensen",
+            "Alfred Julio Jensen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T14:15:28-05:00",
+    "updated_at": "2022-03-15T16:59:58-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

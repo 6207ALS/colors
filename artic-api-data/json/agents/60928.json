@@ -1,0 +1,28 @@
+{
+    "id": 60928,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/60928",
+    "title": "Albert York",
+    "sort_title": "York, Albert",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1928,
+    "death_date": 2009,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albert York",
+            "York, Albert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T11:22:38-05:00",
+    "updated_at": "2022-03-15T16:59:24-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

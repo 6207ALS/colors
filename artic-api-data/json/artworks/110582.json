@@ -1,0 +1,173 @@
+{
+    "id": 110582,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/110582",
+    "is_boosted": false,
+    "title": "Bust of Zborowski",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAANzOq97PrN3Qrd7QrN7Qr9/Sr+DRr+DSr+DSsODTsOLUsuLUs+TVs+fYtwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLkKAlwkmgoGGYahEAOw==",
+        "width": 1857,
+        "height": 3000,
+        "alt_text": "A work made of graphite on cream wove paper."
+    },
+    "main_reference_number": "1947.791",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1904,
+    "date_end": 1920,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Amedeo Modigliani\nItalian, 1884-1920",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "42.7 \u00d7 26 cm (16 13/16 \u00d7 10 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26,
+            "width_in": 10.2363,
+            "height_cm": 42.7,
+            "height_in": 16.8111,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on cream wove paper",
+    "inscriptions": "Signed recto, lower right, in graphite: \"Modigliani\"",
+    "credit_line": "Given in memory of Charles Barnett Goodspeed by Mrs. Charles B. Goodspeed",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Chicago, Arts Club, \"Loan Exhibition of Modern Paintings and Drawings from Private Collections in Chicago,\" November 4-25, 1938, n.p., cat. 85.",
+    "provenance_text": "Mrs. Charles Goodspeed (n\u00e9e Elizabeth Fuller, later Mrs. Gilbert Chapman; 1893\u20131980), Chicago, by 1938 [Chicago 1938]; given to the Art Institute, 1947.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.5996,
+    "color": {
+        "h": 327,
+        "l": 33,
+        "s": 7,
+        "percentage": 8.709542000024387e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35801,
+    "artist_title": "Amedeo Modigliani",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35801
+    ],
+    "artist_titles": [
+        "Amedeo Modigliani"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "graphite",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f747db10-b578-90f1-61aa-5770e5954440",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1947.791"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bust of Zborowski"
+            ],
+            "weight": 465,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-19T14:15:43-06:00",
+    "updated_at": "2023-04-07T13:25:37-05:00",
+    "timestamp": "2023-09-24T01:09:31-05:00"
+}

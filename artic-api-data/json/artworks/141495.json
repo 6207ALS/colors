@@ -1,0 +1,175 @@
+{
+    "id": 141495,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/141495",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACkmOyopOy0sOy4rPC4uPjs2Rzk4S0w5REJEUEdFV0tJUUpLVUZHWEdJWUpKWU9PW1xMUFFSWlNSX1NUXF1XW1dZY1lYZmJpdG1tdG9ueHp2fIdpYo1wbIB5dQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4NU8TpIxBwQMGrdRhWB1CmEEUoVM0YKFADs=",
+        "width": 3000,
+        "height": 2337,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "1985.268e",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1983,
+    "date_end": 1983,
+    "date_display": "1983",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Ruth Connor\nAmerican, 20th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "26.7 \u00d7 34.4 cm (10 9/16 \u00d7 13 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 34.4,
+            "width_in": 13.5434,
+            "height_cm": 26.7,
+            "height_in": 10.5119,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Gift of The Faculty and Photography Graduate Students of the School of The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.2771,
+    "color": {
+        "h": 359,
+        "l": 61,
+        "s": 55,
+        "percentage": 0.0016274628938460203,
+        "population": 9
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 48175,
+    "artist_title": "Ruth Connor",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        48175
+    ],
+    "artist_titles": [
+        "Ruth Connor"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Women artists"
+    ],
+    "term_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-558",
+    "classification_title": "chromogenic color print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-558",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "f4aa5303-f825-bcbc-93a0-f9a7582a3cf2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.268e"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 246,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:21:53-05:00",
+    "timestamp": "2023-09-24T01:22:36-05:00"
+}

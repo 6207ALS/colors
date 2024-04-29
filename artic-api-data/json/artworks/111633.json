@@ -1,0 +1,167 @@
+{
+    "id": 111633,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111633",
+    "is_boosted": false,
+    "title": "The Uffizi I, Florence",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAD0lFlIpF0wvIVA8Mm8/KE1GOl1NPHRLMnFPO2tQOnRWPm5kWWtkXXpjVHFmXW90dIuIf6KOfJSKgZ+Th6+jl5mjqbWzrbiyqLG7v6m7xb/DwbrL1sjKyMfW4AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYNZhi8NsGmdNUmVcVBI9BdQcyiAgRACEADs=",
+        "width": 2931,
+        "height": 2250,
+        "alt_text": "A work made of chromogenic print mounted to acrylic, edition number three of ten."
+    },
+    "main_reference_number": "1991.29",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Thomas Struth\nGerman, born 1954",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "180.3 \u00d7 215.9 cm (71 \u00d7 85 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 215.9,
+            "width_in": 85,
+            "height_cm": 180.3,
+            "height_in": 71,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Chromogenic print mounted to acrylic, edition number three of ten",
+    "inscriptions": null,
+    "credit_line": "Solomon B. Smith Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.1815,
+    "color": {
+        "h": 201,
+        "l": 69,
+        "s": 14,
+        "percentage": 0.12027406352157324,
+        "population": 656
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 37458,
+    "artist_title": "Thomas Struth",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37458
+    ],
+    "artist_titles": [
+        "Thomas Struth"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "photograph",
+        "modern and contemporary art",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-155",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-155",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "modern and contemporary art",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0918d308-f8c1-8dd1-562d-ec7e714d3caa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.29"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Uffizi I, Florence"
+            ],
+            "weight": 322,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:13:52-05:00",
+    "timestamp": "2023-09-24T01:09:55-05:00"
+}

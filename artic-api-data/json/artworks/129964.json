@@ -1,0 +1,186 @@
+{
+    "id": 129964,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/129964",
+    "is_boosted": false,
+    "title": "Jar",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFxcXF1eXl5eXl9gYGFjZmpnY2dpbHZsYnhvY3l2c3FzeI90UoaCfo2FeMecYXx+gIeHhomKi4yMjIyNj4+Pj5OPiZSUlKWYhOG8iAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoDAUAWAgWEM8h3MpUbJUkwQxlBUCADs=",
+        "width": 3001,
+        "height": 3000,
+        "alt_text": "A work made of stone."
+    },
+    "main_reference_number": "X119",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": -2707,
+    "date_end": -2219,
+    "date_display": "Old Kingdom, Dynasty 3\u20138 (2707\u20132219 BCE)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Egyptian",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "7.6 \u00d7 4.5 \u00d7 4.5 cm (3 \u00d7 1 3/4 \u00d7 1 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 4.5,
+            "depth_in": 1.75,
+            "width_cm": 4.5,
+            "width_in": 1.75,
+            "height_cm": 7.6,
+            "height_in": 3,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stone",
+    "inscriptions": null,
+    "credit_line": "Museum Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 43,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.4388,
+    "color": {
+        "h": 157,
+        "l": 43,
+        "s": 0,
+        "percentage": 0.44156820033518657,
+        "population": 3138
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of Africa",
+    "department_id": "PC-1",
+    "artist_id": 37541,
+    "artist_title": "Ancient Egyptian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37541
+    ],
+    "artist_titles": [
+        "Ancient Egyptian"
+    ],
+    "category_ids": [
+        "PC-1"
+    ],
+    "category_titles": [
+        "Arts of Africa"
+    ],
+    "term_titles": [
+        "stone",
+        "old kingdom",
+        "vessel",
+        "stone",
+        "first intermediate period",
+        "ancient art",
+        "egyptian"
+    ],
+    "style_id": "TM-4365",
+    "style_title": "old kingdom",
+    "alt_style_ids": [
+        "TM-4370",
+        "TM-4805"
+    ],
+    "style_ids": [
+        "TM-4365",
+        "TM-4370",
+        "TM-4805"
+    ],
+    "style_titles": [
+        "old kingdom",
+        "first intermediate period",
+        "egyptian"
+    ],
+    "classification_id": "TM-27",
+    "classification_title": "vessel",
+    "alt_classification_ids": [
+        "TM-96",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-27",
+        "TM-96",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "vessel",
+        "stone",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2434",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2434"
+    ],
+    "material_titles": [
+        "stone"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "87eae297-0baf-b070-0f2f-0675f6067575",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "X119"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jar"
+            ],
+            "weight": 277,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-09-23T23:22:16-05:00",
+    "timestamp": "2023-09-24T01:18:50-05:00"
+}

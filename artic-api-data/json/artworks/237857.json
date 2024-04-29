@@ -1,0 +1,192 @@
+{
+    "id": 237857,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/237857",
+    "is_boosted": false,
+    "title": "Curtain Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAI19YZGBZpGDa5aFaZeGaZWFapWGa5OFbpmKcZuLcgAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI8IgATBkEpQgAOw==",
+        "width": 2738,
+        "height": 6245,
+        "alt_text": "A work made of cotton and dyes; block printed plain weave."
+    },
+    "main_reference_number": "2017.78",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1920,
+    "date_display": "c. 1910",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Manufactured by Marshall Field and Company\nAmerican, 1852-2006",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "227.3 \u00d7 903 cm (89 1/2 \u00d7 35 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 903,
+            "width_in": 35.5625,
+            "height_cm": 227.3,
+            "height_in": 89.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and dyes; block printed plain weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Lorna Ann Filiippini",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.3702,
+    "color": {
+        "h": 45,
+        "l": 32,
+        "s": 26,
+        "percentage": 0.05770728642440716,
+        "population": 935
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 16330,
+    "artist_title": "Marshall Field & Company Collection",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        16330
+    ],
+    "artist_titles": [
+        "Marshall Field & Company Collection"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "weaving",
+        "cotton (textile)",
+        "block printing",
+        "Chicago",
+        "dye",
+        "dyeing",
+        "plain weaving",
+        "textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-159",
+    "classification_title": "weaving",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-159",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "weaving",
+        "textile"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-2578",
+    "alt_material_ids": [
+        "TM-3394"
+    ],
+    "material_ids": [
+        "TM-2578",
+        "TM-3394"
+    ],
+    "material_titles": [
+        "cotton (textile)",
+        "dye"
+    ],
+    "technique_id": "TM-3942",
+    "alt_technique_ids": [
+        "TM-4293",
+        "TM-10513"
+    ],
+    "technique_ids": [
+        "TM-3942",
+        "TM-4293",
+        "TM-10513"
+    ],
+    "technique_titles": [
+        "block printing",
+        "dyeing",
+        "plain weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "ac2fe79f-5881-2f40-6940-bf959e126552",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.78"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Curtain Panel"
+            ],
+            "weight": 12,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:00:37-05:00",
+    "timestamp": "2023-09-24T01:52:27-05:00"
+}

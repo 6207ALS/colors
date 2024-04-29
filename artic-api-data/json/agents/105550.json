@@ -1,0 +1,33 @@
+{
+    "id": 105550,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/105550",
+    "title": "T.A.C. Colenbrander",
+    "sort_title": "Colenbrander, T.A.C.",
+    "alt_titles": [
+        "Theodoor Christian Adriaan Colenbrander",
+        "T.C.A. Colenbrander"
+    ],
+    "is_artist": true,
+    "birth_date": 1841,
+    "death_date": 1930,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "T.A.C. Colenbrander",
+            "Colenbrander, T.A.C.",
+            "Theodoor Christian Adriaan Colenbrander",
+            "T.C.A. Colenbrander"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-30T11:58:43-05:00",
+    "updated_at": "2021-06-30T12:00:47-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 103288,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/103288",
+    "is_boosted": false,
+    "title": "Horse in the Wind",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAEo7M0k9NE9HPFFAN1ZHOlVHPGRcTmxeT3dpWHdrWgAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI0JwAyhAkoQgAOw==",
+        "width": 1189,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print; edition 80/80."
+    },
+    "main_reference_number": "1984.1319",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1959,
+    "date_end": 1959,
+    "date_display": "1959",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Nakayama Tadashi\nJapanese, born 1927",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "39.2 \u00d7 16 cm (15 7/16 \u00d7 6 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16,
+            "width_in": 6.3125,
+            "height_cm": 39.2,
+            "height_in": 15.4375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; edition 80/80",
+    "inscriptions": null,
+    "credit_line": "Bequest of Hans G. Cahen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.955,
+    "color": {
+        "h": 7,
+        "l": 40,
+        "s": 65,
+        "percentage": 0.007696336042108997,
+        "population": 138
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 35953,
+    "artist_title": "Nakayama Tadashi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35953
+    ],
+    "artist_titles": [
+        "Nakayama Tadashi"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e9f58621-5ee5-c20e-0e50-45a4060aa60c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.1319"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Horse in the Wind"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:29:29-05:00",
+    "timestamp": "2023-09-24T01:06:36-05:00"
+}

@@ -1,0 +1,42 @@
+{
+    "id": 35577,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35577",
+    "title": "\u00c9douard Manet",
+    "sort_title": "Manet, \u00c9douard",
+    "alt_titles": [
+        "Edouard Manet",
+        "Eduard Mane"
+    ],
+    "is_artist": true,
+    "birth_date": 1832,
+    "death_date": 1883,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "\u00c9douard Manet",
+            "Manet, \u00c9douard",
+            "Edouard Manet",
+            "Eduard Mane"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "\u00c9douard Manet",
+            "Manet, \u00c9douard",
+            "Edouard Manet",
+            "Eduard Mane"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-01-26T15:52:18-06:00",
+    "updated_at": "2023-09-23T23:23:46-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

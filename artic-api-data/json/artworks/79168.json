@@ -1,0 +1,155 @@
+{
+    "id": 79168,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/79168",
+    "is_boosted": false,
+    "title": "Towel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJqIeJuKeauXfquXf5uPh52QiaWXiqeZjqyhl6yhmKyim62im62jm66jmranlbWnlreolrepl7iolrepmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYOI8SANFCyNNyiEMRhEARAgAOw==",
+        "width": 1708,
+        "height": 2250,
+        "alt_text": "A work made of embroidered floral borders."
+    },
+    "main_reference_number": "1953.72",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1850,
+    "date_end": 1900,
+    "date_display": "1850/1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Turkey",
+    "place_of_origin": "Turkey",
+    "description": null,
+    "dimensions": "200.9 \u00d7 70 cm (79 \u00d7 27 1/2 in.",
+    "dimensions_detail": [],
+    "medium_display": "Embroidered floral borders",
+    "inscriptions": null,
+    "credit_line": "Gift of Burton Y. Berry",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.0578,
+    "color": {
+        "h": 7,
+        "l": 65,
+        "s": 4,
+        "percentage": 0.45869355618835905,
+        "population": 4296
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 37573,
+    "artist_title": "Anonymous",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37573
+    ],
+    "artist_titles": [
+        "Anonymous"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9077ac19-0f0c-2509-3c81-5f01f49cda94",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1953.72"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Towel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:10-05:00",
+    "updated_at": "2023-04-10T15:25:07-05:00",
+    "timestamp": "2023-09-24T00:54:07-05:00"
+}

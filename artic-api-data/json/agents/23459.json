@@ -1,0 +1,33 @@
+{
+    "id": 23459,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/23459",
+    "title": "Takeuchi Seiho",
+    "sort_title": "Takeuchi Seiho",
+    "alt_titles": [
+        "Seih\u00f4",
+        "Takeuchi Tsunekichi"
+    ],
+    "is_artist": true,
+    "birth_date": 1864,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Takeuchi Seiho",
+            "Takeuchi Seiho",
+            "Seih\u00f4",
+            "Takeuchi Tsunekichi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:21-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

@@ -1,0 +1,171 @@
+{
+    "id": 193330,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/193330",
+    "is_boosted": false,
+    "title": "New Dawn No. 1",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHluVHZvY3x1Ynt1aoyBbpCCbJ2Th5+ZjpyXkZ2YkKqdhaObkKefla2kmrSso7WspbaupbayqMW/t8vFvc3HwNDKxNHNxtHMyeHf3QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoFRRBrNAWHQQjTUpA3I5hZA8ARACADs=",
+        "width": 1152,
+        "height": 1152,
+        "alt_text": "A work made of ink and color on paper."
+    },
+    "main_reference_number": "2008.17",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1992,
+    "date_end": 2002,
+    "date_display": "1997",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wucius Wong\nChinese, born 1936",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "100 \u00d7 102 cm (39 1/4 \u00d7 40 in.); 122 \u00d7 122 cm (48 \u00d7 48 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Ink and color on paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Fred Eychaner and Tommy Yang Guo in Honor of Jay Xu",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Wucius Wong",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.1262,
+    "color": {
+        "h": 40,
+        "l": 50,
+        "s": 61,
+        "percentage": 0.0040807768673423875,
+        "population": 29
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 77979,
+    "artist_title": "Wucius Wong",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        77979
+    ],
+    "artist_titles": [
+        "Wucius Wong"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "ink",
+        "Chinese (culture or style)",
+        "ink",
+        "21st Century",
+        "painting"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [
+        "TM-12913"
+    ],
+    "style_ids": [
+        "TM-4303",
+        "TM-12913"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)",
+        "21st Century"
+    ],
+    "classification_id": "TM-1627",
+    "classification_title": "ink",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-1627",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "ink",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4f1c1a17-8b0a-c5b6-0d21-0e14df8da323",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.17"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "New Dawn No. 1"
+            ],
+            "weight": 219,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:40-05:00",
+    "updated_at": "2023-04-10T15:20:15-05:00",
+    "timestamp": "2023-09-24T01:37:37-05:00"
+}

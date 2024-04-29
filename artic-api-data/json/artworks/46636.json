@@ -1,0 +1,163 @@
+{
+    "id": 46636,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46636",
+    "is_boosted": false,
+    "title": "Spandrel Panel from the Saint Nicholas Hotel, St. Louis, Missouri",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADItKU9EO1VIP09HQFRMRldNRlROSV9RRmteU4BuYIRzZIV/epCAcJCJgpSNhpuQh5eQiZqRiJiTjaCZkKKcla2hlLKonbOtqLWuqdbTz9fV0N/d1+Lc1eHc1+Ld1uLf2ePf2ePg2uPh3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAxm4XhcNBsJgBBodD6UgaEAAYUmB4QgIuJYFIxExRMEADs=",
+        "width": 3000,
+        "height": 2229,
+        "alt_text": "A work made of terra-cotta."
+    },
+    "main_reference_number": "1974.82a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1892,
+    "date_end": 1893,
+    "date_display": "1892/93",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Adler & Sullivan\nAmerican, 1883-1895\nDesigner: Louis H. Sullivan",
+    "place_of_origin": "Saint Louis",
+    "description": null,
+    "dimensions": "137.2 \u00d7 122 \u00d7 10.2 cm (54 \u00d7 48 \u00d7 4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.2,
+            "depth_in": 4,
+            "width_cm": 122,
+            "width_in": 48,
+            "height_cm": 137.2,
+            "height_in": 54,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Terra-cotta",
+    "inscriptions": null,
+    "credit_line": "By exchange from Southern Illinois University",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.0781,
+    "color": {
+        "h": 233,
+        "l": 65,
+        "s": 2,
+        "percentage": 0.008716776763347091,
+        "population": 46
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 30393,
+    "artist_title": "Adler & Sullivan, Architects",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30393
+    ],
+    "artist_titles": [
+        "Adler & Sullivan, Architects"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f82fbedd-b143-3e6f-617f-16bd1276f830",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.82a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Spandrel Panel from the Saint Nicholas Hotel, St. Louis, Missouri"
+            ],
+            "weight": 108,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-18T10:13:38-05:00",
+    "updated_at": "2023-07-18T10:15:53-05:00",
+    "timestamp": "2023-09-24T00:40:45-05:00"
+}

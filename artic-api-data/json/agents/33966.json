@@ -1,0 +1,35 @@
+{
+    "id": 33966,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33966",
+    "title": "Christo",
+    "sort_title": "Christo",
+    "alt_titles": [
+        "Christo Javacheff",
+        "Christo, (Christo Vladimirov Javacheff)",
+        "Christo Javatcheff"
+    ],
+    "is_artist": true,
+    "birth_date": 1935,
+    "death_date": 2020,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Christo",
+            "Christo",
+            "Christo Javacheff",
+            "Christo, (Christo Vladimirov Javacheff)",
+            "Christo Javatcheff"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-01-04T08:47:54-06:00",
+    "updated_at": "2022-04-22T10:54:54-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

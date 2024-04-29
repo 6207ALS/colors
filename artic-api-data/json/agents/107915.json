@@ -1,0 +1,43 @@
+{
+    "id": 107915,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/107915",
+    "title": "Juan Laurent",
+    "sort_title": "Laurent, Juan",
+    "alt_titles": [
+        "J. L.",
+        "Jean Laurent y Minier",
+        "J. Laurent",
+        "Jean Laurent",
+        "Juan y Cia Laurent",
+        "Jules Laurent",
+        "Jean Laurent y Minier"
+    ],
+    "is_artist": true,
+    "birth_date": 1816,
+    "death_date": 1892,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan Laurent",
+            "Laurent, Juan",
+            "J. L.",
+            "Jean Laurent y Minier",
+            "J. Laurent",
+            "Jean Laurent",
+            "Juan y Cia Laurent",
+            "Jules Laurent",
+            "Jean Laurent y Minier"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:44:18-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

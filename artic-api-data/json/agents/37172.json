@@ -1,0 +1,41 @@
+{
+    "id": 37172,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37172",
+    "title": "Jan van Vliet",
+    "sort_title": "Vliet, Jan van",
+    "alt_titles": [
+        "Jan Georg van Vliet",
+        "Jan Joris van Vliet",
+        "Jan Joris van der Vliet",
+        "Georg van der Vliet",
+        "Johannes van Vliet",
+        "Joris van Vliet"
+    ],
+    "is_artist": true,
+    "birth_date": 1610,
+    "death_date": 1635,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan van Vliet",
+            "Vliet, Jan van",
+            "Jan Georg van Vliet",
+            "Jan Joris van Vliet",
+            "Jan Joris van der Vliet",
+            "Georg van der Vliet",
+            "Johannes van Vliet",
+            "Joris van Vliet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T10:16:19-06:00",
+    "updated_at": "2023-02-15T10:17:15-06:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

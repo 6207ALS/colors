@@ -1,0 +1,191 @@
+{
+    "id": 258389,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/258389",
+    "is_boosted": false,
+    "title": "Letterhead, Personal Stationary",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAANDP2NTT2+Xk5ebk5ebk5ubl5ufl5ujm5+jn5+jn6Onn6Ozq6ezr6gAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAQOcAXAEErmKEW0EkdRDBEAOw==",
+        "width": 5670,
+        "height": 7251,
+        "alt_text": "A work made of paper."
+    },
+    "main_reference_number": "2020.479",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Dan Friedman\nAmerican, 1945\u20131995",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "27.9 \u00d7 21.6 cm (11 \u00d7 8 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21.6,
+            "width_in": 8.5,
+            "height_cm": 27.9,
+            "height_in": 11,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Ken Friedman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 238,
+        "l": 38,
+        "s": 36,
+        "percentage": 5.837545487248977e-5,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 8871,
+    "artist_title": "Dan Friedman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        8871
+    ],
+    "artist_titles": [
+        "Dan Friedman"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "20th Century",
+        "design",
+        "design",
+        "graphic design",
+        "graphic design",
+        "logo",
+        "stationary"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-13174",
+    "classification_title": "design",
+    "alt_classification_ids": [
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-13174",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "design",
+        "graphic design"
+    ],
+    "subject_id": "TM-12574",
+    "alt_subject_ids": [
+        "TM-13337",
+        "TM-13915",
+        "TM-13878"
+    ],
+    "subject_ids": [
+        "TM-12574",
+        "TM-13337",
+        "TM-13915",
+        "TM-13878"
+    ],
+    "subject_titles": [
+        "design",
+        "graphic design",
+        "logo",
+        "stationary"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3232d8d0-bec3-b461-fc34-ce5f93da23eb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.479"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Letterhead, Personal Stationary"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:37-05:00",
+    "updated_at": "2023-09-23T23:17:11-05:00",
+    "timestamp": "2023-09-24T01:57:16-05:00"
+}

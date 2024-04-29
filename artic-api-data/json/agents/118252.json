@@ -1,0 +1,28 @@
+{
+    "id": 118252,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/118252",
+    "title": "Jean Kendall Glazer",
+    "sort_title": "Glazer, Jean Kendall",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1918,
+    "death_date": 2015,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Kendall Glazer",
+            "Glazer, Jean Kendall"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-12-05T09:04:25-06:00",
+    "updated_at": "2022-12-05T09:05:53-06:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

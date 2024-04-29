@@ -1,0 +1,35 @@
+{
+    "id": 56912,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/56912",
+    "title": "Tim Rollins + K.O.S.",
+    "sort_title": "Tim Rollins + K.O.S.",
+    "alt_titles": [
+        "Rollins (Tim) + K.O.S.",
+        "K.O.S. (Group of artists)",
+        "Kids of Survival (Group of artists)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tim Rollins + K.O.S.",
+            "Tim Rollins + K.O.S.",
+            "Rollins (Tim) + K.O.S.",
+            "K.O.S. (Group of artists)",
+            "Kids of Survival (Group of artists)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:26:52-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

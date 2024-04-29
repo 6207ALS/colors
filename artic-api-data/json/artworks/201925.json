@@ -1,0 +1,162 @@
+{
+    "id": 201925,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/201925",
+    "is_boosted": false,
+    "title": "Untitled, 1967",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAOfk3+fn5+jk4Ojl4enm4ujo6O/v7/Dw8PHx8fHy8/Ly8vLy8wAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAQLsIRQlLXGXEsIIBEAOw==",
+        "width": 1878,
+        "height": 2503,
+        "alt_text": "A work made of gray-painted elastic cord."
+    },
+    "main_reference_number": "Obj: 201925",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1967",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fred Sandback\nAmerican, 1943\u20132003",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "358.8 \u00d7 10.2 \u00d7 0.2 cm (141 1/4 \u00d7 4 \u00d7 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0.2,
+            "depth_in": 0.0625,
+            "width_cm": 10.2,
+            "width_in": 4,
+            "height_cm": 358.8,
+            "height_in": 141.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gray-painted elastic cord",
+    "inscriptions": null,
+    "credit_line": "Promised gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 245,
+        "l": 78,
+        "s": 0,
+        "percentage": 0.011019790096399765,
+        "population": 518
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 57283,
+    "artist_title": "Fred Sandback",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        57283
+    ],
+    "artist_titles": [
+        "Fred Sandback"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "709d7f10-cb7c-96f5-0e49-f4bd026b562b",
+    "alt_image_ids": [
+        "a787437a-39b0-fa19-c4b1-28e8324ec0be"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "Obj: 201925"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled, 1967"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-19T13:24:16-05:00",
+    "updated_at": "2023-09-19T13:25:51-05:00",
+    "timestamp": "2023-09-24T01:40:25-05:00"
+}

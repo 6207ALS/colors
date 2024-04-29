@@ -1,0 +1,31 @@
+{
+    "id": 42020,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42020",
+    "title": "Peltro William Tomkins",
+    "sort_title": "Tomkins, Peltro William",
+    "alt_titles": [
+        "Peltro W. Tomkins"
+    ],
+    "is_artist": true,
+    "birth_date": 1760,
+    "death_date": 1840,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Peltro William Tomkins",
+            "Tomkins, Peltro William",
+            "Peltro W. Tomkins"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T10:25:40-05:00",
+    "updated_at": "2020-06-15T10:31:07-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

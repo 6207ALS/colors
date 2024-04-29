@@ -1,0 +1,31 @@
+{
+    "id": 79773,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/79773",
+    "title": "Tatiyana Borisovna Chachkhiani",
+    "sort_title": "Chachkhiani, Tatiyana Borisovna",
+    "alt_titles": [
+        "Tatiana Chachikhiani"
+    ],
+    "is_artist": true,
+    "birth_date": 1904,
+    "death_date": 1988,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tatiyana Borisovna Chachkhiani",
+            "Chachkhiani, Tatiyana Borisovna",
+            "Tatiana Chachikhiani"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:23:52-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 60777,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/60777",
+    "title": "No\u00ebl Hall\u00e9",
+    "sort_title": "Hall\u00e9, No\u00ebl",
+    "alt_titles": [
+        "No\u00efl Hall\u00e9"
+    ],
+    "is_artist": true,
+    "birth_date": 1711,
+    "death_date": 1781,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "No\u00ebl Hall\u00e9",
+            "Hall\u00e9, No\u00ebl",
+            "No\u00efl Hall\u00e9"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:22-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

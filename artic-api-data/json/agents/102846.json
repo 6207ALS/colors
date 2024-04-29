@@ -1,0 +1,31 @@
+{
+    "id": 102846,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/102846",
+    "title": "Assuerus Jansz Van Londerseel",
+    "sort_title": "Londerseel, Assuerus Jansz Van",
+    "alt_titles": [
+        "Assuerus Jansz Van Landerseel"
+    ],
+    "is_artist": true,
+    "birth_date": 1568,
+    "death_date": 1635,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Assuerus Jansz Van Londerseel",
+            "Londerseel, Assuerus Jansz Van",
+            "Assuerus Jansz Van Landerseel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:21:04-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

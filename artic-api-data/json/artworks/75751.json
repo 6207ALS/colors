@@ -1,0 +1,173 @@
+{
+    "id": 75751,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/75751",
+    "is_boosted": false,
+    "title": "Snuff Box",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGFSTGVXT3p5e4h8c46BeI2CfJSIeZeNh6agnK6trK+ura6yrr23scW8uMjEwMnGxMnKyMrKyMvLy8/MyczMys3Nys3Ny87OzM/OzNPSz9PT0dPT0tbV0wAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4MZN1aZlyNIwmDMIhPFIBRAclxUlCkSFADs=",
+        "width": 2849,
+        "height": 2250,
+        "alt_text": "A work made of gold, enamel, and pearls."
+    },
+    "main_reference_number": "1951.271",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1775,
+    "date_end": 1799,
+    "date_display": "Late 18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Geneva, Switzerland",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "2.3 \u00d7 6.8 \u00d7 4.9 cm (7/8 \u00d7 2 11/16 \u00d7 1 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 4.9,
+            "depth_in": 1.9375,
+            "width_cm": 6.8,
+            "width_in": 2.6875,
+            "height_cm": 2.3,
+            "height_in": 0.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gold, enamel, and pearls",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Harry H. Blum",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1952,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.2897,
+    "color": {
+        "h": 46,
+        "l": 68,
+        "s": 78,
+        "percentage": 0.003206053028117085,
+        "population": 18
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "snuff box",
+        "gold",
+        "enamel",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-862",
+    "classification_title": "snuff box",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-862",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "snuff box",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2452",
+    "alt_material_ids": [
+        "TM-2510"
+    ],
+    "material_ids": [
+        "TM-2452",
+        "TM-2510"
+    ],
+    "material_titles": [
+        "gold",
+        "enamel"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2240d6cf-f3b8-bddb-d059-dba605e3e765",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1951.271"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Snuff Box"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:45:55-05:00",
+    "timestamp": "2023-09-24T00:52:56-05:00"
+}

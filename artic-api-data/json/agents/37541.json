@@ -1,0 +1,39 @@
+{
+    "id": 37541,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37541",
+    "title": "Ancient Egyptian",
+    "sort_title": "Ancient Egyptian",
+    "alt_titles": [
+        "Egyptian"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": "<p>Egyptian civilization formed in northern Africa along the banks of the Nile River over six thousand years ago. The region\u2019s artists and artisans were highly trained in a visual vocabulary that endured for thousands of years\u2014and which continues to influence artistic and architectural forms to this day. Although these ancient artists rarely signed their work, their talents were highly regarded, as evidenced by the images on the walls of many tombs depicting artists and craftsmen sculpting and polishing statues, producing intricate jewelry, and carving wooden furniture, among other artistic pursuits. The artworks they produced served a range of functions\u2014given as gifts to their gods as acts of worship, placed in tombs to aid the dead in the afterlife, and used in daily life.</p><p>Draftsmen, sculptors, and painters usually worked in teams attached to the royal court or one of Egypt\u2019s many temples. They sometimes lived in distinct workmen\u2019s villages, such as Deir el-Medina in modern Luxor, likely where a skilled artist produced the <a href=\"https://www.artic.edu/artworks/121738/sketch-of-a-king\" target=\"_blank\"><em>Sketch of a King</em></a>, the Art Institute's oldest drawing. These teams used a system of proportion and style that gave ancient Egyptian art its iconic look, but also allowed for innovation and the creation of exceptional works.</p><p>In 1890 the Art Institute became the first Chicago museum to acquire an ancient Egyptian artifact: the <a href=\"https://www.artic.edu/artworks/487/ushabti-funerary-figurine-of-horudja\" target=\"_blank\"><em>Ushabti (Funerary Figurine) of Horudja</em></a>. What is now the Oriental Institute Museum at the University of Chicago and the Field Museum soon followed, forming collections of their own and establishing Chicago as a center for studying ancient Egypt in the United States. Today the Art Institute\u2019s collection includes works that span the entirety of ancient Egyptian history\u2014from about 4000 BCE to the first centuries CE. The museum\u2019s holdings showcase ancient Egyptians\u2019 mastery of many media and forms, including stone sculpture, copper alloy statuettes, faience figurines, gold amulets, wooden coffins, and painted cartonnage mummy masks.&nbsp;</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Ancient Egyptian",
+            "Ancient Egyptian",
+            "Egyptian"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ancient Egyptian",
+            "Ancient Egyptian",
+            "Egyptian"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:22:16-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

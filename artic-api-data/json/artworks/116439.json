@@ -1,0 +1,167 @@
+{
+    "id": 116439,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/116439",
+    "is_boosted": false,
+    "title": "Gauntlet from a Tournament Garniture of a Hapsburg Prince",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpdY2NjY2RkZGNmbWdqbmhoaGpqaW1tbHR0dHd3d3N0eH1+f4GAgaOkpKOkpaioqKqqqr6+vsTExQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYFAIgQEMB0IsSaMwUOQ8UggAOw==",
+        "width": 1745,
+        "height": 2250,
+        "alt_text": "A work made of steel, gilding, brass, and leather."
+    },
+    "main_reference_number": "1982.2643",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1560,
+    "date_end": 1590,
+    "date_display": "1571",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Attributed to Anton Peffenhauser \n(German 1525\u20141603) Augsburg",
+    "place_of_origin": "Augsburg",
+    "description": null,
+    "dimensions": "13.3 \u00d7 13.3 \u00d7 28 cm (5 1/4 \u00d7 5 1/4 \u00d7 11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 28,
+            "depth_in": 11,
+            "width_cm": 13.3,
+            "width_in": 5.25,
+            "height_cm": 13.3,
+            "height_in": 5.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Steel, gilding, brass, and leather",
+    "inscriptions": null,
+    "credit_line": "George F. Harding Collection",
+    "catalogue_display": null,
+    "publication_history": "Walter Karchieski, \"Arms and Armor in the Art Institute of Chicago\" (Art Institute of Chicago/Little, Brown, and Company, 1995), p. 48 (ill.)",
+    "exhibition_history": null,
+    "provenance_text": "Hermitage Museum, Leningrad before 1930; sold  by Hal Furmage, London, 1930 to George F. Harding, Jr.; transferred to the George F. Harding Museum; transferred to the Art Institute of Chicago, 1982.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.4632,
+    "color": {
+        "h": 37,
+        "l": 56,
+        "s": 42,
+        "percentage": 0.0008730374391192798,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 239",
+    "gallery_id": 28498,
+    "nomisma_id": null,
+    "artwork_type_title": "Armor",
+    "artwork_type_id": 29,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 71609,
+    "artist_title": "Anton Peffenhauser",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        71609
+    ],
+    "artist_titles": [
+        "Anton Peffenhauser"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "arms and armor",
+        "suit-gauntlet",
+        "armor"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-351",
+    "classification_title": "arms and armor",
+    "alt_classification_ids": [
+        "TM-1142",
+        "TM-64"
+    ],
+    "classification_ids": [
+        "TM-351",
+        "TM-1142",
+        "TM-64"
+    ],
+    "classification_titles": [
+        "arms and armor",
+        "suit-gauntlet",
+        "armor"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1dce282e-639b-2d75-93b2-fd1308e009d9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.2643"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Gauntlet from a Tournament Garniture of a Hapsburg Prince"
+            ],
+            "weight": 1903,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-12T10:45:00-05:00",
+    "updated_at": "2023-07-12T10:46:09-05:00",
+    "timestamp": "2023-09-24T01:11:38-05:00"
+}

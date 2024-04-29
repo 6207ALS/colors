@@ -1,0 +1,33 @@
+{
+    "id": 65373,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65373",
+    "title": "Willem Claesz. Heda",
+    "sort_title": "Heda, Willem Claesz.",
+    "alt_titles": [
+        "Willem C. Heda",
+        "Claesz. Heda"
+    ],
+    "is_artist": true,
+    "birth_date": 1594,
+    "death_date": 1682,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Willem Claesz. Heda",
+            "Heda, Willem Claesz.",
+            "Willem C. Heda",
+            "Claesz. Heda"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-08-04T16:59:05-05:00",
+    "updated_at": "2023-08-04T17:00:58-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

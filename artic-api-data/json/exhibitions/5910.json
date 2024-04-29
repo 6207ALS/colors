@@ -1,0 +1,40 @@
+{
+    "id": 5910,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5910",
+    "title": "Paintings and Drawings by Gros, Gericault, Delacroix,lent by Museums and Private Collections of France",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1938-12-15T00:00:00-06:00",
+    "aic_end_at": "1939-01-15T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "cf79e632-9fc0-93e1-5d4c-c6dcfbe213d0",
+        "ad612af7-9707-e007-4f5d-3f99ac0b05df",
+        "7bf092e7-b065-d32b-b545-5701b06cc9a6"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings and Drawings by Gros, Gericault, Delacroix,lent by Museums and Private Collections of France"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:18:35-06:00",
+    "timestamp": "2023-09-24T02:01:41-05:00"
+}

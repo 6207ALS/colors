@@ -1,0 +1,31 @@
+{
+    "id": 44185,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44185",
+    "title": "Louis Emmanuel Soulange-Teissier",
+    "sort_title": "Soulange-Teissier, Louis Emmanuel",
+    "alt_titles": [
+        "Teissier, Louis Emmanuel Soulange-"
+    ],
+    "is_artist": true,
+    "birth_date": 1814,
+    "death_date": 1898,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Emmanuel Soulange-Teissier",
+            "Soulange-Teissier, Louis Emmanuel",
+            "Teissier, Louis Emmanuel Soulange-"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:31:17-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

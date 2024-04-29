@@ -1,0 +1,45 @@
+{
+    "id": 36351,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36351",
+    "title": "Pierre-Auguste Renoir",
+    "sort_title": "Renoir, Pierre-Auguste",
+    "alt_titles": [
+        "Pierre Auguste Renoir",
+        "Auguste Renoir",
+        "\u76ae\u57c3\u5c14-\u5965\u53e4\u65af\u7279\u00b7\u96f7\u8bfa\u963f"
+    ],
+    "is_artist": true,
+    "birth_date": 1841,
+    "death_date": 1919,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Pierre-Auguste Renoir",
+            "Renoir, Pierre-Auguste",
+            "Pierre Auguste Renoir",
+            "Auguste Renoir",
+            "\u76ae\u57c3\u5c14-\u5965\u53e4\u65af\u7279\u00b7\u96f7\u8bfa\u963f"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre-Auguste Renoir",
+            "Renoir, Pierre-Auguste",
+            "Pierre Auguste Renoir",
+            "Auguste Renoir",
+            "\u76ae\u57c3\u5c14-\u5965\u53e4\u65af\u7279\u00b7\u96f7\u8bfa\u963f"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-14T15:11:30-05:00",
+    "updated_at": "2023-09-23T23:23:12-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

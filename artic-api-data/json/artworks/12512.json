@@ -1,0 +1,224 @@
+{
+    "id": 12512,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/12512",
+    "is_boosted": false,
+    "title": "Auld Lang Syne Album",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMzIt83Nv9DNvM3NwNHPwNLPwNLQwNTTw9XTx9bUx9fWyNfWydfXydjYy9jZzNnZzNnZzdnazAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIAkhAE1yzEEj+FEjLAoRQgAOw==",
+        "width": 2501,
+        "height": 3000,
+        "alt_text": "A work made of album (albumen prints, drawings, text and newspaper clippings)."
+    },
+    "main_reference_number": "1960.817.1-144",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1855,
+    "date_end": 1868,
+    "date_display": "1855/68",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Georgina Cowper, attributed\nEnglish, mid 19th century",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Each page, approx: 29 \u00d7 24 cm (11 7/16 \u00d7 9 1/2 in.); Album: 30.4 \u00d7 24.8 \u00d7 7 cm (12 \u00d7 9 13/16 \u00d7 2 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24,
+            "width_in": 9.4489,
+            "height_cm": 29,
+            "height_in": 11.4174,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Each page, approx"
+        },
+        {
+            "depth_cm": 7,
+            "depth_in": 2.756,
+            "width_cm": 24.8,
+            "width_in": 9.7638,
+            "height_cm": 30.4,
+            "height_in": 11.9686,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Album"
+        }
+    ],
+    "medium_display": "Album (albumen prints, drawings, text and newspaper clippings)",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Photo Gallery",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.1334,
+    "color": {
+        "h": 48,
+        "l": 49,
+        "s": 51,
+        "percentage": 0.0004693331831467147,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 114780,
+    "artist_title": "Georgina Cowper",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114780
+    ],
+    "artist_titles": [
+        "Georgina Cowper"
+    ],
+    "category_ids": [
+        "PC-800",
+        "PC-810",
+        "PC-12"
+    ],
+    "category_titles": [
+        "Collected by Hugh Edwards",
+        "George Cowper, Untitled Album (1849/60)",
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "album/sketchbook",
+        "ink",
+        "Collected by Hugh Edwards",
+        "19th century",
+        "coating (material)",
+        "prints and drawing",
+        "Paris",
+        "Untitled Album 1849-60",
+        "Auld Lang Syne",
+        "photograph",
+        "photography"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-401",
+    "classification_title": "album/sketchbook",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-401",
+        "TM-4",
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "album/sketchbook",
+        "prints and drawing",
+        "photograph",
+        "photography"
+    ],
+    "subject_id": "TM-13177",
+    "alt_subject_ids": [
+        "TM-12405",
+        "TM-13225",
+        "TM-13226"
+    ],
+    "subject_ids": [
+        "TM-13177",
+        "TM-12405",
+        "TM-13225",
+        "TM-13226"
+    ],
+    "subject_titles": [
+        "Collected by Hugh Edwards",
+        "Paris",
+        "Untitled Album 1849-60",
+        "Auld Lang Syne"
+    ],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-3238"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_titles": [
+        "ink",
+        "coating (material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fd34597c-f27d-ac99-40d4-ca4c733d0d6a",
+    "alt_image_ids": [
+        "ccd6cab1-b9c4-ddad-d481-90e0645de927",
+        "391ed8ad-3a20-3588-ac75-36bec00b6766",
+        "4d7bfcb7-829e-a00e-5c46-4603d1adf43d",
+        "ee34c8d3-7263-38cc-923d-c16d97e1f309"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1960.817.1-144"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Auld Lang Syne Album"
+            ],
+            "weight": 40,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:44:33-05:00",
+    "timestamp": "2023-09-24T00:25:32-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 33440,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33440",
+    "title": "Adolphe Appian",
+    "sort_title": "Appian, Adolphe",
+    "alt_titles": [
+        "Jacques B. Appian",
+        "Jacques Barth\u00e9l\u00e9my Appian",
+        "Jacques Barthelemy (Adolphe) Appian"
+    ],
+    "is_artist": true,
+    "birth_date": 1818,
+    "death_date": 1898,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adolphe Appian",
+            "Appian, Adolphe",
+            "Jacques B. Appian",
+            "Jacques Barth\u00e9l\u00e9my Appian",
+            "Jacques Barthelemy (Adolphe) Appian"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:51:54-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

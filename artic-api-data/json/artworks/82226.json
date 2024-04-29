@@ -1,0 +1,183 @@
+{
+    "id": 82226,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/82226",
+    "is_boosted": false,
+    "title": "Catherine II, Empress of Russia",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGtfTHtsVX9vWX5vXH9yW4NzWoN3Y4Z4YIl7Y4l8ZIt9Zox+ZI6Aa5aIb6SUfAAAACH5BAAAAAAALAAAAAADAAUAAAQL0ImBSkiNnAWYMhEAOw==",
+        "width": 1967,
+        "height": 3000,
+        "alt_text": "A work made of stipple engraving and engraving on ivory chine, laid down on paper."
+    },
+    "main_reference_number": "1954.1159",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1785,
+    "date_end": 1785,
+    "date_display": "1785",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Francesco Bartolozzi (Italian, 1727-1815)\nprobably after Michele Benedetti (Italian, 1745-1810)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "Image: 36.9 \u00d7 23.9 cm (14 9/16 \u00d7 9 7/16 in.); Sheet, cut within platemark: 40.3 \u00d7 26.2 cm (15 7/8 \u00d7 10 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23.9,
+            "width_in": 9.4095,
+            "height_cm": 36.9,
+            "height_in": 14.5276,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.2,
+            "width_in": 10.315,
+            "height_cm": 40.3,
+            "height_in": 15.8662,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, cut within platemark"
+        }
+    ],
+    "medium_display": "Stipple engraving and engraving on ivory chine, laid down on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Col. Robert R. McCormick",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1955,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.5191,
+    "color": {
+        "h": 40,
+        "l": 37,
+        "s": 37,
+        "percentage": 0.007194921492337409,
+        "population": 78
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33539,
+    "artist_title": "Francesco Bartolozzi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33539
+    ],
+    "artist_titles": [
+        "Francesco Bartolozzi"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "993bc59e-f869-d614-d7dc-b7f6f55926a2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.1159"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Catherine II, Empress of Russia"
+            ],
+            "weight": 97,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:02-05:00",
+    "updated_at": "2023-04-10T12:20:50-05:00",
+    "timestamp": "2023-09-24T00:55:45-05:00"
+}

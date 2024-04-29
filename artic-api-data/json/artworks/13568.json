@@ -1,0 +1,183 @@
+{
+    "id": 13568,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/13568",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACEeHjo3NnBsaHl0cXt3co6KhZ+akbOupLWwqLq0q7u2rr23rr64rr+4r724sL+5scC7s8K9tcS+tsS/tgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCNNS0IUjwEEyCEMCgNFTggAOw==",
+        "width": 2175,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on cream wove paper."
+    },
+    "main_reference_number": "1961.358",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1842,
+    "date_end": 1842,
+    "date_display": "1842",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Paul Gavarni\nFrench, 1804-1866",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 22.4 \u00d7 15.6 cm (8 7/8 \u00d7 6 3/16 in.); Sheet: 31.8 \u00d7 24.4 cm (12 9/16 \u00d7 9 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.6,
+            "width_in": 6.1418,
+            "height_cm": 22.4,
+            "height_in": 8.8189,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.4,
+            "width_in": 9.6063,
+            "height_cm": 31.8,
+            "height_in": 12.5197,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "John H. Wrenn Memorial Collection",
+    "catalogue_display": "<p>Armelhault & Bocher 34 III/III</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.1276,
+    "color": {
+        "h": 6,
+        "l": 7,
+        "s": 9,
+        "percentage": 0.08771849299629032,
+        "population": 860
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 9383,
+    "artist_title": "Paul Gavarni",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        9383
+    ],
+    "artist_titles": [
+        "Paul Gavarni"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "08ab1b9a-44d2-6d4f-9cbb-2e35c73a21df",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1961.358"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 211,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:42:41-05:00",
+    "timestamp": "2023-09-24T00:25:55-05:00"
+}

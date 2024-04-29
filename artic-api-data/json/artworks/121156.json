@@ -1,0 +1,189 @@
+{
+    "id": 121156,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/121156",
+    "is_boosted": false,
+    "title": "Multi Confusion/Order",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHNlVX5yYH1xYoR5aYh8bIyCdJGHdJOJeZySgKSah6abh6OZiKaci6eejbqwn8O5pcK5p8O6p8a7qQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4HAYQRNFyQI5CCM9ClEIQAgAOw==",
+        "width": 4493,
+        "height": 5665,
+        "alt_text": "A work made of collage of gelatin silver prints (12) and tape on wood."
+    },
+    "main_reference_number": "1992.717",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1988,
+    "date_end": 1989,
+    "date_display": "1988/1989",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "The Starn Twins (Doug and Mike Starn)\nAmerican, born 1961",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Overall: 81 \u00d7 60.6 cm (31 15/16 \u00d7 23 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60.6,
+            "width_in": 23.8583,
+            "height_cm": 81,
+            "height_in": 31.8898,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Overall"
+        }
+    ],
+    "medium_display": "Collage of gelatin silver prints (12) and tape on wood",
+    "inscriptions": null,
+    "credit_line": "Gift of Boardroom, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1993,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Mike & Doug Starn / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.6007,
+    "color": {
+        "h": 38,
+        "l": 94,
+        "s": 56,
+        "percentage": 0.006026052634221952,
+        "population": 54
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 25935,
+    "artist_title": "Starn Twins Doug and Mike",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        25935
+    ],
+    "artist_titles": [
+        "Starn Twins Doug and Mike"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "black-and-white photography",
+        "photographic process",
+        "photography",
+        "photograph",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-213",
+    "classification_title": "gelatin silver (developing-out-paper) pr",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-213",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "687e072d-4953-d1c0-5dad-d28588a965e5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.717"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Multi Confusion/Order"
+            ],
+            "weight": 16,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:10-05:00",
+    "updated_at": "2023-04-10T10:51:56-05:00",
+    "timestamp": "2023-09-24T01:14:11-05:00"
+}

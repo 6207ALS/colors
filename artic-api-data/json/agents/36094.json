@@ -1,0 +1,35 @@
+{
+    "id": 36094,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36094",
+    "title": "Antoine Philippe d'Orl\u00e9ans",
+    "sort_title": "Orl\u00e9ans, Antoine Philippe d'",
+    "alt_titles": [
+        "duc de Montpensier Antoine Philippe d' Orleans",
+        "Duc de Montpensier",
+        "Antoine P. d' Orleans"
+    ],
+    "is_artist": true,
+    "birth_date": 1775,
+    "death_date": 1807,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antoine Philippe d'Orl\u00e9ans",
+            "Orl\u00e9ans, Antoine Philippe d'",
+            "duc de Montpensier Antoine Philippe d' Orleans",
+            "Duc de Montpensier",
+            "Antoine P. d' Orleans"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:44:02-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

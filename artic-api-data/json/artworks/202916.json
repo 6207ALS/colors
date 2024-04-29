@@ -1,0 +1,168 @@
+{
+    "id": 202916,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202916",
+    "is_boosted": false,
+    "title": "Names",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAL6zor+0pMC1pcG2pcO2pMK3psS5p8W5p8a6p8W5qMW6qca7qce8qce8qse8q8i9qsq+q8q/q83BrszCr83Cr87DsM/EsdDFsQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDAYipAs1NBI0TVVB/NYDoFAQBECADs=",
+        "width": 1995,
+        "height": 1995,
+        "alt_text": "A work made of cotton, polyester upholstery."
+    },
+    "main_reference_number": "2010.237",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2002,
+    "date_end": 2002,
+    "date_display": "2002",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alexander Girard (American, 1907\u20131993)\nManufactured by Maharam (American, founded 1902)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "640 \u00d7 140 cm (252 \u00d7 55 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 140,
+            "width_in": 55,
+            "height_cm": 640,
+            "height_in": 252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, polyester upholstery",
+    "inscriptions": null,
+    "credit_line": "Gift of Maharam Fabric Corporation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2002 Maharam under license.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.5273,
+    "color": {
+        "h": 42,
+        "l": 55,
+        "s": 6,
+        "percentage": 0.006754389297670157,
+        "population": 48
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 55120,
+    "artist_title": "Alexander Girard",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        55120
+    ],
+    "artist_titles": [
+        "Alexander Girard"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "cotton",
+        "21st Century",
+        "design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11728",
+    "classification_title": "cotton",
+    "alt_classification_ids": [
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-11728",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "cotton",
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "865caa70-9cb2-a05c-900d-657e56214b82",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.237"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Names"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:46:31-05:00",
+    "timestamp": "2023-09-24T01:40:46-05:00"
+}

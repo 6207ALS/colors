@@ -1,0 +1,188 @@
+{
+    "id": 95523,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/95523",
+    "is_boosted": false,
+    "title": "London Memories: Kew Gardens",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHFrVXZ2W4h9Ym6DW3KLXXyBZHySaoCBYYGGZYaEZpGKaoyccJmce6OifqaqgwAAACH5BAAAAAAALAAAAAADAAUAAAQLUKgEThgLEVOYaxEAOw==",
+        "width": 5011,
+        "height": 7814,
+        "alt_text": "A work made of color lithograph on cream wove paper."
+    },
+    "main_reference_number": "1919.766",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1918,
+    "date_end": 1918,
+    "date_display": "1918",
+    "date_qualifier_title": "Published",
+    "date_qualifier_id": 10,
+    "artist_display": "Fred Taylor (English, 1875-1963)\nprinted by The Avenue Press Limited\npublished by Underground Electric Railways Company of London Limited",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "74.1 \u00d7 47.2 cm (29 3/16 \u00d7 18 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 47.2,
+            "width_in": 18.5827,
+            "height_cm": 74.1,
+            "height_in": 29.1733,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of London Underground and General Railroad",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.9575,
+    "color": {
+        "h": 48,
+        "l": 51,
+        "s": 78,
+        "percentage": 0.005416619271248043,
+        "population": 60
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36893,
+    "artist_title": "Fred Taylor",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36893
+    ],
+    "artist_titles": [
+        "Fred Taylor"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "poster",
+        "lithography",
+        "paper (fiber product)",
+        "printing",
+        "print",
+        "prints and drawing",
+        "lithograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-220",
+    "classification_title": "poster",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-71"
+    ],
+    "classification_ids": [
+        "TM-220",
+        "TM-17",
+        "TM-4",
+        "TM-71"
+    ],
+    "classification_titles": [
+        "poster",
+        "print",
+        "prints and drawing",
+        "lithograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3859",
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3859",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "lithography",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "d2caeed0-0dbc-6a15-c57f-bf97494a9c26",
+    "alt_image_ids": [
+        "d86beca6-2a4a-edb3-a851-89da9e22f98c"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1919.766"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "London Memories: Kew Gardens"
+            ],
+            "weight": 17,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:51:39-05:00",
+    "timestamp": "2023-09-24T01:02:03-05:00"
+}

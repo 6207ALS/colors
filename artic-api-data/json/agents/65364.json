@@ -1,0 +1,33 @@
+{
+    "id": 65364,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65364",
+    "title": "Edgar Heap of Birds",
+    "sort_title": "Heap of Birds, Edgar",
+    "alt_titles": [
+        "Edgar Heap of Birds",
+        "Edgar Hachivi Heap of Birds"
+    ],
+    "is_artist": true,
+    "birth_date": 1954,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edgar Heap of Birds",
+            "Heap of Birds, Edgar",
+            "Edgar Heap of Birds",
+            "Edgar Hachivi Heap of Birds"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-01-12T17:45:28-06:00",
+    "updated_at": "2023-01-12T17:46:56-06:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

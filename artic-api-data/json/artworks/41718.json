@@ -1,0 +1,183 @@
+{
+    "id": 41718,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/41718",
+    "is_boosted": false,
+    "title": "View near St. Denis",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIF+aYyJdpCLeZOPe5WSfpqVg5yVgqeijKeijaqhiq2mkK2olK6rl7Sslratlrm2ob+4o725pb+6p8K6pcK8p8C8qMS9qcrGs8zGss7ItM7Jtc7Jts7Kt9DLuAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoGNlGkZNXfRcG1QRDCcpxwAERdIsiGCEADs=",
+        "width": 3000,
+        "height": 2356,
+        "alt_text": "A work made of lithograph in black on cream laid paper."
+    },
+    "main_reference_number": "1972.1314",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1824,
+    "date_end": 1827,
+    "date_display": "1824/27",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Louis Jules Frederic Villeneuve (French, 1796-1842)\nprinted by Comte de Charles Philibert Lasteyrie du Saillant (French, 1759-1849)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 13.4 \u00d7 18.5 cm (5 5/16 \u00d7 7 5/16 in.); Sheet: 17.5 \u00d7 22.2 cm (6 15/16 \u00d7 8 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.5,
+            "width_in": 7.2835,
+            "height_cm": 13.4,
+            "height_in": 5.2756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.2,
+            "width_in": 8.7402,
+            "height_cm": 17.5,
+            "height_in": 6.8898,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "Harold Joachim Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.5684,
+    "color": {
+        "h": 59,
+        "l": 49,
+        "s": 20,
+        "percentage": 0.002150283299824752,
+        "population": 12
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 27476,
+    "artist_title": "Louis Jules Frederic Villeneuve",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        27476
+    ],
+    "artist_titles": [
+        "Louis Jules Frederic Villeneuve"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ccd1a8da-46bc-1a7c-ba43-f8a65000cd34",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.1314"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "View near St. Denis"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:53-05:00",
+    "updated_at": "2023-04-10T13:40:52-05:00",
+    "timestamp": "2023-09-24T00:38:30-05:00"
+}

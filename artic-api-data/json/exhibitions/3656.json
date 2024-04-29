@@ -1,0 +1,38 @@
+{
+    "id": 3656,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3656",
+    "title": "Chicago Architectural Club 17th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1904-03-31T00:00:00-06:00",
+    "aic_end_at": "1904-04-20T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "ebcc57c3-cc25-2f59-7b61-7fac0103bd15"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Architectural Club 17th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:12-06:00",
+    "timestamp": "2023-09-24T02:01:14-05:00"
+}

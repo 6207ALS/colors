@@ -1,0 +1,173 @@
+{
+    "id": 102099,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102099",
+    "is_boosted": false,
+    "title": "Head of a Bishop Saint",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJqamqenp6ysrLGxsbW1tb29vcTExMXFxevr6+3t7fHx8fb29vf39/j4+Pn5+fz8/P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAUR4JIgS2MUDTMEiiMACnQQTwgAOw==",
+        "width": 1985,
+        "height": 2250,
+        "alt_text": "A work made of stone."
+    },
+    "main_reference_number": "1984.28",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1300,
+    "date_end": 1500,
+    "date_display": "1300/1500",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "German, Rhenish",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "H.: 37 cm (14 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 37,
+            "height_in": 14.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stone",
+    "inscriptions": null,
+    "credit_line": "George F. Harding Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Urbana-Champaign, Illinois, Krannert Art Museum, University of Illinois, 1988. [long-term loan]",
+    "provenance_text": "George F. Harding, Jr. (d. 1939), Chicago, by 1939; bequeathed to the George F. Harding Museum, Chicago, 1939; transferred to the Art Institute, 1982; accessioned by the Art Institute, 1984.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.024345860272151937,
+        "population": 196
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "bust/head",
+        "stone",
+        "rock",
+        "inorganic material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-347",
+    "classification_title": "bust/head",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-347",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "bust/head",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2434",
+    "alt_material_ids": [
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2434",
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "stone",
+        "rock",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cda1674b-15b2-1ffc-c3af-ee4d1e79f407",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.28"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Head of a Bishop Saint"
+            ],
+            "weight": 170,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-01T10:24:45-05:00",
+    "updated_at": "2023-05-01T10:27:45-05:00",
+    "timestamp": "2023-09-24T01:05:59-05:00"
+}

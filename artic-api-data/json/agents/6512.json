@@ -1,0 +1,39 @@
+{
+    "id": 6512,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6512",
+    "title": "Charles Demuth",
+    "sort_title": "Demuth, Charles",
+    "alt_titles": [
+        "Charles Henry Demuth"
+    ],
+    "is_artist": true,
+    "birth_date": 1883,
+    "death_date": 1935,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Charles Demuth",
+            "Demuth, Charles",
+            "Charles Henry Demuth"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Demuth",
+            "Demuth, Charles",
+            "Charles Henry Demuth"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:16-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

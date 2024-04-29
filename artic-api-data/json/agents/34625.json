@@ -1,0 +1,31 @@
+{
+    "id": 34625,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34625",
+    "title": "Robert Genin",
+    "sort_title": "Genin, Robert",
+    "alt_titles": [
+        "\u0420\u043e\u0431\u0435\u0440\u0442 \u0413\u0435\u043d\u0438\u043d"
+    ],
+    "is_artist": true,
+    "birth_date": 1884,
+    "death_date": 1941,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Robert Genin",
+            "Genin, Robert",
+            "\u0420\u043e\u0431\u0435\u0440\u0442 \u0413\u0435\u043d\u0438\u043d"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:53:23-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

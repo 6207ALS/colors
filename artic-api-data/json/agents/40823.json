@@ -1,0 +1,35 @@
+{
+    "id": 40823,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40823",
+    "title": "Giovanni Antonio di Francesco Sogliani",
+    "sort_title": "Sogliani, Giovanni Antonio di Francesco",
+    "alt_titles": [
+        "Giovannantonio di Francesco Sogliani",
+        "Giovanni Antonio Sogliani",
+        "Antonio Giovanni Sogliani"
+    ],
+    "is_artist": true,
+    "birth_date": 1492,
+    "death_date": 1544,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni Antonio di Francesco Sogliani",
+            "Sogliani, Giovanni Antonio di Francesco",
+            "Giovannantonio di Francesco Sogliani",
+            "Giovanni Antonio Sogliani",
+            "Antonio Giovanni Sogliani"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:15-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

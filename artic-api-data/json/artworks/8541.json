@@ -1,0 +1,184 @@
+{
+    "id": 8541,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/8541",
+    "is_boosted": false,
+    "title": "Cabinet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAABMNASUeDzkqFE08IFdJNF1JMWdUOmZVPXNgQ4JsUKeXhqackrKmlrqrnbqxqcSrhMiwisqxi864ltG6mMW5q8TAu8fBvMjDvcnDv72+wMbEw8rFwMzKy8/NzM7OzdDPzdLRz9TS0gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIzn8wGFOIwHJCKZUBQCwCBQaCwMBMQh4dBULpYNphMEADs=",
+        "width": 3000,
+        "height": 2051,
+        "alt_text": "Wooden cabinet with a white marble top decorated with gilded elaborated moldings and two lacquered panels on doors. Dark-colored panels depict natural scenes inhabited with birds."
+    },
+    "main_reference_number": "1958.500",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1780,
+    "date_end": 1820,
+    "date_display": "c. 1780/1820",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "87 \u00d7 157.5 \u00d7 72.4 cm (34 1/4 \u00d7 62 \u00d7 28 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 72.4,
+            "depth_in": 28.5,
+            "width_cm": 157.5,
+            "width_in": 62,
+            "height_cm": 87,
+            "height_in": 34.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Mahogany, toile or papier-m\u00e2ch\u00e9, gilded composition, marble",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. A. Watson Armour III",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 39.7963,
+    "color": {
+        "h": 39,
+        "l": 55,
+        "s": 72,
+        "percentage": 0.015239884012126004,
+        "population": 74
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "case furniture",
+        "mahogany",
+        "wood (plant material)",
+        "plant material",
+        "furniture",
+        "european decorative arts",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-122",
+    "classification_title": "case furniture",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-122",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "case furniture",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-9132"
+    ],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3582",
+    "alt_material_ids": [
+        "TM-2431",
+        "TM-3478"
+    ],
+    "material_ids": [
+        "TM-3582",
+        "TM-2431",
+        "TM-3478"
+    ],
+    "material_titles": [
+        "mahogany",
+        "wood (plant material)",
+        "plant material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d4a13d60-1c40-6187-59a5-7861c65d6eb7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1958.500"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cabinet"
+            ],
+            "weight": 472,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T10:01:35-05:00",
+    "timestamp": "2023-09-24T00:23:45-05:00"
+}

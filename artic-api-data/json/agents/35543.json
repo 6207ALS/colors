@@ -1,0 +1,31 @@
+{
+    "id": 35543,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35543",
+    "title": "Charles Meryon",
+    "sort_title": "Meryon, Charles",
+    "alt_titles": [
+        "Charles M\u00e9ryon"
+    ],
+    "is_artist": true,
+    "birth_date": 1821,
+    "death_date": 1868,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Meryon",
+            "Meryon, Charles",
+            "Charles M\u00e9ryon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:57:09-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

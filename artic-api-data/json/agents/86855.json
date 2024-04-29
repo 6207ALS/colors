@@ -1,0 +1,33 @@
+{
+    "id": 86855,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/86855",
+    "title": "Tiffany Glass and Decorating Company (Firm)",
+    "sort_title": "Tiffany Glass and Decorating Company (Firm)",
+    "alt_titles": [
+        "Tiffany Glass & Decorating Company",
+        "Tiffany Glass and Decorating Company"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tiffany Glass and Decorating Company (Firm)",
+            "Tiffany Glass and Decorating Company (Firm)",
+            "Tiffany Glass & Decorating Company",
+            "Tiffany Glass and Decorating Company"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-03-14T16:59:17-05:00",
+    "updated_at": "2023-03-14T17:02:34-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

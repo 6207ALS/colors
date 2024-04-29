@@ -1,0 +1,167 @@
+{
+    "id": 97793,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/97793",
+    "is_boosted": false,
+    "title": "Veterans Administration Hospital, Iron Mountain, Michigan, Perspective",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAIKCgoeHh4qKiouLi42NjY6OjpCQkJSUlJycnJ+fn6SkpKenp6ioqKqqqqurq62trbGxsbKysrS0tLe3t7m5ub+/v8HBwcbGxsvLy9HR0dXV1dfX19jY2NnZ2QAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAHAAUAAAUdYMUwjYI81yRF0AJJhkAMjnUARUAklIVxG02mEwIAOw==",
+        "width": 2497,
+        "height": 1842,
+        "alt_text": "A work made of graphite on illustration board."
+    },
+    "main_reference_number": "1982.587",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1947,
+    "date_end": 1947,
+    "date_display": "1947",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fugard, Olsen, Urbain, and Neiler\nAmerican, 20th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "52.5 \u00d7 71.3 cm (20 11/16 \u00d7 28 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 71.3,
+            "width_in": 28.0625,
+            "height_cm": 52.5,
+            "height_in": 20.6875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on illustration board",
+    "inscriptions": null,
+    "credit_line": "Gift of Fugard, Orth & Associates",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 49,
+        "s": 0,
+        "percentage": 0.07647621990059998,
+        "population": 401
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 31204,
+    "artist_title": "Fugard, Olsen, Urbain, and Neiler",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31204
+    ],
+    "artist_titles": [
+        "Fugard, Olsen, Urbain, and Neiler"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "presentation drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-920",
+    "classification_title": "presentation drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-920",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "presentation drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "050b2ea0-1771-b728-5c24-17e554f0a377",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.587"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Veterans Administration Hospital, Iron Mountain, Michigan, Perspective"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:46:11-05:00",
+    "timestamp": "2023-09-24T01:03:09-05:00"
+}

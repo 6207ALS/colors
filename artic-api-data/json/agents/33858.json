@@ -1,0 +1,42 @@
+{
+    "id": 33858,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33858",
+    "title": "Antonio Canova",
+    "sort_title": "Canova, Antonio",
+    "alt_titles": [
+        "Canova",
+        "Antoine Canova"
+    ],
+    "is_artist": true,
+    "birth_date": 1757,
+    "death_date": 1822,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Antonio Canova",
+            "Canova, Antonio",
+            "Canova",
+            "Antoine Canova"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio Canova",
+            "Canova, Antonio",
+            "Canova",
+            "Antoine Canova"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:55:10-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

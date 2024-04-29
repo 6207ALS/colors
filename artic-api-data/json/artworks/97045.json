@@ -1,0 +1,181 @@
+{
+    "id": 97045,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/97045",
+    "is_boosted": false,
+    "title": "Man at Coffee Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIl9V5CBWJGEWpaHXZqLX5OHYZeLZKGRZKOUZ6aWZ6CSaaSXbamab6mbcQAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLkK2W0CEkCDBMUREAOw==",
+        "width": 2188,
+        "height": 3396,
+        "alt_text": "A work made of pen and black ink, with graphite and touches of white gouache, on tan wove paper."
+    },
+    "main_reference_number": "1982.114",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1916,
+    "date_end": 1916,
+    "date_display": "1916",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Theo van Doesburg\nDutch, 1883-1931",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "34.3 \u00d7 21.9 cm (13 9/16 \u00d7 8 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21.9,
+            "width_in": 8.6221,
+            "height_cm": 34.3,
+            "height_in": 13.504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink, with graphite and touches of white gouache, on tan wove paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Margaret Fisher",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1983,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.163,
+    "color": {
+        "h": 44,
+        "l": 56,
+        "s": 29,
+        "percentage": 0.4879181313279717,
+        "population": 5380
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 30922,
+    "artist_title": "Theo van Doesburg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30922
+    ],
+    "artist_titles": [
+        "Theo van Doesburg"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "ink",
+        "coating (material)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "coating (material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d9079a79-3712-d919-3ab6-b45b69247da9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.114"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Man at Coffee Table"
+            ],
+            "weight": 536,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:49:20-05:00",
+    "timestamp": "2023-09-24T01:02:36-05:00"
+}

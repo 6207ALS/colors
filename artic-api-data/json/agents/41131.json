@@ -1,0 +1,33 @@
+{
+    "id": 41131,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41131",
+    "title": "Jan van Nost, the younger",
+    "sort_title": "Nost, Jan van, the younger",
+    "alt_titles": [
+        "John van Nost",
+        "John Nost, II"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": 1787,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan van Nost, the younger",
+            "Nost, Jan van, the younger",
+            "John van Nost",
+            "John Nost, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:34:23-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

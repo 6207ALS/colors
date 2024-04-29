@@ -1,0 +1,37 @@
+{
+    "id": 44174,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44174",
+    "title": "Jacques Fabien Gautier d'Agoty",
+    "sort_title": "Gautier d'Agoty, Jacques Fabien",
+    "alt_titles": [
+        "Jacques F. Gautier d'Agoty",
+        "Jacques Fabien Gauthier d'Agoty",
+        "Jacques Fabien Gautier Dagoty",
+        "Jacques Gautier Dagoty"
+    ],
+    "is_artist": true,
+    "birth_date": 1710,
+    "death_date": 1780,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacques Fabien Gautier d'Agoty",
+            "Gautier d'Agoty, Jacques Fabien",
+            "Jacques F. Gautier d'Agoty",
+            "Jacques Fabien Gauthier d'Agoty",
+            "Jacques Fabien Gautier Dagoty",
+            "Jacques Gautier Dagoty"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:04-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

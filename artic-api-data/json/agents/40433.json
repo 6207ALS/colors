@@ -1,0 +1,31 @@
+{
+    "id": 40433,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40433",
+    "title": "Charles-Edouard de Beaumont",
+    "sort_title": "Beaumont, Charles-Edouard de",
+    "alt_titles": [
+        "Edouard de Beaumont"
+    ],
+    "is_artist": true,
+    "birth_date": 1821,
+    "death_date": 1888,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles-Edouard de Beaumont",
+            "Beaumont, Charles-Edouard de",
+            "Edouard de Beaumont"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:30-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

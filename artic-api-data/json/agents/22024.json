@@ -1,0 +1,31 @@
+{
+    "id": 22024,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22024",
+    "title": "Terence Harold Robsjohn-Gibbings",
+    "sort_title": "Robsjohn-Gibbings, Terence Harold",
+    "alt_titles": [
+        "Gibbings, Terence Harold Robsjohn-"
+    ],
+    "is_artist": true,
+    "birth_date": 1905,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Terence Harold Robsjohn-Gibbings",
+            "Robsjohn-Gibbings, Terence Harold",
+            "Gibbings, Terence Harold Robsjohn-"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:25-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

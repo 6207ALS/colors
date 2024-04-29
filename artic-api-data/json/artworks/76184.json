@@ -1,0 +1,195 @@
+{
+    "id": 76184,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/76184",
+    "is_boosted": false,
+    "title": "The Kata (Bench)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJSTl5eVmpqZnZ6bnZ2cn5+dnqKfoaKhoqKioqSkpKelpKalpqelpqmmo6ilpayppq6pp6ypqa6rqbSwrbS0tru5ub++wMHAxdLS0tPT19TV19XV19bW2AAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4LEwCUIUjvQogjFAERBY1dRQl8ZhG5eFADs=",
+        "width": 2565,
+        "height": 2250,
+        "alt_text": "A work made of aluminum."
+    },
+    "main_reference_number": "1990.103",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Howard Meister\nAmerican, born 1953",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "57.8 \u00d7 73.7 \u00d7 40.6 cm (22 3/4 \u00d7 29 \u00d7 16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 40.6,
+            "depth_in": 16,
+            "width_cm": 73.7,
+            "width_in": 29,
+            "height_cm": 57.8,
+            "height_in": 22.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Aluminum",
+    "inscriptions": null,
+    "credit_line": "Raymond W. Garbe Fund in honor of E. Norman Brydges",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.6515,
+    "color": {
+        "h": 330,
+        "l": 63,
+        "s": 0,
+        "percentage": 0.5219454329774614,
+        "population": 3256
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 35731,
+    "artist_title": "Howard Meister",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35731
+    ],
+    "artist_titles": [
+        "Howard Meister"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "seating",
+        "welding",
+        "aluminum (metal)",
+        "furniture",
+        "burnishing (polishing)",
+        "bench",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-11785",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-11785",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "bench",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-2685",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2685"
+    ],
+    "material_titles": [
+        "aluminum (metal)"
+    ],
+    "technique_id": "TM-4169",
+    "alt_technique_ids": [
+        "TM-3918"
+    ],
+    "technique_ids": [
+        "TM-4169",
+        "TM-3918"
+    ],
+    "technique_titles": [
+        "welding",
+        "burnishing (polishing)"
+    ],
+    "theme_titles": [],
+    "image_id": "818755fe-9cfa-eac5-b77f-50058d13bb84",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.103"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Kata (Bench)"
+            ],
+            "weight": 30,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-15T13:29:34-06:00",
+    "updated_at": "2023-04-07T12:26:21-05:00",
+    "timestamp": "2023-09-24T00:53:05-05:00"
+}

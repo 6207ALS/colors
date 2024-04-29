@@ -1,0 +1,28 @@
+{
+    "id": 116739,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116739",
+    "title": "Ernest Mancoba",
+    "sort_title": "Mancoba, Ernest",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1904,
+    "death_date": 2002,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ernest Mancoba",
+            "Mancoba, Ernest"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-13T12:16:11-05:00",
+    "updated_at": "2022-03-15T16:46:24-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

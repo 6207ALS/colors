@@ -1,0 +1,33 @@
+{
+    "id": 64171,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/64171",
+    "title": "Camille Pernon",
+    "sort_title": "Pernon, Camille",
+    "alt_titles": [
+        "Camille de Pernon",
+        "Claude-Camille-Pierre-Etienne Pernon"
+    ],
+    "is_artist": true,
+    "birth_date": 1753,
+    "death_date": 1808,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Camille Pernon",
+            "Pernon, Camille",
+            "Camille de Pernon",
+            "Claude-Camille-Pierre-Etienne Pernon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:44-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

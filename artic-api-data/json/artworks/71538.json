@@ -1,0 +1,167 @@
+{
+    "id": 71538,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/71538",
+    "is_boosted": false,
+    "title": "Charles R. Larrabee House, Chicago, Illinois, Attic Plan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALqskbyxmMS5n8i/qMfAq8jAq83FsMvFtNDHsdHIstLKs9LKtNHKttLLt9LMugAAACH5BAAAAAAALAAAAAADAAUAAAQLUCW0GjPujEIECBEAOw==",
+        "width": 1883,
+        "height": 3334,
+        "alt_text": "A work made of ink on linen."
+    },
+    "main_reference_number": "1988.146.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1863,
+    "date_end": 1864,
+    "date_display": "c. 1863/64",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Edward Burling\nAmerican, 1819\u20131892",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "48.1 \u00d7 26.8 cm (18 15/16 \u00d7 10 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.8,
+            "width_in": 10.5625,
+            "height_cm": 48.1,
+            "height_in": 18.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on linen",
+    "inscriptions": null,
+    "credit_line": "Purchased from Robert W. Mueller",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.6943,
+    "color": {
+        "h": 40,
+        "l": 56,
+        "s": 28,
+        "percentage": 0.004213853879448796,
+        "population": 53
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 33813,
+    "artist_title": "Edward Burling",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33813
+    ],
+    "artist_titles": [
+        "Edward Burling"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "working drawing",
+        "architecture",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11705",
+    "classification_title": "working drawing",
+    "alt_classification_ids": [
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-11705",
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "working drawing",
+        "architecture",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "636b69b8-0549-6fb1-ab2f-6ac41599cff0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.146.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Charles R. Larrabee House, Chicago, Illinois, Attic Plan"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:44:05-05:00",
+    "timestamp": "2023-09-24T00:51:20-05:00"
+}

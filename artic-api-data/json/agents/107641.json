@@ -1,0 +1,28 @@
+{
+    "id": 107641,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/107641",
+    "title": "Joseph Lonewolf",
+    "sort_title": "Lonewolf, Joseph",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1932,
+    "death_date": 2014,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joseph Lonewolf",
+            "Lonewolf, Joseph"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-11-14T13:24:42-06:00",
+    "updated_at": "2022-11-14T13:25:56-06:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

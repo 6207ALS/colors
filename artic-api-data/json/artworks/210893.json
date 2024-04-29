@@ -1,0 +1,158 @@
+{
+    "id": 210893,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/210893",
+    "is_boosted": false,
+    "title": "Slender Woman with Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAAAEBx0gHzMxLTo6NERDPFBIOlhLPndyZop6ZJWLeQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI0CCRyBmhgAgAOw==",
+        "width": 914,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2011.308",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1894,
+    "date_end": 1894,
+    "date_display": "1894",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "J\u00f3zsef Rippl-R\u00f3nai\nHungarian, 1861\u20131927",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "186 \u00d7 73 cm (73 1/4 \u00d7 28 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73,
+            "width_in": 28.75,
+            "height_cm": 186,
+            "height_in": 73.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Through prior gift of Mr. and Mrs. Chauncey B. Borland",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.2403,
+    "color": {
+        "h": 39,
+        "l": 53,
+        "s": 11,
+        "percentage": 0.03247152310308851,
+        "population": 568
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 242",
+    "gallery_id": 2147479704,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 47452,
+    "artist_title": "Jozseph Rippl-R\u00f3na\u00ef",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        47452
+    ],
+    "artist_titles": [
+        "Jozseph Rippl-R\u00f3na\u00ef"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2479fd9c-a90e-2f5a-b418-6ed505ab2bb9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2011.308"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Slender Woman with Vase"
+            ],
+            "weight": 1380,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-19T11:04:14-06:00",
+    "updated_at": "2023-04-07T13:27:00-05:00",
+    "timestamp": "2023-09-24T01:42:45-05:00"
+}

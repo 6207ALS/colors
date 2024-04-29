@@ -1,0 +1,173 @@
+{
+    "id": 103214,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/103214",
+    "is_boosted": false,
+    "title": "McVicker's Theater: Acroterium",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHZdUX5nX3ZyeHxzfIh1bZCAfpSFfJyLg56PjZqPkqOLga6WkbijnKqhoq6jpa6lpbmnoLiurryzssWzqwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIFAgSpA4C9FIzPFEkyEMUAgAOw==",
+        "width": 1800,
+        "height": 2250,
+        "alt_text": "A work made of terra-cotta glazed to resemble gray granite."
+    },
+    "main_reference_number": "1984.1251",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1922,
+    "date_end": 1923,
+    "date_display": "1922/23 (demolished 1984)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Lamb & Newhouse\nAmerican, 1920s",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "87 \u00d7 49 \u00d7 36 cm (34 5/16 \u00d7 19 5/16 \u00d7 14 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 36,
+            "depth_in": 14.1733,
+            "width_cm": 49,
+            "width_in": 19.2914,
+            "height_cm": 87,
+            "height_in": 34.252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Terra-cotta glazed to resemble gray granite",
+    "inscriptions": null,
+    "credit_line": "Gift of National Wrecking Co.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.2415,
+    "color": {
+        "h": 310,
+        "l": 48,
+        "s": 3,
+        "percentage": 0.1478860399629947,
+        "population": 1314
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 88497,
+    "artist_title": "Lamb & Newhouse",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        88497
+    ],
+    "artist_titles": [
+        "Lamb & Newhouse"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "terracotta",
+        "Chicago",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-2433",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2433"
+    ],
+    "material_titles": [
+        "terracotta"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "348a1768-749e-9dc9-f730-cdda11466147",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.1251"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "McVicker's Theater: Acroterium"
+            ],
+            "weight": 56,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-23T11:33:07-05:00",
+    "updated_at": "2023-06-23T11:37:47-05:00",
+    "timestamp": "2023-09-24T01:06:34-05:00"
+}

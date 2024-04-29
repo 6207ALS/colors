@@ -1,0 +1,37 @@
+{
+    "id": 40536,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40536",
+    "title": "Giovanni Battista Castello",
+    "sort_title": "Castello, Giovanni Battista",
+    "alt_titles": [
+        "il Bergamasco",
+        "Giovanni B. Castello",
+        "Giovanni Battista Castello, (il Bergamasco)",
+        "Bergamasco"
+    ],
+    "is_artist": true,
+    "birth_date": 1499,
+    "death_date": 1569,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni Battista Castello",
+            "Castello, Giovanni Battista",
+            "il Bergamasco",
+            "Giovanni B. Castello",
+            "Giovanni Battista Castello, (il Bergamasco)",
+            "Bergamasco"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:06-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

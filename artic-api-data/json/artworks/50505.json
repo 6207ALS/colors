@@ -1,0 +1,164 @@
+{
+    "id": 50505,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50505",
+    "is_boosted": false,
+    "title": "Design for a Printed Textile",
+    "alt_titles": [],
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHJMTYQ7SI48SJA9Qa03S6M4TYpBSYVST59PWYZcW7FGW5JqXJBaYLJfZ4BoZZ5harZudLl0crh0dLx7db96d7d8eLt8esV2d8Z0ecR/fMd+fayCfa6EfdOQer56gMeqm8erm8ypm9KzoQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwBDEE9k0PpfBoYAQcDoLh+LBwFAACYIhUAFJJhmNRRQEADs=",
+        "width": 3000,
+        "height": 2169,
+        "alt_text": "A work made of watercolor and pencil on paper."
+    },
+    "main_reference_number": "1976.92",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1725,
+    "date_end": 1750,
+    "date_display": "1725/50",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "26.8 \u00d7 38.8 cm (10 1/2 \u00d7 15 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38.8,
+            "width_in": 15.25,
+            "height_cm": 26.8,
+            "height_in": 10.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor and pencil on paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Louise Lutz",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, Selected Textile Acquisitions since 1973, Dec. 15, 1977\u2013Mar. 26, 1978.\n\nArt Institute of Chicago, Fashion Items and Textiles Pertaining to Fashion, Apr. 29\u2013July 16, 1978.\n\nArt Institute of Chicago, Textile Paper Designs, Sample and Pattern Books, Woodblocks and Tools from the Permanent Collection, July 7-Dec. 31, 1984.",
+    "provenance_text": "Elinor Merrell (died 1993), Elinor Merrell Antiques, New York, by 1976 [invoice, Apr. 29, 1976; permanent receipt RX10586, May 7, 1976, in curatorial object file, Textiles Department]; sold to the Art Institute of Chicago, 1976",
+    "edition": null,
+    "publishing_verification_level": "Web Everything",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 66.8309,
+    "color": {
+        "h": 348,
+        "l": 41,
+        "s": 56,
+        "percentage": 0.5607855282662008,
+        "population": 2879
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "textile",
+        "accessory - paper design"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1357"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1357"
+    ],
+    "classification_titles": [
+        "textile",
+        "accessory - paper design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9eddccd8-fe56-09fe-c9c3-961857d2ee72",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.92"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Design for a Printed Textile"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-21T10:38:48-05:00",
+    "updated_at": "2023-07-21T10:40:53-05:00",
+    "timestamp": "2023-09-24T00:42:46-05:00"
+}

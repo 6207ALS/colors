@@ -1,0 +1,35 @@
+{
+    "id": 44799,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44799",
+    "title": "Herb Greene",
+    "sort_title": "Greene, Herb",
+    "alt_titles": [
+        "Herb Green",
+        "Herb Greenberg",
+        "Herbert Greene"
+    ],
+    "is_artist": true,
+    "birth_date": 1929,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Herb Greene",
+            "Greene, Herb",
+            "Herb Green",
+            "Herb Greenberg",
+            "Herbert Greene"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-08T14:43:13-05:00",
+    "updated_at": "2021-10-08T14:45:45-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

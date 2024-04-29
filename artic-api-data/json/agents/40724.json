@@ -1,0 +1,37 @@
+{
+    "id": 40724,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40724",
+    "title": "Lelio Orsi",
+    "sort_title": "Orsi, Lelio",
+    "alt_titles": [
+        "Lelio da Novellara",
+        "Lelio Orsi, (Lelio da Novellara)",
+        "Lelio da Novellara",
+        "Lelio Orsi da Novellara"
+    ],
+    "is_artist": true,
+    "birth_date": 1508,
+    "death_date": 1587,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lelio Orsi",
+            "Orsi, Lelio",
+            "Lelio da Novellara",
+            "Lelio Orsi, (Lelio da Novellara)",
+            "Lelio da Novellara",
+            "Lelio Orsi da Novellara"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-04T11:45:13-06:00",
+    "updated_at": "2022-03-15T16:41:51-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

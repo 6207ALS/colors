@@ -1,0 +1,169 @@
+{
+    "id": 62957,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62957",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAJZ6QZ2ARJqBTZ6EUKCCQaWHRqqNUK+SVLKVVraYWQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIkBRzUBIDhAgAOw==",
+        "width": 1076,
+        "height": 2250,
+        "alt_text": "A work made of silk, satin weave with twill interlacings of secondary binding warps and patterning wefts."
+    },
+    "main_reference_number": "1907.888",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1525,
+    "date_end": 1575,
+    "date_display": "1525/75",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Spain",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "63.9 \u00d7 36 cm (25 1/8 \u00d7 14 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36,
+            "width_in": 14.125,
+            "height_cm": 63.9,
+            "height_in": 25.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, satin weave with twill interlacings of secondary binding warps and patterning wefts",
+    "inscriptions": null,
+    "credit_line": "Art Institute of Chicago Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "The Art Institute of Chicago, The Elizabeth F. Cheney and Agnes Allerton Textile Galleries, Renaissance Velvets and Silks, December 18, 2002\u2013April 13, 2003",
+    "provenance_text": "Field Museum of Natural History [The Field Museum], Chicago, by 1907 [note in Ledger Book, 1900\u20131913, 229; memo R5771, May 1935; copy in curatorial object file]; sold to the Art Institute of Chicago, 1907.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 70.6595,
+    "color": {
+        "h": 44,
+        "l": 61,
+        "s": 68,
+        "percentage": 0.17823872685470213,
+        "population": 2649
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "satin weaving",
+        "silk (textile)",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10501",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10501"
+    ],
+    "technique_titles": [
+        "satin weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "f942f524-9cd7-1fe0-a2bc-c449f4da7705",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1907.888"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 19,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-10T13:25:39-06:00",
+    "updated_at": "2023-04-07T12:49:14-05:00",
+    "timestamp": "2023-09-24T00:47:38-05:00"
+}

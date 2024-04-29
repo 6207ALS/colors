@@ -1,0 +1,31 @@
+{
+    "id": 97299,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/97299",
+    "title": "Judith Godwin",
+    "sort_title": "Godwin, Judith",
+    "alt_titles": [
+        "Judith Whitney Godwin"
+    ],
+    "is_artist": true,
+    "birth_date": 1930,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Judith Godwin",
+            "Godwin, Judith",
+            "Judith Whitney Godwin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-09T16:12:56-05:00",
+    "updated_at": "2022-03-15T16:43:24-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

@@ -1,0 +1,170 @@
+{
+    "id": 230882,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/230882",
+    "is_boosted": false,
+    "title": "Rachel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJGEeKWQfpGLhqqckLCxsbe3t7y5t8mxmsKxo8WzosG0qcC6tcS9t8G8uMLBwcbEwsDDxcnLzMnLzcrMzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMQ00YMok3EkCzQEDiEARQgAOw==",
+        "width": 5326,
+        "height": 7102,
+        "alt_text": "A work made of papier-m\u00e2ch\u00e9, metal plates, wire, acrylic paint, and matte medium."
+    },
+    "main_reference_number": "Obj: 230882",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1986,
+    "date_end": 1986,
+    "date_display": "1986",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Greer Lankton\nAmerican, 1958\u20131996",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "71.1 \u00d7 53.3 \u00d7 27.9 cm (28 \u00d7 21 \u00d7 11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 27.9,
+            "depth_in": 11,
+            "width_cm": 53.3,
+            "width_in": 21,
+            "height_cm": 71.1,
+            "height_in": 28,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Papier-m\u00e2ch\u00e9, metal plates, wire, acrylic paint, and matte medium",
+    "inscriptions": null,
+    "credit_line": "Promised gift of Eric Ceputis and David W. Williams",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.4127,
+    "color": {
+        "h": 358,
+        "l": 40,
+        "s": 50,
+        "percentage": 0.0015830599916414434,
+        "population": 15
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 4",
+    "gallery_id": 2147476634,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 98949,
+    "artist_title": "Greer Lankton",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        98949
+    ],
+    "artist_titles": [
+        "Greer Lankton"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "woman",
+        "contemporary",
+        "sculpture"
+    ],
+    "style_id": "TM-12062",
+    "style_title": "contemporary",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12062"
+    ],
+    "style_titles": [
+        "contemporary"
+    ],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": "TM-13813",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-13813"
+    ],
+    "subject_titles": [
+        "woman"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8ef7da5b-8eae-3350-cdf5-3a6bed20acb8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "Obj: 230882"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rachel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-13T00:15:01-05:00",
+    "updated_at": "2023-05-13T00:17:43-05:00",
+    "timestamp": "2023-09-24T01:49:14-05:00"
+}

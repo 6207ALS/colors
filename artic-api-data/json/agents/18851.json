@@ -1,0 +1,42 @@
+{
+    "id": 18851,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/18851",
+    "title": "Hermann Dudley Murphy",
+    "sort_title": "Murphy, Hermann Dudley",
+    "alt_titles": [
+        "Hermann D. Murphy",
+        "Herman Dudley Murphy"
+    ],
+    "is_artist": true,
+    "birth_date": 1867,
+    "death_date": 1945,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Hermann Dudley Murphy",
+            "Murphy, Hermann Dudley",
+            "Hermann D. Murphy",
+            "Herman Dudley Murphy"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hermann Dudley Murphy",
+            "Murphy, Hermann Dudley",
+            "Hermann D. Murphy",
+            "Herman Dudley Murphy"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:08-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

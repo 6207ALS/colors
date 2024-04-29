@@ -1,0 +1,41 @@
+{
+    "id": 40465,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40465",
+    "title": "Canaletto",
+    "sort_title": "Canaletto",
+    "alt_titles": [
+        "Giovanni Antonio Canal",
+        "Antonio Canaletto",
+        "Canaletto, (Giovanni Antonio Canal)",
+        "Antonio Canal",
+        "Canaletto, (Antonio Canale)",
+        "Giovanni Antonio Canaletto"
+    ],
+    "is_artist": true,
+    "birth_date": 1697,
+    "death_date": 1768,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Canaletto",
+            "Canaletto",
+            "Giovanni Antonio Canal",
+            "Antonio Canaletto",
+            "Canaletto, (Giovanni Antonio Canal)",
+            "Antonio Canal",
+            "Canaletto, (Antonio Canale)",
+            "Giovanni Antonio Canaletto"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:36-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 58025,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/58025",
+    "is_boosted": false,
+    "title": "In the distance a bird",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMa6mse7ncq+nMu/ncm9nsm8n8q+ns2/n8zAn87Bn87Coc3BpNDEpNHFqdTHrdfJrdjMr9nMrwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MIwDTAIRIAMRqEkhwNFTwgAOw==",
+        "width": 2658,
+        "height": 3000,
+        "alt_text": "A work made of unbound book of etchings."
+    },
+    "main_reference_number": "1978.921",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1973,
+    "date_end": 1973,
+    "date_display": "1973",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Avigdor Arikha (Israeli, born 1929)\nwritten by Samuel Beckett (American, born 1906)\nprinted by Imprimerie Artistique Bellini\npublished by The Double Elephant Press, Ltd",
+    "place_of_origin": "Israel",
+    "description": null,
+    "dimensions": "Page size: 43.7 \u00d7 38 cm (17 1/4 \u00d7 15 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38,
+            "width_in": 14.9607,
+            "height_cm": 43.7,
+            "height_in": 17.2048,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Page size"
+        }
+    ],
+    "medium_display": "Unbound book of etchings",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Bluestone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1979,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.0019,
+    "color": {
+        "h": 40,
+        "l": 55,
+        "s": 36,
+        "percentage": 0.0016215683559666853,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 1011,
+    "artist_title": "Avigdor Arikha",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1011
+    ],
+    "artist_titles": [
+        "Avigdor Arikha"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "book",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-11",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-11",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "book",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "48c8fb27-a11d-6abc-0721-9efe18fb28da",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.921"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "In the distance a bird"
+            ],
+            "weight": 98,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:07:08-05:00",
+    "timestamp": "2023-09-24T00:45:19-05:00"
+}

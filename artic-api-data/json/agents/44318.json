@@ -1,0 +1,33 @@
+{
+    "id": 44318,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44318",
+    "title": "Antonio Piccinni",
+    "sort_title": "Piccinni, Antonio",
+    "alt_titles": [
+        "Piccinni Roma",
+        "Antonio Piccini"
+    ],
+    "is_artist": true,
+    "birth_date": 1846,
+    "death_date": 1920,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio Piccinni",
+            "Piccinni, Antonio",
+            "Piccinni Roma",
+            "Antonio Piccini"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:14-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

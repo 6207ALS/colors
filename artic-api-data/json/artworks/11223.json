@@ -1,0 +1,177 @@
+{
+    "id": 11223,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11223",
+    "is_boosted": false,
+    "title": "Landscape",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAI+KYZeTbaGcdMa8jsm/j8nBl9TKnd7SntjOoOrboQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMB2ChhEFhAgAOw==",
+        "width": 356,
+        "height": 768,
+        "alt_text": "A work made of pair of hanging scrolls with 1958.578; ink on paper."
+    },
+    "main_reference_number": "1959.579",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1633,
+    "date_display": "Early 17th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Unkoku Toeki\nJapanese, 1591-1644",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "Each scroll: 97.5 \u00d7 46.3 cm (38 7/16 \u00d7 18 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 46.3,
+            "width_in": 18.2284,
+            "height_cm": 97.5,
+            "height_in": 38.3859,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Each scroll"
+        }
+    ],
+    "medium_display": "Pair of hanging scrolls with 1958.578; ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Albert L. Arenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.1067,
+    "color": {
+        "h": 46,
+        "l": 60,
+        "s": 39,
+        "percentage": 0.008869081274043525,
+        "population": 136
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 47574,
+    "artist_title": "Unkoku T\u00f4eki",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        47574
+    ],
+    "artist_titles": [
+        "Unkoku T\u00f4eki"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "hanging scroll",
+        "landscapes",
+        "paper (fiber product)",
+        "painting",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-335",
+    "classification_title": "hanging scroll",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-335",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "hanging scroll",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": "TM-8657",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8657"
+    ],
+    "subject_titles": [
+        "landscapes"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6a2db59c-5435-5b08-5d7e-dafa8a88b7e8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1959.579"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Landscape"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-31T16:42:16-05:00",
+    "updated_at": "2023-04-07T14:19:39-05:00",
+    "timestamp": "2023-09-24T00:24:52-05:00"
+}

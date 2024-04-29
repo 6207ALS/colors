@@ -1,0 +1,31 @@
+{
+    "id": 35080,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35080",
+    "title": "Ichibei Izumiya",
+    "sort_title": "Izumiya, Ichibei",
+    "alt_titles": [
+        "Ichibei Izumiya"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ichibei Izumiya",
+            "Izumiya, Ichibei",
+            "Ichibei Izumiya"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-04-19T14:15:57-05:00",
+    "updated_at": "2023-04-19T14:17:27-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

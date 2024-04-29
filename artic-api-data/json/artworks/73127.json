@@ -1,0 +1,186 @@
+{
+    "id": 73127,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73127",
+    "is_boosted": false,
+    "title": "Shelf Clock",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAK5sOLuLadK1nMK+utnJvcbFws/NytTLxNnSztrW0t3Y1Nva2d/e3OHg3uXk4gAAACH5BAAAAAAALAAAAAADAAUAAAQLsJ2EgFCBuLLYMBEAOw==",
+        "width": 1502,
+        "height": 2250,
+        "alt_text": "A work made of pewter and copper."
+    },
+    "main_reference_number": "1988.515",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1897,
+    "date_end": 1907,
+    "date_display": "c. 1902",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Archibald Knox (English, 1864-1933)\nManufactured by Liberty & Co. (English, founded 1875)\nEngland, London",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "29.8 \u00d7 16.5 \u00d7 12 cm (11 3/4 \u00d7 6 1/2 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 12,
+            "depth_in": 4.75,
+            "width_cm": 16.5,
+            "width_in": 6.5,
+            "height_cm": 29.8,
+            "height_in": 11.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pewter and copper",
+    "inscriptions": null,
+    "credit_line": "Gift of Emrys and Anthony Jones",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.607,
+    "color": {
+        "h": 211,
+        "l": 77,
+        "s": 41,
+        "percentage": 0.000187844753824754,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 14157,
+    "artist_title": "Archibald Knox",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        14157
+    ],
+    "artist_titles": [
+        "Archibald Knox"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "pewter",
+        "clock",
+        "Arts and Crafts Movement",
+        "furniture",
+        "furniture",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": "TM-7569",
+    "style_title": "Arts and Crafts Movement",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7569"
+    ],
+    "style_titles": [
+        "Arts and Crafts Movement"
+    ],
+    "classification_id": "TM-565",
+    "classification_title": "clock",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-565",
+        "TM-76",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "clock",
+        "furniture",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-2513",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2513"
+    ],
+    "material_titles": [
+        "pewter"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3f9b877f-a2b7-0910-2d7e-fd78c594b896",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.515"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Shelf Clock"
+            ],
+            "weight": 138,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:46:12-05:00",
+    "timestamp": "2023-09-24T00:51:55-05:00"
+}

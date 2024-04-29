@@ -1,0 +1,172 @@
+{
+    "id": 104410,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104410",
+    "is_boosted": false,
+    "title": "World's Colombian Exposition 64th Street Entrance, Chicago, Illinois, Plan and Elevation",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAMC8s8C8tcO/tsbCucXCu8nGvcrGv8vIvsvHwcvJxMzKxM7LxNHNx9HOyNPPydHQy9PQytTRytTRy9nUzdnVz9nW0NrX0gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIDAchfAkhNJYSGBMVrVEVAQ5EhMCADs=",
+        "width": 2431,
+        "height": 2250,
+        "alt_text": "A work made of ink on linen."
+    },
+    "main_reference_number": "1985.551",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1892,
+    "date_end": 1892,
+    "date_display": "1892",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Peter J. Weber\nAmerican, born Germany, 1863-1923",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "51.3 \u00d7 55.4 cm (20 3/16 \u00d7 21 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.4,
+            "width_in": 21.8125,
+            "height_cm": 51.3,
+            "height_in": 20.1875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on linen",
+    "inscriptions": null,
+    "credit_line": "Gift of Bertram A. Weber",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.4286,
+    "color": {
+        "h": 55,
+        "l": 45,
+        "s": 4,
+        "percentage": 0.013062305679217113,
+        "population": 86
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 28150,
+    "artist_title": "Peter Joseph Weber",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28150
+    ],
+    "artist_titles": [
+        "Peter Joseph Weber"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design drawing",
+        "ink",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-914",
+    "classification_title": "design drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-914",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "design drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2398"
+    ],
+    "material_titles": [
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3ca5aee1-0ee2-b69a-82c0-96d76d83d779",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.551"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "World's Colombian Exposition 64th Street Entrance, Chicago, Illinois, Plan and Elevation"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:26:05-05:00",
+    "timestamp": "2023-09-24T01:07:20-05:00"
+}

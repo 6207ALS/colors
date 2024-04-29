@@ -1,0 +1,188 @@
+{
+    "id": 229102,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/229102",
+    "is_boosted": false,
+    "title": "Pair of Curtains",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGdqbmtqaXJ5fXd6fnZ9hYOFiIiMk4+QkZCYn5ucm5mjq5+jqZ6lraCmqq21ugAAACH5BAAAAAAALAAAAAADAAUAAAQLEBgyFitIneZCEhEAOw==",
+        "width": 505,
+        "height": 768,
+        "alt_text": "A work made of cotton and linen, twill weave; embroidered with wool."
+    },
+    "main_reference_number": "1933.989b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1700,
+    "date_display": "17th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "224.8 \u00d7 123.5 cm (88 1/2 \u00d7 48 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 123.5,
+            "width_in": 48.625,
+            "height_cm": 224.8,
+            "height_in": 88.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and linen, twill weave; embroidered with wool",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. John T. Wheeler to the Needlework and Textile Guild",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.4867,
+    "color": {
+        "h": 213,
+        "l": 49,
+        "s": 6,
+        "percentage": 0.03432877528624277,
+        "population": 371
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "needlework (visual works)",
+        "cotton (textile)",
+        "crewelwork (technique)",
+        "flowers",
+        "textile",
+        "linen (material)",
+        "embroidering",
+        "twill weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-83",
+    "classification_title": "needlework (visual works)",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-83",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "needlework (visual works)",
+        "textile"
+    ],
+    "subject_id": "TM-10482",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-10482"
+    ],
+    "subject_titles": [
+        "flowers"
+    ],
+    "material_id": "TM-2578",
+    "alt_material_ids": [
+        "TM-3093"
+    ],
+    "material_ids": [
+        "TM-2578",
+        "TM-3093"
+    ],
+    "material_titles": [
+        "cotton (textile)",
+        "linen (material)"
+    ],
+    "technique_id": "TM-4241",
+    "alt_technique_ids": [
+        "TM-3914",
+        "TM-10498"
+    ],
+    "technique_ids": [
+        "TM-4241",
+        "TM-3914",
+        "TM-10498"
+    ],
+    "technique_titles": [
+        "crewelwork (technique)",
+        "embroidering",
+        "twill weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "4e1b75ba-9c48-e607-1082-5f65877bdcc1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.989b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pair of Curtains"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:09:51-05:00",
+    "timestamp": "2023-09-24T01:48:44-05:00"
+}

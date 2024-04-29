@@ -1,0 +1,172 @@
+{
+    "id": 540,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/540",
+    "is_boosted": false,
+    "title": "Flask in the Shape of a Date",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAADkoFz0sFjotHVhFKFtDLk5DM1FIPWdMMWFIN2JLNmVRPGtUOFJLQmxXR2BaUndhSXdlUXlxYYJ7cIF9dZeHa4qAcKCQfJiRgpuXj5uXkKCShKidjqGemKSglaeil6qil6+nmqypn7Suoraxp7Sxqr67s7+9tcC9tMC9tcG+tsG/t8TAtMTBuQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQJNK9NmARqlTSdNAHB6WFYoEUSQIC8qFxZEUBIDAoBLKYCYOhiHi6QQBADs=",
+        "width": 3000,
+        "height": 1706,
+        "alt_text": "A work made of glass, mold-blown technique."
+    },
+    "main_reference_number": "1891.36",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1,
+    "date_end": 100,
+    "date_display": "1st century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Roman",
+    "place_of_origin": "Greece",
+    "description": null,
+    "dimensions": "5.7 \u00d7 3.2 \u00d7 2.5 cm (2 1/4 \u00d7 1 1/4 \u00d7 1 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2.5,
+            "depth_in": 1,
+            "width_cm": 3.2,
+            "width_in": 1.25,
+            "height_cm": 5.7,
+            "height_in": 2.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass, mold-blown technique",
+    "inscriptions": null,
+    "credit_line": "Gift of Elbridge G. Keith",
+    "catalogue_display": null,
+    "publication_history": "Karen B. Alexander, \"From Plaster to Stone: Ancient Art at the Art Institute of Chicago,\" in Karen Manchester, Recasting the Past: Collecting and Presenting Antiquities at the Art Institute of Chicago (Chicago: Art Institute of Chicago; New Haven: Yale University Press, 2012), p. 37.",
+    "exhibition_history": null,
+    "provenance_text": "Rollin & Feuardent, Paris; sold to the Art Institute of Chicago, 1890; prince reimbursed by Elbridge G. Keith, 1891.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.974,
+    "color": {
+        "h": 37,
+        "l": 47,
+        "s": 45,
+        "percentage": 0.0014858951403799434,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 51349,
+    "artist_title": "Ancient Roman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51349
+    ],
+    "artist_titles": [
+        "Ancient Roman"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "glass",
+        "glass",
+        "vessel",
+        "ancient art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "glass",
+        "vessel",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f2532779-d886-0868-e91f-d83434656555",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1891.36"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flask in the Shape of a Date"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2023-09-23T23:19:22-05:00",
+    "timestamp": "2023-09-24T00:20:54-05:00"
+}

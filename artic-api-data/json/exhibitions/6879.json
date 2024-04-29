@@ -1,0 +1,47 @@
+{
+    "id": 6879,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6879",
+    "title": "National Art Week",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1940-11-25T00:00:00-06:00",
+    "aic_end_at": "1940-12-01T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "68f352bc-91d7-0381-1199-5aca56f9688d",
+    "alt_image_ids": [
+        "4980be3b-8793-4264-a631-ba540140469d",
+        "3b94bdce-2dad-b949-3c26-ebbc5f3dd9be",
+        "fb6c3345-d144-00c9-4672-9a2ae6816840",
+        "8dd60db1-8446-07fa-cbad-8271dc567b00",
+        "e5aad3c1-599b-baca-d0d8-482a3ed89439",
+        "ab681625-91a2-0bf3-5330-12a8000dfd86",
+        "0e48ef5f-6b02-79d6-f5a2-a32cab40ee59",
+        "b5b8e0c4-9377-a0e3-2e21-2e13ce6ce5e8"
+    ],
+    "document_ids": [
+        "454ecf56-7529-42b9-3842-f3c2ae0bcb1b"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "National Art Week"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:16:32-06:00",
+    "timestamp": "2023-09-24T02:01:54-05:00"
+}

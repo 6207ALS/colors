@@ -1,0 +1,183 @@
+{
+    "id": 73375,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73375",
+    "is_boosted": false,
+    "title": "Beehive, #8",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHdpW39zZYRwTZl7WYd1ZIV9YHyDaZabboKRfqWBa6OpZrHGitne09vf1uDh2+fm4Ozt5PTu5PHv6u/x4vbz4PD04vb25/P06/Tz7Pj17/v76/n77vz97Pj38AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYBdR1YRpyaAs1lYQwsFdiAEEUPY4TCOFADs=",
+        "width": 3000,
+        "height": 2539,
+        "alt_text": "A work made of color lithograph and woodcut on ivory wove paper."
+    },
+    "main_reference_number": "1988.557.5",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1987,
+    "date_end": 1987,
+    "date_display": "1987",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Lance Kiland (American, born 1947)\npublished by Landfall Press (American, founded 1970)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 28.2 \u00d7 35.5 cm (11 1/8 \u00d7 14 in.); Sheet: 43.4 \u00d7 51.1 cm (17 1/8 \u00d7 20 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.5,
+            "width_in": 13.9764,
+            "height_cm": 28.2,
+            "height_in": 11.1024,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 51.1,
+            "width_in": 20.1182,
+            "height_cm": 43.4,
+            "height_in": 17.0867,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color lithograph and woodcut on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Norman and Stanley Freehling",
+    "catalogue_display": "<p>Landfall Press LK-87-960</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.5563,
+    "color": {
+        "h": 359,
+        "l": 54,
+        "s": 81,
+        "percentage": 0.0236249685970928,
+        "population": 142
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 13846,
+    "artist_title": "Lance Kiland",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        13846
+    ],
+    "artist_titles": [
+        "Lance Kiland"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "aca5ad5f-cc57-72f8-8261-39c749afbaab",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.557.5"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Beehive, #8"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:40:50-05:00",
+    "timestamp": "2023-09-24T00:52:01-05:00"
+}

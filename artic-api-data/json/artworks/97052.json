@@ -1,0 +1,186 @@
+{
+    "id": 97052,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/97052",
+    "is_boosted": false,
+    "title": "Lovely, Just Lovely",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALuFdLyVf8mHZ8uMdsySd8yVf76bjr2hk7aqnLWsocSWhcaci8+YjMGjjcqolwAAACH5BAAAAAAALAAAAAADAAUAAAQL0IDEhitCLXJaQBEAOw==",
+        "width": 2020,
+        "height": 3000,
+        "alt_text": "A work made of colored pencils and graphite on tan wove paper."
+    },
+    "main_reference_number": "1982.121",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1980,
+    "date_end": 1980,
+    "date_display": "1980",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jim Nutt\nAmerican, born 1938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "30.5 \u00d7 20.5 cm (12 1/16 \u00d7 8 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.5,
+            "width_in": 8.0709,
+            "height_cm": 30.5,
+            "height_in": 12.0079,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Colored pencils and graphite on tan wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert A. Lewis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Jim Nutt",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 52.7926,
+    "color": {
+        "h": 4,
+        "l": 48,
+        "s": 27,
+        "percentage": 0.012601427277447425,
+        "population": 133
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36059,
+    "artist_title": "Jim Nutt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36059
+    ],
+    "artist_titles": [
+        "Jim Nutt"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-827",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "SAIC Alumni and Faculty",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "colored pencil",
+        "paper (fiber product)",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-296",
+    "classification_title": "colored pencil",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-296",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "colored pencil",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty",
+        "Chicago Artists"
+    ],
+    "image_id": "79488d89-90b3-3b04-cff3-bdcbe9168f56",
+    "alt_image_ids": [
+        "3af0f5dc-f865-b045-3d04-bdf5bb5c4f69"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.121"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lovely, Just Lovely"
+            ],
+            "weight": 395,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-09-23T23:18:35-05:00",
+    "timestamp": "2023-09-24T01:02:36-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 25128,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/25128",
+    "title": "Samuel John Stump",
+    "sort_title": "Stump, Samuel John",
+    "alt_titles": [
+        "Samuel J. Stump",
+        "John Stump",
+        "John Samuel Stump"
+    ],
+    "is_artist": true,
+    "birth_date": 1778,
+    "death_date": 1863,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Samuel John Stump",
+            "Stump, Samuel John",
+            "Samuel J. Stump",
+            "John Stump",
+            "John Samuel Stump"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2022-03-15T16:52:45-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

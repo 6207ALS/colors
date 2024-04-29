@@ -1,0 +1,35 @@
+{
+    "id": 20347,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/20347",
+    "title": "Jean-Baptiste Perronneau",
+    "sort_title": "Perronneau, Jean-Baptiste",
+    "alt_titles": [
+        "Jean-Baptiste Perroneau",
+        "Jean B. Perronneau",
+        "Jean Baptiste Perronneau"
+    ],
+    "is_artist": true,
+    "birth_date": 1715,
+    "death_date": 1783,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean-Baptiste Perronneau",
+            "Perronneau, Jean-Baptiste",
+            "Jean-Baptiste Perroneau",
+            "Jean B. Perronneau",
+            "Jean Baptiste Perronneau"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:33-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

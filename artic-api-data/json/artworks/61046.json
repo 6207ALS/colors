@@ -1,0 +1,170 @@
+{
+    "id": 61046,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/61046",
+    "is_boosted": false,
+    "title": "Death as a Friend",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHp2ZIuHc5yYgZyYg52Zg6Kdh6qlkLm0nby3oL24psC7pMG8pMO9psXAq+HbxOvkyO7nzu7oz/Dr1vPu1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NMkzhEIiwEUDDIQCiRNUQgAOw==",
+        "width": 2493,
+        "height": 3000,
+        "alt_text": "A work made of woodcut on paper."
+    },
+    "main_reference_number": "1928.584",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1848,
+    "date_end": 1928,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Julius Jungtow (German, born 1828)\nafter Alfred Rethel (German, 1816-1859)",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Woodcut on paper",
+    "inscriptions": null,
+    "credit_line": "John H. Wrenn Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.915,
+    "color": {
+        "h": 50,
+        "l": 48,
+        "s": 12,
+        "percentage": 0.031586262081745246,
+        "population": 270
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 13264,
+    "artist_title": "Richard Julius Jungtow",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        13264
+    ],
+    "artist_titles": [
+        "Richard Julius Jungtow"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "woodcut",
+        "woodcut (process)",
+        "paper (fiber product)",
+        "printing",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-148",
+    "classification_title": "woodcut",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-148",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "woodcut",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3862",
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3862",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "woodcut (process)",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "1a0411ad-bcdb-30aa-fb77-ee0d83a416ae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1928.584"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Death as a Friend"
+            ],
+            "weight": 219,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:04-05:00",
+    "updated_at": "2023-04-10T15:25:46-05:00",
+    "timestamp": "2023-09-24T00:46:41-05:00"
+}

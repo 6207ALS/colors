@@ -1,0 +1,31 @@
+{
+    "id": 57937,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57937",
+    "title": "Shuns\u00f4",
+    "sort_title": "Shuns\u00f4",
+    "alt_titles": [
+        "Sh\u00f4shu"
+    ],
+    "is_artist": true,
+    "birth_date": 1750,
+    "death_date": 1835,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Shuns\u00f4",
+            "Shuns\u00f4",
+            "Sh\u00f4shu"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-06-06T14:51:24-05:00",
+    "updated_at": "2023-06-06T14:52:36-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

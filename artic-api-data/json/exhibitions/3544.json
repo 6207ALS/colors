@@ -1,0 +1,38 @@
+{
+    "id": 3544,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3544",
+    "title": "American Paintings and Sculpture 11th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1898-11-15T00:00:00-06:00",
+    "aic_end_at": "1898-12-18T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "f612c406-111b-0371-730e-e900e86bed14"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Paintings and Sculpture 11th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:24-06:00",
+    "timestamp": "2023-09-24T02:01:13-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 53003,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/53003",
+    "is_boosted": false,
+    "title": "Bedcover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKysrK6urrS0tLe3t7u7u7y8vL29vb6+vsHBwcLCwsrKys/Pz9DQ0NPT09fX19jY2NnZ2dra2t7e3uDg4OHh4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAFAAUAAAUV4GAcR5A40LQUjERFhPJMDTAUiBACADs=",
+        "width": 2240,
+        "height": 2252,
+        "alt_text": "A work made of cotton, plain weave; quilted and stitched in trapunto technique."
+    },
+    "main_reference_number": "1945.98",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1819,
+    "date_end": 1819,
+    "date_display": "1819",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Ursula Whittlesey (American, 1796-1875)\nUnited States, Connecticut, Saybrook",
+    "place_of_origin": "United States",
+    "description": "<p>The execution of this elegant bedcover required great skill and an immense commitment of time on the part of the maker. In the 18th century, white bedcovers were mainly a privilege of the wealthy, as they were difficult to keep clean, but American production of cotton reduced the monetary investment involved in whole cloth quilts. A direct descendent of John Whittlesey (1623\u20131704), an original settler of Saybrook, Connecticut, Ursula Whittlesey was the daughter of Ambrose Whittlesey (a sailor by profession) (1761\u20131827) and Ann Waterhouse (1758\u20131838). She married Edward Sanford (1798\u20131888), a farmer, in 1828. The donor of the bedcover was the maker\u2019s granddaughter.</p>\n",
+    "dimensions": "235.7 \u00d7 231.1 cm (92 3/4 \u00d7 91 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 231.1,
+            "width_in": 91,
+            "height_cm": 235.7,
+            "height_in": 92.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave; quilted and stitched in trapunto technique",
+    "inscriptions": null,
+    "credit_line": "Gift of Ella R. Sanford",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.0120302603012601,
+        "population": 86
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 106323,
+    "artist_title": "Ursula Whittelsey",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        106323
+    ],
+    "artist_titles": [
+        "Ursula Whittelsey"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework - quilt"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1016"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1016"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework - quilt"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "585501d6-acd4-1333-cec9-1f6ee5758cf8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1945.98"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bedcover"
+            ],
+            "weight": 150,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:13:52-05:00",
+    "timestamp": "2023-09-24T00:43:54-05:00"
+}

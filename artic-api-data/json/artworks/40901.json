@@ -1,0 +1,183 @@
+{
+    "id": 40901,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/40901",
+    "is_boosted": false,
+    "title": "Dish",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFNSU1ZVVm5lWHBoXXRsYHRtY3x8fYR2YIF6cIB6cYR+do6Cb4WAdpCEcJSJdoCAgbCdhLOgg7OghLWihLShhsGtkMezltC+qdbGrgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYCAcA0BMWFQs1lU1CgVJycM4iBECADs=",
+        "width": 2347,
+        "height": 2250,
+        "alt_text": "A work made of glazed stoneware."
+    },
+    "main_reference_number": "1941.150",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1939,
+    "date_display": "1930/39",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Frans Wildenhain\nAmerican, born Germany, 1905-1980\nMarguerite Wildenhain\nAmerican, born French, 1896-1985",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "6.4 \u00d7 31.8 cm (2 1/2 \u00d7 12 1/2 in.); Diam.: 31.8 cm (12 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 6.4,
+            "height_in": 2.5,
+            "diameter_cm": 31.8,
+            "diameter_in": 12.5,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 31.8,
+            "diameter_in": 12.5,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glazed stoneware",
+    "inscriptions": null,
+    "credit_line": "European Decorative Arts Purchase Funds",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1942,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.6065,
+    "color": {
+        "h": 37,
+        "l": 34,
+        "s": 41,
+        "percentage": 0.03753737241325714,
+        "population": 256
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 34548,
+    "artist_title": "Frans and Marguerite Wildenhain",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34548
+    ],
+    "artist_titles": [
+        "Frans and Marguerite Wildenhain"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "stoneware",
+        "dish (vessel)",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11783",
+    "classification_title": "dish (vessel)",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-11783",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "dish (vessel)",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2484",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2484"
+    ],
+    "material_titles": [
+        "stoneware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b67a8ee6-df6c-58d5-a3d9-c962e360e053",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1941.150"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dish"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:54:53-05:00",
+    "timestamp": "2023-09-24T00:38:08-05:00"
+}

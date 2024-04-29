@@ -1,0 +1,31 @@
+{
+    "id": 40553,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40553",
+    "title": "Gaspare Diziani",
+    "sort_title": "Diziani, Gaspare",
+    "alt_titles": [
+        "Gasparo Diziani"
+    ],
+    "is_artist": true,
+    "birth_date": 1689,
+    "death_date": 1767,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gaspare Diziani",
+            "Diziani, Gaspare",
+            "Gasparo Diziani"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:12-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

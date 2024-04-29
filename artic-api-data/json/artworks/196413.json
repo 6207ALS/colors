@@ -1,0 +1,170 @@
+{
+    "id": 196413,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/196413",
+    "is_boosted": false,
+    "title": "Red Diagonal",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAOgVKekmOdI6RNo4Qe07S9tPWuNibe2PmsCvr96trcS9vNazt9a5u+agpeC8wMrGxsjIyMzKysjNzc/Pz8zY1tXU1dXV1djW1tLZ2Nfb29jY2Nza293e3tzi4uHm5uTr6ODv7e7r7OHz8QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMvFI3IsMBpQ6BAoZDYNAsDA4EwEg8SnU5EgFJRHBBIEADs=",
+        "width": 3001,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas, two joined panels."
+    },
+    "main_reference_number": "FLN29.2008",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2007,
+    "date_end": 2007,
+    "date_display": "2007",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ellsworth Kelly \nAmerican, born 1923",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "213.4 \u00d7 277.9 \u00d7 6.7 cm (84 \u00d7 109 3/8 \u00d7 2 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 6.7,
+            "depth_in": 2.625,
+            "width_cm": 277.9,
+            "width_in": 109.375,
+            "height_cm": 213.4,
+            "height_in": 84,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas, two joined panels",
+    "inscriptions": null,
+    "credit_line": "Promised gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Ellsworth Kelly Foundation",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 84.3752,
+    "color": {
+        "h": 354,
+        "l": 54,
+        "s": 78,
+        "percentage": 0.34423472528792587,
+        "population": 1834
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 35235,
+    "artist_title": "Ellsworth Kelly",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35235
+    ],
+    "artist_titles": [
+        "Ellsworth Kelly"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "red (color)",
+        "painting",
+        "white (color)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": "TM-11851",
+    "alt_subject_ids": [
+        "TM-11841"
+    ],
+    "subject_ids": [
+        "TM-11851",
+        "TM-11841"
+    ],
+    "subject_titles": [
+        "red (color)",
+        "white (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9ba11ea1-addb-0d04-8903-44a60e1b2ab3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "FLN29.2008"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Red Diagonal"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-03T10:30:16-05:00",
+    "updated_at": "2023-09-03T10:30:53-05:00",
+    "timestamp": "2023-09-24T01:38:24-05:00"
+}

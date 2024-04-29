@@ -1,0 +1,168 @@
+{
+    "id": 204453,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/204453",
+    "is_boosted": false,
+    "title": "Lover's Bench",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAE82OFk1NVVFPXNAP35xZIpsboN8eJNwcJOBe4+HhJCDgZ+Vl6ijn6ymqK6nqq2pq62qrKysrK2sra+ur7uoqq+wsbewtLS0tbW0trW1tre3t7W1uLm5urq5u7m7vsCprLy8wMDAwsPFysbHzMrN0s7Q1dDX3Nje4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwJGpxDCATiTRB0EQACgWx0ERSQQGhYeHE+poGouKZHLJbDCQIAA7",
+        "width": 3872,
+        "height": 2592,
+        "alt_text": "A work made of recycled paper, iron and chicken wire."
+    },
+    "main_reference_number": "2010.414",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2009,
+    "date_end": 2009,
+    "date_display": "2009",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Nacho Carbonell\nSpanish, 1980-",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "110 \u00d7 232 \u00d7 107 cm (42 \u00d7 91 \u00d7 43 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 107,
+            "depth_in": 43,
+            "width_cm": 232,
+            "width_in": 91,
+            "height_cm": 110,
+            "height_in": 42,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Recycled paper, iron and chicken wire",
+    "inscriptions": null,
+    "credit_line": "Funds provided by the Architecture & Design Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2011,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.343,
+    "color": {
+        "h": 2,
+        "l": 33,
+        "s": 39,
+        "percentage": 0.06457013536592549,
+        "population": 307
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 111091,
+    "artist_title": "Nacho Carbonell",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111091
+    ],
+    "artist_titles": [
+        "Nacho Carbonell"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design",
+        "paper (fiber product)",
+        "21st Century"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-13174",
+    "classification_title": "design",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d881c5fb-15e4-e434-450e-7820e323542c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.414"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lover's Bench"
+            ],
+            "weight": 319,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:45:19-05:00",
+    "timestamp": "2023-09-24T01:41:02-05:00"
+}

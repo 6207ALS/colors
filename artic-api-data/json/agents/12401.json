@@ -1,0 +1,43 @@
+{
+    "id": 12401,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/12401",
+    "title": "WPA Federal Art Project",
+    "sort_title": "WPA Federal Art Project",
+    "alt_titles": [
+        "Work Progress Administration",
+        "WPA2",
+        "W.P.A. Art Project",
+        "Illinois W.P.A. Art Project",
+        "United States, Works Progress Administration (IL.)",
+        "FAP",
+        "Federal Art Project"
+    ],
+    "is_artist": true,
+    "birth_date": 1935,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "WPA Federal Art Project",
+            "WPA Federal Art Project",
+            "Work Progress Administration",
+            "WPA2",
+            "W.P.A. Art Project",
+            "Illinois W.P.A. Art Project",
+            "United States, Works Progress Administration (IL.)",
+            "FAP",
+            "Federal Art Project"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-26T12:19:39-05:00",
+    "updated_at": "2021-10-26T12:20:52-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

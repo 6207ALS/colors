@@ -1,0 +1,177 @@
+{
+    "id": 3759,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/3759",
+    "is_boosted": false,
+    "title": "The Holy Family",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIaEbo6Lco+MdJCNdJOQd5SSeZaTepiWfZqXfpuYf52agZ6bgZ+cgqqnjauojQAAACH5BAAAAAAALAAAAAADAAUAAAQL0Ii0FBkolANcYxEAOw==",
+        "width": 2194,
+        "height": 3210,
+        "alt_text": "A work made of engraving on ivory laid paper."
+    },
+    "main_reference_number": "1956.837",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1465,
+    "date_end": 1503,
+    "date_display": "1475/85",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440/45-1503",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "24.8 \u00d7 16.9 cm (9 13/16 \u00d7 6 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16.9,
+            "width_in": 6.6536,
+            "height_cm": 24.8,
+            "height_in": 9.7638,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Engraving on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Potter Palmer, Jr.",
+    "catalogue_display": "<p>Lehrs IX.217</p><p>Bartsch VI.257.148</p><p>Geisberg 186</p><p>Hollstein XXIV.217</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.2707,
+    "color": {
+        "h": 52,
+        "l": 50,
+        "s": 10,
+        "percentage": 0.07436846930833475,
+        "population": 773
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 37116,
+    "artist_title": "Israhel van Meckenem, the younger",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37116
+    ],
+    "artist_titles": [
+        "Israhel van Meckenem, the younger"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "ink"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8adaf2d2-0852-9ebc-c611-df869a0ef913",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.837"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Holy Family"
+            ],
+            "weight": 187,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-04-10T15:01:16-05:00",
+    "timestamp": "2023-09-24T00:21:55-05:00"
+}

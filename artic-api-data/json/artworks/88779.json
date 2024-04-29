@@ -1,0 +1,179 @@
+{
+    "id": 88779,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/88779",
+    "is_boosted": false,
+    "title": "Panel (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFpPUl1TWXBdX2FdZXtgYnlgZm9scINjaIhudoJ1dpB2fn92gHp5gZV7gJZ8gpZ+hJOChZ+FiJ6Hj5aMj5uXnKSJiaSNjaWPk6ecnQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYPIsDQBZAsIQEhUFWFUoxnFNzhACADs=",
+        "width": 985,
+        "height": 1075,
+        "alt_text": "A work made of cotton, plain weave; block printed."
+    },
+    "main_reference_number": "1928.793a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "a: 182 \u00d7 68 cm (71 5/8 \u00d7 26 3/4 in.); b: 180 \u00d7 66.7 cm (70 7/8 \u00d7 26 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68,
+            "width_in": 26.75,
+            "height_cm": 182,
+            "height_in": 71.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "a"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 66.7,
+            "width_in": 26.25,
+            "height_cm": 180,
+            "height_in": 70.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "b"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; block printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1929,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.6652,
+    "color": {
+        "h": 359,
+        "l": 37,
+        "s": 43,
+        "percentage": 0.05144669658053536,
+        "population": 399
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "block printing",
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-3942",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3942"
+    ],
+    "technique_titles": [
+        "block printing"
+    ],
+    "theme_titles": [],
+    "image_id": "a216ade9-169b-deed-ba71-fff31338ec12",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1928.793a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel (Furnishing Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:43:46-05:00",
+    "timestamp": "2023-09-24T00:59:09-05:00"
+}

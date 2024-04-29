@@ -1,0 +1,183 @@
+{
+    "id": 139985,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/139985",
+    "is_boosted": false,
+    "title": "Sheet II from Russian Ballet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAE1BKW1rXHt0YIR/cYeBcJWSfpmVhZmXiKCai764pr+6qMK+rMTBrsXDsAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMCm1GjPkDBCQKBEAOw==",
+        "width": 1893,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in five colors on single sheet of cream wove paper."
+    },
+    "main_reference_number": "1991.691.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1914,
+    "date_end": 1919,
+    "date_display": "1914/19",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "David Bomberg\nEnglish, 1890-1957",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image: 10.3 \u00d7 9.8 cm (4 1/16 \u00d7 3 7/8 in.); Sheet: 21.3 \u00d7 13.4 cm (8 7/16 \u00d7 5 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.8,
+            "width_in": 3.8583,
+            "height_cm": 10.3,
+            "height_in": 4.0552,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.4,
+            "width_in": 5.2756,
+            "height_cm": 21.3,
+            "height_in": 8.3859,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in five colors on single sheet of cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+    "catalogue_display": "<p>Tate 63</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.779,
+    "color": {
+        "h": 46,
+        "l": 46,
+        "s": 70,
+        "percentage": 0.01163154118808646,
+        "population": 131
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42785,
+    "artist_title": "David Bomberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42785
+    ],
+    "artist_titles": [
+        "David Bomberg"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6826a964-8d22-36df-fe08-e9d57b0279d1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.691.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sheet II from Russian Ballet"
+            ],
+            "weight": 41,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:22:52-05:00",
+    "timestamp": "2023-09-24T01:22:07-05:00"
+}

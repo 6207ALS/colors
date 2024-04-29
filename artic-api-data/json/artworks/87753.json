@@ -1,0 +1,180 @@
+{
+    "id": 87753,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/87753",
+    "is_boosted": false,
+    "title": "Vase entitled \"Pegasus\"",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFhXWWBfYWBfYmZmZ3BwcHR0doSEhpOTlZiYmZ+go6isr66usLOzs7i5vLi6vQAAACH5BAAAAAAALAAAAAADAAUAAAQLMAhAyjjILJaaUxEAOw==",
+        "width": 1519,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1938.216",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1937,
+    "date_end": 1937,
+    "date_display": "1937",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Sidney B. Waugh\nAmerican, 1904\u20131963\nMade by Steuben Division, Corning Glass Works\nAmerican, 1903\u20132012\nCorning, New York",
+    "place_of_origin": "Corning",
+    "description": null,
+    "dimensions": "18.3 \u00d7 8.6 \u00d7 10.3 cm (7 1/8 \u00d7 3 3/8 \u00d7 4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.3,
+            "depth_in": 4,
+            "width_cm": 8.6,
+            "width_in": 3.375,
+            "height_cm": 18.3,
+            "height_in": 7.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Allerton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1939,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.6496,
+    "color": {
+        "h": 247,
+        "l": 42,
+        "s": 0,
+        "percentage": 0.21388403724165572,
+        "population": 2252
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 37241,
+    "artist_title": "Sidney Waugh",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37241
+    ],
+    "artist_titles": [
+        "Sidney Waugh"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6a59da06-a49c-b5c0-f421-76c704e22e22",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.216"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase entitled \"Pegasus\""
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:17:53-05:00",
+    "timestamp": "2023-09-24T00:58:50-05:00"
+}

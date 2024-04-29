@@ -1,0 +1,33 @@
+{
+    "id": 9731,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9731",
+    "title": "William Gilpin",
+    "sort_title": "Gilpin, William",
+    "alt_titles": [
+        "The Reverend William Gilpin",
+        "Rev. William Gilpin"
+    ],
+    "is_artist": true,
+    "birth_date": 1724,
+    "death_date": 1804,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Gilpin",
+            "Gilpin, William",
+            "The Reverend William Gilpin",
+            "Rev. William Gilpin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:02-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

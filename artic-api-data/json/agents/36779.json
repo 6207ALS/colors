@@ -1,0 +1,28 @@
+{
+    "id": 36779,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36779",
+    "title": "Evelyn Statsinger",
+    "sort_title": "Statsinger, Evelyn",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1927,
+    "death_date": 2016,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Evelyn Statsinger",
+            "Statsinger, Evelyn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-09-23T11:03:57-05:00",
+    "updated_at": "2020-09-23T11:05:42-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

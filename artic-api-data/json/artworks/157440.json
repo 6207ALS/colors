@@ -1,0 +1,187 @@
+{
+    "id": 157440,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/157440",
+    "is_boosted": false,
+    "title": "Giraffes",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAK6gibKljrmtmMnBq8/FsNTKttTNuNbPutfPvdjSvtnSv9vUv9zWwuPbyOHeyuLdzObh0Ojk0ujm0+rm0+3m1O3p1u7p2O/q2e7q2vHu3fLv3PTv3vTx4vz56gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoHVljjFxGJQIUVcoB/BsjDQECFVpC9GEADs=",
+        "width": 3000,
+        "height": 2393,
+        "alt_text": "A work made of colored pencil on paper."
+    },
+    "main_reference_number": "1943.2081",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1935,
+    "date_end": 1943,
+    "date_display": "1935/43",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Unknown Artist\nAmerican, 20th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 52.7 \u00d7 61 cm (20 3/4 \u00d7 24 1/16 in.); Sheet: 58.5 \u00d7 73.8 cm (23 1/16 \u00d7 29 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 61,
+            "width_in": 24.0158,
+            "height_cm": 52.7,
+            "height_in": 20.7481,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73.8,
+            "width_in": 29.0552,
+            "height_cm": 58.5,
+            "height_in": 23.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Colored pencil on paper",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.6043,
+    "color": {
+        "h": 47,
+        "l": 90,
+        "s": 46,
+        "percentage": 1.3666468960063267,
+        "population": 7742
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 106071,
+    "artist_title": "Unknown artist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        106071
+    ],
+    "artist_titles": [
+        "Unknown artist"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "colored pencil",
+        "paper (fiber product)",
+        "prints and drawing",
+        "drawings (visual works)",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-296",
+    "classification_title": "colored pencil",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-5",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-296",
+        "TM-4",
+        "TM-5",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "colored pencil",
+        "prints and drawing",
+        "drawings (visual works)",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8091f0a4-b8bb-3ec9-0d52-8d7c222a210c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.2081"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Giraffes"
+            ],
+            "weight": 23,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:18-05:00",
+    "updated_at": "2023-04-07T16:27:39-05:00",
+    "timestamp": "2023-09-24T01:31:19-05:00"
+}

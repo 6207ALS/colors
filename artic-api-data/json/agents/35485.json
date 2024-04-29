@@ -1,0 +1,31 @@
+{
+    "id": 35485,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35485",
+    "title": "Dorothy Liebes",
+    "sort_title": "Liebes, Dorothy",
+    "alt_titles": [
+        "Dorothy Wright Liebes"
+    ],
+    "is_artist": true,
+    "birth_date": 1897,
+    "death_date": 1971,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dorothy Liebes",
+            "Liebes, Dorothy",
+            "Dorothy Wright Liebes"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-30T10:03:46-06:00",
+    "updated_at": "2020-12-30T10:05:48-06:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 34231,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34231",
+    "title": "Gilles Antoine Demarteau, the Younger",
+    "sort_title": "Demarteau, Gilles Antoine, the Younger",
+    "alt_titles": [
+        "Gilles Antoine Demarteau, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1750,
+    "death_date": 1806,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gilles Antoine Demarteau, the Younger",
+            "Demarteau, Gilles Antoine, the Younger",
+            "Gilles Antoine Demarteau, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:03:02-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

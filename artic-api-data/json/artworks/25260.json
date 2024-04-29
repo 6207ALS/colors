@@ -1,0 +1,168 @@
+{
+    "id": 25260,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/25260",
+    "is_boosted": false,
+    "title": "Beaker",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHBwb3FxcHJxcJyamJycm5+dm6CfnszLyczLy9TS0dXU1N3b2eDd3Obl5Ojm5ejo6Ono6fHx8fLy8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIBAIAGEUA6Ikx7MwUNQ4UggAOw==",
+        "width": 1791,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1966.143",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1930,
+    "date_display": "c. 1925",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Ren\u00e9 Lalique (French, 1860-1945)\nManufactured by Lalique et Cie (French, founded 1885)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "10.6 \u00d7 9.7 cm (4 3/16 \u00d7 3 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.7,
+            "width_in": 3.8125,
+            "height_cm": 10.6,
+            "height_in": 4.1875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of John Wyatt Gregg Allerton as addition to the Robert Allerton Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1966,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.2263,
+    "color": {
+        "h": 44,
+        "l": 49,
+        "s": 0,
+        "percentage": 0.07314584250456742,
+        "population": 653
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 21584,
+    "artist_title": "Rene Lalique et Cie.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21584
+    ],
+    "artist_titles": [
+        "Rene Lalique et Cie."
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "glass",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "glass",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "df546329-9f80-0648-36d8-856ec7678c0d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1966.143"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Beaker"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:58:51-05:00",
+    "timestamp": "2023-09-24T00:31:27-05:00"
+}

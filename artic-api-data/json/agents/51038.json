@@ -1,0 +1,28 @@
+{
+    "id": 51038,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51038",
+    "title": "Bill Witt",
+    "sort_title": "Witt, Bill",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1921,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bill Witt",
+            "Witt, Bill"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:28:23-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

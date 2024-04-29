@@ -1,0 +1,176 @@
+{
+    "id": 5694,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/5694",
+    "is_boosted": false,
+    "title": "Wall Hanging",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADU1NU1NTU9PT1lZWVtbW1xcXGZmZnZ2doCAgIaGhoqKiqOjo6ioqAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAADAAUAAAQLsKSFAEnHCMJGUBEAOw==",
+        "width": 1397,
+        "height": 2691,
+        "alt_text": "A work made of handwoven wool, double weave."
+    },
+    "main_reference_number": "1957.198",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1901,
+    "date_end": 1957,
+    "date_display": "20th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Emily K. Wilson (American, active c. 1901\u20132000)\nUnited States, Indiana, Bloomington",
+    "place_of_origin": "Indiana",
+    "description": null,
+    "dimensions": "59.7 \u00d7 119.4 cm (23 1/2 \u00d7 47 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 119.4,
+            "width_in": 47,
+            "height_cm": 59.7,
+            "height_in": 23.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Handwoven wool, double weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Abel Fagen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.029436857575279467,
+        "population": 403
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Coverings and Hangings",
+    "artwork_type_id": 38,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 98387,
+    "artist_title": "Emily K. Wilson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        98387
+    ],
+    "artist_titles": [
+        "Emily K. Wilson"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving",
+        "fiber art"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-10653"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-10653"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "fiber art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "3ebefe9b-3566-4c27-9de8-b51af0c2acd2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1957.198"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Wall Hanging"
+            ],
+            "weight": 374,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-04-10T14:57:01-05:00",
+    "timestamp": "2023-09-24T00:22:45-05:00"
+}

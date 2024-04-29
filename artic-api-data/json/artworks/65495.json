@@ -1,0 +1,176 @@
+{
+    "id": 65495,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/65495",
+    "is_boosted": false,
+    "title": "Teapot",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABglSiAxViw+aSw/cFZdcnd4f3d5gWt4mn6JqI6TnpiaopSZqKCgoKGipKurqKqrq6iprqusraqsrq6urbGwrauus7e2t8HAv8fHxsvLy9DQ0NXV1dbW197e3gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4ENNkcNIFXIkzbUMAmFtEBAoWpcZBcaFADs=",
+        "width": 2927,
+        "height": 2250,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1912.58",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1835,
+    "date_end": 1835,
+    "date_display": "c. 1835",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Enoch Wood & Sons\nEnglish, active 1818\u20131846\nMade for the American market\nStaffordshire",
+    "place_of_origin": "Burslem",
+    "description": null,
+    "dimensions": "19.1 \u00d7 13.3 cm (7 1/2 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.3,
+            "width_in": 5.25,
+            "height_cm": 19.1,
+            "height_in": 7.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware",
+    "inscriptions": "Stamped on bottom: Wood",
+    "credit_line": "Amelia Blanxius Collection, gift of Emma B. Hodge and Jene E. Bell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.9547,
+    "color": {
+        "h": 223,
+        "l": 44,
+        "s": 77,
+        "percentage": 0.001464493358522619,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 34408,
+    "artist_title": "Enoch Wood and Sons",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34408
+    ],
+    "artist_titles": [
+        "Enoch Wood and Sons"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "teapot",
+        "earthenware",
+        "earthenware",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11780",
+    "classification_title": "teapot",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11780",
+        "TM-74",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "teapot",
+        "earthenware",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6ccb0e48-b643-d297-d656-f835005c1ebe",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1912.58"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Teapot"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:17:29-05:00",
+    "timestamp": "2023-09-24T00:48:46-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 117334,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/117334",
+    "title": "West Baffin Eskimo Co-operative",
+    "sort_title": "West Baffin Eskimo Co-operative",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "West Baffin Eskimo Co-operative",
+            "West Baffin Eskimo Co-operative"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-04T10:27:49-06:00",
+    "updated_at": "2020-12-04T10:30:44-06:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

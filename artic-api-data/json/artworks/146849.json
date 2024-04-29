@@ -1,0 +1,189 @@
+{
+    "id": 146849,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146849",
+    "is_boosted": false,
+    "title": "Martha Graham",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABoYFx4cGiAdGzUwKUY/NWtjV3huXnxxX4l+a4+Ca5eJc5qNd5yOeKqbgsW1nMy6m9G+oNbDpPHfwfTjxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDQ5UFMQTDIEyCEARrQoTwgAOw==",
+        "width": 2274,
+        "height": 2982,
+        "alt_text": "A work made of ink, charcoal, graphite and wash on paper."
+    },
+    "main_reference_number": "1996.789",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1940,
+    "date_display": "c. 1935",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Augustus Peck\nAmerican, 1906-1975",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "30.1 \u00d7 22.6 cm (11 7/8 \u00d7 8 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.6,
+            "width_in": 8.8977,
+            "height_cm": 30.1,
+            "height_in": 11.8504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink, charcoal, graphite and wash on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Anthony R. White",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.2976,
+    "color": {
+        "h": 37,
+        "l": 63,
+        "s": 29,
+        "percentage": 0.02157775237113734,
+        "population": 201
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 44425,
+    "artist_title": "Augustus Peck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44425
+    ],
+    "artist_titles": [
+        "Augustus Peck"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "ink and wash",
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "graphite",
+        "charcoal",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1382",
+    "classification_title": "ink and wash",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-1382",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "ink and wash",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-2399",
+        "TM-2410",
+        "TM-2411"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-2399",
+        "TM-2410",
+        "TM-2411"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "graphite",
+        "charcoal"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "09ba359d-c205-b8e8-cbb5-daa3c355f983",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.789"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Martha Graham"
+            ],
+            "weight": 122,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:07:34-05:00",
+    "timestamp": "2023-09-24T01:25:43-05:00"
+}

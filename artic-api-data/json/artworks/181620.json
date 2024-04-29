@@ -1,0 +1,172 @@
+{
+    "id": 181620,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/181620",
+    "is_boosted": false,
+    "title": "Lacock Abbey",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAAkIBwwMCg0MCg0MCxAPDRIRDxISERQTERwbGB4dHC8sJi4tKzAvKTk1KTU0Mzc1NDc2NTg2NTk4Nzs5N05KOlBIN1dNPFROQFZOQVxSQF1URVtZVWFZTHNpW3BpXnhyZoF6cIV/dYqEfZuXkbKtqLu3sgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwMTDAYFIIoZNaRT6iEgTBkhjyVQ8C0WHc8E0KAhB4VAYBAiAIAA7",
+        "width": 6215,
+        "height": 4064,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "2003.125",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2002,
+    "date_end": 2002,
+    "date_display": "2002",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Thomas Kellner\nGerman, born 1966",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "30.5 \u00d7 68.1 cm (12 1/16 \u00d7 26 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68.1,
+            "width_in": 26.8111,
+            "height_cm": 30.5,
+            "height_in": 12.0079,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Robert A. and Doris Taub",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.4252,
+    "color": {
+        "h": 39,
+        "l": 34,
+        "s": 23,
+        "percentage": 0.06060137191190881,
+        "population": 282
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 98805,
+    "artist_title": "Thomas Kellner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        98805
+    ],
+    "artist_titles": [
+        "Thomas Kellner"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "chromogenic color print",
+        "21st Century",
+        "photograph",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-558",
+    "classification_title": "chromogenic color print",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-558",
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "chromogenic color print",
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b56a05c4-7fbc-6b1f-a08e-be0b30e0d6f5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2003.125"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lacock Abbey"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:17:48-05:00",
+    "timestamp": "2023-09-24T01:33:33-05:00"
+}

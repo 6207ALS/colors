@@ -1,0 +1,164 @@
+{
+    "id": 49870,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/49870",
+    "is_boosted": false,
+    "title": "Alcazar de Seville",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAIiFfY+LgZiUiZqXjZuXja6robCsorGuo7u4rb26r8K+s8K/s8TBtMTBt8nEuMjFucnGu9HNwNDMwdLQxNfVyeHe1OTh1eXk2O3r4AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYEVdVoRNxcM0xwAghkAEibQ4ChQCADs=",
+        "width": 3000,
+        "height": 2942,
+        "alt_text": "A work made of photoglyphic engraving employing resin ground."
+    },
+    "main_reference_number": "1975.1048",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1848,
+    "date_end": 1863,
+    "date_display": "c. 1853/58",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "William Henry Fox Talbot\nEnglish, 1800\u20131877",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "6.9 \u00d7 6.9 cm (image); 20.9 \u00d7 17.1 (paper)",
+    "dimensions_detail": [],
+    "medium_display": "Photoglyphic engraving employing resin ground",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Frank Kolodny",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1976,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.2974,
+    "color": {
+        "h": 40,
+        "l": 50,
+        "s": 6,
+        "percentage": 0.11575518424008228,
+        "population": 807
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36875,
+    "artist_title": "William Henry Fox Talbot",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36875
+    ],
+    "artist_titles": [
+        "William Henry Fox Talbot"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "engraving",
+        "19th century",
+        "printing process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-2171",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-2171",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "engraving",
+        "printing process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8c0d1015-4d11-87da-bdb8-c3c39c1c44ea",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1975.1048"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Alcazar de Seville"
+            ],
+            "weight": 108,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:01-05:00",
+    "updated_at": "2023-04-10T15:26:27-05:00",
+    "timestamp": "2023-09-24T00:42:25-05:00"
+}

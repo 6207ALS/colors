@@ -1,0 +1,160 @@
+{
+    "id": 111852,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111852",
+    "is_boosted": false,
+    "title": "Mrs. R.",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHNxY4yKe7i0o7+9q8G+rcXBsMjFtMzIuOLezeLfzujk1Orm1ezn1uzn1+vo1+7q2e/r2vLs3fLu3fPu3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGMcTQIECiIMzlIQUPRIUwgAOw==",
+        "width": 2376,
+        "height": 3000,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1927.3469",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1879,
+    "date_end": 1927,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Childe Hassam\nAmerican, 1859-1935",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": "<p>Cortissoz 60</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.1617,
+    "color": {
+        "h": 42,
+        "l": 49,
+        "s": 10,
+        "percentage": 0.015162461313425912,
+        "population": 136
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34864,
+    "artist_title": "Childe Hassam",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34864
+    ],
+    "artist_titles": [
+        "Childe Hassam"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "be8ad7af-4f6c-1c6a-1f1f-72e2add42902",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.3469"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mrs. R."
+            ],
+            "weight": 82,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2020-09-12T16:56:11-05:00",
+    "updated_at": "2023-04-10T15:31:07-05:00",
+    "timestamp": "2023-09-24T01:10:02-05:00"
+}

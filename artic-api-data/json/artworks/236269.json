@@ -1,0 +1,169 @@
+{
+    "id": 236269,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/236269",
+    "is_boosted": false,
+    "title": "Vault House",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGN9eHCCeqyDWqiHZ66JY7CLY16Zm2qfo4SUkoyZkLahh6GopcixlMu/raTDw8zQy8LW0tvg2dzj39nl4eXt6ubt6urv6vDz7vL07/T07vT18PT28PT28fb28fv69fz59Pz79vv9+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwMUH1MFsOI8JxOLRaCgHg0NyyUQCgASiEmIICoSBohEEADs=",
+        "width": 3000,
+        "height": 2113,
+        "alt_text": "A work made of photocollage."
+    },
+    "main_reference_number": "2016.184.6",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2013,
+    "date_end": 2013,
+    "date_display": "2013",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Johnston Marklee (American, founded 1998)\nSharon Johnston (American, born 1965)\nMark Lee (Chinese, born 1967)",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "81 \u00d7 115 cm (32 \u00d7 45 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 115,
+            "width_in": 45.25,
+            "height_cm": 81,
+            "height_in": 32,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Photocollage",
+    "inscriptions": null,
+    "credit_line": "Funds provided by the Architecture & Design Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.0765,
+    "color": {
+        "h": 180,
+        "l": 54,
+        "s": 20,
+        "percentage": 0.2408486514275884,
+        "population": 1204
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 38186,
+    "artist_title": "Johnston Marklee",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        38186
+    ],
+    "artist_titles": [
+        "Johnston Marklee"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "21st Century",
+        "photograph",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3f7f0b83-df64-7ca2-94d7-e7d8eea4e38d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.184.6"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vault House"
+            ],
+            "weight": 20,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:02:49-05:00",
+    "timestamp": "2023-09-24T01:51:58-05:00"
+}

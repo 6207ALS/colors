@@ -1,0 +1,180 @@
+{
+    "id": 64627,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/64627",
+    "is_boosted": false,
+    "title": "Dish",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFJRSnh4bnh3cH99d4iGgJSSjJuYkaOhn6Oio6alpKempqmnp6moqa6trbGvqbCvqrCvr7Szs8XFxcfIx9HQz9LR0NTU1NbW1tjW1AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoLIcCdIUA8FEAhBAkmM801VhlBUCADs=",
+        "width": 2250,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1982.66",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1964,
+    "date_display": "1960\u201364",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Maurice Heaton\nAmerican, born Switzerland, 1900\u20131990\nValley Cottage, New York",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "3.2 \u00d7 22.5 \u00d7 23.5 cm (1 1/4 \u00d7 8 7/8 \u00d7 9 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 23.5,
+            "depth_in": 9.25,
+            "width_cm": 22.5,
+            "width_in": 8.875,
+            "height_cm": 3.2,
+            "height_in": 1.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. & Mrs. William G. Swartchild Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.1549,
+    "color": {
+        "h": 59,
+        "l": 52,
+        "s": 16,
+        "percentage": 0.014353077257549089,
+        "population": 102
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 34883,
+    "artist_title": "Maurice Heaton",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34883
+    ],
+    "artist_titles": [
+        "Maurice Heaton"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "dish (vessel)",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11783",
+    "classification_title": "dish (vessel)",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11783",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "dish (vessel)",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4d41d425-24e0-fd1c-e30e-dbe6ffff5938",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.66"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dish"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:22:39-05:00",
+    "timestamp": "2023-09-24T00:48:28-05:00"
+}

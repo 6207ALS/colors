@@ -1,0 +1,41 @@
+{
+    "id": 41763,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41763",
+    "title": "Diana Scultori",
+    "sort_title": "Scultori, Diana",
+    "alt_titles": [
+        "Diana Scuttori",
+        "Diana Scultori, (Mantovana)",
+        "Diana Ghisi",
+        "Diana Scultore, (Mantovana)",
+        "Diana Scultor, (Mantovana)",
+        "Diana Sculptor, (Mantovana)"
+    ],
+    "is_artist": true,
+    "birth_date": 1536,
+    "death_date": 1590,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Diana Scultori",
+            "Scultori, Diana",
+            "Diana Scuttori",
+            "Diana Scultori, (Mantovana)",
+            "Diana Ghisi",
+            "Diana Scultore, (Mantovana)",
+            "Diana Scultor, (Mantovana)",
+            "Diana Sculptor, (Mantovana)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-02T08:46:26-06:00",
+    "updated_at": "2022-03-15T16:42:26-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

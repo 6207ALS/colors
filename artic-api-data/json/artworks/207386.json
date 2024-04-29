@@ -1,0 +1,169 @@
+{
+    "id": 207386,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/207386",
+    "is_boosted": false,
+    "title": "The Three Graces",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFpSSlpSTHFoYIB4boN6cIZ+c4Z+dY2EepOIfJKJfpeOhKKaj6iflLStogAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsDFUTjpmEaBEGBEAOw==",
+        "width": 3731,
+        "height": 6065,
+        "alt_text": "A work made of black and white and color photographs (538)."
+    },
+    "main_reference_number": "2011.39.1-538",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1995,
+    "date_display": "c. 1900-90",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Photographers unknown\nCollected by Peter J. Cohen (American)",
+    "place_of_origin": "Unknown Place",
+    "description": null,
+    "dimensions": "Various dimensions",
+    "dimensions_detail": [],
+    "medium_display": "Black and white and color photographs (538)",
+    "inscriptions": null,
+    "credit_line": "Gift of Peter J. Cohen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2011,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.635,
+    "color": {
+        "h": 42,
+        "l": 91,
+        "s": 42,
+        "percentage": 0.003639303437322097,
+        "population": 42
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117550,
+    "artist_title": "Unknown Maker",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117550
+    ],
+    "artist_titles": [
+        "Unknown Maker"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "black-and-white photography",
+        "photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "9703630e-9afa-d680-e52b-2f6fb0825251",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2011.39.1-538"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Three Graces"
+            ],
+            "weight": 60,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-07T16:30:47-05:00",
+    "updated_at": "2023-08-07T16:30:57-05:00",
+    "timestamp": "2023-09-24T01:41:21-05:00"
+}

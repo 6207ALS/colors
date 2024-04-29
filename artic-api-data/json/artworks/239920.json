@@ -1,0 +1,183 @@
+{
+    "id": 239920,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/239920",
+    "is_boosted": false,
+    "title": "Levi's Collages",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIF2Z46KeYOBgp6Uh7i0qr+7vMq+v8/Fv8vDwNfT0djU1OHf3+3q7u3s7e/s7fTp6/Tx8vXy8vbz8/f09Pb19fj09Pj19fj29/r39/78/f/8/f78/gAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYHRtmQVRz4FAWGMAg+JMixAQjIQlhVaFADs=",
+        "width": 5795,
+        "height": 4607,
+        "alt_text": "A work made of paper."
+    },
+    "main_reference_number": "2017.514.1-16",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1994,
+    "date_end": 1994,
+    "date_display": "1994",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Rick Valicenti \nAmerican, born 1951",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "27 \u00d7 36 cm (10 3/4 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36,
+            "width_in": 14,
+            "height_cm": 27,
+            "height_in": 10.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Rick Valicenti",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.4828,
+    "color": {
+        "h": 352,
+        "l": 39,
+        "s": 76,
+        "percentage": 0.013101751031320268,
+        "population": 74
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 112565,
+    "artist_title": "Rick Valicenti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112565
+    ],
+    "artist_titles": [
+        "Rick Valicenti"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "graphic design",
+        "20th Century",
+        "graphic design",
+        "collage",
+        "figures (representations)"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-12308",
+    "classification_title": "graphic design",
+    "alt_classification_ids": [
+        "TM-391"
+    ],
+    "classification_ids": [
+        "TM-12308",
+        "TM-391"
+    ],
+    "classification_titles": [
+        "graphic design",
+        "collage"
+    ],
+    "subject_id": "TM-13337",
+    "alt_subject_ids": [
+        "TM-12283"
+    ],
+    "subject_ids": [
+        "TM-13337",
+        "TM-12283"
+    ],
+    "subject_titles": [
+        "graphic design",
+        "figures (representations)"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "aaf3c910-b7c5-2895-1086-2e0f05ac9425",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.514.1-16"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Levi's Collages"
+            ],
+            "weight": 3,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:34-05:00",
+    "updated_at": "2023-06-02T17:47:41-05:00",
+    "timestamp": "2023-09-24T01:53:06-05:00"
+}

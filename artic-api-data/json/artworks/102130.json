@@ -1,0 +1,172 @@
+{
+    "id": 102130,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102130",
+    "is_boosted": false,
+    "title": "X-Frame Armchair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAA8AAFZHQ3RmZHxwb4V7eYh8ep+Skp2YnKCZoqagq8/K0tzZ3N7e4eDe4ePi5QAAACH5BAAAAAAALAAAAAADAAUAAAQLsDG3RCFgmHBUQhEAOw==",
+        "width": 669,
+        "height": 1010,
+        "alt_text": "A work made of sweet chestnut and wool cushion."
+    },
+    "main_reference_number": "1984.60",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1840,
+    "date_end": 1845,
+    "date_display": "1840/45",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Lewis Nockalls Cottingham (English, 1787-1847)\nPossibly after T. F. Hunt (Scottish, c. 1791-1831)\nEngland",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "113.1 \u00d7 55.3 \u00d7 71.8 cm (44 1/2 \u00d7 21 3/4 \u00d7 28 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 71.8,
+            "depth_in": 28.25,
+            "width_cm": 55.3,
+            "width_in": 21.75,
+            "height_cm": 113.1,
+            "height_in": 44.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Sweet chestnut and wool cushion",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Leslie Fund and Mrs. Richard G. Lydy; European Decorative Arts Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1984,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.8167,
+    "color": {
+        "h": 2,
+        "l": 50,
+        "s": 18,
+        "percentage": 0.00046592286740114745,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 231",
+    "gallery_id": 25293,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 30809,
+    "artist_title": "Lewis Nockalls Cottingham",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30809
+    ],
+    "artist_titles": [
+        "Lewis Nockalls Cottingham"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "seating",
+        "furniture",
+        "furniture",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "acae1f2f-d34c-983a-8bf0-f11b3b2e98a0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.60"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "X-Frame Armchair"
+            ],
+            "weight": 291,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:42:14-05:00",
+    "timestamp": "2023-09-24T01:06:00-05:00"
+}

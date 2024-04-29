@@ -1,0 +1,42 @@
+{
+    "id": 34049,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34049",
+    "title": "Gustave Courbet",
+    "sort_title": "Courbet, Gustave",
+    "alt_titles": [
+        "Giustav Kurbe",
+        "Jean D\u00e9sir\u00e9 Gustave Courbet"
+    ],
+    "is_artist": true,
+    "birth_date": 1819,
+    "death_date": 1877,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Gustave Courbet",
+            "Courbet, Gustave",
+            "Giustav Kurbe",
+            "Jean D\u00e9sir\u00e9 Gustave Courbet"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gustave Courbet",
+            "Courbet, Gustave",
+            "Giustav Kurbe",
+            "Jean D\u00e9sir\u00e9 Gustave Courbet"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:39:26-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

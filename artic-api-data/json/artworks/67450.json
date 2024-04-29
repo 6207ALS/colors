@@ -1,0 +1,176 @@
+{
+    "id": 67450,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/67450",
+    "is_boosted": false,
+    "title": "Figure of Geoffrey Chaucer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABMREx0cHSAbHSoqK1NOS1RMS1NPUV9ZVX93dYyCeZWNhZiPgKGZnayio6uipQAAACH5BAAAAAAALAAAAAADAAUAAAQLEIwg1CmLoGRcYxEAOw==",
+        "width": 1365,
+        "height": 2250,
+        "alt_text": "A work made of lead-glazed earthenware."
+    },
+    "main_reference_number": "1912.960",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1785,
+    "date_end": 1795,
+    "date_display": "c. 1790",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Ralph Wood (the Younger)\nEnglish, 1748-95",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": "30.8 \u00d7 13.3 \u00d7 13.3 cm (12 1/8 \u00d7 5 1/4 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 13.3,
+            "depth_in": 5.25,
+            "width_cm": 13.3,
+            "width_in": 5.25,
+            "height_cm": 30.8,
+            "height_in": 12.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lead-glazed earthenware",
+    "inscriptions": null,
+    "credit_line": "The Amelia Blanxius Collection, gift of Mrs. Emma B. Hodge and Mrs. Jene E. Bell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.8182,
+    "color": {
+        "h": 163,
+        "l": 52,
+        "s": 16,
+        "percentage": 0.0029015933160944554,
+        "population": 34
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 30260,
+    "artist_title": "Staffordshire Potteries",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30260
+    ],
+    "artist_titles": [
+        "Staffordshire Potteries"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "earthenware",
+        "earthenware",
+        "european decorative arts",
+        "ceramics",
+        "lead-glazed earthenware"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46",
+        "TM-11132"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-1394",
+        "TM-46",
+        "TM-11132"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "european decorative arts",
+        "ceramics",
+        "lead-glazed earthenware"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "659f66cb-7296-f972-b555-245a80619c7d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1912.960"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Figure of Geoffrey Chaucer"
+            ],
+            "weight": 80,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:48:23-05:00",
+    "timestamp": "2023-09-24T00:49:38-05:00"
+}

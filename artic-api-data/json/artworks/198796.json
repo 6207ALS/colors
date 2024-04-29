@@ -1,0 +1,175 @@
+{
+    "id": 198796,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/198796",
+    "is_boosted": false,
+    "title": "Flower Basket",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFNGQ1hNSqijoq+tq7Sxr7Sysbe0s7i2tbm3tby3tMnFxMnGxcvHxMnHxs3MzAAAACH5BAAAAAAALAAAAAADAAUAAAQLcLGjEiJhGFCcaBEAOw==",
+        "width": 4672,
+        "height": 7427,
+        "alt_text": "A work made of bamboo."
+    },
+    "main_reference_number": "2009.101",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1914,
+    "date_end": 1924,
+    "date_display": "1919",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hayakawa Sh\u00f4kosai III\nJapanese, 1864\u20131922",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "60 \u00d7 22.7 \u00d7 20.5 cm (23 5/8 \u00d7 9 \u00d7 8 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 20.5,
+            "depth_in": 8.125,
+            "width_cm": 22.7,
+            "width_in": 9,
+            "height_cm": 60,
+            "height_in": 23.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bamboo",
+    "inscriptions": null,
+    "credit_line": "Gift of Pamela Crutchfield in memory of Myron R. Szold",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.2796,
+    "color": {
+        "h": 6,
+        "l": 45,
+        "s": 19,
+        "percentage": 0.0021246082753492326,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 111344,
+    "artist_title": "Hayakawa Sh\u014dkosai III",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111344
+    ],
+    "artist_titles": [
+        "Hayakawa Sh\u014dkosai III"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "basketry",
+        "bamboo",
+        "Japanese (culture or style)",
+        "decorative arts"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-470",
+    "classification_title": "basketry",
+    "alt_classification_ids": [
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-470",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "basketry",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3517",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3517"
+    ],
+    "material_titles": [
+        "bamboo"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b6457635-c7c8-525d-d4e7-f6a50fe5d348",
+    "alt_image_ids": [
+        "d5cf27c8-b0ba-e4f6-ca65-9581a85e41ed"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.101"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flower Basket"
+            ],
+            "weight": 244,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-12T11:41:38-05:00",
+    "updated_at": "2023-07-12T11:45:48-05:00",
+    "timestamp": "2023-09-24T01:39:28-05:00"
+}

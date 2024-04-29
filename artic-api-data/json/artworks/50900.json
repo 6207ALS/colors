@@ -1,0 +1,167 @@
+{
+    "id": 50900,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50900",
+    "is_boosted": false,
+    "title": "Bucket",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHZya3d1cXx5dZ+GW5KGa4SDf6GQdoiHhIqIgpaRhZqUiKymn6+oorGrobauowAAACH5BAAAAAAALAAAAAADAAUAAAQLUICATklEteGWYREAOw==",
+        "width": 1489,
+        "height": 2250,
+        "alt_text": "A work made of brass."
+    },
+    "main_reference_number": "1944.411",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1400,
+    "date_end": 1500,
+    "date_display": "1500/1525",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "South Netherlandish, Valley of the River Meuse",
+    "place_of_origin": "Flanders",
+    "description": null,
+    "dimensions": "With lifted handle: H.: 40.6 cm (16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 40.6,
+            "height_in": 16,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "With lifted handle"
+        }
+    ],
+    "medium_display": "Brass",
+    "inscriptions": null,
+    "credit_line": "Buckingham Fund",
+    "catalogue_display": null,
+    "publication_history": "Meyric. R. Rogers and Oswald Goetz, Handbook to the Lucy Maud Buckingham Medieval Collection, (Chicago, 1945), p. 69, no. 43, pl. 37.\n\nAnna-Elisabeth Theuerkauff-Liederwald, Mittelalterliche Bronze- und Messinggef\u00e4\u00dfe.  Eimer \u2013 Kannen \u2013 Lavabokessel, Berlin, 1988, pp. 79, 94, no. 85, fig. 86.",
+    "exhibition_history": null,
+    "provenance_text": "Brummer Gallery, Inc., New York, by 1944 [according to receipt in Registrar's files]; museum purchase.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.5698,
+    "color": {
+        "h": 38,
+        "l": 38,
+        "s": 42,
+        "percentage": 0.0016760057431130131,
+        "population": 18
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 238",
+    "gallery_id": 28496,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "brass",
+        "metalwork",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-132",
+    "classification_title": "brass",
+    "alt_classification_ids": [
+        "TM-29",
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-132",
+        "TM-29",
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "brass",
+        "metalwork",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "22b5f491-2d96-390f-d99e-bf809445fd7f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1944.411"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bucket"
+            ],
+            "weight": 191,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-05T13:06:43-05:00",
+    "updated_at": "2023-07-05T13:11:40-05:00",
+    "timestamp": "2023-09-24T00:42:57-05:00"
+}

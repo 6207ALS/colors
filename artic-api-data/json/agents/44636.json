@@ -1,0 +1,31 @@
+{
+    "id": 44636,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44636",
+    "title": "Stanley Spencer",
+    "sort_title": "Spencer, Stanley",
+    "alt_titles": [
+        "Sir Stanley Spencer"
+    ],
+    "is_artist": true,
+    "birth_date": 1891,
+    "death_date": 1959,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Stanley Spencer",
+            "Spencer, Stanley",
+            "Sir Stanley Spencer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:26-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

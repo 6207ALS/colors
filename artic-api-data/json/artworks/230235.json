@@ -1,0 +1,176 @@
+{
+    "id": 230235,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/230235",
+    "is_boosted": false,
+    "title": "Men (after Van Dyck)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAALm2tsbAv8rHxsrHx9jU0dnX1OPh3+Xk4e/r5vDp4/Pv6vTv6PTx7PXx7Pfz7ffz7vjz7fr17/f08Pn18Pn28fv28Pr28fz48fn49QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoCIhjEMZQzE9ByBYDRYQ0QJdVRICADs=",
+        "width": 2324,
+        "height": 2622,
+        "alt_text": "A work made of pen and black ink with graphite on opaque white ground on white wove paper."
+    },
+    "main_reference_number": "2016.524.4",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1993,
+    "date_end": 1993,
+    "date_display": "1993",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Shelley Reed\nAmerican, born 1958",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "22.4 \u00d7 22 cm (8 7/8 \u00d7 8 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22,
+            "width_in": 8.6615,
+            "height_cm": 22.4,
+            "height_in": 8.8189,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink with graphite on opaque white ground on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.3482,
+    "color": {
+        "h": 8,
+        "l": 52,
+        "s": 9,
+        "percentage": 0.015467267395374538,
+        "population": 124
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 114525,
+    "artist_title": "Shelley Reed",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114525
+    ],
+    "artist_titles": [
+        "Shelley Reed"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-13"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "08cf3e9c-22a7-6414-250d-7ecac52c3931",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.524.4"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Men (after Van Dyck)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:08:26-05:00",
+    "timestamp": "2023-09-24T01:49:10-05:00"
+}

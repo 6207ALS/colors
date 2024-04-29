@@ -1,0 +1,160 @@
+{
+    "id": 204279,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/204279",
+    "is_boosted": false,
+    "title": "Yellow Backdrop",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADpRaWltVk1fcmBacYN8XZuNR7afUbykVIaKa7aldLurfby0eDJTh0xkg663v8C7mcrEptDMurfCx77GyLTL0bzP1sLCxdHSxs/U0MzT2dDW29jc2dzd29zd3N7f3tjd5Nzi59ni6+Lo6gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwA1G8/F0OBMBYpFQRCSAQOFggGQajAHhcRFVKBZHCBQEADs=",
+        "width": 1800,
+        "height": 1258,
+        "alt_text": "A work made of plastic, paint, and foamcore."
+    },
+    "main_reference_number": "Obj: 204279",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1986",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Tuttle\nAmerican, born 1941",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "33.5 \u00d7 52.1 \u00d7 7.9 cm (13 1/4 \u00d7 20 1/4 \u00d7 3 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 7.9,
+            "depth_in": 3.125,
+            "width_cm": 52.1,
+            "width_in": 20.25,
+            "height_cm": 33.5,
+            "height_in": 13.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Plastic, paint, and foamcore",
+    "inscriptions": null,
+    "credit_line": "Promised gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.1689,
+    "color": {
+        "h": 51,
+        "l": 49,
+        "s": 57,
+        "percentage": 0.05961407939548101,
+        "population": 296
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 47750,
+    "artist_title": "Richard Tuttle",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        47750
+    ],
+    "artist_titles": [
+        "Richard Tuttle"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bf1258c5-8d33-58ba-4ed4-aab8b5f23b16",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "Obj: 204279"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Yellow Backdrop"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-22T17:28:57-05:00",
+    "updated_at": "2023-09-22T17:45:48-05:00",
+    "timestamp": "2023-09-24T01:40:59-05:00"
+}

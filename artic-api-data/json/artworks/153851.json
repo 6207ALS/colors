@@ -1,0 +1,176 @@
+{
+    "id": 153851,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/153851",
+    "is_boosted": false,
+    "title": "Surf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACAfGjYzLWViVmdlWWdmWnNwZXVzZ5GLfJmWiJyXiKGfj6OejqWfjaWhkKejlLa0pby5qMrCrNPRv9vYxN7byeDdyOvjy+nkzufl0uzm0PDs2PXv2/jz3vv44gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYJRAiJMdwQAQ1yIUhlIxzSNNlNVhGreFADs=",
+        "width": 3000,
+        "height": 2386,
+        "alt_text": "A work made of lithograph (brush and tusche) on ivory wove paper."
+    },
+    "main_reference_number": "1999.750",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1963,
+    "date_display": "1960\u201363",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Reuben Tam (American, 1916-1991)\nprinted by Drum Lithographers (American, 20th century)\npublished by Collectors Graphics, Inc. (American, c. 1960-)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "57.3 \u00d7 72.7 cm (22 9/16 \u00d7 28 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 72.7,
+            "width_in": 28.6221,
+            "height_cm": 57.3,
+            "height_in": 22.5591,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph (brush and tusche) on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.6915,
+    "color": {
+        "h": 41,
+        "l": 48,
+        "s": 11,
+        "percentage": 0.00672792620527257,
+        "population": 38
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 58842,
+    "artist_title": "Reuben Tam",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        58842
+    ],
+    "artist_titles": [
+        "Reuben Tam"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "offset lithograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-689"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4",
+        "TM-689"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing",
+        "offset lithograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bd9b0fcc-2154-113e-88ea-6e333780fa04",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.750"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Surf"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-08T10:53:27-05:00",
+    "timestamp": "2023-09-24T01:29:19-05:00"
+}

@@ -1,0 +1,190 @@
+{
+    "id": 158682,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/158682",
+    "is_boosted": false,
+    "title": "Four Panels",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "2005.441a-d",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy, Venice",
+    "place_of_origin": "Venice",
+    "description": null,
+    "dimensions": "a: 59.7 \u00d7 70.2 cm (23 1/2 \u00d7 27 5/8 in.); b: 18.1 \u00d7 66 cm (17 1/8 \u00d7 26 in.); c: 42.2 \u00d7 64.8 cm (16 5/8 \u00d7 25 1/2 in.); d: 40.6 \u00d7 63.5 cm (16 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 70.2,
+            "width_in": 27.625,
+            "height_cm": 59.7,
+            "height_in": 23.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "a"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 66,
+            "width_in": 26,
+            "height_cm": 18.1,
+            "height_in": 17.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "b"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64.8,
+            "width_in": 25.5,
+            "height_cm": 42.2,
+            "height_in": 16.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "c"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 40.6,
+            "height_in": 16,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "d"
+        }
+    ],
+    "medium_display": "Silk, satin weave; painted",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. William J. Robertson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2006,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "18th Century",
+        "silk",
+        "weaving"
+    ],
+    "style_id": "TM-13379",
+    "style_title": "18th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13379"
+    ],
+    "style_titles": [
+        "18th Century"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-146",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-146",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "silk",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2005.441a-d"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Four Panels"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:23:55-05:00",
+    "timestamp": "2023-09-24T01:32:02-05:00"
+}

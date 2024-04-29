@@ -1,0 +1,38 @@
+{
+    "id": 5221,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5221",
+    "title": "American Paintings and Sculpture 36th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1923-11-01T00:00:00-06:00",
+    "aic_end_at": "1923-12-09T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "a44903e5-88c3-21b3-795d-b866667c757a"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Paintings and Sculpture 36th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:19:42-06:00",
+    "timestamp": "2023-09-24T02:01:33-05:00"
+}

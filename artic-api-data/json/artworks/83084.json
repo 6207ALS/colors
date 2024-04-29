@@ -1,0 +1,164 @@
+{
+    "id": 83084,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/83084",
+    "is_boosted": false,
+    "title": "Portrait of Mary, Countess of Wilton",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMy8lM2+lc+/lc2+l8u8mM3AnNDBl9HCm9TFmtTFm9bGm9XFnNTGnNjJn9PFoNbIotnKpNnLptrNqwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAQABQAABRHgAkUScAxEwAwF0hiOkChPCAA7",
+        "width": 645,
+        "height": 768,
+        "alt_text": "A work made of crayon manner on buff wove paper, retouched with graphite and white gouache."
+    },
+    "main_reference_number": "1922.1349",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1799,
+    "date_end": 1856,
+    "date_display": "1839",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Frederick Christian Lewis (English, 1779-1856)\nafter Sir Thomas Lawrence (English, 1769-1830)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Crayon manner on buff wove paper, retouched with graphite and white gouache",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.4002,
+    "color": {
+        "h": 42,
+        "l": 51,
+        "s": 18,
+        "percentage": 0.002244875775663656,
+        "population": 19
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35469,
+    "artist_title": "Frederick Christian Lewis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35469
+    ],
+    "artist_titles": [
+        "Frederick Christian Lewis"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "reproduction",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper",
+        "drawings (visual works)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-270",
+    "classification_title": "reproduction",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-5"
+    ],
+    "classification_ids": [
+        "TM-270",
+        "TM-4",
+        "TM-145",
+        "TM-5"
+    ],
+    "classification_titles": [
+        "reproduction",
+        "prints and drawing",
+        "paper",
+        "drawings (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7551909d-a3fb-15ae-7fa0-d0bc185d5642",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.1349"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Mary, Countess of Wilton"
+            ],
+            "weight": 6,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-04T12:53:09-05:00",
+    "updated_at": "2023-04-07T14:19:01-05:00",
+    "timestamp": "2023-09-24T00:56:13-05:00"
+}

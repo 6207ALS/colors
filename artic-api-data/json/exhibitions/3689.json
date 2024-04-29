@@ -1,0 +1,38 @@
+{
+    "id": 3689,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3689",
+    "title": "Art Treasures from Vienna: Paintings, Tapestries, Armor, Sculpture, Gold and Precious Objects",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1950-11-09T00:00:00-06:00",
+    "aic_end_at": "1951-01-18T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "40f0ea03-ae76-966a-aa5b-f99ef80184c5"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art Treasures from Vienna: Paintings, Tapestries, Armor, Sculpture, Gold and Precious Objects"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:09-06:00",
+    "timestamp": "2023-09-24T02:01:14-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 52963,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52963",
+    "title": "John Copley",
+    "sort_title": "Copley, John",
+    "alt_titles": [
+        "Herbert Crawford Williamson"
+    ],
+    "is_artist": true,
+    "birth_date": 1875,
+    "death_date": 1950,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Copley",
+            "Copley, John",
+            "Herbert Crawford Williamson"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-11-03T14:27:31-05:00",
+    "updated_at": "2022-11-03T14:30:52-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

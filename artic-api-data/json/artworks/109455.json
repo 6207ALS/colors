@@ -1,0 +1,195 @@
+{
+    "id": 109455,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109455",
+    "is_boosted": false,
+    "title": "Dressing Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHQpAno1E3o8Gn8/GXxZRo1sXIlwY5N+dI2Dfp6CcpmHfoyGg5GKhpmRi56Xk6egm62jnq6noquqqaysrLGsqravrLOwrrOxsLWxsLi2tMjJycrJyc3Oz87OzgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIFUQxoFBwgAE1fU0iTJlzoIwUrdxkaWFADs=",
+        "width": 2844,
+        "height": 2250,
+        "alt_text": "A work made of walnut with southern yellow pine, white pine, and white cedar."
+    },
+    "main_reference_number": "1987.119",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1700,
+    "date_end": 1730,
+    "date_display": "1700\u201330",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 18th century)\nPhiladelphia",
+    "place_of_origin": "Philadelphia",
+    "description": null,
+    "dimensions": "73.7 \u00d7 864 \u00d7 54.6 cm (29 \u00d7 34 \u00d7 21 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 54.6,
+            "depth_in": 21.5,
+            "width_cm": 864,
+            "width_in": 34,
+            "height_cm": 73.7,
+            "height_in": 29,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Walnut with Southern yellow pine, white pine, and white cedar",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. William Y. Hutchinson Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 45.672,
+    "color": {
+        "h": 22,
+        "l": 30,
+        "s": 82,
+        "percentage": 0.1447674739142884,
+        "population": 814
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "table",
+        "walnut",
+        "fashion",
+        "cedar (wood)",
+        "pine",
+        "furniture",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-8663",
+    "alt_subject_ids": [
+        "TM-9132"
+    ],
+    "subject_ids": [
+        "TM-8663",
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "fashion",
+        "furniture"
+    ],
+    "material_id": "TM-3609",
+    "alt_material_ids": [
+        "TM-3625",
+        "TM-3636"
+    ],
+    "material_ids": [
+        "TM-3609",
+        "TM-3625",
+        "TM-3636"
+    ],
+    "material_titles": [
+        "walnut",
+        "cedar (wood)",
+        "pine"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a9e46cab-0337-623d-44c5-af1cf68d4f97",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.119"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dressing Table"
+            ],
+            "weight": 147,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:17:24-05:00",
+    "timestamp": "2023-09-24T01:09:13-05:00"
+}

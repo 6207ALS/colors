@@ -1,0 +1,170 @@
+{
+    "id": 54105,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/54105",
+    "is_boosted": false,
+    "title": "Sampler",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAIyDgoqKhZaNgpuRhZeUiJqVjp+Zj56ak6STgKKVhKGViaCViqWajaScj6+fjaCYkKOdk6Sek6qhjquilqqjl7KmlLCol7mvnbyzoQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYGEEENBYBDYxlZQICuJc1DMs0RECADs=",
+        "width": 2209,
+        "height": 2250,
+        "alt_text": "A work made of cotton, plain weave; examples of darning in polychrome, embroidered around outer edges in silk and in cross stitch with tiny border of punched work held in place by cotton thread stitches."
+    },
+    "main_reference_number": "1978.969",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1828,
+    "date_end": 1828,
+    "date_display": "1828",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Europe",
+    "place_of_origin": "Europe",
+    "description": null,
+    "dimensions": "37.1 \u00d7 37.1 cm (14 5/8 \u00d7 14 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37.1,
+            "width_in": 14.625,
+            "height_cm": 37.1,
+            "height_in": 14.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave; examples of darning in polychrome, embroidered around outer edges in silk and in cross stitch with tiny border of punched work held in place by cotton thread stitches",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Chauncey B. Borland",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1979,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.4753,
+    "color": {
+        "h": 46,
+        "l": 37,
+        "s": 96,
+        "percentage": 0.00013825636601437312,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "sampler",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-10346"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-10346"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "sampler"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "26691a9e-7b7c-ed63-1606-3b33bf21d08b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.969"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sampler"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:12:05-05:00",
+    "timestamp": "2023-09-24T00:44:16-05:00"
+}

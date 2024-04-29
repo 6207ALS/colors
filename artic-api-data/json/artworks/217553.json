@@ -1,0 +1,183 @@
+{
+    "id": 217553,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/217553",
+    "is_boosted": false,
+    "title": "Decanter",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGJfX2BfaW1paT9noG9xhnGEoYqHhY2JiaelpamoqK6xwLW7xLS6xdfX2wAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLUARwiEElrcGaahEAOw==",
+        "width": 1420,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "2013.69",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1830,
+    "date_end": 1839,
+    "date_display": "c. 1830s",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Probably Boston and Sandwich Glass Company\nAmerican, 1826\u201388\nor New England Glass Company\nAmerican, 1818\u201388\nSandwich or East Cambridge, Massachusetts",
+    "place_of_origin": "Sandwich",
+    "description": null,
+    "dimensions": "28.6 \u00d7 11.4 \u00d7 11.7 cm (11 1/4 \u00d7 4 1/2 \u00d7 4 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 11.7,
+            "depth_in": 4.625,
+            "width_cm": 11.4,
+            "width_in": 4.5,
+            "height_cm": 28.6,
+            "height_in": 11.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Vance American Arts Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.864,
+    "color": {
+        "h": 212,
+        "l": 53,
+        "s": 71,
+        "percentage": 0.0007103231259900128,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 173",
+    "gallery_id": 2147476007,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 32718,
+    "artist_title": "Boston and Sandwich Glass Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32718
+    ],
+    "artist_titles": [
+        "Boston and Sandwich Glass Company"
+    ],
+    "category_ids": [
+        "PC-832",
+        "PC-3"
+    ],
+    "category_titles": [
+        "Drinking and Dining",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "vessel",
+        "glass",
+        "dining",
+        "drinking",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-27",
+    "classification_title": "vessel",
+    "alt_classification_ids": [
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-27",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vessel",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-12076",
+        "TM-12077"
+    ],
+    "subject_ids": [
+        "TM-12076",
+        "TM-12077"
+    ],
+    "subject_titles": [
+        "dining",
+        "drinking"
+    ],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Drinking and Dining"
+    ],
+    "image_id": "288f3b8b-1c66-87d1-ca28-5f76b663d02f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.69"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Decanter"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-25T16:14:02-05:00",
+    "updated_at": "2023-07-25T16:15:51-05:00",
+    "timestamp": "2023-09-24T01:45:12-05:00"
+}

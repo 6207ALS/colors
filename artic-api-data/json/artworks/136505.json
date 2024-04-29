@@ -1,0 +1,176 @@
+{
+    "id": 136505,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/136505",
+    "is_boosted": false,
+    "title": "Kohl Jar",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAD48KkI/L1FPP1NSR1pXRGNdTX55ZHx5aoaAboiJhJOTiZ2elpeYmJ6gnp+hpaKipKinpaeorKmpqKqrsaqssa+wtrS1vba4vri5u7/Bx8HDyMHDysTGy8rN083O1M3O1tnb4tnb4+Hi6gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMeE8ohYKhuIAXFYfEKSQIGgEHUyA4AAA9JcGIkGxxMEADs=",
+        "width": 1600,
+        "height": 1200,
+        "alt_text": "A work made of stone."
+    },
+    "main_reference_number": "R6000N/N-2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -1550,
+    "date_end": -1069,
+    "date_display": "New Kingdom, Dynasty 18 (about 1550\u20131069 BCE)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Egyptian",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "3.7 \u00d7 5 \u00d7 5 cm (1 1/2 \u00d7 2 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 5,
+            "depth_in": 2,
+            "width_cm": 5,
+            "width_in": 2,
+            "height_cm": 3.7,
+            "height_in": 1.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stone",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 43,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.8152,
+    "color": {
+        "h": 45,
+        "l": 45,
+        "s": 19,
+        "percentage": 0.03284682493205399,
+        "population": 175
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of Africa",
+    "department_id": "PC-1",
+    "artist_id": 37541,
+    "artist_title": "Ancient Egyptian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37541
+    ],
+    "artist_titles": [
+        "Ancient Egyptian"
+    ],
+    "category_ids": [
+        "PC-1"
+    ],
+    "category_titles": [
+        "Arts of Africa"
+    ],
+    "term_titles": [
+        "personal grooming / hygiene / cosmetic container",
+        "stone",
+        "stone",
+        "vessel",
+        "ancient art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11837",
+    "classification_title": "personal grooming / hygiene / cosmetic container",
+    "alt_classification_ids": [
+        "TM-96",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-11837",
+        "TM-96",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "personal grooming / hygiene / cosmetic container",
+        "stone",
+        "vessel",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2434",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2434"
+    ],
+    "material_titles": [
+        "stone"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c4315c9f-42a4-c84b-9050-fc638df367d5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "R6000N/N-2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Kohl Jar"
+            ],
+            "weight": 27,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-09-23T23:22:16-05:00",
+    "timestamp": "2023-09-24T01:21:27-05:00"
+}

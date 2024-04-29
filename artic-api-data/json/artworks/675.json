@@ -1,0 +1,171 @@
+{
+    "id": 675,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/675",
+    "is_boosted": false,
+    "title": "Bust of Scipio Africanus",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADAxNVhXVo+Ba5ucn6+xtcTGy8jKztPV2dja3/Dhyd3g5N7h5+Tk5+Tn7erq7AAAACH5BAAAAAAALAAAAAADAAUAAAQLsI2lAiKgGHFYchEAOw==",
+        "width": 1500,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1893.123",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "Late 19th century reproduction",
+    "date_qualifier_title": "Cast",
+    "date_qualifier_id": 1,
+    "artist_display": "Italian\nChiurazzi and De Angelis Foundry, Naples, Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "61.6 \u00d7 31.1 \u00d7 25.4 cm (24 1/4 \u00d7 12 1/4 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 25.4,
+            "depth_in": 10,
+            "width_cm": 31.1,
+            "width_in": 12.25,
+            "height_cm": 61.6,
+            "height_in": 24.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of H. N. Higinbotham",
+    "catalogue_display": null,
+    "publication_history": "J. Chiurazzi, Fonderie Artistiche Riunite. p. 22",
+    "exhibition_history": null,
+    "provenance_text": "Chiurazzi and De Angelis Foundry, Naples, Italy; sold to the Art Institute of Chicago, 1893; price reimbursed by H.N. Higinbotham, 1893.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.0612,
+    "color": {
+        "h": 240,
+        "l": 43,
+        "s": 1,
+        "percentage": 0.019973837086633004,
+        "population": 213
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 2601,
+    "artist_title": "Ancient Greek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2601
+    ],
+    "artist_titles": [
+        "Ancient Greek"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "ancient art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-33",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f45cd3fb-535a-e9e6-eb43-0f3593bacdcd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1893.123"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bust of Scipio Africanus"
+            ],
+            "weight": 2742,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-12T16:19:33-06:00",
+    "updated_at": "2023-09-23T23:17:55-05:00",
+    "timestamp": "2023-09-24T00:20:56-05:00"
+}

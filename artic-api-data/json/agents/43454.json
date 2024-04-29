@@ -1,0 +1,33 @@
+{
+    "id": 43454,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43454",
+    "title": "Francesco Rosselli",
+    "sort_title": "Rosselli, Francesco",
+    "alt_titles": [
+        "Francesco di Lorenzo Rosselli",
+        "Francesco di Lorenzo Rossello"
+    ],
+    "is_artist": true,
+    "birth_date": 1448,
+    "death_date": 1518,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francesco Rosselli",
+            "Rosselli, Francesco",
+            "Francesco di Lorenzo Rosselli",
+            "Francesco di Lorenzo Rossello"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:43:20-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

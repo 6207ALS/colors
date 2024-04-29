@@ -1,0 +1,48 @@
+{
+    "id": 4277,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4277",
+    "title": "Ming Ch'ing: The Arts of China 14th-20th c.",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1964-08-07T00:00:00-05:00",
+    "aic_end_at": "1964-10-11T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        73197,
+        152503,
+        12320
+    ],
+    "artwork_titles": [
+        "Incomplete Carpet",
+        "Valance",
+        "Jiasha (Mantle)"
+    ],
+    "artist_ids": [
+        87637
+    ],
+    "site_ids": [],
+    "image_id": "d3e5c4da-4fd2-f108-2803-73c50e9fc415",
+    "alt_image_ids": [],
+    "document_ids": [
+        "8daceada-e0c7-9e2f-9953-cebc3a74a050"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ming Ch'ing: The Arts of China 14th-20th c."
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:17-06:00",
+    "timestamp": "2023-09-24T02:01:21-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 25458,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/25458",
+    "title": "Thomas Eddy Tallmadge",
+    "sort_title": "Tallmadge, Thomas Eddy",
+    "alt_titles": [
+        "Thomas E. Tallmadge"
+    ],
+    "is_artist": true,
+    "birth_date": 1876,
+    "death_date": 1940,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thomas Eddy Tallmadge",
+            "Tallmadge, Thomas Eddy",
+            "Thomas E. Tallmadge"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-22T12:53:36-05:00",
+    "updated_at": "2021-10-22T12:55:50-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

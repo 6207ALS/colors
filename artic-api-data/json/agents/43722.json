@@ -1,0 +1,31 @@
+{
+    "id": 43722,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43722",
+    "title": "Juan de Zurbar\u00e1n",
+    "sort_title": "Zurbar\u00e1n, Juan de",
+    "alt_titles": [
+        "Juan Zurbar\u00e1n"
+    ],
+    "is_artist": true,
+    "birth_date": 1620,
+    "death_date": 1649,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan de Zurbar\u00e1n",
+            "Zurbar\u00e1n, Juan de",
+            "Juan Zurbar\u00e1n"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:55:48-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

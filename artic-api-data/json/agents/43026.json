@@ -1,0 +1,31 @@
+{
+    "id": 43026,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43026",
+    "title": "Luis Gonz\u00e1lez Palma",
+    "sort_title": "Gonz\u00e1lez Palma, Luis",
+    "alt_titles": [
+        "Luis Gonz\u00e1lez Palma"
+    ],
+    "is_artist": true,
+    "birth_date": 1957,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Luis Gonz\u00e1lez Palma",
+            "Gonz\u00e1lez Palma, Luis",
+            "Luis Gonz\u00e1lez Palma"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:43:12-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 30428,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/30428",
+    "is_boosted": false,
+    "title": "Full!!!",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAISFcJmZhMG/p8LBq8nGr83Lsc/NtdHOttfUvdjVvdjUvtjVvt3axeDdxwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLULF1AilAnGFQSxEAOw==",
+        "width": 2236,
+        "height": 3180,
+        "alt_text": "A work made of wood engraving on cream japanese paper."
+    },
+    "main_reference_number": "1939.295",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1862,
+    "date_end": 1862,
+    "date_display": "1862, printed 1920",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Charles Maurand (French, 1824-1904)\nafter Honor\u00e9 Victorin Daumier (French, 1808-1879)\nprinted by Fran\u00e7ois Louis Schmied (Swiss, 1873-1941)\npublished by Jules Meynial (French, 20th century)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 22.7 \u00d7 16.1 cm (8 15/16 \u00d7 6 3/8 in.); Sheet: 45.8 \u00d7 32.4 cm (18 1/16 \u00d7 12 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16.1,
+            "width_in": 6.3386,
+            "height_cm": 22.7,
+            "height_in": 8.9371,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 32.4,
+            "width_in": 12.756,
+            "height_cm": 45.8,
+            "height_in": 18.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Wood engraving on cream Japanese paper",
+    "inscriptions": null,
+    "credit_line": "William McCallin McKee Memorial Endowment",
+    "catalogue_display": "<p>Bouvy 932</p><p>R\u00fcmann 878</p><p>Daumier Register 6011</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1939,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.0587,
+    "color": {
+        "h": 49,
+        "l": 64,
+        "s": 39,
+        "percentage": 0.0007914859852565948,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35674,
+    "artist_title": "Charles Maurand",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35674
+    ],
+    "artist_titles": [
+        "Charles Maurand"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "wood engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-259",
+    "classification_title": "wood engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-259",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "wood engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6f6c379d-8678-829b-650e-f4a394180b49",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1939.295"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Full!!!"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:03:01-05:00",
+    "timestamp": "2023-09-24T00:33:59-05:00"
+}

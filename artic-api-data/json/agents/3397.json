@@ -1,0 +1,31 @@
+{
+    "id": 3397,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3397",
+    "title": "Henry Kirke Brown",
+    "sort_title": "Brown, Henry Kirke",
+    "alt_titles": [
+        "Henry K. Brown"
+    ],
+    "is_artist": true,
+    "birth_date": 1814,
+    "death_date": 1886,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henry Kirke Brown",
+            "Brown, Henry Kirke",
+            "Henry K. Brown"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:36-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

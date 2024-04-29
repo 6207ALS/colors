@@ -1,0 +1,172 @@
+{
+    "id": 72541,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72541",
+    "is_boosted": false,
+    "title": "Psalter",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPQAAIODg56enp+fn6Ojo6ysrLGxsbKysrS0tLW1tba2tre3t7i4uLm5ubu7u7y8vL+/v8DAwMHBwcTExMXFxcbGxsfHx8rKys7OztDQ0NXV1dnZ2QAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAIAAUAAAUhYCRNlRAUytQ8GQEoD6I4GDQ0S/JImpVQEcYFczEQKIcQADs=",
+        "width": 8251,
+        "height": 5074,
+        "alt_text": "A work made of manuscript with 214 folios, 17 miniatures, ten historiated initials and two full page miniatures, with borders and initial letters in tempera and gold leaf, text pages ruled in graphite with latin littera textualis formata inscriptions in black inks, on parchment, bound in modern red velvet over cardboard, with gilded and trimmed edges."
+    },
+    "main_reference_number": "1917.86",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1280,
+    "date_end": 1295,
+    "date_display": "1280/95 (20th century binding)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Belgian (Ghent or Bruges)",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "Vellum: 13 \u00d7 11 cm (5 1/8 \u00d7 4 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11,
+            "width_in": 4.3308,
+            "height_cm": 13,
+            "height_in": 5.1182,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Vellum"
+        }
+    ],
+    "medium_display": "Manuscript with 214 folios, 17 miniatures, ten historiated initials and two full page miniatures, with borders and initial letters in tempera and gold leaf, text pages ruled in graphite with Latin littera textualis formata inscriptions in black inks, on parchment, bound in modern red velvet over cardboard, with gilded and trimmed edges",
+    "inscriptions": null,
+    "credit_line": "Prints and Drawings Sundry Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.0753422461607515,
+        "population": 329
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "medieval",
+        "manuscript",
+        "book",
+        "prints and drawing"
+    ],
+    "style_id": "TM-5813",
+    "style_title": "medieval",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5813"
+    ],
+    "style_titles": [
+        "medieval"
+    ],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-116",
+        "TM-11",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-116",
+        "TM-11",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "manuscript",
+        "book",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "94209b38-f899-0644-b70d-e6651e0aa7b1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1917.86"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Psalter"
+            ],
+            "weight": 66,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:42:22-05:00",
+    "timestamp": "2023-09-24T00:51:43-05:00"
+}

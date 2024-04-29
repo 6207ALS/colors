@@ -1,0 +1,171 @@
+{
+    "id": 18488,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18488",
+    "is_boosted": false,
+    "title": "Folio Cover, from Die Rauber",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHwjJIImJ48pK5MpKpUrLJsoKooxMY80M481NJAzM5Q0NZsyNJY5OZY8PKs1N6NAP6xCQ6tGR69ERLlJSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYHMgjwEECUMIylIMTgRJUwgAOw==",
+        "width": 2305,
+        "height": 3000,
+        "alt_text": "A work made of portfolio cover."
+    },
+    "main_reference_number": "1963.753.10",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1922,
+    "date_end": 1922,
+    "date_display": "1922 (published)",
+    "date_qualifier_title": "Published",
+    "date_qualifier_id": 10,
+    "artist_display": "George Grosz (American, born Germany, 1893-1959)\npublished by Malik-Verlag (German, 1917-)",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "71.5 \u00d7 50 \u00d7 1 cm (28 3/16 \u00d7 19 11/16 \u00d7 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1,
+            "depth_in": 0.3937,
+            "width_cm": 50,
+            "width_in": 19.6851,
+            "height_cm": 71.5,
+            "height_in": 28.1497,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Portfolio cover",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Edwin A. Bergman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 72.0548,
+    "color": {
+        "h": 359,
+        "l": 48,
+        "s": 63,
+        "percentage": 0.4566535931598201,
+        "population": 4223
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34753,
+    "artist_title": "George Grosz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34753
+    ],
+    "artist_titles": [
+        "George Grosz"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "portfolio",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-427",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-427",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "portfolio",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "27a63a98-2583-ee88-2ba7-66efd7f3f2af",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1963.753.10"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Folio Cover, from Die Rauber"
+            ],
+            "weight": 134,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:48-05:00",
+    "updated_at": "2023-04-10T14:33:46-05:00",
+    "timestamp": "2023-09-24T00:27:40-05:00"
+}

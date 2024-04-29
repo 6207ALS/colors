@@ -1,0 +1,194 @@
+{
+    "id": 10800,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/10800",
+    "is_boosted": false,
+    "title": "Athena, from Cabinet Reynst; Variarum imaginum a celeberrimis artificibus pictarum Caelaturae (Cabinet Reynst:  Engravings of various images painted by famous artists)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpTT15XUmliXHVvZ3t0bYB5cYeBd4uEeoyGfJCJgJyUi5+XjJ+ZjKegla6nmrOtn8a+ssnBssvEtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYNQo0CIAxBEUiDEMjOQkTwgAOw==",
+        "width": 556,
+        "height": 768,
+        "alt_text": "A work made of engraving in black on cream laid paper."
+    },
+    "main_reference_number": "1923.1625",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1645,
+    "date_end": 1655,
+    "date_display": "c. 1650",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Cornelis Visscher (Dutch, c. 1628-1658)\nafter Parmigianino (Italian, 1503-1540)",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": "Image: 36.6 \u00d7 26 cm (14 7/16 \u00d7 10 1/4 in.); Plate: 39.8 \u00d7 26.7 cm (15 11/16 \u00d7 10 9/16 in.); Sheet: 49 \u00d7 37.4 cm (19 5/16 \u00d7 14 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26,
+            "width_in": 10.2363,
+            "height_cm": 36.6,
+            "height_in": 14.4095,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.7,
+            "width_in": 10.5119,
+            "height_cm": 39.8,
+            "height_in": 15.6693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37.4,
+            "width_in": 14.7245,
+            "height_cm": 49,
+            "height_in": 19.2914,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving in black on cream laid paper",
+    "inscriptions": "Inscribed, in graphite, recto, lower margin outside of plate, from right to left, \"Parimigiano\"; \"R13058\"; c. Visscher f.\"; inscribed, in pen in lower left corner of plate mark, \"2\"",
+    "credit_line": "Gift of Horace S. Oakley",
+    "catalogue_display": "<p>Hollstein 38 i/iv</p><p>Wussin 136</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Alfred Henry Huth, London [by 1910]",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 1924,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.9499,
+    "color": {
+        "h": 37,
+        "l": 66,
+        "s": 9,
+        "percentage": 0.055541288068712225,
+        "population": 545
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 37165,
+    "artist_title": "Cornelis Visscher, the Elder",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37165
+    ],
+    "artist_titles": [
+        "Cornelis Visscher, the Elder"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a65ba5a1-f113-bdf4-1bd6-b02604d1fa03",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.1625"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Athena, from Cabinet Reynst; Variarum imaginum a celeberrimis artificibus pictarum Caelaturae (Cabinet Reynst:  Engravings of various images painted by famous artists)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:48:30-05:00",
+    "timestamp": "2023-09-24T00:24:42-05:00"
+}

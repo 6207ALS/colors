@@ -1,0 +1,35 @@
+{
+    "id": 30176,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30176",
+    "title": "Northern Nguni",
+    "sort_title": "Northern Nguni",
+    "alt_titles": [
+        "Zulu",
+        "Nguni: Zulu",
+        "Nguni, Northern"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Northern Nguni",
+            "Northern Nguni",
+            "Zulu",
+            "Nguni: Zulu",
+            "Nguni, Northern"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:09:00-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

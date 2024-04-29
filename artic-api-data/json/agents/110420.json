@@ -1,0 +1,37 @@
+{
+    "id": 110420,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/110420",
+    "title": "Lorenz Fr\u00f8lich",
+    "sort_title": "Fr\u00f8lich, Lorenz",
+    "alt_titles": [
+        "Lorens Fr\u00f8lich",
+        "L. (Lorenz) Fr\u00f6lich",
+        "L. F. (Lorenz Fr\u00f8lich)",
+        "Lorens Fr\u00f6hlich"
+    ],
+    "is_artist": true,
+    "birth_date": 1820,
+    "death_date": 1908,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lorenz Fr\u00f8lich",
+            "Fr\u00f8lich, Lorenz",
+            "Lorens Fr\u00f8lich",
+            "L. (Lorenz) Fr\u00f6lich",
+            "L. F. (Lorenz Fr\u00f8lich)",
+            "Lorens Fr\u00f6hlich"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:44:32-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

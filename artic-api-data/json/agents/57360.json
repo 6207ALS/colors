@@ -1,0 +1,28 @@
+{
+    "id": 57360,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57360",
+    "title": "Augusta Savage",
+    "sort_title": "Savage, Augusta",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1892,
+    "death_date": 1962,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Augusta Savage",
+            "Savage, Augusta"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-05-18T15:53:36-05:00",
+    "updated_at": "2021-05-18T15:55:45-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

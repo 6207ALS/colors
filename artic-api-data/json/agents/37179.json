@@ -1,0 +1,31 @@
+{
+    "id": 37179,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37179",
+    "title": "Rudolf von Alt",
+    "sort_title": "Alt, Rudolf von",
+    "alt_titles": [
+        "Rudolph von Alt"
+    ],
+    "is_artist": true,
+    "birth_date": 1812,
+    "death_date": 1905,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rudolf von Alt",
+            "Alt, Rudolf von",
+            "Rudolph von Alt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:32:30-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 34665,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34665",
+    "title": "Giorgione",
+    "sort_title": "Giorgione",
+    "alt_titles": [
+        "Giorgio da Castelfranco",
+        "Zorzo da Castelfranco",
+        "Barberelli",
+        "Giorgione da Castelfranco, (Giorgio Barbarelli)",
+        "Giorgio Barbarelli",
+        "Giorgio Barbarelli",
+        "Zoron da Castelfranco",
+        "Giorgione, (Giorgio da Castelfranco)",
+        "Giorgio Barbarelli Giorgione"
+    ],
+    "is_artist": true,
+    "birth_date": 1477,
+    "death_date": 1510,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giorgione",
+            "Giorgione",
+            "Giorgio da Castelfranco",
+            "Zorzo da Castelfranco",
+            "Barberelli",
+            "Giorgione da Castelfranco, (Giorgio Barbarelli)",
+            "Giorgio Barbarelli",
+            "Giorgio Barbarelli",
+            "Zoron da Castelfranco",
+            "Giorgione, (Giorgio da Castelfranco)",
+            "Giorgio Barbarelli Giorgione"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:53:19-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

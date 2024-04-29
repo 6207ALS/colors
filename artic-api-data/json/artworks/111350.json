@@ -1,0 +1,186 @@
+{
+    "id": 111350,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111350",
+    "is_boosted": false,
+    "title": "Open Air School",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIiAdpSNgpuTiJ+Xi5+XjaObkaSckKSckaWdkqaek6qilbWto7mxp7y0q8K7sMO7scS8sMjAtc/HvdfPw9vTx97WyuLZzuTc0OXd1Ong1+nh2O3k2u/m3e3m3u/o3/Ps4vPs5Pny6wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwI+lQplcOKBCQDEwbEILAQRx0HQIiQgBgPFIHg5GIxMEADs=",
+        "width": 3000,
+        "height": 2211,
+        "alt_text": "A work made of lithograph in black on paper."
+    },
+    "main_reference_number": "1935.231",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1932,
+    "date_end": 1932,
+    "date_display": "1932",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Diego Rivera\nMexican, 1886-1957",
+    "place_of_origin": "Mexico",
+    "description": null,
+    "dimensions": "31.8 \u00d7 41.6 cm (12 9/16 \u00d7 16 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 41.6,
+            "width_in": 16.378,
+            "height_cm": 31.8,
+            "height_in": 12.5197,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph in black on paper",
+    "inscriptions": null,
+    "credit_line": "Print Sales Miscellaneous Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Banco de M\u00e9xico Diego Rivera Frida Kahlo Museums Trust, Mexico, D.F. / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.5334,
+    "color": {
+        "h": 38,
+        "l": 55,
+        "s": 15,
+        "percentage": 0.007258793168329504,
+        "population": 38
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36397,
+    "artist_title": "Diego Rivera",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36397
+    ],
+    "artist_titles": [
+        "Diego Rivera"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Latin American"
+    ],
+    "term_titles": [
+        "lithograph",
+        "labor",
+        "paper (fiber product)",
+        "work",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": "TM-12464",
+    "alt_subject_ids": [
+        "TM-10093"
+    ],
+    "subject_ids": [
+        "TM-12464",
+        "TM-10093"
+    ],
+    "subject_titles": [
+        "labor",
+        "work"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "2c67bb8e-6de8-30bc-dabe-773d139b201a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1935.231"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Open Air School"
+            ],
+            "weight": 1786,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-09-23T23:19:09-05:00",
+    "timestamp": "2023-09-24T01:09:48-05:00"
+}

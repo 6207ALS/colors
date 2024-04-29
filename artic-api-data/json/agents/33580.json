@@ -1,0 +1,28 @@
+{
+    "id": 33580,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33580",
+    "title": "Maurice L. Bein",
+    "sort_title": "Bein, Maurice L.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1897,
+    "death_date": 1978,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maurice L. Bein",
+            "Bein, Maurice L."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:05:27-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

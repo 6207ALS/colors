@@ -1,0 +1,172 @@
+{
+    "id": 80449,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80449",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAH9yX31xYIZ0W4d1XIV0Xot2W4t3W4l2XYx3XIt4X414XpJ7X4J0YYR4Z4t4YIt5Yo97YYR5aYF6bYh7aZB7YJF8YI6AboqBdIuDdo+EdZGEcpOGdZOHdpaJeJaJeZWKeJeKeJGJfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAzHs+loLgyDQkBBNAIDB+GRiAAKlQNkMZFYNpkPKBQEADs=",
+        "width": 6846,
+        "height": 4876,
+        "alt_text": "A work made of silk and gilt strip on silk core; warp-float faced turned satin weave (satin damask)."
+    },
+    "main_reference_number": "1954.241",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1928,
+    "date_end": 1948,
+    "date_display": "c. 1938",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Sophia Widen (Swedish, 1900\u20131961)\nWoven by Luigi Bevilacqua\nItaly, Venice",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "72.1 \u00d7 108 cm (28 3/8 \u00d7 42 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 108,
+            "width_in": 42.5,
+            "height_cm": 72.1,
+            "height_in": 28.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk and gilt strip on silk core; warp-float faced turned satin weave (satin damask)",
+    "inscriptions": null,
+    "credit_line": "Gift of the Italian Government from His Excellency Alberto Tarchiani, Ambassador of Italy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.601,
+    "color": {
+        "h": 52,
+        "l": 55,
+        "s": 1,
+        "percentage": 0.3501383946223804,
+        "population": 1771
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 28515,
+    "artist_title": "Sofia Widen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28515
+    ],
+    "artist_titles": [
+        "Sofia Widen"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "aadbda1e-b19c-6d82-e3d5-feff2a8f8e5e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.241"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:26:30-05:00",
+    "timestamp": "2023-09-24T00:54:45-05:00"
+}

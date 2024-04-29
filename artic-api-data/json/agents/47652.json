@@ -1,0 +1,35 @@
+{
+    "id": 47652,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47652",
+    "title": "Institute of Design (Chicago, Ill.)",
+    "sort_title": "Institute of Design (Chicago, Ill.)",
+    "alt_titles": [
+        "I.D.",
+        "ID",
+        "Chicago. Institute of Design"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Institute of Design (Chicago, Ill.)",
+            "Institute of Design (Chicago, Ill.)",
+            "I.D.",
+            "ID",
+            "Chicago. Institute of Design"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-15T16:37:23-05:00",
+    "updated_at": "2021-10-15T16:40:50-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

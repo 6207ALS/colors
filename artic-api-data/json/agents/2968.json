@@ -1,0 +1,33 @@
+{
+    "id": 2968,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2968",
+    "title": "Jessie Arms Botke",
+    "sort_title": "Botke, Jessie Arms",
+    "alt_titles": [
+        "Jessie A. Botke",
+        "Mrs. Cornelius Botke"
+    ],
+    "is_artist": true,
+    "birth_date": 1883,
+    "death_date": 1971,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jessie Arms Botke",
+            "Botke, Jessie Arms",
+            "Jessie A. Botke",
+            "Mrs. Cornelius Botke"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:28-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

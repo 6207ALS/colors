@@ -1,0 +1,38 @@
+{
+    "id": 6072,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6072",
+    "title": "Picasso Engravings",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1968-12-18T00:00:00-06:00",
+    "aic_end_at": "1969-02-01T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "08c3c96c-e98d-b535-c0a5-999793fec83a"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Picasso Engravings"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-11-18T10:35:38-06:00",
+    "updated_at": "2019-11-18T11:11:22-06:00",
+    "timestamp": "2023-09-24T02:01:43-05:00"
+}

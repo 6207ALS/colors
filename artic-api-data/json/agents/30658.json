@@ -1,0 +1,31 @@
+{
+    "id": 30658,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30658",
+    "title": "Wynn Bullock",
+    "sort_title": "Bullock, Wynn",
+    "alt_titles": [
+        "Percy Wingfield Bullock"
+    ],
+    "is_artist": true,
+    "birth_date": 1902,
+    "death_date": 1975,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Wynn Bullock",
+            "Bullock, Wynn",
+            "Percy Wingfield Bullock"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-09T15:24:06-05:00",
+    "updated_at": "2022-03-15T16:54:27-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

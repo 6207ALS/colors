@@ -1,0 +1,155 @@
+{
+    "id": 195470,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/195470",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAC84SzQ2Ry5hd0JCTEFCUziHmDaJnDGHoTyZrDKivkOAkFKGkECXq0mWqEaitQAAACH5BAAAAAAALAAAAAADAAUAAAQLkIRxBEhqmYKYaxEAOw==",
+        "width": 2050,
+        "height": 3000,
+        "alt_text": "A work made of chromogenic print from digital file."
+    },
+    "main_reference_number": "2008.420",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1999,
+    "date_end": 1999,
+    "date_display": "1999",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Martin Kersels\nAmerican, born 1960",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "46.6 \u00d7 31.3 cm (image), 19 5/16 \u00d7 13 5/16 in. (paper)",
+    "dimensions_detail": [],
+    "medium_display": "Chromogenic print from digital file",
+    "inscriptions": null,
+    "credit_line": "Gift of Terry R. Myers",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 71.1584,
+    "color": {
+        "h": 188,
+        "l": 39,
+        "s": 97,
+        "percentage": 0.165631350563608,
+        "population": 1723
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 98127,
+    "artist_title": "Martin Kersels",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        98127
+    ],
+    "artist_titles": [
+        "Martin Kersels"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ab07c445-6df4-3693-be74-c23d5243098b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.420"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 18,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2020-09-12T16:09:58-05:00",
+    "updated_at": "2023-04-10T15:31:40-05:00",
+    "timestamp": "2023-09-24T01:38:06-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 31720,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31720",
+    "title": "Per Kirkeby",
+    "sort_title": "Kirkeby, Per",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1938,
+    "death_date": 2018,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Per Kirkeby",
+            "Kirkeby, Per"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-15T09:20:20-06:00",
+    "updated_at": "2022-03-15T16:55:26-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

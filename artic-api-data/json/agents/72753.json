@@ -1,0 +1,28 @@
+{
+    "id": 72753,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/72753",
+    "title": "Friedrich von G\u00e4rtner",
+    "sort_title": "G\u00e4rtner, Friedrich von",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1792,
+    "death_date": 1847,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Friedrich von G\u00e4rtner",
+            "G\u00e4rtner, Friedrich von"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:18-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

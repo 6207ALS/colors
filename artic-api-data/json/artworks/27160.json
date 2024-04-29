@@ -1,0 +1,187 @@
+{
+    "id": 27160,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27160",
+    "is_boosted": false,
+    "title": "Portrait of a Naval Officer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACAaESIbFikgFiMkHi0iGi4jGzQmHzQnIDcrITovIjwzKkEvJUExI0IwJkQ1K0s4LE06LVI+LmpUPYNnSQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYLE0gAI9gpMMgRFJxMFMSAgAOw==",
+        "width": 1798,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1967.180",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1749,
+    "date_end": 1758,
+    "date_display": "1749\u201358",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "John Wollaston\nAmerican, born England, c. 1710\u2013c. 1775",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "127 \u00d7 101.6 cm (50 \u00d7 40 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 101.6,
+            "width_in": 40,
+            "height_cm": 127,
+            "height_in": 50,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "A. A. McKay Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1967,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.682,
+    "color": {
+        "h": 6,
+        "l": 52,
+        "s": 37,
+        "percentage": 0.0012368375189039371,
+        "population": 11
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 165",
+    "gallery_id": 2147476040,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 37339,
+    "artist_title": "John Wollaston",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37339
+    ],
+    "artist_titles": [
+        "John Wollaston"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "fashion",
+        "organic material",
+        "american arts",
+        "people",
+        "portraits"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": "TM-8663",
+    "alt_subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_ids": [
+        "TM-8663",
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_titles": [
+        "fashion",
+        "people",
+        "portraits"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4340ff79-2795-b564-a39d-440716edbcac",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1967.180"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Naval Officer"
+            ],
+            "weight": 525,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:24:57-05:00",
+    "timestamp": "2023-09-24T00:32:25-05:00"
+}

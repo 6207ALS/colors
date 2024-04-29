@@ -1,0 +1,31 @@
+{
+    "id": 30769,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30769",
+    "title": "Chuck Close",
+    "sort_title": "Close, Chuck",
+    "alt_titles": [
+        "Charles Thomas Close"
+    ],
+    "is_artist": true,
+    "birth_date": 1940,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chuck Close",
+            "Close, Chuck",
+            "Charles Thomas Close"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-08-19T17:08:33-05:00",
+    "updated_at": "2022-03-15T16:54:29-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

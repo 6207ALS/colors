@@ -1,0 +1,35 @@
+{
+    "id": 33170,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33170",
+    "title": "Philips Wouwerman",
+    "sort_title": "Wouwerman, Philips",
+    "alt_titles": [
+        "Philips Wouwerman",
+        "Philips Pauwelsz. Wouwermans",
+        "Philips Pauwelsz. Wouwerman"
+    ],
+    "is_artist": true,
+    "birth_date": 1619,
+    "death_date": 1968,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Philips Wouwerman",
+            "Wouwerman, Philips",
+            "Philips Wouwerman",
+            "Philips Pauwelsz. Wouwermans",
+            "Philips Pauwelsz. Wouwerman"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-13T14:55:34-06:00",
+    "updated_at": "2023-02-13T14:57:11-06:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

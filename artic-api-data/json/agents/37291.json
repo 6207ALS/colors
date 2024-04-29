@@ -1,0 +1,41 @@
+{
+    "id": 37291,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37291",
+    "title": "Jan Wierix",
+    "sort_title": "Wierix, Jan",
+    "alt_titles": [
+        "Jan (Jerome) Wierix",
+        "Johan Wierix",
+        "Johan Wierx",
+        "Johan Wiricx",
+        "Johan Wiericz",
+        "Johan Wiercz"
+    ],
+    "is_artist": true,
+    "birth_date": 1549,
+    "death_date": 1618,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Wierix",
+            "Wierix, Jan",
+            "Jan (Jerome) Wierix",
+            "Johan Wierix",
+            "Johan Wierx",
+            "Johan Wiricx",
+            "Johan Wiericz",
+            "Johan Wiercz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T09:29:40-06:00",
+    "updated_at": "2023-02-15T09:32:08-06:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,38 @@
+{
+    "id": 4318,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4318",
+    "title": "Paintings by Joseph Lindon Smith",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1905-12-05T00:00:00-06:00",
+    "aic_end_at": "1905-12-25T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "ddb755a6-c9cb-c94f-bce5-3957112ada19"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Joseph Lindon Smith"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:13-06:00",
+    "timestamp": "2023-09-24T02:01:22-05:00"
+}

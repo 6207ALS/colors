@@ -1,0 +1,167 @@
+{
+    "id": 8528,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/8528",
+    "is_boosted": false,
+    "title": "Junius Brutus Booth",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC8qJzUpJTopIzs2Lj83L0EvJUYyKEs5LlI9Mk5EN1NAMVBDNVJGN2dLPFtPQGBSQ29dSXJXQXZXRIlmTgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MMsiSM1AzQhQHQIgVIYRAgAOw==",
+        "width": 1851,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1923.384",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1829,
+    "date_end": 1830,
+    "date_display": "1829\u201330",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Robert Matthew Sully\nAmerican, 1803\u20131855",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "74.3 \u00d7 62.2 cm (30 \u00d7 25 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 62.2,
+            "width_in": 25.25,
+            "height_cm": 74.3,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Goodman Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1923,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.9914,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 25212,
+    "artist_title": "Robert Matthew Sully",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        25212
+    ],
+    "artist_titles": [
+        "Robert Matthew Sully"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "organic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1f99a0f0-a2f2-c551-75ef-be7f7c23b046",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.384"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Junius Brutus Booth"
+            ],
+            "weight": 516,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:12-05:00",
+    "updated_at": "2023-06-21T11:25:45-05:00",
+    "timestamp": "2023-09-24T00:23:45-05:00"
+}

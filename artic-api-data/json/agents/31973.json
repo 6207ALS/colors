@@ -1,0 +1,31 @@
+{
+    "id": 31973,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31973",
+    "title": "Johann Georg Maucher",
+    "sort_title": "Maucher, Johann Georg",
+    "alt_titles": [
+        "Johann G. Maucher"
+    ],
+    "is_artist": true,
+    "birth_date": 1604,
+    "death_date": 1680,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Georg Maucher",
+            "Maucher, Johann Georg",
+            "Johann G. Maucher"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:07:12-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

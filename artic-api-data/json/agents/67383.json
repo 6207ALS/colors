@@ -1,0 +1,33 @@
+{
+    "id": 67383,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/67383",
+    "title": "Circle of Bernardino Gatti",
+    "sort_title": "Gatti, Bernardino, Circle of",
+    "alt_titles": [
+        "Circle of Bernardino Gatti, called Il Sojaro",
+        "Circle of il Sojaro"
+    ],
+    "is_artist": true,
+    "birth_date": 1495,
+    "death_date": 1575,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Bernardino Gatti",
+            "Gatti, Bernardino, Circle of",
+            "Circle of Bernardino Gatti, called Il Sojaro",
+            "Circle of il Sojaro"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:04-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

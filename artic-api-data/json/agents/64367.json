@@ -1,0 +1,31 @@
+{
+    "id": 64367,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/64367",
+    "title": "Robert Edge Pine",
+    "sort_title": "Pine, Robert Edge",
+    "alt_titles": [
+        "Robert E. Pine"
+    ],
+    "is_artist": true,
+    "birth_date": 1725,
+    "death_date": 1788,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Robert Edge Pine",
+            "Pine, Robert Edge",
+            "Robert E. Pine"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:45-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

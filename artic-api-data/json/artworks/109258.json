@@ -1,0 +1,185 @@
+{
+    "id": 109258,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109258",
+    "is_boosted": false,
+    "title": "Two-Handled Sauceboat",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJ+QgrOonsC1p8G4sMK6s8nCucvFv87Lx9XTztXU0dbU0tfW09jX1Nra2Nvb2dvc2dvc29zc2tvd3Nzc3N3c3N3d3dze3N3e3d3f3t3f397e3t7g3+Dg397g4ODh4eHi4+Pk5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwMzGA+JoKpgLhXD4TDqKASCwqEggBkEh0bBAHAjGIxIEADs=",
+        "width": 2975,
+        "height": 2250,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1952.1114",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1730,
+    "date_end": 1731,
+    "date_display": "1730/31",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Edward Feline\nEnglish, active 1730/35\nEngland",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "10.5 \u00d7 20.3 \u00d7 16.8 cm (4 1/8 \u00d7 8 \u00d7 6 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 16.8,
+            "depth_in": 6.625,
+            "width_cm": 20.3,
+            "width_in": 8,
+            "height_cm": 10.5,
+            "height_in": 4.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": null,
+    "credit_line": "Emily Crane Chadbourne Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1953,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.9577,
+    "color": {
+        "h": 84,
+        "l": 86,
+        "s": 1,
+        "percentage": 1.342979432315547,
+        "population": 7223
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 34471,
+    "artist_title": "Edward Feline",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34471
+    ],
+    "artist_titles": [
+        "Edward Feline"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "silver",
+        "silver",
+        "nonferrous metal",
+        "metal",
+        "inorganic material",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-161",
+    "classification_title": "silver",
+    "alt_classification_ids": [
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-161",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "silver",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2436",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "silver",
+        "nonferrous metal",
+        "metal",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dcba20fb-e8dc-fc57-a880-70fe3e4bb198",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1952.1114"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Two-Handled Sauceboat"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:39:29-05:00",
+    "timestamp": "2023-09-24T01:09:06-05:00"
+}

@@ -1,0 +1,168 @@
+{
+    "id": 109240,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109240",
+    "is_boosted": false,
+    "title": "Landscape",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJGTkpOVlKKhna+spri0sLW4tbm4trm6t7+4tMPEwcXEwcPHxcjHxcvKx8vLyMrLyc7LycrNy8/QzM/SztDSz9TT0tLU0tbV0dXW0drX1tfa19nY1tzb2N/b2tve2N3g2+Di3+Tk4+jm5gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAvG85lIOA0HSBN5VBiJwsJCCUEMgMBhI0IQBgJFphMEADs=",
+        "width": 2946,
+        "height": 2052,
+        "alt_text": "A work made of mounted; ink on paper."
+    },
+    "main_reference_number": "1948.101",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 2000,
+    "date_display": "20th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Liu Haisu \u5289\u6d77\u7c9f (Chinese, 1896-1994)",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "Painting: 45.4 \u00d7 67.7 cm (17 7/8 \u00d7 26 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 67.7,
+            "width_in": 26.6536,
+            "height_cm": 45.4,
+            "height_in": 17.8741,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Painting"
+        }
+    ],
+    "medium_display": "mounted; ink on paper",
+    "inscriptions": null,
+    "credit_line": "Orientals Sundry Trust and Maymar Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 56,
+        "l": 51,
+        "s": 1,
+        "percentage": 0.0020015906856225576,
+        "population": 121
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 15428,
+    "artist_title": "Liu Haisu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        15428
+    ],
+    "artist_titles": [
+        "Liu Haisu"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "painting",
+        "21st Century",
+        "asian art"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b1b4c2ad-66b8-17d2-98b7-d3c6b3011117",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1948.101"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Landscape"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-03T16:22:15-05:00",
+    "updated_at": "2023-08-03T16:25:55-05:00",
+    "timestamp": "2023-09-24T01:09:06-05:00"
+}

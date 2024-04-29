@@ -1,0 +1,151 @@
+{
+    "id": 9605,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/9605",
+    "is_boosted": false,
+    "title": "Herbarium",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIGLboKMboSNcoWPdI+Xe4mUfIyVfZGXd5KZe5WZe5CZfpabf5WdhJicgZifiZqhjKGihKGliqWmjaWokQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHQgURIAxDIISlMYjOQ8UwgAOw==",
+        "width": 2143,
+        "height": 3000,
+        "alt_text": "A work made of book containing text and 28 etchings."
+    },
+    "main_reference_number": "1959.33aa-1959.33bb",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1918,
+    "date_end": 1918,
+    "date_display": "1918",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Rudolph Grossmann, (German, 1882-1941)\nPublished by Mar\u00e9es-Gesellschaft, R. Piper & Co.",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Book containing text and 28 etchings",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. Philip Pinsof",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.0745,
+    "color": {
+        "h": 43,
+        "l": 47,
+        "s": 38,
+        "percentage": 0.0010052878139011198,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34752,
+    "artist_title": "Rudolph Grossmann",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34752
+    ],
+    "artist_titles": [
+        "Rudolph Grossmann"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "book",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "book",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5f3632dc-a296-dacd-0d9c-8ecd6e6f1349",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1959.33aa-1959.33bb"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Herbarium"
+            ],
+            "weight": 3707,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:48-05:00",
+    "updated_at": "2023-04-10T15:30:25-05:00",
+    "timestamp": "2023-09-24T00:24:15-05:00"
+}

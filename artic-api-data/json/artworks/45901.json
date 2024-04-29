@@ -1,0 +1,163 @@
+{
+    "id": 45901,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45901",
+    "is_boosted": false,
+    "title": "Hand Loom",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFJSUmZmZnBwcH19faKiorW1tba2trq6ur6+vsTExM3Nzc/Pz9fX19jY2N3d3eHh4ebm5vHx8fr6+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYAQ1keQYT0IMiAAEhXIsTAgAOw==",
+        "width": 7506,
+        "height": 9348,
+        "alt_text": "A work made of wood, probably ash, carved."
+    },
+    "main_reference_number": "1973.697",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1867,
+    "date_end": 1933,
+    "date_display": "1867/1933",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Manufactured by Anders Lervad and Son\nDenmark, Askov",
+    "place_of_origin": "Askov",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Wood, probably ash, carved",
+    "inscriptions": "Manufacturer's label: V\u00e6ve og Tilbeh\u00f8r Bogbinderv\u00e6rkt\u00f8j / Anders Lervad & S\u00f8n / Askov pr. Vejen Danmark / H\u00e6vleb\u00e6nke for Slojd. Husflid. og H\u00e6ndv\u00e6rk",
+    "credit_line": "Gift of Mr. and Mrs. Oakley B. Pellet",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, The Woven Coverlet: An Expression of Treasured America, Mar. 1\u2013July 23, 2000.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 120,
+        "l": 47,
+        "s": 0,
+        "percentage": 0.00017529835780498407,
+        "population": 123
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Equipment",
+    "artwork_type_id": 46,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 681,
+    "artist_title": "Anders Lervad & S\u00f8n",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        681
+    ],
+    "artist_titles": [
+        "Anders Lervad & S\u00f8n"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "textile working equipment",
+        "accessories (object genre)",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-13417",
+        "TM-157",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-13417",
+        "TM-157",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "textile working equipment",
+        "accessories (object genre)",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "214f7e7d-7bf9-cb1d-67aa-47afc65f5811",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.697"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Hand Loom"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-21T13:43:04-05:00",
+    "updated_at": "2023-08-21T13:45:55-05:00",
+    "timestamp": "2023-09-24T00:40:23-05:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 40481,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40481",
+    "title": "Giuseppe Cesari",
+    "sort_title": "Cesari, Giuseppe",
+    "alt_titles": [
+        "Cavaliere d'Arpino",
+        "Giuseppe Cesare",
+        "Giuseppe Cesari, (Il Cavaliere d'Arpino)",
+        "Cavalier d'Arpino",
+        "Giuseppino d'Arpino",
+        "Cavalier d' Arpino",
+        "Il Cavaliere d'Arpino"
+    ],
+    "is_artist": true,
+    "birth_date": 1568,
+    "death_date": 1640,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giuseppe Cesari",
+            "Cesari, Giuseppe",
+            "Cavaliere d'Arpino",
+            "Giuseppe Cesare",
+            "Giuseppe Cesari, (Il Cavaliere d'Arpino)",
+            "Cavalier d'Arpino",
+            "Giuseppino d'Arpino",
+            "Cavalier d' Arpino",
+            "Il Cavaliere d'Arpino"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:39-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

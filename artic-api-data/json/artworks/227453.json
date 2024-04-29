@@ -1,0 +1,172 @@
+{
+    "id": 227453,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/227453",
+    "is_boosted": false,
+    "title": "Libons",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAI0WJr9caRVxrwB4vEuFsTGb0cyPkMOYmvDOy+/Rye7Uyf3g1dDh49ji4NDj6Njo7Ovu5/Tp4/j37/3+9wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoJIg0REARiMQCzMUE+Q8UggAOw==",
+        "width": 2462,
+        "height": 3000,
+        "alt_text": "A work made of color linocut on ivory wove paper."
+    },
+    "main_reference_number": "2015.58",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1970,
+    "date_display": "1970",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Werner Graeff\nGerman, 1901\u20131978",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Sheet: 60.4 \u00d7 49.4 cm (23 13/16 \u00d7 19 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.4,
+            "width_in": 19.4489,
+            "height_cm": 60.4,
+            "height_in": 23.7796,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color linocut on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Ward Miller in honor of the Ward-Williams-Keserich Family",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 93.9558,
+    "color": {
+        "h": 356,
+        "l": 42,
+        "s": 99,
+        "percentage": 0.14010795127061626,
+        "population": 1213
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 55451,
+    "artist_title": "Werner Graeff",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        55451
+    ],
+    "artist_titles": [
+        "Werner Graeff"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "linocut",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-223",
+    "classification_title": "linocut",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-223",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "linocut",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "84a38464-1676-8db8-e660-4c92d303cd32",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.58"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Libons"
+            ],
+            "weight": 41,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:11:46-05:00",
+    "timestamp": "2023-09-24T01:48:14-05:00"
+}

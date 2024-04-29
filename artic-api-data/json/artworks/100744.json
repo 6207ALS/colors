@@ -1,0 +1,189 @@
+{
+    "id": 100744,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/100744",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAIWCfIiEfoqHgYuHgYqHg4yIgo6KhI6LhY+Lh5SQiQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMJkSjhgAkQgAOw==",
+        "width": 2958,
+        "height": 6643,
+        "alt_text": "A work made of cotton and polyester, plain weave; screen printed."
+    },
+    "main_reference_number": "1983.751",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1942,
+    "date_end": 1962,
+    "date_display": "c. 1952",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Marianne Strengell Hammarstr\u00f6m (Finnish, 1909\u20131998)\nUnited States, Michigan, Bloomfield Hills, Cranbrook Academy of Art",
+    "place_of_origin": "Michigan",
+    "description": null,
+    "dimensions": "274.7 \u00d7 111.6 cm (108 1/4 \u00d7 43 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 111.6,
+            "width_in": 43.875,
+            "height_cm": 274.7,
+            "height_in": 108.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and polyester, plain weave; screen printed",
+    "inscriptions": null,
+    "credit_line": "Textile Collection Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.5134,
+    "color": {
+        "h": 329,
+        "l": 63,
+        "s": 3,
+        "percentage": 0.09988726650411488,
+        "population": 1594
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 31382,
+    "artist_title": "Marianne Strengell",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31382
+    ],
+    "artist_titles": [
+        "Marianne Strengell"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "plain weaving",
+        "cotton (textile)",
+        "textile",
+        "weaving - printed",
+        "screen printing",
+        "polyester"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2578",
+    "alt_material_ids": [
+        "TM-2908"
+    ],
+    "material_ids": [
+        "TM-2578",
+        "TM-2908"
+    ],
+    "material_titles": [
+        "cotton (textile)",
+        "polyester"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [
+        "TM-10604"
+    ],
+    "technique_ids": [
+        "TM-10513",
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "plain weaving",
+        "screen printing"
+    ],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "83d021dc-4915-9e7b-8b96-6b1cef92f074",
+    "alt_image_ids": [
+        "74266b5b-843c-761a-c7ef-2a28a4c5a0cc"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.751"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-08T14:40:43-05:00",
+    "updated_at": "2023-08-08T14:40:58-05:00",
+    "timestamp": "2023-09-24T01:04:59-05:00"
+}

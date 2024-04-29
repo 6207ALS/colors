@@ -1,0 +1,183 @@
+{
+    "id": 111938,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111938",
+    "is_boosted": false,
+    "title": "Composition",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABwqMmQcFQclSik/Wmg8SDhBTUtIQmJjW1FlYVdmeNBPPIhITJRCQKpPSalRQI9kXd1TRqGXceGMcuvPiwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDEsUCEwTkI0CBAo0fFIUwgAOw==",
+        "width": 2215,
+        "height": 3000,
+        "alt_text": "A work made of color etching and aquatint on ivory wove paper."
+    },
+    "main_reference_number": "1978.614",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1926,
+    "date_end": 1969,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Serge Poliakoff\nFrench, born Russia, 1906-1969",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Plate: 32 \u00d7 24.7 cm (12 5/8 \u00d7 9 3/4 in.); Sheet: 55.7 \u00d7 39.3 cm (21 15/16 \u00d7 15 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.7,
+            "width_in": 9.7245,
+            "height_cm": 32,
+            "height_in": 12.5985,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 39.3,
+            "width_in": 15.4725,
+            "height_cm": 55.7,
+            "height_in": 21.9292,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color etching and aquatint on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Maxine Kunstadter",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 77.1927,
+    "color": {
+        "h": 3,
+        "l": 51,
+        "s": 75,
+        "percentage": 0.1477086462533733,
+        "population": 1422
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36225,
+    "artist_title": "Serge Poliakoff",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36225
+    ],
+    "artist_titles": [
+        "Serge Poliakoff"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "aquatint",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-147",
+    "classification_title": "aquatint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-147",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "aquatint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "47f613de-cd44-8c77-4fa9-afab39832053",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.614"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Composition"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:13:18-05:00",
+    "timestamp": "2023-09-24T01:10:04-05:00"
+}

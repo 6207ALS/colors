@@ -1,0 +1,35 @@
+{
+    "id": 33753,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33753",
+    "title": "Jules Adolphe Breton",
+    "sort_title": "Breton, Jules Adolphe",
+    "alt_titles": [
+        "Jules Breton",
+        "Jules Adolphe Aim\u00e9 Louis Breton",
+        "Jules (Adolphe Aim\u00e9 Louis) Breton"
+    ],
+    "is_artist": true,
+    "birth_date": 1827,
+    "death_date": 1906,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jules Adolphe Breton",
+            "Breton, Jules Adolphe",
+            "Jules Breton",
+            "Jules Adolphe Aim\u00e9 Louis Breton",
+            "Jules (Adolphe Aim\u00e9 Louis) Breton"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:55:36-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

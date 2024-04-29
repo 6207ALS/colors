@@ -1,0 +1,39 @@
+{
+    "id": 40824,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40824",
+    "title": "Bartholomaeus Spranger",
+    "sort_title": "Spranger, Bartholomaeus",
+    "alt_titles": [
+        "Bartholomaeus Spraneers",
+        "Bartholom\u00e4us Spranger van den Schilde",
+        "Bartholomaeus Sprangerson",
+        "Bartholomaeus Sprangher",
+        "Bartholomeus Spranger"
+    ],
+    "is_artist": true,
+    "birth_date": 1546,
+    "death_date": 1611,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bartholomaeus Spranger",
+            "Spranger, Bartholomaeus",
+            "Bartholomaeus Spraneers",
+            "Bartholom\u00e4us Spranger van den Schilde",
+            "Bartholomaeus Sprangerson",
+            "Bartholomaeus Sprangher",
+            "Bartholomeus Spranger"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T09:57:05-06:00",
+    "updated_at": "2023-02-15T09:57:06-06:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 73811,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73811",
+    "is_boosted": false,
+    "title": "Charger",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACooJzEuLjQwLjo2M0M9OFBJQVFKQV9YT1NQUFdUU2BXTGReVmRgXnZuZHh0cIR8cI+He5SNg5qamZ2cm6uopLOwq8jCuMbGx8vLzAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVICAQQ5AcSoE4zWIwUvRA00VZFRYCADs=",
+        "width": 2462,
+        "height": 2250,
+        "alt_text": "A work made of pewter."
+    },
+    "main_reference_number": "1950.1792",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1807,
+    "date_end": 1811,
+    "date_display": "1807\u201311",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Thomas Danforth III\nAmerican, 1756\u20131840\nPhiladelphia",
+    "place_of_origin": "Philadelphia",
+    "description": null,
+    "dimensions": "3.8 \u00d7 29.2 cm (1 1/2 \u00d7 11 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 29.2,
+            "width_in": 11.5,
+            "height_cm": 3.8,
+            "height_in": 1.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pewter",
+    "inscriptions": null,
+    "credit_line": "Bequest of Elizabeth R. Vaughan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1950,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.3872,
+    "color": {
+        "h": 37,
+        "l": 67,
+        "s": 13,
+        "percentage": 0.03604935989277626,
+        "population": 234
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 34130,
+    "artist_title": "Thomas Danforth, III",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34130
+    ],
+    "artist_titles": [
+        "Thomas Danforth, III"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "pewter",
+        "plate (general, dish)",
+        "metalwork",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11765",
+    "classification_title": "plate (general, dish)",
+    "alt_classification_ids": [
+        "TM-29",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11765",
+        "TM-29",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "plate (general, dish)",
+        "metalwork",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2513",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2513"
+    ],
+    "material_titles": [
+        "pewter"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4ee8647e-b4be-cfd1-c341-4e8a19d733fe",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.1792"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Charger"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:21:12-05:00",
+    "timestamp": "2023-09-24T00:52:16-05:00"
+}

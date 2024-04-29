@@ -1,0 +1,166 @@
+{
+    "id": 51277,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/51277",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIVPGoZQGYxUG5RbJLSLYbWLY72UbM2qhM6rhdKuhNCtitOwieDEp+fNs+3Uu+7XvvHaw/LcxPLdx/PeyPXhy/XizPjk0Pnl0Pjl0fnm0fjl0vnn0wAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYJVdmTU9RkEoUTMIAcBAS3IgDrVpGCaFADs=",
+        "width": 2756,
+        "height": 2250,
+        "alt_text": "A work made of silk, satin damask weave."
+    },
+    "main_reference_number": "1976.337",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1360,
+    "date_end": 1380,
+    "date_display": "1360/80",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "11 \u00d7 21.6 cm (4 3/8 \u00d7 8 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21.6,
+            "width_in": 8.5,
+            "height_cm": 11,
+            "height_in": 4.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, satin damask weave",
+    "inscriptions": null,
+    "credit_line": "Grace R. Smith Textile Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.2854,
+    "color": {
+        "h": 39,
+        "l": 47,
+        "s": 57,
+        "percentage": 0.013276228309746476,
+        "population": 77
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2daf3321-e284-46bd-2bd4-cef4503487a6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.337"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-14T15:45:23-05:00",
+    "updated_at": "2023-07-14T15:45:49-05:00",
+    "timestamp": "2023-09-24T00:43:08-05:00"
+}

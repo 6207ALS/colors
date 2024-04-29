@@ -1,0 +1,33 @@
+{
+    "id": 35562,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35562",
+    "title": "Alessandro Magnasco",
+    "sort_title": "Magnasco, Alessandro",
+    "alt_titles": [
+        "Lissandrino",
+        "Alessandro Magnasco, (Lissandrino)"
+    ],
+    "is_artist": true,
+    "birth_date": 1667,
+    "death_date": 1749,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alessandro Magnasco",
+            "Magnasco, Alessandro",
+            "Lissandrino",
+            "Alessandro Magnasco, (Lissandrino)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:57:05-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

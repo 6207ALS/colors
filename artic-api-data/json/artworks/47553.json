@@ -1,0 +1,181 @@
+{
+    "id": 47553,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47553",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHd8b4WKfYuQgoyRgZWaipaaiqywobO4qLe7rMTIuMzPws/SxNHSx9XXytnbz9rcz9zf0N7f097g0+Hj1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDQ5jNQYyAMVg5IQwHIIQQgAOw==",
+        "width": 2278,
+        "height": 2838,
+        "alt_text": "A work made of graphite, with yellow crayon, on off-white laid paper."
+    },
+    "main_reference_number": "1974.376",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1962,
+    "date_end": 1962,
+    "date_display": "1962",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Horst Janssen\nGerman, 1929-1995",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "42.6 \u00d7 34.4 cm (16 13/16 \u00d7 13 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 34.4,
+            "width_in": 13.5434,
+            "height_cm": 42.6,
+            "height_in": 16.7717,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite, with yellow crayon, on off-white laid paper",
+    "inscriptions": null,
+    "credit_line": "Harold Joachim Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.5861,
+    "color": {
+        "h": 76,
+        "l": 51,
+        "s": 6,
+        "percentage": 0.04835338643167825,
+        "population": 428
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35108,
+    "artist_title": "Horst Janssen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35108
+    ],
+    "artist_titles": [
+        "Horst Janssen"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "graphite",
+        "crayons",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410",
+        "TM-2418"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410",
+        "TM-2418"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite",
+        "crayons"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4c2551c1-cb87-3834-166b-2ecc9603de2c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.376"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 124,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:27:37-05:00",
+    "timestamp": "2023-09-24T00:41:10-05:00"
+}

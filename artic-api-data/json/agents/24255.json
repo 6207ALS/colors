@@ -1,0 +1,37 @@
+{
+    "id": 24255,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/24255",
+    "title": "Pieter Cornelisz. van Slingeland",
+    "sort_title": "Slingeland, Pieter Cornelisz. van",
+    "alt_titles": [
+        "Pieter C. van Slingelandt",
+        "Pieter Cornelisz. van Slingelandt",
+        "Pieter Cornelisz. van Slingelant",
+        "Pieter Cornelisz. van Slingherlandt"
+    ],
+    "is_artist": true,
+    "birth_date": 1640,
+    "death_date": 1691,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pieter Cornelisz. van Slingeland",
+            "Slingeland, Pieter Cornelisz. van",
+            "Pieter C. van Slingelandt",
+            "Pieter Cornelisz. van Slingelandt",
+            "Pieter Cornelisz. van Slingelant",
+            "Pieter Cornelisz. van Slingherlandt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-09-30T17:16:20-05:00",
+    "updated_at": "2022-03-15T16:52:31-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

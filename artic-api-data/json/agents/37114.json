@@ -1,0 +1,41 @@
+{
+    "id": 37114,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37114",
+    "title": "Emile van Marcke de Lummen",
+    "sort_title": "Marcke de Lummen, Emile van",
+    "alt_titles": [
+        "Emil van Marcke de Lummen",
+        "Emile Van Marcke De Lummen",
+        "\u00c9mile van Marcke de Lummen",
+        "Emile van Marcke",
+        "\u00c9mile Van Marcke de Lummen",
+        "Emile Van Marcke"
+    ],
+    "is_artist": true,
+    "birth_date": 1827,
+    "death_date": 1890,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Emile van Marcke de Lummen",
+            "Marcke de Lummen, Emile van",
+            "Emil van Marcke de Lummen",
+            "Emile Van Marcke De Lummen",
+            "\u00c9mile van Marcke de Lummen",
+            "Emile van Marcke",
+            "\u00c9mile Van Marcke de Lummen",
+            "Emile Van Marcke"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:32:39-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,42 @@
+{
+    "id": 50495,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/50495",
+    "title": "Andr\u00e9 Charles Boulle",
+    "sort_title": "Boulle, Andr\u00e9 Charles",
+    "alt_titles": [
+        "Andr\u00e9 C. Boulle",
+        "Andr\u00e9-Charles Boulle"
+    ],
+    "is_artist": true,
+    "birth_date": 1642,
+    "death_date": 1732,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Andr\u00e9 Charles Boulle",
+            "Boulle, Andr\u00e9 Charles",
+            "Andr\u00e9 C. Boulle",
+            "Andr\u00e9-Charles Boulle"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Andr\u00e9 Charles Boulle",
+            "Boulle, Andr\u00e9 Charles",
+            "Andr\u00e9 C. Boulle",
+            "Andr\u00e9-Charles Boulle"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:22-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

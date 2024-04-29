@@ -1,0 +1,171 @@
+{
+    "id": 205548,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/205548",
+    "is_boosted": false,
+    "title": "Joe's Painting #125",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAERmdkVndkdoeUtvfUlufk50fvykJvunKfqlKvymK/6rMryDS7mETbuGTbGCUrGEVb2GULOIWLaLXrqLYMSLWE1zgFBxg1R1hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDUU1eU8kTQZyJEoC9NAlAAEhBUCADs=",
+        "width": 2253,
+        "height": 2250,
+        "alt_text": "A work made of acrylic on canvas."
+    },
+    "main_reference_number": "2010.580",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Joe Zucker\nAmerican, born 1941",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "177.8 \u00d7 177.8 cm (70 \u00d7 70 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 177.8,
+            "width_in": 70,
+            "height_cm": 177.8,
+            "height_in": 70,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Jay and June Messinger",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2011,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 109.4093,
+    "color": {
+        "h": 42,
+        "l": 53,
+        "s": 83,
+        "percentage": 0.3030405491077844,
+        "population": 2151
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 61174,
+    "artist_title": "Joe Zucker",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        61174
+    ],
+    "artist_titles": [
+        "Joe Zucker"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10368",
+    "classification_title": "acrylic paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10368",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "ef7071f3-a422-aee9-b3c9-67425d4833df",
+    "alt_image_ids": [
+        "6711a64d-38ab-941d-c613-c01bd5fefc35",
+        "9226a1d6-ceae-c2ff-c6f8-a39e28476a25",
+        "cb821f52-8f67-b0a1-bbc3-6d805f4eeeb3"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.580"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Joe's Painting #125"
+            ],
+            "weight": 799,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-12T14:41:21-05:00",
+    "updated_at": "2023-09-12T14:45:52-05:00",
+    "timestamp": "2023-09-24T01:41:09-05:00"
+}

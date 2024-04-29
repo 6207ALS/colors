@@ -1,0 +1,37 @@
+{
+    "id": 42926,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42926",
+    "title": "Valery Gerlovin",
+    "sort_title": "Gerlovin, Valery",
+    "alt_titles": [
+        "Valeriy Gerlovin",
+        "Valeri Markovich Gerlovin",
+        "\u0412\u0430\u043b\u0435\u0440\u0438\u0439 \u0413\u0435\u0440\u043b\u043e\u0432\u0438\u043d",
+        "Valerii Gerlovin"
+    ],
+    "is_artist": true,
+    "birth_date": 1945,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Valery Gerlovin",
+            "Gerlovin, Valery",
+            "Valeriy Gerlovin",
+            "Valeri Markovich Gerlovin",
+            "\u0412\u0430\u043b\u0435\u0440\u0438\u0439 \u0413\u0435\u0440\u043b\u043e\u0432\u0438\u043d",
+            "Valerii Gerlovin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:43:04-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

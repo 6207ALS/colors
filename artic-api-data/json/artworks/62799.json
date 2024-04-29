@@ -1,0 +1,159 @@
+{
+    "id": 62799,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62799",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIozOYowO4s1P45RVo9QV5FbYpFcYJFgY5NgZJNhZpVlaZNtcZVxdJVzdpZzdgAAACH5BAAAAAAALAAAAAADAAUAAAQLkI1mwElClYAWcREAOw==",
+        "width": 1196,
+        "height": 2250,
+        "alt_text": "A work made of velvet."
+    },
+    "main_reference_number": "1948.181",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Turkey",
+    "place_of_origin": "Turkey",
+    "description": null,
+    "dimensions": "116.2 \u00d7 51.8 cm (45 3/4 \u00d7 20 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 51.8,
+            "width_in": 20.375,
+            "height_cm": 116.2,
+            "height_in": 45.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Velvet",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Emilie Wild, Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 61.9915,
+    "color": {
+        "h": 338,
+        "l": 35,
+        "s": 61,
+        "percentage": 0.011293958554911825,
+        "population": 151
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e2983dbd-350c-0c4b-d694-8b6eefc310cb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1948.181"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:57:55-05:00",
+    "timestamp": "2023-09-24T00:47:34-05:00"
+}

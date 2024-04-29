@@ -1,0 +1,28 @@
+{
+    "id": 42133,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42133",
+    "title": "Gerard van Nijmegan",
+    "sort_title": "Nijmegan, Gerard van",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1735,
+    "death_date": 1808,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gerard van Nijmegan",
+            "Nijmegan, Gerard van"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2019-07-10T09:10:38-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

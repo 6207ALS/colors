@@ -1,0 +1,183 @@
+{
+    "id": 268720,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/268720",
+    "is_boosted": false,
+    "title": "The Trinity",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIB4boB4b4Z/dYmAdImAdYqBdYiAdoqCd4yEeY2Feo+HfZKJfJOKfZOKfpOKf5OMgJmQg7CnmLKomgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUQoCJFjwM5iTOsweAEySAMIQA7",
+        "width": 5791,
+        "height": 7498,
+        "alt_text": "A work made of engraving on ivory laid paper."
+    },
+    "main_reference_number": "2023.1148",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1574,
+    "date_end": 1574,
+    "date_display": "1574",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Philip Galle (Flemish, 1537\u20131612)\nafter Maarten de Vos (Flemish, 1532\u20131603)",
+    "place_of_origin": "Flanders",
+    "description": null,
+    "dimensions": "Sheet (trimmed): 42.8 \u00d7 32.9 cm (16 7/8 \u00d7 13 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 32.9,
+            "width_in": 12.9528,
+            "height_cm": 42.8,
+            "height_in": 16.8504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet (trimmed)"
+        }
+    ],
+    "medium_display": "Engraving on ivory laid paper",
+    "inscriptions": "Lettered lower right: \"Martinus de Vos Inventor / 1574 / Philippus Galleus Fecit\"",
+    "credit_line": "Charles Hack and the Hearn Family Trust Collection, purchased with funds provided by the Harry B. and Bessie K. Braude Memorial, Amanda S. Johnson and Marion J. Livingston, anonymous, and Suzanne Searle Dixon endowment funds",
+    "catalogue_display": "<p>Hollstein, The New 222</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 56,
+        "s": 10,
+        "percentage": 0.0007438810943610174,
+        "population": 323
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 53548,
+    "artist_title": "Philips Galle",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        53548
+    ],
+    "artist_titles": [
+        "Philips Galle"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "print",
+        "ink",
+        "paper",
+        "prints and drawing",
+        "laid paper",
+        "engraving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-4",
+        "TM-12"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-145",
+        "TM-4",
+        "TM-12"
+    ],
+    "classification_titles": [
+        "print",
+        "paper",
+        "prints and drawing",
+        "engraving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-3070"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-3070"
+    ],
+    "material_titles": [
+        "ink",
+        "laid paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a1c7fc98-c674-e4fb-4007-4c28ac25750c",
+    "alt_image_ids": [
+        "6371d8f3-e695-7401-b0a3-755fc3bbe13a"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2023.1148"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Trinity"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-20T16:16:45-05:00",
+    "updated_at": "2023-09-20T16:21:17-05:00",
+    "timestamp": "2023-09-24T01:59:51-05:00"
+}

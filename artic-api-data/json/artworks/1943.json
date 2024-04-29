@@ -1,0 +1,184 @@
+{
+    "id": 1943,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/1943",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAG5ubp+fn6KioqSkpKampqenp7S0tLu7u8DAwNDQ0AAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAACAAUAAAQIMJ2CiBEBjAgAOw==",
+        "width": 1380,
+        "height": 3000,
+        "alt_text": "A work made of silk, brocaded plain compound cloth."
+    },
+    "main_reference_number": "1895.720",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1725,
+    "date_end": 1775,
+    "date_display": "Mid\u201318th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "53.3 \u00d7 25.4 cm (21 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 53.3,
+            "height_in": 21,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, brocaded plain compound cloth",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.035399512949297156,
+        "population": 547
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "flowers",
+        "silk (textile)",
+        "compound weaving",
+        "textile",
+        "weaving",
+        "vines",
+        "brocading"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-10482",
+    "alt_subject_ids": [
+        "TM-11863"
+    ],
+    "subject_ids": [
+        "TM-10482",
+        "TM-11863"
+    ],
+    "subject_titles": [
+        "flowers",
+        "vines"
+    ],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10542",
+    "alt_technique_ids": [
+        "TM-4228"
+    ],
+    "technique_ids": [
+        "TM-10542",
+        "TM-4228"
+    ],
+    "technique_titles": [
+        "compound weaving",
+        "brocading"
+    ],
+    "theme_titles": [],
+    "image_id": "e0a1a13a-b34c-6887-9df0-38367ee21356",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1895.720"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 10020,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2023-04-10T15:05:25-05:00",
+    "timestamp": "2023-09-24T00:21:04-05:00"
+}

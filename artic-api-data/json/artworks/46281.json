@@ -1,0 +1,184 @@
+{
+    "id": 46281,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46281",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHFzdHZ4d4OBg4iFh4uLio2OjY6OjIyMjpWSkZyamp6cmaKfn6+vrrGwrLW1sQAAACH5BAAAAAAALAAAAAADAAUAAAQLUBywGFHOoFZGChEAOw==",
+        "width": 522,
+        "height": 768,
+        "alt_text": "A work made of cotton, plain weave; machine embroidered with rayon and cotton in laid work and couching."
+    },
+    "main_reference_number": "1973.841",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1939,
+    "date_display": "1920s/30s",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Paul Rodier (French, 1867\u20131946)\nFrance",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "174.5 \u00d7 119.8 cm (68 5/8 \u00d7 47 1/8 in.); Warp repeat: H.: 43.1 cm (17 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 119.8,
+            "width_in": 47.125,
+            "height_cm": 174.5,
+            "height_in": 68.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 43.1,
+            "height_in": 17,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; machine embroidered with rayon and cotton in laid work and couching",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Eugene A. Davidson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.0916,
+    "color": {
+        "h": 216,
+        "l": 47,
+        "s": 0,
+        "percentage": 0.14081812268013624,
+        "population": 1472
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 22058,
+    "artist_title": "Paul Rodier",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        22058
+    ],
+    "artist_titles": [
+        "Paul Rodier"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "needlework (visual works)",
+        "Art Deco"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [
+        "TM-5976"
+    ],
+    "style_ids": [
+        "TM-5981",
+        "TM-5976"
+    ],
+    "style_titles": [
+        "Modernism",
+        "Art Deco"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c83ca4d1-a68f-3d58-1ec8-c9f3df8c0f42",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.841"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:30:28-05:00",
+    "timestamp": "2023-09-24T00:40:35-05:00"
+}

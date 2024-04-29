@@ -1,0 +1,167 @@
+{
+    "id": 156191,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/156191",
+    "is_boosted": false,
+    "title": "Band (from Woman's Trousers or Robe)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhDQAFAPUAAFNPRk1TV1VXWFhcWVlbXVldXFldXV1gX2FgW1JcYlRcYlNeZFhgYl5oblxpc2VnZGZraWBpb2RobGZsbWdsbW9ubnVvanFvb3Jwb3ZxbmRrc3VycHRycXRzc3p2dHp3dXt4d4B8e4uGg4qHh5CPkZ2cnaOdkamhlaShnqeln6ynna+pn6Oio6qooa6poa+qoK2qo66qo62qpq+sp6qpqa+sqK+sqamprLGrobGtprCtqLGtqLCtqQAAAAAAAAAAACH5BAAAAAAALAAAAAANAAUAAAY7wBsuN9vteLqarSajsUwpVQy2gr1crRNqJGg8IhKIgzLRIEIigCFRICwGCsYhACp9PJ0MpmLBcDYXJEEAOw==",
+        "width": 5634,
+        "height": 2203,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1964.1028.52a",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1900,
+    "date_display": "1875/1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "14 \u00d7 37.5 cm (5 1/2 \u00d7 14 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37.5,
+            "width_in": 14.75,
+            "height_cm": 14,
+            "height_in": 5.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Bequest of Russell Tyson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.2203,
+    "color": {
+        "h": 8,
+        "l": 56,
+        "s": 68,
+        "percentage": 0.002523914085964514,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework - costume",
+        "needlework (visual works)",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-2309",
+        "TM-83",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-2309",
+        "TM-83",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework - costume",
+        "needlework (visual works)",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "db1ac5bf-095a-d12b-698f-8e4e0b7bd4ad",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.1028.52a"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Band (from Woman's Trousers or Robe)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:18-05:00",
+    "updated_at": "2023-04-07T16:30:42-05:00",
+    "timestamp": "2023-09-24T01:30:34-05:00"
+}

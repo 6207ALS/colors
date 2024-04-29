@@ -1,0 +1,180 @@
+{
+    "id": 38855,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/38855",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAAIBAwQDBwUEBwgGChYUFx8cISIfJSMgJSgmKzMwNE1JSVRPTlVQT15YWF5aWmBaWmJcXGRfYGdhYG1nZW9paG9paXVvbHdyc3x3doV/fIeCfo+Hg4uFhI+IgpCIhJWNhpWNiJeQipmRi5qTjJuTj5+YkqCYkKGZkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQAVjIYE8GhRNaHQSmUClTMfi+Uw2JAdnUMEAIhdCIlA4CAyIIAA7",
+        "width": 1590,
+        "height": 1003,
+        "alt_text": "A work made of linen, needle lace worked on a laid and plaited thread grid."
+    },
+    "main_reference_number": "1900.3026",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "Probably 19th century (copy of early 17th century pattern)",
+    "date_qualifier_title": "Copy",
+    "date_qualifier_id": 14,
+    "artist_display": "Northern Italy",
+    "place_of_origin": "Northern Italy",
+    "description": null,
+    "dimensions": "11.2 \u00d7 75.9 cm (4 3/8 \u00d7 29 7/8 in.); Repeat: H.: 7.8 cm (3 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 75.9,
+            "width_in": 29.875,
+            "height_cm": 11.2,
+            "height_in": 4.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 7.8,
+            "height_in": 3.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Linen, needle lace worked on a laid and plaited thread grid",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.7072,
+    "color": {
+        "h": 46,
+        "l": 53,
+        "s": 24,
+        "percentage": 0.001560841605793844,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "linen (material)",
+        "lace making",
+        "textile",
+        "lace - needle"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1293"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1293"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - needle"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3093",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3093"
+    ],
+    "material_titles": [
+        "linen (material)"
+    ],
+    "technique_id": "TM-4211",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4211"
+    ],
+    "technique_titles": [
+        "lace making"
+    ],
+    "theme_titles": [],
+    "image_id": "5445729d-9038-1462-c89e-7a49947aee4f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1900.3026"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:47:07-05:00",
+    "timestamp": "2023-09-24T00:37:23-05:00"
+}

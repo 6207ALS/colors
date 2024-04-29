@@ -1,0 +1,183 @@
+{
+    "id": 51739,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/51739",
+    "is_boosted": false,
+    "title": "The Tramp",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALKRML6lXMWnUsevbM+7gs67hdK/itbDj9vLoN7NodvMp9/Rq+DVv+jcxeffzezhyeri1e7m2O/o2/Ps4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURICQ1DJEcAyAYgbIgRTQ9TggAOw==",
+        "width": 1579,
+        "height": 2250,
+        "alt_text": "A work made of lithograph in greenish-yellow ochre on ivory wove paper."
+    },
+    "main_reference_number": "1927.6377",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1897,
+    "date_end": 1897,
+    "date_display": "1897",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Th\u00e9ophile-Alexandre Steinlen\nFrench, born Switzerland, 1859-1923",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 54.5 \u00d7 50.1 cm (21 1/2 \u00d7 19 3/4 in.); Sheet, max: 69.3 \u00d7 50.1 cm (27 5/16 \u00d7 19 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.1,
+            "width_in": 19.7245,
+            "height_cm": 54.5,
+            "height_in": 21.4567,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.1,
+            "width_in": 19.7245,
+            "height_cm": 69.3,
+            "height_in": 27.2835,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, max"
+        }
+    ],
+    "medium_display": "Lithograph in greenish-yellow ochre on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": "<p>Crauzat 199 I/II</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 57.3744,
+    "color": {
+        "h": 45,
+        "l": 47,
+        "s": 63,
+        "percentage": 0.02696448096337275,
+        "population": 273
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36788,
+    "artist_title": "Th\u00e9ophile-Alexandre Pierre Steinlen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36788
+    ],
+    "artist_titles": [
+        "Th\u00e9ophile-Alexandre Pierre Steinlen"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b80b8e3e-788b-4fc2-b480-4b0a87d308f6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.6377"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Tramp"
+            ],
+            "weight": 35,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:16:23-05:00",
+    "timestamp": "2023-09-24T00:43:24-05:00"
+}

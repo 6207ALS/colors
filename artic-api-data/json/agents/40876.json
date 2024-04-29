@@ -1,0 +1,39 @@
+{
+    "id": 40876,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40876",
+    "title": "Carle van Loo",
+    "sort_title": "Loo, Carle van",
+    "alt_titles": [
+        "Charles Andre Vanloo",
+        "Charles Andr\u00e9 van Loo",
+        "Carle Vanloo",
+        "Carle (Charles Andr\u00e9) van Loo, (Vanloo)",
+        "Carle (Charles Andr\u00e9) van Loo, (Vanlo)"
+    ],
+    "is_artist": true,
+    "birth_date": 1705,
+    "death_date": 1765,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Carle van Loo",
+            "Loo, Carle van",
+            "Charles Andre Vanloo",
+            "Charles Andr\u00e9 van Loo",
+            "Carle Vanloo",
+            "Carle (Charles Andr\u00e9) van Loo, (Vanloo)",
+            "Carle (Charles Andr\u00e9) van Loo, (Vanlo)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:29-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

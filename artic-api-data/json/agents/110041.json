@@ -1,0 +1,28 @@
+{
+    "id": 110041,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/110041",
+    "title": "William Moody Chase",
+    "sort_title": "Chase, William Moody",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1817,
+    "death_date": 1901,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Moody Chase",
+            "Chase, William Moody"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-01T14:35:47-05:00",
+    "updated_at": "2019-07-01T14:40:48-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

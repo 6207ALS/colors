@@ -1,0 +1,35 @@
+{
+    "id": 63580,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/63580",
+    "title": "Jean Baptiste Claude Odiot",
+    "sort_title": "Odiot, Jean Baptiste Claude",
+    "alt_titles": [
+        "Jean B. C. Odiot",
+        "Jean-Baptiste-Claude Odiot",
+        "J. B. Odiot"
+    ],
+    "is_artist": true,
+    "birth_date": 1763,
+    "death_date": 1855,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Baptiste Claude Odiot",
+            "Odiot, Jean Baptiste Claude",
+            "Jean B. C. Odiot",
+            "Jean-Baptiste-Claude Odiot",
+            "J. B. Odiot"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:39-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

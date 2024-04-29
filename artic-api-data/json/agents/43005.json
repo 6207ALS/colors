@@ -1,0 +1,33 @@
+{
+    "id": 43005,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43005",
+    "title": "Wolfgang (Wolf) Huber",
+    "sort_title": "Huber, Wolfgang (Wolf)",
+    "alt_titles": [
+        "Wolfgang Huber",
+        "Wolf Huber"
+    ],
+    "is_artist": true,
+    "birth_date": 1485,
+    "death_date": 1553,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Wolfgang (Wolf) Huber",
+            "Huber, Wolfgang (Wolf)",
+            "Wolfgang Huber",
+            "Wolf Huber"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:32:31-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

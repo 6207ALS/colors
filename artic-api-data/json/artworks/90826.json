@@ -1,0 +1,176 @@
+{
+    "id": 90826,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/90826",
+    "is_boosted": false,
+    "title": "One Monotype in Red Suzuki",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAOzh2+3h3e3i3ezi3u3i3+/j3+/j4O7k4PDl4vHl4vHm4vHm4wAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLEJGxSkgFJCPUIREAOw==",
+        "width": 2033,
+        "height": 3000,
+        "alt_text": "A work made of monotype on white wove paper."
+    },
+    "main_reference_number": "1989.480",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Christopher Wool\nAmerican, born 1955",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "94 \u00d7 60.9 cm (37 1/16 \u00d7 24 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60.9,
+            "width_in": 23.9764,
+            "height_cm": 94,
+            "height_in": 37.0079,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Monotype on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Ralph Goldenberg; the Ralph and Helyn Goldenberg Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.5243,
+    "color": {
+        "h": 356,
+        "l": 35,
+        "s": 81,
+        "percentage": 0.01058461397626758,
+        "population": 111
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 29038,
+    "artist_title": "Christopher Wool",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29038
+    ],
+    "artist_titles": [
+        "Christopher Wool"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "monotype",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-227",
+    "classification_title": "monotype",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-227",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "monotype",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "3625b211-b6a7-7fe1-b266-7c26ef9f2cae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.480"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "One Monotype in Red Suzuki"
+            ],
+            "weight": 370,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:57:51-05:00",
+    "timestamp": "2023-09-24T00:59:58-05:00"
+}

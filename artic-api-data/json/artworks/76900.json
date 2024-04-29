@@ -1,0 +1,174 @@
+{
+    "id": 76900,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/76900",
+    "is_boosted": false,
+    "title": "Two Girls Performing Kathak",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAK6bc7OfeLaqgcO1lc++l9PBl9LFntTFnNbGndTGnsHCpMTFqtvJodrIot3Kot3LpN/Mp9/Np93Nqd7OqgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOQwTaEsxCEMBgIESTRJTwgAOw==",
+        "width": 1711,
+        "height": 2250,
+        "alt_text": "A work made of opaque watercolor and gold on paper."
+    },
+    "main_reference_number": "1919.956",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "India",
+    "place_of_origin": "India",
+    "description": null,
+    "dimensions": "Image: 14 \u00d7 10.7 cm (5 1/2 \u00d7 4 1/4 in.); Outermost border: 24.6 \u00d7 19.2 cm (9 3/4 \u00d7 7 1/2 in.); Paper: 31.6 \u00d7 24 cm (12 1/2 \u00d7 9 1/2)",
+    "dimensions_detail": [],
+    "medium_display": "Opaque watercolor and gold on paper",
+    "inscriptions": null,
+    "credit_line": "Lucy Maud Buckingham Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.4354,
+    "color": {
+        "h": 45,
+        "l": 47,
+        "s": 61,
+        "percentage": 0.006851925605217741,
+        "population": 64
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 104691,
+    "artist_title": "Mughal",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        104691
+    ],
+    "artist_titles": [
+        "Mughal"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "miniature painting",
+        "paper (fiber product)",
+        "South Asian",
+        "gold",
+        "watercolor",
+        "painting",
+        "asian art"
+    ],
+    "style_id": "TM-5344",
+    "style_title": "South Asian",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5344"
+    ],
+    "style_titles": [
+        "South Asian"
+    ],
+    "classification_id": "TM-340",
+    "classification_title": "miniature painting",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-340",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "miniature painting",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2452",
+        "TM-2403"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2452",
+        "TM-2403"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "gold",
+        "watercolor"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "01883c5e-cb84-eaad-0b2e-369065b5bfd2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1919.956"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Two Girls Performing Kathak"
+            ],
+            "weight": 250,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:09-05:00",
+    "updated_at": "2023-04-10T15:25:13-05:00",
+    "timestamp": "2023-09-24T00:53:19-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 36020,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36020",
+    "title": "Wijnand Otto Jan Nieuwenkamp",
+    "sort_title": "Nieuwenkamp, Wijnand Otto Jan",
+    "alt_titles": [
+        "Wynand Otto Jan Nieuwenkamp"
+    ],
+    "is_artist": true,
+    "birth_date": 1874,
+    "death_date": 1950,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Wijnand Otto Jan Nieuwenkamp",
+            "Nieuwenkamp, Wijnand Otto Jan",
+            "Wynand Otto Jan Nieuwenkamp"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:55-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

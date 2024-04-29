@@ -1,0 +1,168 @@
+{
+    "id": 215655,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/215655",
+    "is_boosted": false,
+    "title": "Poetry Foundation, Chicago, Illinois, Site Model",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPMAAAAAAAEBAQcHBwwMDRERExMTFR0dHiYmJ0FAREFBRFNTWVdXXV1dYmdnb6Cgq62ttSH5BAAAAAAALAAAAAAFAAUAAAQSEJgCAkCLAJBcAwLzKBtwDEAEADs=",
+        "width": 2048,
+        "height": 2016,
+        "alt_text": "A work made of mixed media."
+    },
+    "main_reference_number": "2012.671.13",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2008,
+    "date_end": 2008,
+    "date_display": "2008",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Ronan Architects\nAmerican, founded 1997\n\nJohn Ronan\nAmerican, born 1963",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "48.2 \u00d7 40.5 \u00d7 50.8 cm (19 \u00d7 16 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 50.8,
+            "depth_in": 20,
+            "width_cm": 40.5,
+            "width_in": 16,
+            "height_cm": 48.2,
+            "height_in": 19,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Mixed media",
+    "inscriptions": null,
+    "credit_line": "Gift of John Ronan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.9147,
+    "color": {
+        "h": 242,
+        "l": 47,
+        "s": 2,
+        "percentage": 0.028155325930054736,
+        "population": 197
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Model",
+    "artwork_type_id": 20,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 104093,
+    "artist_title": "John Ronan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        104093
+    ],
+    "artist_titles": [
+        "John Ronan"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural model",
+        "21st Century",
+        "model"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-514",
+    "classification_title": "architectural model",
+    "alt_classification_ids": [
+        "TM-732"
+    ],
+    "classification_ids": [
+        "TM-514",
+        "TM-732"
+    ],
+    "classification_titles": [
+        "architectural model",
+        "model"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "642e68f5-e4f5-3068-6013-39655c870be0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.671.13"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Poetry Foundation, Chicago, Illinois, Site Model"
+            ],
+            "weight": 32,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:28-05:00",
+    "updated_at": "2023-04-07T15:27:55-05:00",
+    "timestamp": "2023-09-24T01:44:34-05:00"
+}

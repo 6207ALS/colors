@@ -1,0 +1,33 @@
+{
+    "id": 42734,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42734",
+    "title": "Kunitoshi, Utagawa",
+    "sort_title": "Kunitoshi, Utagawa",
+    "alt_titles": [
+        "Utagawa Kunitoshi",
+        "Kunitoshi"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kunitoshi, Utagawa",
+            "Kunitoshi, Utagawa",
+            "Utagawa Kunitoshi",
+            "Kunitoshi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-31T16:42:16-05:00",
+    "updated_at": "2022-10-31T16:45:52-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

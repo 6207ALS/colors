@@ -1,0 +1,186 @@
+{
+    "id": 104084,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104084",
+    "is_boosted": false,
+    "title": "Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAE03Lk89NmNKPWZOQG1cVXJeV3NjXoV5dZqSjq6qqa+ur7Swrre1tbu5uLm6uru6ury9u7y9vsG/v8HDw8zIx9HR0N7h4uDg4OLk5AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4LNAk9MMQsEkAWAoEkIc0YVRlRUCADs=",
+        "width": 2257,
+        "height": 2250,
+        "alt_text": "A work made of cherry and sweetgum."
+    },
+    "main_reference_number": "1985.241",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1690,
+    "date_end": 1730,
+    "date_display": "1690\u20131730",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Artist unknown (American, 17th\u201318th century)\nNew York",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "66 \u00d7 110.5 \u00d7 91.4 cm (26 \u00d7 43 1/2 \u00d7 36 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 91.4,
+            "depth_in": 36,
+            "width_cm": 110.5,
+            "width_in": 43.5,
+            "height_cm": 66,
+            "height_in": 26,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cherry and sweetgum",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society through the Mr. and Mrs. William Y. Hutchinson Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.875,
+    "color": {
+        "h": 9,
+        "l": 65,
+        "s": 1,
+        "percentage": 0.1339985302476998,
+        "population": 950
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "table",
+        "cherry",
+        "furniture",
+        "sweet gum (wood)",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3620",
+    "alt_material_ids": [
+        "TM-11821"
+    ],
+    "material_ids": [
+        "TM-3620",
+        "TM-11821"
+    ],
+    "material_titles": [
+        "cherry",
+        "sweet gum (wood)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "53845f6c-706b-d658-877c-be640d5a8f09",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.241"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Table"
+            ],
+            "weight": 95,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-20T14:16:08-05:00",
+    "updated_at": "2023-06-20T14:17:45-05:00",
+    "timestamp": "2023-09-24T01:07:08-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 105683,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/105683",
+    "title": "Chief Lelooska (Don Smith)",
+    "sort_title": "Chief Lelooska (Don Smith)",
+    "alt_titles": [
+        "Don Lelooska",
+        "Don Smith, (Lelooska)",
+        "Don Smith (Lelooska)",
+        "Lelooska"
+    ],
+    "is_artist": true,
+    "birth_date": 1933,
+    "death_date": 1996,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chief Lelooska (Don Smith)",
+            "Chief Lelooska (Don Smith)",
+            "Don Lelooska",
+            "Don Smith, (Lelooska)",
+            "Don Smith (Lelooska)",
+            "Lelooska"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-01-04T12:03:22-06:00",
+    "updated_at": "2021-01-04T12:05:48-06:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

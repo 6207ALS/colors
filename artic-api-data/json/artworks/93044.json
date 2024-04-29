@@ -1,0 +1,168 @@
+{
+    "id": 93044,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/93044",
+    "is_boosted": false,
+    "title": "Roundel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFpBIV1FJmJGImNIJWZJJWdOLXFVLmpRMH9kP5eBZKCLbqCMc6uUdaqVeK2XeayXe7KbebahgtPCq9XHtNrOwNvQwuPYzOPZzOnh2QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoAQpzeQMAfEkwgEsjFEgkVVRFxYCADs=",
+        "width": 2263,
+        "height": 2250,
+        "alt_text": "A work made of linen and wool, tapestry weave."
+    },
+    "main_reference_number": "1926.1859",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 501,
+    "date_end": 800,
+    "date_display": "Roman period (30 B.C.\u2013 641 A.D.)/Arab period (641\u2013969), 6th/8th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Coptic\nEgypt",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "15 \u00d7 18.5 cm (5 7/8 \u00d7 7 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.5,
+            "width_in": 7.25,
+            "height_cm": 15,
+            "height_in": 5.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and wool, tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles Deering",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1927,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.8253,
+    "color": {
+        "h": 125,
+        "l": 17,
+        "s": 3,
+        "percentage": 0.012583471539439284,
+        "population": 89
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 29840,
+    "artist_title": "Coptic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29840
+    ],
+    "artist_titles": [
+        "Coptic"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roman period (egyptian)",
+        "textile",
+        "weaving"
+    ],
+    "style_id": "TM-4315",
+    "style_title": "roman period (egyptian)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4315"
+    ],
+    "style_titles": [
+        "roman period (egyptian)"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "61e1fcfb-32c3-40c2-e26c-7bb714bc113f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.1859"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Roundel"
+            ],
+            "weight": 5,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:56:12-05:00",
+    "timestamp": "2023-09-24T01:01:02-05:00"
+}

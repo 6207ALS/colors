@@ -1,0 +1,173 @@
+{
+    "id": 133365,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/133365",
+    "is_boosted": false,
+    "title": "Landscapes",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFhTTFxXUl9aU2FbVWZgWWtmX25mXm1nYHJtZXRsZHtzan94cIF5cIR6cIqBd5WNg5eOg5mOg5+UiZyVi7Sqn7qtoLqxpsm8r83CtczCt87Dt9DDttHEt9HGudLJvNXKvtfLv9zQw+HVyOXZzOfczu/k1/Pl2PTp3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwA7lEZFoQh4CQFBwTDCihOGAUEAupUFgwWhURqeM5QPacEimIAA7",
+        "width": 3000,
+        "height": 1960,
+        "alt_text": "A work made of album leaves; ink and color on paper."
+    },
+    "main_reference_number": "1970.482",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1945,
+    "date_end": 1955,
+    "date_display": "1945/55",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Huang Binhong\nChinese, 1864-1955",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "22 \u00d7 33.5 cm (8 11/16 \u00d7 13 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33.5,
+            "width_in": 13.189,
+            "height_cm": 22,
+            "height_in": 8.6615,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Album leaves; ink and color on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr.Jiang Ershi",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.8285,
+    "color": {
+        "h": 358,
+        "l": 31,
+        "s": 77,
+        "percentage": 0.0006458654920526251,
+        "population": 3
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 42675,
+    "artist_title": "Huang Binhong",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42675
+    ],
+    "artist_titles": [
+        "Huang Binhong"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "painting",
+        "paper (fiber product)",
+        "Chinese (culture or style)",
+        "asian art"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f7a19f52-d1e7-aa37-396d-20f9c88f23c4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.482"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Landscapes"
+            ],
+            "weight": 33,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T10:21:19-05:00",
+    "timestamp": "2023-09-24T01:20:16-05:00"
+}

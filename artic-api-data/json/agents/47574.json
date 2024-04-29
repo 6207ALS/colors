@@ -1,0 +1,33 @@
+{
+    "id": 47574,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47574",
+    "title": "Unkoku T\u00f4eki",
+    "sort_title": "Unkoku T\u00f4eki",
+    "alt_titles": [
+        "T\u00f4eki",
+        "Unkoku Motonao"
+    ],
+    "is_artist": true,
+    "birth_date": 1591,
+    "death_date": 1644,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Unkoku T\u00f4eki",
+            "Unkoku T\u00f4eki",
+            "T\u00f4eki",
+            "Unkoku Motonao"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-31T16:42:16-05:00",
+    "updated_at": "2022-10-31T16:45:52-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

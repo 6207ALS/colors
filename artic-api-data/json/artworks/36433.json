@@ -1,0 +1,187 @@
+{
+    "id": 36433,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/36433",
+    "is_boosted": false,
+    "title": "The Gateway, Durklisbuhl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFhXUVlXUVtZUVtZVFxbVV1bVmRiW2ZkXn58cYB9coWDeI2KfZOQg5WShaCdjqyombi0oMO/qd3ZxeXizAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYPMwiSJNDgJFyxAIwEEURggAOw==",
+        "width": 2592,
+        "height": 3350,
+        "alt_text": "A work made of photogravure."
+    },
+    "main_reference_number": "1971.408",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1908,
+    "date_end": 1908,
+    "date_display": "1908",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Alvin Langdon Coburn\nEnglish, born United States, 1882\u20131966",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image: 20.2 \u00d7 15.9 cm (8 \u00d7 6 5/16 in.); Paper: 22 \u00d7 17 cm (8 11/16 \u00d7 6 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.9,
+            "width_in": 6.2599,
+            "height_cm": 20.2,
+            "height_in": 7.9528,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17,
+            "width_in": 6.693,
+            "height_cm": 22,
+            "height_in": 8.6615,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Photogravure",
+    "inscriptions": null,
+    "credit_line": "H. L. and Mary T. Adams Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.3931,
+    "color": {
+        "h": 49,
+        "l": 50,
+        "s": 7,
+        "percentage": 0.008597516514849761,
+        "population": 79
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 33997,
+    "artist_title": "Alvin Langdon Coburn",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33997
+    ],
+    "artist_titles": [
+        "Alvin Langdon Coburn"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photogravure",
+        "Pictorialism",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": "TM-7546",
+    "style_title": "Pictorialism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7546"
+    ],
+    "style_titles": [
+        "Pictorialism"
+    ],
+    "classification_id": "TM-275",
+    "classification_title": "photogravure",
+    "alt_classification_ids": [
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-275",
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photogravure",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e5c35b3c-7f11-7dd0-4971-d54885e59bc8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1971.408"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Gateway, Durklisbuhl"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:50:18-05:00",
+    "timestamp": "2023-09-24T00:36:40-05:00"
+}

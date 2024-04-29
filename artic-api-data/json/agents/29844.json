@@ -1,0 +1,33 @@
+{
+    "id": 29844,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/29844",
+    "title": "Nasca",
+    "sort_title": "Nasca",
+    "alt_titles": [
+        "Nazca Culture",
+        "Nazca"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nasca",
+            "Nasca",
+            "Nazca Culture",
+            "Nazca"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-03-16T12:13:39-05:00",
+    "updated_at": "2023-09-23T23:16:49-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

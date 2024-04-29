@@ -1,0 +1,31 @@
+{
+    "id": 26941,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/26941",
+    "title": "Domenico Antonio Vaccaro",
+    "sort_title": "Vaccaro, Domenico Antonio",
+    "alt_titles": [
+        "Domenico A. Vaccaro"
+    ],
+    "is_artist": true,
+    "birth_date": 1678,
+    "death_date": 1745,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Domenico Antonio Vaccaro",
+            "Vaccaro, Domenico Antonio",
+            "Domenico A. Vaccaro"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:11-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

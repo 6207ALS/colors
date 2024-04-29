@@ -1,0 +1,31 @@
+{
+    "id": 36367,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36367",
+    "title": "Leland Rice",
+    "sort_title": "Rice, Leland",
+    "alt_titles": [
+        "Leland D. Rice"
+    ],
+    "is_artist": true,
+    "birth_date": 1940,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Leland Rice",
+            "Rice, Leland",
+            "Leland D. Rice"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:14-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

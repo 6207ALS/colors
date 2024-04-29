@@ -1,0 +1,33 @@
+{
+    "id": 47614,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47614",
+    "title": "School of The Art Institute of Chicago, Graduate Photography Class of 1974",
+    "sort_title": "S.A.I.C. Graduate Photography Class of 1974",
+    "alt_titles": [
+        "School of The Art Institute of Chicago. Graduate Photography Class of 1974",
+        "School of the Art Institute"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "School of The Art Institute of Chicago, Graduate Photography Class of 1974",
+            "S.A.I.C. Graduate Photography Class of 1974",
+            "School of The Art Institute of Chicago. Graduate Photography Class of 1974",
+            "School of the Art Institute"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:22-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

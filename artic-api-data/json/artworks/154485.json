@@ -1,0 +1,171 @@
+{
+    "id": 154485,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/154485",
+    "is_boosted": false,
+    "title": "Perfect Pattern",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAH1IN2ZEQHNUUIRWP5dePKRpO5hnQadyQKt0QK15QpV4a5Z4bpyDe6SLe6qSg6SSiaKcl6mim6+opa2qpbauq7Wzrrm2sb65tb68t8S4tMG8t8G+ucPAu8vDvMnIws3KxM7Lxc7MxtLPyNPPyNTRytXSy9rY0dvZ0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQAvnIxqBNhOMp3QykUKVCEWT6VwkEAXj0XAsBIGB4ZBAFAiAIAA7",
+        "width": 3000,
+        "height": 1914,
+        "alt_text": "A work made of textile samples and reprocessed plastic pallets."
+    },
+    "main_reference_number": "2000.100",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1999,
+    "date_end": 1999,
+    "date_display": "1999",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Dan Peterman\nAmerican, born 1960",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "81.3 \u00d7 508 \u00d7 304.8 cm (32 \u00d7 200 \u00d7 120 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 304.8,
+            "depth_in": 120,
+            "width_cm": 508,
+            "width_in": 200,
+            "height_cm": 81.3,
+            "height_in": 32,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Textile samples and reprocessed plastic pallets",
+    "inscriptions": null,
+    "credit_line": "Ann M. Vielehr Prize Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.8335,
+    "color": {
+        "h": 353,
+        "l": 47,
+        "s": 75,
+        "percentage": 0.0011024531788134957,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Installation",
+    "artwork_type_id": 16,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 86991,
+    "artist_title": "Dan Peterman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        86991
+    ],
+    "artist_titles": [
+        "Dan Peterman"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "sculpture",
+        "modern and contemporary art",
+        "installation"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155",
+        "TM-1152"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155",
+        "TM-1152"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art",
+        "installation"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "9dfe23b2-2093-843d-fc34-81274c908ed9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2000.100"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Perfect Pattern"
+            ],
+            "weight": 502,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:18-05:00",
+    "updated_at": "2023-04-07T16:49:50-05:00",
+    "timestamp": "2023-09-24T01:29:37-05:00"
+}

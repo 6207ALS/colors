@@ -1,0 +1,31 @@
+{
+    "id": 17328,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/17328",
+    "title": "Manolo Millares",
+    "sort_title": "Millares, Manolo",
+    "alt_titles": [
+        "Manuel Millares"
+    ],
+    "is_artist": true,
+    "birth_date": 1926,
+    "death_date": 1972,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Manolo Millares",
+            "Millares, Manolo",
+            "Manuel Millares"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:53-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

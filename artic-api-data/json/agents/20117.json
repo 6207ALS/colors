@@ -1,0 +1,31 @@
+{
+    "id": 20117,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/20117",
+    "title": "Patton and Fisher",
+    "sort_title": "Patton & Fisher",
+    "alt_titles": [
+        "Patton and Fisher"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Patton and Fisher",
+            "Patton & Fisher",
+            "Patton and Fisher"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-27T12:45:33-05:00",
+    "updated_at": "2021-10-27T12:50:25-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

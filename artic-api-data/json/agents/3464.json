@@ -1,0 +1,31 @@
+{
+    "id": 3464,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3464",
+    "title": "G\u00fcnther Brus",
+    "sort_title": "Brus, G\u00fcnther",
+    "alt_titles": [
+        "G\u00fcnter Brus"
+    ],
+    "is_artist": true,
+    "birth_date": 1938,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "G\u00fcnther Brus",
+            "Brus, G\u00fcnther",
+            "G\u00fcnter Brus"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:18:51-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

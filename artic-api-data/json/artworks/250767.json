@@ -1,0 +1,163 @@
+{
+    "id": 250767,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/250767",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKePjsrBw9rR0eDMyeTV0uPh3uLj5+rm4enm4ujm5Ovo4uzo5O3p5e7o5+zo6e3r6Ozt7O7s7O/v7e7u7/Dv7PDu7fDw7/fx7vX29AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYPJQSiFh1YEQg8EsTQBckQUJzhQCADs=",
+        "width": 5622,
+        "height": 5622,
+        "alt_text": "A work made of metal and paint."
+    },
+    "main_reference_number": "2019.894",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1974,
+    "date_end": 1974,
+    "date_display": "1974",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alexander Calder\nAmerican, 1898\u20131976",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "25.4 \u00d7 30.5 cm (10 \u00d7 12 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30.5,
+            "width_in": 12,
+            "height_cm": 25.4,
+            "height_in": 10,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Metal and paint",
+    "inscriptions": null,
+    "credit_line": "Gift of Maya Moran Manny in memory of Carter H. Manny, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "None to date.",
+    "provenance_text": "The artist, given to Carter H. Manny Jr., Chicago, 1974 [according to Oral History of Carter Manny, 1995; photocopy in curatorial file]; by descent to his wife Maya Moran Manny, 2017; given to the Art Institute of Chicago, September 10, 2019.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.8974,
+    "color": {
+        "h": 44,
+        "l": 43,
+        "s": 84,
+        "percentage": 0.006613672853968695,
+        "population": 47
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 33838,
+    "artist_title": "Alexander Calder",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33838
+    ],
+    "artist_titles": [
+        "Alexander Calder"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "abstraction",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": "TM-13460",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-13460"
+    ],
+    "subject_titles": [
+        "abstraction"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0d271c0f-d329-5481-46e8-d49a5191c49a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.894"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:45:31-05:00",
+    "timestamp": "2023-09-24T01:56:16-05:00"
+}

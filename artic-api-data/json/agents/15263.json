@@ -1,0 +1,31 @@
+{
+    "id": 15263,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15263",
+    "title": "Alice Lex-Nerlinger",
+    "sort_title": "Lex-Nerlinger, Alice",
+    "alt_titles": [
+        "Alice Lex-Nerlinger"
+    ],
+    "is_artist": true,
+    "birth_date": 1893,
+    "death_date": 1975,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alice Lex-Nerlinger",
+            "Lex-Nerlinger, Alice",
+            "Alice Lex-Nerlinger"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:33-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

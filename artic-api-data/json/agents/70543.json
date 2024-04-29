@@ -1,0 +1,33 @@
+{
+    "id": 70543,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/70543",
+    "title": "Benjamin West Kilburn",
+    "sort_title": "Kilburn, Benjamin West",
+    "alt_titles": [
+        "B. W. (Benjamin West) Kilburn",
+        "Benjamin W. Kilburn"
+    ],
+    "is_artist": true,
+    "birth_date": 1827,
+    "death_date": 1909,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Benjamin West Kilburn",
+            "Kilburn, Benjamin West",
+            "B. W. (Benjamin West) Kilburn",
+            "Benjamin W. Kilburn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:07-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

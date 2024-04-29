@@ -1,0 +1,187 @@
+{
+    "id": 149704,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/149704",
+    "is_boosted": false,
+    "title": "Panel intended as a Pillow",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAALyhb7+ofKmmkL+uk6utorGuqry2pb63rr23scq7nMjAtsrCtsHBvMjFusnDvszEv83Hv8rDwcvEwM3GwsbIxsvNzs7OztHJwNHNx9LOxtjPxdPOyNrQxtfQyNDR1OHb1uDc1ure0e/i0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwMMFotl8MIwBwBJIeBQGQYjQ6CwyFFEFxCk4JpLIAxEEADs=",
+        "width": 1318,
+        "height": 1023,
+        "alt_text": "A work made of cotton, plain weave."
+    },
+    "main_reference_number": "1992.399.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1910,
+    "date_end": 1915,
+    "date_display": "1910/15",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Made from a kit produced by H. E. Varren Company\nUnited States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "58.8 \u00d7 43.9 cm (23 1/8 \u00d7 17 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 43.9,
+            "width_in": 17.25,
+            "height_cm": 58.8,
+            "height_in": 23.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Ralph P. Youngren",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.5058,
+    "color": {
+        "h": 41,
+        "l": 62,
+        "s": 68,
+        "percentage": 0.05622848353593725,
+        "population": 310
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 43942,
+    "artist_title": "H.E. Varren Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43942
+    ],
+    "artist_titles": [
+        "H.E. Varren Company"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "Arts and Crafts Movement",
+        "plain weaving",
+        "cotton (textile)",
+        "textile",
+        "weaving",
+        "european",
+        "American Arts and Crafts Movement"
+    ],
+    "style_id": "TM-7569",
+    "style_title": "Arts and Crafts Movement",
+    "alt_style_ids": [
+        "TM-4703",
+        "TM-14958"
+    ],
+    "style_ids": [
+        "TM-7569",
+        "TM-4703",
+        "TM-14958"
+    ],
+    "style_titles": [
+        "Arts and Crafts Movement",
+        "european",
+        "American Arts and Crafts Movement"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2578",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2578"
+    ],
+    "material_titles": [
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10513"
+    ],
+    "technique_titles": [
+        "plain weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "a328852d-96f2-e35f-9cdc-9720e490ac0c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.399.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel intended as a Pillow"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:00:32-05:00",
+    "timestamp": "2023-09-24T01:27:13-05:00"
+}

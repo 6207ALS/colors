@@ -1,0 +1,177 @@
+{
+    "id": 69489,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/69489",
+    "is_boosted": false,
+    "title": "Boy with Dog",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAUFBwYGBwYJCAsLChwcGj44NEVLTk9RUX92d4FxcpmOfYB+hH6CiI6ThZ+WmaGimKmsn5+fpaWkqL2npAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIFAQgYAkg+FMx6I0jAQ9UQgAOw==",
+        "width": 1576,
+        "height": 2250,
+        "alt_text": "A work made of soft-paste porcelain, polychrome enamels and gilding."
+    },
+    "main_reference_number": "1913.616",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1755,
+    "date_end": 1765,
+    "date_display": "c. 1760",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Chelsea Porcelain Manufactory\nLondon, England, c. 1745-1784",
+    "place_of_origin": "Chelsea",
+    "description": null,
+    "dimensions": "34.6 \u00d7 15.4 cm (13 5/8 \u00d7 6 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.4,
+            "width_in": 6.0625,
+            "height_cm": 34.6,
+            "height_in": 13.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Soft-paste porcelain, polychrome enamels and gilding",
+    "inscriptions": null,
+    "credit_line": "The Amelia Blanxius Memorial Collection, gift of Emma B. Hodge and Jene E. Bell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.6425,
+    "color": {
+        "h": 359,
+        "l": 49,
+        "s": 19,
+        "percentage": 0.011231836937373642,
+        "population": 114
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 30227,
+    "artist_title": "Chelsea Porcelain Factory",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30227
+    ],
+    "artist_titles": [
+        "Chelsea Porcelain Factory"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "soft-paste porcelain",
+        "porcelain",
+        "porcelain",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-38",
+    "classification_title": "porcelain",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-38",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "porcelain",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2447",
+    "alt_material_ids": [
+        "TM-2448"
+    ],
+    "material_ids": [
+        "TM-2447",
+        "TM-2448"
+    ],
+    "material_titles": [
+        "soft-paste porcelain",
+        "porcelain"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4a035abd-0e69-2e04-9a3d-34f9bc481642",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1913.616"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Boy with Dog"
+            ],
+            "weight": 114,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:46:46-05:00",
+    "timestamp": "2023-09-24T00:50:35-05:00"
+}

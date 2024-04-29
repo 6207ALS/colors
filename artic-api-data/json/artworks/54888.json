@@ -1,0 +1,172 @@
+{
+    "id": 54888,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/54888",
+    "is_boosted": false,
+    "title": "So Sorry",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG5PM3NbPXZZPHdcP3lcRHlhQJaBZZ+KcpiIdZqJeZyPf56UgaKZhqaai6qbjK6ejK6nl72zpLq1p7+6rgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoIQ4EwQQSSMUCjMES3QYTwgAOw==",
+        "width": 2253,
+        "height": 3000,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "1946.95",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1945,
+    "date_end": 1945,
+    "date_display": "1945",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "R. Vale Faro\nAmerican, 20th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "56 \u00d7 43.1 cm (22 1/16 \u00d7 17 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 43.1,
+            "width_in": 16.9686,
+            "height_cm": 56,
+            "height_in": 22.0473,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Print and Drawing Club",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.0995,
+    "color": {
+        "h": 44,
+        "l": 39,
+        "s": 12,
+        "percentage": 0.01057254563639324,
+        "population": 100
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34461,
+    "artist_title": "R. Vale Faro",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34461
+    ],
+    "artist_titles": [
+        "R. Vale Faro"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "52e274c6-745b-7718-a3e0-3452ebefa357",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1946.95"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "So Sorry"
+            ],
+            "weight": 23,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-07T16:14:22-05:00",
+    "updated_at": "2023-04-07T14:35:07-05:00",
+    "timestamp": "2023-09-24T00:44:31-05:00"
+}

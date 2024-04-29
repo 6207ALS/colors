@@ -1,0 +1,183 @@
+{
+    "id": 60720,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/60720",
+    "is_boosted": false,
+    "title": "Panel (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAG5kWXtwYnxwZZB/a4B7co+BcZiKe6SSfZyPgp+Vh5qUi6GTgqSWga6gkbOtowAAACH5BAAAAAAALAAAAAADAAUAAAQL0Chx2GgOrVQCAREAOw==",
+        "width": 1079,
+        "height": 1566,
+        "alt_text": "A work made of cotton, plain weave; engraved roller printed; glazed."
+    },
+    "main_reference_number": "1928.464",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1841,
+    "date_end": 1861,
+    "date_display": "c. 1851",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Probably Manufactured by Wright & Lee\nEngland, probably Manchester",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "145.5 \u00d7 71.5 cm (57 1/4 \u00d7 28 1/8 in.); Warp repeat: H.: 37.4 cm (14 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 71.5,
+            "width_in": 28.125,
+            "height_cm": 145.5,
+            "height_in": 57.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 37.4,
+            "height_in": 14.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; engraved roller printed; glazed",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Potter Palmer II to the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.8365,
+    "color": {
+        "h": 218,
+        "l": 48,
+        "s": 15,
+        "percentage": 0.007274568399856836,
+        "population": 75
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 107238,
+    "artist_title": "Wright & Lee",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        107238
+    ],
+    "artist_titles": [
+        "Wright & Lee"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roller printing",
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10537",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10537"
+    ],
+    "technique_titles": [
+        "roller printing"
+    ],
+    "theme_titles": [],
+    "image_id": "e85c7055-3faf-c8a4-018f-c5b9f205f8c5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1928.464"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel (Furnishing Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:45:33-05:00",
+    "timestamp": "2023-09-24T00:46:34-05:00"
+}

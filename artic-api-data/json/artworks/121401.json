@@ -1,0 +1,182 @@
+{
+    "id": 121401,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/121401",
+    "is_boosted": false,
+    "title": "Portrait #23",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAAAAAAAAQEBBQUFBQcGBQcHB2A0K2lDOn55d4uAfbmSeNyKXdOLZM6uk9C2ps3GuNfFtN3azgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYNQoj7MwUGIciBAAwEAQRQgAOw==",
+        "width": 1703,
+        "height": 2250,
+        "alt_text": "A work made of silver dye-bleach print."
+    },
+    "main_reference_number": "1993.74",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1985,
+    "date_end": 1985,
+    "date_display": "1985",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Patrick Tosani\nFrench, born 1954",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 122 \u00d7 94 cm (48 1/16 \u00d7 37 1/16 in.); frame: 132.5 \u00d7 102.3 \u00d7 3 cm (52 3/16 \u00d7 40 5/16 \u00d7 1 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 94,
+            "width_in": 37.0079,
+            "height_cm": 122,
+            "height_in": 48.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 3,
+            "depth_in": 1.1812,
+            "width_cm": 102.3,
+            "width_in": 40.2756,
+            "height_cm": 132.5,
+            "height_in": 52.1654,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "frame"
+        }
+    ],
+    "medium_display": "Silver dye-bleach print",
+    "inscriptions": null,
+    "credit_line": "Acquired through a grant from Association Fran\u00e7aise d'Action Artistique, Cr\u00e9dit Agricole; purchased with funds provided by of Thomas and Elizibeth Keim",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1993,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.8501,
+    "color": {
+        "h": 341,
+        "l": 36,
+        "s": 9,
+        "percentage": 0.009485653748058903,
+        "population": 89
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 43833,
+    "artist_title": "Patrick Tosani",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43833
+    ],
+    "artist_titles": [
+        "Patrick Tosani"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "silver-dye bleach print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-812",
+    "classification_title": "silver-dye bleach print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-812",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "silver-dye bleach print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dae83e48-cef8-abc3-76ea-99970fedb482",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1993.74"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait #23"
+            ],
+            "weight": 28,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-02T16:09:17-06:00",
+    "updated_at": "2023-04-07T12:33:32-05:00",
+    "timestamp": "2023-09-24T01:14:21-05:00"
+}

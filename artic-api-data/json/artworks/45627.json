@@ -1,0 +1,167 @@
+{
+    "id": 45627,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45627",
+    "is_boosted": false,
+    "title": "Fishes (Sakana)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEVEOmZiUGpoVnl1X3p1X4d/ZI2BYoyDZ4iDa4yEaI6GbI+Jbo+Jb5GJbZGJbpOLbo+KcZCKcZWNcJKMdJeRdZaRdpmQcZuTdJuVeqCUc6Wcfaugfqmfgaifgqigg6yigK6kg66niLywiwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwM2jcXGARB5MZCCAfDqTUIXC0CgAgQUBwTEUDhZJIhMEADs=",
+        "width": 3000,
+        "height": 2237,
+        "alt_text": "A work made of color woodblock print; edition 17/50."
+    },
+    "main_reference_number": "1973.599",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1958,
+    "date_end": 1958,
+    "date_display": "1958",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Amano Kunkhiro\nJapanese, born 1929",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "46.1 \u00d7 61.8 cm (18 1/8 \u00d7 24 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 61.8,
+            "width_in": 24.3125,
+            "height_cm": 46.1,
+            "height_in": 18.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; edition 17/50",
+    "inscriptions": null,
+    "credit_line": "Gift of Arnold Maremont",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.8452,
+    "color": {
+        "h": 43,
+        "l": 63,
+        "s": 29,
+        "percentage": 0.639964941708034,
+        "population": 3388
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 33405,
+    "artist_title": "Amano Kunihiro",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33405
+    ],
+    "artist_titles": [
+        "Amano Kunihiro"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a73f89b8-3cdc-0bae-e40c-513ce457a0f7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.599"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fishes (Sakana)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:32:24-05:00",
+    "timestamp": "2023-09-24T00:40:11-05:00"
+}

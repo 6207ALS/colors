@@ -1,0 +1,172 @@
+{
+    "id": 84801,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/84801",
+    "is_boosted": false,
+    "title": "Two-Handled Cup with Cover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIeFgqCemauqqK+uqqurrLKup7Wxrbezr76+v8G9t8LAvsjHxM7MydHRztLSztPT09XV1NrZ19ra19va2Nvb2trb293d293e3d/e3OLh3+Lk4+Pl5Ozs6u3u7gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4NZFFpdd0FEw2EMYiTJpCBAsUkUJg9OEADs=",
+        "width": 2933,
+        "height": 2250,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1955.1253a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1684,
+    "date_end": 1685,
+    "date_display": "1684/85",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "London, England",
+    "place_of_origin": "London",
+    "description": null,
+    "dimensions": "17.8 \u00d7 24.5 \u00d7 16.5 cm (7 \u00d7 9 5/8 \u00d7 6 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 16.5,
+            "depth_in": 6.5,
+            "width_cm": 24.5,
+            "width_in": 9.625,
+            "height_cm": 17.8,
+            "height_in": 7,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": null,
+    "credit_line": "Bequest of Garrard B. Winston",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.7426,
+    "color": {
+        "h": 81,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.029335137444286154,
+        "population": 160
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "drinking vessel",
+        "silver",
+        "silver",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11734",
+    "classification_title": "drinking vessel",
+    "alt_classification_ids": [
+        "TM-161",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11734",
+        "TM-161",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "drinking vessel",
+        "silver",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2436"
+    ],
+    "material_titles": [
+        "silver"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9c3b3a09-e2bf-e6a5-082a-27c54dde04aa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1955.1253a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Two-Handled Cup with Cover"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:44:50-05:00",
+    "timestamp": "2023-09-24T00:57:15-05:00"
+}

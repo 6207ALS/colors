@@ -1,0 +1,35 @@
+{
+    "id": 42671,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42671",
+    "title": "Leonora Carrington",
+    "sort_title": "Carrington, Leonora",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1917,
+    "death_date": 2011,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Leonora Carrington",
+            "Carrington, Leonora"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Leonora Carrington",
+            "Carrington, Leonora"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-02-21T10:24:54-06:00",
+    "updated_at": "2022-03-15T16:42:51-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

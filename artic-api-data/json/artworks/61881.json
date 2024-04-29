@@ -1,0 +1,174 @@
+{
+    "id": 61881,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/61881",
+    "is_boosted": false,
+    "title": "Scarf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFFgaGJwfIOJdGJ0gWiAkmyHnn6TlXuSmnSQoX6broOUkIKTn4ecrYmfrJClr4ylt9WbrMHCk8fatISuz6K6yaa5yrO4x6jE0KnF3gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIMEkxvBAmKQsVjUVzkVFR9AgAhACADs=",
+        "width": 1130,
+        "height": 1219,
+        "alt_text": "A work made of silk, plain weave; screen printed."
+    },
+    "main_reference_number": "1981.115",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1960,
+    "date_display": "1960",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Alberto Giacometti (Swiss, 1901\u20131966)\nFrance, Lyon, Maison Brochier\nPrinted for Galerie Adrien Maeght\nFrance, Paris",
+    "place_of_origin": "Lyon",
+    "description": null,
+    "dimensions": "85.4 \u00d7 81.4 cm (33 5/8 \u00d7 32 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 81.4,
+            "width_in": 32,
+            "height_cm": 85.4,
+            "height_in": 33.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, plain weave; screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Leigh B. Block in memory of Mary Lasker Block",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Succession Giacometti / Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 44.5335,
+    "color": {
+        "h": 48,
+        "l": 61,
+        "s": 67,
+        "percentage": 0.03471284257725891,
+        "population": 266
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 34643,
+    "artist_title": "Alberto Giacometti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34643
+    ],
+    "artist_titles": [
+        "Alberto Giacometti"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed",
+        "silk (fiber)",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7e506b1e-6d02-9d60-543b-7f5c6305688a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.115"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Scarf"
+            ],
+            "weight": 160,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:59:23-05:00",
+    "timestamp": "2023-09-24T00:47:06-05:00"
+}

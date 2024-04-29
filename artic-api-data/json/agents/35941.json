@@ -1,0 +1,37 @@
+{
+    "id": 35941,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35941",
+    "title": "Agostino dei Musi",
+    "sort_title": "Musi, Agostino dei",
+    "alt_titles": [
+        "Agostino de' Musi",
+        "Agostino Veneziano",
+        "Agostino Veneziano",
+        "Agostino Musi, (Agostino Veneziano)"
+    ],
+    "is_artist": true,
+    "birth_date": 1485,
+    "death_date": 1536,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Agostino dei Musi",
+            "Musi, Agostino dei",
+            "Agostino de' Musi",
+            "Agostino Veneziano",
+            "Agostino Veneziano",
+            "Agostino Musi, (Agostino Veneziano)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:35:30-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 64932,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/64932",
+    "title": "Joan E. Livingstone",
+    "sort_title": "Livingstone, Joan E.",
+    "alt_titles": [
+        "Joan Livingstone"
+    ],
+    "is_artist": true,
+    "birth_date": 1948,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joan E. Livingstone",
+            "Livingstone, Joan E.",
+            "Joan Livingstone"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:48-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

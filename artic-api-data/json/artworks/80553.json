@@ -1,0 +1,168 @@
+{
+    "id": 80553,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80553",
+    "is_boosted": false,
+    "title": "Nicolas Rubens, the artist's son",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAAAAAAAAg0GBxUSExkYGBsaGCMkISsqJCorKDAxKjIxKzg2MTo4MTs9NUZFPlVXUVhYVF1iW2FjX250bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIMUSjJBBxNJj2MAw0IEQggAOw==",
+        "width": 2169,
+        "height": 2659,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1954.299",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1597,
+    "date_end": 1640,
+    "date_display": "late 1630s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Rubens, Peter Paul (Attributed to)\nFlemish, 1577-1640",
+    "place_of_origin": "Flanders",
+    "description": null,
+    "dimensions": "73.7 \u00d7 59.1 cm (29 \u00d7 23 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 59.1,
+            "width_in": 23.25,
+            "height_cm": 73.7,
+            "height_in": 29,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Max and Leola Epstein collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1955,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.0751,
+    "color": {
+        "h": 106,
+        "l": 47,
+        "s": 3,
+        "percentage": 0.01732322849912007,
+        "population": 151
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 36487,
+    "artist_title": "Peter Paul Rubens",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36487
+    ],
+    "artist_titles": [
+        "Peter Paul Rubens"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "portraits",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": "TM-8658",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8658"
+    ],
+    "subject_titles": [
+        "portraits"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0a991ed0-5816-1fbe-33d2-a12c384334ab",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.299"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Nicolas Rubens, the artist's son"
+            ],
+            "weight": 465,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-09-23T23:18:54-05:00",
+    "timestamp": "2023-09-24T00:54:48-05:00"
+}

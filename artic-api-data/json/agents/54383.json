@@ -1,0 +1,28 @@
+{
+    "id": 54383,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/54383",
+    "title": "Vincenzo Gemito",
+    "sort_title": "Gemito, Vincenzo",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1852,
+    "death_date": 1929,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Vincenzo Gemito",
+            "Gemito, Vincenzo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-28T16:22:00-05:00",
+    "updated_at": "2020-07-28T16:25:44-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

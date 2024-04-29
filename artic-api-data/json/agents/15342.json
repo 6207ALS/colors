@@ -1,0 +1,35 @@
+{
+    "id": 15342,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15342",
+    "title": "Limoges Pottery and Porcelain Factories",
+    "sort_title": "Limoges Pottery and Porcelain Factories",
+    "alt_titles": [
+        "Limoges",
+        "Limoges Pottery & Porcelain Factories",
+        "manufacture de Limoges"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Limoges Pottery and Porcelain Factories",
+            "Limoges Pottery and Porcelain Factories",
+            "Limoges",
+            "Limoges Pottery & Porcelain Factories",
+            "manufacture de Limoges"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:33-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

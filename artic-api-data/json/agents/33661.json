@@ -1,0 +1,31 @@
+{
+    "id": 33661,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33661",
+    "title": "Edwin Howland Blashfield",
+    "sort_title": "Blashfield, Edwin Howland",
+    "alt_titles": [
+        "Edwin H. Blashfield"
+    ],
+    "is_artist": true,
+    "birth_date": 1848,
+    "death_date": 1936,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edwin Howland Blashfield",
+            "Blashfield, Edwin Howland",
+            "Edwin H. Blashfield"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:51:08-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

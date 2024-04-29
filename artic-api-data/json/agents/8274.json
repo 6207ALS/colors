@@ -1,0 +1,39 @@
+{
+    "id": 8274,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/8274",
+    "title": "Felice Ficherelli",
+    "sort_title": "Ficherelli, Felice",
+    "alt_titles": [
+        "Felice Ficherelli, (Felice Riposo)",
+        "Il Riposo",
+        "Felice Ficarelli, (Il Riposo)",
+        "Il Riposo",
+        "Felice Ficherelli, (Il Riposo)"
+    ],
+    "is_artist": true,
+    "birth_date": 1603,
+    "death_date": 1660,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Felice Ficherelli",
+            "Ficherelli, Felice",
+            "Felice Ficherelli, (Felice Riposo)",
+            "Il Riposo",
+            "Felice Ficarelli, (Il Riposo)",
+            "Il Riposo",
+            "Felice Ficherelli, (Il Riposo)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:35-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

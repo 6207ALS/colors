@@ -1,0 +1,179 @@
+{
+    "id": 196913,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/196913",
+    "is_boosted": false,
+    "title": "Untitled (Small Temple)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACMeFiEeGSckHS0oIC0qIzEvJzg0KTg1LDs5Ljw6MD88MEhDNldVRllVRVpWR2JfU2RhVWtnWmtoW21qXHFtXnBtX3t1ZXp3aoF+cIWBcoiEdJ+ahJ+aiaOdhqyljLGrkrOtk722nrq1oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwMwjAplIOBSEATAoXCoJQkBwwFgWDYZDoQl5Ph3QRhQEADs=",
+        "width": 3000,
+        "height": 2104,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1990.607.234",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1907,
+    "date_end": 1997,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Saito Kiyoshi\nJapanese, 1907-1997",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "Paper: 29.4 \u00d7 43.6 cm (11 5/8 \u00d7 17 3/16 in.); Block: 26.1 \u00d7 38.5 cm (10 5/16 \u00d7 15 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 43.6,
+            "width_in": 17.1654,
+            "height_cm": 29.4,
+            "height_in": 11.5749,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38.5,
+            "width_in": 15.1575,
+            "height_cm": 26.1,
+            "height_in": 10.2756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Block"
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Bruce Goff Archive, gift of Shin'enkan, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 8,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.6804,
+    "color": {
+        "h": 46,
+        "l": 53,
+        "s": 11,
+        "percentage": 0.12324046140907605,
+        "population": 614
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 14032,
+    "artist_title": "Saito Kiyoshi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        14032
+    ],
+    "artist_titles": [
+        "Saito Kiyoshi"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "Japanese (culture or style)",
+        "print"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4c59d70c-ac14-2034-23e6-ed3a59d30146",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.607.234"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Small Temple)"
+            ],
+            "weight": 64,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:56:18-05:00",
+    "timestamp": "2023-09-24T01:38:38-05:00"
+}

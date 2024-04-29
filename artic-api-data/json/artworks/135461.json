@@ -1,0 +1,176 @@
+{
+    "id": 135461,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/135461",
+    "is_boosted": false,
+    "title": "Kiddo",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAALKrUrOqasa+Y8G7f7iyh7izjri0j7+5jb65jr+4j7u1k7u3lry3lbq4lry4lb25l723mry3m7m4mbu4mLy4mLy5mb24m7+7m765nL+6nr68n8C6m8C7nsK+ngAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIJR1Q7JFhwAUD4YEhGRw2uU0jEVN1aKEADs=",
+        "width": 3000,
+        "height": 2399,
+        "alt_text": "A work made of pastel, with stumping, on gray laid paper."
+    },
+    "main_reference_number": "1994.731",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1978,
+    "date_end": 1978,
+    "date_display": "1978",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jack Beal\nAmerican, 1931-2013",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "22.7 \u00d7 28.5 cm (8 15/16 \u00d7 11 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 28.5,
+            "width_in": 11.2205,
+            "height_cm": 22.7,
+            "height_in": 8.9371,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pastel, with stumping, on gray laid paper",
+    "inscriptions": null,
+    "credit_line": "Jalane and Richard Davidson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1995,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 40.7661,
+    "color": {
+        "h": 45,
+        "l": 45,
+        "s": 83,
+        "percentage": 0.013727995607041405,
+        "population": 78
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33559,
+    "artist_title": "Jack Beal",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33559
+    ],
+    "artist_titles": [
+        "Jack Beal"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "pastel",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-229",
+    "classification_title": "pastel",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-229",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pastel",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "8336d748-f3b9-c6b3-7c72-e18b50bfb4ae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1994.731"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Kiddo"
+            ],
+            "weight": 83,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T08:27:42-05:00",
+    "timestamp": "2023-09-24T01:20:59-05:00"
+}

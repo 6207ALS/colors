@@ -1,0 +1,39 @@
+{
+    "id": 52864,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52864",
+    "title": "Conrad Faber",
+    "sort_title": "Faber, Conrad",
+    "alt_titles": [
+        "Conrad von Creuznach",
+        "Master of the Holzhausen Portraits",
+        "Conrad von Creuznach",
+        "Conrad Faber von Creuznach",
+        "Conrad Faber, (Conrad von Creuznach, Master of the Holzhausen Family)"
+    ],
+    "is_artist": true,
+    "birth_date": 1495,
+    "death_date": 1558,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Conrad Faber",
+            "Faber, Conrad",
+            "Conrad von Creuznach",
+            "Master of the Holzhausen Portraits",
+            "Conrad von Creuznach",
+            "Conrad Faber von Creuznach",
+            "Conrad Faber, (Conrad von Creuznach, Master of the Holzhausen Family)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:06-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

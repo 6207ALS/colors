@@ -1,0 +1,33 @@
+{
+    "id": 43856,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43856",
+    "title": "Tom Patti",
+    "sort_title": "Patti, Tom",
+    "alt_titles": [
+        "Thomas Patti",
+        "Thomas J. Patti"
+    ],
+    "is_artist": true,
+    "birth_date": 1943,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tom Patti",
+            "Patti, Tom",
+            "Thomas Patti",
+            "Thomas J. Patti"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-09-13T15:23:39-05:00",
+    "updated_at": "2023-09-13T15:25:51-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

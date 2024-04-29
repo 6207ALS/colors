@@ -1,0 +1,163 @@
+{
+    "id": 5066,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/5066",
+    "is_boosted": false,
+    "title": "Tunic Fragments (?)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAI5BFIdAGZNJFZNDGZlKG5pQFqRDDaFGE6VHEqZJE6hJE6tIE6lNFLNKF7pOE6RTF6lTGKhaGbFRGbRWGbBhG6tUI6pXKLlsPcNhIAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIKNIzWUkmGMtCDVVBxQ9xCAUQBACADs=",
+        "width": 1935,
+        "height": 2124,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1956.1259a-c",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1000,
+    "date_end": 1476,
+    "date_display": "A.D. 1000/1476",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Peru, Probably north or central coast",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Department of Textiles Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 72.8338,
+    "color": {
+        "h": 26,
+        "l": 35,
+        "s": 82,
+        "percentage": 0.41473501971722615,
+        "population": 3234
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-829",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "costume",
+        "dress (garment)",
+        "clothing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-81",
+        "TM-11897",
+        "TM-12173"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-81",
+        "TM-11897",
+        "TM-12173"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "costume",
+        "dress (garment)",
+        "clothing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "d674766d-dd60-9713-1e7c-7ebecf93de40",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.1259a-c"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tunic Fragments (?)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-07-28T14:19:25-05:00",
+    "updated_at": "2023-04-10T15:15:17-05:00",
+    "timestamp": "2023-09-24T00:22:31-05:00"
+}

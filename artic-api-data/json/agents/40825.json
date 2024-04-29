@@ -1,0 +1,37 @@
+{
+    "id": 40825,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40825",
+    "title": "Clarkson Stanfield",
+    "sort_title": "Stanfield, Clarkson",
+    "alt_titles": [
+        "William Clarkson Stanfield",
+        "William C. Stanfield",
+        "Clarkson (William) Stanfield",
+        "Clarkson Stanfield, R.A."
+    ],
+    "is_artist": true,
+    "birth_date": 1793,
+    "death_date": 1867,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Clarkson Stanfield",
+            "Stanfield, Clarkson",
+            "William Clarkson Stanfield",
+            "William C. Stanfield",
+            "Clarkson (William) Stanfield",
+            "Clarkson Stanfield, R.A."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2022-03-15T16:36:16-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

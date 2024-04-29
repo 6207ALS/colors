@@ -1,0 +1,156 @@
+{
+    "id": 158160,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/158160",
+    "is_boosted": false,
+    "title": "Copy after Sarcophagus",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAALKsl7Sum7OunLWvnLSunbexn7mzoLu0obm0o7q0oru1o7y2ory2pLy3pL23p7+5pcG7p8C6qMC7q8G7q8O9qsO9q8K9rcS/r8S/sMXBscrFtsrGt8zHt83Itc/Kus3JvNDMu9jSvdrVwtrWw9rVxNvWxNzXxNzYxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwA+Go5F4MpeNpRBJCCgNgwNEqFQUDEYA0RlQHpDFATAhiUqj08kUKgUBADs=",
+        "width": 3000,
+        "height": 1600,
+        "alt_text": "A work made of drawing on paper."
+    },
+    "main_reference_number": "1993.248.1798",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "1701-1800",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Unknown Artist\nFrench, 1701-1800",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Drawing on paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.5234,
+    "color": {
+        "h": 40,
+        "l": 63,
+        "s": 13,
+        "percentage": 0.2551733227889812,
+        "population": 968
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 117240,
+    "artist_title": "Unknown artist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117240
+    ],
+    "artist_titles": [
+        "Unknown artist"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7868955f-7f04-1d09-857a-fbd0146094bc",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1993.248.1798"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Copy after Sarcophagus"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:36-05:00",
+    "updated_at": "2023-04-10T15:20:39-05:00",
+    "timestamp": "2023-09-24T01:31:44-05:00"
+}

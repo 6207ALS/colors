@@ -1,0 +1,180 @@
+{
+    "id": 181712,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/181712",
+    "is_boosted": false,
+    "title": "Double Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJF7aomFgJ6ajqSUg6qjl66pm7Kqobiyqby3sL+7s8C9tsC8uMG+usPAu8TAucbCu8XCvcfCvMXCvsjDvcnEvcjEv8jFwcrGwcvGwsvHwszHw87Jxs7KxtDMyAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYBYZh0JxFjA0V/cEhKNtklAwWAUlyDKFADs=",
+        "width": 2805,
+        "height": 2250,
+        "alt_text": "A work made of watercolor, graphite, and colored pencil on white wove paper."
+    },
+    "main_reference_number": "2003.520",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Alan Magee\nAmerican, born 1947",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "38.6 \u00d7 48.2 cm (15 1/4 \u00d7 19 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.2,
+            "width_in": 18.9764,
+            "height_cm": 38.6,
+            "height_in": 15.1969,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor, graphite, and colored pencil on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Jalane and Richard Davidson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.208,
+    "color": {
+        "h": 46,
+        "l": 43,
+        "s": 75,
+        "percentage": 0.0024567092730246303,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 90231,
+    "artist_title": "Alan Magee",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        90231
+    ],
+    "artist_titles": [
+        "Alan Magee"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "watercolor",
+        "paper (fiber product)",
+        "prints and drawing",
+        "drawings (visual works)",
+        "colored pencil",
+        "graphite"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-39",
+    "classification_title": "watercolor",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-5",
+        "TM-296",
+        "TM-175"
+    ],
+    "classification_ids": [
+        "TM-39",
+        "TM-4",
+        "TM-5",
+        "TM-296",
+        "TM-175"
+    ],
+    "classification_titles": [
+        "watercolor",
+        "prints and drawing",
+        "drawings (visual works)",
+        "colored pencil",
+        "graphite"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3f6682ea-cd61-510b-8fe3-eb6f885ad21e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2003.520"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Double Self-Portrait"
+            ],
+            "weight": 86,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:17:34-05:00",
+    "timestamp": "2023-09-24T01:33:36-05:00"
+}

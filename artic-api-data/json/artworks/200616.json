@@ -1,0 +1,204 @@
+{
+    "id": 200616,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/200616",
+    "is_boosted": false,
+    "title": "Scarf",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "2009.1029",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1929,
+    "date_display": "1920s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "234.3 \u00d7 19 cm (92 1/4 \u00d7 7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19,
+            "width_in": 7.5,
+            "height_cm": 234.3,
+            "height_in": 92.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, hexagonal bobbinet; embroidered with viscose-rayon in chain and satin stitches; glass(?) beads; appliqu\u00e9d with iron alloy grommets; applied cotton fringe",
+    "inscriptions": null,
+    "credit_line": "Gift of Joseph W. Fell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "embroidering",
+        "silk (textile)",
+        "costume - needlework",
+        "fringed",
+        "beading (process)",
+        "appliqu\u00e9 (technique)",
+        "rayon",
+        "iron alloy",
+        "glass beads",
+        "fringe",
+        "cotton (textile)",
+        "lace",
+        "needlework (visual works)",
+        "textile",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-2319",
+    "classification_title": "costume - needlework",
+    "alt_classification_ids": [
+        "TM-119",
+        "TM-83",
+        "TM-69",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-2319",
+        "TM-119",
+        "TM-83",
+        "TM-69",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "costume - needlework",
+        "lace",
+        "needlework (visual works)",
+        "textile",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [
+        "TM-2978",
+        "TM-2678",
+        "TM-10533",
+        "TM-3464",
+        "TM-2578"
+    ],
+    "material_ids": [
+        "TM-2579",
+        "TM-2978",
+        "TM-2678",
+        "TM-10533",
+        "TM-3464",
+        "TM-2578"
+    ],
+    "material_titles": [
+        "silk (textile)",
+        "rayon",
+        "iron alloy",
+        "glass beads",
+        "fringe",
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-3914",
+    "alt_technique_ids": [
+        "TM-10554",
+        "TM-4236",
+        "TM-3915"
+    ],
+    "technique_ids": [
+        "TM-3914",
+        "TM-10554",
+        "TM-4236",
+        "TM-3915"
+    ],
+    "technique_titles": [
+        "embroidering",
+        "fringed",
+        "beading (process)",
+        "appliqu\u00e9 (technique)"
+    ],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.1029"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Scarf"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-24T10:55:40-05:00",
+    "updated_at": "2023-08-24T10:55:52-05:00",
+    "timestamp": "2023-09-24T01:40:04-05:00"
+}

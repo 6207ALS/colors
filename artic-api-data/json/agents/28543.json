@@ -1,0 +1,31 @@
+{
+    "id": 28543,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/28543",
+    "title": "Guy Carleton Wiggins",
+    "sort_title": "Wiggins, Guy Carleton",
+    "alt_titles": [
+        "Guy C. Wiggins"
+    ],
+    "is_artist": true,
+    "birth_date": 1883,
+    "death_date": 1962,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Guy Carleton Wiggins",
+            "Wiggins, Guy Carleton",
+            "Guy C. Wiggins"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:29-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

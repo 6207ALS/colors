@@ -1,0 +1,177 @@
+{
+    "id": 146865,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146865",
+    "is_boosted": false,
+    "title": "Mirror",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEg/P05GRVdPTVlQTV9ZWGJbW42IiY+LjJeTlJiUlZmXmJ2bnaKfoaOho8/MxdfUzu7v7+/w8PX19ff3+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NQsEkMUSuA8wCEMBoQkUQgAOw==",
+        "width": 4148,
+        "height": 5047,
+        "alt_text": "A work made of walnut, glass, and gilding."
+    },
+    "main_reference_number": "1997.333",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1870,
+    "date_end": 1870,
+    "date_display": "1870",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Siena, Italy\nCarlo Bartolozzi (Italian, 1835-1922) and Nicodemo Ferri (Italian, c. 1835-1899)",
+    "place_of_origin": "Siena",
+    "description": null,
+    "dimensions": "45.8 \u00d7 41.3 \u00d7 3.9 cm (18 \u00d7 16 1/4 \u00d7 1 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 3.9,
+            "depth_in": 1.5,
+            "width_cm": 41.3,
+            "width_in": 16.25,
+            "height_cm": 45.8,
+            "height_in": 18,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Walnut, glass, and gilding",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin P. Levy in memory of his father, George J. Levy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.5676,
+    "color": {
+        "h": 38,
+        "l": 58,
+        "s": 47,
+        "percentage": 0.001388768336081937,
+        "population": 12
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 70537,
+    "artist_title": "Carlo Bartolozzi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        70537
+    ],
+    "artist_titles": [
+        "Carlo Bartolozzi"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "walnut",
+        "mirror",
+        "furniture",
+        "furniture",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-278",
+    "classification_title": "mirror",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-278",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "mirror",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3609",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3609"
+    ],
+    "material_titles": [
+        "walnut"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e4c29b6d-aa33-fadf-5da9-cf3a6a002a0a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.333"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mirror"
+            ],
+            "weight": 252,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:31:57-05:00",
+    "timestamp": "2023-09-24T01:25:44-05:00"
+}

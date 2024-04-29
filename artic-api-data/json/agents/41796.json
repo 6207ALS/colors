@@ -1,0 +1,31 @@
+{
+    "id": 41796,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41796",
+    "title": "John Francis Rigaud",
+    "sort_title": "Rigaud, John Francis",
+    "alt_titles": [
+        "John F. Rigaud"
+    ],
+    "is_artist": true,
+    "birth_date": 1742,
+    "death_date": 1810,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Francis Rigaud",
+            "Rigaud, John Francis",
+            "John F. Rigaud"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-21T12:06:32-05:00",
+    "updated_at": "2022-03-15T16:42:28-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

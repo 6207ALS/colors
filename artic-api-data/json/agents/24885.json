@@ -1,0 +1,35 @@
+{
+    "id": 24885,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/24885",
+    "title": "Florine Stettheimer",
+    "sort_title": "Stettheimer, Florine",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1871,
+    "death_date": 1944,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Florine Stettheimer",
+            "Stettheimer, Florine"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Florine Stettheimer",
+            "Stettheimer, Florine"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:41-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

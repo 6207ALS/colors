@@ -1,0 +1,35 @@
+{
+    "id": 34053,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34053",
+    "title": "Charles Courtry",
+    "sort_title": "Courtry, Charles",
+    "alt_titles": [
+        "Charles Jean Louis Courtry",
+        "Charles (Jean Louis) Courtry",
+        "Courtry, Ch. (Charles)"
+    ],
+    "is_artist": true,
+    "birth_date": 1846,
+    "death_date": 1897,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Courtry",
+            "Courtry, Charles",
+            "Charles Jean Louis Courtry",
+            "Charles (Jean Louis) Courtry",
+            "Courtry, Ch. (Charles)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:39:26-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

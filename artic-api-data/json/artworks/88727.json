@@ -1,0 +1,160 @@
+{
+    "id": 88727,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/88727",
+    "is_boosted": false,
+    "title": "Statue of Benjamin Franklin",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACUlKCsrLTgxMWZmZGhnZYaFgYSGh5SWlJiXkaOglb+2q7O4vL3Bw8PDwdTQwgAAACH5BAAAAAAALAAAAAADAAUAAAQLMAhA1ECunGRYWxEAOw==",
+        "width": 1360,
+        "height": 2250,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1928.263",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1880,
+    "date_display": "1800\u201380",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "English for the American market\nStaffordshire, England",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Earthenware",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Allerton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1929,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.3772,
+    "color": {
+        "h": 83,
+        "l": 57,
+        "s": 1,
+        "percentage": 0.1571448615416013,
+        "population": 1848
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 30260,
+    "artist_title": "Staffordshire Potteries",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30260
+    ],
+    "artist_titles": [
+        "Staffordshire Potteries"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "porcelain",
+        "porcelain",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-38",
+    "classification_title": "porcelain",
+    "alt_classification_ids": [
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-38",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "porcelain",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2448",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2448"
+    ],
+    "material_titles": [
+        "porcelain"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "341d5bd5-2c07-9d43-fcd9-bab3b537a339",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1928.263"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Statue of Benjamin Franklin"
+            ],
+            "weight": 12,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:19:49-05:00",
+    "timestamp": "2023-09-24T00:59:08-05:00"
+}

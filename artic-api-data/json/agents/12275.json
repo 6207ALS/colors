@@ -1,0 +1,33 @@
+{
+    "id": 12275,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/12275",
+    "title": "Edward Timothy Hurley",
+    "sort_title": "Hurley, Edward Timothy",
+    "alt_titles": [
+        "Edward T. Hurley",
+        "E. T. Hurley"
+    ],
+    "is_artist": true,
+    "birth_date": 1869,
+    "death_date": 1950,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edward Timothy Hurley",
+            "Hurley, Edward Timothy",
+            "Edward T. Hurley",
+            "E. T. Hurley"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:33-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

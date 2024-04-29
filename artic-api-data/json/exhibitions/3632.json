@@ -1,0 +1,41 @@
+{
+    "id": 3632,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3632",
+    "title": "Art Crafts Exhibition 1st Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1902-12-16T00:00:00-06:00",
+    "aic_end_at": "1903-01-11T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [
+        "7ace6ccf-0426-3ccf-0064-832991692e99",
+        "04985d33-fa7c-33c0-469b-0a7d58bd454d"
+    ],
+    "document_ids": [
+        "c0e359e4-5c51-53a3-50df-195591d4d5a2"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art Crafts Exhibition 1st Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:14-06:00",
+    "timestamp": "2023-09-24T02:01:14-05:00"
+}

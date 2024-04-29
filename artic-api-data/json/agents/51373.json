@@ -1,0 +1,35 @@
+{
+    "id": 51373,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51373",
+    "title": "Theodor de Bry",
+    "sort_title": "Bry, Theodor de",
+    "alt_titles": [
+        "Dirk de Bry",
+        "Th\u00e9odore de Bry",
+        "Theodor De Bry"
+    ],
+    "is_artist": true,
+    "birth_date": 1528,
+    "death_date": 1598,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Theodor de Bry",
+            "Bry, Theodor de",
+            "Dirk de Bry",
+            "Th\u00e9odore de Bry",
+            "Theodor De Bry"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:51-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

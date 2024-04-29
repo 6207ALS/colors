@@ -1,0 +1,169 @@
+{
+    "id": 185223,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/185223",
+    "is_boosted": false,
+    "title": "Key to Untitled (Cubist still life)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAM/LuNTSv8DIwc3TztHTx9DUyNDVytfaztvbz9vcz8/V0Nbb0dbc0dbb1tbc1t7e0dje2dne2d/g1d3h29zh3d/j3+Lh1eDh1uDi1+Hk3ODk3+Xm3eTn3+Lm4OPm4eHm4uLn4uTn4uPo4ePo5OTp5OXq5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQAChYGAsDgGEp/KhjEAJSSjiEDRAmMtEAYEMNJtHpkMqiTiWIAA7",
+        "width": 3000,
+        "height": 1824,
+        "alt_text": "A work made of faxed print on paper."
+    },
+    "main_reference_number": "2009.707.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "David Hockney\nEnglish, born 1937",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Faxed print on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Henry and Gilda Buchbinder Family",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.6333,
+    "color": {
+        "h": 44,
+        "l": 62,
+        "s": 30,
+        "percentage": 0.004624715869018797,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34956,
+    "artist_title": "David Hockney",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34956
+    ],
+    "artist_titles": [
+        "David Hockney"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "Pop Art",
+        "print",
+        "paper (fiber product)",
+        "facsimile",
+        "fax",
+        "prints and drawing"
+    ],
+    "style_id": "TM-7221",
+    "style_title": "Pop Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7221"
+    ],
+    "style_titles": [
+        "Pop Art"
+    ],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-10416",
+        "TM-10415",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-10416",
+        "TM-10415",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "print",
+        "facsimile",
+        "fax",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0557c049-62ba-920f-a642-d016f7c03a42",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.707.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Key to Untitled (Cubist still life)"
+            ],
+            "weight": 114,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:38-05:00",
+    "updated_at": "2023-09-23T23:16:35-05:00",
+    "timestamp": "2023-09-24T01:34:57-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 46496,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46496",
+    "title": "Circle of Marten van Heemskerck",
+    "sort_title": "Heemskerck, Marten van, Circle of",
+    "alt_titles": [
+        "Circle of Martinus van Heemskerk",
+        "Circle of Maerten van Heemskerck",
+        "Circle of Maerten van Heemskerk",
+        "Circle of Maarten van Heemskerck",
+        "Circle of Martin van Heemskerk"
+    ],
+    "is_artist": true,
+    "birth_date": 1498,
+    "death_date": 1574,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Marten van Heemskerck",
+            "Heemskerck, Marten van, Circle of",
+            "Circle of Martinus van Heemskerk",
+            "Circle of Maerten van Heemskerck",
+            "Circle of Maerten van Heemskerk",
+            "Circle of Maarten van Heemskerck",
+            "Circle of Martin van Heemskerk"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:56-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

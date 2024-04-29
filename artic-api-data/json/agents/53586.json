@@ -1,0 +1,37 @@
+{
+    "id": 53586,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/53586",
+    "title": "Daniela da Volterra",
+    "sort_title": "Volterra, Daniela da",
+    "alt_titles": [
+        "Daniele da Volterra",
+        "Daniele Da Volterra",
+        "Daniele da Volterra, (Daniele Ricciarelli)",
+        "Daniele Ricciarelli"
+    ],
+    "is_artist": true,
+    "birth_date": 1509,
+    "death_date": 1566,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Daniela da Volterra",
+            "Volterra, Daniela da",
+            "Daniele da Volterra",
+            "Daniele Da Volterra",
+            "Daniele da Volterra, (Daniele Ricciarelli)",
+            "Daniele Ricciarelli"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:27:28-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

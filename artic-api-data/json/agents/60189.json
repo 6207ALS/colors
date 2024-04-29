@@ -1,0 +1,33 @@
+{
+    "id": 60189,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/60189",
+    "title": "Christoph Weiditz, I",
+    "sort_title": "Weiditz, Christoph, I",
+    "alt_titles": [
+        "Christoph Weiditz, the elder",
+        "Christoph Wydyz, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1495,
+    "death_date": 1559,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Christoph Weiditz, I",
+            "Weiditz, Christoph, I",
+            "Christoph Weiditz, the elder",
+            "Christoph Wydyz, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:14-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

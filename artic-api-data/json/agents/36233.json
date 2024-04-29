@@ -1,0 +1,31 @@
+{
+    "id": 36233,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36233",
+    "title": "Paul Pontius",
+    "sort_title": "Pontius, Paul",
+    "alt_titles": [
+        "Paulus Pontius"
+    ],
+    "is_artist": true,
+    "birth_date": 1603,
+    "death_date": 1658,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul Pontius",
+            "Pontius, Paul",
+            "Paulus Pontius"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:43:16-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

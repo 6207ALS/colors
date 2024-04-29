@@ -1,0 +1,170 @@
+{
+    "id": 31410,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/31410",
+    "is_boosted": false,
+    "title": "Border for Altar Cloth",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAJ2dnZ6enqSkpKioqKurq62trbW1tcDAwMbGxgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAACAAUAAAQIMAhAiClnoAgAOw==",
+        "width": 1803,
+        "height": 4500,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1969.190",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1700,
+    "date_display": "17th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "43.3 \u00d7 354.7 cm (17 \u00d7 139 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 354.7,
+            "width_in": 139.625,
+            "height_cm": 43.3,
+            "height_in": 17,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Arthur M. Wood, Mrs. Bertha Palmer Thorne, Mrs. Rose Movius Palmer, and Mrs. Gordon Palmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.02525833412265627,
+        "population": 448
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "altar",
+        "altar"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-12858"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-12858"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "altar"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-12082"
+    ],
+    "subject_ids": [
+        "TM-12082"
+    ],
+    "subject_titles": [
+        "altar"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9377cac6-53c1-2e46-f6e7-475899c1e5fa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1969.190"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border for Altar Cloth"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:01:20-05:00",
+    "timestamp": "2023-09-24T00:34:20-05:00"
+}

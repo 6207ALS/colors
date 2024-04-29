@@ -1,0 +1,168 @@
+{
+    "id": 160223,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/160223",
+    "is_boosted": false,
+    "title": "parallel occurrence",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFVVVFZWVmxubYpWQ4ZYRZ1eRotpWqJrU5d2aYeBfLCxqba8t7u7tri/u7y8usGpkMqyms/BrsnEvNHJu8fGwsfKxsvJxMLPzsvMyM/Nyc3PzdPSytDTzdTT0dbY1NjY1dna2tnd3d7e3uLd3d/h29/g4unr7fT0+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQAWnQsFoQoKGAeH5gEyAy6BAEpVOgQXhsMl0RonIAzKRWByMIAA7",
+        "width": 3000,
+        "height": 2001,
+        "alt_text": "A work made of painted wood closet and table with aluminum fox, iron chain, locks, keys, rope, aluminum letter, iron block, and artist-made newspapers."
+    },
+    "main_reference_number": "2002.598",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2001,
+    "date_end": 2001,
+    "date_display": "2001",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mark Manders\nDutch, born 1968",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "274.4 \u00d7 152.4 \u00d7 335.3 cm (108 \u00d7 60 \u00d7 132 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 335.3,
+            "depth_in": 132,
+            "width_cm": 152.4,
+            "width_in": 60,
+            "height_cm": 274.4,
+            "height_in": 108,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Painted wood closet and table with aluminum fox, iron chain, locks, keys, rope, aluminum letter, iron block, and artist-made newspapers",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by The Buddy Taub Foundation, Jill and Dennis Roach, Directors",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2003,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.9528,
+    "color": {
+        "h": 40,
+        "l": 49,
+        "s": 13,
+        "percentage": 0.02321821321074117,
+        "population": 110
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 99599,
+    "artist_title": "Mark Manders",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        99599
+    ],
+    "artist_titles": [
+        "Mark Manders"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "construction/mixed media",
+        "21st Century",
+        "sculpture"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-554",
+    "classification_title": "construction/mixed media",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-554",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "construction/mixed media",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1dd39ca6-e7b0-8cce-a625-c434e03a18db",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2002.598"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "parallel occurrence"
+            ],
+            "weight": 212,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:20:46-05:00",
+    "timestamp": "2023-09-24T01:32:43-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 181083,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/181083",
+    "is_boosted": false,
+    "title": "Angel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAIODfYOBf4eIgoeIg4eIhoiIhYqLhIuLh4yMh4eJiIyMiI2OiI6Oio+Oio+PipKOipCRjZSSj5iRjpOTkJSTkJWWkp6dmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYKMUDIQMgjE5B7BMCiU9VWQlARECADs=",
+        "width": 5454,
+        "height": 5862,
+        "alt_text": "A work made of oil on linen."
+    },
+    "main_reference_number": "2005.475",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1992,
+    "date_end": 1992,
+    "date_display": "1992",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Luc Tuymans\nBelgian, born 1958",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "61.3 \u00d7 65.7 cm (24 1/8 \u00d7 25 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 65.7,
+            "width_in": 25.875,
+            "height_cm": 61.3,
+            "height_in": 24.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on linen",
+    "inscriptions": null,
+    "credit_line": "Gift of Fred McDougal and Nancy Lauter McDougal",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2006,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.4476,
+    "color": {
+        "h": 62,
+        "l": 55,
+        "s": 1,
+        "percentage": 0.7563914224139059,
+        "population": 5777
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 74821,
+    "artist_title": "Luc Tuymans",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        74821
+    ],
+    "artist_titles": [
+        "Luc Tuymans"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "oil on linen",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-2188",
+    "classification_title": "oil on linen",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-2188",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "oil on linen",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bda7594e-c61d-4e94-4a3c-c91ab3d095d0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2005.475"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Angel"
+            ],
+            "weight": 2056,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:18:47-05:00",
+    "timestamp": "2023-09-24T01:33:22-05:00"
+}

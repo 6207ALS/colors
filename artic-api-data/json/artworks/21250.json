@@ -1,0 +1,176 @@
+{
+    "id": 21250,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/21250",
+    "is_boosted": false,
+    "title": "Crucifixion (Station of the Cross)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAEM+O0VAPEhCP0pFQk1IRU5KR7CvrrGwrrOysb28vL69vb+/v8C/vsHBwM3Nzc7OziH5BAAAAAAALAAAAAAEAAUAAAQP0Bn0mCCNjbJUAIlzGE4EADs=",
+        "width": 1959,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1935.98",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1885,
+    "date_end": 1935,
+    "date_display": "by 1935",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alfeo Faggi\nAmerican, born Italy, 1885\u20131966",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "41.9 \u00d7 29.2 \u00d7 3.8 cm (16 1/2 \u00d7 11 1/2 \u00d7 1 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 3.8,
+            "depth_in": 1.5,
+            "width_cm": 29.2,
+            "width_in": 11.5,
+            "height_cm": 41.9,
+            "height_in": 16.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of Alfeo Faggi as a memorial to John William Hutchinson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1935,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.4879,
+    "color": {
+        "h": 43,
+        "l": 49,
+        "s": 2,
+        "percentage": 0.0018381812299638248,
+        "population": 15
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 8052,
+    "artist_title": "Alfeo Faggi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        8052
+    ],
+    "artist_titles": [
+        "Alfeo Faggi"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "bronze",
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c6eb2e2f-a8f6-3fbd-8936-e49c6f7980dd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1935.98"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Crucifixion (Station of the Cross)"
+            ],
+            "weight": 89,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-21T16:27:07-05:00",
+    "updated_at": "2023-09-21T16:31:30-05:00",
+    "timestamp": "2023-09-24T00:29:08-05:00"
+}

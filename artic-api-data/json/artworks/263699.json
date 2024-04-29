@@ -1,0 +1,186 @@
+{
+    "id": 263699,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/263699",
+    "is_boosted": false,
+    "title": "The Gothic IV",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANrSyeDf1ePi1eDg1uLh1uXj1ebg1uTj2OTk2ubk3efm3efn3efn3+fo3+jo3ero4Onq4evs4+zt5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIKMsTBNBgvFIBZA4BzIERAgAOw==",
+        "width": 7384,
+        "height": 9082,
+        "alt_text": "A work made of relief of foam board, collage, acrylic and ink on foam board."
+    },
+    "main_reference_number": "2022.145",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1976",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Judith Rothschild \nAmerican, 1921-1993",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "152.8 \u00d7 124.2 cm (60 1/8 \u00d7 48 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 124.2,
+            "width_in": 48.875,
+            "height_cm": 152.8,
+            "height_in": 60.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Relief of foam board, collage, acrylic and ink on foam board",
+    "inscriptions": null,
+    "credit_line": "Gift of the Judith Rothschild Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 53,
+        "l": 50,
+        "s": 64,
+        "percentage": 2.9823376421352295e-5,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 85403,
+    "artist_title": "Judith Rothschild",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        85403
+    ],
+    "artist_titles": [
+        "Judith Rothschild"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "foam board",
+        "Abstract",
+        "collage",
+        "relief",
+        "acrylic",
+        "ink"
+    ],
+    "style_id": "TM-7536",
+    "style_title": "Abstract",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7536"
+    ],
+    "style_titles": [
+        "Abstract"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-391",
+        "TM-164"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-391",
+        "TM-164"
+    ],
+    "classification_titles": [
+        "painting",
+        "collage",
+        "relief"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-13847",
+    "alt_material_ids": [
+        "TM-13962",
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-13847",
+        "TM-13962",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "foam board",
+        "acrylic",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d2ff5b25-6647-e450-b9ca-ec8b6be9f19b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.145"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Gothic IV"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:39-05:00",
+    "updated_at": "2023-04-07T14:40:10-05:00",
+    "timestamp": "2023-09-24T01:58:24-05:00"
+}

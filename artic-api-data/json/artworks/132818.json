@@ -1,0 +1,180 @@
+{
+    "id": 132818,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/132818",
+    "is_boosted": false,
+    "title": "Plate",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAH53ZoqEdo2GdqGajaqlmb+8tcK+tcPAud3e3OTk4enq6evs7Ovs7u7t7e3u8PHx8fHx8vLy8vLz8/T09fT19/f3+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVICUlT1QZwjFBA0A0VBEckMMgyhICADs=",
+        "width": 2439,
+        "height": 2250,
+        "alt_text": "A work made of pewter."
+    },
+    "main_reference_number": "1938.799",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1740,
+    "date_end": 1750,
+    "date_display": "c. 1745",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Anton Singer\nAustrian, active c. 1745\nAustria",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": "2.2 \u00d7 24.1 cm (1 \u00d7 9 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.1,
+            "width_in": 9.5,
+            "height_cm": 2.2,
+            "height_in": 1,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pewter",
+    "inscriptions": null,
+    "credit_line": "The William Owen Goodman and Erna Sawyer Goodman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.8956,
+    "color": {
+        "h": 42,
+        "l": 51,
+        "s": 8,
+        "percentage": 0.014195253063641746,
+        "population": 779
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 44973,
+    "artist_title": "Anton Singer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44973
+    ],
+    "artist_titles": [
+        "Anton Singer"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "pewter",
+        "plate (general, dish)",
+        "pewter",
+        "dish (vessel)",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11765",
+    "classification_title": "plate (general, dish)",
+    "alt_classification_ids": [
+        "TM-41",
+        "TM-11783",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11765",
+        "TM-41",
+        "TM-11783",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "plate (general, dish)",
+        "pewter",
+        "dish (vessel)",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2513",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2513"
+    ],
+    "material_titles": [
+        "pewter"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9d8ca98a-1889-6526-a43a-bcafcf4da0fc",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.799"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Plate"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:33:34-05:00",
+    "timestamp": "2023-09-24T01:20:07-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 53871,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/53871",
+    "is_boosted": false,
+    "title": "The Austerities of Saint Mongaku",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAIqIgJGOhpeRhY6UkZOWkZydkZmZlKGckKmilaqpnQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMJgyEjkAiQgAOw==",
+        "width": 1039,
+        "height": 2857,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1978.845",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1887,
+    "date_end": 1887,
+    "date_display": "1885",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tsukioka Yoshitoshi (Japanese, 1839-1892)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "Vertical oban diptych: 25 \u00d7 35.5 cm (9 7/8 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.5,
+            "width_in": 13.9764,
+            "height_cm": 25,
+            "height_in": 9.8426,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Vertical oban diptych"
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Eric Youngquist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1979,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 48,
+        "l": 62,
+        "s": 8,
+        "percentage": 0.11558325750743743,
+        "population": 3431
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 37401,
+    "artist_title": "Tsukioka Yoshitoshi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37401
+    ],
+    "artist_titles": [
+        "Tsukioka Yoshitoshi"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5473c863-9c0b-eda6-396f-8a777fc93f98",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.845"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Austerities of Saint Mongaku"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-06T15:52:40-05:00",
+    "updated_at": "2023-06-06T16:02:40-05:00",
+    "timestamp": "2023-09-24T00:44:13-05:00"
+}

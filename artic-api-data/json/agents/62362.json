@@ -1,0 +1,33 @@
+{
+    "id": 62362,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62362",
+    "title": "Charles Alfred Meurer",
+    "sort_title": "Meurer, Charles Alfred",
+    "alt_titles": [
+        "Charles A. Meurer",
+        "C. A. Meurer"
+    ],
+    "is_artist": true,
+    "birth_date": 1865,
+    "death_date": 1955,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Alfred Meurer",
+            "Meurer, Charles Alfred",
+            "Charles A. Meurer",
+            "C. A. Meurer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-08-16T14:55:35-05:00",
+    "updated_at": "2022-03-15T16:59:33-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

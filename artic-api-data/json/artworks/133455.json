@@ -1,0 +1,172 @@
+{
+    "id": 133455,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/133455",
+    "is_boosted": false,
+    "title": "Le Cirque",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGJra21uc2Znfm54d3FzcHZ1en1+f45yebB/eH6BfJiSeJ2YeGllh3lsgHRzh3p/gXZ4iH9+kYJ3jop3jJZ3hpF/hpN6io14kqN4gneGiIKBj4qBj4yLiZ2WgoqInZmEnLSLjquUpcKZlQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwM/FQsEgRJNKgyE5gAqdgECxCQESmcdC4yEMOAaIIxIEADs=",
+        "width": 3000,
+        "height": 2196,
+        "alt_text": "A work made of gouache on paper."
+    },
+    "main_reference_number": "8.9.1989",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1908,
+    "date_end": 1964,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean Dufy\nFrench, 1888-1964",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "47 \u00d7 63.5 cm (18 1/2 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 47,
+            "height_in": 18.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gouache on paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous loan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.2117,
+    "color": {
+        "h": 8,
+        "l": 50,
+        "s": 69,
+        "percentage": 0.020763999838502224,
+        "population": 108
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 45063,
+    "artist_title": "Jean Dufy",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        45063
+    ],
+    "artist_titles": [
+        "Jean Dufy"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "gouache",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-221",
+    "classification_title": "gouache",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-221",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "gouache",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6e991d18-f0b5-5396-5201-f5a6dc6cbea8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "8.9.1989"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Le Cirque"
+            ],
+            "weight": 184,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-10T14:52:15-06:00",
+    "updated_at": "2023-04-07T11:45:28-05:00",
+    "timestamp": "2023-09-24T01:20:19-05:00"
+}

@@ -1,0 +1,155 @@
+{
+    "id": 43200,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/43200",
+    "is_boosted": false,
+    "title": "Poem in Cursive Script",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAAJV3U5Z4VJd6Vpl6VJp8V59/V5t+Wp6AV56BW6CDXqKEXaOFYKGHY6KGYqKGY6SHYaeObKqParWegbqihLeljbupkb+ynsCwmcy/rsvAr83BsszCstDIudLJutTLv9DMw9TNwNrRwtvZ097e2OPj4OTk4OLn6OLn6efq6ePq7efs7err6uvv7+bt8Ovv8evw8ezx8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYtQBSMhKFUMiXY6gWKAAYBAiTk4igQiUKg0ThwRJeGQTLhWkanlGejYm0+rVMQADs=",
+        "width": 3000,
+        "height": 1556,
+        "alt_text": "A work made of fan painting; ink on gold paper."
+    },
+    "main_reference_number": "1941.1035",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1461,
+    "date_end": 1527,
+    "date_display": "1461-1527",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Attributed to Zhu Yunming (Chinese, 1461-1527)",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "Upper width: 19 1/2\"  Lower width: 7-1/16\"  Rib length: 7-1/8\"",
+    "dimensions_detail": [],
+    "medium_display": "Fan painting; ink on gold paper",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Samuel M. Nickerson Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 168,
+        "l": 90,
+        "s": 6,
+        "percentage": 0.1043916023993145,
+        "population": 4873
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 61118,
+    "artist_title": "Zhu Yunming",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        61118
+    ],
+    "artist_titles": [
+        "Zhu Yunming"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "album leaf",
+        "painting",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-280",
+    "classification_title": "album leaf",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-280",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "album leaf",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e7a25fe9-3a09-d474-a6c7-a4e1d22820fa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1941.1035"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Poem in Cursive Script"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-12T10:43:35-05:00",
+    "updated_at": "2023-09-12T10:45:59-05:00",
+    "timestamp": "2023-09-24T00:38:59-05:00"
+}

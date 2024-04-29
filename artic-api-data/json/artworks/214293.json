@@ -1,0 +1,168 @@
+{
+    "id": 214293,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/214293",
+    "is_boosted": false,
+    "title": "Tsubomi",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHMzInI1I4E1IoE6JodTQ4hYSKqMgauUiq2VibCYjK+bkLqqnuHXzeTb0ePd1OTf1evl2unm3urn3+/p3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOQ8E1MQTTIIxhIAiKQcUQgAOw==",
+        "width": 1692,
+        "height": 2250,
+        "alt_text": "A work made of bamboo."
+    },
+    "main_reference_number": "2012.181",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Fujinuma Noboru\nJapanese, born 1945",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "31 \u00d7 31 \u00d7 36 cm (12 1/4 \u00d7 12 1/4 \u00d7 14 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 36,
+            "depth_in": 14.1733,
+            "width_cm": 31,
+            "width_in": 12.2048,
+            "height_cm": 31,
+            "height_in": 12.2048,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bamboo",
+    "inscriptions": null,
+    "credit_line": "Gift of Fujinuma Noboru",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.3924,
+    "color": {
+        "h": 37,
+        "l": 77,
+        "s": 21,
+        "percentage": 0.0107936165282015,
+        "population": 102
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 105357,
+    "artist_title": "Fujinuma Noboru",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        105357
+    ],
+    "artist_titles": [
+        "Fujinuma Noboru"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "bamboo",
+        "vessel",
+        "Japanese (culture or style)"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-27",
+    "classification_title": "vessel",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-27"
+    ],
+    "classification_titles": [
+        "vessel"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3517",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3517"
+    ],
+    "material_titles": [
+        "bamboo"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2135a394-904e-fd78-d36a-e4b6a1af4762",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.181"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tsubomi"
+            ],
+            "weight": 63,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:28-05:00",
+    "updated_at": "2023-04-07T15:29:53-05:00",
+    "timestamp": "2023-09-24T01:44:06-05:00"
+}

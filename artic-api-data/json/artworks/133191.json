@@ -1,0 +1,172 @@
+{
+    "id": 133191,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/133191",
+    "is_boosted": false,
+    "title": "Architecture",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGFeUGdkVm9rXG5rX3JuYHZyY313Z354Z3x4aH96bIB7a4J8aoN9a4N+bYWAboeCcYmDcoqDcpKKd5eRgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAQABQAABRHgsxyQIgBEgQSD0TCJFDlTCAA7",
+        "width": 589,
+        "height": 768,
+        "alt_text": "A work made of engraving on paper."
+    },
+    "main_reference_number": "1920.1902",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1538,
+    "date_end": 1583,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Etienne Delaune\nFrench, c. 1519-1583",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image/sheet, cut within platemark: 7.2 \u00d7 5.4 cm (2 7/8 \u00d7 2 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.4,
+            "width_in": 2.126,
+            "height_cm": 7.2,
+            "height_in": 2.8347,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/sheet, cut within platemark"
+        }
+    ],
+    "medium_display": "Engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Potter Palmer, Jr.",
+    "catalogue_display": "<p>Robert-Dumesnil 408</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.2888,
+    "color": {
+        "h": 44,
+        "l": 49,
+        "s": 10,
+        "percentage": 0.055911931152768025,
+        "population": 518
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34227,
+    "artist_title": "\u00c9tienne Delaune",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34227
+    ],
+    "artist_titles": [
+        "\u00c9tienne Delaune"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "62f93db1-8889-6582-8f69-9166a0246940",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1920.1902"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Architecture"
+            ],
+            "weight": 113,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T10:21:51-05:00",
+    "timestamp": "2023-09-24T01:20:10-05:00"
+}

@@ -1,0 +1,75 @@
+{
+    "id": 36198,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36198",
+    "title": "Pablo Picasso",
+    "sort_title": "Picasso, Pablo",
+    "alt_titles": [
+        "Pablo Ruiz y Picasso",
+        "Pablo Ruys",
+        "Pablo Ruiz",
+        "Pablo Ruiz Picasso",
+        "Pablo Ruys Picasso",
+        "Bablu Bikasu",
+        "Pablo Pikasso",
+        "Paburo Pikaso",
+        "Pi-chia-so",
+        "Pablo Pikaso",
+        "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Picasso Crisp\u00edn Crispiniano de la Santissima Trinidad Ruiz Blasco",
+        "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Picasso\n\u00a0\u00a0\u00a0\u00a0Crisp\u00edn Crispiniano de la Santissima Trinidad Ruiz Blasco",
+        "\u5df4\u52c3\u7f57\u00b7\u6bd5\u52a0\u7d22"
+    ],
+    "is_artist": true,
+    "birth_date": 1881,
+    "death_date": 1973,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Pablo Picasso",
+            "Picasso, Pablo",
+            "Pablo Ruiz y Picasso",
+            "Pablo Ruys",
+            "Pablo Ruiz",
+            "Pablo Ruiz Picasso",
+            "Pablo Ruys Picasso",
+            "Bablu Bikasu",
+            "Pablo Pikasso",
+            "Paburo Pikaso",
+            "Pi-chia-so",
+            "Pablo Pikaso",
+            "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Picasso Crisp\u00edn Crispiniano de la Santissima Trinidad Ruiz Blasco",
+            "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Picasso\n\u00a0\u00a0\u00a0\u00a0Crisp\u00edn Crispiniano de la Santissima Trinidad Ruiz Blasco",
+            "\u5df4\u52c3\u7f57\u00b7\u6bd5\u52a0\u7d22"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pablo Picasso",
+            "Picasso, Pablo",
+            "Pablo Ruiz y Picasso",
+            "Pablo Ruys",
+            "Pablo Ruiz",
+            "Pablo Ruiz Picasso",
+            "Pablo Ruys Picasso",
+            "Bablu Bikasu",
+            "Pablo Pikasso",
+            "Paburo Pikaso",
+            "Pi-chia-so",
+            "Pablo Pikaso",
+            "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Picasso Crisp\u00edn Crispiniano de la Santissima Trinidad Ruiz Blasco",
+            "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Picasso\n\u00a0\u00a0\u00a0\u00a0Crisp\u00edn Crispiniano de la Santissima Trinidad Ruiz Blasco",
+            "\u5df4\u52c3\u7f57\u00b7\u6bd5\u52a0\u7d22"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-13T14:22:55-05:00",
+    "updated_at": "2023-09-23T23:23:54-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

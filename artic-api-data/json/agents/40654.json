@@ -1,0 +1,35 @@
+{
+    "id": 40654,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40654",
+    "title": "Laurent de La Hyre",
+    "sort_title": "La Hyre, Laurent de",
+    "alt_titles": [
+        "Laurent de LaHire",
+        "Laurent de LaHyre",
+        "Laurent de La Hire"
+    ],
+    "is_artist": true,
+    "birth_date": 1606,
+    "death_date": 1656,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Laurent de La Hyre",
+            "La Hyre, Laurent de",
+            "Laurent de LaHire",
+            "Laurent de LaHyre",
+            "Laurent de La Hire"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:43-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

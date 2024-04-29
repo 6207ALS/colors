@@ -1,0 +1,170 @@
+{
+    "id": 140616,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/140616",
+    "is_boosted": false,
+    "title": "Bronze Reposoir",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADImJD4wLWlgYHhpZoF3dYR8e4R9fJCDgKGdnbexsby4uMG8vM3Ky8/Ly8/MzNHOz9LQ0NvY2NvY2d/c3N/e3+fk5ezp6+3q6/Hu8AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDNV0QMxx7BQCBAUiiEQiSNdmBUCADs=",
+        "width": 2251,
+        "height": 2250,
+        "alt_text": "A work made of bronze; from an edition of three."
+    },
+    "main_reference_number": "1995.236",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1986,
+    "date_end": 1986,
+    "date_display": "1986",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Don Baum\nAmerican, 1922\u20132008",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "33 \u00d7 43.2 \u00d7 23.5 cm (13 \u00d7 17 \u00d7 9 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 23.5,
+            "depth_in": 9.25,
+            "width_cm": 43.2,
+            "width_in": 17,
+            "height_cm": 33,
+            "height_in": 13,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze; from an edition of three",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1996,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.1097,
+    "color": {
+        "h": 351,
+        "l": 54,
+        "s": 0,
+        "percentage": 0.006613672853968695,
+        "population": 47
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 30536,
+    "artist_title": "Don Baum",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30536
+    ],
+    "artist_titles": [
+        "Don Baum"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "9f99f072-1e17-0883-4425-455edd5af4c9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1995.236"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bronze Reposoir"
+            ],
+            "weight": 551,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:22:33-05:00",
+    "timestamp": "2023-09-24T01:22:13-05:00"
+}

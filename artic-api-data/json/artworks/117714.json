@@ -1,0 +1,201 @@
+{
+    "id": 117714,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/117714",
+    "is_boosted": false,
+    "title": "Denver Series",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAImDfoeRhKiflJ2mjb2ypb+3qbW5qcG5qtLFsLi+w8XKz9fb3tXY49nb4t/g5wAAACH5BAAAAAAALAAAAAADAAUAAAQLsDm2VDJhAIFIOREAOw==",
+        "width": 1933,
+        "height": 3000,
+        "alt_text": "A work made of colored crayon and pastel on white wove watercolor paper."
+    },
+    "main_reference_number": "1992.141",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1979,
+    "date_end": 1979,
+    "date_display": "1979",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Diane Burko\nAmerican, born 1945",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "101.7 \u00d7 66.2 cm (40 1/16 \u00d7 26 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 66.2,
+            "width_in": 26.063,
+            "height_cm": 101.7,
+            "height_in": 40.0394,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Colored crayon and pastel on white wove watercolor paper",
+    "inscriptions": null,
+    "credit_line": "Jalane and Richard Davidson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.5985,
+    "color": {
+        "h": 37,
+        "l": 55,
+        "s": 4,
+        "percentage": 0.06874385567780716,
+        "population": 758
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42766,
+    "artist_title": "Diane Burko",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42766
+    ],
+    "artist_titles": [
+        "Diane Burko"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "crayon",
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "coating (material)",
+        "pastels (crayons)",
+        "crayons",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-23",
+    "classification_title": "crayon",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-23",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "crayon",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-3238",
+        "TM-2417",
+        "TM-2418"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-3238",
+        "TM-2417",
+        "TM-2418"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "coating (material)",
+        "pastels (crayons)",
+        "crayons"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "5b45e262-2f09-b313-4a3e-50e769335eea",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.141"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Denver Series"
+            ],
+            "weight": 28,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:09-05:00",
+    "updated_at": "2023-04-10T11:01:07-05:00",
+    "timestamp": "2023-09-24T01:12:14-05:00"
+}

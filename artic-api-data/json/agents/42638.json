@@ -1,0 +1,31 @@
+{
+    "id": 42638,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42638",
+    "title": "Margaret Burroughs",
+    "sort_title": "Burroughs, Margaret",
+    "alt_titles": [
+        "Margaret Taylor G. Burroughs"
+    ],
+    "is_artist": true,
+    "birth_date": 1915,
+    "death_date": 2010,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Margaret Burroughs",
+            "Burroughs, Margaret",
+            "Margaret Taylor G. Burroughs"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-20T11:50:38-05:00",
+    "updated_at": "2022-10-20T11:50:53-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 221110,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/221110",
+    "is_boosted": false,
+    "title": "Trumpet Bowl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJCUl5ecnpecn52doZ6fopOaqZWcqJOcrpygpJ6ipKCipaCipqGlprzE1czLzs/P0c7R3NbU1dLT2dXW3tjX2PDv8fLy8/Ly9PXz9PTz9ff29vf3+Pj4+fr4+fn4+vn5+vv6+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwACCwUgIAARF4WBYDB6USUMScVw2GYgFU+GAPJxPRxMEADs=",
+        "width": 2944,
+        "height": 2250,
+        "alt_text": "A work made of blown glass."
+    },
+    "main_reference_number": "2013.1212",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1931,
+    "date_display": "1925/31",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy, Murano\nManufactured by Maestri Vetrai Muranesi Cappellin & C.",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "11.6 \u00d7 23.5 cm (4 9/16 \u00d7 9 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23.5,
+            "width_in": 9.25,
+            "height_cm": 11.6,
+            "height_in": 4.5625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Blown glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mary LaRocque in memory of Martha Sherman Klinedorf",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.8884,
+    "color": {
+        "h": 230,
+        "l": 38,
+        "s": 95,
+        "percentage": 0.0014735895905631322,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 51754,
+    "artist_title": "Cappellin and Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51754
+    ],
+    "artist_titles": [
+        "Cappellin and Company"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "vessel",
+        "glass",
+        "bowl",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-27",
+    "classification_title": "vessel",
+    "alt_classification_ids": [
+        "TM-11712",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-27",
+        "TM-11712",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "vessel",
+        "bowl",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6ff2a34e-9187-3661-abd3-5093c31fc70c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1212"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Trumpet Bowl"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:25:29-05:00",
+    "timestamp": "2023-09-24T01:46:19-05:00"
+}

@@ -1,0 +1,190 @@
+{
+    "id": 218736,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/218736",
+    "is_boosted": false,
+    "title": "Opening at the Museum of Modern Art Buenos Aires",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACQhHzc1Mjg1Mjs5Njw5Oj88OUE/PEI/P0pHRkxKR1VSTlhUUllWVFtYVYWDgQAAACH5BAAAAAAALAAAAAADAAUAAAQLcDnUEjBDlKDIYREAOw==",
+        "width": 2267,
+        "height": 3460,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "2013.1247",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1963,
+    "date_end": 1963,
+    "date_display": "1963",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Sameer Makarius\nArgentine, born Egypt, 1924\u20132009",
+    "place_of_origin": "Argentina",
+    "description": null,
+    "dimensions": "Image, seen: 69 \u00d7 48.7 cm (27 3/16 \u00d7 19 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.7,
+            "width_in": 19.1733,
+            "height_cm": 69,
+            "height_in": 27.1654,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image, seen"
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Gift of Jennifer and Isaac Goldman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.0448,
+    "color": {
+        "h": 220,
+        "l": 45,
+        "s": 17,
+        "percentage": 0.0007379406658807599,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 111981,
+    "artist_title": "Sameer Makarius",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111981
+    ],
+    "artist_titles": [
+        "Sameer Makarius"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Latin American"
+    ],
+    "term_titles": [
+        "photograph",
+        "photographic paper",
+        "black-and-white photography",
+        "photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3046",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3046"
+    ],
+    "material_titles": [
+        "photographic paper"
+    ],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "b1722b8f-31c7-0bfe-835f-a9c28904e3b7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1247"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Opening at the Museum of Modern Art Buenos Aires"
+            ],
+            "weight": 51,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:29-05:00",
+    "updated_at": "2023-04-07T15:24:26-05:00",
+    "timestamp": "2023-09-24T01:45:29-05:00"
+}

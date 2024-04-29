@@ -1,0 +1,28 @@
+{
+    "id": 43534,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43534",
+    "title": "Jacob Boelen, I",
+    "sort_title": "Boelen, Jacob, I",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1657,
+    "death_date": 1729,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacob Boelen, I",
+            "Boelen, Jacob, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:32:05-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

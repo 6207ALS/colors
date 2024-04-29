@@ -1,0 +1,185 @@
+{
+    "id": 146641,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146641",
+    "is_boosted": false,
+    "title": "Table with Peaches",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADYtIGhVRWddVGNgW3dnVm1oYG5qZW9ta5JpKZpxOJN0Q8WBNpaBaJOGd6ODa6ePasqKUI+Lg5OOhq6fiQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGQcUhEAgwMtjYIkDyMQUwgAOw==",
+        "width": 2261,
+        "height": 3000,
+        "alt_text": "A work made of graphite and colored pencil on off-white wove paper."
+    },
+    "main_reference_number": "1996.766",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1983,
+    "date_end": 1983,
+    "date_display": "1983",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Barnet Rubenstein\nAmerican, born 1923",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "76.6 \u00d7 57.3 cm (30 3/16 \u00d7 22 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 57.3,
+            "width_in": 22.5591,
+            "height_cm": 76.6,
+            "height_in": 30.1575,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite and colored pencil on off-white wove paper",
+    "inscriptions": null,
+    "credit_line": "Jalane and Richard Davidson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 69.0226,
+    "color": {
+        "h": 26,
+        "l": 47,
+        "s": 82,
+        "percentage": 0.04488187472545662,
+        "population": 423
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42442,
+    "artist_title": "Barnet Rubenstein",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42442
+    ],
+    "artist_titles": [
+        "Barnet Rubenstein"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "graphite",
+        "colored pencil",
+        "pencil",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410",
+        "TM-2420",
+        "TM-2450"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410",
+        "TM-2420",
+        "TM-2450"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite",
+        "colored pencil",
+        "pencil"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "533a60dc-c436-b86b-15c0-906a71b32015",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.766"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Table with Peaches"
+            ],
+            "weight": 148,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:07:55-05:00",
+    "timestamp": "2023-09-24T01:25:38-05:00"
+}

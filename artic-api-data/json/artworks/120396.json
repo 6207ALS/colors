@@ -1,0 +1,181 @@
+{
+    "id": 120396,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120396",
+    "is_boosted": false,
+    "title": "Statuette of a Seated Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAENJTk1NSExRVVZbXVpeX2JiXWhnXW5rXmRlYmZoZWttaXh5cYGAc4+Ldp2aiQAAACH5BAAAAAAALAAAAAADAAUAAAQLECQimBpuoWbKCREAOw==",
+        "width": 2082,
+        "height": 3432,
+        "alt_text": "A work made of terracotta."
+    },
+    "main_reference_number": "1992.558",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -400,
+    "date_end": -350,
+    "date_display": "400-350 BCE",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Greek",
+    "place_of_origin": "Greece",
+    "description": null,
+    "dimensions": "18.1 \u00d7 6.4 \u00d7 7.6 cm (7 1/8 \u00d7 2 1/2 \u00d7 3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 7.6,
+            "depth_in": 3,
+            "width_cm": 6.4,
+            "width_in": 2.5,
+            "height_cm": 18.1,
+            "height_in": 7.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "terracotta",
+    "inscriptions": null,
+    "credit_line": "Gift of Arthur B. Logan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.0413,
+    "color": {
+        "h": 45,
+        "l": 46,
+        "s": 16,
+        "percentage": 0.015020012459783063,
+        "population": 176
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 2601,
+    "artist_title": "Ancient Greek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2601
+    ],
+    "artist_titles": [
+        "Ancient Greek"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "earthenware",
+        "terracotta",
+        "inorganic material",
+        "ceramics",
+        "sculpture",
+        "ancient art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-46",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "ceramics",
+        "sculpture",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2433",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2433",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "terracotta",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "62ca016d-861d-81d7-d551-a23846949faa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.558"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Statuette of a Seated Woman"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:10-05:00",
+    "updated_at": "2023-09-23T23:17:55-05:00",
+    "timestamp": "2023-09-24T01:13:39-05:00"
+}

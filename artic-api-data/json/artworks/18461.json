@@ -1,0 +1,181 @@
+{
+    "id": 18461,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18461",
+    "is_boosted": false,
+    "title": "Fragment (Band)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAItxY5BxYZBxYpJ2Zpl6aph6a6+Xi7acjsevnciunOnYwenZxe/f0PDgz/bm0Pbn0vfo0/fo1fnr2Pnr2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGMczQQMUlQQ0CMEzoIkSggAOw==",
+        "width": 1750,
+        "height": 2250,
+        "alt_text": "A work made of cotton and wool (camelid), tapestry weave with supplementary weft slit closure."
+    },
+    "main_reference_number": "1963.743",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 800,
+    "date_end": 1100,
+    "date_display": "A.D. 800/1100",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Provincial Wari\nSouth coast, Peru",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": "34.9 \u00d7 9.2 cm (13 3/4 \u00d7 3 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.2,
+            "width_in": 3.625,
+            "height_cm": 34.9,
+            "height_in": 13.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and wool (camelid), tapestry weave with supplementary weft slit closure",
+    "inscriptions": null,
+    "credit_line": "Gift of an Anonymous Donor",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.9606,
+    "color": {
+        "h": 5,
+        "l": 20,
+        "s": 57,
+        "percentage": 0.09772250747418508,
+        "population": 893
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 47770,
+    "artist_title": "Wari",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        47770
+    ],
+    "artist_titles": [
+        "Wari"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Latin American"
+    ],
+    "term_titles": [
+        "textile",
+        "Pre-Columbian",
+        "weaving",
+        "andean",
+        "andes"
+    ],
+    "style_id": "TM-6516",
+    "style_title": "Pre-Columbian",
+    "alt_style_ids": [
+        "TM-13504",
+        "TM-12988"
+    ],
+    "style_ids": [
+        "TM-6516",
+        "TM-13504",
+        "TM-12988"
+    ],
+    "style_titles": [
+        "Pre-Columbian",
+        "andean",
+        "andes"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "fdaf1194-d214-9ff7-ed80-d799f07ad183",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1963.743"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment (Band)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-28T16:43:54-05:00",
+    "updated_at": "2023-06-28T16:47:54-05:00",
+    "timestamp": "2023-09-24T00:27:39-05:00"
+}

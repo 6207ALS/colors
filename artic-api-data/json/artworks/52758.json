@@ -1,0 +1,181 @@
+{
+    "id": 52758,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/52758",
+    "is_boosted": false,
+    "title": "Side Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJSAcJOCdpiGdoSBgY2LjJ+enKGfnaWgnaShoaqnprivprGtqra0s7OztbS2try9vMDAwsTGx8XHycfIygAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIM0zhIozwEIRjIQxQRJUQgAOw==",
+        "width": 1731,
+        "height": 2250,
+        "alt_text": "A work made of maple."
+    },
+    "main_reference_number": "1978.306",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1873,
+    "date_end": 1883,
+    "date_display": "c. 1873\u201383",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Mount Lebanon Shaker Colony\nAmerican, late 19th cen.",
+    "place_of_origin": "New Lebanon",
+    "description": null,
+    "dimensions": "74.9 \u00d7 41.9 \u00d7 35.6 cm (29 1/2 \u00d7 16 1/2 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 35.6,
+            "depth_in": 14,
+            "width_cm": 41.9,
+            "width_in": 16.5,
+            "height_cm": 74.9,
+            "height_in": 29.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Maple",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Len H. Small",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.9811,
+    "color": {
+        "h": 40,
+        "l": 45,
+        "s": 2,
+        "percentage": 0.0016249857813744129,
+        "population": 15
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 17860,
+    "artist_title": "Mount Lebanon Shaker Village (New Lebanon, N.Y.)",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        17860
+    ],
+    "artist_titles": [
+        "Mount Lebanon Shaker Village (New Lebanon, N.Y.)"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "seating",
+        "maple",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3584",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3584"
+    ],
+    "material_titles": [
+        "maple"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b94946c5-38c9-55c7-127a-c261e7aba383",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.306"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Side Chair"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:23:34-05:00",
+    "timestamp": "2023-09-24T00:43:48-05:00"
+}

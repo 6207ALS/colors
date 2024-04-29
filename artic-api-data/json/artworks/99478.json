@@ -1,0 +1,172 @@
+{
+    "id": 99478,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99478",
+    "is_boosted": false,
+    "title": "Cloudy Day (Kumori bi)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAE9NLkZENk1LOFBNNFtXMFpUPWVjOV5bVl9cVG1sT3x7S2VjXGZkXHJvY3Jvan98dJidWoaDZ4mFbaKleKWjh7W3iKqmk6ijlrOvnbSwnbWwoLm0p7y3qcTDoAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoIZxFpVt16QQUVdBRiElwCAEjXMsDPKEADs=",
+        "width": 3000,
+        "height": 2576,
+        "alt_text": "A work made of intaglio."
+    },
+    "main_reference_number": "1982.1439",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1973,
+    "date_end": 1973,
+    "date_display": "1973",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Okamoto Shogo (Japanese, 1920-2001)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "52.1 \u00d7 55.9 cm (20 1/2 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.9,
+            "width_in": 22,
+            "height_cm": 52.1,
+            "height_in": 20.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Intaglio",
+    "inscriptions": null,
+    "credit_line": "Gift of the Estate of Lawrence O'Connor",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 65,
+        "l": 36,
+        "s": 62,
+        "percentage": 0.0006340579710144927,
+        "population": 49
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 32376,
+    "artist_title": "Okamoto Shogo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32376
+    ],
+    "artist_titles": [
+        "Okamoto Shogo"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "paper (fiber product)",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "40c318c5-7c2a-e95a-77bd-13387fcb545b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1439"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cloudy Day (Kumori bi)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-16T09:18:18-05:00",
+    "updated_at": "2023-06-29T18:07:50-05:00",
+    "timestamp": "2023-09-24T01:04:06-05:00"
+}

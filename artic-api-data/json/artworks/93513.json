@@ -1,0 +1,183 @@
+{
+    "id": 93513,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/93513",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHBTOllNQWlgVHVtXIZoUIp3XoN0Ypl/YZqLc6KJbKuafqqih7Wrj76tkMKykAAAACH5BAAAAAAALAAAAAADAAUAAAQLkLm2kBrhCAJMKhEAOw==",
+        "width": 1865,
+        "height": 2755,
+        "alt_text": "A work made of black conte crayon, colored chalks, and pastel on ivory wove paper laid down on cream wove card."
+    },
+    "main_reference_number": "1976.689",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1843,
+    "date_end": 1843,
+    "date_display": "1843",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Louis Gallait\nBelgian, 1810-1887",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "Primary: 16.8 \u00d7 11.2 cm (6 5/8 \u00d7 4 7/16 in.); Secondary: 23.5 \u00d7 17.5 cm (9 5/16 \u00d7 6 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11.2,
+            "width_in": 4.4095,
+            "height_cm": 16.8,
+            "height_in": 6.6142,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Primary"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.5,
+            "width_in": 6.8898,
+            "height_cm": 23.5,
+            "height_in": 9.252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Secondary"
+        }
+    ],
+    "medium_display": "Black conte crayon, colored chalks, and pastel on ivory wove paper laid down on cream wove card",
+    "inscriptions": null,
+    "credit_line": "William McCallin McKee Memorial Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.695,
+    "color": {
+        "h": 37,
+        "l": 56,
+        "s": 21,
+        "percentage": 0.09072924223470027,
+        "population": 953
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 9223,
+    "artist_title": "Louis Gallait",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        9223
+    ],
+    "artist_titles": [
+        "Louis Gallait"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "crayon",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-23",
+    "classification_title": "crayon",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-23",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "crayon",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2d1e6c28-3a94-36ae-82e5-8dc6a4298240",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.689"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 217,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-24T16:08:45-05:00",
+    "updated_at": "2023-04-24T16:12:28-05:00",
+    "timestamp": "2023-09-24T01:01:13-05:00"
+}

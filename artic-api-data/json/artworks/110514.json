@@ -1,0 +1,172 @@
+{
+    "id": 110514,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/110514",
+    "is_boosted": false,
+    "title": "Treppenlosen House, Berlin, Germany, Section and Elevations",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALmriL6ui7qtjL+wkMa6lMa5mse6nM3Bm8/DnMzBn9HCns3AoNbHotbLqNjNqNrOqtrPq9rQqt3RrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYFAYwLAkAvM4ByNFiAI1RAgAOw==",
+        "width": 3055,
+        "height": 4325,
+        "alt_text": "A work made of ink and colored ink on paper."
+    },
+    "main_reference_number": "1983.1002",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1930,
+    "date_display": "1930",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ludwig Karl Hilberseimer\nAmerican, born Germany, 1885-1967",
+    "place_of_origin": "Berlin",
+    "description": null,
+    "dimensions": "83.5 \u00d7 59.5 cm (32 7/8 \u00d7 23 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 59.5,
+            "width_in": 23.4375,
+            "height_cm": 83.5,
+            "height_in": 32.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink and colored ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of George E. Danforth",
+    "catalogue_display": "<p>Mies Reconsidered 15b</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.3834,
+    "color": {
+        "h": 47,
+        "l": 56,
+        "s": 19,
+        "percentage": 0.026327763769420455,
+        "population": 265
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 34787,
+    "artist_title": "Ludwig Karl Hilberseimer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34787
+    ],
+    "artist_titles": [
+        "Ludwig Karl Hilberseimer"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "presentation drawing",
+        "paper (fiber product)",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-920",
+    "classification_title": "presentation drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-920",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "presentation drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2cba64aa-347a-9047-e105-5f97d7b78ac4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.1002"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Treppenlosen House, Berlin, Germany, Section and Elevations"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:15:40-05:00",
+    "timestamp": "2023-09-24T01:09:30-05:00"
+}

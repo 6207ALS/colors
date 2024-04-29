@@ -1,0 +1,35 @@
+{
+    "id": 603,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/603",
+    "title": "Manuel Alvarez-Bravo",
+    "sort_title": "Alvarez-Bravo, Manuel",
+    "alt_titles": [
+        "Manuel Alvarez Bravo",
+        "Manuel Bravo",
+        "Manuel Alvarez Bravo"
+    ],
+    "is_artist": true,
+    "birth_date": 1902,
+    "death_date": 2002,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Manuel Alvarez-Bravo",
+            "Alvarez-Bravo, Manuel",
+            "Manuel Alvarez Bravo",
+            "Manuel Bravo",
+            "Manuel Alvarez Bravo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:33-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

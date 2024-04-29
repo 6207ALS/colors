@@ -1,0 +1,177 @@
+{
+    "id": 202919,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202919",
+    "is_boosted": false,
+    "title": "Layers Garden Double",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMDDqcHFq8PIssXIsMTKssfLs8XKtMTLtMbLtcnNs8jMtcjMuMnNuMrPucvQu87RuczQvM/SvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYBAAw5MUTaQQDmIcjrAwUAgAOw==",
+        "width": 3259,
+        "height": 4123,
+        "alt_text": "A work made of wool, nylon, polyester upholstery."
+    },
+    "main_reference_number": "2010.240",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2008,
+    "date_end": 2008,
+    "date_display": "2008",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hella Jongerius (Dutch, born 1963)\nManufactured by Maharam (American, founded 1902)",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "640 \u00d7 132 cm (252 \u00d7 52 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 132,
+            "width_in": 52,
+            "height_cm": 640,
+            "height_in": 252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool, nylon, polyester upholstery",
+    "inscriptions": null,
+    "credit_line": "Gift of Maharam Fabric Corporation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2008 Maharam.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.683,
+    "color": {
+        "h": 66,
+        "l": 49,
+        "s": 11,
+        "percentage": 0.0015564531101824274,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 100973,
+    "artist_title": "Hella Jongerius",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        100973
+    ],
+    "artist_titles": [
+        "Hella Jongerius"
+    ],
+    "category_ids": [
+        "PC-5",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Architecture and Design",
+        "Women artists"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "wool",
+        "21st Century",
+        "design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11721",
+    "classification_title": "wool",
+    "alt_classification_ids": [
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-11721",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "wool",
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "0c0510e8-aa7f-515c-dbd0-721602226e2b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.240"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Layers Garden Double"
+            ],
+            "weight": 11,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:46:30-05:00",
+    "timestamp": "2023-09-24T01:40:46-05:00"
+}

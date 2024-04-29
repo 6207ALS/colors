@@ -1,0 +1,35 @@
+{
+    "id": 10073,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10073",
+    "title": "Hendrick von Goudt",
+    "sort_title": "Goudt, Hendrick von",
+    "alt_titles": [
+        "Hendric de Goudt",
+        "Hendrik Goudt",
+        "Hendrick Goudt"
+    ],
+    "is_artist": true,
+    "birth_date": 1583,
+    "death_date": 1648,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hendrick von Goudt",
+            "Goudt, Hendrick von",
+            "Hendric de Goudt",
+            "Hendrik Goudt",
+            "Hendrick Goudt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T09:17:49-06:00",
+    "updated_at": "2023-02-15T09:22:11-06:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

@@ -1,0 +1,168 @@
+{
+    "id": 187826,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/187826",
+    "is_boosted": false,
+    "title": "Paperweight",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHZUY3tof4R7e3CEf52RnqKbmLe9sre7udfa2d3f5+fi5+fq6PDv8PTw8Pf09vj29/v29/b1+Pj1+fj3+fn5+vj7+vr6+vr6+/77+wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4FUlkcUQwQEtAlA0mDEgDiUpzxQCADs=",
+        "width": 2562,
+        "height": 2562,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1988.541.720",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1900,
+    "date_display": "Late 19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mount Washington Glass Co.\nAmerican, 1837-1900",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Diam.: 10.3 cm (4 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 10.3,
+            "diameter_in": 4.25,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Bequest of Arthur Rubloff",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.269,
+    "color": {
+        "h": 181,
+        "l": 37,
+        "s": 73,
+        "percentage": 0.0016885973244175393,
+        "population": 12
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 32075,
+    "artist_title": "Mount Washington Glass Works",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32075
+    ],
+    "artist_titles": [
+        "Mount Washington Glass Works"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "paperweight",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-858",
+    "classification_title": "paperweight",
+    "alt_classification_ids": [
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-858",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "paperweight",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2dde74d2-15e7-bcbc-08b9-75f2d917444e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.541.720"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Paperweight"
+            ],
+            "weight": 30,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-03T14:40:25-05:00",
+    "updated_at": "2023-08-03T14:40:57-05:00",
+    "timestamp": "2023-09-24T01:36:01-05:00"
+}

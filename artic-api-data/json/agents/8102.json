@@ -1,0 +1,33 @@
+{
+    "id": 8102,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/8102",
+    "title": "Antonio Fantuzzi",
+    "sort_title": "Fantuzzi, Antonio",
+    "alt_titles": [
+        "Antonio da Trento",
+        "Antonio Fantuzi"
+    ],
+    "is_artist": true,
+    "birth_date": 1537,
+    "death_date": 1550,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio Fantuzzi",
+            "Fantuzzi, Antonio",
+            "Antonio da Trento",
+            "Antonio Fantuzi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-04T10:12:50-06:00",
+    "updated_at": "2022-03-15T16:48:34-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

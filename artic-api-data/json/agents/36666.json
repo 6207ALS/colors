@@ -1,0 +1,33 @@
+{
+    "id": 36666,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36666",
+    "title": "Watanabe Sh\u00f4tei",
+    "sort_title": "Watanabe Sh\u00f4tei",
+    "alt_titles": [
+        "Watanabe Seitei",
+        "Watanabe Sh\u00f4tei (Seitei)"
+    ],
+    "is_artist": true,
+    "birth_date": 1851,
+    "death_date": 1916,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Watanabe Sh\u00f4tei",
+            "Watanabe Sh\u00f4tei",
+            "Watanabe Seitei",
+            "Watanabe Sh\u00f4tei (Seitei)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-26T12:52:39-05:00",
+    "updated_at": "2023-07-26T12:55:50-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

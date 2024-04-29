@@ -1,0 +1,163 @@
+{
+    "id": 90441,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/90441",
+    "is_boosted": false,
+    "title": "Abstract Cityscape",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAB8bEjs7Kjc7NEA/IjdKLVFEHV5OHU1BJEhPNUZFPE9TM1lQMWNVL2pXLm1dKHpuKj9UQ0FHTEVfTXBrSQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURICAgQxBJxJJACnNMjWM8RQgAOw==",
+        "width": 1570,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1989.384.3",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1924,
+    "date_end": 1924,
+    "date_display": "1924",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "L\u00e9opold Survage\nFrench, born Russia, 1879-1968",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "65 \u00d7 45.7 cm (25 5/8 \u00d7 18 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 45.7,
+            "width_in": 18,
+            "height_cm": 65,
+            "height_in": 25.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mima de Manziarly Porter",
+    "catalogue_display": null,
+    "publication_history": "Samuel Putnam, The Glistening Bridge: L\u00e9opold Survage and the Spatial Problem in Painting (New York, 1929), pp. ix, 31 (ill.), pl. 8. \n\nMaxilien Gauthier, Survage (Paris, 1953), n.p. (ill.).\n\nArt Institute of Chicago, Annual Report (1989\u20131990), p. 51.",
+    "exhibition_history": null,
+    "provenance_text": "Mima de Manziarly Porter, Chicago and New York, by Jan. 1930 [letter, Jan. 1930, in curatorial file]; bequeathed to the Art Institute of Chicago, 1989.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.7905,
+    "color": {
+        "h": 51,
+        "l": 36,
+        "s": 53,
+        "percentage": 0.056071425765753025,
+        "population": 571
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 36839,
+    "artist_title": "L\u00e9opold Survage",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36839
+    ],
+    "artist_titles": [
+        "L\u00e9opold Survage"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8363dfda-5f9e-3e11-0c6c-2ddd219921cf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.384.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Abstract Cityscape"
+            ],
+            "weight": 3430,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:58:17-05:00",
+    "timestamp": "2023-09-24T00:59:52-05:00"
+}

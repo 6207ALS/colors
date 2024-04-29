@@ -1,0 +1,31 @@
+{
+    "id": 31311,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31311",
+    "title": "John Gossage",
+    "sort_title": "Gossage, John",
+    "alt_titles": [
+        "John R. Gossage"
+    ],
+    "is_artist": true,
+    "birth_date": 1946,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Gossage",
+            "Gossage, John",
+            "John R. Gossage"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:54:49-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

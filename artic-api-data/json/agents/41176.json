@@ -1,0 +1,31 @@
+{
+    "id": 41176,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41176",
+    "title": "Maarten de Vos",
+    "sort_title": "Vos, Maarten de",
+    "alt_titles": [
+        "Marten de Vos"
+    ],
+    "is_artist": true,
+    "birth_date": 1532,
+    "death_date": 1603,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maarten de Vos",
+            "Vos, Maarten de",
+            "Marten de Vos"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T10:24:38-06:00",
+    "updated_at": "2023-02-15T10:27:21-06:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

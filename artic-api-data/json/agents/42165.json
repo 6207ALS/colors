@@ -1,0 +1,37 @@
+{
+    "id": 42165,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42165",
+    "title": "Lucas Emil Vorsterman",
+    "sort_title": "Vorsterman, Lucas Emil",
+    "alt_titles": [
+        "Lucas E. Vorsterman, I",
+        "Lucas Emil Vorsterman, I",
+        "Lucas Emil Vorsterman, the Elder",
+        "Lucas Emile Vosterman, the elder"
+    ],
+    "is_artist": true,
+    "birth_date": 1595,
+    "death_date": 1675,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lucas Emil Vorsterman",
+            "Vorsterman, Lucas Emil",
+            "Lucas E. Vorsterman, I",
+            "Lucas Emil Vorsterman, I",
+            "Lucas Emil Vorsterman, the Elder",
+            "Lucas Emile Vosterman, the elder"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:40-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

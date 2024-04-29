@@ -1,0 +1,177 @@
+{
+    "id": 92682,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/92682",
+    "is_boosted": false,
+    "title": "Communion Chalice",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKymncG+udDPzdTRy9HR0N7e3eDf3eHh4eLi4eXl5+no6Onp6Ovr6urq6+/v7wAAACH5BAAAAAAALAAAAAADAAUAAAQLkJGjgHFjtYCSKBEAOw==",
+        "width": 1419,
+        "height": 2250,
+        "alt_text": "A work made of pewter."
+    },
+    "main_reference_number": "1938.754",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1789,
+    "date_end": 1801,
+    "date_display": "c. 1794",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Stephen Maxwell & Co.\nScotland, active c. 1781-c. 1800\nGlasgow, Scotland",
+    "place_of_origin": "Glasgow",
+    "description": null,
+    "dimensions": "22.9 \u00d7 10.8 \u00d7 10.8 cm (9 \u00d7 4 1/4 (top) \u00d7 4 1/4 (base) in.)",
+    "dimensions_detail": [],
+    "medium_display": "Pewter",
+    "inscriptions": null,
+    "credit_line": "The William Owen Goodman and Erna Sawyer Goodman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.5364,
+    "color": {
+        "h": 37,
+        "l": 53,
+        "s": 8,
+        "percentage": 0.02368930281583297,
+        "population": 267
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 45046,
+    "artist_title": "Stephen Maxwell",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        45046
+    ],
+    "artist_titles": [
+        "Stephen Maxwell"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "drinking vessel",
+        "pewter",
+        "liturgical",
+        "metalwork",
+        "tin alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11734",
+    "classification_title": "drinking vessel",
+    "alt_classification_ids": [
+        "TM-10317",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-11734",
+        "TM-10317",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "drinking vessel",
+        "liturgical",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2513",
+    "alt_material_ids": [
+        "TM-2723",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2513",
+        "TM-2723",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "pewter",
+        "tin alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "86da1bdd-71c6-cf43-4ddd-1ed95f6b9cd5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.754"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Communion Chalice"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:43:28-05:00",
+    "timestamp": "2023-09-24T01:00:56-05:00"
+}

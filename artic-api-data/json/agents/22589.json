@@ -1,0 +1,31 @@
+{
+    "id": 22589,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22589",
+    "title": "Felix Ruvolo",
+    "sort_title": "Ruvolo, Felix",
+    "alt_titles": [
+        "Felix Emmanuele Ruvolo"
+    ],
+    "is_artist": true,
+    "birth_date": 1912,
+    "death_date": 1992,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Felix Ruvolo",
+            "Ruvolo, Felix",
+            "Felix Emmanuele Ruvolo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:07-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

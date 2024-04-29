@@ -1,0 +1,175 @@
+{
+    "id": 202943,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202943",
+    "is_boosted": false,
+    "title": "I Morosi Alla Finestra",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALKld7eqe7iperqre7irfbqsfbutfsCwf76xgcCxgcCxgsGygsCyg8Czg8GzhAAAACH5BAAAAAAALAAAAAADAAUAAAQLEARRmEGNLJeGOhEAOw==",
+        "width": 1197,
+        "height": 2061,
+        "alt_text": "A work made of cotton, silk, polyester window covering, upholstery."
+    },
+    "main_reference_number": "2010.264",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2002,
+    "date_end": 2002,
+    "date_display": "2002",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Gio Ponti (Italian, 1891-1979)\nManufactured by Maharam (American, founded 1902)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "640 \u00d7 137 cm (252 \u00d7 54 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 137,
+            "width_in": 54,
+            "height_cm": 640,
+            "height_in": 252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, silk, polyester window covering, upholstery",
+    "inscriptions": null,
+    "credit_line": "Gift of Maharam Fabric Corporation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2002 Maharam under license.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.6931,
+    "color": {
+        "h": 24,
+        "l": 57,
+        "s": 83,
+        "percentage": 0.0008992857218770873,
+        "population": 11
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 20802,
+    "artist_title": "Gio Ponti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        20802
+    ],
+    "artist_titles": [
+        "Gio Ponti"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "cotton",
+        "21st Century",
+        "silk (fiber)",
+        "design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11728",
+    "classification_title": "cotton",
+    "alt_classification_ids": [
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-11728",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "cotton",
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "289dd62a-742f-8ffb-3653-ba97005de415",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.264"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "I Morosi Alla Finestra"
+            ],
+            "weight": 84,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:46:26-05:00",
+    "timestamp": "2023-09-24T01:40:47-05:00"
+}

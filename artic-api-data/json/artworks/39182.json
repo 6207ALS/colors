@@ -1,0 +1,167 @@
+{
+    "id": 39182,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/39182",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAC0rLDAsLTEwLzMwMDIxMD05Oz8+QEE/QURBRJaNj7mvr7q2tLu2tL+2tgAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLkDQk2BHLDFVCAhEAOw==",
+        "width": 2642,
+        "height": 4267,
+        "alt_text": "A work made of linen, plain weave; cut and drawn work embroidered in interlocking lace and overcast stitches; darned bars and woven picots; embroidered in italian hem, overcast back, overcast, and satin stitches; eyelet holes; edged with bobbin straight lace."
+    },
+    "main_reference_number": "1900.3175",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1575,
+    "date_end": 1625,
+    "date_display": "1575/1625 (straight lace: 1701/50)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy (straight lace: Flanders)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "6.7 \u00d7 74.6 cm (2 5/8 \u00d7 29 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 74.6,
+            "width_in": 29.375,
+            "height_cm": 6.7,
+            "height_in": 2.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; cut and drawn work embroidered in interlocking lace and overcast stitches; darned bars and woven picots; embroidered in Italian hem, overcast back, overcast, and satin stitches; eyelet holes; edged with bobbin straight lace",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.0663,
+    "color": {
+        "h": 346,
+        "l": 51,
+        "s": 4,
+        "percentage": 0.007408550164164755,
+        "population": 85
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - needle",
+        "needlework (visual works)",
+        "lace"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1293",
+        "TM-83",
+        "TM-119"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1293",
+        "TM-83",
+        "TM-119"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - needle",
+        "needlework (visual works)",
+        "lace"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0fb349d6-a72b-4311-349d-5373c7ee4491",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1900.3175"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:46:11-05:00",
+    "timestamp": "2023-09-24T00:37:32-05:00"
+}

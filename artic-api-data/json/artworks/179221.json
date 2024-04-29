@@ -1,0 +1,168 @@
+{
+    "id": 179221,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/179221",
+    "is_boosted": false,
+    "title": "Apt House, Pittsburgh, Pennsylvania, Fireplace Elevation",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAAKq2va65wLC8w7W+x7S/x7a/yLfAybbBybbCybfCyrnDy7vEzLrHz7zHz77G0L/G0L/H0L7I0L7J0cDG0MHI0sDJ0sHJ0sLI0sPJ08LK1MTL1cXL1cLM1MTN1cXM1sTN1sbN18XO18bO18XO2MbO2MfP2MfP2cTQ2MbQ2MfQ2cbR2cfR2cjR2sjR28nS28rU3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuwBGrZfJoMJeJY+V6tVIl0IYSOqlQHc5HpMmQGA1FRLKAWB4VQECASBAKhsEhCAA7",
+        "width": 4980,
+        "height": 2611,
+        "alt_text": "A work made of graphite on tracing paper."
+    },
+    "main_reference_number": "1995.8.13",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1951,
+    "date_display": "1951",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "A. James Speyer\nAmerican, 1913-1986",
+    "place_of_origin": "Pittsburgh",
+    "description": null,
+    "dimensions": "62.9 \u00d7 92.7 cm (24 3/4 \u00d7 36 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 92.7,
+            "width_in": 36.5,
+            "height_cm": 62.9,
+            "height_in": 24.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on tracing paper",
+    "inscriptions": null,
+    "credit_line": "Gift of A. James Speyer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.9737,
+    "color": {
+        "h": 206,
+        "l": 51,
+        "s": 6,
+        "percentage": 0.0010759543042207,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 36761,
+    "artist_title": "A. James Speyer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36761
+    ],
+    "artist_titles": [
+        "A. James Speyer"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "working drawing",
+        "paper (fiber product)",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11705",
+    "classification_title": "working drawing",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-11705",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "working drawing",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6b2c6cfe-8fb1-950b-9269-9c241a973390",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1995.8.13"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Apt House, Pittsburgh, Pennsylvania, Fireplace Elevation"
+            ],
+            "weight": 6,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:25:14-05:00",
+    "timestamp": "2023-09-24T01:32:47-05:00"
+}

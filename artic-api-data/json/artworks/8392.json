@@ -1,0 +1,180 @@
+{
+    "id": 8392,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/8392",
+    "is_boosted": false,
+    "title": "Watch",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKqopKyqp6+tqbWzsLe1s7e2tbi3tLm3tbu5t728u8C/vsHAv8fGxcjJyMrIyMrJyMrKys3LyMzNy9DQz9PT09XV09XW1dvc3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoDUdz0UdA+IUUaUkEBAQS8MIhhQCADs=",
+        "width": 2209,
+        "height": 2250,
+        "alt_text": "Simple silver pocket watch with a chain and key. Plain white dial has cursive arabic numbers for hours and hands with heart-shaped tips."
+    },
+    "main_reference_number": "1958.456",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1797,
+    "date_end": 1798,
+    "date_display": "1797/98",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "James Simpson\nEnglish, late 18th century\nLondon, England",
+    "place_of_origin": "Lincoln",
+    "description": null,
+    "dimensions": "Diam.: 7.9 cm (3 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 7.9,
+            "diameter_in": 3.125,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": null,
+    "credit_line": "As a Gift from Mr. Charles H. Morse, Sr. in memory of his wife, Mrs. Charlotte Morse",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.345,
+    "color": {
+        "h": 44,
+        "l": 68,
+        "s": 48,
+        "percentage": 0.0004147690980431194,
+        "population": 3
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 24170,
+    "artist_title": "James Simpson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        24170
+    ],
+    "artist_titles": [
+        "James Simpson"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "silver",
+        "silver",
+        "metal",
+        "watch",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-161",
+    "classification_title": "silver",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-1453",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-161",
+        "TM-33",
+        "TM-1453",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "silver",
+        "metal",
+        "watch",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2436"
+    ],
+    "material_titles": [
+        "silver"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "32c59241-d5d0-146a-d5b8-2c8fc716d0cf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1958.456"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Watch"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T10:01:44-05:00",
+    "timestamp": "2023-09-24T00:23:43-05:00"
+}

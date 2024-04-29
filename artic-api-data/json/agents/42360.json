@@ -1,0 +1,33 @@
+{
+    "id": 42360,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42360",
+    "title": "baron Fran\u00e7ois Pascal Simon G\u00e9rard",
+    "sort_title": "G\u00e9rard, Fran\u00e7ois Pascal Simon, baron",
+    "alt_titles": [
+        "Fran\u00e7ois G\u00e9rard",
+        "M. le baron (Fran\u00e7ois-Pascal-Simon) G\u00e9rard"
+    ],
+    "is_artist": true,
+    "birth_date": 1770,
+    "death_date": 1837,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "baron Fran\u00e7ois Pascal Simon G\u00e9rard",
+            "G\u00e9rard, Fran\u00e7ois Pascal Simon, baron",
+            "Fran\u00e7ois G\u00e9rard",
+            "M. le baron (Fran\u00e7ois-Pascal-Simon) G\u00e9rard"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:33-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

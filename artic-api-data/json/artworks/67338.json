@@ -1,0 +1,183 @@
+{
+    "id": 67338,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/67338",
+    "is_boosted": false,
+    "title": "Noctambules II",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACEfGywpIi0qJC8tJjUwKzQxKzYzLDs3MUE8NEI/N0VBOEpFPk1KP1ZPRlVQRVZRRllVS1pUS1tXS2JdUWRgVW1oWm5qXG9rXnFtYXNvYYF6bYyHd42Iea2nlQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYICEAxlAcCidt2JJ0V0ZFQWUxUIM406OFADs=",
+        "width": 3000,
+        "height": 2400,
+        "alt_text": "A work made of etching and drypoint in black on paper."
+    },
+    "main_reference_number": "1949.1083",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1929,
+    "date_end": 1929,
+    "date_display": "1929",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fritz Pauli\nSwiss, 1891-1968",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "Plate: 39.8 \u00d7 49 cm (15 11/16 \u00d7 19 5/16 in.); Sheet: 47.5 \u00d7 65.5 cm (18 3/4 \u00d7 25 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49,
+            "width_in": 19.2914,
+            "height_cm": 39.8,
+            "height_in": 15.6693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 65.5,
+            "width_in": 25.7875,
+            "height_cm": 47.5,
+            "height_in": 18.7008,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching and drypoint in black on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Carl and Heidi Schniewind",
+    "catalogue_display": "<p>Freiburghaus 225 v/v</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.5507,
+    "color": {
+        "h": 37,
+        "l": 37,
+        "s": 12,
+        "percentage": 0.10595196609537086,
+        "population": 602
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36149,
+    "artist_title": "Fritz Pauli",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36149
+    ],
+    "artist_titles": [
+        "Fritz Pauli"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dcaa3584-27f7-7fcc-251a-9a9e478ed9e3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1949.1083"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Noctambules II"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:49:02-05:00",
+    "timestamp": "2023-09-24T00:49:34-05:00"
+}

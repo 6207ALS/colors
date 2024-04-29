@@ -1,0 +1,35 @@
+{
+    "id": 21777,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/21777",
+    "title": "Adrian Ludwig (Ludwig) Richter",
+    "sort_title": "Richter, Adrian Ludwig (Ludwig)",
+    "alt_titles": [
+        "Ludwig Adrian Richter",
+        "Ludwig A. Richter",
+        "Ludwig Richter"
+    ],
+    "is_artist": true,
+    "birth_date": 1803,
+    "death_date": 1884,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adrian Ludwig (Ludwig) Richter",
+            "Richter, Adrian Ludwig (Ludwig)",
+            "Ludwig Adrian Richter",
+            "Ludwig A. Richter",
+            "Ludwig Richter"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T15:16:52-05:00",
+    "updated_at": "2022-03-15T16:51:56-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

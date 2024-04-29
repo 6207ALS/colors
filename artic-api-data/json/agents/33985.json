@@ -1,0 +1,35 @@
+{
+    "id": 33985,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33985",
+    "title": "John Clerk of Eldin",
+    "sort_title": "Clerk, John, of Eldin",
+    "alt_titles": [
+        "John Clerk of Eldin",
+        "John Clerk, (of Eldin)",
+        "John Clerk of Elden"
+    ],
+    "is_artist": true,
+    "birth_date": 1728,
+    "death_date": 1812,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Clerk of Eldin",
+            "Clerk, John, of Eldin",
+            "John Clerk of Eldin",
+            "John Clerk, (of Eldin)",
+            "John Clerk of Elden"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:52-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

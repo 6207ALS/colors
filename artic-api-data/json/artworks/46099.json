@@ -1,0 +1,172 @@
+{
+    "id": 46099,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46099",
+    "is_boosted": false,
+    "title": "Cover (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAALaKB7qJAL2JAL+LAL2MALqLBLuNBr2OB7eMEbyaN7OSOLeUPLiVPruYOryZP72aP72cPbKTQLeXRrubQ7ycRbaeY7agb7iha7qhagAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4LVIDOYIxfBMBnJQCgEEUZVAjRUCADs=",
+        "width": 2295,
+        "height": 2250,
+        "alt_text": "A work made of brocading."
+    },
+    "main_reference_number": "1943.21",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1900,
+    "date_display": "Qing dynasty (1644\u20131911), 1875/1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Manchu\nChina",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "109.2 \u00d7 112 cm (43 \u00d7 44 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 112,
+            "width_in": 44.125,
+            "height_cm": 109.2,
+            "height_in": 43,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "brocading",
+    "inscriptions": null,
+    "credit_line": "Florence Ayscough and Harley Farnsworth MacNair Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 106.4443,
+    "color": {
+        "h": 45,
+        "l": 41,
+        "s": 92,
+        "percentage": 0.40765332541550664,
+        "population": 2842
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 87635,
+    "artist_title": "Manchu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        87635
+    ],
+    "artist_titles": [
+        "Manchu"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "qing",
+        "textile",
+        "weaving",
+        "furnishing textile"
+    ],
+    "style_id": "TM-5086",
+    "style_title": "qing",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5086"
+    ],
+    "style_titles": [
+        "qing"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "03bcfb73-066b-026e-b537-3fe14a865d6b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.21"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cover (Furnishing Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:46:38-05:00",
+    "timestamp": "2023-09-24T00:40:30-05:00"
+}

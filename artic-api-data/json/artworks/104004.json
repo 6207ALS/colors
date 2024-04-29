@@ -1,0 +1,174 @@
+{
+    "id": 104004,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104004",
+    "is_boosted": false,
+    "title": "S. Maria Della Pace, Rome, Italy, Travel Sketch",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJmMbpuNb5qOcJuOcKiZdqyadaubeKubequdea2de62eerSjf7WkfremgLmogbmog76rhb6sh8GthMa0iwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOQwS4MQxiAER6EAiTQ9UQgAOw==",
+        "width": 4789,
+        "height": 5771,
+        "alt_text": "A work made of pencil on paper."
+    },
+    "main_reference_number": "1985.155",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1913,
+    "date_end": 1913,
+    "date_display": "March 1, 1913",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Augur Holabird, Sr.\nAmerican, 1886\u20131945",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "24.8 \u00d7 20.4 cm (9 3/4 \u00d7 8 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.4,
+            "width_in": 8.0625,
+            "height_cm": 24.8,
+            "height_in": 9.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pencil on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of John A. Holabird Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1985,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.5876,
+    "color": {
+        "h": 38,
+        "l": 62,
+        "s": 35,
+        "percentage": 0.3353228533266082,
+        "population": 2872
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 31495,
+    "artist_title": "John Augur Holabird, Sr.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31495
+    ],
+    "artist_titles": [
+        "John Augur Holabird, Sr."
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "prints and drawing",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "eaa7044b-bfcf-6d5c-b945-dfa6ef01ca17",
+    "alt_image_ids": [
+        "b55fda98-2075-9096-2038-218880d70152"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.155"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "S. Maria Della Pace, Rome, Italy, Travel Sketch"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:27:16-05:00",
+    "timestamp": "2023-09-24T01:07:06-05:00"
+}

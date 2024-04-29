@@ -1,0 +1,33 @@
+{
+    "id": 40611,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40611",
+    "title": "Gottfried Bernhard Goetz",
+    "sort_title": "Goetz, Gottfried Bernhard",
+    "alt_titles": [
+        "Gottfried Bernhard Goz",
+        "Gottfried Bernhard G\u00f6tz"
+    ],
+    "is_artist": true,
+    "birth_date": 1708,
+    "death_date": 1774,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gottfried Bernhard Goetz",
+            "Goetz, Gottfried Bernhard",
+            "Gottfried Bernhard Goz",
+            "Gottfried Bernhard G\u00f6tz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:30-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

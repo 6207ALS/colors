@@ -1,0 +1,174 @@
+{
+    "id": 71372,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/71372",
+    "is_boosted": false,
+    "title": "Fragment (Bonnet Trim)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAAINvVYNzX4R2YoV2YoV3Y4V3ZYV4ZYd6aIZ6aYZ7bId8bId8bod9boh8bIl9bIh8bod+cYh9cIh/cYmBdYmBdoqDeYuGgIqHgYuHgouHg4yJhI2LiYyMio2Ni46Ni4yMjI2MjI2NjIyOj4+Pjo+Pj46PkI6PkY+QkY6Qko+Qko+Rko+QkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuQJNpY9GAQiVU6UNJHBoTSeTBES0GgoCBgABgVhmGogCpXByd0klF8qRSpdEpCAA7",
+        "width": 3000,
+        "height": 1474,
+        "alt_text": "A work made of horsehair, bobbin lace mesh; embroidered with straw in running stitches and knots."
+    },
+    "main_reference_number": "1988.123",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1840,
+    "date_end": 1850,
+    "date_display": "1840/50",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Probably Europe",
+    "place_of_origin": "Europe",
+    "description": null,
+    "dimensions": "4.3 \u00d7 10 cm (1 3/4 \u00d7 4 in.); Weft repeat: H.: 1.4 cm (3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10,
+            "width_in": 4,
+            "height_cm": 4.3,
+            "height_in": 1.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 1.4,
+            "height_in": 3,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Weft repeat"
+        }
+    ],
+    "medium_display": "Horsehair, bobbin lace mesh; embroidered with straw in running stitches and knots",
+    "inscriptions": null,
+    "credit_line": "Found in Storage",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.5062,
+    "color": {
+        "h": 37,
+        "l": 46,
+        "s": 44,
+        "percentage": 0.006590220113351786,
+        "population": 23
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "headdress - misc",
+        "costume accessory - headdress"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-2332",
+        "TM-1656"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-2332",
+        "TM-1656"
+    ],
+    "classification_titles": [
+        "textile",
+        "headdress - misc",
+        "costume accessory - headdress"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3b0da8a5-40a3-cd2e-e9a6-d0955171610b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.123"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment (Bonnet Trim)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:44:15-05:00",
+    "timestamp": "2023-09-24T00:51:18-05:00"
+}

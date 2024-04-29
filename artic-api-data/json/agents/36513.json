@@ -1,0 +1,37 @@
+{
+    "id": 36513,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36513",
+    "title": "Jan Saenredam",
+    "sort_title": "Saenredam, Jan",
+    "alt_titles": [
+        "Jan Pietersz. Sanredam",
+        "Jan Pietersz. Saenredam",
+        "Jan Pietersz. Zaenredam",
+        "Jan Sanredam"
+    ],
+    "is_artist": true,
+    "birth_date": 1565,
+    "death_date": 1607,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Saenredam",
+            "Saenredam, Jan",
+            "Jan Pietersz. Sanredam",
+            "Jan Pietersz. Saenredam",
+            "Jan Pietersz. Zaenredam",
+            "Jan Sanredam"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:38-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 204399,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/204399",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKyfdaygd7WpfaGYgaeaiKWbjqqjha2ii6+ji7OogrWpgb2uiL6wg7+0hr+xiruwmruxoryyoruwpMm7iwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIKQkETEYiCM00xIAjFQcTwgAOw==",
+        "width": 1770,
+        "height": 2250,
+        "alt_text": "A work made of gouache and white enamel paint on cream wove watercolor paper."
+    },
+    "main_reference_number": "2014.1369",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1945,
+    "date_end": 1945,
+    "date_display": "1945",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Leon Polk Smith\nAmerican, 1906-1996",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "61.6 \u00d7 48.8 cm (24 5/16 \u00d7 19 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.8,
+            "width_in": 19.2126,
+            "height_cm": 61.6,
+            "height_in": 24.252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gouache and white enamel paint on cream wove watercolor paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Irving Stenn Jr. Drawings Collection in memory of Marcia Stenn",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 58.2172,
+    "color": {
+        "h": 50,
+        "l": 37,
+        "s": 94,
+        "percentage": 0.08210725730776722,
+        "population": 742
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 24351,
+    "artist_title": "Leon Polk Smith",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        24351
+    ],
+    "artist_titles": [
+        "Leon Polk Smith"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "gouache",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-221",
+    "classification_title": "gouache",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-221",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "gouache",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "40ccb08d-0878-5044-69ca-d75dbbde4680",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.1369"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 29,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:22:29-05:00",
+    "updated_at": "2023-04-07T14:39:49-05:00",
+    "timestamp": "2023-09-24T01:41:01-05:00"
+}

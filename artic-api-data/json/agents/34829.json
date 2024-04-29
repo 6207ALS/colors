@@ -1,0 +1,31 @@
+{
+    "id": 34829,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34829",
+    "title": "Matsukawa Hanzan",
+    "sort_title": "Matsukawa Hanzan",
+    "alt_titles": [
+        "Matsukawa Hanzan"
+    ],
+    "is_artist": true,
+    "birth_date": 1815,
+    "death_date": 1882,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Matsukawa Hanzan",
+            "Matsukawa Hanzan",
+            "Matsukawa Hanzan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:49:19-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 35367,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35367",
+    "title": "Philippe de La Salle",
+    "sort_title": "La Salle, Philippe de",
+    "alt_titles": [
+        "Philippe De La Salle",
+        "Philippe De LaSalle",
+        "Philippe de Lasalle"
+    ],
+    "is_artist": true,
+    "birth_date": 1723,
+    "death_date": 1805,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Philippe de La Salle",
+            "La Salle, Philippe de",
+            "Philippe De La Salle",
+            "Philippe De LaSalle",
+            "Philippe de Lasalle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:46:30-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 92833,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/92833",
+    "title": "William Edward Dassonville",
+    "sort_title": "Dassonville, William Edward",
+    "alt_titles": [
+        "William Dassonville"
+    ],
+    "is_artist": true,
+    "birth_date": 1879,
+    "death_date": 1957,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Edward Dassonville",
+            "Dassonville, William Edward",
+            "William Dassonville"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:01:26-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

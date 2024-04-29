@@ -1,0 +1,168 @@
+{
+    "id": 33141,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/33141",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIRZPYpgPoptS5NtTpV2VJN1WJp+Wp5/Wpl9XJ1/X5yHZKWJZqeQbq2UbqqScKuYdbKbdreheL6lfr+thwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIONIDSIERDEciWIAywNFUwgAOw==",
+        "width": 1984,
+        "height": 2250,
+        "alt_text": "A work made of linen, plain weave; block printed."
+    },
+    "main_reference_number": "1970.60",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1929,
+    "date_display": "1920s",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed and produced by Atelier Martine (French, 1912-1929), founded by Paul Poiret (French, 1879\u20131944)\nParis, France",
+    "place_of_origin": "Paris",
+    "description": null,
+    "dimensions": "73.2 \u00d7 68 cm (28 7/8 \u00d7 26 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68,
+            "width_in": 26.75,
+            "height_cm": 73.2,
+            "height_in": 28.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; block printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Howard Linn",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, A Selection of Fabrics from the 1880s-1940s from the Permanent Collection, Nov. 13, 1982-Feb. 13, 1983.",
+    "provenance_text": "Mrs. Howard Linn, by 1970 [memo RX7401, Feb. 27, 1970; copy in curatorial object file]; given to the Art Institute of Chicago, 1970.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.841,
+    "color": {
+        "h": 48,
+        "l": 30,
+        "s": 30,
+        "percentage": 0.047772202286117026,
+        "population": 385
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 88309,
+    "artist_title": "Atelier Martine",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        88309
+    ],
+    "artist_titles": [
+        "Atelier Martine"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "994218c3-71ed-9c2b-b774-2123a4225e98",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.60"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 231,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-05T11:30:58-05:00",
+    "updated_at": "2023-09-05T11:37:59-05:00",
+    "timestamp": "2023-09-24T00:35:09-05:00"
+}

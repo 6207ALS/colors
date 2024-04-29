@@ -1,0 +1,179 @@
+{
+    "id": 57136,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/57136",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAQAFAPIAAItyWI94X5B4XpF7YZmEawAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEOCBBCQA7",
+        "width": 586,
+        "height": 2250,
+        "alt_text": "A work made of linen and wool, slit tapestry weave."
+    },
+    "main_reference_number": "1900.429",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 401,
+    "date_end": 600,
+    "date_display": "Roman period (30 B.C.\u2013 641 A.D.), 5th/6th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Egypt, Akhmin",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "21 \u00d7 4.5 cm (8 1/4 \u00d7 1 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 4.5,
+            "width_in": 1.75,
+            "height_cm": 21,
+            "height_in": 8.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and wool, slit tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.0094,
+    "color": {
+        "h": 38,
+        "l": 31,
+        "s": 28,
+        "percentage": 0.02253745339969239,
+        "population": 615
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roman period (egyptian)",
+        "linen (material)",
+        "slit tapestry weaving",
+        "textile",
+        "weaving",
+        "wool (textile)"
+    ],
+    "style_id": "TM-4315",
+    "style_title": "roman period (egyptian)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4315"
+    ],
+    "style_titles": [
+        "roman period (egyptian)"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3093",
+    "alt_material_ids": [
+        "TM-2581"
+    ],
+    "material_ids": [
+        "TM-3093",
+        "TM-2581"
+    ],
+    "material_titles": [
+        "linen (material)",
+        "wool (textile)"
+    ],
+    "technique_id": "TM-10609",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10609"
+    ],
+    "technique_titles": [
+        "slit tapestry weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "f7c759f0-8427-5656-aad8-5bf7e8309355",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1900.429"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-06T11:13:53-05:00",
+    "updated_at": "2023-09-06T11:15:55-05:00",
+    "timestamp": "2023-09-24T00:45:11-05:00"
+}

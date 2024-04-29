@@ -1,0 +1,189 @@
+{
+    "id": 265937,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/265937",
+    "is_boosted": false,
+    "title": "Portrait of Dorothea Lange by Window",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADQ0NFhXVWloZXNxbnh2dIB9fIWCgI+MiZSRjpuYlaCcmaSgnbu3s7+6tr+7twAAACH5BAAAAAAALAAAAAADAAUAAAQLMKwznBIuGVYQAREAOw==",
+        "width": 3408,
+        "height": 5231,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "2022.1718",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1960s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ronald Partridge\nAmerican, 1917-2015",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "45.1 \u00d7 37.5 cm (17 3/4 \u00d7 14 3/4 in.); Image: 22.8 \u00d7 14.9 cm (9 \u00d7 5 7/8 in.); mount: 43 \u00d7 35.6 cm (16 15/16 \u00d7 14 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37.5,
+            "width_in": 14.75,
+            "height_cm": 45.1,
+            "height_in": 17.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14.9,
+            "width_in": 5.8662,
+            "height_cm": 22.8,
+            "height_in": 8.9764,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.6,
+            "width_in": 14.0158,
+            "height_cm": 43,
+            "height_in": 16.9292,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "mount"
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Gift of Lucia Woods Lindley",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 37,
+        "l": 40,
+        "s": 2,
+        "percentage": 0.002765429638943711,
+        "population": 493
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 97471,
+    "artist_title": "Rondal Partridge",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        97471
+    ],
+    "artist_titles": [
+        "Rondal Partridge"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3655718b-4a40-64e7-8630-b4d5668e64b4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.1718"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Dorothea Lange by Window"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-22T10:54:05-05:00",
+    "updated_at": "2023-04-07T11:41:18-05:00",
+    "timestamp": "2023-09-24T01:58:49-05:00"
+}

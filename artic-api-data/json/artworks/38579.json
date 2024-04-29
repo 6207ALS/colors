@@ -1,0 +1,182 @@
+{
+    "id": 38579,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/38579",
+    "is_boosted": false,
+    "title": "Coverlet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGpqanBwcHJycnNzc3V1dXZ2dnl5eXx8fH9/f4CAgIODg4SEhIWFhYeHh4mJiYqKiouLi5CQkJGRkZaWlgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUYIDBAgsIExXIgjpFEDOMAgkQ0yrFM0+OEADs=",
+        "width": 22647,
+        "height": 18576,
+        "alt_text": "A work made of cotton and wool, plain weave double cloth; woven on loom with jacquard attachment."
+    },
+    "main_reference_number": "1972.160",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1830,
+    "date_end": 1840,
+    "date_display": "1830/40",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States, New York",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "141.7 \u00d7 184.7 cm (55 3/4 \u00d7 72 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 184.7,
+            "width_in": 72.75,
+            "height_cm": 141.7,
+            "height_in": 55.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and wool, plain weave double cloth; woven on loom with Jacquard attachment",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Everett C. McNear",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 48,
+        "s": 0,
+        "percentage": 3.660646889741354e-5,
+        "population": 154
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "double cloth",
+        "textile",
+        "weaving - coverlet",
+        "coverlet",
+        "weaving on loom with jacquard attachment",
+        "coverlet"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-262",
+        "TM-1217"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-262",
+        "TM-1217"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - coverlet",
+        "coverlet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-14513"
+    ],
+    "subject_ids": [
+        "TM-14513"
+    ],
+    "subject_titles": [
+        "coverlet"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10556",
+    "alt_technique_ids": [
+        "TM-10497"
+    ],
+    "technique_ids": [
+        "TM-10556",
+        "TM-10497"
+    ],
+    "technique_titles": [
+        "double cloth",
+        "weaving on loom with jacquard attachment"
+    ],
+    "theme_titles": [],
+    "image_id": "d6350775-d9c3-ee2e-44af-7743ebee045d",
+    "alt_image_ids": [
+        "cd1b5b8d-b51c-f716-89e0-0df823fef13b"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.160"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Coverlet"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:47:26-05:00",
+    "timestamp": "2023-09-24T00:37:20-05:00"
+}

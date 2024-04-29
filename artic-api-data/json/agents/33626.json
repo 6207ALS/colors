@@ -1,0 +1,33 @@
+{
+    "id": 33626,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33626",
+    "title": "Charles Cl\u00e9ment Bervic",
+    "sort_title": "Bervic, Charles Cl\u00e9ment",
+    "alt_titles": [
+        "Charles C. Bervic",
+        "Balvay"
+    ],
+    "is_artist": true,
+    "birth_date": 1756,
+    "death_date": 1822,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Cl\u00e9ment Bervic",
+            "Bervic, Charles Cl\u00e9ment",
+            "Charles C. Bervic",
+            "Balvay"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:51:16-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

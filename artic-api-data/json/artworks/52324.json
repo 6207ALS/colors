@@ -1,0 +1,176 @@
+{
+    "id": 52324,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/52324",
+    "is_boosted": false,
+    "title": "Machinery II",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAABgPIBcTIiQhNS8nNS4uNykkOC4tOzc0RD44Rjw+R0A9R0dDTktHUUtHUkpMVVBTWVRXW1dYYFxZYF9hZ2ZkaWhhaWhnbHRydnZ0eI6LjY6OjZKSkpKSk5eWlpybmpycmaSjoKOkoKSlo66urLKwrbWzrbu7tsXEvQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwABggDgICoaERSPaLBqRBwcUGnUyDoindDJ9SBMC5kKRMCqKIAA7",
+        "width": 3000,
+        "height": 1898,
+        "alt_text": "A work made of wool, plain weave, double cloth; edged with leather binding; ground weft corner tassles."
+    },
+    "main_reference_number": "1978.159",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1963,
+    "date_end": 1963,
+    "date_display": "1963",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Ulla-May Berggren (American, born Sweden, 1935)\nUnited States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "229.4 \u00d7 138.5 cm (90 1/4 \u00d7 54 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 138.5,
+            "width_in": 54.5,
+            "height_cm": 229.4,
+            "height_in": 90.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool, plain weave, double cloth; edged with leather binding; ground weft corner tassles",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Carl E. Berggren",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.1644,
+    "color": {
+        "h": 60,
+        "l": 49,
+        "s": 34,
+        "percentage": 0.001112795141091296,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 33610,
+    "artist_title": "Ulla-May Berggren",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33610
+    ],
+    "artist_titles": [
+        "Ulla-May Berggren"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "textile",
+        "weaving",
+        "fiber art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-10653"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-10653"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "fiber art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "91873b49-3cec-2a06-b4a4-9c8bfc43387a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.159"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Machinery II"
+            ],
+            "weight": 93,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T10:27:00-05:00",
+    "updated_at": "2023-08-29T10:30:53-05:00",
+    "timestamp": "2023-09-24T00:43:39-05:00"
+}

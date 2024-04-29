@@ -1,0 +1,176 @@
+{
+    "id": 45869,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45869",
+    "is_boosted": false,
+    "title": "The Letter 2",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADo9Ml9hVWdpXG9xZXN1aH+BdK+wo7a4qrq7rcbHucrLvcvLvs7Owc/QwtDQwtHRw9XVx9nZy9vbzt/f0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoLMwDyIQiQEEyjEUTTRJUAgAOw==",
+        "width": 2218,
+        "height": 2754,
+        "alt_text": "A work made of wood engraving on paper."
+    },
+    "main_reference_number": "1942.691",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1942,
+    "date_end": 1942,
+    "date_display": "1942",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Leopoldo M\u00e9ndez\nMexican, 1902-1969",
+    "place_of_origin": "Mexico",
+    "description": null,
+    "dimensions": "14.4 \u00d7 12 cm (5 11/16 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12,
+            "width_in": 4.7245,
+            "height_cm": 14.4,
+            "height_in": 5.6693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wood engraving on paper",
+    "inscriptions": null,
+    "credit_line": "The Joseph Brooks Fair Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1943,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / SOMAAP, Mexico City",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.3101,
+    "color": {
+        "h": 64,
+        "l": 49,
+        "s": 7,
+        "percentage": 0.006911233700535112,
+        "population": 61
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35738,
+    "artist_title": "Leopoldo M\u00e9ndez",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35738
+    ],
+    "artist_titles": [
+        "Leopoldo M\u00e9ndez"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Latin American"
+    ],
+    "term_titles": [
+        "wood engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-259",
+    "classification_title": "wood engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-259",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "wood engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "dd205459-fc57-96b9-8c35-c1c40894721f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1942.691"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Letter 2"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-09-23T23:16:32-05:00",
+    "timestamp": "2023-09-24T00:40:21-05:00"
+}

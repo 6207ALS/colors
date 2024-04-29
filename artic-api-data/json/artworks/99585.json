@@ -1,0 +1,172 @@
+{
+    "id": 99585,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99585",
+    "is_boosted": false,
+    "title": "Vaquero",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEY4LEQ1MVQ/Nm9MInJWJnZjUnNkXYVSOIBbPYFwYqSBXpeBequDcJ6Sh6KMhK2inMa9tuXZvuTVz/Xx8QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHMgjqQMxiIUTQAk0ENEUwgAOw==",
+        "width": 2225,
+        "height": 3000,
+        "alt_text": "A work made of color lithograph on paper."
+    },
+    "main_reference_number": "1982.1559",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Luis Jimenez\nAmerican, 1940-2006",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "116.5 \u00d7 86.6 cm (45 7/8 \u00d7 34 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 86.6,
+            "width_in": 34.0945,
+            "height_cm": 116.5,
+            "height_in": 45.8662,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Stanley and Norman Freehling",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Estate of Luis A. Jimenez, Jr. / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 57.1443,
+    "color": {
+        "h": 2,
+        "l": 44,
+        "s": 86,
+        "percentage": 0.017647402803535328,
+        "population": 169
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 31617,
+    "artist_title": "Luis Jimenez",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31617
+    ],
+    "artist_titles": [
+        "Luis Jimenez"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "90ce836e-2c07-bb96-6b64-b85a774bd156",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1559"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vaquero"
+            ],
+            "weight": 22,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-09-23T23:19:10-05:00",
+    "timestamp": "2023-09-24T01:04:10-05:00"
+}

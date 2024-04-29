@@ -1,0 +1,165 @@
+{
+    "id": 238713,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/238713",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD0zN0U8QlFERFJGR1hVXVpYY3Ftd3BueaGhqKmprsrIx83Lyc3O0c/P0ubm5fX19fX29vn5+Pv8+wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoOQ4UUIUiAEERzMIzLMoUAgAOw==",
+        "width": 3891,
+        "height": 4558,
+        "alt_text": "A work made of glazed stoneware."
+    },
+    "main_reference_number": "2017.128",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1932,
+    "date_end": 1940,
+    "date_display": "1932/1940",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Grande Maison de la Hubaudi\u00e8re (HB)\nQuimper, France, founded 1708\nDesigned by Ren\u00e9 Olichon\nFrench, 1912-1969",
+    "place_of_origin": "Quimper",
+    "description": null,
+    "dimensions": "25.4 \u00d7 28.9 \u00d7 16.5 cm (10 \u00d7 11 3/8 \u00d7 6 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 16.5,
+            "depth_in": 6.5,
+            "width_cm": 28.9,
+            "width_in": 11.375,
+            "height_cm": 25.4,
+            "height_in": 10,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glazed stoneware",
+    "inscriptions": null,
+    "credit_line": "Annette M. Chapin Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.9758,
+    "color": {
+        "h": 6,
+        "l": 50,
+        "s": 14,
+        "percentage": 0.028095148904289196,
+        "population": 234
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 115532,
+    "artist_title": "Grande Maison de la Hubaudi\u00e8re (HB)",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115532
+    ],
+    "artist_titles": [
+        "Grande Maison de la Hubaudi\u00e8re (HB)"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "ceramics",
+        "Art Deco"
+    ],
+    "style_id": "TM-5976",
+    "style_title": "Art Deco",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5976"
+    ],
+    "style_titles": [
+        "Art Deco"
+    ],
+    "classification_id": "TM-46",
+    "classification_title": "ceramics",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-46"
+    ],
+    "classification_titles": [
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e4b2b97f-f2c6-1046-5733-60d1a324ef16",
+    "alt_image_ids": [
+        "c5cfc9a6-b557-5552-ac68-87cb32ac3895"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.128"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 13,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:23:40-05:00",
+    "timestamp": "2023-09-24T01:52:44-05:00"
+}

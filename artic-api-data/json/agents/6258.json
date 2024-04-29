@@ -1,0 +1,35 @@
+{
+    "id": 6258,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6258",
+    "title": "William De Morgan",
+    "sort_title": "De Morgan, William",
+    "alt_titles": [
+        "William Frend De Morgan",
+        "William de Morgan",
+        "William Frend de Morgan"
+    ],
+    "is_artist": true,
+    "birth_date": 1839,
+    "death_date": 1917,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William De Morgan",
+            "De Morgan, William",
+            "William Frend De Morgan",
+            "William de Morgan",
+            "William Frend de Morgan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:14-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

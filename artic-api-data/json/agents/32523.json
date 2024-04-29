@@ -1,0 +1,28 @@
+{
+    "id": 32523,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32523",
+    "title": "Arthur Jon Pulos",
+    "sort_title": "Pulos, Arthur Jon",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1917,
+    "death_date": 1997,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arthur Jon Pulos",
+            "Pulos, Arthur Jon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T18:13:09-05:00",
+    "updated_at": "2022-04-22T10:52:24-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

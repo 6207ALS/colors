@@ -1,0 +1,31 @@
+{
+    "id": 54872,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/54872",
+    "title": "Albert Dubois-Pillet",
+    "sort_title": "Dubois-Pillet, Albert",
+    "alt_titles": [
+        "Albert Dubois-Pillet"
+    ],
+    "is_artist": true,
+    "birth_date": 1845,
+    "death_date": 1890,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albert Dubois-Pillet",
+            "Dubois-Pillet, Albert",
+            "Albert Dubois-Pillet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T18:14:40-05:00",
+    "updated_at": "2022-03-15T16:58:20-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

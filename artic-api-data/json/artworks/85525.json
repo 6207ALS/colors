@@ -1,0 +1,179 @@
+{
+    "id": 85525,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/85525",
+    "is_boosted": false,
+    "title": "Poncho",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADw8PD09PU1NTU5OTlNTU1RUVFdXV1hYWFtbW2dnZ3R0dHV1dXd3d4CAgIWFhYiIiImJiZycnK+vr7OzswAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURYDRJD9MoBXEMgYEIAOQsSQgAOw==",
+        "width": 1499,
+        "height": 1780,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1955.1786",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1910,
+    "date_display": "Probably late 19th/early 20th century",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Possibly eastern Peru",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": "87.6 \u00d7 83.2 cm (34 1/2 \u00d7 33 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 83.2,
+            "width_in": 33,
+            "height_cm": 87.6,
+            "height_in": 34.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Kate S. Buckingham Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Eduard Gaffron (1861\u20131931), Lima, Peru, from 1892 to 1912, then Berlin, from 1912 [History of the Department report (Joanne Behrens, 1985) and correspondence in curatorial file]; by descent to his children Mercedes Gaffron, Berlin then Durham, SC, and Hans Gaffron (1902\u20131979), Berlin then Chicago [correspondence and documentation of the Gaffron Collection in curatorial file]; sold to the Art Institute, 1955.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.13746632963714814,
+        "population": 1160
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-829",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed",
+        "weaving",
+        "costume",
+        "dress (garment)",
+        "clothing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-159",
+        "TM-81",
+        "TM-11897",
+        "TM-12173"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-159",
+        "TM-81",
+        "TM-11897",
+        "TM-12173"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "weaving",
+        "costume",
+        "dress (garment)",
+        "clothing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "c3d374e6-8467-9ae6-b143-d0d21dc4cf1f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1955.1786"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Poncho"
+            ],
+            "weight": 6,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-17T09:54:32-05:00",
+    "updated_at": "2023-04-17T09:57:30-05:00",
+    "timestamp": "2023-09-24T00:57:44-05:00"
+}

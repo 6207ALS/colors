@@ -1,0 +1,168 @@
+{
+    "id": 225253,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/225253",
+    "is_boosted": false,
+    "title": "York (Sky Royal)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFZsf11vfwlPgwtPgwdQhw5QgwtRhxBSg216hWx7h3Z/iYB/gXWAi3eBi4SDg5aNiJqRjKCalbClna6ppbuyqryyqr2+vM7Rztvf3QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4FNJFBRdFjYhxSEEiTEQgMMozRICADs=",
+        "width": 2063,
+        "height": 2250,
+        "alt_text": "A work made of wool."
+    },
+    "main_reference_number": "1989.581.5",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1940,
+    "date_end": 1959,
+    "date_display": "1940s/50s",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Produced by Knoll International, Inc.\nDenmark",
+    "place_of_origin": "Denmark",
+    "description": null,
+    "dimensions": "Approx.: 0.8 \u00d7 5.8 cm (2 7/8 \u00d7 2 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.8,
+            "width_in": 2.375,
+            "height_cm": 0.8,
+            "height_in": 2.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Approx."
+        }
+    ],
+    "medium_display": "Wool",
+    "inscriptions": null,
+    "credit_line": "Gift of Sylvia S. Schneider",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 59.0123,
+    "color": {
+        "h": 199,
+        "l": 47,
+        "s": 66,
+        "percentage": 0.002452508464381187,
+        "population": 19
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35298,
+    "artist_title": "Knoll International, Inc.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35298
+    ],
+    "artist_titles": [
+        "Knoll International, Inc."
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "352f5fa8-ec2d-ef95-65b7-780b2cbaf7fe",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.581.5"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "York (Sky Royal)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:30-05:00",
+    "updated_at": "2023-04-07T15:14:56-05:00",
+    "timestamp": "2023-09-24T01:47:33-05:00"
+}

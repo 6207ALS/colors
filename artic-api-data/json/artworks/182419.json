@@ -1,0 +1,167 @@
+{
+    "id": 182419,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182419",
+    "is_boosted": false,
+    "title": "Birds and Flowers",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAI1zU5B1U5J2U5B2VJZ5Upd6U5V5VJd7V5h7U5h6VJt+Vpx+Vpx+V5V6WJp+W5t/XJp/X56BXJ+CXJ+DXqCFX56CYqOHYKaLZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoENZ1MUohBQdhhAkDfQMC1BNBRICADs=",
+        "width": 768,
+        "height": 779,
+        "alt_text": "A work made of ink and color on silk."
+    },
+    "main_reference_number": "2004.240",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1368,
+    "date_end": 1644,
+    "date_display": "Ming Dynasty",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Zhou Zhimian\nChinese, active c. 1580-1610",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "Painting: 146.9 \u00d7 48.5 cm (57 7/8 \u00d7 19 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.5,
+            "width_in": 19.0945,
+            "height_cm": 146.9,
+            "height_in": 57.8347,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Painting"
+        }
+    ],
+    "medium_display": "Ink and color on silk",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.1047,
+    "color": {
+        "h": 216,
+        "l": 75,
+        "s": 3,
+        "percentage": 0.0005549659042822557,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 61111,
+    "artist_title": "Zhou Zhimian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        61111
+    ],
+    "artist_titles": [
+        "Zhou Zhimian"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "ink and color on paper",
+        "asian art",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10233",
+    "classification_title": "ink and color on paper",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10233",
+        "TM-26",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "ink and color on paper",
+        "asian art",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0baa38e0-9256-ac80-80ca-a4c392e25a33",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.240"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Birds and Flowers"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-18T12:31:35-06:00",
+    "updated_at": "2023-04-07T14:05:57-05:00",
+    "timestamp": "2023-09-24T01:33:51-05:00"
+}

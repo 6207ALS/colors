@@ -1,0 +1,28 @@
+{
+    "id": 61023,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/61023",
+    "title": "Nirma Z\u00e1rate",
+    "sort_title": "Z\u00e1rate, Nirma",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1936,
+    "death_date": 1999,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nirma Z\u00e1rate",
+            "Z\u00e1rate, Nirma"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-04-14T12:54:44-05:00",
+    "updated_at": "2022-03-15T16:59:24-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

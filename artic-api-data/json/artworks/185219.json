@@ -1,0 +1,164 @@
+{
+    "id": 185219,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/185219",
+    "is_boosted": false,
+    "title": "Revealed",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABwZIEVGQktGUVZYUldaUl5iX2hqZHN4dXZ6dHd7fn6Cf4KAhYqSjY+QkIqWlJWlp5eqp6+3sbC7u7nBuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoIRATzQczlQEjEIASWMISwgAOw==",
+        "width": 2283,
+        "height": 3045,
+        "alt_text": "A work made of cut chromogenic print."
+    },
+    "main_reference_number": "FLN555.2005",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2004,
+    "date_end": 2004,
+    "date_display": "2004",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Jim Hodges\nAmerican, born 1957",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "236.9 \u00d7 158.8 cm (93 1/4 \u00d7 62 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 158.8,
+            "width_in": 62.5,
+            "height_cm": 236.9,
+            "height_in": 93.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cut chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Promised gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.3783,
+    "color": {
+        "h": 55,
+        "l": 46,
+        "s": 70,
+        "percentage": 0.0035882693143872717,
+        "population": 34
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 67043,
+    "artist_title": "Jim Hodges",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        67043
+    ],
+    "artist_titles": [
+        "Jim Hodges"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "photograph",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7f920ca7-df39-0301-2d20-42c7da0efa68",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "FLN555.2005"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Revealed"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-19T17:59:14-05:00",
+    "updated_at": "2023-09-19T18:00:57-05:00",
+    "timestamp": "2023-09-24T01:34:57-05:00"
+}

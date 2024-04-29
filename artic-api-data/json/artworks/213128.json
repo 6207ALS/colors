@@ -1,0 +1,168 @@
+{
+    "id": 213128,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/213128",
+    "is_boosted": false,
+    "title": "Apron",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQUAAgFDRoXHiopM0I/RUtMU3Z2e5STl5+fo6Ggo6urr7GytcDAwsTFyM7Oz93e3+Pj5Ojo6e7v8PDx8fj4+P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIAUlz+QoAsFIR1BE1AIYFNUMCBUCADs=",
+        "width": 2912,
+        "height": 2912,
+        "alt_text": "A work made of cotton twill."
+    },
+    "main_reference_number": "2012.138",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2006,
+    "date_end": 2006,
+    "date_display": "2006",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ontwerpwerk (Dutch, founded 1986) \nFLEX (Dutch, founded 1989)\n\nManufactured by Royal VKB \nDutch, founded 1789",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "112 \u00d7 50 \u00d7 1 cm (44 \u00d7 19 1/2 \u00d7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1,
+            "depth_in": 0.5,
+            "width_cm": 50,
+            "width_in": 19.5,
+            "height_cm": 112,
+            "height_in": 44,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton twill",
+    "inscriptions": null,
+    "credit_line": "Gift of Royal VKB and Wabnitz Editions Ltd.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.2242,
+    "color": {
+        "h": 6,
+        "l": 44,
+        "s": 26,
+        "percentage": 0.0007035822185073081,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 111916,
+    "artist_title": "Ontwerpwerk & FLEX",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111916
+    ],
+    "artist_titles": [
+        "Ontwerpwerk & FLEX"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "cotton",
+        "21st Century",
+        "design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11728",
+    "classification_title": "cotton",
+    "alt_classification_ids": [
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-11728",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "cotton",
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e5a5648b-2610-aae3-9322-cd93cd1c3c08",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.138"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Apron"
+            ],
+            "weight": 20,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:27-05:00",
+    "updated_at": "2023-04-07T15:30:57-05:00",
+    "timestamp": "2023-09-24T01:43:52-05:00"
+}

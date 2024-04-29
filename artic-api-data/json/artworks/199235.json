@@ -1,0 +1,167 @@
+{
+    "id": 199235,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/199235",
+    "is_boosted": false,
+    "title": "Bruynzeel\u2019s Fabrieken",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAMVcwIVdwodeQ4hdxAhdxAnexssehwweh4wfx8yfiU2fSY3fSk4fSY5hSo9hyg8iDhHgDtKgj9Pi0BQiwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHQkkjIUD0MIzgIETWQgUwgAOw==",
+        "width": 1664,
+        "height": 2250,
+        "alt_text": "A work made of book; commercial catalogue."
+    },
+    "main_reference_number": "2009.508",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1936,
+    "date_end": 1936,
+    "date_display": "1936",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Piet Zwart\nDutch, 1885\u20131977",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "17.5 \u00d7 12.6 \u00d7 0.6 cm (6 15/16 \u00d7 5 \u00d7 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0.6,
+            "depth_in": 0.2,
+            "width_cm": 12.6,
+            "width_in": 5,
+            "height_cm": 17.5,
+            "height_in": 6.9,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book; commercial catalogue",
+    "inscriptions": null,
+    "credit_line": "Ada Turnbull Hertle Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / c/o Pictoright Amsterdam",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 62.5938,
+    "color": {
+        "h": 227,
+        "l": 57,
+        "s": 42,
+        "percentage": 0.01966660423300243,
+        "population": 189
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 85745,
+    "artist_title": "Piet Zwart",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        85745
+    ],
+    "artist_titles": [
+        "Piet Zwart"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "book",
+        "paper",
+        "graphic design"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-145",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "book",
+        "paper",
+        "graphic design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a0feb8d2-bdc4-be92-7b6c-4b4713ff65f1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.508"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bruynzeel\u2019s Fabrieken"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-07T12:15:00-06:00",
+    "updated_at": "2023-04-07T13:59:33-05:00",
+    "timestamp": "2023-09-24T01:39:39-05:00"
+}

@@ -1,0 +1,45 @@
+{
+    "id": 41039,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41039",
+    "title": "Sir Thomas Lawrence",
+    "sort_title": "Lawrence, Thomas, Sir",
+    "alt_titles": [
+        "Thomas Lawrence",
+        "Sir Thomas Laurence",
+        "Sir T. (Thomas) Laurence"
+    ],
+    "is_artist": true,
+    "birth_date": 1769,
+    "death_date": 1830,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Sir Thomas Lawrence",
+            "Lawrence, Thomas, Sir",
+            "Thomas Lawrence",
+            "Sir Thomas Laurence",
+            "Sir T. (Thomas) Laurence"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sir Thomas Lawrence",
+            "Lawrence, Thomas, Sir",
+            "Thomas Lawrence",
+            "Sir Thomas Laurence",
+            "Sir T. (Thomas) Laurence"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:02-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

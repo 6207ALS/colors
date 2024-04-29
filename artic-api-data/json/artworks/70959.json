@@ -1,0 +1,181 @@
+{
+    "id": 70959,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/70959",
+    "is_boosted": false,
+    "title": "Deer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAF1fW2BfW3l2dYF/fomHho+NjJ2bnJ+fn6OipKOkpKelpKWlp6mpqKmoqba3t7m6urq6ur27u8jFxsjHxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGMgSyIMh0MUTxQAkKQwUwgAOw==",
+        "width": 1664,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1988.35.4",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1760,
+    "date_end": 1800,
+    "date_display": "late 17th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Italian, Padua",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "14 \u00d7 11.4 \u00d7 3.2 cm (5 1/2 \u00d7 4 1/2 \u00d7 1 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 3.2,
+            "depth_in": 1.25,
+            "width_cm": 11.4,
+            "width_in": 4.5,
+            "height_cm": 14,
+            "height_in": 5.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Bequest of Chester D. Tripp",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Chester D. Tripp (d. 1974), Chicago, by 1974; by descent to his widow, Jane B. Tripp (d. 1988); bequeathed to the Art Institute, 1988.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.0347,
+    "color": {
+        "h": 42,
+        "l": 51,
+        "s": 4,
+        "percentage": 0.005931198102016607,
+        "population": 57
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "statuette",
+        "bronze",
+        "copper alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-114",
+    "classification_title": "statuette",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-114",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "statuette",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [
+        "TM-2694",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2430",
+        "TM-2694",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "bronze",
+        "copper alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c52dc9f9-2540-4984-fb64-6f59d13f844e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.35.4"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Deer"
+            ],
+            "weight": 223,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:44:36-05:00",
+    "timestamp": "2023-09-24T00:51:12-05:00"
+}

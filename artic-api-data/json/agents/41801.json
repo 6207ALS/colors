@@ -1,0 +1,33 @@
+{
+    "id": 41801,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41801",
+    "title": "Orazio de' Ferraro",
+    "sort_title": "Ferraro, Orazio de'",
+    "alt_titles": [
+        "Orazio de' Ferrari",
+        "Orazio Ferraro"
+    ],
+    "is_artist": true,
+    "birth_date": 1605,
+    "death_date": 1657,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Orazio de' Ferraro",
+            "Ferraro, Orazio de'",
+            "Orazio de' Ferrari",
+            "Orazio Ferraro"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:33:39-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

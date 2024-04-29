@@ -1,0 +1,163 @@
+{
+    "id": 24155,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/24155",
+    "is_boosted": false,
+    "title": "Commemorative Ribbon",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGtfUoR1XqWdjqqgja+lk6ujlKynnLCqnbGqnbCqn7qxnbqxnr6ynL2znsKylQAAACH5BAAAAAAALAAAAAADAAUAAAQLMDFEwihALKdMOxEAOw==",
+        "width": 1252,
+        "height": 2250,
+        "alt_text": "A work made of silk."
+    },
+    "main_reference_number": "1965.764",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1900,
+    "date_display": "c. 1885/90",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Manufactured by William Strange & Company\nUnited States, New Jersey",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Silk",
+    "inscriptions": null,
+    "credit_line": "Gift of Martha Michalek",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.9563,
+    "color": {
+        "h": 37,
+        "l": 51,
+        "s": 42,
+        "percentage": 0.0004697978694666619,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 113807,
+    "artist_title": "William Strange & Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        113807
+    ],
+    "artist_titles": [
+        "William Strange & Company"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "propaganda",
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-8731",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8731"
+    ],
+    "subject_titles": [
+        "propaganda"
+    ],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "40da6ade-bd01-4907-e4b8-b2977285b8cb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1965.764"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Commemorative Ribbon"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:53-05:00",
+    "updated_at": "2023-04-10T15:29:02-05:00",
+    "timestamp": "2023-09-24T00:30:55-05:00"
+}

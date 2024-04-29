@@ -1,0 +1,177 @@
+{
+    "id": 82792,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/82792",
+    "is_boosted": false,
+    "title": "Actors",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALKpiL+zjbyzkr+1kL+0kb21lL+2lcGyicG1jsK4lcS6lsW9m8m/nMzDoM3DoAAAACH5BAAAAAAALAAAAAADAAUAAAQLMA2zinCNKUACOhEAOw==",
+        "width": 2110,
+        "height": 3000,
+        "alt_text": "A work made of graphite on ivory wove paper."
+    },
+    "main_reference_number": "1922.1168",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1802,
+    "date_end": 1842,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "John Sell Cotman\nEnglish, 1782-1842",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "5.7 \u00d7 3.9 cm (2 1/4 \u00d7 1 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 3.9,
+            "width_in": 1.5355,
+            "height_cm": 5.7,
+            "height_in": 2.2441,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.131,
+    "color": {
+        "h": 45,
+        "l": 47,
+        "s": 63,
+        "percentage": 0.004155301422597122,
+        "population": 42
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34044,
+    "artist_title": "John Sell Cotman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34044
+    ],
+    "artist_titles": [
+        "John Sell Cotman"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "edded691-39d8-8f7d-80d4-82637e42c6e9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.1168"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Actors"
+            ],
+            "weight": 48,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:02-05:00",
+    "updated_at": "2023-04-10T12:18:53-05:00",
+    "timestamp": "2023-09-24T00:56:05-05:00"
+}

@@ -1,0 +1,177 @@
+{
+    "id": 237843,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/237843",
+    "is_boosted": false,
+    "title": "J\u00e4\u00e4vuoret (Icebergs)",
+    "alt_titles": [],
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAD6Xe2CdeA6YnDiYhz6anRSXoSuZvz+csEeajlCYhFGfhEWdlFWdnl+fmnOekgAAACH5BAAAAAAALAAAAAADAAUAAAQL8AwXCjEgKcHaQhEAOw==",
+        "width": 1234,
+        "height": 2250,
+        "alt_text": "A work made of cotton, printed."
+    },
+    "main_reference_number": "2016.549",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1983,
+    "date_end": 1983,
+    "date_display": "1983",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Designed by Fujiwo Ishimoto\nProduced by Marimekko\nFinland",
+    "place_of_origin": "Finland",
+    "description": null,
+    "dimensions": "280.9 \u00d7 144.3 cm (110 1/2 \u00d7 56 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 144.3,
+            "width_in": 56.75,
+            "height_cm": 280.9,
+            "height_in": 110.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Jeff Wonderland",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Everything",
+    "internal_department_id": 4,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 126.235,
+    "color": {
+        "h": 200,
+        "l": 38,
+        "s": 98,
+        "percentage": 0.27915606421592803,
+        "population": 3617
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35605,
+    "artist_title": "Marimekko Oy",
+    "alt_artist_ids": [
+        109870
+    ],
+    "artist_ids": [
+        35605,
+        109870
+    ],
+    "artist_titles": [
+        "Marimekko Oy",
+        "Fujiwo Ishimoto"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "printing",
+        "cotton (textile)",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2578",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2578"
+    ],
+    "material_titles": [
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-3861",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "6bbeacf3-182c-3f20-1685-055ebe71090d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.549"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "J\u00e4\u00e4vuoret (Icebergs)"
+            ],
+            "weight": 42,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:00:39-05:00",
+    "timestamp": "2023-09-24T01:52:27-05:00"
+}

@@ -1,0 +1,174 @@
+{
+    "id": 212966,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/212966",
+    "is_boosted": false,
+    "title": "General",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAB0dIYZ3bpB5eIqAe359gYOFh5OUmb24vMLDxNDRz8zR187S1tbc3eXw9PH6+wAAACH5BAAAAAAALAAAAAADAAUAAAQLMJSREHOnLaEMIBEAOw==",
+        "width": 1500,
+        "height": 2250,
+        "alt_text": "A work made of aluminum, with shirt."
+    },
+    "main_reference_number": "2011.791",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2011,
+    "date_end": 2011,
+    "date_display": "2011",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Thomas Schutte\nGerman, born 1954",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "Sculpture: 49 \u00d7 25 cm (19 1/4 \u00d7 9 3/4 in.); Vitrine: 203 \u00d7 40 cm (80 \u00d7 15 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25,
+            "width_in": 9.75,
+            "height_cm": 49,
+            "height_in": 19.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sculpture"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40,
+            "width_in": 15.75,
+            "height_cm": 203,
+            "height_in": 80,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Vitrine"
+        }
+    ],
+    "medium_display": "Aluminum, with shirt",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Thomas Sch\u00fctte / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.5442,
+    "color": {
+        "h": 176,
+        "l": 36,
+        "s": 74,
+        "percentage": 0.004313598619648442,
+        "population": 46
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 57563,
+    "artist_title": "Thomas Sch\u00fctte",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        57563
+    ],
+    "artist_titles": [
+        "Thomas Sch\u00fctte"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "21st Century"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f3765cb7-027f-ecff-e097-3241dac85ca7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2011.791"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "General"
+            ],
+            "weight": 424,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:27-05:00",
+    "updated_at": "2023-04-07T15:31:07-05:00",
+    "timestamp": "2023-09-24T01:43:50-05:00"
+}

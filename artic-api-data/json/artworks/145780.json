@@ -1,0 +1,155 @@
+{
+    "id": 145780,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145780",
+    "is_boosted": false,
+    "title": "Sample (Up 103 A #1)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAC9ufjRvfjlwfzRygTh0gjp0gzt3hEF1hEB2hGKDjmSEjWSFjWiEj2mJk2yLlm2MlnCIknGMlHKMlHiPlnmOl4GRloWSmIGUmo2ZngAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoCVNSQUFAqBQyEEsjFEM0eU0DxYCADs=",
+        "width": 2375,
+        "height": 2250,
+        "alt_text": "A work made of rayon, cotton, and metallic foil encased in polyester film, broken twill weave."
+    },
+    "main_reference_number": "1987.257.107",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1947,
+    "date_end": 1962,
+    "date_display": "1947/62",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Robert D. Sailors (American, 1913\u20131995)\nUnited States, Michigan, Bitely",
+    "place_of_origin": "Michigan",
+    "description": null,
+    "dimensions": "15.5 \u00d7 15.8 cm (6 \u00d7 6 1/4 in.)\nWidth repeat: 1.6 cm (5/8 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Rayon, cotton, and metallic foil encased in polyester film, broken twill weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert D. Sailors",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.6134,
+    "color": {
+        "h": 177,
+        "l": 50,
+        "s": 61,
+        "percentage": 0.0026723796204330148,
+        "population": 18
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 36516,
+    "artist_title": "Robert D. Sailors",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36516
+    ],
+    "artist_titles": [
+        "Robert D. Sailors"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Textiles",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "187deb65-99d9-4406-f044-06830b274dce",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.257.107"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Up 103 A #1)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:31-05:00",
+    "updated_at": "2023-04-10T15:21:41-05:00",
+    "timestamp": "2023-09-24T01:25:14-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 45014,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45014",
+    "is_boosted": false,
+    "title": "Balustrade from the Paris Metro",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKGQba6dd7alf7Gmjr62o723qrq1rMe8pMC5qsS8rMTBvszKxc7MxtPRytfWzdLR0NTW19fW1tjX0tvb09na2dzc2t7f3uPj4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYFRNTpMIR0AUADIYysJIj3VZFBQCADs=",
+        "width": 2475,
+        "height": 2250,
+        "alt_text": "A work made of cast and painted iron."
+    },
+    "main_reference_number": "1973.383",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1905,
+    "date_display": "c. 1900",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hector Guimard\nFrench, 1867-1942\nParis, France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "48.3 \u00d7 88.9 \u00d7 10.2 cm (19 \u00d7 35 \u00d7 4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.2,
+            "depth_in": 4,
+            "width_cm": 88.9,
+            "width_in": 35,
+            "height_cm": 48.3,
+            "height_in": 19,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cast and painted iron",
+    "inscriptions": null,
+    "credit_line": "Purchased from: Lillian Nassau, Inc., New York; puchased with funds provided by Bessie Bennett",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.4766,
+    "color": {
+        "h": 40,
+        "l": 49,
+        "s": 35,
+        "percentage": 0.005413088228698338,
+        "population": 35
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 10467,
+    "artist_title": "Hector Guimard",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        10467
+    ],
+    "artist_titles": [
+        "Hector Guimard"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "cast iron",
+        "iron",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-31",
+    "classification_title": "iron",
+    "alt_classification_ids": [
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-31",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "iron",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2679",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2679"
+    ],
+    "material_titles": [
+        "cast iron"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5e01af7c-033a-f1be-4d16-335c51283670",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.383"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Balustrade from the Paris Metro"
+            ],
+            "weight": 60,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:54:06-05:00",
+    "timestamp": "2023-09-24T00:39:49-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 119650,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/119650",
+    "is_boosted": false,
+    "title": "Medal",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAEJCQUFDRENFRkZISUxNTX5/gH6AgX+Bg4OFh83P0NLT09PT1NPT1e7u7u/v7+3v8O7v8O/w8PDw8PHw8fHx8fPy8vT09fb29gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoNQoUuUcATIxAyEskAEUlPUk0RUCADs=",
+        "width": 2250,
+        "height": 2250,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1992.513",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1700,
+    "date_end": 1799,
+    "date_display": "18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "European",
+    "place_of_origin": "Europe",
+    "description": null,
+    "dimensions": "Diam.: 6.5 cm (2 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 6.5,
+            "diameter_in": 2.5625,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": null,
+    "credit_line": "Gift of Marilynn B. Alsdorf",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.5495,
+    "color": {
+        "h": 186,
+        "l": 50,
+        "s": 7,
+        "percentage": 0.004221493311043848,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Medals",
+    "artwork_type_id": 44,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "jewelry",
+        "european decorative arts",
+        "medal"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-115",
+    "classification_title": "jewelry",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-120"
+    ],
+    "classification_ids": [
+        "TM-115",
+        "TM-1394",
+        "TM-120"
+    ],
+    "classification_titles": [
+        "jewelry",
+        "european decorative arts",
+        "medal"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cdc94818-2403-9a9d-5832-c5702a14b035",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.513"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Medal"
+            ],
+            "weight": 74,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:10-05:00",
+    "updated_at": "2023-04-10T10:56:20-05:00",
+    "timestamp": "2023-09-24T01:13:09-05:00"
+}

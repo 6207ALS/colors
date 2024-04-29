@@ -1,0 +1,181 @@
+{
+    "id": 244408,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/244408",
+    "is_boosted": false,
+    "title": "Goose",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIJ4ZYp+aZ2QdZ+Rd6WXea6fgLeoh7mph7qph7yriL+vi8OuisOxi8Wzj8e1jwAAACH5BAAAAAAALAAAAAADAAUAAAQLsA1kQFqBOUHUKREAOw==",
+        "width": 3471,
+        "height": 5649,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "2018.129",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "Undated",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wang Fangyu \nChinese (1913-1997)",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "91.4 \u00d7 57.2 cm (36 \u00d7 22 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 57.2,
+            "width_in": 22.5,
+            "height_cm": 91.4,
+            "height_in": 36,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Shao F. and Cheryl L. Wang",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.6434,
+    "color": {
+        "h": 9,
+        "l": 43,
+        "s": 77,
+        "percentage": 0.00043230306866010254,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 116019,
+    "artist_title": "Wang Fangyu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        116019
+    ],
+    "artist_titles": [
+        "Wang Fangyu"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "ink on paper",
+        "ink",
+        "painting",
+        "paper (fiber product)",
+        "asian art",
+        "ink on paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-731",
+    "classification_title": "ink on paper",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-731",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "ink on paper",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-2982",
+        "TM-13951"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-2982",
+        "TM-13951"
+    ],
+    "material_titles": [
+        "ink",
+        "paper (fiber product)",
+        "ink on paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8f21b52f-366f-3dff-f138-b55819a30857",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.129"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Goose"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:35-05:00",
+    "updated_at": "2023-04-07T14:51:46-05:00",
+    "timestamp": "2023-09-24T01:54:28-05:00"
+}

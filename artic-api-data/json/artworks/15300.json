@@ -1,0 +1,178 @@
+{
+    "id": 15300,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/15300",
+    "is_boosted": false,
+    "title": "Italian Peasants Resting",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABwcHRwdHSAfHyAgHxweIR4gIiQkIyIjJSIkJiYlJSwqJy0vMTk7PVRMQV5TRXNhTH5pTnpoUF9gYXhzbHFxcYp1WIB3a4R5a5CBb6mJYKuMZa2SbbaYcAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AAoSiAYRRURyeFsXIMsj5ZBjGRh10SFADs=",
+        "width": 7240,
+        "height": 5792,
+        "alt_text": "A work made of terracotta."
+    },
+    "main_reference_number": "1962.821",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1832,
+    "date_end": 1832,
+    "date_display": "1832",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bartolomeo Pinelli\nItalian, 1781-1835",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "H. 31.1 cm (12.25 in.); W. 31.75 (12.5 in.); D. 26 cm (10.25 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Terracotta",
+    "inscriptions": null,
+    "credit_line": "Harriott A. Fox Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1963,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.2048,
+    "color": {
+        "h": 0,
+        "l": 51,
+        "s": 0,
+        "percentage": 0.07479997606400766,
+        "population": 425
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 40746,
+    "artist_title": "Bartolomeo Pinelli",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40746
+    ],
+    "artist_titles": [
+        "Bartolomeo Pinelli"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "statuette",
+        "terracotta",
+        "sculpting",
+        "19th century",
+        "peasants",
+        "inorganic material",
+        "sculpture"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-114",
+    "classification_title": "statuette",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-114",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "statuette",
+        "sculpture"
+    ],
+    "subject_id": "TM-9129",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9129"
+    ],
+    "subject_titles": [
+        "peasants"
+    ],
+    "material_id": "TM-2433",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2433",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "terracotta",
+        "inorganic material"
+    ],
+    "technique_id": "TM-12999",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-12999"
+    ],
+    "technique_titles": [
+        "sculpting"
+    ],
+    "theme_titles": [],
+    "image_id": "61662907-f598-3b2c-6910-2d9c2fd807b3",
+    "alt_image_ids": [
+        "e9fc189a-89dc-b6ab-a7fa-90a150f4fc65"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.821"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Italian Peasants Resting"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-07-12T13:00:40-05:00",
+    "updated_at": "2023-04-10T15:08:13-05:00",
+    "timestamp": "2023-09-24T00:26:36-05:00"
+}

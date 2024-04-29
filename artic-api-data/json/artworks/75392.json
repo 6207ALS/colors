@@ -1,0 +1,167 @@
+{
+    "id": 75392,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/75392",
+    "is_boosted": false,
+    "title": "Family in a Room",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAB4eHiEhISYmJikpKS0tLTAwMDMzMzs7Oz09PT8/P0VFRUZGRlBQUFFRUVJSUlNTU1lZWVpaWmpqamtra21tbW9vb3Z2dn19fYGBgYSEhJGRkQAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUYYDRZVQFQWtYwRHJhjvQQToUoUHAshjCEADs=",
+        "width": 2923,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1951.205",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1760,
+    "date_end": 1770,
+    "date_display": "c. 1765",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "British",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "71.1 \u00d7 91.1 cm (28 \u00d7 35 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 91.1,
+            "width_in": 35.875,
+            "height_cm": 71.1,
+            "height_in": 28,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), p. 487.\n\nMalcolm Warner, in Susan Wise and Malcolm Warner, French and British Paintings from 1600 to 1800 in The Art Institute of Chicago (Chicago, 1996), pp. 194\u201396.",
+    "exhibition_history": "Hartford, Connecticut, Wadsworth Atheneum, Pictures within Pictures, November 9\u2013December 31, 1949, no. 50; traveled to Andover, Massachusetts, Addison Gallery of American Art, January 16\u2013February 12, 1950.",
+    "provenance_text": "Leggatt Brothers, London, by 1927, as by Zoffany [according to the mount of a photograph in the Witt Library, London]. Emily Crane Chadbourne, by 1932; on loan to the Art Institute, 1932\u201351; given to the Art Institute, 1951.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.15042761288011303,
+        "population": 823
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 37445,
+    "artist_title": "British School",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37445
+    ],
+    "artist_titles": [
+        "British School"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a680713b-f1f9-1fd0-5b77-81d42415db5d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1951.205"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Family in a Room"
+            ],
+            "weight": 354,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:38-05:00",
+    "timestamp": "2023-09-24T00:52:49-05:00"
+}

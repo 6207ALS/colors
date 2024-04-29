@@ -1,0 +1,172 @@
+{
+    "id": 112864,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/112864",
+    "is_boosted": false,
+    "title": "Portrait of Orlando di Lasso",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKmhja6lj6+lj6ukka+plrKrmLSumrWvm7awm7ewnLmxnbmynLqznry0nbm0oMG6ocC5pMO8pMO9p8W+qQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIMcSfAshRAxAwBJhDI5RggAOw==",
+        "width": 2123,
+        "height": 2769,
+        "alt_text": "A work made of graphite on vellum."
+    },
+    "main_reference_number": "1923.992",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1650,
+    "date_end": 1673,
+    "date_display": "1600s",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Probably after Jan Sadeler (Flemish, 1550-1600)\nFormerly attributed to Cornelis Visscher (Dutch, c. 1629-1658)",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": "11.4 \u00d7 8.7 cm (4 1/2 \u00d7 3 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 8.7,
+            "width_in": 3.4252,
+            "height_cm": 11.4,
+            "height_in": 4.4882,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on vellum",
+    "inscriptions": null,
+    "credit_line": "Gift of Horace S. Oakley",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.951,
+    "color": {
+        "h": 40,
+        "l": 51,
+        "s": 14,
+        "percentage": 0.04701822495416801,
+        "population": 436
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 41344,
+    "artist_title": "Daniel de Blieck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41344
+    ],
+    "artist_titles": [
+        "Daniel de Blieck"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2410",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2410"
+    ],
+    "material_titles": [
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "68f36dbd-9073-62e3-9e28-62fa2bc6728c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.992"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Orlando di Lasso"
+            ],
+            "weight": 55,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:11:24-05:00",
+    "timestamp": "2023-09-24T01:10:25-05:00"
+}

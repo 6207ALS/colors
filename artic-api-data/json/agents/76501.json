@@ -1,0 +1,33 @@
+{
+    "id": 76501,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/76501",
+    "title": "Inuit",
+    "sort_title": "Inuit",
+    "alt_titles": [
+        "Canadian Eskimo",
+        "Canadian Eskimo"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Inuit",
+            "Inuit",
+            "Canadian Eskimo",
+            "Canadian Eskimo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-04T10:27:49-06:00",
+    "updated_at": "2020-12-04T10:30:45-06:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

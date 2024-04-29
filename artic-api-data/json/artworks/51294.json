@@ -1,0 +1,177 @@
+{
+    "id": 51294,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/51294",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADURGzcVHzgXIT4dJ0IcJkckLrCVkLeel9K7sta+tNnDuNrEudzFut3IvN/JvODLvuzYyu7aze/bzfLfzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGQckhMASzMQylMIyMQkUQgAOw==",
+        "width": 1789,
+        "height": 2250,
+        "alt_text": "A work made of silk, warp-float faced 4:1 satin weave with supplementary pile warps forming cut voided velvet."
+    },
+    "main_reference_number": "1976.343",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1400,
+    "date_end": 1420,
+    "date_display": "c. 1410",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy, Florence or Lucca",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "38 \u00d7 24.1 cm (15 \u00d7 9 1/2 in.); Repeat: 24.8 \u00d7 20.1 cm (9 3/4 \u00d7 7 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.1,
+            "width_in": 9.5,
+            "height_cm": 38,
+            "height_in": 15,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.1,
+            "width_in": 7.875,
+            "height_cm": 24.8,
+            "height_in": 9.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Silk, warp-float faced 4:1 satin weave with supplementary pile warps forming cut voided velvet",
+    "inscriptions": null,
+    "credit_line": "Grace R. Smith Textile Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.5956,
+    "color": {
+        "h": 0,
+        "l": 39,
+        "s": 24,
+        "percentage": 0.0007833657870587971,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - velvet",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-608"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-608"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - velvet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2b48f8b9-5d79-219f-deb5-0742718d4913",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.343"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-14T15:47:36-05:00",
+    "updated_at": "2023-07-14T15:50:51-05:00",
+    "timestamp": "2023-09-24T00:43:08-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 115933,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/115933",
+    "title": "Jonas Welch Holman",
+    "sort_title": "Holman, Jonas Welch",
+    "alt_titles": [
+        "J.W.  Holman"
+    ],
+    "is_artist": true,
+    "birth_date": 1805,
+    "death_date": 1873,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jonas Welch Holman",
+            "Holman, Jonas Welch",
+            "J.W.  Holman"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:16:05-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

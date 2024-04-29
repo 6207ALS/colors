@@ -1,0 +1,192 @@
+{
+    "id": 104817,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104817",
+    "is_boosted": false,
+    "title": "Objet Trouv\u00e9",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGtpY316b357cYKAdo+MfpCLf5SRgpaRhJqVh6KdjaijkKqkkKqlkqynlK6plq+plrCqlrKsmLWumrewmwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4HQUzwIETDQYDUQIioQkTggAOw==",
+        "width": 2400,
+        "height": 3000,
+        "alt_text": "A work made of platinum/palladium print."
+    },
+    "main_reference_number": "1985.841",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1982,
+    "date_end": 1982,
+    "date_display": "1982",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Barbara Crane\nAmerican, 1928-2019",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 23.4 \u00d7 10.8 cm (9 1/4 \u00d7 4 5/16 in.); Paper: 29.4 \u00d7 23 cm (11 5/8 \u00d7 9 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.8,
+            "width_in": 4.252,
+            "height_cm": 23.4,
+            "height_in": 9.2126,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23,
+            "width_in": 9.0552,
+            "height_cm": 29.4,
+            "height_in": 11.5749,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Platinum/palladium print",
+    "inscriptions": null,
+    "credit_line": "Gift of an Anonymous Donor",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.2469,
+    "color": {
+        "h": 44,
+        "l": 61,
+        "s": 13,
+        "percentage": 0.5538410979131636,
+        "population": 4921
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 34073,
+    "artist_title": "Barbara Crane",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34073
+    ],
+    "artist_titles": [
+        "Barbara Crane"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-12",
+        "PC-825",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Photography and Media",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "palladium print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-604",
+    "classification_title": "palladium print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-604",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "palladium print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "857e96c8-e584-0cfc-33c7-2ba9fdf081f5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.841"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Objet Trouv\u00e9"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:25:10-05:00",
+    "timestamp": "2023-09-24T01:07:29-05:00"
+}

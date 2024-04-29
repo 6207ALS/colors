@@ -1,0 +1,31 @@
+{
+    "id": 27092,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27092",
+    "title": "Howard Van Doren Shaw",
+    "sort_title": "Shaw, Howard Van Doren",
+    "alt_titles": [
+        "Howard van Doren Shaw"
+    ],
+    "is_artist": true,
+    "birth_date": 1869,
+    "death_date": 1926,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Howard Van Doren Shaw",
+            "Shaw, Howard Van Doren",
+            "Howard van Doren Shaw"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:13-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

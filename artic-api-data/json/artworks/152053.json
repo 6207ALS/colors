@@ -1,0 +1,201 @@
+{
+    "id": 152053,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/152053",
+    "is_boosted": false,
+    "title": "Black Light",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJWXlaOkoqusq66uq9fX09zb1+Df2+Hg3OLh3uPj4OPj4efn5Ojp5u3t7AAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMJFVhjkBMZCaUBEAOw==",
+        "width": 1546,
+        "height": 2250,
+        "alt_text": "A work made of brush and black ink and gray wash on ivory wove paper."
+    },
+    "main_reference_number": "1999.284",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1999,
+    "date_end": 1999,
+    "date_display": "1999",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ernesto Neto\nBrazilian, born 1966",
+    "place_of_origin": "Brazil",
+    "description": null,
+    "dimensions": "95.8 \u00d7 65.6 cm (37 3/4 \u00d7 25 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 65.6,
+            "width_in": 25.8268,
+            "height_cm": 95.8,
+            "height_in": 37.7166,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brush and black ink and gray wash on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Marcantonio Vilaca",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.331,
+    "color": {
+        "h": 177,
+        "l": 47,
+        "s": 1,
+        "percentage": 0.012278111800425576,
+        "population": 127
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 63250,
+    "artist_title": "Ernesto Neto",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        63250
+    ],
+    "artist_titles": [
+        "Ernesto Neto"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Latin American"
+    ],
+    "term_titles": [
+        "brush and ink",
+        "paper (fiber product)",
+        "black ink",
+        "colored ink",
+        "ink",
+        "coating (material)",
+        "gray wash",
+        "wash",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1626",
+    "classification_title": "brush and ink",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-1626",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "brush and ink",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2465",
+        "TM-2539",
+        "TM-2398",
+        "TM-3238",
+        "TM-2466",
+        "TM-2399"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2465",
+        "TM-2539",
+        "TM-2398",
+        "TM-3238",
+        "TM-2466",
+        "TM-2399"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "black ink",
+        "colored ink",
+        "ink",
+        "coating (material)",
+        "gray wash",
+        "wash"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "8572b5dc-27da-fdfd-155d-b8e431627b25",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.284"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Black Light"
+            ],
+            "weight": 123,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-08T10:56:04-05:00",
+    "timestamp": "2023-09-24T01:28:29-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 74909,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/74909",
+    "is_boosted": false,
+    "title": "Portrait of Louis Valtat",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALe0ob+8qMTBrsbCscjFtdDMu9DNvN7bzeHd0eLf0uPg1Obj1uvo3ezp3u3q3+/r4e/s4u/t4vHu5PPw5gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIDQ1jBQNyEIIxQEExqMkTggAOw==",
+        "width": 2137,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on ivory japanese paper."
+    },
+    "main_reference_number": "1951.80",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1899,
+    "date_end": 1909,
+    "date_display": "c. 1904",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Pierre Auguste Renoir (French, 1841-1919)\nprinted by Auguste Clot (French, 1858-1936)\npublished by Ambroise Vollard (French, 1835-1939)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 30 \u00d7 24 cm (11 13/16 \u00d7 9 1/2 in.); Sheet: 37.3 \u00d7 26.7 cm (14 11/16 \u00d7 10 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24,
+            "width_in": 9.4489,
+            "height_cm": 30,
+            "height_in": 11.8111,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.7,
+            "width_in": 10.5119,
+            "height_cm": 37.3,
+            "height_in": 14.6851,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on ivory Japanese paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Walter S. Brewster",
+    "catalogue_display": "<p>Delteil 38</p><p>Stella 38</p><p>Roger-Marx 13</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.1907,
+    "color": {
+        "h": 55,
+        "l": 42,
+        "s": 24,
+        "percentage": 0.0025068461969639084,
+        "population": 25
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36351,
+    "artist_title": "Pierre-Auguste Renoir",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36351
+    ],
+    "artist_titles": [
+        "Pierre-Auguste Renoir"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "525cec47-3ca9-db62-945f-ab31baf2b9c4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1951.80"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Louis Valtat"
+            ],
+            "weight": 511,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-09-23T23:27:34-05:00",
+    "timestamp": "2023-09-24T00:52:39-05:00"
+}

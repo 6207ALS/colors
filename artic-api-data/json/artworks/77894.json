@@ -1,0 +1,163 @@
+{
+    "id": 77894,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/77894",
+    "is_boosted": false,
+    "title": "Bedspread (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGVmZ3Nzc46OjY2OjpKTk5KTlJWWl5aWlp2enp+fn5+gn6GhoaWnp6anp6mqqqqrqq2urrO0s7e4t7i4t7e4uLi4uLu8u7q8vLu9vLy+vb2/v8TFxsXGxgAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4PJIAwFhBlAwTaY5yFZRlDVdnHIEQpSEADs=",
+        "width": 5692,
+        "height": 4500,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1952.687",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1975,
+    "date_display": "1925/75",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "190.5 \u00d7 188 cm (75 \u00d7 74 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 188,
+            "width_in": 74,
+            "height_cm": 190.5,
+            "height_in": 75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 1.4929,
+    "color": {
+        "h": 187,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.05859952479169561,
+        "population": 329
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "76818675-efc7-2142-78f4-9bd54c890730",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1952.687"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bedspread (Furnishing Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:44:14-05:00",
+    "timestamp": "2023-09-24T00:53:48-05:00"
+}

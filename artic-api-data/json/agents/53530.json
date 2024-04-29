@@ -1,0 +1,35 @@
+{
+    "id": 53530,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/53530",
+    "title": "Dai Jin",
+    "sort_title": "Dai Jin",
+    "alt_titles": [
+        "Tai Chin",
+        "Y\u00fc-ch'\u00fcan",
+        "Tai Tsin"
+    ],
+    "is_artist": true,
+    "birth_date": 1383,
+    "death_date": 1462,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dai Jin",
+            "Dai Jin",
+            "Tai Chin",
+            "Y\u00fc-ch'\u00fcan",
+            "Tai Tsin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:10-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

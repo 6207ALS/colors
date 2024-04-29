@@ -1,0 +1,48 @@
+{
+    "id": 3853,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3853",
+    "title": "Masterpieces of Religious Art",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1954-07-15T00:00:00-05:00",
+    "aic_end_at": "1954-08-31T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "9e3db4d5-62ed-6f08-71dc-9a2b3f0089b0",
+    "alt_image_ids": [
+        "3b66aca7-3168-b779-dd92-5fc34a9673c7",
+        "e9cfb45e-147d-0040-c6c9-1be87bcadc20",
+        "cacaf114-616f-0f29-3ba8-035716174c0e",
+        "330f5cc8-4478-9a73-a8be-95b01a93db04",
+        "034963f8-996a-6554-ef0a-bfdb9360b9ef",
+        "4eb043f8-8298-60cb-fb36-71573963a8f5",
+        "08413421-ae0e-eef4-1b7c-022760f1176f",
+        "48f18dff-acab-223a-5a61-819765400d00",
+        "22352a58-d139-c313-4864-13f3f4fecea8"
+    ],
+    "document_ids": [
+        "1609b519-0649-d0ea-d1b0-a3c77738fd88"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Masterpieces of Religious Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:52-06:00",
+    "timestamp": "2023-09-24T02:01:16-05:00"
+}

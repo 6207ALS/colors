@@ -1,0 +1,28 @@
+{
+    "id": 57074,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57074",
+    "title": "Nancy Rubins",
+    "sort_title": "Rubins, Nancy",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1952,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nancy Rubins",
+            "Rubins, Nancy"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-12-02T14:42:08-06:00",
+    "updated_at": "2021-12-02T14:45:52-06:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

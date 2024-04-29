@@ -1,0 +1,39 @@
+{
+    "id": 54802,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/54802",
+    "title": "Doulton Pottery and Porcelain Company",
+    "sort_title": "Doulton Pottery and Porcelain Company",
+    "alt_titles": [
+        "Doulton Pottery & Porcelain Co.",
+        "Royal Doulton Co.",
+        "Doulton & Watts",
+        "Royal Doulton Potteries",
+        "Doulton and Company, ltd."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Doulton Pottery and Porcelain Company",
+            "Doulton Pottery and Porcelain Company",
+            "Doulton Pottery & Porcelain Co.",
+            "Royal Doulton Co.",
+            "Doulton & Watts",
+            "Royal Doulton Potteries",
+            "Doulton and Company, ltd."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:27:15-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

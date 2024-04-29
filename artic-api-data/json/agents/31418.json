@@ -1,0 +1,28 @@
+{
+    "id": 31418,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31418",
+    "title": "Hashimoto Kiyoshi",
+    "sort_title": "Hashimoto Kiyoshi",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1930,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hashimoto Kiyoshi",
+            "Hashimoto Kiyoshi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-11-08T11:58:03-06:00",
+    "updated_at": "2022-11-08T12:01:03-06:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

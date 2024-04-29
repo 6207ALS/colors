@@ -1,0 +1,45 @@
+{
+    "id": 41459,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41459",
+    "title": "Otto van Veen",
+    "sort_title": "Veen, Otto van",
+    "alt_titles": [
+        "Otho van Veen",
+        "Octavius van Veen",
+        "Octavius Vaenius",
+        "Otto Vaenius",
+        "Otto Venius",
+        "Otto Vaenius",
+        "Otto Venius",
+        "Octavio Venius"
+    ],
+    "is_artist": true,
+    "birth_date": 1556,
+    "death_date": 1629,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Otto van Veen",
+            "Veen, Otto van",
+            "Otho van Veen",
+            "Octavius van Veen",
+            "Octavius Vaenius",
+            "Otto Vaenius",
+            "Otto Venius",
+            "Otto Vaenius",
+            "Otto Venius",
+            "Octavio Venius"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:05-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

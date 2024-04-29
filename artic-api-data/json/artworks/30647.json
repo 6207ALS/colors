@@ -1,0 +1,163 @@
+{
+    "id": 30647,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/30647",
+    "is_boosted": false,
+    "title": "Saddle Cloth",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFggG1giHmQyLXNAOIZdT4hfT5p+daiFXq6JX5+Cd5mGe6yPfridf5SJgaCSh66ShbSYibmlnMKohsWxogAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYPRAE3MgUkIUixAAg9EoTggAOw==",
+        "width": 512,
+        "height": 652,
+        "alt_text": "A work made of cotton, complementary weft, double faced plain weave, knotted fringe."
+    },
+    "main_reference_number": "1968.765",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1901,
+    "date_end": 1925,
+    "date_display": "1900/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Mexico",
+    "place_of_origin": "Mexico",
+    "description": null,
+    "dimensions": "82 \u00d7 82.7 cm (32 1/4 \u00d7 32 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 82.7,
+            "width_in": 32.5,
+            "height_cm": 82,
+            "height_in": 32.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, complementary weft, double faced plain weave, knotted fringe",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. William C. Bentley in memory of Julia Pines Teller",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1969,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 70.2144,
+    "color": {
+        "h": 7,
+        "l": 35,
+        "s": 74,
+        "percentage": 0.10360267820654707,
+        "population": 938
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Latin American"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "f4275d47-a0c8-c9f1-328d-4d8145973b3d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1968.765"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Saddle Cloth"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:02:35-05:00",
+    "timestamp": "2023-09-24T00:34:04-05:00"
+}

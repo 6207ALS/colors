@@ -1,0 +1,164 @@
+{
+    "id": 126959,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/126959",
+    "is_boosted": false,
+    "title": "Mexican Church",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGNhVomHeJORhqCejqKfkrCun7Kwore2pLi3pbm4p8K+sMTAsMTCssXDssrHudHNvdPQwtrXxuLdzPj05QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NMwSoEkhDEckQAEywQ5UggAOw==",
+        "width": 2366,
+        "height": 3000,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "1943.1754",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1938,
+    "date_end": 1938,
+    "date_display": "1938",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mildred Waltrip (American, 1911-2004)\npublished by the Works Progress Administration",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago, Works Progress Administration Allocation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.0709,
+    "color": {
+        "h": 37,
+        "l": 50,
+        "s": 9,
+        "percentage": 0.023303116958344017,
+        "population": 210
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 44381,
+    "artist_title": "Mildred Waltrip",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44381
+    ],
+    "artist_titles": [
+        "Mildred Waltrip"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "563bd042-7b70-1e69-d0f8-b9b6ad21cd27",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.1754"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mexican Church"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:26-05:00",
+    "updated_at": "2023-04-10T15:23:10-05:00",
+    "timestamp": "2023-09-24T01:17:27-05:00"
+}

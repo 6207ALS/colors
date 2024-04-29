@@ -1,0 +1,31 @@
+{
+    "id": 52508,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52508",
+    "title": "Antoine Fran\u00e7ois Jean Claudet",
+    "sort_title": "Claudet, Antoine Fran\u00e7ois Jean",
+    "alt_titles": [
+        "Antoine F. J. Claudet"
+    ],
+    "is_artist": true,
+    "birth_date": 1797,
+    "death_date": 1867,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antoine Fran\u00e7ois Jean Claudet",
+            "Claudet, Antoine Fran\u00e7ois Jean",
+            "Antoine F. J. Claudet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:04-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

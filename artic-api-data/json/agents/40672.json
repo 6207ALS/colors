@@ -1,0 +1,31 @@
+{
+    "id": 40672,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40672",
+    "title": "L\u00e9on Augustin Lhermitte",
+    "sort_title": "Lhermitte, L\u00e9on Augustin",
+    "alt_titles": [
+        "L\u00e9on A. Lhermitte"
+    ],
+    "is_artist": true,
+    "birth_date": 1844,
+    "death_date": 1925,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "L\u00e9on Augustin Lhermitte",
+            "Lhermitte, L\u00e9on Augustin",
+            "L\u00e9on A. Lhermitte"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:44-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 65172,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65172",
+    "title": "Edwin Lutyens",
+    "sort_title": "Lutyens, Edwin",
+    "alt_titles": [
+        "Edwin Landseer Lutyens",
+        "Sir Edwin Landseer Lutyens"
+    ],
+    "is_artist": true,
+    "birth_date": 1869,
+    "death_date": 1944,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edwin Lutyens",
+            "Lutyens, Edwin",
+            "Edwin Landseer Lutyens",
+            "Sir Edwin Landseer Lutyens"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-12-02T14:42:08-06:00",
+    "updated_at": "2021-12-02T14:45:52-06:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

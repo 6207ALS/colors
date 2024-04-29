@@ -1,0 +1,35 @@
+{
+    "id": 62515,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62515",
+    "title": "Circle of Giovanni Antonio di Francesco Sogliani",
+    "sort_title": "Sogliani, Giovanni Antonio di Francesco, Circle of",
+    "alt_titles": [
+        "Circle of Antonio Giovanni Sogliani",
+        "Circle of Giovannantonio di Francesco Sogliani",
+        "Circle of Giovanni Antonio Sogliani"
+    ],
+    "is_artist": true,
+    "birth_date": 1492,
+    "death_date": 1544,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Giovanni Antonio di Francesco Sogliani",
+            "Sogliani, Giovanni Antonio di Francesco, Circle of",
+            "Circle of Antonio Giovanni Sogliani",
+            "Circle of Giovannantonio di Francesco Sogliani",
+            "Circle of Giovanni Antonio Sogliani"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:37-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

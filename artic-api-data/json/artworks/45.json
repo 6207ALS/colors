@@ -1,0 +1,180 @@
+{
+    "id": 45,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45",
+    "is_boosted": false,
+    "title": "The Battle of Cascina",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "1887.341",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1808,
+    "date_end": 1808,
+    "date_display": "1808",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Luigi Schiavonetti (Italian, 1765-1810)\nafter Michelangelo Buonarroti (Italian, 1475-1564)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "Image: 22.2 \u00d7 37 cm (8 3/4 \u00d7 14 5/8 in.); Plate: 34 \u00d7 50.5 cm (13 7/16 \u00d7 19 15/16 in.); Sheet: 37 \u00d7 52 cm (14 5/8 \u00d7 20 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37,
+            "width_in": 14.567,
+            "height_cm": 22.2,
+            "height_in": 8.7402,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.5,
+            "width_in": 19.8819,
+            "height_cm": 34,
+            "height_in": 13.3859,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52,
+            "width_in": 20.4725,
+            "height_cm": 37,
+            "height_in": 14.567,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving in black on chine coll\u00e9 on paper",
+    "inscriptions": null,
+    "credit_line": "Elizabeth Hammond Stickney Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 23131,
+    "artist_title": "Luigi Schiavonetti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        23131
+    ],
+    "artist_titles": [
+        "Luigi Schiavonetti"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.341"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Battle of Cascina"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2023-04-10T15:06:30-05:00",
+    "timestamp": "2023-09-24T00:20:42-05:00"
+}

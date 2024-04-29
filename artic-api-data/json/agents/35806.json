@@ -1,0 +1,31 @@
+{
+    "id": 35806,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35806",
+    "title": "Pier Francesco Mola",
+    "sort_title": "Mola, Pier Francesco",
+    "alt_titles": [
+        "Pier F. Mola"
+    ],
+    "is_artist": true,
+    "birth_date": 1612,
+    "death_date": 1666,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pier Francesco Mola",
+            "Mola, Pier Francesco",
+            "Pier F. Mola"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:56:14-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 31744,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31744",
+    "title": "Erik Kollin",
+    "sort_title": "Kollin, Erik",
+    "alt_titles": [
+        "\u042d\u0440\u0438\u043a \u0410\u0432\u0433\u0443\u0441\u0442 \u041a\u043e\u043b\u043b\u0438\u043d",
+        "Erik Avgust Kollin"
+    ],
+    "is_artist": true,
+    "birth_date": 1836,
+    "death_date": 1901,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Erik Kollin",
+            "Kollin, Erik",
+            "\u042d\u0440\u0438\u043a \u0410\u0432\u0433\u0443\u0441\u0442 \u041a\u043e\u043b\u043b\u0438\u043d",
+            "Erik Avgust Kollin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:07:24-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

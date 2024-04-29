@@ -1,0 +1,33 @@
+{
+    "id": 37456,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37456",
+    "title": "Beauford Delaney",
+    "sort_title": "Delaney, Beauford",
+    "alt_titles": [
+        "Beauford de Laney",
+        "Beauford De Laney"
+    ],
+    "is_artist": true,
+    "birth_date": 1901,
+    "death_date": 1979,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Beauford Delaney",
+            "Delaney, Beauford",
+            "Beauford de Laney",
+            "Beauford De Laney"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-03-12T15:09:26-05:00",
+    "updated_at": "2022-03-15T16:31:06-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

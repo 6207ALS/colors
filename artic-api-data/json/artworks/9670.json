@@ -1,0 +1,172 @@
+{
+    "id": 9670,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/9670",
+    "is_boosted": false,
+    "title": "Bowl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACEhIiYmJy0uLjMzNDc3Nzs7O0FBQUNDQ0RFRUlISFZXWVtcXXR3fIeHh4iHh4+Rl5CSlpeXl5qampycm5ycnJmcoJ2foZ6go7GztLu8vtLS0tLT09nZ2dra2gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4FAEACEgzFNZR6JA12JEktNMFKdh2daFADs=",
+        "width": 2601,
+        "height": 2250,
+        "alt_text": "Flat-cut glass bowl with moulded rim and modest etching decorations on a short baluster stem with lobed stand."
+    },
+    "main_reference_number": "1931.728",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1795,
+    "date_end": 1805,
+    "date_display": "c. 1800",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ireland",
+    "place_of_origin": "Ireland",
+    "description": null,
+    "dimensions": "27.7 \u00d7 33.7 \u00d7 20.4 cm (10 7/8 \u00d7 13 1/4 \u00d7 8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 20.4,
+            "depth_in": 8,
+            "width_cm": 33.7,
+            "width_in": 13.25,
+            "height_cm": 27.7,
+            "height_in": 10.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Allerton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1932,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.3845,
+    "color": {
+        "h": 215,
+        "l": 50,
+        "s": 6,
+        "percentage": 0.021937308048554576,
+        "population": 135
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "bowl",
+        "glass",
+        "glass",
+        "dish (vessel)",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11712",
+    "classification_title": "bowl",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-11783",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11712",
+        "TM-85",
+        "TM-11783",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "bowl",
+        "glass",
+        "dish (vessel)",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d9cfac50-e965-9dc2-ff1c-4aa5e3d6280d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1931.728"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bowl"
+            ],
+            "weight": 10,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T10:01:27-05:00",
+    "timestamp": "2023-09-24T00:24:17-05:00"
+}

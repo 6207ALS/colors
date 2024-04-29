@@ -1,0 +1,185 @@
+{
+    "id": 9544,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/9544",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFtVTYuDeo+GepKKgJaNgZ6ViKacj6yjmb20psa9rdDGt9nPwNvSxd7Ux+jezgAAACH5BAAAAAAALAAAAAADAAUAAAQLsB0WwDCCoJKWchEAOw==",
+        "width": 2090,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on off-white china paper, laid down on cream wove paper."
+    },
+    "main_reference_number": "1923.1086",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1830,
+    "date_end": 1840,
+    "date_display": "c. 1835",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Achille Dev\u00e9ria\nFrench, 1800-1857",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image/sheet, platemark trimmed within primary support: 41.9 \u00d7 30.8 cm (16 1/2 \u00d7 12 3/16 in.); Secondary support: 44.7 \u00d7 31 cm (17 5/8 \u00d7 12 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30.8,
+            "width_in": 12.126,
+            "height_cm": 41.9,
+            "height_in": 16.4961,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/sheet, platemark trimmed within primary support"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 31,
+            "width_in": 12.2048,
+            "height_cm": 44.7,
+            "height_in": 17.5985,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Secondary support"
+        }
+    ],
+    "medium_display": "Lithograph in black on off-white China paper, laid down on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Print and Drawing Club",
+    "catalogue_display": "<p>Beraldi 1</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1924,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.5007,
+    "color": {
+        "h": 44,
+        "l": 43,
+        "s": 7,
+        "percentage": 0.02107781143691852,
+        "population": 215
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34247,
+    "artist_title": "Achille Dev\u00e9ria",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34247
+    ],
+    "artist_titles": [
+        "Achille Dev\u00e9ria"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1266d7aa-3007-9fd4-da2e-199bae9fff8a",
+    "alt_image_ids": [
+        "f88a543c-4535-def2-6f3e-a972594da8f5"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.1086"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 106,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:50:59-05:00",
+    "timestamp": "2023-09-24T00:24:13-05:00"
+}

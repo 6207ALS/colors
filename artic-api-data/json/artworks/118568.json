@@ -1,0 +1,171 @@
+{
+    "id": 118568,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/118568",
+    "is_boosted": false,
+    "title": "The Tin Hat",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQRAC8vLzExMUZGRmBgYGFhYW1tbW9vb3FxcYODg7CwsL6+vtbW1unp6erq6uvr6+zs7Pb29v///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURoCMITBIAyjIUT3QgUUMYUAgAOw==",
+        "width": 610,
+        "height": 768,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1990.408",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1911,
+    "date_end": 1921,
+    "date_display": "c. 1916",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jacob Epstein\nEnglish, 1880-1959",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "59.7 \u00d7 30.5 \u00d7 28 cm (23 1/2 \u00d7 12 \u00d7 11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 28,
+            "depth_in": 11,
+            "width_cm": 30.5,
+            "width_in": 12,
+            "height_cm": 59.7,
+            "height_in": 23.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": "none",
+    "credit_line": "George F. Harding Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Wheaton, Illinois, Cantigny First Division Museum, Deadly Vision: Images of War in the Twentieth Century, March 1\u2013November 25, 1995.",
+    "provenance_text": "George F. Harding, Chicago, by 1990.  Gift to Art Institute, 1990.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.05411309861217791,
+        "population": 484
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 40567,
+    "artist_title": "Jacob Epstein",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40567
+    ],
+    "artist_titles": [
+        "Jacob Epstein"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "495b0be3-f70a-05ec-6cba-0973d45b820f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.408"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Tin Hat"
+            ],
+            "weight": 704,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:09-05:00",
+    "updated_at": "2023-04-10T10:59:05-05:00",
+    "timestamp": "2023-09-24T01:12:34-05:00"
+}

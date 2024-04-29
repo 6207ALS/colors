@@ -1,0 +1,195 @@
+{
+    "id": 31744,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/31744",
+    "is_boosted": false,
+    "title": "Head of a Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMK0mMq8oM/Ao9LCptPDptHEptLEp9PGqdTEqNbGqdbIq9fJrNjIrNnJrNrLrdnKrtrMrtrMr9vMr9zNrwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4GAcERIUCwMoTyI4E9FAUggAOw==",
+        "width": 1761,
+        "height": 2250,
+        "alt_text": "A work made of graphite, with smudging and touches of white chalk, on cream tracing paper."
+    },
+    "main_reference_number": "1969.307",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1891,
+    "date_end": 1969,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "John D. Graham\nAmerican, born Russia (now Ukraine), 1886\u20131961",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "59.5 \u00d7 46.5 cm (23 7/16 \u00d7 18 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 46.5,
+            "width_in": 18.3071,
+            "height_cm": 59.5,
+            "height_in": 23.4252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite, with smudging and touches of white chalk, on cream tracing paper",
+    "inscriptions": null,
+    "credit_line": "Harold Joachim Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.783,
+    "color": {
+        "h": 42,
+        "l": 50,
+        "s": 15,
+        "percentage": 0.003304288636220951,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34724,
+    "artist_title": "John Graham",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34724
+    ],
+    "artist_titles": [
+        "John Graham"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "smudging",
+        "paper (fiber product)",
+        "graphite",
+        "white chalk",
+        "chalk sticks",
+        "drawing techniques",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410",
+        "TM-2416",
+        "TM-2413"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410",
+        "TM-2416",
+        "TM-2413"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite",
+        "white chalk",
+        "chalk sticks"
+    ],
+    "technique_id": "TM-3858",
+    "alt_technique_ids": [
+        "TM-3968"
+    ],
+    "technique_ids": [
+        "TM-3858",
+        "TM-3968"
+    ],
+    "technique_titles": [
+        "smudging",
+        "drawing techniques"
+    ],
+    "theme_titles": [],
+    "image_id": "29b10f3c-b9fd-27e8-89fa-c3b74eb25270",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1969.307"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Head of a Woman"
+            ],
+            "weight": 319,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-18T15:20:28-05:00",
+    "updated_at": "2023-04-07T14:23:00-05:00",
+    "timestamp": "2023-09-24T00:34:31-05:00"
+}

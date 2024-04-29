@@ -1,0 +1,35 @@
+{
+    "id": 14978,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14978",
+    "title": "Edward Lear",
+    "sort_title": "Lear, Edward",
+    "alt_titles": [
+        "Derry Down Derry",
+        "Edu'ard Lir",
+        "Eduard Liri"
+    ],
+    "is_artist": true,
+    "birth_date": 1812,
+    "death_date": 1888,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edward Lear",
+            "Lear, Edward",
+            "Derry Down Derry",
+            "Edu'ard Lir",
+            "Eduard Liri"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:01-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

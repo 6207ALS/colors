@@ -1,0 +1,168 @@
+{
+    "id": 198682,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/198682",
+    "is_boosted": false,
+    "title": "Dawn (Reimei)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJBiTLVrTLxxTal3WZ9tZZl2Y8V5SpOJh5aNj6+UlqGnrLm5ub+/v8GvscCysr7Cw8/DxMDDyMzMzNLKzNHR0dTX19HW2dna2tnb3dzb3N3h4d/h4OLl5ePl5enp6Ojp6e7u7e3w8O/x8QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEZlw9FIFhTHBJLIXDAEgSHQCIkOgEEB8QE9FBFLxxMEADs=",
+        "width": 2997,
+        "height": 2250,
+        "alt_text": "A work made of bamboo."
+    },
+    "main_reference_number": "2009.80",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1978,
+    "date_end": 1988,
+    "date_display": "1983",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fujinuma Noboru\nJapanese, born 1945",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "15 \u00d7 55 \u00d7 55 cm (5 7/8 \u00d7 21 5/8 \u00d7 21 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 55,
+            "depth_in": 21.625,
+            "width_cm": 55,
+            "width_in": 21.625,
+            "height_cm": 15,
+            "height_in": 5.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bamboo",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Noboru Fujinuma.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 42.0628,
+    "color": {
+        "h": 4,
+        "l": 49,
+        "s": 20,
+        "percentage": 0.03054613872444572,
+        "population": 163
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 105357,
+    "artist_title": "Fujinuma Noboru",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        105357
+    ],
+    "artist_titles": [
+        "Fujinuma Noboru"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "bamboo",
+        "decorative arts",
+        "Japanese (culture or style)"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-1678",
+    "classification_title": "decorative arts",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3517",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3517"
+    ],
+    "material_titles": [
+        "bamboo"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3e1512ed-38db-57f4-d125-5abab1d494fd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.80"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dawn (Reimei)"
+            ],
+            "weight": 125,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:53:05-05:00",
+    "timestamp": "2023-09-24T01:39:23-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 26999,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/26999",
+    "is_boosted": false,
+    "title": "Landscape with a Church and Covered Bridge",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIJ2ZYF2ZoF3Z4Z7aouAboqAb4yAb42CcpSJd5iLeZuPfaCUgaaaiKqei66ikK+jkbCjkbCkk7KnlbWpmLaqmLesmryvnL6zosa6p8u/rdDDsdHFs97TwuDVxAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYHVxHaU8krZlEeQ0FjYZAgEswYAUCXOEADs=",
+        "width": 3000,
+        "height": 2456,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1938.120",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1545,
+    "date_end": 1545,
+    "date_display": "1545",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Augustin Hirschvogel\nGerman, 1503-1553",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "15.2 \u00d7 18.5 cm (6 \u00d7 7 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.5,
+            "width_in": 7.2835,
+            "height_cm": 15.2,
+            "height_in": 5.9843,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "Clarence Buckingham Collection",
+    "catalogue_display": "<p>Schwarz 68</p><p>Bartsch 68</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.1895,
+    "color": {
+        "h": 39,
+        "l": 56,
+        "s": 12,
+        "percentage": 0.05209139202640672,
+        "population": 303
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 11694,
+    "artist_title": "Augustin Hirschvogel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        11694
+    ],
+    "artist_titles": [
+        "Augustin Hirschvogel"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "49f885fb-67d9-6bf2-8099-3af25f66c18b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.120"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Landscape with a Church and Covered Bridge"
+            ],
+            "weight": 329,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-28T15:12:19-05:00",
+    "updated_at": "2023-04-07T14:19:58-05:00",
+    "timestamp": "2023-09-24T00:32:21-05:00"
+}

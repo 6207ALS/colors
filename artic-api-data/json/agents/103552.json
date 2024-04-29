@@ -1,0 +1,33 @@
+{
+    "id": 103552,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/103552",
+    "title": "Tang Haiwen",
+    "sort_title": "Tang Haiwen",
+    "alt_titles": [
+        "T'anf Thien",
+        "T'ang Haywen"
+    ],
+    "is_artist": true,
+    "birth_date": 1929,
+    "death_date": 1991,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tang Haiwen",
+            "Tang Haiwen",
+            "T'anf Thien",
+            "T'ang Haywen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:20:56-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

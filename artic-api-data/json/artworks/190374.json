@@ -1,0 +1,169 @@
+{
+    "id": 190374,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/190374",
+    "is_boosted": false,
+    "title": "Krach",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFE8InNPEG1cHVpOI2ZILX1VJnlxXI1fGq+fWI+FbZ+HbJaJb6WLYaeUarCYba+fhLqrjLurjLyvj7iwlMCxmcS3m8C8osS9osG+pgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoLQ81hQRBYQpgXAwFDIAjVMZyRUCADs=",
+        "width": 2210,
+        "height": 2250,
+        "alt_text": "A work made of papier-m\u00e2ch\u00e9, acrylic, gouache, plastic."
+    },
+    "main_reference_number": "2007.358",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1987,
+    "date_end": 1987,
+    "date_display": "1987",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Franz West (with Herbert Brandl)\nAustrian, 1947\u20132012",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "118 \u00d7 128 \u00d7 40 cm (46 1/2 \u00d7 50 1/2 \u00d7 15 3/4 in.); Pedestal: 80 \u00d7 60 \u00d7 60 cm (31 1/2 \u00d7 23 3/4 \u00d7 23 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 40,
+            "depth_in": 15.75,
+            "width_cm": 128,
+            "width_in": 50.5,
+            "height_cm": 118,
+            "height_in": 46.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 60,
+            "depth_in": 23.75,
+            "width_cm": 60,
+            "width_in": 23.75,
+            "height_cm": 80,
+            "height_in": 31.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Pedestal"
+        }
+    ],
+    "medium_display": "Papier-m\u00e2ch\u00e9, acrylic, gouache, plastic",
+    "inscriptions": null,
+    "credit_line": "Through prior gift of Joseph Winterbotham; Claire and Gordon Prussian Fund for Contemporary Art; through prior gifts of Leo S. Guthman, Florence S. McCormick, and Mary and Leigh Block; purchased with funds provided by Martin Friedman and Peggy Casey-Friedman; Marlene and Robert Baumgarten and Oscar L. Gerber Memorial endowment funds; purchased with funds provided by Betty and Edward Harris and David Egeland and Andrew Friedman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.2093,
+    "color": {
+        "h": 45,
+        "l": 46,
+        "s": 65,
+        "percentage": 0.007604100130790522,
+        "population": 55
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 60267,
+    "artist_title": "Franz West",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        60267
+    ],
+    "artist_titles": [
+        "Franz West"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b5521175-2da5-0d42-c2e6-2e45777b2482",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2007.358"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Krach"
+            ],
+            "weight": 268,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-04-07T16:04:11-05:00",
+    "timestamp": "2023-09-24T01:36:47-05:00"
+}

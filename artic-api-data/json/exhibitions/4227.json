@@ -1,0 +1,38 @@
+{
+    "id": 4227,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4227",
+    "title": "Chicago and Vicinity 66th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1963-04-19T00:00:00-06:00",
+    "aic_end_at": "1963-06-02T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "489e8221-841b-f32b-ebc1-8cedf2eed21c"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 66th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-14T14:11:26-05:00",
+    "updated_at": "2019-10-14T14:16:21-05:00",
+    "timestamp": "2023-09-24T02:01:21-05:00"
+}

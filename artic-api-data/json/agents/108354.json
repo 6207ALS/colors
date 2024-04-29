@@ -1,0 +1,33 @@
+{
+    "id": 108354,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/108354",
+    "title": "James Garrett Faulkner",
+    "sort_title": "Faulkner, James Garrett",
+    "alt_titles": [
+        "James Faulkner",
+        "Jim Faulkner"
+    ],
+    "is_artist": true,
+    "birth_date": 1933,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Garrett Faulkner",
+            "Faulkner, James Garrett",
+            "James Faulkner",
+            "Jim Faulkner"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:19:50-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

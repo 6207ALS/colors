@@ -1,0 +1,167 @@
+{
+    "id": 16242,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16242",
+    "is_boosted": false,
+    "title": "Teahouse Garden",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAI6Ie6aNhreYl7OfmL2jlLSnm72imLupmr6tpsCkk8Wjl8GtlcWomcmqmcupm8GvpsSxpMezpc6yoMuzqNG0rtK4rdO6rNa9r8q4sNe8sNm/tNDBtdTBtNLGttXEudnEuNnEudfKut/SwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQM8DAYlMPhiBYdFwXDaDAyHA0IQABUlCQRF1OJWMBRQEADs=",
+        "width": 3000,
+        "height": 2227,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1962.1143",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Yamaguchi Gen\nJapanese, 1896-1976",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "Image: 43.5 \u00d7 58.7 cm (17 1/8 \u00d7 23 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 58.7,
+            "width_in": 23.125,
+            "height_cm": 43.5,
+            "height_in": 17.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Albert L. Arenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.0597,
+    "color": {
+        "h": 346,
+        "l": 62,
+        "s": 37,
+        "percentage": 0.016107087497489188,
+        "population": 85
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 29187,
+    "artist_title": "Yamaguchi Gen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29187
+    ],
+    "artist_titles": [
+        "Yamaguchi Gen"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4af13755-5b3e-5eda-d58b-8519722ac69a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.1143"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Teahouse Garden"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:37:22-05:00",
+    "timestamp": "2023-09-24T00:26:58-05:00"
+}

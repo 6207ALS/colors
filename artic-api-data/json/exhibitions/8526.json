@@ -1,0 +1,51 @@
+{
+    "id": 8526,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8526",
+    "title": "The Art of Jose Guadalupe Posada, lent by the Department of Fine Arts of Mexico",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1944-04-13T00:00:00-05:00",
+    "aic_end_at": "1944-05-14T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "94b4a981-3e01-9337-fe1a-86e2fe351b93",
+    "alt_image_ids": [
+        "44265d14-77f4-ebe6-3d6f-565580089e3f",
+        "6f07f633-8a76-ca2c-04ca-896c409f7373",
+        "5f02387a-f29a-9e27-8811-2966627d52fb",
+        "e6cbfb4b-ee85-a8c1-fd9e-8052ec1f5bda",
+        "9b4a3833-6a9c-34c9-c707-816072368141",
+        "241464a5-1a09-48fd-156e-12e4d92b3b3b",
+        "d61a9922-b640-3695-46b6-fdd0f36eaf3f",
+        "a5f5be96-3936-1722-4fb1-58e5db10efa0",
+        "0a678397-b7e4-49d0-3053-845348bfb30a",
+        "d5f3e5a8-a512-681e-5cd5-833708e0d2ba",
+        "0e8b1c34-9bf9-0f92-128b-f28467f3b1ff",
+        "9ab2016f-3128-6219-b7f9-363b9b654fa5"
+    ],
+    "document_ids": [
+        "6fb15e89-10b0-9ef9-deb5-2bfc836e0de8"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Art of Jose Guadalupe Posada, lent by the Department of Fine Arts of Mexico"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:12:31-06:00",
+    "timestamp": "2023-09-24T02:02:19-05:00"
+}

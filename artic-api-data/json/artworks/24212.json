@@ -1,0 +1,165 @@
+{
+    "id": 24212,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/24212",
+    "is_boosted": false,
+    "title": "Im Raum 4",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALm1aqilcr64eLW0gMC6hLvEm8PFhsjMmcvTuNXUs9nWstjYtuHauuTivOLgwOXkxePhyuLlyODly+nmzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4LMozgEERSIMSGQQ0tQwUAgAOw==",
+        "width": 2362,
+        "height": 3000,
+        "alt_text": "A work made of color etching on paper."
+    },
+    "main_reference_number": "1965.786",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 2001,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Wolfgang Oppermann\nGerman, 1937-2001",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Color etching on paper",
+    "inscriptions": null,
+    "credit_line": "Prints and Drawings Purchase Account",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 45.6617,
+    "color": {
+        "h": 52,
+        "l": 47,
+        "s": 71,
+        "percentage": 0.026471640455312213,
+        "population": 239
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 19683,
+    "artist_title": "Wolfgang Oppermann",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        19683
+    ],
+    "artist_titles": [
+        "Wolfgang Oppermann"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drypoint",
+        "paper (fiber product)",
+        "21st Century",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-154",
+    "classification_title": "drypoint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-154",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drypoint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a7dea897-542d-3ee4-5df0-d3ba43295983",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1965.786"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Im Raum 4"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:53-05:00",
+    "updated_at": "2023-04-10T15:29:01-05:00",
+    "timestamp": "2023-09-24T00:30:57-05:00"
+}

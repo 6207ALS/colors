@@ -1,0 +1,163 @@
+{
+    "id": 261600,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/261600",
+    "is_boosted": false,
+    "title": "Drawing",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQTACAiJUFAQkJDRlFRUFRVWoB/f6eprrm3ucHAwsLAw87Nx87Myc3Ny9LSy8vN09/f3uDd3+fm6fX08P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4CMpzcQMixEAhUMISJQcUAgAOw==",
+        "width": 2748,
+        "height": 3457,
+        "alt_text": "A work made of graphite pencil on paper."
+    },
+    "main_reference_number": "2021.264",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1994",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Nancy Rubins\nAmerican, born 1952",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "236.2 \u00d7 208.3 \u00d7 45.7 cm (93 \u00d7 82 \u00d7 18 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 45.7,
+            "depth_in": 18,
+            "width_cm": 208.3,
+            "width_in": 82,
+            "height_cm": 236.2,
+            "height_in": 93,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite pencil on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Barbara and Ira Sahlman",
+    "catalogue_display": null,
+    "publication_history": "C\u00e9line Fl\u00e9cheux and Dave Hickey, Nancy Rubins: Work, v. 2 Drawings (G\u00f6ttingen: Steidl, 2012), 83 (color ill.), 184 (color ill.).",
+    "exhibition_history": "New York, Paul Kasmin Gallery, Nancy Rubins, Nov. 12-Dec. 10, 1994, no cat.",
+    "provenance_text": "The artist; sold through Paul Kasmin Gallery, New York, to Ira Sahlman (died 2011) and Barbara Sahlman (died 2021), New York, Jan. 1995; by descent to her estate; given to the Art Institute of Chicago, Nov. 9, 2021.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 222,
+        "l": 49,
+        "s": 12,
+        "percentage": 0.0006736958406439858,
+        "population": 64
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 57074,
+    "artist_title": "Nancy Rubins",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        57074
+    ],
+    "artist_titles": [
+        "Nancy Rubins"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "graphite",
+        "drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-14658",
+    "classification_title": "drawing",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-14658"
+    ],
+    "classification_titles": [
+        "drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2410",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2410"
+    ],
+    "material_titles": [
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "13ab2e7e-500b-c8a3-f887-973ed8445d95",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.264"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Drawing"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:38-05:00",
+    "updated_at": "2023-04-07T14:40:49-05:00",
+    "timestamp": "2023-09-24T01:57:52-05:00"
+}

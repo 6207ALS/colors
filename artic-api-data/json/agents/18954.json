@@ -1,0 +1,31 @@
+{
+    "id": 18954,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/18954",
+    "title": "Yutaro Nakagawa",
+    "sort_title": "Nakagawa, Yutaro",
+    "alt_titles": [
+        "Yutaro Nakagawa"
+    ],
+    "is_artist": true,
+    "birth_date": 1910,
+    "death_date": 1975,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Yutaro Nakagawa",
+            "Nakagawa, Yutaro",
+            "Yutaro Nakagawa"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-06-06T14:51:24-05:00",
+    "updated_at": "2023-06-06T14:52:36-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

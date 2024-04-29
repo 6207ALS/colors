@@ -1,0 +1,37 @@
+{
+    "id": 22737,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22737",
+    "title": "Aegidius Sadeler, II",
+    "sort_title": "Sadeler, Aegidius, II",
+    "alt_titles": [
+        "Egidius Sadeler, II",
+        "Aegidius Egidius Sadeler, II",
+        "Gillis Sadeler, II",
+        "Gillis Sadeleer"
+    ],
+    "is_artist": true,
+    "birth_date": 1570,
+    "death_date": 1629,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Aegidius Sadeler, II",
+            "Sadeler, Aegidius, II",
+            "Egidius Sadeler, II",
+            "Aegidius Egidius Sadeler, II",
+            "Gillis Sadeler, II",
+            "Gillis Sadeleer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T16:03:53-05:00",
+    "updated_at": "2022-03-15T16:52:10-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

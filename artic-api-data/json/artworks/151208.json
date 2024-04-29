@@ -1,0 +1,172 @@
+{
+    "id": 151208,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/151208",
+    "is_boosted": false,
+    "title": "Untitled (Silver A In Off), from Calling",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAO3p5O7p5O7q5e/r5e/s5/Dr5fDs5/Hs5/Ht5/Ds6PHt6fHu6PLu6PLu6fLu6vPv6vPw6/Tw6/Tw7PXx7PXy7QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoDM9zAE40LMYg0RFDVIo0YPcSUIgQhACADs=",
+        "width": 3000,
+        "height": 2570,
+        "alt_text": "A work made of screenprint in silver on clear plastic sheet."
+    },
+    "main_reference_number": "1998.895.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1967,
+    "date_end": 1967,
+    "date_display": "1967",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Allan Kaprow (American, born 1927)\nDick Higgins (American, 1938-1998)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Sheet: 53 \u00d7 59.5 cm (20 7/8 \u00d7 23 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 59.5,
+            "width_in": 23.4252,
+            "height_cm": 53,
+            "height_in": 20.8662,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Screenprint in silver on clear plastic sheet",
+    "inscriptions": null,
+    "credit_line": "Gift of David C. and Sarajean Ruttenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.7212,
+    "color": {
+        "h": 53,
+        "l": 50,
+        "s": 0,
+        "percentage": 0.0039431787935844485,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 13441,
+    "artist_title": "Allan Kaprow",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        13441
+    ],
+    "artist_titles": [
+        "Allan Kaprow"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "screen printing",
+        "screenprint",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-214",
+    "classification_title": "screenprint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-214",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "screenprint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "f04b117c-0045-1e13-0d30-674dd68b3bea",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1998.895.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Silver A In Off), from Calling"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-08T10:58:29-05:00",
+    "timestamp": "2023-09-24T01:28:00-05:00"
+}

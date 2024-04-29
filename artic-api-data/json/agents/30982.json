@@ -1,0 +1,33 @@
+{
+    "id": 30982,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30982",
+    "title": "Antoine-Jean Duclos",
+    "sort_title": "Duclos, Antoine-Jean",
+    "alt_titles": [
+        "Antoine Jean Duclos",
+        "Antoine-J. Duclos"
+    ],
+    "is_artist": true,
+    "birth_date": 1742,
+    "death_date": 1795,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antoine-Jean Duclos",
+            "Duclos, Antoine-Jean",
+            "Antoine Jean Duclos",
+            "Antoine-J. Duclos"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:54:34-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

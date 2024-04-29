@@ -1,0 +1,45 @@
+{
+    "id": 18867,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/18867",
+    "title": "The Museum of Modern Art",
+    "sort_title": "The Museum of Modern Art",
+    "alt_titles": [
+        "Museum of Modern Art (New York, N.Y.)",
+        "MOMA",
+        "New York (City). Museum of Modern Art",
+        "New York (N.Y.). Museum of Modern Art",
+        "Nyu Yoku Kindai Bijutsukan",
+        "MoMA QNS (New York, N.Y.)",
+        "MoMAQNS (New York, N.Y.)",
+        "Museum of Modern Art, Queens (New York, N.Y.)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Museum of Modern Art",
+            "The Museum of Modern Art",
+            "Museum of Modern Art (New York, N.Y.)",
+            "MOMA",
+            "New York (City). Museum of Modern Art",
+            "New York (N.Y.). Museum of Modern Art",
+            "Nyu Yoku Kindai Bijutsukan",
+            "MoMA QNS (New York, N.Y.)",
+            "MoMAQNS (New York, N.Y.)",
+            "Museum of Modern Art, Queens (New York, N.Y.)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-05-22T11:50:10-05:00",
+    "updated_at": "2023-05-22T11:52:28-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 57978,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57978",
+    "title": "Jutta Sika",
+    "sort_title": "Sika, Jutta",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1877,
+    "death_date": 1964,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jutta Sika",
+            "Sika, Jutta"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:26:31-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

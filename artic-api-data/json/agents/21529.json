@@ -1,0 +1,28 @@
+{
+    "id": 21529,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/21529",
+    "title": "Jacques Reich",
+    "sort_title": "Reich, Jacques",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1852,
+    "death_date": 1923,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacques Reich",
+            "Reich, Jacques"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:33-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

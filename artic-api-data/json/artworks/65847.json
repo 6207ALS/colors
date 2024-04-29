@@ -1,0 +1,167 @@
+{
+    "id": 65847,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/65847",
+    "is_boosted": false,
+    "title": "A Family Meal",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAgGCQ8KChIOCxUPCw8RDRMRDBoUDx8VDRwXECUcES0qGDQsGjEwHjczHz40IE1GJ0xNMVxVMmBcM4N9SwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURICMRBTQtShM5DyAYA5IcQQgAOw==",
+        "width": 1685,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1986.1281",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1890,
+    "date_end": 1899,
+    "date_display": "1890s (?)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Evert Pieters\nDutch, 1856-1932",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "121 \u00d7 90 cm (41 5/8 \u00d7 35 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 90,
+            "width_in": 35.4375,
+            "height_cm": 121,
+            "height_in": 41.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Inscribed lower right: E. Pieter",
+    "credit_line": "Gift of Nancy P. Pirie",
+    "catalogue_display": null,
+    "publication_history": "The Art Institute of Chicago, Annual Report, 1986\u201387 (Chicago, 1987), p. 56.",
+    "exhibition_history": null,
+    "provenance_text": "Nancy P. Pirie by 1986; given to the Art Institute, 1986.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.3293,
+    "color": {
+        "h": 57,
+        "l": 49,
+        "s": 24,
+        "percentage": 0.025389320472220287,
+        "population": 241
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 36202,
+    "artist_title": "Evert Pieters",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36202
+    ],
+    "artist_titles": [
+        "Evert Pieters"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d5b9b3c8-66b4-d061-43ee-307cc42e1ae6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1281"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "A Family Meal"
+            ],
+            "weight": 6487,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:49-05:00",
+    "timestamp": "2023-09-24T00:48:57-05:00"
+}

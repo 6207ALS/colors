@@ -1,0 +1,31 @@
+{
+    "id": 34873,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34873",
+    "title": "Charles Webster Hawthorne",
+    "sort_title": "Hawthorne, Charles Webster",
+    "alt_titles": [
+        "Charles W. Hawthorne"
+    ],
+    "is_artist": true,
+    "birth_date": 1872,
+    "death_date": 1930,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Webster Hawthorne",
+            "Hawthorne, Charles Webster",
+            "Charles W. Hawthorne"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:59:52-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

@@ -1,0 +1,177 @@
+{
+    "id": 59106,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59106",
+    "is_boosted": false,
+    "title": "Okina",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFVbW1N9a2p2e427fHuFhamfkpKsg6apjq+jk7Cnl7CrkLWso7i1pL22psG1ose9qa3OnLnGpczGt9LbwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYPE4iRJN0jEYCwMFAtIQQAgAOw==",
+        "width": 2351,
+        "height": 3000,
+        "alt_text": "A work made of color screenprint on paper."
+    },
+    "main_reference_number": "1979.1323",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1978,
+    "date_end": 1978,
+    "date_display": "1978",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tanaka Masaki\nJapanese, b. 1947",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "70 \u00d7 49.5 cm (27 9/16 \u00d7 19 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.5,
+            "width_in": 19.5,
+            "height_cm": 70,
+            "height_in": 27.5625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color screenprint on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Masaki Tanaka",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1980,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 54.3061,
+    "color": {
+        "h": 50,
+        "l": 41,
+        "s": 86,
+        "percentage": 0.07713316229413225,
+        "population": 699
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 36880,
+    "artist_title": "Tanaka Masaki",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36880
+    ],
+    "artist_titles": [
+        "Tanaka Masaki"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "screen printing",
+        "screenprint",
+        "paper (fiber product)",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-214",
+    "classification_title": "screenprint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-214",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "screenprint",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "070f45ff-a924-0013-d6fa-a6fe50125371",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1979.1323"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Okina"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:05:29-05:00",
+    "timestamp": "2023-09-24T00:45:50-05:00"
+}

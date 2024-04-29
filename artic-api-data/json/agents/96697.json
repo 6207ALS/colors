@@ -1,0 +1,35 @@
+{
+    "id": 96697,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/96697",
+    "title": "Jacques de Gheyn, III",
+    "sort_title": "Gheyn, Jacques de, III",
+    "alt_titles": [
+        "Jacob de Gheyn, III",
+        "Jacques De Gheyn",
+        "Jacques de Gheyn"
+    ],
+    "is_artist": true,
+    "birth_date": 1596,
+    "death_date": 1641,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacques de Gheyn, III",
+            "Gheyn, Jacques de, III",
+            "Jacob de Gheyn, III",
+            "Jacques De Gheyn",
+            "Jacques de Gheyn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T09:49:25-06:00",
+    "updated_at": "2023-02-15T09:52:08-06:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

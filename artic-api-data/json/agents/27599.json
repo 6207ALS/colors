@@ -1,0 +1,33 @@
+{
+    "id": 27599,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27599",
+    "title": "Roger von Gunten",
+    "sort_title": "Gunten, Roger von",
+    "alt_titles": [
+        "Roger Von Gunten",
+        "Roger von G\u00fcnter"
+    ],
+    "is_artist": true,
+    "birth_date": 1933,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Roger von Gunten",
+            "Gunten, Roger von",
+            "Roger Von Gunten",
+            "Roger von G\u00fcnter"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:18-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

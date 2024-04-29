@@ -1,0 +1,31 @@
+{
+    "id": 1696,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1696",
+    "title": "Jennifer Losch Bartlett",
+    "sort_title": "Bartlett, Jennifer Losch",
+    "alt_titles": [
+        "Jennifer Bartlett"
+    ],
+    "is_artist": true,
+    "birth_date": 1941,
+    "death_date": 2022,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jennifer Losch Bartlett",
+            "Bartlett, Jennifer Losch",
+            "Jennifer Bartlett"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-07-26T15:22:24-05:00",
+    "updated_at": "2022-07-26T15:50:56-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

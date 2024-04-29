@@ -1,0 +1,183 @@
+{
+    "id": 53698,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/53698",
+    "is_boosted": false,
+    "title": "Caprice",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAJeRgpiSg5yXiKmjk66oma+pmrKtncC8rcfBs8jDtMrDtMnEtc/JutDLvtHLvtDMvdHMvdPOv9HNwNLNwNLOwNPOwdXPwNTPwdTPwtXQwtXQw9bRw9fSw9fSxAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdoKNhWEVNGbJk0SUxQcEJxqYMQEIcF2Rxjc7mEQIAOw==",
+        "width": 3000,
+        "height": 2077,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1945.356",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1755,
+    "date_end": 1817,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Jean-Baptiste de Grateloup (French, 1735-1817)\nJean Pierre Sylvestre (French)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image/plate: 4.7 \u00d7 6.8 cm (1 7/8 \u00d7 2 11/16 in.); Sheet: 23.6 \u00d7 14.5 cm (9 5/16 \u00d7 5 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 6.8,
+            "width_in": 2.6772,
+            "height_cm": 4.7,
+            "height_in": 1.8504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14.5,
+            "width_in": 5.7087,
+            "height_cm": 23.6,
+            "height_in": 9.2914,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.3573,
+    "color": {
+        "h": 41,
+        "l": 42,
+        "s": 24,
+        "percentage": 0.005086790825057125,
+        "population": 25
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34729,
+    "artist_title": "Jean-Baptiste de Grateloup",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34729
+    ],
+    "artist_titles": [
+        "Jean-Baptiste de Grateloup"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7386a27a-4b62-4eca-89cd-34ab87ad3c0e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1945.356"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Caprice"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:12:26-05:00",
+    "timestamp": "2023-09-24T00:44:11-05:00"
+}

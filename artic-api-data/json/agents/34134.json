@@ -1,0 +1,31 @@
+{
+    "id": 34134,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34134",
+    "title": "William Daniell",
+    "sort_title": "Daniell, William",
+    "alt_titles": [
+        "William Daniell, (the Elder)"
+    ],
+    "is_artist": true,
+    "birth_date": 1769,
+    "death_date": 1837,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Daniell",
+            "Daniell, William",
+            "William Daniell, (the Elder)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2022-03-15T16:39:11-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

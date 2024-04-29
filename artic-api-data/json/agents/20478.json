@@ -1,0 +1,31 @@
+{
+    "id": 20478,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/20478",
+    "title": "Glyn Warren Philpot",
+    "sort_title": "Philpot, Glyn Warren",
+    "alt_titles": [
+        "Glyn W. Philpot"
+    ],
+    "is_artist": true,
+    "birth_date": 1884,
+    "death_date": 1937,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Glyn Warren Philpot",
+            "Philpot, Glyn Warren",
+            "Glyn W. Philpot"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-22T12:34:38-06:00",
+    "updated_at": "2022-02-22T12:35:50-06:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

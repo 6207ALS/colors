@@ -1,0 +1,35 @@
+{
+    "id": 62724,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62724",
+    "title": "Luis Guevara Moreno",
+    "sort_title": "Guevara Moreno, Luis",
+    "alt_titles": [
+        "Luis Guevara Moreno",
+        "Guevara Moreno",
+        "Guevara Moreno"
+    ],
+    "is_artist": true,
+    "birth_date": 1926,
+    "death_date": 2010,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Luis Guevara Moreno",
+            "Guevara Moreno, Luis",
+            "Luis Guevara Moreno",
+            "Guevara Moreno",
+            "Guevara Moreno"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-04-20T10:19:47-05:00",
+    "updated_at": "2022-03-15T16:59:35-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

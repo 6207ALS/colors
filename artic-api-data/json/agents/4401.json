@@ -1,0 +1,37 @@
+{
+    "id": 4401,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/4401",
+    "title": "Charles Emile Champmartin",
+    "sort_title": "Champmartin, Charles Emile",
+    "alt_titles": [
+        "Charles E. Champmartin",
+        "Charles Emile Champmartin, (Callande de Champmartin)",
+        "Charles Emile Callende de Champmartin",
+        "Charles Emile Callende de Champmartin"
+    ],
+    "is_artist": true,
+    "birth_date": 1797,
+    "death_date": 1883,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Emile Champmartin",
+            "Champmartin, Charles Emile",
+            "Charles E. Champmartin",
+            "Charles Emile Champmartin, (Callande de Champmartin)",
+            "Charles Emile Callende de Champmartin",
+            "Charles Emile Callende de Champmartin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:51-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

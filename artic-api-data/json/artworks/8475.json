@@ -1,0 +1,173 @@
+{
+    "id": 8475,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/8475",
+    "is_boosted": false,
+    "title": "James William Wallack",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAA0KCBEMCRENChINCxUNCRQNChoTBRsRCRoQCh0VCCAWByEXCyIXDSIWDyMZCiQYCCodDikcEkIsHEkwIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoLMwkCFNStJEDwIIRxEMRAgAOw==",
+        "width": 1865,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1923.359",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1835,
+    "date_end": 1840,
+    "date_display": "1835\u201340",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Charles Robert Leslie\nAmerican, born England, 1794\u20131859",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "76.8 \u00d7 64 cm (30 1/4 \u00d7 25 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64,
+            "width_in": 25.1875,
+            "height_cm": 76.8,
+            "height_in": 30.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Friends of American Art Collection; Goodman Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1923,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.9587,
+    "color": {
+        "h": 40,
+        "l": 83,
+        "s": 74,
+        "percentage": 0.0002332821279062579,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35460,
+    "artist_title": "Charles Robert Leslie",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35460
+    ],
+    "artist_titles": [
+        "Charles Robert Leslie"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "organic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e3b91cbd-674a-5da7-1a01-42a2e9a3cadf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.359"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "James William Wallack"
+            ],
+            "weight": 3779,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:12-05:00",
+    "updated_at": "2023-06-21T11:25:46-05:00",
+    "timestamp": "2023-09-24T00:23:44-05:00"
+}

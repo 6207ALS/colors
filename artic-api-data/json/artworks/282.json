@@ -1,0 +1,155 @@
+{
+    "id": 282,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/282",
+    "is_boosted": false,
+    "title": "Miniature Pyxis (Container for Personal Objects)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEtBL19SPXNWJmZVP1NMQWRaSmlpZ21vc3FycoJoOZFzRIZ1U4+EbZKDZYWEfouIfp6ReKiTbH2Ch3+Fi4GFiIaLjoeMj4mKiYiLi46OiYmNj42PjpSRh4eNkYiNkoqQlo6TmJeXk8SxigAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAmlkrFoPJMNowEJfTqPyELEASECCYFicDkYCICCAxMEADs=",
+        "width": 2532,
+        "height": 1785,
+        "alt_text": "A work made of terracotta, with silhouette decoration."
+    },
+    "main_reference_number": "1889.119a-c",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": -300,
+    "date_end": -270,
+    "date_display": "300-270 BCE",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Greek; probably Campania, Italy",
+    "place_of_origin": "Cales",
+    "description": "<p>The shoulder of this vase is decorated with a black ivy wreath with complex runners.  Black lines appear on the handles and between them, as well as on the short neck.</p>\n",
+    "dimensions": "a (jar): 7.1 \u00d7 8.5 \u00d7 8.5 cm (2.82 \u00d7 3 .375 \u00d7 3.375 in)\nb (lid): 2.1 \u00d7 4 \u00d7 4 cm (.83 \u00d7 1.61 \u00d7 1.60 in)\nc (saucer): 2.5 \u00d7 13.3 \u00d7 13.3 cm (1 \u00d7 5.25 \u00d7 5.25 in)",
+    "dimensions_detail": [],
+    "medium_display": "terracotta, with silhouette decoration",
+    "inscriptions": null,
+    "credit_line": "Museum Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Pio Marinangeli, Rome; sold to the Art Institute of Chicago, 1889.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.3606,
+    "color": {
+        "h": 197,
+        "l": 54,
+        "s": 4,
+        "percentage": 0.8141917394586433,
+        "population": 4077
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 2601,
+    "artist_title": "Ancient Greek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2601
+    ],
+    "artist_titles": [
+        "Ancient Greek"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "ceramics",
+        "vessel",
+        "ancient art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-46",
+    "classification_title": "ceramics",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-46",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "ceramics",
+        "vessel",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "99afadf9-919e-6759-64f6-1a23aae8219a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1889.119a-c"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Miniature Pyxis (Container for Personal Objects)"
+            ],
+            "weight": 8496,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:44:47-05:00",
+    "updated_at": "2023-09-23T23:17:55-05:00",
+    "timestamp": "2023-09-24T00:20:47-05:00"
+}

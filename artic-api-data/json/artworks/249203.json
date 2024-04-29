@@ -1,0 +1,164 @@
+{
+    "id": 249203,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/249203",
+    "is_boosted": false,
+    "title": "Esther",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABscGSEcGFRENlJGPHRGPUpLTF5TSldXVHlSRWVaV2dfWWReXGtmXHBhVXNlV3hwZop3Yol9a4WAdKOXhwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PAwRyMRiTMhgQBFgKEsRQgAOw==",
+        "width": 4370,
+        "height": 5467,
+        "alt_text": "A work made of inkjet print."
+    },
+    "main_reference_number": "2019.1537",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "2016",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sarah Baranski\nAmerican, born 1982",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "28.3 \u00d7 22.8 (image); 33 \u00d7 23.7 (paper)",
+    "dimensions_detail": [],
+    "medium_display": "Inkjet print",
+    "inscriptions": null,
+    "credit_line": "Gift of The Faculty and Photography Graduate Students of the School of the Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": "35 of 40",
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.2125,
+    "color": {
+        "h": 2,
+        "l": 50,
+        "s": 61,
+        "percentage": 0.0012368375189039371,
+        "population": 11
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117086,
+    "artist_title": "Sarah Baranski",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117086
+    ],
+    "artist_titles": [
+        "Sarah Baranski"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "color photography",
+        "inkjet print",
+        "photograph",
+        "portfolio"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-13768",
+        "TM-240",
+        "TM-427"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-13768",
+        "TM-240",
+        "TM-427"
+    ],
+    "classification_titles": [
+        "photography",
+        "inkjet print",
+        "photograph",
+        "portfolio"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-13061",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-13061"
+    ],
+    "technique_titles": [
+        "color photography"
+    ],
+    "theme_titles": [],
+    "image_id": "cf05a8ab-4a39-bb4f-6db2-368c0df77e04",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.1537"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Esther"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-02T11:56:52-06:00",
+    "updated_at": "2023-04-07T12:55:32-05:00",
+    "timestamp": "2023-09-24T01:55:31-05:00"
+}

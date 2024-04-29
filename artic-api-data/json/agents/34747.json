@@ -1,0 +1,51 @@
+{
+    "id": 34747,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34747",
+    "title": "Juan Gris",
+    "sort_title": "Gris, Juan",
+    "alt_titles": [
+        "Jos\u00e9 Victoriano Gonzalez",
+        "Jose Vittorio Gonzalez",
+        "Joan Gris",
+        "Juan-Jos\u00e9 Victoriano Gonz\u00e1lez  Gris",
+        "Jos\u00e9 Victoriano Carmelo Carlos Gonz\u00e1lez P\u00e9rez"
+    ],
+    "is_artist": true,
+    "birth_date": 1887,
+    "death_date": 1927,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Juan Gris",
+            "Gris, Juan",
+            "Jos\u00e9 Victoriano Gonzalez",
+            "Jose Vittorio Gonzalez",
+            "Joan Gris",
+            "Juan-Jos\u00e9 Victoriano Gonz\u00e1lez  Gris",
+            "Jos\u00e9 Victoriano Carmelo Carlos Gonz\u00e1lez P\u00e9rez"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan Gris",
+            "Gris, Juan",
+            "Jos\u00e9 Victoriano Gonzalez",
+            "Jose Vittorio Gonzalez",
+            "Joan Gris",
+            "Juan-Jos\u00e9 Victoriano Gonz\u00e1lez  Gris",
+            "Jos\u00e9 Victoriano Carmelo Carlos Gonz\u00e1lez P\u00e9rez"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:53:02-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

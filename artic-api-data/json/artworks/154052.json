@@ -1,0 +1,172 @@
+{
+    "id": 154052,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/154052",
+    "is_boosted": false,
+    "title": "Armchair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKR3XriIZ5uOh7uYgrWspsK8uc3Cu9TCs8fDwNXMydjRztTR0NbU09nX1NrX1NvY1N/c2d7d2uXm4ujn5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOM0C3QERjIAhUIIyCQ9UQgAOw==",
+        "width": 1689,
+        "height": 2250,
+        "alt_text": "A work made of beechwood, leather upholstery."
+    },
+    "main_reference_number": "1999.557",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1921,
+    "date_display": "1900/16",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Gustav Siegel\nAustrian, 1880-1970\nManufactured by Jacob & Josef Kohn\nVienna, Austria, 1867-1914",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": "75.9 \u00d7 54.6 \u00d7 55.3 cm (29 7/8 \u00d7 21 1/2 \u00d7 21 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 55.3,
+            "depth_in": 21.75,
+            "width_cm": 54.6,
+            "width_in": 21.5,
+            "height_cm": 75.9,
+            "height_in": 29.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Beechwood, leather upholstery",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Manfred Steinfeld",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.8838,
+    "color": {
+        "h": 37,
+        "l": 68,
+        "s": 4,
+        "percentage": 0.04837914035126637,
+        "population": 458
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 87447,
+    "artist_title": "Gustav Siegel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        87447
+    ],
+    "artist_titles": [
+        "Gustav Siegel"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "seating",
+        "furniture",
+        "furniture",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "be3eec19-1036-8d8c-9ab9-2c3cd3790e0c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.557"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Armchair"
+            ],
+            "weight": 233,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:31:39-05:00",
+    "timestamp": "2023-09-24T01:29:24-05:00"
+}

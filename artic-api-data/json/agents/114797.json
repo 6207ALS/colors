@@ -1,0 +1,28 @@
+{
+    "id": 114797,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/114797",
+    "title": "Jean Ouvrier",
+    "sort_title": "Ouvrier, Jean",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1725,
+    "death_date": 1754,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Ouvrier",
+            "Ouvrier, Jean"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-16T13:54:08-05:00",
+    "updated_at": "2020-07-16T13:55:46-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

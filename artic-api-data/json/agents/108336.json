@@ -1,0 +1,31 @@
+{
+    "id": 108336,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/108336",
+    "title": "Lucia Woods Lindley",
+    "sort_title": "Lindley, Lucia Woods",
+    "alt_titles": [
+        "Lucia Woods"
+    ],
+    "is_artist": true,
+    "birth_date": 1937,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lucia Woods Lindley",
+            "Lindley, Lucia Woods",
+            "Lucia Woods"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-08-22T13:01:58-05:00",
+    "updated_at": "2022-08-22T13:10:59-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

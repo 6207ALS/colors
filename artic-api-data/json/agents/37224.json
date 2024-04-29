@@ -1,0 +1,39 @@
+{
+    "id": 37224,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37224",
+    "title": "Anthonie Waterloo",
+    "sort_title": "Waterloo, Anthonie",
+    "alt_titles": [
+        "Anthonie Waterlo",
+        "Anthonie Waaterloo",
+        "Antoine Waterlo",
+        "Antoine Waterloo",
+        "Antoon Waterloo"
+    ],
+    "is_artist": true,
+    "birth_date": 1609,
+    "death_date": 1690,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Anthonie Waterloo",
+            "Waterloo, Anthonie",
+            "Anthonie Waterlo",
+            "Anthonie Waaterloo",
+            "Antoine Waterlo",
+            "Antoine Waterloo",
+            "Antoon Waterloo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T16:35:09-05:00",
+    "updated_at": "2022-03-15T16:32:22-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

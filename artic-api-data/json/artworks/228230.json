@@ -1,0 +1,183 @@
+{
+    "id": 228230,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/228230",
+    "is_boosted": false,
+    "title": "Lord John Russell",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHJnXpmNfJ6TgLSplLarlb2ymsnHx8nIyc7NzdLR0tXV19jX2NnY2dra2d/f4N/f4uDf4N/g5OHh4uLj5wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQsU1MMTiIQ0gEEkGIgTwgAOw==",
+        "width": 2159,
+        "height": 3000,
+        "alt_text": "A work made of albumen print."
+    },
+    "main_reference_number": "1981.792",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1861,
+    "date_end": 1861,
+    "date_display": "1861",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "John Jabez Edwin Mayall \nAmerican, 1813-1901",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/paper: 8.6 \u00d7 5.6 cm (3 7/16 \u00d7 2 1/4 in.); Mount: 10.5 \u00d7 6.3 cm (4 3/16 \u00d7 2 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.6,
+            "width_in": 2.2048,
+            "height_cm": 8.6,
+            "height_in": 3.3859,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/paper"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 6.3,
+            "width_in": 2.4804,
+            "height_cm": 10.5,
+            "height_in": 4.1339,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Mount"
+        }
+    ],
+    "medium_display": "Albumen print",
+    "inscriptions": null,
+    "credit_line": "Gift of Helen Harvey Mills",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.2638,
+    "color": {
+        "h": 37,
+        "l": 68,
+        "s": 26,
+        "percentage": 0.088638741917413,
+        "population": 875
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 100530,
+    "artist_title": "John Jabez Edwin Mayall",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        100530
+    ],
+    "artist_titles": [
+        "John Jabez Edwin Mayall"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "19th century",
+        "albumen silver print",
+        "photography"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-420",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-420",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "albumen silver print",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6af4f065-388e-52f4-49b2-9fac42591f77",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.792"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lord John Russell"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:10:50-05:00",
+    "timestamp": "2023-09-24T01:48:26-05:00"
+}

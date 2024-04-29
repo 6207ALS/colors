@@ -1,0 +1,31 @@
+{
+    "id": 44340,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44340",
+    "title": "Ferdinando Tacca",
+    "sort_title": "Tacca, Ferdinando",
+    "alt_titles": [
+        "Ferdinandus Tacca"
+    ],
+    "is_artist": true,
+    "birth_date": 1619,
+    "death_date": 1686,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ferdinando Tacca",
+            "Tacca, Ferdinando",
+            "Ferdinandus Tacca"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:14-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

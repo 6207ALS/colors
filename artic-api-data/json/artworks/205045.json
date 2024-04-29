@@ -1,0 +1,163 @@
+{
+    "id": 205045,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/205045",
+    "is_boosted": false,
+    "title": "Garage Taizo",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEdCP0lDQExIR01JSU1LS05LTFhVVFlXWWVZVmNfXldgaX1mZXt0d4xwbIp9d4J8fYB9gI+Ih56PjKqakgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIAM9kUQEk2MkDVIMyyEASggAOw==",
+        "width": 6838,
+        "height": 9230,
+        "alt_text": "A work made of collage of color offset lithographs."
+    },
+    "main_reference_number": "2010.467",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1996,
+    "date_end": 1996,
+    "date_display": "1996",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Hawkins\nAmerican, born 1961",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "28 \u00d7 21.6 cm (11 1/16 \u00d7 8 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21.6,
+            "width_in": 8.504,
+            "height_cm": 28,
+            "height_in": 11.0237,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Collage of color offset lithographs",
+    "inscriptions": null,
+    "credit_line": "Gift of Richard Hawkins through the generosity of Galerie Daniel Buchholz",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2011,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 355,
+        "l": 43,
+        "s": 35,
+        "percentage": 0.0002582597979489419,
+        "population": 163
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 97603,
+    "artist_title": "Richard Hawkins",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        97603
+    ],
+    "artist_titles": [
+        "Richard Hawkins"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "003f2ca6-b48a-abe6-6c2c-281ca202b0b2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.467"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Garage Taizo"
+            ],
+            "weight": 154,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-24T15:45:07-05:00",
+    "updated_at": "2023-07-24T15:45:53-05:00",
+    "timestamp": "2023-09-24T01:41:05-05:00"
+}

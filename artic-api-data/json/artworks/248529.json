@@ -1,0 +1,195 @@
+{
+    "id": 248529,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/248529",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAK9fWbBeV5lgXK9iW69kXbBjXZ9lYJVvbKZsZ69qY6xrZaptZ6JtaattaKxuaaZxbaZ1caV2c6V3dKN4dQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGMIh1IAT5MQkTMEkIQsUwgAOw==",
+        "width": 5792,
+        "height": 6606,
+        "alt_text": "A work made of cotton, batik (resist dyed)."
+    },
+    "main_reference_number": "2018.773",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1949,
+    "date_end": 1949,
+    "date_display": "1949",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Evelyn Statsinger (American, 1927-2016)",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "36.8 \u00d7 30.5 cm (14 1/2 \u00d7 12 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30.5,
+            "width_in": 12,
+            "height_cm": 36.8,
+            "height_in": 14.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, batik (resist dyed)",
+    "inscriptions": null,
+    "credit_line": "Bequest of Evelyn Statsinger Cohen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "The artist (died 2016); bequeathed to the Art Institute of Chicago, 2018.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.505,
+    "color": {
+        "h": 3,
+        "l": 56,
+        "s": 46,
+        "percentage": 0.4467222878501166,
+        "population": 3619
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 36779,
+    "artist_title": "Evelyn Statsinger",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36779
+    ],
+    "artist_titles": [
+        "Evelyn Statsinger"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-827",
+        "PC-154",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Women artists",
+        "SAIC Alumni and Faculty",
+        "Chicago Artists",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "batik",
+        "cotton (textile)",
+        "Surrealism",
+        "abstract figures",
+        "20th Century"
+    ],
+    "style_id": "TM-7551",
+    "style_title": "Surrealism",
+    "alt_style_ids": [
+        "TM-13130"
+    ],
+    "style_ids": [
+        "TM-7551",
+        "TM-13130"
+    ],
+    "style_titles": [
+        "Surrealism",
+        "20th Century"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-69"
+    ],
+    "classification_titles": [
+        "textile"
+    ],
+    "subject_id": "TM-12688",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12688"
+    ],
+    "subject_titles": [
+        "abstract figures"
+    ],
+    "material_id": "TM-2578",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2578"
+    ],
+    "material_titles": [
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-4302",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4302"
+    ],
+    "technique_titles": [
+        "batik"
+    ],
+    "theme_titles": [
+        "Women artists",
+        "SAIC Alumni and Faculty",
+        "Chicago Artists"
+    ],
+    "image_id": "aabe1530-f22f-8337-43d3-848a079c8e97",
+    "alt_image_ids": [
+        "fd2967ad-e88b-29c3-d564-95d4b14b6f7b"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.773"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:48:04-05:00",
+    "timestamp": "2023-09-24T01:55:13-05:00"
+}

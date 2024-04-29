@@ -1,0 +1,35 @@
+{
+    "id": 34263,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34263",
+    "title": "Otto Dix",
+    "sort_title": "Dix, Otto",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1891,
+    "death_date": 1969,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Otto Dix",
+            "Dix, Otto"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Otto Dix",
+            "Dix, Otto"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:34-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

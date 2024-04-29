@@ -1,0 +1,37 @@
+{
+    "id": 12124,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/12124",
+    "title": "Xie Shichen",
+    "sort_title": "Xie Shichen",
+    "alt_titles": [
+        "Hsieh Shih-ch'\u00ean",
+        "Ch'u-hsien",
+        "Sie Che-tch'en",
+        "Ssu-chung"
+    ],
+    "is_artist": true,
+    "birth_date": 1487,
+    "death_date": 1600,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Xie Shichen",
+            "Xie Shichen",
+            "Hsieh Shih-ch'\u00ean",
+            "Ch'u-hsien",
+            "Sie Che-tch'en",
+            "Ssu-chung"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:15:49-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

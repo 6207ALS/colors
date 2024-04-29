@@ -1,0 +1,31 @@
+{
+    "id": 58500,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/58500",
+    "title": "B. Leo Steif",
+    "sort_title": "Steif, B. Leo",
+    "alt_titles": [
+        "Benjamin Leo Steif"
+    ],
+    "is_artist": true,
+    "birth_date": 1894,
+    "death_date": 1953,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "B. Leo Steif",
+            "Steif, B. Leo",
+            "Benjamin Leo Steif"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:26:25-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

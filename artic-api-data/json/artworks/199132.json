@@ -1,0 +1,168 @@
+{
+    "id": 199132,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/199132",
+    "is_boosted": false,
+    "title": "Homage to a Young Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOO+uevBt+3IvvDVzOXe4OPj5u7n4+/n4+/o5e/r6PHp5fHr5PDr5vTt5/Pt6PXu6PTu6/Xw6vbx6/fx6wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BA8iwAgzZQUzkFAkaFITAgAOw==",
+        "width": 1743,
+        "height": 2448,
+        "alt_text": "A work made of color letterpress on coated off-white wove paper."
+    },
+    "main_reference_number": "2011.862",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1925,
+    "date_display": "1925",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Piet Zwart\nDutch, 1885\u20131977",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "24 \u00d7 17 cm (9 1/2 \u00d7 6 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17,
+            "width_in": 6.693,
+            "height_cm": 24,
+            "height_in": 9.4489,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color letterpress on coated off-white wove paper",
+    "inscriptions": null,
+    "credit_line": "Helen A. Regenstein Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / c/o Pictoright Amsterdam",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.8697,
+    "color": {
+        "h": 8,
+        "l": 61,
+        "s": 78,
+        "percentage": 0.003406431342374403,
+        "population": 34
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 85745,
+    "artist_title": "Piet Zwart",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        85745
+    ],
+    "artist_titles": [
+        "Piet Zwart"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "print",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "aede00ae-08e6-2439-c2cb-ab79246f22d9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2011.862"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Homage to a Young Woman"
+            ],
+            "weight": 16,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:52:02-05:00",
+    "timestamp": "2023-09-24T01:39:36-05:00"
+}

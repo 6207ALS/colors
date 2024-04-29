@@ -1,0 +1,31 @@
+{
+    "id": 51889,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51889",
+    "title": "Antonio Casanova y Estorach",
+    "sort_title": "Casanova y Estorach, Antonio",
+    "alt_titles": [
+        "Antonio Casanova y Estorach"
+    ],
+    "is_artist": true,
+    "birth_date": 1847,
+    "death_date": 1896,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio Casanova y Estorach",
+            "Casanova y Estorach, Antonio",
+            "Antonio Casanova y Estorach"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:56-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

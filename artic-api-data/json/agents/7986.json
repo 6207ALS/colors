@@ -1,0 +1,33 @@
+{
+    "id": 7986,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/7986",
+    "title": "Philip Evergood",
+    "sort_title": "Evergood, Philip",
+    "alt_titles": [
+        "Philip Howard Francis Evergood",
+        "Philip Howard Evergood"
+    ],
+    "is_artist": true,
+    "birth_date": 1901,
+    "death_date": 1973,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Philip Evergood",
+            "Evergood, Philip",
+            "Philip Howard Francis Evergood",
+            "Philip Howard Evergood"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:33-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

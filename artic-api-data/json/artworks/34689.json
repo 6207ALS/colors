@@ -1,0 +1,178 @@
+{
+    "id": 34689,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/34689",
+    "is_boosted": false,
+    "title": "Untitled (Portrait of child with toy)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKCWh6eekaiekLevpLuzpMS+r8zHudXPv9fTx9rVxtvXy9zZzubi1eXi1ujl2gAAACH5BAAAAAAALAAAAAADAAUAAAQLUKFVSArgDGEacxEAOw==",
+        "width": 2023,
+        "height": 3000,
+        "alt_text": "A work made of albumen print."
+    },
+    "main_reference_number": "1970.617",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1904,
+    "date_end": 1920,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Wyncie King\nAmerican, 1884\u20131961",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 13.9 \u00d7 10 cm (5 1/2 \u00d7 3 15/16 in.); Card: 16.5 \u00d7 10.6 cm (6 1/2 \u00d7 4 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10,
+            "width_in": 3.9371,
+            "height_cm": 13.9,
+            "height_in": 5.4725,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.6,
+            "width_in": 4.1733,
+            "height_cm": 16.5,
+            "height_in": 6.4961,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Card"
+        }
+    ],
+    "medium_display": "Albumen print",
+    "inscriptions": null,
+    "credit_line": "Rafael Fernandez Gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1971,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.5351,
+    "color": {
+        "h": 44,
+        "l": 61,
+        "s": 40,
+        "percentage": 0.0032265717674970344,
+        "population": 34
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 35257,
+    "artist_title": "Wyncie King",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35257
+    ],
+    "artist_titles": [
+        "Wyncie King"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photographic process",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-68",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photography",
+        "photographic process",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "71f17b6b-113d-96f8-9b16-4ff39338b998",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.617"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Portrait of child with toy)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T13:54:14-05:00",
+    "timestamp": "2023-09-24T00:35:52-05:00"
+}

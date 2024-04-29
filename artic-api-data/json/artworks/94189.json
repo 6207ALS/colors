@@ -1,0 +1,163 @@
+{
+    "id": 94189,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/94189",
+    "is_boosted": false,
+    "title": "Three Court Women",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHdeSXddTYltT4JoUotxWo1zXZN9ZpZ/apaAa6CGcaKNd62Vf7Kejbapmr6vngAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAMABQAABAuQkZbGQaEYoJZwEQA7",
+        "width": 470,
+        "height": 747,
+        "alt_text": "A work made of fragment of a wall painting; ink and color on plaster."
+    },
+    "main_reference_number": "1977.555",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "Northern Song (960\u20131127)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Artist unknown\nChinese",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "27 \u00d7 16 \u00d7 1.9 cm (10 5/8 \u00d7 6 1/4 \u00d7 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.9,
+            "depth_in": 0.75,
+            "width_cm": 16,
+            "width_in": 6.25,
+            "height_cm": 27,
+            "height_in": 10.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Fragment of a wall painting; ink and color on plaster",
+    "inscriptions": null,
+    "credit_line": "James W. and Marilynn Alsdorf Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1978,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 39,
+        "s": 16,
+        "percentage": 0.14697086217209265,
+        "population": 516
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "fresco",
+        "painting",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-482",
+    "classification_title": "fresco",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-482",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "fresco",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c985e091-e6b5-be60-03db-8d3c17133ede",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.555"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Three Court Women"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-18T16:32:36-06:00",
+    "updated_at": "2023-04-07T12:43:06-05:00",
+    "timestamp": "2023-09-24T01:01:42-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 10565,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10565",
+    "title": "H.C. White Co.",
+    "sort_title": "H.C. White Co.",
+    "alt_titles": [
+        "H. C. White Company",
+        "White (H. C.) Co."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "H.C. White Co.",
+            "H.C. White Co.",
+            "H. C. White Company",
+            "White (H. C.) Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:16:14-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

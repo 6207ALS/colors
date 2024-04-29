@@ -1,0 +1,185 @@
+{
+    "id": 269223,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/269223",
+    "is_boosted": false,
+    "title": "Landscape Painting",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAF1QP11RP19TPmFUPWFVP2JWPmNXP2NZP19VSGRXQGZZQWVcQ2VaRGdcRmpeQ2lcRWleRGlcRmpcRmteR2tgQ25jSXBlSHBkSXFkS3VqS3FkUXVrWnpuXIN1YYZ7Z4h9Zot/aIqAaoqAawAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYgwA4HsfGIRI8HAKABfQyUDCa5MDgwmIrjkFAYDA0GIAgAOw==",
+        "width": 11600,
+        "height": 8700,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1951.75",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1868,
+    "date_end": 1900,
+    "date_display": "1868-1900",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "William Keith\nAmerican, born Scotland, 1839\u20131911",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "15.1 \u00d7 20.3 cm (6 \u00d7 8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.3,
+            "width_in": 7.9922,
+            "height_cm": 15.1,
+            "height_in": 5.9449,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Gilbert W. Chapman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 40,
+        "l": 33,
+        "s": 23,
+        "percentage": 0.009228826818183194,
+        "population": 3539
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35230,
+    "artist_title": "William Keith",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35230
+    ],
+    "artist_titles": [
+        "William Keith"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "landscape",
+        "painting",
+        "oil paint (paint)",
+        "painting",
+        "modern and contemporary art",
+        "panel (wood)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-14145",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-14145"
+    ],
+    "subject_titles": [
+        "landscape"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3644"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3644"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "panel (wood)"
+    ],
+    "technique_id": "TM-14210",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-14210"
+    ],
+    "technique_titles": [
+        "painting"
+    ],
+    "theme_titles": [],
+    "image_id": "2a1e5636-e9c6-6b72-70ab-437f767f73db",
+    "alt_image_ids": [
+        "fa5621ae-e369-645d-b526-9d447c0f0c82"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1951.75"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Landscape Painting"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-15T10:47:19-05:00",
+    "updated_at": "2023-05-15T10:52:26-05:00",
+    "timestamp": "2023-09-24T01:59:57-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 27154,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27154",
+    "title": "Nicolaus Gerhaert",
+    "sort_title": "Gerhaert, Nicolaus",
+    "alt_titles": [
+        "Nikolaus Gerhaert van Leyden",
+        "Nikolaus Lerch",
+        "Nikolaus van Leiden",
+        "Nicolaus von Leyden",
+        "Niclaus Gerhaert"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolaus Gerhaert",
+            "Gerhaert, Nicolaus",
+            "Nikolaus Gerhaert van Leyden",
+            "Nikolaus Lerch",
+            "Nikolaus van Leiden",
+            "Nicolaus von Leyden",
+            "Niclaus Gerhaert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:14-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 37101,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37101",
+    "title": "Jan van der Meer, the Younger",
+    "sort_title": "Meer, Jan van der, the Younger",
+    "alt_titles": [
+        "Jan Van der Meer, II",
+        "Jan Vermeer, II",
+        "Jan Vermeer, III",
+        "Jan van der Meer (van Haarlem), III"
+    ],
+    "is_artist": true,
+    "birth_date": 1656,
+    "death_date": 1705,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan van der Meer, the Younger",
+            "Meer, Jan van der, the Younger",
+            "Jan Van der Meer, II",
+            "Jan Vermeer, II",
+            "Jan Vermeer, III",
+            "Jan van der Meer (van Haarlem), III"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:32:43-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

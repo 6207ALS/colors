@@ -1,0 +1,35 @@
+{
+    "id": 10021,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10021",
+    "title": "John Watson Gordon",
+    "sort_title": "Gordon, John Watson",
+    "alt_titles": [
+        "John Watson",
+        "Sir John Watson Gordon",
+        "Sir John Watson-Gordon"
+    ],
+    "is_artist": true,
+    "birth_date": 1788,
+    "death_date": 1864,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Watson Gordon",
+            "Gordon, John Watson",
+            "John Watson",
+            "Sir John Watson Gordon",
+            "Sir John Watson-Gordon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:01:04-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

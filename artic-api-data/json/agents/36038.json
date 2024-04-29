@@ -1,0 +1,31 @@
+{
+    "id": 36038,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36038",
+    "title": "Emil Nolde",
+    "sort_title": "Nolde, Emil",
+    "alt_titles": [
+        "Emil Hansen"
+    ],
+    "is_artist": true,
+    "birth_date": 1867,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Emil Nolde",
+            "Nolde, Emil",
+            "Emil Hansen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:53-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

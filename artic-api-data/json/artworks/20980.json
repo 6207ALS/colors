@@ -1,0 +1,177 @@
+{
+    "id": 20980,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/20980",
+    "is_boosted": false,
+    "title": "Tea Chest",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHs0FpZFG6laMY9kT5hrVaVqS553Z6iKfcGRfLafkMSxqca2rd7k5eLk4u3l4unn5+3m5uvs7e7u7u/x8+/y8+rx9e/0+PLy8fDx8vH08vX29vX5+ff5+vX5/AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYINc90pZBSEEolyMEgKFhyzEk1GRVTBOFADs=",
+        "width": 2829,
+        "height": 2250,
+        "alt_text": "A work made of amboyna or yew burl veneer with gilt metal mounts."
+    },
+    "main_reference_number": "1964.528",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1805,
+    "date_end": 1815,
+    "date_display": "c. 1810",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "21.6 \u00d7 33 \u00d7 18.1 cm (8 1/2 \u00d7 13 \u00d7 7 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 18.1,
+            "depth_in": 7.125,
+            "width_cm": 33,
+            "width_in": 13,
+            "height_cm": 21.6,
+            "height_in": 8.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Amboyna or yew burl veneer with gilt metal mounts",
+    "inscriptions": null,
+    "credit_line": "Bequest of Russell Tyson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 47.9143,
+    "color": {
+        "h": 204,
+        "l": 93,
+        "s": 5,
+        "percentage": 1.1542412044133064,
+        "population": 6529
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "wood",
+        "wood (plant material)",
+        "veneer",
+        "metal",
+        "european decorative arts",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-84",
+    "classification_title": "wood",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-84",
+        "TM-1394",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "wood",
+        "european decorative arts",
+        "furniture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2431",
+    "alt_material_ids": [
+        "TM-2964",
+        "TM-2568"
+    ],
+    "material_ids": [
+        "TM-2431",
+        "TM-2964",
+        "TM-2568"
+    ],
+    "material_titles": [
+        "wood (plant material)",
+        "veneer",
+        "metal"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ef88a9da-c5ff-5d69-947c-dcc0d0346713",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.528"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tea Chest"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:59:31-05:00",
+    "timestamp": "2023-09-24T00:29:01-05:00"
+}

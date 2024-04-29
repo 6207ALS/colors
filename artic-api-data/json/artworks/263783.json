@@ -1,0 +1,198 @@
+{
+    "id": 263783,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/263783",
+    "is_boosted": false,
+    "title": "Claudy Jongstra",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABUUFTIwMDMwMT88OF5ZVH93bo6IiJOMjZyXl6GblaKZmaylnriyr726u9DLx9PKxtrW0tvX1OLe2ejj3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMMsERIU0wEQjiIM0GMkUggAOw==",
+        "width": 5434,
+        "height": 6686,
+        "alt_text": "A work made of book."
+    },
+    "main_reference_number": "2022.215",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2017,
+    "date_end": 2017,
+    "date_display": "2017",
+    "date_qualifier_title": "Published",
+    "date_qualifier_id": 10,
+    "artist_display": "Irma Boom\nDutch, born 1960",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "35 \u00d7 25 \u00d7 2 cm (13 3/4 \u00d7 10 \u00d7 3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2,
+            "depth_in": 3,
+            "width_cm": 25,
+            "width_in": 10,
+            "height_cm": 35,
+            "height_in": 13.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 56,
+        "s": 78,
+        "percentage": 0.0002834987957081255,
+        "population": 103
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 285",
+    "gallery_id": 23970,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 112759,
+    "artist_title": "Irma Boom",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112759
+    ],
+    "artist_titles": [
+        "Irma Boom"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "book",
+        "book",
+        "21st Century",
+        "book",
+        "graphic design",
+        "book",
+        "books",
+        "graphic design",
+        "graphic design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "book",
+        "graphic design"
+    ],
+    "subject_id": "TM-14696",
+    "alt_subject_ids": [
+        "TM-14980",
+        "TM-12453",
+        "TM-13337",
+        "TM-15068"
+    ],
+    "subject_ids": [
+        "TM-14696",
+        "TM-14980",
+        "TM-12453",
+        "TM-13337",
+        "TM-15068"
+    ],
+    "subject_titles": [
+        "book",
+        "book",
+        "books",
+        "graphic design",
+        "graphic design"
+    ],
+    "material_id": "TM-13142",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-13142"
+    ],
+    "material_titles": [
+        "book"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bb6642ee-1f77-abe8-ed5e-b06c6c9c20ba",
+    "alt_image_ids": [
+        "e430e6f6-7617-459d-b482-8d3cc1eacfd3",
+        "04f38b21-7269-c29b-375e-59295d92516d"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.215"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Claudy Jongstra"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T15:50:31-05:00",
+    "updated_at": "2023-05-17T15:53:14-05:00",
+    "timestamp": "2023-09-24T01:58:27-05:00"
+}

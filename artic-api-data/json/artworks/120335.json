@@ -1,0 +1,168 @@
+{
+    "id": 120335,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120335",
+    "is_boosted": false,
+    "title": "Sturgeon Decoy",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAADs3Nzo2OUE9PWpbOj89RkNAQUZCSEdCSUpHSk9MSUVGUktMWE5NWFRQUVFQVVlSUlhVVlRSWHRlSG1iW29oXXNoVGlnbXJoYnhyaZNpF5J2Oa+BFrWDJKiCMbiONMyRF8WSHpyERJOBUaCEbaSKe5qZoZybpa6prrq4t7y6u7y7vsPCwsbExdLU2dvY2Nza293f4+Lh5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuwAKiAYkwFgoCQJBwPCqikGYQMGQ2Hc4H5JEcSqQR5jKhWEynF6yVWrFUKFcsCAA7",
+        "width": 3000,
+        "height": 1522,
+        "alt_text": "A work made of wood, paint, and tin."
+    },
+    "main_reference_number": "1991.252",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1960,
+    "date_display": "c. 1960",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 20th century)\nProbably Wisconsin",
+    "place_of_origin": "Wisconsin",
+    "description": null,
+    "dimensions": "8.9 \u00d7 17.8 \u00d7 40.6 cm (3 1/2 \u00d7 7 \u00d7 16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 40.6,
+            "depth_in": 16,
+            "width_cm": 17.8,
+            "width_in": 7,
+            "height_cm": 8.9,
+            "height_in": 3.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wood, paint, and tin",
+    "inscriptions": null,
+    "credit_line": "Mrs. Thomas Loren Karsten Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 69.9694,
+    "color": {
+        "h": 46,
+        "l": 54,
+        "s": 91,
+        "percentage": 0.03852507178412656,
+        "population": 139
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "wood (plant material)",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2431",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2431"
+    ],
+    "material_titles": [
+        "wood (plant material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a4170e19-1533-cf83-6e5e-fde5cfa38757",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.252"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sturgeon Decoy"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-20T14:15:08-05:00",
+    "updated_at": "2023-06-20T14:17:53-05:00",
+    "timestamp": "2023-09-24T01:13:37-05:00"
+}

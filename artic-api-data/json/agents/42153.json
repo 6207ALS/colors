@@ -1,0 +1,28 @@
+{
+    "id": 42153,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42153",
+    "title": "Hendrik Hondius, I",
+    "sort_title": "Hondius, Hendrik, I",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1573,
+    "death_date": 1700,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hendrik Hondius, I",
+            "Hondius, Hendrik, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-09-20T14:47:10-05:00",
+    "updated_at": "2023-09-20T14:50:51-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

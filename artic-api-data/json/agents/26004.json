@@ -1,0 +1,31 @@
+{
+    "id": 26004,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/26004",
+    "title": "Claude Thi\u00e9non",
+    "sort_title": "Thi\u00e9non, Claude",
+    "alt_titles": [
+        "Anne Claude Thienon"
+    ],
+    "is_artist": true,
+    "birth_date": 1772,
+    "death_date": 1846,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Claude Thi\u00e9non",
+            "Thi\u00e9non, Claude",
+            "Anne Claude Thienon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:53-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 39509,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/39509",
+    "is_boosted": false,
+    "title": "Portrait of Dr. Broussais",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJCMe62olbKvnrazor+1oLy4pcS6o8K7psC7qcK7qcW+qcW/qcW+q8G9rMO/rca/rsnCrMvFsMzGssnGtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4CJFxiQMUAEECtI4R/IwRAgAOw==",
+        "width": 2115,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on cream wove paper."
+    },
+    "main_reference_number": "1972.590",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1817,
+    "date_end": 1817,
+    "date_display": "1817",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Giuseppe Maria Crespi (Italian, 1665-1747)\nprinted by Comte de Charles Philibert Lasteyrie du Saillant (French, 1759-1849)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "Image: 12.9 \u00d7 13.9 cm (5 1/8 \u00d7 5 1/2 in.); Sheet: 34.5 \u00d7 24.2 cm (13 5/8 \u00d7 9 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.9,
+            "width_in": 5.4725,
+            "height_cm": 12.9,
+            "height_in": 5.0788,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.2,
+            "width_in": 9.5276,
+            "height_cm": 34.5,
+            "height_in": 13.5827,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Harold Joachim Purchase Fund",
+    "catalogue_display": "<p>Fonds Fran\u00e7ais 1.9</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.011,
+    "color": {
+        "h": 57,
+        "l": 50,
+        "s": 32,
+        "percentage": 9.91839147494416e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 5574,
+    "artist_title": "Charles Edward Crespy Le Prince",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        5574
+    ],
+    "artist_titles": [
+        "Charles Edward Crespy Le Prince"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "67faff4e-3602-9a65-b995-d6f47da62256",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.590"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Dr. Broussais"
+            ],
+            "weight": 13,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:45:32-05:00",
+    "timestamp": "2023-09-24T00:37:39-05:00"
+}

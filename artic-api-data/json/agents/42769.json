@@ -1,0 +1,31 @@
+{
+    "id": 42769,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42769",
+    "title": "Juan Gonz\u00e1lez",
+    "sort_title": "Gonz\u00e1lez, Juan",
+    "alt_titles": [
+        "Juan Gonzales"
+    ],
+    "is_artist": true,
+    "birth_date": 1945,
+    "death_date": 1993,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan Gonz\u00e1lez",
+            "Gonz\u00e1lez, Juan",
+            "Juan Gonzales"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:54-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

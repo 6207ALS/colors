@@ -1,0 +1,28 @@
+{
+    "id": 41409,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41409",
+    "title": "Michel Joseph Speeckaert",
+    "sort_title": "Speeckaert, Michel Joseph",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1748,
+    "death_date": 1838,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Michel Joseph Speeckaert",
+            "Speeckaert, Michel Joseph"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:10-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

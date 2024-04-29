@@ -1,0 +1,176 @@
+{
+    "id": 121853,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/121853",
+    "is_boosted": false,
+    "title": "Stand",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAL6fjsGmlcu+tc/AttDCudHDuc/FwMnMydTMyNHT0dfY1tva2t7e3N/e3uDf3uHh3+rn5ezq6O3t6wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIMYiwMESkIIBzMUjwRFUggAOw==",
+        "width": 1878,
+        "height": 2250,
+        "alt_text": "A work made of birch."
+    },
+    "main_reference_number": "2008.679",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1790,
+    "date_end": 1810,
+    "date_display": "c. 1790\u20131810",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 18th\u201319th century)\nCoastal New Hampshire",
+    "place_of_origin": "New Hampshire",
+    "description": null,
+    "dimensions": "68.9 \u00d7 52.1 \u00d7 34.3 cm (27 1/8 \u00d7 20 1/2 \u00d7 13 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 34.3,
+            "depth_in": 13.5,
+            "width_cm": 52.1,
+            "width_in": 20.5,
+            "height_cm": 68.9,
+            "height_in": 27.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Birch",
+    "inscriptions": null,
+    "credit_line": "Gift of Jamee J. and Marshall Field",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.291,
+    "color": {
+        "h": 33,
+        "l": 50,
+        "s": 83,
+        "percentage": 0.001879191477866648,
+        "population": 16
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "furniture accessory",
+        "birch",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-559",
+    "classification_title": "furniture accessory",
+    "alt_classification_ids": [
+        "TM-2190",
+        "TM-2191",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-559",
+        "TM-2190",
+        "TM-2191",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "furniture accessory",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3553",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3553"
+    ],
+    "material_titles": [
+        "birch"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6f554cca-55a1-db7c-5355-5e29912d1131",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.679"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Stand"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:16:15-05:00",
+    "timestamp": "2023-09-24T01:14:38-05:00"
+}

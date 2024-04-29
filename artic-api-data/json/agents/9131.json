@@ -1,0 +1,33 @@
+{
+    "id": 9131,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9131",
+    "title": "Anton Domenico Gabbiani",
+    "sort_title": "Gabbiani, Anton Domenico",
+    "alt_titles": [
+        "Antonio Domenico Gabbiani",
+        "Anton D. Gabbiani"
+    ],
+    "is_artist": true,
+    "birth_date": 1652,
+    "death_date": 1726,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Anton Domenico Gabbiani",
+            "Gabbiani, Anton Domenico",
+            "Antonio Domenico Gabbiani",
+            "Anton D. Gabbiani"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:49-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

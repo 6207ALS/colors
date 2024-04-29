@@ -1,0 +1,181 @@
+{
+    "id": 233435,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/233435",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAKd7QKR5Qq2ARLCDSLCJVqmceb+lc7igdLukd7WhfbagfsOla8aqcauYk6yhgLClgbqmiLOqlrmrkb+vn7qwo7i5qb+7qsSvkM26ksS2rrnAvsrBo9rMr83ItcbFvcvFus3Gvb7FwMPGx8XExcPKwcvPxc7JyNPNx9PKyNLQx9XQxNTRxNjUxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQM7msmBgOhnURIEwHBISyqhBGAACAgjJo6k8Co6I5WMShUosVWoFOgUBADs=",
+        "width": 10754,
+        "height": 5939,
+        "alt_text": "A work made of acrylic paint over graphite on white matboard."
+    },
+    "main_reference_number": "2020.642",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1980,
+    "date_end": 1980,
+    "date_display": "1980",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William Dawson\nAmerican, 1901-1990",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "26.3 \u00d7 49.2 cm (10 3/8 \u00d7 19 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.2,
+            "width_in": 19.3701,
+            "height_cm": 26.3,
+            "height_in": 10.3544,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic paint over graphite on white matboard",
+    "inscriptions": "Signed and dated lower right, in black: \u201cW.M. DAWSON / 11-3-80\u201d",
+    "credit_line": "Bequest of Robert A. Lewis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 41,
+        "l": 48,
+        "s": 74,
+        "percentage": 0.00032880312562130087,
+        "population": 210
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 53754,
+    "artist_title": "William Dawson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        53754
+    ],
+    "artist_titles": [
+        "William Dawson"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "acrylic paint",
+        "prints and drawing",
+        "mat board",
+        "paint",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-10387",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4",
+        "TM-10387",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing",
+        "paint",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2407",
+    "alt_material_ids": [
+        "TM-3019"
+    ],
+    "material_ids": [
+        "TM-2407",
+        "TM-3019"
+    ],
+    "material_titles": [
+        "acrylic paint",
+        "mat board"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "77203baf-eb27-7e0a-7c82-6656478f38a6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.642"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-11T10:13:04-05:00",
+    "updated_at": "2023-04-07T14:33:26-05:00",
+    "timestamp": "2023-09-24T01:50:35-05:00"
+}

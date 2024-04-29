@@ -1,0 +1,174 @@
+{
+    "id": 97390,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/97390",
+    "is_boosted": false,
+    "title": "Sunflowers",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAABEUGhAXGhQXHC0pIC4sKDAxJzw0Jz03Jjg5KkA1IUE7KU5ML11LKUxGMFRSOnBLJVpgQVxgSFllT2BrS5F7OIx5RbGPO5uGRaWYWgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIBAsiYBAF2M4kVQQTTVZh4JRzxACADs=",
+        "width": 4321,
+        "height": 4090,
+        "alt_text": "A work made of dye imbibition print."
+    },
+    "main_reference_number": "1982.385",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1935,
+    "date_end": 1945,
+    "date_display": "c. 1940",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Edward Steichen\nAmerican, born Luxembourg, 1879\u20131973",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "38.5 \u00d7 40.8 cm (15 3/16 \u00d7 16 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40.8,
+            "width_in": 16.063,
+            "height_cm": 38.5,
+            "height_in": 15.1575,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Dye imbibition print",
+    "inscriptions": null,
+    "credit_line": "Bequest of Edward Steichen by direction of Joanna T. Steichen and George Eastman House",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 The Estate of Edward Steichen/Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 64.7689,
+    "color": {
+        "h": 42,
+        "l": 55,
+        "s": 83,
+        "percentage": 0.12486732846350754,
+        "population": 840
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36782,
+    "artist_title": "Edward Steichen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36782
+    ],
+    "artist_titles": [
+        "Edward Steichen"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "dye imbibition print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-258",
+    "classification_title": "dye imbibition print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-258",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "dye imbibition print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "65030cb4-839d-7e21-ae4e-dda73ba3f282",
+    "alt_image_ids": [
+        "26a66c8b-698f-be98-d0aa-300f213d578a",
+        "1a64ae78-4682-bfcd-23da-eb81f8023ee0"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.385"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sunflowers"
+            ],
+            "weight": 147,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-09-23T23:20:05-05:00",
+    "timestamp": "2023-09-24T01:02:51-05:00"
+}

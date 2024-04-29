@@ -1,0 +1,147 @@
+{
+    "id": 111178,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111178",
+    "is_boosted": false,
+    "title": "Borders",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAGBeYGlmZmpoaG1paHVycnp3dYuIiZCLiZGNjJOOjJaRj5aSkM3JzNbQzdjRz9rU0t3W09vW1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUTICCOR4IoC9NIjxNBwSAQRjGOIQA7",
+        "width": 2988,
+        "height": 2535,
+        "alt_text": "A work made of linen, bobbin part lace."
+    },
+    "main_reference_number": "1933.1530a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Hungary",
+    "place_of_origin": "Hungary",
+    "description": null,
+    "dimensions": "a: 18 \u00d7 181.3 cm (7 1/8 \u00d7 71 3/8 in.)\nWidth repeat: 36.4-36.8 cm (14 1/4-1/2 in.)\nb: 18.3 \u00d7 81.45 cm (7 1/4 \u00d7 32 in.)\nWidth repeat: 35.3-36.4 cm (13 7/8-14 3/8 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Linen, bobbin part lace",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Edward E. Ayer in memory of Edward E. Ayer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.6501,
+    "color": {
+        "h": 356,
+        "l": 49,
+        "s": 4,
+        "percentage": 0.0038158757019966984,
+        "population": 23
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1647"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1647"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3b399e4b-d4d9-81d3-0a96-cc452387c0de",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1530a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Borders"
+            ],
+            "weight": 8,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:20-05:00",
+    "updated_at": "2023-04-10T15:23:56-05:00",
+    "timestamp": "2023-09-24T01:09:44-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 203141,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/203141",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKumn7Svp7+6sMW/tcbAtc/Kv9LNwtXPw9bRxNnSxtvWyt/Zyd7YyuDay+HbzOHbzuPdzuTdz+Xez+bf0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIPNMUYMMEmQEiVMAxHIISggAOw==",
+        "width": 1910,
+        "height": 2250,
+        "alt_text": "A work made of graphite on mylar."
+    },
+    "main_reference_number": "2010.349",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1939,
+    "date_end": 1949,
+    "date_display": "c. 1944",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Marin\nAmerican, 1870-1953",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "26.2 \u00d7 20.7 cm (10 3/8 \u00d7 8 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.7,
+            "width_in": 8.1497,
+            "height_cm": 26.2,
+            "height_in": 10.315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on mylar",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Meg and Mark Hausberg in honor of Martha Tedeschi",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Estate of John Marin / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.3283,
+    "color": {
+        "h": 39,
+        "l": 36,
+        "s": 4,
+        "percentage": 0.0032254249497371277,
+        "population": 27
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35606,
+    "artist_title": "John Marin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35606
+    ],
+    "artist_titles": [
+        "John Marin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e70de5bf-362c-6d0f-7e67-0b9d1cef6f07",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.349"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 93,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:46:17-05:00",
+    "timestamp": "2023-09-24T01:40:49-05:00"
+}

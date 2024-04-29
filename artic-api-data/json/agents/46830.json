@@ -1,0 +1,33 @@
+{
+    "id": 46830,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46830",
+    "title": "Style of Pietro Antonio di Pietri",
+    "sort_title": "Pietri, Pietro Antonio di, Style of",
+    "alt_titles": [
+        "Style of Pietro Antonio de Pietri",
+        "Style of Pietro Antonio de Petri"
+    ],
+    "is_artist": true,
+    "birth_date": 1663,
+    "death_date": 1716,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Style of Pietro Antonio di Pietri",
+            "Pietri, Pietro Antonio di, Style of",
+            "Style of Pietro Antonio de Pietri",
+            "Style of Pietro Antonio de Petri"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:49-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

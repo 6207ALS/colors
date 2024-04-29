@@ -1,0 +1,171 @@
+{
+    "id": 145409,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145409",
+    "is_boosted": false,
+    "title": "Black Net",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIyLiJOQkJiXnJqaoammoq6sr7KuqrKvrr63rcC5scC6tMa/t8jCvsrDvs/HwdHNy9nU0dvV0NrY2enn5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIBAIA2EchcI80tJAE5I4UQgAOw==",
+        "width": 551,
+        "height": 768,
+        "alt_text": "A work made of rattan, square knotted netting; painted."
+    },
+    "main_reference_number": "1996.378",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1982,
+    "date_end": 1982,
+    "date_display": "1982",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Joanne Segal Brandford (American, 1933\u20131994)",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "179.4 \u00d7 173 cm (70 5/8 \u00d7 68 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 173,
+            "width_in": 68.125,
+            "height_cm": 179.4,
+            "height_in": 70.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Rattan, square knotted netting; painted",
+    "inscriptions": null,
+    "credit_line": "Alexander Demond Fund; Marie Walters Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.8649,
+    "color": {
+        "h": 279,
+        "l": 61,
+        "s": 1,
+        "percentage": 0.15113197546755508,
+        "population": 1497
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 60484,
+    "artist_title": "Joanne Segal Brandford",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        60484
+    ],
+    "artist_titles": [
+        "Joanne Segal Brandford"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "fiber art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-10653"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-10653"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "fiber art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "e300428a-cf11-0de5-04b0-ec96d581fce5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.378"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Black Net"
+            ],
+            "weight": 65,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:15-05:00",
+    "updated_at": "2023-04-10T08:10:21-05:00",
+    "timestamp": "2023-09-24T01:24:59-05:00"
+}

@@ -1,0 +1,166 @@
+{
+    "id": 72903,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72903",
+    "is_boosted": false,
+    "title": "Picture of the Cathedral at Lincoln, England",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIxpRIxqR45rR4VqU4RtWo12VIt3WZd8VqB0RKV9UaN+XKJ+XZV6YZl9Z5R9bKqAUa6CUqmEUKuCVJaAbJyIaJ2GcaOBYqCMaqOIbqmPabuWY72YZKCJdbWZcL+kesCYX8Wic82mcsOpgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAeGU5kwCIuQqOP5ACwgiuGyCSg0mUMhImhAJI8EYhAEADs=",
+        "width": 3000,
+        "height": 2226,
+        "alt_text": "A work made of silk, embroidered."
+    },
+    "main_reference_number": "1950.1522",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1870,
+    "date_end": 1880,
+    "date_display": "1870/80",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England",
+    "place_of_origin": "Lincoln",
+    "description": null,
+    "dimensions": "66.1 \u00d7 38.1 cm (26 \u00d7 15 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38.1,
+            "width_in": 15,
+            "height_cm": 66.1,
+            "height_in": 26,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, embroidered",
+    "inscriptions": null,
+    "credit_line": "Gift of R. Thornton Wilson in memory of his mother Caroline Astor Wilson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1951,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 58.9467,
+    "color": {
+        "h": 9,
+        "l": 48,
+        "s": 5,
+        "percentage": 0.564695538147268,
+        "population": 2980
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a275baea-0dd1-1968-b4ab-c70484cab94f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.1522"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Picture of the Cathedral at Lincoln, England"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:41:48-05:00",
+    "timestamp": "2023-09-24T00:51:50-05:00"
+}

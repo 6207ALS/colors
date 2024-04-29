@@ -1,0 +1,37 @@
+{
+    "id": 40750,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40750",
+    "title": "Cesare Pollini",
+    "sort_title": "Pollini, Cesare",
+    "alt_titles": [
+        "Cesare dal Francia",
+        "Cesare Pollini, (Cesare dal Francia)",
+        "Cesare Pollini, (dal Francia)",
+        "Cesare Pollino, (dal Francia)"
+    ],
+    "is_artist": true,
+    "birth_date": 1550,
+    "death_date": 1640,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cesare Pollini",
+            "Pollini, Cesare",
+            "Cesare dal Francia",
+            "Cesare Pollini, (Cesare dal Francia)",
+            "Cesare Pollini, (dal Francia)",
+            "Cesare Pollino, (dal Francia)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T10:25:40-05:00",
+    "updated_at": "2020-06-15T10:31:10-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

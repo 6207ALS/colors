@@ -1,0 +1,168 @@
+{
+    "id": 182459,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182459",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGBXTWheU4J3a4N4baaflaifk8PAusfEv8zLxs7OyczNytHRztPT0NXV0dTV0tTV09XW09bX1NbY1djZ1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGQcTiQMExIAyVMQ0tIwSggAOw==",
+        "width": 3740,
+        "height": 5257,
+        "alt_text": "A work made of photograph on leaf."
+    },
+    "main_reference_number": "2004.40",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2000,
+    "date_end": 2000,
+    "date_display": "2000",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Accra Shepp\nAmerican, born 1962",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Frame: 76.5 \u00d7 63.5 \u00d7 2.5 cm (30 1/8 \u00d7 25 \u00d7 1 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2.5,
+            "depth_in": 0.9843,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 76.5,
+            "height_in": 30.1182,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Frame"
+        }
+    ],
+    "medium_display": "Photograph on leaf",
+    "inscriptions": null,
+    "credit_line": "Gift of Martha and Jorge Schneider",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.604,
+    "color": {
+        "h": 47,
+        "l": 66,
+        "s": 4,
+        "percentage": 0.005105335075153535,
+        "population": 51
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 101667,
+    "artist_title": "Accra Shepp",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        101667
+    ],
+    "artist_titles": [
+        "Accra Shepp"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "21st Century",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c221100d-9d32-640e-d2f0-02d6ffdb71f2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.40"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-02T16:18:11-06:00",
+    "updated_at": "2023-04-07T12:33:14-05:00",
+    "timestamp": "2023-09-24T01:33:53-05:00"
+}

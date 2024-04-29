@@ -1,0 +1,37 @@
+{
+    "id": 41306,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41306",
+    "title": "Joos de Momper, II",
+    "sort_title": "Momper, Joos de, II",
+    "alt_titles": [
+        "Jodocus de Momper, II",
+        "Joeys de Momper, II",
+        "Josse de Momper, II",
+        "Joos de Momper, the younger"
+    ],
+    "is_artist": true,
+    "birth_date": 1564,
+    "death_date": 1635,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joos de Momper, II",
+            "Momper, Joos de, II",
+            "Jodocus de Momper, II",
+            "Joeys de Momper, II",
+            "Josse de Momper, II",
+            "Joos de Momper, the younger"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:17-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

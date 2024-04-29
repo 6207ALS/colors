@@ -1,0 +1,176 @@
+{
+    "id": 89447,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/89447",
+    "is_boosted": false,
+    "title": "Untitled, from Pour Jorn",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADhDT11semFoboCHbLaflPHfk9fao8TMtu7XrvHkv/77vNjf3urf0O7t1enq3ujp4Ons4u3u5u/w5fT17QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIJAUUEsjBIIjTEAx+NMUggAOw==",
+        "width": 2179,
+        "height": 3000,
+        "alt_text": "A work made of color lithograph on ivory wove paper."
+    },
+    "main_reference_number": "1979.687n",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1976,
+    "date_end": 1976,
+    "date_display": "1976",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Maurice Wyckaert\nBelgian, born 1923",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "Sheet: 75 \u00d7 54 cm (29 9/16 \u00d7 21 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 54,
+            "width_in": 21.2599,
+            "height_cm": 75,
+            "height_in": 29.5276,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color lithograph on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Asger Jorn Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 57.7762,
+    "color": {
+        "h": 10,
+        "l": 52,
+        "s": 95,
+        "percentage": 0.019429786885916473,
+        "population": 190
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 87663,
+    "artist_title": "Maurice Wyckaert",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        87663
+    ],
+    "artist_titles": [
+        "Maurice Wyckaert"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f6140c82-2a39-5b53-72ce-577f0194d2cb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1979.687n"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled, from Pour Jorn"
+            ],
+            "weight": 12,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:00:41-05:00",
+    "timestamp": "2023-09-24T00:59:25-05:00"
+}

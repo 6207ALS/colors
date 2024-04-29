@@ -1,0 +1,35 @@
+{
+    "id": 14187,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14187",
+    "title": "Hashimoto Koei (Ikeda Koei)",
+    "sort_title": "Hashimoto Koei (Ikeda Koei)",
+    "alt_titles": [
+        "Ikeda Koei",
+        "Hashimoto Koei",
+        "Hashimoto Seijiro"
+    ],
+    "is_artist": true,
+    "birth_date": 1892,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hashimoto Koei (Ikeda Koei)",
+            "Hashimoto Koei (Ikeda Koei)",
+            "Ikeda Koei",
+            "Hashimoto Koei",
+            "Hashimoto Seijiro"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:15:06-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

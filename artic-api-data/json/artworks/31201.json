@@ -1,0 +1,159 @@
+{
+    "id": 31201,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/31201",
+    "is_boosted": false,
+    "title": "Collar",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPQAAAAAAAAAAgAAAwAABAECBwIDBwEDCAMECAQFCgYHDAgJDgkJDgkKDxAQFBERFSopKywqLiwrLi8uMTUzNj89P2RfX2JeYGNeYWVgYHx2dI2GhJKLiQAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAUgoAEIDDMABHRJAPBYUTNpWbZRDhIUWHUAiIQi0UosEiEAOw==",
+        "width": 3292,
+        "height": 2184,
+        "alt_text": "A work made of cotton, mixed lace: bobbin lace of a type known as \"duchesse\" with insets of needle lace of a type known as \"point de gaze\"."
+    },
+    "main_reference_number": "1969.120",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1885,
+    "date_end": 1900,
+    "date_display": "1885/1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Belgium, Brussels",
+    "place_of_origin": "Brussels",
+    "description": null,
+    "dimensions": "24.1 \u00d7 129.4 cm (9 1/2 \u00d7 50 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 129.4,
+            "width_in": 50.875,
+            "height_cm": 24.1,
+            "height_in": 9.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, mixed lace: bobbin lace of a type known as \"Duchesse\" with insets of needle lace of a type known as \"Point de Gaze\"",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. C. Phillip Miller",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.3131,
+    "color": {
+        "h": 5,
+        "l": 45,
+        "s": 3,
+        "percentage": 0.01273244673062599,
+        "population": 60
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - mixed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1661"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1661"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - mixed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bb5ba38f-b79c-7389-36e6-2e48b4429bc9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1969.120"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Collar"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:01:48-05:00",
+    "timestamp": "2023-09-24T00:34:15-05:00"
+}

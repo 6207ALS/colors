@@ -1,0 +1,35 @@
+{
+    "id": 25480,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/25480",
+    "title": "Tanaka Shutei",
+    "sort_title": "Tanaka Shutei",
+    "alt_titles": [
+        "Sh\u00fbtei Tanaka",
+        "Shutei Tanaka",
+        "Sh\u00fbtei Tanaka"
+    ],
+    "is_artist": true,
+    "birth_date": 1810,
+    "death_date": 1858,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tanaka Shutei",
+            "Tanaka Shutei",
+            "Sh\u00fbtei Tanaka",
+            "Shutei Tanaka",
+            "Sh\u00fbtei Tanaka"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:11:09-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

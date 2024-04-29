@@ -1,0 +1,45 @@
+{
+    "id": 42463,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42463",
+    "title": "Lieven Mehus",
+    "sort_title": "Mehus, Lieven",
+    "alt_titles": [
+        "Livio Mehus",
+        "Livio Meehus",
+        "Livio Meus",
+        "Livio Mehuys",
+        "Livius Meehus",
+        "Livius Mehus",
+        "Livius Meus",
+        "Livius Mehuys"
+    ],
+    "is_artist": true,
+    "birth_date": 1630,
+    "death_date": 1691,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lieven Mehus",
+            "Mehus, Lieven",
+            "Livio Mehus",
+            "Livio Meehus",
+            "Livio Meus",
+            "Livio Mehuys",
+            "Livius Meehus",
+            "Livius Mehus",
+            "Livius Meus",
+            "Livius Mehuys"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:43-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

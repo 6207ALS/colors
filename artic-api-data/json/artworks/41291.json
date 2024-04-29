@@ -1,0 +1,179 @@
+{
+    "id": 41291,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/41291",
+    "is_boosted": false,
+    "title": "Sample (Window Blind)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAD8/LmsxK243Lns7OC1HMzFPOkFAMEZFNEdFNVVENlNMPz1dSUFbR0ZYRWpWR2JUSGNZTE1gTVRgUHR6S2JsXmtzY29yYnh/bowyMo8wNIFQRoBfVZJZVYRqQoZwRIZjWqB1XIR/bqJ+ZH+DW4SDWZKQb5WWeJ6VeQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJOGslCMGBcR5nEIdACb0kBSSEwIFlAGghB4DJ8TpxJxkBqhIAA7",
+        "width": 3000,
+        "height": 1832,
+        "alt_text": "A work made of cotton, silk, rayon, jute, bamboo, and metallic strip encased in synthetic film, plain weave."
+    },
+    "main_reference_number": "1972.1160k",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1956,
+    "date_end": 1956,
+    "date_display": "1956",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Dorothy Liebes (American, 1897-1972)\nNew York, New York, United States",
+    "place_of_origin": "New York City",
+    "description": null,
+    "dimensions": "20 \u00d7 33.2 cm (7 7/8 \u00d7 13 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33.2,
+            "width_in": 13.125,
+            "height_cm": 20,
+            "height_in": 7.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, silk, rayon, jute, bamboo, and metallic strip encased in synthetic film, plain weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Liebes Design, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 57.1862,
+    "color": {
+        "h": 353,
+        "l": 37,
+        "s": 64,
+        "percentage": 0.3254672977922123,
+        "population": 1413
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35485,
+    "artist_title": "Dorothy Liebes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35485
+    ],
+    "artist_titles": [
+        "Dorothy Liebes"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "a5623f45-0c4a-93ab-3d78-28aa3bd705fa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.1160k"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Window Blind)"
+            ],
+            "weight": 22,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-22T16:42:13-05:00",
+    "updated_at": "2023-09-22T16:46:10-05:00",
+    "timestamp": "2023-09-24T00:38:19-05:00"
+}

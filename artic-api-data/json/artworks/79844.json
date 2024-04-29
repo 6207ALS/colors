@@ -1,0 +1,179 @@
+{
+    "id": 79844,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/79844",
+    "is_boosted": false,
+    "title": "Book of Dye Recipes",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALCvp7e1rcC9tsC+tsG/t8PAuMTBuMfEvMfEvcnGvs3KwdHNxtTRyNXRytbSy9nUzdvWz93Z0N/b0uTf1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NM4C4QUgpQQQHQMwcQoRggAOw==",
+        "width": 2010,
+        "height": 2557,
+        "alt_text": "A work made of paper; sepia ink."
+    },
+    "main_reference_number": "1953.501",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Measurement of volume: 20.7 \u00d7 17.2 \u00d7 1.8 cm (8 1/8 \u00d7 6 3/4 \u00d7 3/4 in.); Measurement of box: 23.1 \u00d7 19 \u00d7 3.8 cm (9 1/8 \u00d7 7 1/2 \u00d7 1 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.8,
+            "depth_in": 0.75,
+            "width_cm": 17.2,
+            "width_in": 6.75,
+            "height_cm": 20.7,
+            "height_in": 8.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Measurement of volume"
+        },
+        {
+            "depth_cm": 3.8,
+            "depth_in": 1.5,
+            "width_cm": 19,
+            "width_in": 7.5,
+            "height_cm": 23.1,
+            "height_in": 9.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Measurement of box"
+        }
+    ],
+    "medium_display": "Paper; sepia ink",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Chauncey B. Borland",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.1833,
+    "color": {
+        "h": 48,
+        "l": 53,
+        "s": 3,
+        "percentage": 0.010623041376746162,
+        "population": 96
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "textile",
+        "book",
+        "printed textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-11",
+        "TM-2352"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-11",
+        "TM-2352"
+    ],
+    "classification_titles": [
+        "textile",
+        "book",
+        "printed textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3247d12e-b171-25d6-8b0a-3d83e1ca5cee",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1953.501"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Book of Dye Recipes"
+            ],
+            "weight": 20,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-14T12:47:04-05:00",
+    "updated_at": "2023-04-07T14:29:26-05:00",
+    "timestamp": "2023-09-24T00:54:29-05:00"
+}

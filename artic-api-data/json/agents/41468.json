@@ -1,0 +1,35 @@
+{
+    "id": 41468,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41468",
+    "title": "Johann Mathias Kager",
+    "sort_title": "Kager, Johann Mathias",
+    "alt_titles": [
+        "Johann M. Kager",
+        "Johann Mathias Kagerer",
+        "Johann Matthias Kager"
+    ],
+    "is_artist": true,
+    "birth_date": 1575,
+    "death_date": 1634,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Mathias Kager",
+            "Kager, Johann Mathias",
+            "Johann M. Kager",
+            "Johann Mathias Kagerer",
+            "Johann Matthias Kager"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:09-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

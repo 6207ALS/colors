@@ -1,0 +1,28 @@
+{
+    "id": 117366,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/117366",
+    "title": "Lynn Meyers",
+    "sort_title": "Meyers, Lynn",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1952,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lynn Meyers",
+            "Meyers, Lynn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-01T08:09:55-05:00",
+    "updated_at": "2021-07-01T08:10:42-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

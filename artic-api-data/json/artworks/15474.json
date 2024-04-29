@@ -1,0 +1,194 @@
+{
+    "id": 15474,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/15474",
+    "is_boosted": false,
+    "title": "The Snow",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAE9HPVxRQ39wW4Z4X4R2YoZ4ZJGCZ5uKcp2Perepkbapkr+wlL2wm8WvkcS1l8O0msq7ocy+pNXDqdbGq9nJqdrIq9/OstnLtd3NtOLStubXv+nZvezexu7gyQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoCZVyZNhzREIFkMgQDFdyjIYUMdRTrSFADs=",
+        "width": 3000,
+        "height": 2327,
+        "alt_text": "A work made of etching, aquatint and drypoint in black, ochre, red, gray, and yellow from two plates, some colors printed \u00e0 la poup\u00e9e, on ivory wove paper."
+    },
+    "main_reference_number": "1925.323",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1906,
+    "date_end": 1906,
+    "date_display": "1906",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Jean Fran\u00e7ois Raffa\u00eblli (French, 1850-1924)\npublished Galeries Georges Petit (French, 1846-1917)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 44.7 \u00d7 56.9 cm (17 5/8 \u00d7 22 7/16 in.); Plate: 45 \u00d7 56.9 cm (17 3/4 \u00d7 22 7/16 in.); Sheet: 54.8 \u00d7 70.6 cm (21 5/8 \u00d7 27 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 56.9,
+            "width_in": 22.4016,
+            "height_cm": 44.7,
+            "height_in": 17.5985,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 56.9,
+            "width_in": 22.4016,
+            "height_cm": 45,
+            "height_in": 17.7166,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 70.6,
+            "width_in": 27.7953,
+            "height_cm": 54.8,
+            "height_in": 21.5749,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching, aquatint and drypoint in black, ochre, red, gray, and yellow from two plates, some colors printed \u00e0 la poup\u00e9e, on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Charles H. Worcester",
+    "catalogue_display": "<p>Delteil 68 V/V</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1925,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.3813,
+    "color": {
+        "h": 38,
+        "l": 46,
+        "s": 33,
+        "percentage": 0.008887728042777179,
+        "population": 49
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40762,
+    "artist_title": "Jean-Fran\u00e7ois Rafa\u00eblli",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40762
+    ],
+    "artist_titles": [
+        "Jean-Fran\u00e7ois Rafa\u00eblli"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c7cc5be4-2f69-b733-f670-238bd608f70c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1925.323"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Snow"
+            ],
+            "weight": 133,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:38:53-05:00",
+    "timestamp": "2023-09-24T00:26:41-05:00"
+}

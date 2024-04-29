@@ -1,0 +1,28 @@
+{
+    "id": 113610,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/113610",
+    "title": "Albert Feinauer",
+    "sort_title": "Feinauer, Albert",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1886,
+    "death_date": 1955,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albert Feinauer",
+            "Feinauer, Albert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T18:15:34-05:00",
+    "updated_at": "2021-06-22T18:15:43-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

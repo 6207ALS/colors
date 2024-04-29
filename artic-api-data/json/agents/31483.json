@@ -1,0 +1,31 @@
+{
+    "id": 31483,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31483",
+    "title": "Heckmondwike Manufacturing Co.",
+    "sort_title": "Heckmondwike Manufacturing Co.",
+    "alt_titles": [
+        "Heckmondwike FB, Ltd."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Heckmondwike Manufacturing Co.",
+            "Heckmondwike Manufacturing Co.",
+            "Heckmondwike FB, Ltd."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-04-19T15:19:44-05:00",
+    "updated_at": "2022-04-19T15:21:48-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

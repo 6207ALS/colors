@@ -1,0 +1,173 @@
+{
+    "id": 15107,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/15107",
+    "is_boosted": false,
+    "title": "Handkerchief",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHpwX351Y4l8Z4p+apKHc5aKdZmNeZ+RfKKVgKOWgaeZg6mbha2chKydhq2dhqmciLejh7eli7enjrutlsS1n8e2oMa3oci4oci5o8m7pMq7pMy7pc69p8++qAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYINUwzrJhCRQh3VUIw8FlBBAYlaZI02OFADs=",
+        "width": 2820,
+        "height": 2250,
+        "alt_text": "A work made of cotton, twill weave; copperplate printed."
+    },
+    "main_reference_number": "1962.754",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1860,
+    "date_end": 1900,
+    "date_display": "1860/1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "After illustrations by C\u00e9lestin Nanteuil (French, 1813\u20131873)\nFrance",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "72.4 \u00d7 82.3 cm (28 1/2 \u00d7 32 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 82.3,
+            "width_in": 32.375,
+            "height_cm": 72.4,
+            "height_in": 28.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, twill weave; copperplate printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Chauncey B. Borland",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.0536,
+    "color": {
+        "h": 37,
+        "l": 39,
+        "s": 14,
+        "percentage": 0.09888267861014316,
+        "population": 561
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35959,
+    "artist_title": "Celestin Nanteuil",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35959
+    ],
+    "artist_titles": [
+        "Celestin Nanteuil"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "copperplate printing",
+        "propaganda",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": "TM-8731",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8731"
+    ],
+    "subject_titles": [
+        "propaganda"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10517",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10517"
+    ],
+    "technique_titles": [
+        "copperplate printing"
+    ],
+    "theme_titles": [],
+    "image_id": "43986065-1ef6-76fe-e7aa-8435e490d8b8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.754"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Handkerchief"
+            ],
+            "weight": 1030,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-12T11:10:04-06:00",
+    "updated_at": "2023-04-07T12:48:19-05:00",
+    "timestamp": "2023-09-24T00:26:32-05:00"
+}

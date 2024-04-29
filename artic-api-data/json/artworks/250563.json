@@ -1,0 +1,177 @@
+{
+    "id": 250563,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/250563",
+    "is_boosted": false,
+    "title": "Undercover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAMQKE8cMFc1hZ89kaNdpbd12ed54etl9gdqZntynq+OrrOW0te7r6+7t7e/t7e/t7u/v7/Dt7fDu7vDv7+/w8O/19O/4+PDw8PHx8fD29fH29vD39/D49/H4+PH5+PD5+fD8/PD9/PH9/PL//gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQApEEwJ1MJjGZlEwKDYSxugACBBEEYcnMRAgOA/IJPOxVCCXIAA7",
+        "width": 8581,
+        "height": 5721,
+        "alt_text": "A work made of glue, ink and oil on canvas."
+    },
+    "main_reference_number": "2019.920",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2012,
+    "date_end": 2012,
+    "date_display": "2012/18",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Penny Siopis\nSouth African, born 1953",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "20.5 \u00d7 25.5 cm (8 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.5,
+            "width_in": 10,
+            "height_cm": 20.5,
+            "height_in": 8,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glue, ink and oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Alfred & May Tiefenbronner Memorial Endowment, Laura T. Magnuson Endowment, and Cyrus H. McCormick funds",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 75.5142,
+    "color": {
+        "h": 352,
+        "l": 47,
+        "s": 84,
+        "percentage": 0.0557237117057788,
+        "population": 264
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 58071,
+    "artist_title": "Penny Siopis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        58071
+    ],
+    "artist_titles": [
+        "Penny Siopis"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+    ],
+    "term_titles": [
+        "21st Century",
+        "painting",
+        "abstract motifs",
+        "women"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-14200",
+    "classification_title": "21st Century",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-14200"
+    ],
+    "classification_titles": [
+        "21st Century"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-12737",
+        "TM-13074",
+        "TM-8735"
+    ],
+    "subject_ids": [
+        "TM-12737",
+        "TM-13074",
+        "TM-8735"
+    ],
+    "subject_titles": [
+        "painting",
+        "abstract motifs",
+        "women"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "f2efa4f8-a4a6-0bf6-8fb7-8b9225bb34e2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.920"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Undercover"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:45:46-05:00",
+    "timestamp": "2023-09-24T01:56:12-05:00"
+}

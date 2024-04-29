@@ -1,0 +1,177 @@
+{
+    "id": 258145,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/258145",
+    "is_boosted": false,
+    "title": "Avenue E. Ducpetiaux 106 - Saint Gilles",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHR0bn9+eJOSjZqZlJmZlpqZlqGhnKaloKurqLW1tLm5t7+/vsjHxdTU0tXU0tfX1d/f3+Pj4uPj4wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBRF0GMcjTMIjAIEyEIUSQgAOw==",
+        "width": 2900,
+        "height": 3328,
+        "alt_text": "A work made of graphite on white wove paper."
+    },
+    "main_reference_number": "2020.253",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2019,
+    "date_end": 2019,
+    "date_display": "2019",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sara Deraedt\nBelgian, born 1984",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "29.7 \u00d7 21 cm (11 3/4 \u00d7 8 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21,
+            "width_in": 8.2678,
+            "height_cm": 29.7,
+            "height_in": 11.693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Eric Ceputis and David W. Williams",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Brussels, Etablissement d'en Face, Sara Deraedt, Feb. 8\u2013Mar. 22, 2020 (extended until June 7 due to the COVID-19 virus), no cat.",
+    "provenance_text": "The artist; sold through Essex Street, New York, to the Art Institute of Chicago, September 15, 2020.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.7778,
+    "color": {
+        "h": 58,
+        "l": 52,
+        "s": 2,
+        "percentage": 0.039132413537606985,
+        "population": 319
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 116617,
+    "artist_title": "Sara Deraedt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        116617
+    ],
+    "artist_titles": [
+        "Sara Deraedt"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-8"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "prison",
+        "drawings (visual works)",
+        "graphite",
+        "wove paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-5"
+    ],
+    "classification_titles": [
+        "drawings (visual works)"
+    ],
+    "subject_id": "TM-14516",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-14516"
+    ],
+    "subject_titles": [
+        "prison"
+    ],
+    "material_id": "TM-2410",
+    "alt_material_ids": [
+        "TM-3074"
+    ],
+    "material_ids": [
+        "TM-2410",
+        "TM-3074"
+    ],
+    "material_titles": [
+        "graphite",
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "c1ee4d0e-8fe8-8cbe-e165-8ed68f250687",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.253"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Avenue E. Ducpetiaux 106 - Saint Gilles"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-19T13:28:01-05:00",
+    "updated_at": "2023-09-19T13:31:10-05:00",
+    "timestamp": "2023-09-24T01:57:14-05:00"
+}

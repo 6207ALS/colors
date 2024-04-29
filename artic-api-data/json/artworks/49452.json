@@ -1,0 +1,223 @@
+{
+    "id": 49452,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/49452",
+    "is_boosted": false,
+    "title": "Mountain Landscape",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFlTQWpkUXBrWXVuWH94YoR9ZoiBaYuEa4uEbIuFbZCIcZSOeZiSeamhiLOskLOrlLiwlbmxl7myl7ixmLmzm7y1m7u2nLy3oMC4nMC5ncC5nsC5n8O8osW9pMW+pMe/pcTAqszEqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwBBHooE4MJ8LiGI4bB4NRiKA8CgIBYBg0okMAgtLphIEADs=",
+        "width": 3000,
+        "height": 2158,
+        "alt_text": "A work made of black chalk, with stumping, brush and gray wash ,and white gouache, on gray wove paper, tipped onto green wove paper."
+    },
+    "main_reference_number": "1927.5310",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1834,
+    "date_end": 1873,
+    "date_display": "1834/73",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Attributed to John Ruskin \nEnglish, 1819-1900",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "26.1 \u00d7 36.5 cm (10 5/16 \u00d7 14 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36.5,
+            "width_in": 14.3701,
+            "height_cm": 26.1,
+            "height_in": 10.2756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Black chalk, with stumping, brush and gray wash ,and white gouache, on gray wove paper, tipped onto green wove paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.1077,
+    "color": {
+        "h": 44,
+        "l": 66,
+        "s": 23,
+        "percentage": 0.5890090788438275,
+        "population": 3009
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36495,
+    "artist_title": "John Ruskin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36495
+    ],
+    "artist_titles": [
+        "John Ruskin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "chalk",
+        "stumping",
+        "paper (fiber product)",
+        "wash",
+        "coating (material)",
+        "gouache",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "chalk sticks",
+        "black chalk",
+        "chalk",
+        "inorganic material",
+        "drawing techniques",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-209",
+    "classification_title": "chalk",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-209",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "chalk",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2399",
+        "TM-3238",
+        "TM-2404",
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2413",
+        "TM-2414",
+        "TM-3782",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2399",
+        "TM-3238",
+        "TM-2404",
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2413",
+        "TM-2414",
+        "TM-3782",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "wash",
+        "coating (material)",
+        "gouache",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "chalk sticks",
+        "black chalk",
+        "chalk",
+        "inorganic material"
+    ],
+    "technique_id": "TM-3854",
+    "alt_technique_ids": [
+        "TM-3968"
+    ],
+    "technique_ids": [
+        "TM-3854",
+        "TM-3968"
+    ],
+    "technique_titles": [
+        "stumping",
+        "drawing techniques"
+    ],
+    "theme_titles": [],
+    "image_id": "64e7b9f7-2f72-76cf-adc0-4e3477c62127",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.5310"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mountain Landscape"
+            ],
+            "weight": 186,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:22:32-05:00",
+    "timestamp": "2023-09-24T00:42:11-05:00"
+}

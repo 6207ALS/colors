@@ -1,0 +1,31 @@
+{
+    "id": 41382,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41382",
+    "title": "Cornelis Bisschop",
+    "sort_title": "Bisschop, Cornelis",
+    "alt_titles": [
+        "Cornelis Busschop"
+    ],
+    "is_artist": true,
+    "birth_date": 1630,
+    "death_date": 1674,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cornelis Bisschop",
+            "Bisschop, Cornelis",
+            "Cornelis Busschop"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2022-03-15T16:37:11-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 179556,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/179556",
+    "is_boosted": false,
+    "title": "T.B. Blackstone Memorial Library, Chicago, Illinois, Main Floor Plan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIJ6Z42Eb4+JdJmSfJmTfJqUfZyVhJ2WhJ6ZhKGbhKGZiquljq6nj6qlk6+qlq+ql6+qmLWvmLSum7Wvm7avm7SvnLeyobiyoru3pL65psK+rMXAscfDswAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIBMtCBFkWuVAxsZdE6VImPU0x5AkhQCEADs=",
+        "width": 2856,
+        "height": 2250,
+        "alt_text": "A work made of ink on linen."
+    },
+    "main_reference_number": "1988.2.4",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1901,
+    "date_end": 1901,
+    "date_display": "1901",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Solon Spencer Beman\nAmerican, 1853\u20131914",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "70 \u00d7 89 cm (27 9/16 \u00d7 35 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 89,
+            "width_in": 35.0625,
+            "height_cm": 70,
+            "height_in": 27.5625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on linen",
+    "inscriptions": null,
+    "credit_line": "Gift of Jeremy C. Beman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.7954,
+    "color": {
+        "h": 45,
+        "l": 50,
+        "s": 11,
+        "percentage": 0.14667209764324202,
+        "population": 821
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 33593,
+    "artist_title": "Solon Spencer Beman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33593
+    ],
+    "artist_titles": [
+        "Solon Spencer Beman"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural drawing",
+        "Chicago"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-126"
+    ],
+    "classification_titles": [
+        "architectural drawing"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ca558485-c2d3-5adc-db04-335fa464ea8a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.2.4"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "T.B. Blackstone Memorial Library, Chicago, Illinois, Main Floor Plan"
+            ],
+            "weight": 29,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:44:41-05:00",
+    "timestamp": "2023-09-24T01:32:50-05:00"
+}

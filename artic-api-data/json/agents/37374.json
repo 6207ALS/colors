@@ -1,0 +1,41 @@
+{
+    "id": 37374,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37374",
+    "title": "Soken",
+    "sort_title": "Soken",
+    "alt_titles": [
+        "Yamaguchi Soken",
+        "Sojun",
+        "Hakury\u00f4",
+        "Takejir\u00f4",
+        "Sansai",
+        "Yamaguchi Sojun"
+    ],
+    "is_artist": true,
+    "birth_date": 1759,
+    "death_date": 1818,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Soken",
+            "Soken",
+            "Yamaguchi Soken",
+            "Sojun",
+            "Hakury\u00f4",
+            "Takejir\u00f4",
+            "Sansai",
+            "Yamaguchi Sojun"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-08-04T16:59:05-05:00",
+    "updated_at": "2023-08-04T17:00:59-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

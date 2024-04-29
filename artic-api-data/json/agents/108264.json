@@ -1,0 +1,31 @@
+{
+    "id": 108264,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/108264",
+    "title": "Hiroshi Hamaya",
+    "sort_title": "Hamaya, Hiroshi",
+    "alt_titles": [
+        "Hiroshi Hamaya"
+    ],
+    "is_artist": true,
+    "birth_date": 1915,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hiroshi Hamaya",
+            "Hamaya, Hiroshi",
+            "Hiroshi Hamaya"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-05-12T15:46:39-05:00",
+    "updated_at": "2022-05-12T15:50:58-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

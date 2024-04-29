@@ -1,0 +1,163 @@
+{
+    "id": 59874,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59874",
+    "is_boosted": false,
+    "title": "Portrait of a Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABgeFB4mERshFBwjFB8iFxkgGR4jGh8kHCAkEyMnFyAoEiQnGCUoHSsuGSwwGTk1IEA6Ikg/LWFQM2JROAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYPNAjjJJwWIwiXBEA1EASAgAOw==",
+        "width": 1667,
+        "height": 2250,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1947.70",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1550,
+    "date_end": 1575,
+    "date_display": "1562",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Flemish (Antwerp?)",
+    "place_of_origin": "Flanders",
+    "description": null,
+    "dimensions": "31 \u00d7 23 cm (12 3/16 \u00d7 9 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23,
+            "width_in": 9.0625,
+            "height_cm": 31,
+            "height_in": 12.1875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": "Inscribed to the left of the sitter: AETATIS SVAE . 41 . , to the right of the sitter: Ao. 1562 .",
+    "credit_line": "Charles H. and Mary F. S. Worcester Collection",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), p. 162. \n\nR. H. Wilenski, Flemish Painters, 1430\u20131830 (London, 1960), vol. 1, pp. 143, 524, vol. 2, pl. 384.",
+    "exhibition_history": null,
+    "provenance_text": "Lilienfeld Galleries, New York, by 1938; sold to Charles H. Worcester, Chicago, 1938 [receipt from Lilienfeld Galleries to Charles H. Worcester, October 5, 1938]; on loan to the Art Institute from 1939 [according to Registrar\u2019s records]; given to the Art Institute, 1947.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.4143,
+    "color": {
+        "h": 38,
+        "l": 49,
+        "s": 41,
+        "percentage": 0.0008339118596859905,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 52849,
+    "artist_title": "Hans Eworth",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        52849
+    ],
+    "artist_titles": [
+        "Hans Eworth"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "00ca7b9d-5cf8-6e05-aea6-bf10ae13e393",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1947.70"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Woman"
+            ],
+            "weight": 454,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-25T15:48:43-05:00",
+    "updated_at": "2023-05-25T15:52:40-05:00",
+    "timestamp": "2023-09-24T00:46:09-05:00"
+}

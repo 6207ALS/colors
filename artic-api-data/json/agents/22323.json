@@ -1,0 +1,31 @@
+{
+    "id": 22323,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22323",
+    "title": "John Rote",
+    "sort_title": "Rote, John",
+    "alt_titles": [
+        "Johann Rote"
+    ],
+    "is_artist": true,
+    "birth_date": 1775,
+    "death_date": 1855,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Rote",
+            "Rote, John",
+            "Johann Rote"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:18-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 129209,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/129209",
+    "is_boosted": false,
+    "title": "A Useless Barricade, from Puck",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKyaeauff7Kkh7qujryvlMK2l8fApMvBpczEqdDGrNXLq9bMr9fNsNjRtN3Ttd3Utt7Xut/XuuHWueXZvgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4II0DmQQTDQITwEEypQcUggAOw==",
+        "width": 2266,
+        "height": 3000,
+        "alt_text": "A work made of color lithograph on newsprint."
+    },
+    "main_reference_number": "1938.235.34",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1890,
+    "date_end": 1890,
+    "date_display": "published January, 15 1890",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Louis Dalrymple\nAmerican, 1865-1905",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "35.5 \u00d7 26.8 cm (14 \u00d7 10 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.8,
+            "width_in": 10.5512,
+            "height_cm": 35.5,
+            "height_in": 13.9764,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on newsprint",
+    "inscriptions": null,
+    "credit_line": "Gift of Miss Nathalie Gookin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.4843,
+    "color": {
+        "h": 37,
+        "l": 39,
+        "s": 44,
+        "percentage": 0.0045706365302278515,
+        "population": 43
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 74651,
+    "artist_title": "Louis Dalrymple",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        74651
+    ],
+    "artist_titles": [
+        "Louis Dalrymple"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d8a24f2f-0f81-375f-4d2a-58b9c575dec8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.235.34"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "A Useless Barricade, from Puck"
+            ],
+            "weight": 28,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-04-10T10:29:37-05:00",
+    "timestamp": "2023-09-24T01:18:25-05:00"
+}

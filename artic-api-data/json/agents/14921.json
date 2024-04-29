@@ -1,0 +1,31 @@
+{
+    "id": 14921,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14921",
+    "title": "James Kerr Lawson",
+    "sort_title": "Lawson, James Kerr",
+    "alt_titles": [
+        "James Kerr-Lawson"
+    ],
+    "is_artist": true,
+    "birth_date": 1862,
+    "death_date": 1939,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Kerr Lawson",
+            "Lawson, James Kerr",
+            "James Kerr-Lawson"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:58-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

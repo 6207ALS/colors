@@ -1,0 +1,33 @@
+{
+    "id": 115897,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/115897",
+    "title": "Magasin des Demoiselles",
+    "sort_title": "Magasin des Demoiselles",
+    "alt_titles": [
+        "Administration et Redaction du Magasin des Demoiselles",
+        "Administration and editorial staff of the Magasin des Demoiselles"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Magasin des Demoiselles",
+            "Magasin des Demoiselles",
+            "Administration et Redaction du Magasin des Demoiselles",
+            "Administration and editorial staff of the Magasin des Demoiselles"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:16:10-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

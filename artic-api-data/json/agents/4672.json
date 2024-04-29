@@ -1,0 +1,33 @@
+{
+    "id": 4672,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/4672",
+    "title": "Qian Feng",
+    "sort_title": "Qian Feng",
+    "alt_titles": [
+        "Ch'ien F\u00eang",
+        "Ts'ien Feng"
+    ],
+    "is_artist": true,
+    "birth_date": 1740,
+    "death_date": 1795,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Qian Feng",
+            "Qian Feng",
+            "Ch'ien F\u00eang",
+            "Ts'ien Feng"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:54-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

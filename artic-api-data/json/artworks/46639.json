@@ -1,0 +1,184 @@
+{
+    "id": 46639,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46639",
+    "is_boosted": false,
+    "title": "Tablespoon",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHZ2dnh4eHh5eXl5eXp6enp6e3t7e3x8fH19fX59fX5+foOCgoaFhYeHhomIiIuKipOSkbGvrgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYGIEh2Eg0QMUhtA4jEIcQrBAiHkMxRECADs=",
+        "width": 2250,
+        "height": 1800,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1974.83",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1789,
+    "date_end": 1794,
+    "date_display": "1789\u201394",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Joseph Dubois\nAmerican, 1767\u20131798\nNew York",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "22.5 \u00d7 7.3 cm (8 7/8 \u00d7 2 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 7.3,
+            "width_in": 2.875,
+            "height_cm": 22.5,
+            "height_in": 8.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": "marked on reverse: \"J. DUBOIS\"",
+    "credit_line": "Gift of Mrs. Charles Starr in memory of her parents, Mr. and Mrs. Carter Braxton Semple",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Floyd Triplet Jabine (Mrs. Carter Braxton) Semple (born c.1876, Little Rock, AR, died 1941), Chicago; bequeathed to her daughter, Vairien Semple (Mrs. Charles) Starr (1915-2004), Crystal Lake, IL, 1941; given to the Art Institute, 1974.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 1.0739,
+    "color": {
+        "h": 76,
+        "l": 48,
+        "s": 0,
+        "percentage": 1.6369754761678477,
+        "population": 9301
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 7122,
+    "artist_title": "Joseph Dubois",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        7122
+    ],
+    "artist_titles": [
+        "Joseph Dubois"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "spoon",
+        "silver",
+        "silver",
+        "utensil",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11930",
+    "classification_title": "spoon",
+    "alt_classification_ids": [
+        "TM-161",
+        "TM-51",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11930",
+        "TM-161",
+        "TM-51",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "spoon",
+        "silver",
+        "utensil",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2436"
+    ],
+    "material_titles": [
+        "silver"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f1fc6fb2-8381-f86b-01f8-84b677c747fd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.83"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tablespoon"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:23:55-05:00",
+    "timestamp": "2023-09-24T00:40:45-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 42389,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42389",
+    "title": "George Copeland Ault",
+    "sort_title": "Ault, George Copeland",
+    "alt_titles": [
+        "George C. Ault"
+    ],
+    "is_artist": true,
+    "birth_date": 1891,
+    "death_date": 1948,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Copeland Ault",
+            "Ault, George Copeland",
+            "George C. Ault"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:35-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

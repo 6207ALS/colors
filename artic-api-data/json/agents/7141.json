@@ -1,0 +1,37 @@
+{
+    "id": 7141,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/7141",
+    "title": "Maxime Du Camp",
+    "sort_title": "Du Camp, Maxime",
+    "alt_titles": [
+        "Maxime Ducamp",
+        "Maxime Du Camp",
+        "Maksim Diukan",
+        "Maximos Dykan"
+    ],
+    "is_artist": true,
+    "birth_date": 1822,
+    "death_date": 1894,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maxime Du Camp",
+            "Du Camp, Maxime",
+            "Maxime Ducamp",
+            "Maxime Du Camp",
+            "Maksim Diukan",
+            "Maximos Dykan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:23-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 36764,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36764",
+    "title": "Barbara S. Spitz",
+    "sort_title": "Spitz, Barbara S.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1926,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Barbara S. Spitz",
+            "Spitz, Barbara S."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:40:48-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

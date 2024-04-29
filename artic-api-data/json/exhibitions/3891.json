@@ -1,0 +1,48 @@
+{
+    "id": 3891,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3891",
+    "title": "Masterpieces of Japanese Prints",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1955-03-10T00:00:00-06:00",
+    "aic_end_at": "1955-04-17T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "be5caacc-4ca7-fdb4-58ff-dc8b9a1ddb6f",
+    "alt_image_ids": [
+        "c7603944-eab0-63fa-65c0-fa87243c5584",
+        "30039e9c-fc73-04be-7ee1-2d830231b38d",
+        "8009830c-f0a7-97b4-bdb5-bb734d13a262",
+        "641cc788-533e-6235-e18f-9eaf3ac773dd",
+        "30d558de-454b-e9e2-537c-ffe637725609",
+        "27258311-11c4-e83b-faf0-d32e4d09d770",
+        "c2a6e014-a2db-398f-1c77-90ced028572d",
+        "357d701c-06ce-b317-edb3-71a603b86ce8",
+        "75425123-ea6e-9ba8-7bf4-980373949572"
+    ],
+    "document_ids": [
+        "de0fbfa9-14de-6df3-b291-c0ba5ed6c998"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Masterpieces of Japanese Prints"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-03-22T09:45:40-05:00",
+    "updated_at": "2023-03-22T09:47:56-05:00",
+    "timestamp": "2023-09-24T02:01:17-05:00"
+}

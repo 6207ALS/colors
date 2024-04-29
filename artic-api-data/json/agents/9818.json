@@ -1,0 +1,31 @@
+{
+    "id": 9818,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9818",
+    "title": "W. Edwin Gledhill",
+    "sort_title": "Gledhill, W. Edwin",
+    "alt_titles": [
+        "William Edwin Gledhill"
+    ],
+    "is_artist": true,
+    "birth_date": 1888,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "W. Edwin Gledhill",
+            "Gledhill, W. Edwin",
+            "William Edwin Gledhill"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:16:36-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

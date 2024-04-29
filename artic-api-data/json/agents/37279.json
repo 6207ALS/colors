@@ -1,0 +1,45 @@
+{
+    "id": 37279,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37279",
+    "title": "James McNeill Whistler",
+    "sort_title": "Whistler, James McNeill",
+    "alt_titles": [
+        "James Abbott McNeill Whistler",
+        "J. A. M. Whistler",
+        "James A. McNeill Whistler"
+    ],
+    "is_artist": true,
+    "birth_date": 1834,
+    "death_date": 1903,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "James McNeill Whistler",
+            "Whistler, James McNeill",
+            "James Abbott McNeill Whistler",
+            "J. A. M. Whistler",
+            "James A. McNeill Whistler"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "James McNeill Whistler",
+            "Whistler, James McNeill",
+            "James Abbott McNeill Whistler",
+            "J. A. M. Whistler",
+            "James A. McNeill Whistler"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-05T14:39:51-05:00",
+    "updated_at": "2023-07-05T14:40:50-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

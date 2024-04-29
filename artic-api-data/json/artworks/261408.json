@@ -1,0 +1,168 @@
+{
+    "id": 261408,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/261408",
+    "is_boosted": false,
+    "title": "This Painting is Dedicated to the American",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAJhkSJ5mSJ1nS51oSpJpVZduWp1xW5tyXaJwUqJyVKt3Vqt6V6BzXKN1XZt4aJ99bKN3YaeCbLWEYaOCcLSajLWbj7+omMm7ssm7swAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIFZF1jUhS0IVigQQxyAEzWNAjBMCADs=",
+        "width": 7303,
+        "height": 7653,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2021.265",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Llyn Foulkes\nAmerican, born 1934",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "73.7 \u00d7 73.7 cm (29 \u00d7 29 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73.7,
+            "width_in": 29,
+            "height_cm": 73.7,
+            "height_in": 29,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Marc Selwyn",
+    "catalogue_display": null,
+    "publication_history": "Stella Paul, Selections from the Collection of Diana Zlotnick, exh. cat. (Los Angeles: University of Southern California, 1985), n.p.",
+    "exhibition_history": "Los Angeles, Fisher Gallery, University of Southern California, Selections from the Collection of Diana Zlotnick, Mar. 19-Aprl. 27, 1985, cat. 12.",
+    "provenance_text": "The artist. Sold to private collection, Los Angeles; sold to Marc Selwyn Fine Art, Beverly Hills, 2012; given to the Art Institute of Chicago, Nov. 9, 2021.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 8,
+        "l": 57,
+        "s": 11,
+        "percentage": 2.3260033631503704e-5,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 8610,
+    "artist_title": "Llyn Foulkes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        8610
+    ],
+    "artist_titles": [
+        "Llyn Foulkes"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "oil paint (paint)",
+        "painting",
+        "canvas"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3124"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3124"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f388cd2b-f92a-81dc-dfc6-a0f14ae613aa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.265"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "This Painting is Dedicated to the American"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:38-05:00",
+    "updated_at": "2023-04-07T14:40:52-05:00",
+    "timestamp": "2023-09-24T01:57:50-05:00"
+}

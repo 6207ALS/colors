@@ -1,0 +1,181 @@
+{
+    "id": 73147,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73147",
+    "is_boosted": false,
+    "title": "Prometheus and Mercury",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFlZWWVlZXBwcHR0dHZ2dnd3d3h4eHt7e3x8fH5+foGBgYSEhIeHh4qKipOTk5SUlKioqMfHx8jIyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURoKQk0SIUxNE4yMAsBhQATwgAOw==",
+        "width": 1750,
+        "height": 2250,
+        "alt_text": "A work made of marble."
+    },
+    "main_reference_number": "1950.1601",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1710,
+    "date_end": 1730,
+    "date_display": "c. 1720",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Domenico Antonio Vaccaro\nItalian, 1678\u20131745",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "97.8 \u00d7 81.3 cm (38 1/2 \u00d7 32 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 81.3,
+            "width_in": 32,
+            "height_cm": 97.8,
+            "height_in": 38.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Marble",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Chauncey McCormick and Mrs. Richard Ely Danielson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1951,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.08054173068421076,
+        "population": 736
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 26941,
+    "artist_title": "Domenico Antonio Vaccaro",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        26941
+    ],
+    "artist_titles": [
+        "Domenico Antonio Vaccaro"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "relief",
+        "marble",
+        "metamorphic rock",
+        "rock",
+        "inorganic material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-164",
+    "classification_title": "relief",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-164",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "relief",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2435",
+    "alt_material_ids": [
+        "TM-2798",
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2435",
+        "TM-2798",
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "marble",
+        "metamorphic rock",
+        "rock",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c6dba6d6-ef29-93da-2f6c-07f3d3ea8c63",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.1601"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Prometheus and Mercury"
+            ],
+            "weight": 478,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-24T11:17:21-05:00",
+    "updated_at": "2023-08-24T11:20:53-05:00",
+    "timestamp": "2023-09-24T00:51:56-05:00"
+}

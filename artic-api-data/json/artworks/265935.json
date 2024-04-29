@@ -1,0 +1,172 @@
+{
+    "id": 265935,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/265935",
+    "is_boosted": false,
+    "title": "St. Vitus Cathedral, Prague",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACsjHS4nIS8oIjIrJTQuKDUuKTkzLTkzLj03MT84MldRSlxWT2VfWGZgWWtmXnNtZnlzaoB5cYJ7coN8coiBeI+IfpGKgZKLgZmShwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYCVB1oRZzrNQUsMoCXIUB1AIwRACADs=",
+        "width": 6637,
+        "height": 7166,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "2022.1716",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1928",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Josef Sudek\nCzech, 1896\u20131976",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "Image: 18.2 \u00d7 17.1 cm (7 3/16 \u00d7 6 3/4 in.); Paper: 23.7 \u00d7 17.7 cm (9 3/8 \u00d7 7 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.1,
+            "width_in": 6.7323,
+            "height_cm": 18.2,
+            "height_in": 7.1654,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.7,
+            "width_in": 6.9686,
+            "height_cm": 23.7,
+            "height_in": 9.3308,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Gift of Lucia Woods Lindley",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 25161,
+    "artist_title": "Josef Sudek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        25161
+    ],
+    "artist_titles": [
+        "Josef Sudek"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "36f569c2-4042-12a5-f3e4-b0a71550678a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.1716"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "St. Vitus Cathedral, Prague"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-22T10:52:55-05:00",
+    "updated_at": "2023-09-23T23:17:47-05:00",
+    "timestamp": "2023-09-24T01:58:49-05:00"
+}

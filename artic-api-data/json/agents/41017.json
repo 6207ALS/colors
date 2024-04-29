@@ -1,0 +1,35 @@
+{
+    "id": 41017,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41017",
+    "title": "Theodore Matthias von Holst",
+    "sort_title": "Holst, Theodore Matthias von",
+    "alt_titles": [
+        "Theodore M. Von Holst",
+        "Theodor M. Von Holst",
+        "Theodor Matthias Von Holst"
+    ],
+    "is_artist": true,
+    "birth_date": 1810,
+    "death_date": 1844,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Theodore Matthias von Holst",
+            "Holst, Theodore Matthias von",
+            "Theodore M. Von Holst",
+            "Theodor M. Von Holst",
+            "Theodor Matthias Von Holst"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:34:29-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

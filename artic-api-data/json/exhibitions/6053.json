@@ -1,0 +1,38 @@
+{
+    "id": 6053,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6053",
+    "title": "Art of the Korean Potter",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1968-10-05T00:00:00-05:00",
+    "aic_end_at": "1968-11-17T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "1ecab293-37f0-6983-5d7c-f91adfae4ed4",
+    "alt_image_ids": [],
+    "document_ids": [
+        "3cc15bf7-e81a-d301-270e-e0d4cfe2c497"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art of the Korean Potter"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-11-18T10:24:20-06:00",
+    "updated_at": "2019-11-18T11:11:22-06:00",
+    "timestamp": "2023-09-24T02:01:43-05:00"
+}

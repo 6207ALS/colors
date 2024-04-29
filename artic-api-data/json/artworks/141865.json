@@ -1,0 +1,171 @@
+{
+    "id": 141865,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/141865",
+    "is_boosted": false,
+    "title": "Pandora Bound",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAACkqOTcsM0QzPVMvSl46RmE/TWs+XkdDRURESkhATldKUlZJV1lLWW5CRWRHTHxETmhOUGlHXmJIXHhQV1pYdWFeZ3RZZmRjd4hSVZlVVYxcbJpuZqFnYLt8baNsc6dzcb2Fd4N1iqd4jLWJiKyLm8iUkdu2nuK9nti2q+HCtOPMvurZwuvdzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQJHGU0qxVKgVydLIdE6mDyiUcEw4m1EBQwEICI+BIQC5IBSSCGNxqAQBADs=",
+        "width": 3000,
+        "height": 1753,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "1985.268j",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1982,
+    "date_end": 1982,
+    "date_display": "1982",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Jan K. Fleming\nprobably American, active 1980s",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "19.2 \u00d7 33.2 cm (7 9/16 \u00d7 13 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33.2,
+            "width_in": 13.0709,
+            "height_cm": 19.2,
+            "height_in": 7.5591,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Gift of The Faculty and Photography Graduate Students of the School of The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.9231,
+    "color": {
+        "h": 355,
+        "l": 57,
+        "s": 38,
+        "percentage": 0.15912970517605532,
+        "population": 660
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 48187,
+    "artist_title": "Jan K. Fleming",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        48187
+    ],
+    "artist_titles": [
+        "Jan K. Fleming"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-558",
+    "classification_title": "chromogenic color print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-558",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fd3ad640-906c-c88a-db30-dc1662df6305",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.268j"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pandora Bound"
+            ],
+            "weight": 62,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:20:24-05:00",
+    "timestamp": "2023-09-24T01:22:53-05:00"
+}

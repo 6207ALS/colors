@@ -1,0 +1,31 @@
+{
+    "id": 31347,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31347",
+    "title": "Paul Camille Guigou",
+    "sort_title": "Guigou, Paul Camille",
+    "alt_titles": [
+        "Paul C. Guigou"
+    ],
+    "is_artist": true,
+    "birth_date": 1834,
+    "death_date": 1871,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul Camille Guigou",
+            "Guigou, Paul Camille",
+            "Paul C. Guigou"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:55:05-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

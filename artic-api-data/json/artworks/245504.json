@@ -1,0 +1,180 @@
+{
+    "id": 245504,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/245504",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAE5MR1NPS1RRTVZSTlhWUVlWUltYVFtZVF5bVl9dWWJfWmNhXGVhXWZjX2pnYWtnYm5qZm5rZnNwanVxa3VybXl2cHx4dIF9eYB+eImGgZWRjZ2alKOfmaajnaijn6iln7y3tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMPioCAUBAVEpPJgDAIIh2SigTQAiQ/HA7pQMJ1NxhIEADs=",
+        "width": 6245,
+        "height": 4278,
+        "alt_text": "A work made of archival inkjet print, edition 2 of 5."
+    },
+    "main_reference_number": "2019.1237",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2016,
+    "date_end": 2016,
+    "date_display": "1998/2016",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Carlos Motta\n(Columbia, born 1978)",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "76.2 \u00d7 114.3 cm (30 \u00d7 45 in.); frame: 76.2 \u00d7 115.8 cm (30 \u00d7 45 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 114.3,
+            "width_in": 45,
+            "height_cm": 76.2,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 115.8,
+            "width_in": 45.6,
+            "height_cm": 76.2,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "frame"
+        }
+    ],
+    "medium_display": "Archival inkjet print, edition 2 of 5",
+    "inscriptions": null,
+    "credit_line": "Gift of Eric Ceputis and David W. Williams",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.2894,
+    "color": {
+        "h": 38,
+        "l": 28,
+        "s": 5,
+        "percentage": 0.24279878538931068,
+        "population": 1181
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 115309,
+    "artist_title": "Carlos Motta",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115309
+    ],
+    "artist_titles": [
+        "Carlos Motta"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "self-portraits",
+        "photograph",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": "TM-12240",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12240"
+    ],
+    "subject_titles": [
+        "self-portraits"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e6f54946-3742-54de-daf1-e9a118b6db6b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.1237"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-13T14:51:10-06:00",
+    "updated_at": "2023-04-07T12:45:33-05:00",
+    "timestamp": "2023-09-24T01:54:41-05:00"
+}

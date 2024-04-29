@@ -1,0 +1,38 @@
+{
+    "id": 3533,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3533",
+    "title": "Chicago Architectural Club 11th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1898-03-22T00:00:00-06:00",
+    "aic_end_at": "1898-04-11T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "b63bf603-1997-3001-2286-fda66f7791de"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Architectural Club 11th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:24-06:00",
+    "timestamp": "2023-09-24T02:01:12-05:00"
+}

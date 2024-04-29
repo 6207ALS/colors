@@ -1,0 +1,174 @@
+{
+    "id": 97400,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/97400",
+    "is_boosted": false,
+    "title": "Lip Thrashed",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAABQgIiMoLSMtLz46LVBHODs+QlteY2hudHN6fp2Zl52doaepr6+srtDGsb+/xcG/w8O/xszIz9fU1uPczuTh4OTh5Ovp6+zp7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYKUsTiUVwWE9AoBcDDEYEDU1SRQCADs=",
+        "width": 2251,
+        "height": 2250,
+        "alt_text": "A work made of acrylic on metal."
+    },
+    "main_reference_number": "1982.395",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1972,
+    "date_end": 1972,
+    "date_display": "1972",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jim Nutt\nAmerican, born 1938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "61 \u00d7 50.8 \u00d7 30.5 cm (24 \u00d7 20 \u00d7 12 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 30.5,
+            "depth_in": 12,
+            "width_cm": 50.8,
+            "width_in": 20,
+            "height_cm": 61,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on metal",
+    "inscriptions": null,
+    "credit_line": "Gift of the Robert A. Lewis Fund in memory of William and Polly Levey",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Jim Nutt",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.4871,
+    "color": {
+        "h": 170,
+        "l": 45,
+        "s": 72,
+        "percentage": 0.002251463099223386,
+        "population": 16
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 36059,
+    "artist_title": "Jim Nutt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36059
+    ],
+    "artist_titles": [
+        "Jim Nutt"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "painting",
+        "modern and contemporary art",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155",
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "139c57f8-90d0-7215-84a8-1afaf985a70c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.395"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lip Thrashed"
+            ],
+            "weight": 553,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-09-23T23:18:35-05:00",
+    "timestamp": "2023-09-24T01:02:51-05:00"
+}

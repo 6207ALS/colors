@@ -1,0 +1,172 @@
+{
+    "id": 200870,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/200870",
+    "is_boosted": false,
+    "title": "Untitled, 1205 Oak Street, San Francisco",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANPSxuDd0uHe0uDf0+Hf1uLg1OTi1uXi1+fj2Obk2Ofk2urm3enn3+ro3evo3+zo4e7r5O7s5e/s5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4HIEQkQAhcQMhgQ1yeMoSAgAOw==",
+        "width": 2305,
+        "height": 3000,
+        "alt_text": "A work made of graphite on ivory wove paper."
+    },
+    "main_reference_number": "2009.655",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1961,
+    "date_end": 1961,
+    "date_display": "1961",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bruce Conner\nAmerican, 1933-2008",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "66.3 \u00d7 50.9 cm (26 1/8 \u00d7 20 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.9,
+            "width_in": 20.0394,
+            "height_cm": 66.3,
+            "height_in": 26.1024,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Margaret Fisher Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Conner Family Trust, San Francisco / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.584,
+    "color": {
+        "h": 41,
+        "l": 46,
+        "s": 8,
+        "percentage": 0.0008650790303761687,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34020,
+    "artist_title": "Bruce Conner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34020
+    ],
+    "artist_titles": [
+        "Bruce Conner"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "graphite",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "72d67d9e-b9d3-bfcf-1b60-65b06c69a5a8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.655"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled, 1205 Oak Street, San Francisco"
+            ],
+            "weight": 61,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:24-05:00",
+    "updated_at": "2023-04-07T15:49:16-05:00",
+    "timestamp": "2023-09-24T01:40:08-05:00"
+}

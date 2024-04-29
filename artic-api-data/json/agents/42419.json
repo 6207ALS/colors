@@ -1,0 +1,31 @@
+{
+    "id": 42419,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42419",
+    "title": "Albrecht Schmid, of Augsburg",
+    "sort_title": "Schmid, Albrecht, of Augsburg",
+    "alt_titles": [
+        "Albrecht Schmid of Augsburg"
+    ],
+    "is_artist": true,
+    "birth_date": 1667,
+    "death_date": 1744,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albrecht Schmid, of Augsburg",
+            "Schmid, Albrecht, of Augsburg",
+            "Albrecht Schmid of Augsburg"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2019-07-10T09:10:38-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

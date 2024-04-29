@@ -1,0 +1,28 @@
+{
+    "id": 116043,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116043",
+    "title": "Hoshino Satoru",
+    "sort_title": "Satoru, Hoshino",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hoshino Satoru",
+            "Satoru, Hoshino"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-08-02T15:51:01-05:00",
+    "updated_at": "2022-03-15T16:46:18-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

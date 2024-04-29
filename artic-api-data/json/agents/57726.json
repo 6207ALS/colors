@@ -1,0 +1,35 @@
+{
+    "id": 57726,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57726",
+    "title": "Sebastiano Serlio",
+    "sort_title": "Serlio, Sebastiano",
+    "alt_titles": [
+        "Sebastiano Serlio",
+        "Sebastiano Serlio de Bologne",
+        "Sebastien Serlio"
+    ],
+    "is_artist": true,
+    "birth_date": 1475,
+    "death_date": 1554,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sebastiano Serlio",
+            "Serlio, Sebastiano",
+            "Sebastiano Serlio",
+            "Sebastiano Serlio de Bologne",
+            "Sebastien Serlio"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:50-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 46843,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46843",
+    "title": "School of Ferdinando Galli-Bibiena",
+    "sort_title": "Galli-Bibiena, Ferdinando, School of",
+    "alt_titles": [
+        "School of Ferdinando Galli Bibiena"
+    ],
+    "is_artist": true,
+    "birth_date": 1657,
+    "death_date": 1743,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "School of Ferdinando Galli-Bibiena",
+            "Galli-Bibiena, Ferdinando, School of",
+            "School of Ferdinando Galli Bibiena"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:44-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

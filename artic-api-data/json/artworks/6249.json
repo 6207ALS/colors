@@ -1,0 +1,166 @@
+{
+    "id": 6249,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/6249",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhDQAFAPUAAHt8eIKDgIqKh4yMio+QjZKSj5WVk5WWkpaWk5iYlZiZlZqal5ycmp2dmp+fnaCgnqOjoaWmoaampKiopqmpp6mqpqysq66urK+wrbCxrLGyrbCwrrOzr7O0sLi5tbu7uLy9ub2+usHCvsLCv8TEwMTFwcXFwsfIxcnKx8rKx8rKyMvLyMzMyczNydDQzdDQztjY1dnZ19ra2Nzc2tzd2t3e29/f3uDg3uPj4ezs6u3t7AAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAANAAUAAAY7QIsDAWEYDoqBgSAA6Gqwm0w0SrloKE3Expq9VCVQ6OThfCo5XIxFarVWpk6mNXpMLhuMpEFZJBYFAUEAOw==",
+        "width": 1731,
+        "height": 669,
+        "alt_text": "A work made of brocaded plain simple twill, silk and silver wound on a white silk core."
+    },
+    "main_reference_number": "1930.834",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1700,
+    "date_display": "17th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Iran (Persia, Isfahan)",
+    "place_of_origin": "Iran",
+    "description": null,
+    "dimensions": "12.7 \u00d7 38.1 cm (5 \u00d7 15 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38.1,
+            "width_in": 15,
+            "height_cm": 12.7,
+            "height_in": 5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brocaded plain simple twill, silk and silver wound on a white silk core",
+    "inscriptions": null,
+    "credit_line": "Gift of Logan-Patten-Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1931,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.3348,
+    "color": {
+        "h": 70,
+        "l": 52,
+        "s": 1,
+        "percentage": 0.08914991012233552,
+        "population": 245
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9fc99b2f-bcf2-1559-ef21-28279ee83919",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1930.834"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-04-10T14:56:07-05:00",
+    "timestamp": "2023-09-24T00:22:57-05:00"
+}

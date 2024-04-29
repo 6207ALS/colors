@@ -1,0 +1,183 @@
+{
+    "id": 129512,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/129512",
+    "is_boosted": false,
+    "title": "The Courtship of Washington",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACUhFjw4LTw5LUM/M1FNQVNPRFVRRWhkWHh0aH98cIB8cIJ+coaBdY+LfpCLf5KOg5mUh5qWipqXjKCbjqOfkq2pm7WxorWwo7SwpLy2qry4rr66sMW/s8nEtwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIAcxjXNtCRAYkbYgxYFJgkIMTzdVFpWFADs=",
+        "width": 3000,
+        "height": 2331,
+        "alt_text": "A work made of engraving on ivory wove paper."
+    },
+    "main_reference_number": "2013.815",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1860,
+    "date_end": 1860,
+    "date_display": "1860",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John C. McRae\nAmerican, active 1855\u20131880",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Plate: 38.3 \u00d7 54.5 cm (15 1/8 \u00d7 21 1/2 in.); Sheet: 50.4 \u00d7 64.9 cm (19 7/8 \u00d7 25 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 54.5,
+            "width_in": 21.4567,
+            "height_cm": 38.3,
+            "height_in": 15.0788,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64.9,
+            "width_in": 25.5512,
+            "height_cm": 50.4,
+            "height_in": 19.8426,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.9669,
+    "color": {
+        "h": 40,
+        "l": 52,
+        "s": 7,
+        "percentage": 0.08874158992330192,
+        "population": 490
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 44614,
+    "artist_title": "John C. McRae",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44614
+    ],
+    "artist_titles": [
+        "John C. McRae"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "34e4aaea-b31c-3a79-43e8-66654c926f78",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.815"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Courtship of Washington"
+            ],
+            "weight": 502,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-04-10T10:28:41-05:00",
+    "timestamp": "2023-09-24T01:18:35-05:00"
+}

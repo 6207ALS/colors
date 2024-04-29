@@ -1,0 +1,163 @@
+{
+    "id": 120672,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120672",
+    "is_boosted": false,
+    "title": "Seine and Pont Royal",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAB4eHiEhISMjIyYmJicnJygoKCkpKSoqKiwsLC0tLS8vLzAwMDIyMjY2Njo6Ojs7Oz4+Pj8/P0ZGRlBQUFNTUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAHAAUAAAUc4ONEUKMgw8EshhAEAJIohcA0xlAYgTRRERYhBAA7",
+        "width": 2741,
+        "height": 1927,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1933.1131",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1905,
+    "date_end": 1910,
+    "date_display": "1905/10",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Henri-Eug\u00e8ne Le Sidaner\nFrench, 1862-1939",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "82.6 \u00d7 118.2 cm (32 1/2 \u00d7 46 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 118.2,
+            "width_in": 46.5,
+            "height_cm": 82.6,
+            "height_in": 32.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "catalogue_display": "<p>Le Sidaner 254</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 52,
+        "s": 0,
+        "percentage": 0.008601737550985299,
+        "population": 43
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 14959,
+    "artist_title": "Henri-Eug\u00e8ne Le Sidaner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        14959
+    ],
+    "artist_titles": [
+        "Henri-Eug\u00e8ne Le Sidaner"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a8eadbd0-f4a1-0934-0470-3a53557fae7f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1131"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Seine and Pont Royal"
+            ],
+            "weight": 357,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:22:40-05:00",
+    "timestamp": "2023-09-24T01:13:50-05:00"
+}

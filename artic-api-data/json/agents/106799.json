@@ -1,0 +1,33 @@
+{
+    "id": 106799,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/106799",
+    "title": "Zigua",
+    "sort_title": "Zigua",
+    "alt_titles": [
+        "Zegua",
+        "Zegura"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zigua",
+            "Zigua",
+            "Zegua",
+            "Zegura"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-01-09T15:33:17-06:00",
+    "updated_at": "2020-01-09T16:15:22-06:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

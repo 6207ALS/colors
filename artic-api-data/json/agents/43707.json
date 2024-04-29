@@ -1,0 +1,28 @@
+{
+    "id": 43707,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43707",
+    "title": "Abraham Voorhees",
+    "sort_title": "Voorhees, Abraham",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1817,
+    "death_date": 1892,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Abraham Voorhees",
+            "Voorhees, Abraham"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:31:51-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

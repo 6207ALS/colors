@@ -1,0 +1,181 @@
+{
+    "id": 53838,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/53838",
+    "is_boosted": false,
+    "title": "Mirror Number One",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFhaSWJkUmVnVm1uW3F1Ynl6Z4SEcIiHcomMd4uMd4yNeo6Pe4+PfZCRfJaYgpqZhKSjjaWmkMjGsM7LswAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGQcUVIMziJNSMMAxCMESggAOw==",
+        "width": 1756,
+        "height": 2250,
+        "alt_text": "A work made of woodblock print."
+    },
+    "main_reference_number": "1978.834",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1975,
+    "date_display": "1970",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hiratsuka Un'ichi\nJapanese, 1895-1997",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "76.2 \u00d7 60.5 cm (23 \u00d7 29 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60.5,
+            "width_in": 29,
+            "height_cm": 76.2,
+            "height_in": 23,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Theodore and Louann Van Zelst, Hiratsuka Un'ichi - Van Zelst Family Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1979,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.9305,
+    "color": {
+        "h": 3,
+        "l": 30,
+        "s": 87,
+        "percentage": 0.00021967400377839285,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 34942,
+    "artist_title": "Hiratsuka Un'ichi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34942
+    ],
+    "artist_titles": [
+        "Hiratsuka Un'ichi"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "paper (fiber product)",
+        "Japanese (culture or style)",
+        "print",
+        "asian art",
+        "woodblock"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26",
+        "TM-2392"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26",
+        "TM-2392"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art",
+        "woodblock"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d5f4f12e-6be2-3be8-f794-8cdf006540b6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.834"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mirror Number One"
+            ],
+            "weight": 150,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:12:14-05:00",
+    "timestamp": "2023-09-24T00:44:13-05:00"
+}

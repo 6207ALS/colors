@@ -1,0 +1,31 @@
+{
+    "id": 65288,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65288",
+    "title": "Raoul Hausmann",
+    "sort_title": "Hausmann, Raoul",
+    "alt_titles": [
+        "Dadasoph"
+    ],
+    "is_artist": true,
+    "birth_date": 1886,
+    "death_date": 1971,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Raoul Hausmann",
+            "Hausmann, Raoul",
+            "Dadasoph"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:49-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 65848,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/65848",
+    "is_boosted": false,
+    "title": "Italian Landscape",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADQsIzIrJ0Y/Lkc9M1FIPFFIPVJLP1NLP1pRSF5XSGljVWxkVmxoW29oW3lxX4Z+ZpycjqyxrcfOy8vRywAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBzDMpgJAYAVEcw+I0SAgAOw==",
+        "width": 6573,
+        "height": 8129,
+        "alt_text": "A work made of oil on paper mounted on canvas."
+    },
+    "main_reference_number": "1986.1282",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1821,
+    "date_end": 1821,
+    "date_display": "1821/24",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Heinrich Reinhold, attributed to\nGerman, 1788-1825",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "32.6 \u00d7 27.6 cm (12 13/16 \u00d7 10 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27.6,
+            "width_in": 10.875,
+            "height_cm": 32.6,
+            "height_in": 12.8125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on paper mounted on canvas",
+    "inscriptions": null,
+    "credit_line": "Bequest of Harold Joachim",
+    "catalogue_display": null,
+    "publication_history": "The Art Institute of Chicago, Annual Report, 1986\u201387 (Chicago, 1987), p. 56.",
+    "exhibition_history": null,
+    "provenance_text": "Harold Joachim by 1986; given to the Art Institute, 1986",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1987,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.8254,
+    "color": {
+        "h": 40,
+        "l": 49,
+        "s": 11,
+        "percentage": 0.09667341105875582,
+        "population": 850
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 221",
+    "gallery_id": 2147483609,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 48131,
+    "artist_title": "Heinrich Reinhold",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        48131
+    ],
+    "artist_titles": [
+        "Heinrich Reinhold"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil paintings (visual works)",
+        "paper (fiber product)",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-78",
+    "classification_title": "oil paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-78",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil paintings (visual works)",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9199e18e-3591-766e-79cd-23e81211cd1a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1282"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Italian Landscape"
+            ],
+            "weight": 939,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-16T14:37:23-06:00",
+    "updated_at": "2023-04-07T13:27:25-05:00",
+    "timestamp": "2023-09-24T00:48:57-05:00"
+}

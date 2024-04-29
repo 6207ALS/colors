@@ -1,0 +1,173 @@
+{
+    "id": 214813,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/214813",
+    "is_boosted": false,
+    "title": "The Books, Museum of Contemporary Art, Chicago poster",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALfKzLbS5sDOz+Hj2efp3MTZ6tbg593l5Njl8t/o8eru5ujo6uDp8Ofs8u7x9vDx9ff2+vf2/Pj4/vn4/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMM0DxIUySEAhkIMSyRNUAgAOw==",
+        "width": 4490,
+        "height": 5967,
+        "alt_text": "A work made of 8-color screen print on paper."
+    },
+    "main_reference_number": "2012.164",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2009,
+    "date_end": 2009,
+    "date_display": "2009",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sonnenzimmer (American, founded 2006)\nNicholas Butcher (American, born 1980)\nNadine Nakanishi (American/Swiss, born 1976)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "45.7 \u00d7 60.9 cm (18 \u00d7 24 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60.9,
+            "width_in": 24,
+            "height_cm": 45.7,
+            "height_in": 18,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "8-color screen print on paper",
+    "inscriptions": null,
+    "credit_line": "Funds provided by the Architecture & Design Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "Art and Design \u00a9 2009 Sonnenzimmer.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.3951,
+    "color": {
+        "h": 191,
+        "l": 34,
+        "s": 98,
+        "percentage": 0.003177427554651754,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 112204,
+    "artist_title": "Sonnenzimmer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112204
+    ],
+    "artist_titles": [
+        "Sonnenzimmer"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "screenprint",
+        "paper (fiber product)",
+        "21st Century",
+        "graphic design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-214",
+    "classification_title": "screenprint",
+    "alt_classification_ids": [
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-214",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "screenprint",
+        "graphic design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "acca7347-ec85-45dd-f576-0b7bbab28db4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.164"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Books, Museum of Contemporary Art, Chicago poster"
+            ],
+            "weight": 68,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:28-05:00",
+    "updated_at": "2023-04-07T15:29:30-05:00",
+    "timestamp": "2023-09-24T01:44:10-05:00"
+}

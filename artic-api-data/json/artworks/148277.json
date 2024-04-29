@@ -1,0 +1,177 @@
+{
+    "id": 148277,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/148277",
+    "is_boosted": false,
+    "title": "N. C. Thompson House, Rockford, Illinois, Perspective",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAH5oSYFrSopxTot0U453VZR7VpV7VpN8WauNX5+GYaOIYKKIYquQaKySaLOYbr2ebrygc7+jdcaia8SibcGkd8mnc8ind8uoc8qpdceneMWne8Woecaoe8mpe8+tesutf8isgM+wgNCygwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwA/ksaFERBoFouFgZEALA+GQ6HAGgkIAYAlhJJfKxBMEADs=",
+        "width": 3000,
+        "height": 2222,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "1997.81",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1876,
+    "date_end": 1876,
+    "date_display": "1876",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Peter Bonnett Wight\nAmerican, 1838\u20131925",
+    "place_of_origin": "Rockford",
+    "description": null,
+    "dimensions": "39.1 \u00d7 52.9 cm (15 3/8 \u00d7 20 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52.9,
+            "width_in": 20.8125,
+            "height_cm": 39.1,
+            "height_in": 15.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Peter Bonnett Wight",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.07,
+    "color": {
+        "h": 37,
+        "l": 62,
+        "s": 46,
+        "percentage": 0.3186117954801229,
+        "population": 1676
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 37293,
+    "artist_title": "Peter Bonnett Wight",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37293
+    ],
+    "artist_titles": [
+        "Peter Bonnett Wight"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "presentation drawing",
+        "paper (fiber product)",
+        "ink",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-920",
+    "classification_title": "presentation drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-920",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "presentation drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e84886b3-8098-4216-bb8b-f2bafc61485a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.81"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "N. C. Thompson House, Rockford, Illinois, Perspective"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:03:41-05:00",
+    "timestamp": "2023-09-24T01:26:31-05:00"
+}

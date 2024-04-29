@@ -1,0 +1,189 @@
+{
+    "id": 101464,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/101464",
+    "is_boosted": false,
+    "title": "Bird Figurine",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAgFBAoHBg8LCAwKChwWEh8YFSIbFyYcFicoJzYoITMyMUE0LEI2LllFOWlLN3VaTo9mToZsYcCWhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAAYRTA8BxBJCeFAC8I0SggAOw==",
+        "width": 1780,
+        "height": 2250,
+        "alt_text": "A work made of terracotta."
+    },
+    "main_reference_number": "1983.1442",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1301,
+    "date_end": 1500,
+    "date_display": "14th/15th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Indonesia\nJava",
+    "place_of_origin": "Java",
+    "description": null,
+    "dimensions": "21.9 \u00d7 12 \u00d7 14.8 cm (8 5/8 \u00d7 4 3/4 \u00d7 5 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 14.8,
+            "depth_in": 5.8125,
+            "width_cm": 12,
+            "width_in": 4.75,
+            "height_cm": 21.9,
+            "height_in": 8.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Terracotta",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Mark Phillips",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1984,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.5098,
+    "color": {
+        "h": 9,
+        "l": 93,
+        "s": 63,
+        "percentage": 0.015022734404732495,
+        "population": 135
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "earthenware",
+        "terracotta",
+        "Southeast Asian",
+        "animals",
+        "inorganic material",
+        "ceramics",
+        "sculpture",
+        "asian art"
+    ],
+    "style_id": "TM-5345",
+    "style_title": "Southeast Asian",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5345"
+    ],
+    "style_titles": [
+        "Southeast Asian"
+    ],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-46",
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "ceramics",
+        "sculpture",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-12218"
+    ],
+    "subject_ids": [
+        "TM-12218"
+    ],
+    "subject_titles": [
+        "animals"
+    ],
+    "material_id": "TM-2433",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2433",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "terracotta",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d40df3fc-60e8-da36-c2b9-1b85d0d7af51",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.1442"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bird Figurine"
+            ],
+            "weight": 325,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:34:12-05:00",
+    "timestamp": "2023-09-24T01:05:34-05:00"
+}

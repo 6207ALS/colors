@@ -1,0 +1,43 @@
+{
+    "id": 30922,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30922",
+    "title": "Theo van Doesburg",
+    "sort_title": "Doesburg, Theo van",
+    "alt_titles": [
+        "Theo van Doesburg, (Christian Emil Marie K\u00fcpper)",
+        "Theo van Doesburg, (Christiaaen Emil Marie Kupper)",
+        "Christian Emil Marie K\u00fcpper",
+        "Theo Van Doesburg",
+        "I. K. Bonset",
+        "C. E. M. K\u00fcpper",
+        "Aldo Camini"
+    ],
+    "is_artist": true,
+    "birth_date": 1883,
+    "death_date": 1931,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Theo van Doesburg",
+            "Doesburg, Theo van",
+            "Theo van Doesburg, (Christian Emil Marie K\u00fcpper)",
+            "Theo van Doesburg, (Christiaaen Emil Marie Kupper)",
+            "Christian Emil Marie K\u00fcpper",
+            "Theo Van Doesburg",
+            "I. K. Bonset",
+            "C. E. M. K\u00fcpper",
+            "Aldo Camini"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:54:34-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

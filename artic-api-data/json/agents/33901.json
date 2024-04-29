@@ -1,0 +1,31 @@
+{
+    "id": 33901,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33901",
+    "title": "Qiu Ying",
+    "sort_title": "Qiu Ying",
+    "alt_titles": [
+        "Ch'iu Ying"
+    ],
+    "is_artist": true,
+    "birth_date": 1494,
+    "death_date": 1557,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Qiu Ying",
+            "Qiu Ying",
+            "Ch'iu Ying"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:55:03-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 27558,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27558",
+    "title": "Robert van Voerst",
+    "sort_title": "Voerst, Robert van",
+    "alt_titles": [
+        "Robert van Voorst",
+        "Robert van Vorst"
+    ],
+    "is_artist": true,
+    "birth_date": 1596,
+    "death_date": 1636,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Robert van Voerst",
+            "Voerst, Robert van",
+            "Robert van Voorst",
+            "Robert van Vorst"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:18-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

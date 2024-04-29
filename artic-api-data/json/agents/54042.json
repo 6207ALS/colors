@@ -1,0 +1,39 @@
+{
+    "id": 54042,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/54042",
+    "title": "Anton\u00ed Gaud\u00ed",
+    "sort_title": "Gaud\u00ed, Anton\u00ed",
+    "alt_titles": [
+        "Antonio Gaud\u00ed",
+        "Antonio Gaud\u00ed y Cornet",
+        "Antoni Gaud\u00ed i Cornet",
+        "Antonio Gaud\u00ed y Cornet",
+        "Antonio Gaud\u00ed Cornet"
+    ],
+    "is_artist": true,
+    "birth_date": 1852,
+    "death_date": 1926,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Anton\u00ed Gaud\u00ed",
+            "Gaud\u00ed, Anton\u00ed",
+            "Antonio Gaud\u00ed",
+            "Antonio Gaud\u00ed y Cornet",
+            "Antoni Gaud\u00ed i Cornet",
+            "Antonio Gaud\u00ed y Cornet",
+            "Antonio Gaud\u00ed Cornet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-18T12:32:53-05:00",
+    "updated_at": "2021-10-18T12:35:47-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 121550,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/121550",
+    "is_boosted": false,
+    "title": "View of a Church",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAF9ZTF5ZUXpzZnt1aYN7b4N8boV/cIiBcI6He4+Ieo2If46If5CIeJCKgJiThwAAACH5BAAAAAAALAAAAAADAAUAAAQLkBR0WBLGBTCWahEAOw==",
+        "width": 2079,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black with beige tint stone, on cream wove paper."
+    },
+    "main_reference_number": "1960.640",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1818,
+    "date_end": 1818,
+    "date_display": "1818",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Jean Baptiste Isabey (French, 1767-1855)\nprinted by Gottfried Engelmann (French, 1788-1839)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 18.1 \u00d7 13.7 cm (7 3/16 \u00d7 5 7/16 in.); Sheet: 31.8 \u00d7 24.2 cm (12 9/16 \u00d7 9 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.7,
+            "width_in": 5.3937,
+            "height_cm": 18.1,
+            "height_in": 7.126,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.2,
+            "width_in": 9.5276,
+            "height_cm": 31.8,
+            "height_in": 12.5197,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black with beige tint stone, on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Ralph Horween",
+    "catalogue_display": "<p>Beraldi 1</p><p>Fonds Fran\u00e7ais 2</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.5184,
+    "color": {
+        "h": 37,
+        "l": 49,
+        "s": 12,
+        "percentage": 0.12233096085409252,
+        "population": 1254
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35070,
+    "artist_title": "Jean-Baptiste Isabey",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35070
+    ],
+    "artist_titles": [
+        "Jean-Baptiste Isabey"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b8d14a33-544d-e3bc-650d-da7e82066654",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1960.640"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "View of a Church"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:10-05:00",
+    "updated_at": "2023-04-10T10:50:49-05:00",
+    "timestamp": "2023-09-24T01:14:27-05:00"
+}

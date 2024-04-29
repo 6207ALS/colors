@@ -1,0 +1,33 @@
+{
+    "id": 1808,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1808",
+    "title": "Pierre-Antoine Baudouin",
+    "sort_title": "Baudouin, Pierre-Antoine",
+    "alt_titles": [
+        "Pierre Antoine Baudouin",
+        "Pierre-A. Baudouin"
+    ],
+    "is_artist": true,
+    "birth_date": 1723,
+    "death_date": 1769,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre-Antoine Baudouin",
+            "Baudouin, Pierre-Antoine",
+            "Pierre Antoine Baudouin",
+            "Pierre-A. Baudouin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:48-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

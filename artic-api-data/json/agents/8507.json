@@ -1,0 +1,31 @@
+{
+    "id": 8507,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/8507",
+    "title": "Fritz Frederick L. Foltz",
+    "sort_title": "Foltz, Fritz Frederick L.",
+    "alt_titles": [
+        "Frederick L. Foltz"
+    ],
+    "is_artist": true,
+    "birth_date": 1843,
+    "death_date": 1916,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fritz Frederick L. Foltz",
+            "Foltz, Fritz Frederick L.",
+            "Frederick L. Foltz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:17:09-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

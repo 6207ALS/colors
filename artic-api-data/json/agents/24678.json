@@ -1,0 +1,28 @@
+{
+    "id": 24678,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/24678",
+    "title": "Steve Sprague",
+    "sort_title": "Sprague, Steve",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1942,
+    "death_date": 1979,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Steve Sprague",
+            "Sprague, Steve"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-01T14:35:47-05:00",
+    "updated_at": "2019-07-01T14:40:49-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 99350,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99350",
+    "is_boosted": false,
+    "title": "Work C-3",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKGemLOyo7a0pra1p7i1qL66s8nFu8zIvtHMwdLNwtXOzd7Yz9/Y0Ori4fjv6vjw6/ry7vvy7/728v/79wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYHIYiBAMxFIADNQokSNNTwgAOw==",
+        "width": 1732,
+        "height": 2250,
+        "alt_text": "A work made of silkscreen; edition 9/10."
+    },
+    "main_reference_number": "1982.1298",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ando Nana\nJapanese, born 1948",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "66.5 \u00d7 50.7 cm (26 3/16 \u00d7 19 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.7,
+            "width_in": 19.9375,
+            "height_cm": 66.5,
+            "height_in": 26.1875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silkscreen; edition 9/10",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Howard Haas",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.4406,
+    "color": {
+        "h": 57,
+        "l": 51,
+        "s": 7,
+        "percentage": 0.012024894782170656,
+        "population": 111
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 30435,
+    "artist_title": "Ando Nana",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30435
+    ],
+    "artist_titles": [
+        "Ando Nana"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "screen printing",
+        "silkscreen",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10309",
+    "classification_title": "silkscreen",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-10309",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "silkscreen",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "e111713d-d2ec-c53e-ecca-fd5a9a387969",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1298"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Work C-3"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:41:24-05:00",
+    "timestamp": "2023-09-24T01:04:02-05:00"
+}

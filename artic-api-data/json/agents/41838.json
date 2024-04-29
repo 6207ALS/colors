@@ -1,0 +1,39 @@
+{
+    "id": 41838,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41838",
+    "title": "Girolamo Pennacchi, the Younger",
+    "sort_title": "Pennacchi, Girolamo, the Younger",
+    "alt_titles": [
+        "Giralomo da Treviso, (the younger)",
+        "Girolamo da Treviso, the younger (Girolamo Pennacchi)",
+        "Girolamo da Treviso Pennachi, II",
+        "Gerolamo da Treviso, the younger",
+        "Gerolamo di Pier Maria (?) Pennachhi (?), (Gerolamo da Treviso II)"
+    ],
+    "is_artist": true,
+    "birth_date": 1497,
+    "death_date": 1544,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Girolamo Pennacchi, the Younger",
+            "Pennacchi, Girolamo, the Younger",
+            "Giralomo da Treviso, (the younger)",
+            "Girolamo da Treviso, the younger (Girolamo Pennacchi)",
+            "Girolamo da Treviso Pennachi, II",
+            "Gerolamo da Treviso, the younger",
+            "Gerolamo di Pier Maria (?) Pennachhi (?), (Gerolamo da Treviso II)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:29-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 10258,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10258",
+    "title": "Ronald Grenko",
+    "sort_title": "Grenko, Ronald",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ronald Grenko",
+            "Grenko, Ronald"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-04-08T10:02:37-05:00",
+    "updated_at": "2022-04-08T10:06:39-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 105698,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/105698",
+    "is_boosted": false,
+    "title": "La Bonne Aventure (The Fortune Teller)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAD8/P0RERE5OTk9PT1paWltbW1xcXF5eXmBgYGVlZWZmZmhoaHFxcXJycnNzc3d3d39/f4GBgYODg4SEhIqKioyMjJOTk5WVlaKioqWlpQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUYoERZD5NA2KUoSFQ1S1Ish5BNRGA40gCEADs=",
+        "width": 2933,
+        "height": 2250,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1977.6",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1695,
+    "date_end": 1736,
+    "date_display": "Unknown date",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean-Baptiste-Joseph Pater (after)\nFrench, 1695-1736",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "18.7 \u00d7 23.9 cm (7 3/8 \u00d7 9 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23.9,
+            "width_in": 9.4375,
+            "height_cm": 18.7,
+            "height_in": 7.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Frank Russell",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago, Annual Report 1976\u201377 (Chicago, 1977), p.27.",
+    "exhibition_history": null,
+    "provenance_text": "Barker Bros. Studios, Los Angeles [sale document in curatorial file]; Mrs. Frank Russell, San Benito, Texas, by 1977; given to the Art Institute, 1977.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.23358103190012852,
+        "population": 1274
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 20094,
+    "artist_title": "Jean-Baptiste Pater",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        20094
+    ],
+    "artist_titles": [
+        "Jean-Baptiste Pater"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "02f89de9-0b05-fb1c-fc15-bc48787debfb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.6"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "La Bonne Aventure (The Fortune Teller)"
+            ],
+            "weight": 774,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:23:00-05:00",
+    "timestamp": "2023-09-24T01:07:56-05:00"
+}

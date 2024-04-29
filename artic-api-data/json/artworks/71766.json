@@ -1,0 +1,180 @@
+{
+    "id": 71766,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/71766",
+    "is_boosted": false,
+    "title": "Bust of Washington",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD82Lj83L0pBOD4/Qj4/RT5AREFDSlRNRklMUUxNUFpXVm1iWlpcYlxfZGhjYGxucG1wc4t4apWYnJWZnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4KA4SbFECCEcRhMAjAQ9UwgAOw==",
+        "width": 1828,
+        "height": 2250,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1916.19",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1818,
+    "date_end": 1818,
+    "date_display": "1818",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Enoch Wood & Sons\nEnglish, 1818\u20131846\nEnglish for the American market\nBurslem, England",
+    "place_of_origin": "Burslem",
+    "description": null,
+    "dimensions": "21.6 \u00d7 14.6 \u00d7 7.9 cm (8 1/2 \u00d7 5 3/4 \u00d7 3 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 7.9,
+            "depth_in": 3.125,
+            "width_cm": 14.6,
+            "width_in": 5.75,
+            "height_cm": 21.6,
+            "height_in": 8.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware",
+    "inscriptions": null,
+    "credit_line": "Amelia Blanxius Collection, gift of Emma B. Hodge and Jene E. Bell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.9685,
+    "color": {
+        "h": 239,
+        "l": 34,
+        "s": 1,
+        "percentage": 0.4974663841633582,
+        "population": 4353
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 37342,
+    "artist_title": "Enoch Wood",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37342
+    ],
+    "artist_titles": [
+        "Enoch Wood"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "earthenware",
+        "porcelain",
+        "european decorative arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-38",
+        "TM-1394",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-38",
+        "TM-1394",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "porcelain",
+        "european decorative arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b7668c25-fd72-3256-7ad5-2e8c4dd96674",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1916.19"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bust of Washington"
+            ],
+            "weight": 32,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T11:58:51-05:00",
+    "timestamp": "2023-09-24T00:51:26-05:00"
+}

@@ -1,0 +1,174 @@
+{
+    "id": 8732,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/8732",
+    "is_boosted": false,
+    "title": "Jug",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEFHJXB5WX6AX6SUh7Somb22nr20psC4q87EutXCuNPEu9HIvOPW0efa0+jc1QAAACH5BAAAAAAALAAAAAADAAUAAAQL0BXWBFrhGEDUSBEAOw==",
+        "width": 1912,
+        "height": 2844,
+        "alt_text": "A work made of earthenware with incised decoration under a green glaze."
+    },
+    "main_reference_number": "1931.428",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 5000001,
+    "date_display": "11th/12th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Iran",
+    "place_of_origin": "Iran",
+    "description": null,
+    "dimensions": "24.8 \u00d7 12.6 cm (9 3/4 \u00d7 4 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.6,
+            "width_in": 4.9375,
+            "height_cm": 24.8,
+            "height_in": 9.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware with incised decoration under a green glaze",
+    "inscriptions": null,
+    "credit_line": "Logan-Patten-Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1931,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 63,
+        "l": 46,
+        "s": 23,
+        "percentage": 0.002758505022685945,
+        "population": 150
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 29882,
+    "artist_title": "Islamic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29882
+    ],
+    "artist_titles": [
+        "Islamic"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "ceramics",
+        "21st Century",
+        "asian art",
+        "decorative arts"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-46",
+    "classification_title": "ceramics",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-46",
+        "TM-26",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "ceramics",
+        "asian art",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5450c1a5-d510-2312-68cd-1b38a7a0c4e6",
+    "alt_image_ids": [
+        "fadbcbb2-7ca3-c1cc-f3d6-256de431f416"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1931.428"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jug"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-20T15:58:27-05:00",
+    "updated_at": "2023-07-20T16:01:12-05:00",
+    "timestamp": "2023-09-24T00:23:49-05:00"
+}

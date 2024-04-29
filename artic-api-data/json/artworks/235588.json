@@ -1,0 +1,158 @@
+{
+    "id": 235588,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/235588",
+    "is_boosted": false,
+    "title": "Star-pod fragment from the proscenium vault of the Garrick Theater, Chicago, Illinois",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAJGBa5SFbpuLc6STeq2bfKiciLikhbKmkLmrksC+vMHAv8PCwMXEwsrKy8zKyMzMy8nLzM3Nzc7Ozc3Nzs3Pz87Oz87P0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoBVJzVQVyPFIA2E4DCAECbUsChQCADs=",
+        "width": 2488,
+        "height": 2250,
+        "alt_text": "A work made of painted plaster."
+    },
+    "main_reference_number": "1962.950",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1891,
+    "date_end": 1892,
+    "date_display": "1891\u201392",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Adler & Sullivan\nAmerican, 1883\u20131895",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "70 \u00d7 70 \u00d7 4 cm (27 1/2 \u00d7 27 1/2 \u00d7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 4,
+            "depth_in": 0.5,
+            "width_cm": 70,
+            "width_in": 27.5,
+            "height_cm": 70,
+            "height_in": 27.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Painted plaster",
+    "inscriptions": null,
+    "credit_line": "Gift of the Commission on Chicago Architectural Landmarks",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.4457,
+    "color": {
+        "h": 42,
+        "l": 56,
+        "s": 14,
+        "percentage": 0.054174722821569016,
+        "population": 348
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 200",
+    "gallery_id": 2147477218,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 30393,
+    "artist_title": "Adler & Sullivan, Architects",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30393
+    ],
+    "artist_titles": [
+        "Adler & Sullivan, Architects"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-184"
+    ],
+    "classification_titles": [
+        "architectural fragment"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "662f2406-a717-dbc8-0ba8-b413a76a2516",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.950"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Star-pod fragment from the proscenium vault of the Garrick Theater, Chicago, Illinois"
+            ],
+            "weight": 21,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-18T09:09:17-05:00",
+    "updated_at": "2023-07-18T09:10:53-05:00",
+    "timestamp": "2023-09-24T01:51:50-05:00"
+}

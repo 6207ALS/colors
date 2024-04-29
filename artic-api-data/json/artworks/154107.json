@@ -1,0 +1,178 @@
+{
+    "id": 154107,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/154107",
+    "is_boosted": false,
+    "title": "Madeira (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAH8cFn8eFn4fFn8jHIIfGIAkHoAlHoQlHYQkHoIqJIIrJIdAO4hDPohEP4pEP4lGQIlIRIlJRItIRIpKRo1OSo1PS4xSTo9fXJFgXZFlY5Nxb5Rxb5mAgAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYICZR1ZQ5xIEADGQoSRE1wjAED7dp1nKFADs=",
+        "width": 6254,
+        "height": 4740,
+        "alt_text": "A work made of silk, cotton, and linen, plain weave."
+    },
+    "main_reference_number": "2000.149",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1975,
+    "date_display": "1925/75",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Edward J. Wormley (American, 1907\u20131995)\nProbably produced by Baronio Fabrics, Inc. or Franklin Harward Fabrics Inc.\nUnited States, New York, New York",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "99.7 \u00d7 136.3 cm (39 1/4 \u00d7 53 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 136.3,
+            "width_in": 53.625,
+            "height_cm": 99.7,
+            "height_in": 39.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, cotton, and linen, plain weave",
+    "inscriptions": null,
+    "credit_line": "Mary Ann Judy Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2001,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 66.8545,
+    "color": {
+        "h": 4,
+        "l": 35,
+        "s": 67,
+        "percentage": 0.8866166552498065,
+        "population": 4776
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 87463,
+    "artist_title": "Edward Wormley",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        87463
+    ],
+    "artist_titles": [
+        "Edward Wormley"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Textiles",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "silk (fiber)",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "f8b059c2-b368-d264-6736-c708e77df2aa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2000.149"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Madeira (Furnishing Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:39:25-05:00",
+    "timestamp": "2023-09-24T01:29:25-05:00"
+}

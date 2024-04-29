@@ -1,0 +1,22 @@
+{
+    "id": "TM-14091",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/TM-14091",
+    "title": "priest",
+    "subtype": "subject",
+    "parent_id": null,
+    "aat_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "priest"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-01-29T13:00:12-06:00",
+    "updated_at": "2020-01-29T13:01:01-06:00",
+    "timestamp": "2023-09-24T02:02:42-05:00"
+}

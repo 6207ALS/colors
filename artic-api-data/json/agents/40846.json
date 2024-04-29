@@ -1,0 +1,28 @@
+{
+    "id": 40846,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40846",
+    "title": "Ernest Henry Griset",
+    "sort_title": "Griset, Ernest Henry",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1844,
+    "death_date": 1907,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ernest Henry Griset",
+            "Griset, Ernest Henry"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2022-03-15T16:36:17-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

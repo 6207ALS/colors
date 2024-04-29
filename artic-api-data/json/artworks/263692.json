@@ -1,0 +1,182 @@
+{
+    "id": 263692,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/263692",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAALGrpL64sb+5ssW/uMfBudLLxNLMxNfQyNnSytnTy9zVzd3WzuHa0+Hb1eTe2Obg2ubg2+fg2+fh3Oji3Oji3enj3erj3uvl3+zl4Ozm4Ozm4QAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUZIKWN4yMlTJIoz0MIhUI41wAIh0G1DSVKIQA7",
+        "width": 10970,
+        "height": 7852,
+        "alt_text": "A work made of aquatint in black on ivory wove paper."
+    },
+    "main_reference_number": "2022.465",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1992,
+    "date_end": 1992,
+    "date_display": "1992",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Saul Steinberg\nAmerican, born Romania, 1914-1999",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Plate: 36 \u00d7 57.3 cm (14 3/16 \u00d7 22 9/16 in.); Sheet: 51.5 \u00d7 72.5 cm (20 5/16 \u00d7 28 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 57.3,
+            "width_in": 22.5591,
+            "height_cm": 36,
+            "height_in": 14.1733,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 72.5,
+            "width_in": 28.5434,
+            "height_cm": 51.5,
+            "height_in": 20.2756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Aquatint in black on ivory wove paper",
+    "inscriptions": "Inscribed verso, lower right corner, in graphite: \u201c4637\u201d",
+    "credit_line": "Gift of The Saul Steinberg Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 45,
+        "l": 60,
+        "s": 1,
+        "percentage": 0.0005537725961277248,
+        "population": 477
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36786,
+    "artist_title": "Saul Steinberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36786
+    ],
+    "artist_titles": [
+        "Saul Steinberg"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "prints and drawing",
+        "paper",
+        "print",
+        "aquatint"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-17",
+        "TM-147"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-17",
+        "TM-147"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "paper",
+        "print",
+        "aquatint"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b4e4e585-3359-ca1c-14b8-23a1e02b5232",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.465"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-27T10:01:38-05:00",
+    "updated_at": "2023-04-27T10:17:36-05:00",
+    "timestamp": "2023-09-24T01:58:24-05:00"
+}

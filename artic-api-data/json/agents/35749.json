@@ -1,0 +1,33 @@
+{
+    "id": 35749,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35749",
+    "title": "Hendrik Willem Mesdag",
+    "sort_title": "Mesdag, Hendrik Willem",
+    "alt_titles": [
+        "Hendrik W. Mesdag",
+        "Hendrik Willem Mesdag"
+    ],
+    "is_artist": true,
+    "birth_date": 1831,
+    "death_date": 1915,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hendrik Willem Mesdag",
+            "Mesdag, Hendrik Willem",
+            "Hendrik W. Mesdag",
+            "Hendrik Willem Mesdag"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-13T14:30:43-06:00",
+    "updated_at": "2023-02-13T14:32:13-06:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

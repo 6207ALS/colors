@@ -1,0 +1,43 @@
+{
+    "id": 6251,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6251",
+    "title": "The Art of the Sepik River",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1971-10-16T00:00:00-05:00",
+    "aic_end_at": "1971-12-19T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "38458441-8b08-98af-7be3-d14006326f5e",
+    "alt_image_ids": [
+        "4d944a2c-27d7-fbc8-2c21-1d655d715bf7",
+        "6aa52b5a-ee83-cc4a-a4d2-b8841f882fa9",
+        "355ce9ae-9c02-df01-b1df-ccafc66e7555",
+        "4e760183-be00-1109-6240-7ccdcc2f4afb"
+    ],
+    "document_ids": [
+        "1f2cca53-b45c-8364-395d-6bb66ebafbf9"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Art of the Sepik River"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:17:54-06:00",
+    "timestamp": "2023-09-24T02:01:46-05:00"
+}

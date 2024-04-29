@@ -1,0 +1,182 @@
+{
+    "id": 36731,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/36731",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGRhW2ViW2lmYmxoYW5qY2xqZW5rZm5sZ29sZ3FuaXZzbXZ0bnp4c3x5cn16dX57dX99dX98doN/eISBeYSCeYeEe4mHfYmHfo6Lg5ORh5aTiJyZj5+flKakmK6tn66toLa1pwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIfAAEEYGJNBpUMBKDYaEMdjwUgImQ8lsIgkGpdDwREEADs=",
+        "width": 3000,
+        "height": 2179,
+        "alt_text": "A work made of photogravure."
+    },
+    "main_reference_number": "1971.536.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1969,
+    "date_end": 1969,
+    "date_display": "1969",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Arnold Gassan\nAmerican, 1930\u20132001",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 23.5 \u00d7 32.9 cm (9 5/16 \u00d7 13 in.); Paper: 38.3 \u00d7 52 cm (15 1/8 \u00d7 20 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 32.9,
+            "width_in": 12.9528,
+            "height_cm": 23.5,
+            "height_in": 9.252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52,
+            "width_in": 20.4725,
+            "height_cm": 38.3,
+            "height_in": 15.0788,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Photogravure",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Charles and Ruth Levy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.6081,
+    "color": {
+        "h": 45,
+        "l": 41,
+        "s": 5,
+        "percentage": 0.2857054249141333,
+        "population": 1474
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 9336,
+    "artist_title": "Arnold Gassan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        9336
+    ],
+    "artist_titles": [
+        "Arnold Gassan"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photogravure",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-275",
+    "classification_title": "photogravure",
+    "alt_classification_ids": [
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-275",
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photogravure",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "421eacb1-9ac4-2135-06ea-aa3f258cdd74",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1971.536.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 49,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:49:34-05:00",
+    "timestamp": "2023-09-24T00:36:50-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 16016,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16016",
+    "title": "Edward Greene Malbone",
+    "sort_title": "Malbone, Edward Greene",
+    "alt_titles": [
+        "Edward G. Malbone"
+    ],
+    "is_artist": true,
+    "birth_date": 1777,
+    "death_date": 1807,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edward Greene Malbone",
+            "Malbone, Edward Greene",
+            "Edward G. Malbone"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:33-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

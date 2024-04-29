@@ -1,0 +1,183 @@
+{
+    "id": 191371,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/191371",
+    "is_boosted": true,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJVPKItQMZhXMZ1eOZ9mRKl2Vax/X7N/WrSQfbyVfryWfsyjfr6ZgL6bh8uojdGvjdWwisuul9a7m9y9mcy1pNzDrt7LsN7LvODLr+TPvODZzeXe1+fq6uvu8Ozw8u/z8/D19/P4+vX6/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQM4nJAJ5OhpKA5G4bCwFgGDgyGAeB0JAUZFMIAsDIxIEADs=",
+        "width": 3000,
+        "height": 2250,
+        "alt_text": "Large triangular structure lying on floor, top panel bisects horizontally creating ramp."
+    },
+    "main_reference_number": "2008.11",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1976,
+    "date_end": 1976,
+    "date_display": "1976",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Donald Judd\nAmerican, 1928-1994",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "91.5 \u00d7 233 \u00d7 214.6 cm (36 \u00d7 91 3/4 \u00d7 84 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 214.6,
+            "depth_in": 84.5,
+            "width_cm": 233,
+            "width_in": 91.75,
+            "height_cm": 91.5,
+            "height_in": 36,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Douglas fir plywood (3/4 inch)",
+    "inscriptions": null,
+    "credit_line": "Through prior gift of Adeline Yates",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Judd Foundation / Artists Rights Society (ARS), New York.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 45.7849,
+    "color": {
+        "h": 94,
+        "l": 92,
+        "s": 3,
+        "percentage": 0.5463834707269096,
+        "population": 2911
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 35162,
+    "artist_title": "Donald Judd",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35162
+    ],
+    "artist_titles": [
+        "Donald Judd"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-831"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Essentials"
+    ],
+    "term_titles": [
+        "Minimalism",
+        "sculpting",
+        "plywood",
+        "triangles",
+        "sculpture"
+    ],
+    "style_id": "TM-7208",
+    "style_title": "Minimalism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7208"
+    ],
+    "style_titles": [
+        "Minimalism"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": "TM-12428",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12428"
+    ],
+    "subject_titles": [
+        "triangles"
+    ],
+    "material_id": "TM-3847",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3847"
+    ],
+    "material_titles": [
+        "plywood"
+    ],
+    "technique_id": "TM-12999",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-12999"
+    ],
+    "technique_titles": [
+        "sculpting"
+    ],
+    "theme_titles": [
+        "Essentials"
+    ],
+    "image_id": "41d9b65a-6649-28e6-19d9-c16ef27df8f1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_boosted": "Untitled",
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.11"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 460,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:48:16-06:00",
+    "updated_at": "2023-04-07T12:18:14-05:00",
+    "timestamp": "2023-09-24T01:37:12-05:00"
+}

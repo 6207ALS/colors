@@ -1,0 +1,33 @@
+{
+    "id": 56674,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/56674",
+    "title": "Lucy Martin Lewis",
+    "sort_title": "Lewis, Lucy Martin",
+    "alt_titles": [
+        "Lucy M. Lewis",
+        "Lucy Lewis"
+    ],
+    "is_artist": true,
+    "birth_date": 1898,
+    "death_date": 1992,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lucy Martin Lewis",
+            "Lewis, Lucy Martin",
+            "Lucy M. Lewis",
+            "Lucy Lewis"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-20T11:08:09-05:00",
+    "updated_at": "2022-03-15T16:58:37-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

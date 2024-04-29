@@ -1,0 +1,31 @@
+{
+    "id": 36346,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36346",
+    "title": "Deborah Remington",
+    "sort_title": "Remington, Deborah",
+    "alt_titles": [
+        "Deborah Williams Remington"
+    ],
+    "is_artist": true,
+    "birth_date": 1935,
+    "death_date": 2010,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Deborah Remington",
+            "Remington, Deborah",
+            "Deborah Williams Remington"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-11-08T11:20:02-06:00",
+    "updated_at": "2022-03-15T16:38:18-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

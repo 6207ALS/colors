@@ -1,0 +1,185 @@
+{
+    "id": 18896,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18896",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFpLP2dbUnxxZaqno7KuqrGurrazsbm3tL27ur68ucjHxsrKys7OzdPT09na2wAAACH5BAAAAAAALAAAAAADAAUAAAQLkJl1RCJgqIBcaREAOw==",
+        "width": 1456,
+        "height": 2250,
+        "alt_text": "A work made of copper and silver inlay."
+    },
+    "main_reference_number": "1925.1639",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1930,
+    "date_display": "c. 1925",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean Dunand\nFrench, 1877-1942\nParis, France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "H.: 27.9 cm (11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 27.9,
+            "height_in": 11,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Copper and silver inlay",
+    "inscriptions": null,
+    "credit_line": "Gift of Arthur T. Aldis and Russell Tyson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.9421,
+    "color": {
+        "h": 186,
+        "l": 36,
+        "s": 22,
+        "percentage": 0.00018207822262522204,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 34328,
+    "artist_title": "Jean Dunand",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34328
+    ],
+    "artist_titles": [
+        "Jean Dunand"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "vase",
+        "copper",
+        "Art Deco",
+        "copper",
+        "vessel",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": "TM-5976",
+    "style_title": "Art Deco",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5976"
+    ],
+    "style_titles": [
+        "Art Deco"
+    ],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-1641",
+        "TM-27",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-1641",
+        "TM-27",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "vase",
+        "copper",
+        "vessel",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2458",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2458"
+    ],
+    "material_titles": [
+        "copper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a90b535c-87dd-e474-0d11-301c18f7fc5b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1925.1639"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 2528,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:59:48-05:00",
+    "timestamp": "2023-09-24T00:27:51-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 116462,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116462",
+    "title": "George D. Hamilton",
+    "sort_title": "Hamilton, George D.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George D. Hamilton",
+            "Hamilton, George D."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-03-11T16:51:12-05:00",
+    "updated_at": "2020-03-12T13:51:04-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

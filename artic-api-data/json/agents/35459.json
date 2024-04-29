@@ -1,0 +1,28 @@
+{
+    "id": 35459,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35459",
+    "title": "Alfred Leslie",
+    "sort_title": "Leslie, Alfred",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1927,
+    "death_date": 2023,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alfred Leslie",
+            "Leslie, Alfred"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-01-31T12:40:47-06:00",
+    "updated_at": "2023-01-31T12:42:09-06:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

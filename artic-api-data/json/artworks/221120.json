@@ -1,0 +1,173 @@
+{
+    "id": 221120,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/221120",
+    "is_boosted": false,
+    "title": "One of a Pair of Andirons",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAANDOydnX0t/d2eLi4OTj4ebl4+bl5Ono5uvq6O7u7u/v7vLy8vX19fb29gAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLkJHEhGphIXCKGREAOw==",
+        "width": 1506,
+        "height": 2250,
+        "alt_text": "A work made of brass."
+    },
+    "main_reference_number": "1995.426.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1905,
+    "date_display": "c. 1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Charles Francis Annesley Voysey (English, 1857-1941)\nProbably manufactured by Thomas Elsley Ltd. (English, c. 1880-1930)\nEngland",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "H.: 43.8 cm (17 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 43.8,
+            "height_in": 17.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brass",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1996,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.4426,
+    "color": {
+        "h": 37,
+        "l": 50,
+        "s": 41,
+        "percentage": 0.0010364285801776438,
+        "population": 11
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 246",
+    "gallery_id": 2147479700,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 37188,
+    "artist_title": "Charles Francis Annesley Voysey",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37188
+    ],
+    "artist_titles": [
+        "Charles Francis Annesley Voysey"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "brass (alloy)",
+        "Arts and Crafts Movement",
+        "andirons",
+        "metalwork"
+    ],
+    "style_id": "TM-7569",
+    "style_title": "Arts and Crafts Movement",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7569"
+    ],
+    "style_titles": [
+        "Arts and Crafts Movement"
+    ],
+    "classification_id": "TM-12328",
+    "classification_title": "andirons",
+    "alt_classification_ids": [
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-12328",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "andirons",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2460",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2460"
+    ],
+    "material_titles": [
+        "brass (alloy)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "954bb1a2-22ec-0c00-f267-44b57b3c6312",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1995.426.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "One of a Pair of Andirons"
+            ],
+            "weight": 13,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:25:26-05:00",
+    "timestamp": "2023-09-24T01:46:19-05:00"
+}

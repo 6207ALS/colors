@@ -1,0 +1,184 @@
+{
+    "id": 135233,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/135233",
+    "is_boosted": false,
+    "title": "Figurine of a Female",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAI+Miamfk62hla+kmaqjnK+ura+vrrGwsLKxsbKysbCxsrW3uLi5u7y8vcDCxMHDxcnJycrKys3Ozs7PzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoIEkx0IEjCMMzwQUEqQ0UQgAOw==",
+        "width": 6005,
+        "height": 7507,
+        "alt_text": "A work made of terracotta."
+    },
+    "main_reference_number": "1889.6",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -300,
+    "date_end": -100,
+    "date_display": "3rd-2nd century BCE (?)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Greek",
+    "place_of_origin": "Greece",
+    "description": null,
+    "dimensions": "10.8 \u00d7 4.1 \u00d7 2.9 cm (4 1/4 \u00d7 1 5/8 \u00d7 1 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2.9,
+            "depth_in": 1.125,
+            "width_cm": 4.1,
+            "width_in": 1.625,
+            "height_cm": 10.8,
+            "height_in": 4.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "terracotta",
+    "inscriptions": null,
+    "credit_line": "Museum Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Francis H. Bacon (1856\u20131940), Boston; sold to the Art Institute of Chicago, 1889.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.1216,
+    "color": {
+        "h": 150,
+        "l": 33,
+        "s": 0,
+        "percentage": 8.873205990256998e-6,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 2601,
+    "artist_title": "Ancient Greek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2601
+    ],
+    "artist_titles": [
+        "Ancient Greek"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "earthenware",
+        "terracotta",
+        "inorganic material",
+        "ceramics",
+        "sculpture",
+        "ancient art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-46",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "ceramics",
+        "sculpture",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2433",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2433",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "terracotta",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b9273c62-4636-921c-15bf-6a3a43ad8e5c",
+    "alt_image_ids": [
+        "0f5f0e44-5de0-8271-93d7-f5249d1f8735",
+        "3ad4e9c8-0b00-62ba-0581-57d42e87fd78"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1889.6"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Figurine of a Female"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-18T15:24:35-06:00",
+    "updated_at": "2023-09-23T23:17:55-05:00",
+    "timestamp": "2023-09-24T01:20:53-05:00"
+}

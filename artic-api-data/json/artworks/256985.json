@@ -1,0 +1,163 @@
+{
+    "id": 256985,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/256985",
+    "is_boosted": false,
+    "title": "Untitled (Subjective)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHxbVI5tZY5ybZN1cZJ2cZh7dslZS8xYSdBcS9ZlVLaZlLudmZ2sq8WOhdOYjsKhm8GhncSkncano7LBvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIKQskhE9R8NMDgIEyVAIRAgAOw==",
+        "width": 3820,
+        "height": 5000,
+        "alt_text": "A work made of lead paint on wove paper."
+    },
+    "main_reference_number": "2020.66",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1985,
+    "date_end": 1985,
+    "date_display": "1985",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Matt Mullican\nAmerican, born 1951",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "127 \u00d7 96.7 cm (50 \u00d7 38 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 96.7,
+            "width_in": 38.125,
+            "height_cm": 127,
+            "height_in": 50,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lead paint on wove paper",
+    "inscriptions": null,
+    "credit_line": "Walter Aitken Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": "Gianni Jetzer, Leah Pires, and Bob Nickas, Brand New: Art and Commodity in the 1980s, exh. cat. (Hirsshorn Smithsonian/Rizzoli Electa, 2018), p. 190.\n\nGianni Jetzer, Leah Pires, and Bob Nickas, Brand New: Art and Commodity in the 1980s, exh. cat. (Hirsshorn Smithsonian/Rizzoli Electa, 2018), p. 189.",
+    "exhibition_history": "Washington D.C., Hirshhorn Museum and Sculpture Garden, Brand New: Art and Commodity in the 1980s, Feb. 14\u2013May 13, 2018, no cat. no.",
+    "provenance_text": "The artist; sold through Mai 36 Galerie, Zurich, to the Art Insitute of Chicago, Apr. 14, 2020.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 91.488,
+    "color": {
+        "h": 6,
+        "l": 50,
+        "s": 81,
+        "percentage": 0.2938174653619106,
+        "population": 2732
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 290 (Vestibule)",
+    "gallery_id": 23964,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 62934,
+    "artist_title": "Matt Mullican",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        62934
+    ],
+    "artist_titles": [
+        "Matt Mullican"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "paper",
+        "people"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-145",
+    "classification_title": "paper",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-145"
+    ],
+    "classification_titles": [
+        "paper"
+    ],
+    "subject_id": "TM-8810",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8810"
+    ],
+    "subject_titles": [
+        "people"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b4fb83a7-9729-235f-aab7-60baffdd7628",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.66"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Subjective)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-06T11:17:27-06:00",
+    "updated_at": "2023-04-07T12:53:06-05:00",
+    "timestamp": "2023-09-24T01:57:10-05:00"
+}

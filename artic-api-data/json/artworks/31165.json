@@ -1,0 +1,177 @@
+{
+    "id": 31165,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/31165",
+    "is_boosted": false,
+    "title": "Pitcher",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADEtKjc0Mzg1NElEPGllYWpmYnRvbnZzcYF9epCLiaKenbGtrLKursC7t8G9vsbAwMfCwMfDwcjDwMrGxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoJMgzHQUyiIMTRQA0GMQUggAOw==",
+        "width": 2115,
+        "height": 3000,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1926.1303",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -600,
+    "date_end": -201,
+    "date_display": "6th-3rd century BCE",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Eastern Mediterranean",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "17 \u00d7 9.5 \u00d7 9.5 cm (6 3/4 \u00d7 3 3/4 \u00d7 3 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 9.5,
+            "depth_in": 3.75,
+            "width_cm": 9.5,
+            "width_in": 3.75,
+            "height_cm": 17,
+            "height_in": 6.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Emily Crane Chadbourne (1871-1964), Paris, London, and Chicago; given to the Art Institute of Chicago, 1926.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": 1930,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.7822,
+    "color": {
+        "h": 38,
+        "l": 59,
+        "s": 53,
+        "percentage": 9.91839147494416e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 37541,
+    "artist_title": "Ancient Egyptian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37541
+    ],
+    "artist_titles": [
+        "Ancient Egyptian"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "glass",
+        "greco-roman (egyptian)",
+        "glass",
+        "vessel",
+        "ancient art"
+    ],
+    "style_id": "TM-4702",
+    "style_title": "greco-roman (egyptian)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4702"
+    ],
+    "style_titles": [
+        "greco-roman (egyptian)"
+    ],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "glass",
+        "vessel",
+        "ancient art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "15cd47ed-49c5-8f94-df8a-4081e2894911",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.1303"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pitcher"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-09-23T23:22:16-05:00",
+    "timestamp": "2023-09-24T00:34:14-05:00"
+}

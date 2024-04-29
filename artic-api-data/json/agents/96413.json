@@ -1,0 +1,33 @@
+{
+    "id": 96413,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/96413",
+    "title": "Warren MacKenzie",
+    "sort_title": "MacKenzie, Warren",
+    "alt_titles": [
+        "Warren McKenzie",
+        "MacKenzie Studios"
+    ],
+    "is_artist": true,
+    "birth_date": 1924,
+    "death_date": 2018,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Warren MacKenzie",
+            "MacKenzie, Warren",
+            "Warren McKenzie",
+            "MacKenzie Studios"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-09-15T15:30:27-05:00",
+    "updated_at": "2023-09-15T15:30:52-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

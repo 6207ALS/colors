@@ -1,0 +1,41 @@
+{
+    "id": 22529,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22529",
+    "title": "Jan Ruischer",
+    "sort_title": "Ruischer, Jan",
+    "alt_titles": [
+        "Johannes Ruischer, (Jonge Hercules)",
+        "Jan Ruijscher, (Jonge Hercules)",
+        "Jan Ruycher, (Jonge Hercules)",
+        "Jan Ruysscher, (Jonge Hercules)",
+        "Jan Rauscher, (Jonge Hercules)",
+        "Jan Rousscher, (Jonge Hercules)"
+    ],
+    "is_artist": true,
+    "birth_date": 1620,
+    "death_date": 1725,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Ruischer",
+            "Ruischer, Jan",
+            "Johannes Ruischer, (Jonge Hercules)",
+            "Jan Ruijscher, (Jonge Hercules)",
+            "Jan Ruycher, (Jonge Hercules)",
+            "Jan Ruysscher, (Jonge Hercules)",
+            "Jan Rauscher, (Jonge Hercules)",
+            "Jan Rousscher, (Jonge Hercules)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:01:00-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

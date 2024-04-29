@@ -1,0 +1,167 @@
+{
+    "id": 90984,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/90984",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACApFiYzITBELSxROk9qTXh9UG5+bHZzYpV0bUyEZl+CZ1mFZVqBbGqRdW2UdrKBRLCESqqOUoikfs6NSsOce2uegKCbiYKwlLK3rQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoDMIAcA0T2EQygQhVRJR2LVIhxUCADs=",
+        "width": 2259,
+        "height": 2250,
+        "alt_text": "Abstract painting with an orange mass in the center surrounded by green and pink tones, painted in wide brushstrokes."
+    },
+    "main_reference_number": "1989.534",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1960,
+    "date_display": "1960",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Eva Hesse\nAmerican, born  Germany, 1936\u20131970",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "91.4 \u00d7 91.4 cm (36 \u00d7 36 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 91.4,
+            "width_in": 36,
+            "height_cm": 91.4,
+            "height_in": 36,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Helen Charash",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 The Estate of Eva Hesse, Courtesy Hauser & Wirth.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 54.3125,
+    "color": {
+        "h": 340,
+        "l": 33,
+        "s": 59,
+        "percentage": 0.006496074111732475,
+        "population": 46
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 291",
+    "gallery_id": 25468,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 34922,
+    "artist_title": "Eva Hesse",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34922
+    ],
+    "artist_titles": [
+        "Eva Hesse"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+    ],
+    "term_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "1b3e9a14-4deb-2b0a-6ee6-54ca60c0383f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.534"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 2397,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-24T15:08:25-06:00",
+    "updated_at": "2023-04-07T12:22:58-05:00",
+    "timestamp": "2023-09-24T01:00:11-05:00"
+}

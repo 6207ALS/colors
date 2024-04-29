@@ -1,0 +1,157 @@
+{
+    "id": 1929,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/1929",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJldSZpfS5hfTJliTZxjT5xhUJxiUJ9mUp9nVqBoV6BqVqJrV6NsWaVvXKZxXqVzXqZ2Yq1+aax/aa6AarGDbrKEbrWIcraKdbeOd7qOdruPdrqPd7mRebuRebmQeriResCagcShiciljAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQBGnk9loQJMBIXAAPCqKBsOxkEQEiQLCAAlhPJYL5RMEADs=",
+        "width": 3000,
+        "height": 2108,
+        "alt_text": "A work made of silk, plain compound cloth."
+    },
+    "main_reference_number": "1895.700",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1650,
+    "date_end": 1700,
+    "date_display": "1650 / 1700",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Silk, plain compound cloth",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society of The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.2299,
+    "color": {
+        "h": 7,
+        "l": 36,
+        "s": 55,
+        "percentage": 0.02304350613959155,
+        "population": 115
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "compound weaving",
+        "silk (textile)",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10542",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10542"
+    ],
+    "technique_titles": [
+        "compound weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "ed6c7462-a50e-7526-31dc-5bb235dd7490",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1895.700"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:44:50-05:00",
+    "updated_at": "2023-04-10T15:30:51-05:00",
+    "timestamp": "2023-09-24T00:21:04-05:00"
+}

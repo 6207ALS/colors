@@ -1,0 +1,37 @@
+{
+    "id": 4916,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/4916",
+    "title": "Jean Baptiste Cl\u00e9singer, called Auguste",
+    "sort_title": "Cl\u00e9singer, Jean Baptiste, called Auguste",
+    "alt_titles": [
+        "Jean B. Cl\u00e9singer",
+        "Auguste Cl\u00e9singer",
+        "Cl\u00e9singer",
+        "Jean Baptiste Cl\u00e9singer"
+    ],
+    "is_artist": true,
+    "birth_date": 1814,
+    "death_date": 1883,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Baptiste Cl\u00e9singer, called Auguste",
+            "Cl\u00e9singer, Jean Baptiste, called Auguste",
+            "Jean B. Cl\u00e9singer",
+            "Auguste Cl\u00e9singer",
+            "Cl\u00e9singer",
+            "Jean Baptiste Cl\u00e9singer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:18:19-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

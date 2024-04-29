@@ -1,0 +1,37 @@
+{
+    "id": 14551,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14551",
+    "title": "Joseph Clayton Clarke",
+    "sort_title": "Clarke, Joseph Clayton",
+    "alt_titles": [
+        "Kyd",
+        "Joseph Clayton Clarke, (Kyd)",
+        "J. Clayton (Joseph Clayton) Clarke",
+        "Joseph Clayton Clark"
+    ],
+    "is_artist": true,
+    "birth_date": 1856,
+    "death_date": 1937,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joseph Clayton Clarke",
+            "Clarke, Joseph Clayton",
+            "Kyd",
+            "Joseph Clayton Clarke, (Kyd)",
+            "J. Clayton (Joseph Clayton) Clarke",
+            "Joseph Clayton Clark"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:53-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

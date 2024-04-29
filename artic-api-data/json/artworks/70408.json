@@ -1,0 +1,178 @@
+{
+    "id": 70408,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/70408",
+    "is_boosted": false,
+    "title": "Fragment (Border)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFdFJ1hGJ1xJJl9OLV5MMWJOKmJQLGhUMmxXMmVVOG9bOW5cPG9ePXBbOHJdOnNiQ3tnRH1oQ31pSH1qSQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MQ8kCMUSGQMSgMEh0QkSwgAOw==",
+        "width": 1925,
+        "height": 2250,
+        "alt_text": "A work made of wool and linen, slit tapestry weave."
+    },
+    "main_reference_number": "1914.704",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 401,
+    "date_end": 600,
+    "date_display": "Roman period (30 B.C\u2013 641 A.D.), 5th/6th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Coptic\nEgypt",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "24.1 \u00d7 24.1 cm (9 1/2 \u00d7 9 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.1,
+            "width_in": 9.5,
+            "height_cm": 24.1,
+            "height_in": 9.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool and linen, slit tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.0224,
+    "color": {
+        "h": 40,
+        "l": 31,
+        "s": 29,
+        "percentage": 0.04925604109085873,
+        "population": 409
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 37541,
+    "artist_title": "Ancient Egyptian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37541
+    ],
+    "artist_titles": [
+        "Ancient Egyptian"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roman period (egyptian)",
+        "wool (textile)",
+        "textile",
+        "weaving",
+        "greco-roman (egyptian)"
+    ],
+    "style_id": "TM-4315",
+    "style_title": "roman period (egyptian)",
+    "alt_style_ids": [
+        "TM-4702"
+    ],
+    "style_ids": [
+        "TM-4315",
+        "TM-4702"
+    ],
+    "style_titles": [
+        "roman period (egyptian)",
+        "greco-roman (egyptian)"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b0b46460-58e7-af92-30f0-fc06b55583c4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1914.704"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment (Border)"
+            ],
+            "weight": 238,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-09-23T23:22:16-05:00",
+    "timestamp": "2023-09-24T00:51:01-05:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 40907,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40907",
+    "title": "Jacques Androuet du Cerceau, II",
+    "sort_title": "Androuet du Cerceau, Jacques, II",
+    "alt_titles": [
+        "Jacques Androuet Ducerceau, II",
+        "Jacques A. Ducerceau, II",
+        "Jacques Androuet du Cerceau, the younger",
+        "Jacques Androuet de Cerceau, II",
+        "Jacques Du Cerceau, II",
+        "Jacques Androuet-Ducerceau, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1550,
+    "death_date": 1614,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacques Androuet du Cerceau, II",
+            "Androuet du Cerceau, Jacques, II",
+            "Jacques Androuet Ducerceau, II",
+            "Jacques A. Ducerceau, II",
+            "Jacques Androuet du Cerceau, the younger",
+            "Jacques Androuet de Cerceau, II",
+            "Jacques Du Cerceau, II",
+            "Jacques Androuet-Ducerceau, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:59-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

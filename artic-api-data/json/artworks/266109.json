@@ -1,0 +1,168 @@
+{
+    "id": 266109,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/266109",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGtfVGReWm9hU2BgZ35vYH14eY59ZpuKXL2gTo+EbpaMYJGBb5iGbZ2Kc56RdKaUfqeVfqiVf7Cefo6MgJeMgpaSiKOVhq2agamegr2pjr6skNO7hsKuktTAnwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoBAUlPQAg7MdiVEpiMU02KR1ELFcGReFADs=",
+        "width": 3280,
+        "height": 2683,
+        "alt_text": "A work made of oil on masonite."
+    },
+    "main_reference_number": "2022.1429",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1955,
+    "date_end": 1955,
+    "date_display": "1955",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hugo Weber\nAmerican, born Switzerland, 1918-1971",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "48 \u00d7 58.4 cm (18 7/8 \u00d7 23 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 58.4,
+            "width_in": 23,
+            "height_cm": 48,
+            "height_in": 18.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on masonite",
+    "inscriptions": null,
+    "credit_line": "Gift of Bauhaus Chicago Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "None to date.",
+    "provenance_text": "Estate of Gene Hedge (died 2017), New York; bequeathed to the Bauhaus Chicago Foundation [email from Paul Young, Aug. 3, 2022; copy in curatorial object file]; given to the Art Institute of Chicago, Nov. 8, 2022.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 45,
+        "l": 49,
+        "s": 65,
+        "percentage": 0.003818077688790306,
+        "population": 336
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 28139,
+    "artist_title": "Hugo Weber",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28139
+    ],
+    "artist_titles": [
+        "Hugo Weber"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "Masonite"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-14229"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-14229"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "Masonite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "565574d4-6279-3447-b953-0b3afca8182b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.1429"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-01T14:18:47-05:00",
+    "updated_at": "2023-06-01T14:22:48-05:00",
+    "timestamp": "2023-09-24T01:58:52-05:00"
+}

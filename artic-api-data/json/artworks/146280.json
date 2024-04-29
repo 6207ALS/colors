@@ -1,0 +1,177 @@
+{
+    "id": 146280,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146280",
+    "is_boosted": false,
+    "title": "A Gentleman and Two Companions",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMXCrcrHscvIss3Jss3Js87LtdDMtdDNtdDNttHOttHOt9LOttLPutTRu9bTutjUvNjVvtrXvt3Zwd/bwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYOQ8EkIAgnIMQWEkS8NAUwgAOw==",
+        "width": 2252,
+        "height": 3000,
+        "alt_text": "A work made of graphite on buff wove paper."
+    },
+    "main_reference_number": "1985.398.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1833,
+    "date_end": 1873,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Celestin Nanteuil\nFrench, 1813-1873",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "20.8 \u00d7 15.3 cm (8 1/4 \u00d7 6 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.3,
+            "width_in": 6.0237,
+            "height_cm": 20.8,
+            "height_in": 8.189,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on buff wove paper",
+    "inscriptions": null,
+    "credit_line": "Henry Huxley Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1986,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.3135,
+    "color": {
+        "h": 49,
+        "l": 54,
+        "s": 7,
+        "percentage": 0.0065491412702587655,
+        "population": 62
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35959,
+    "artist_title": "Celestin Nanteuil",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35959
+    ],
+    "artist_titles": [
+        "Celestin Nanteuil"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a9b34ba5-1875-22c1-8afb-4bb86e5c4c5e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.398.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "A Gentleman and Two Companions"
+            ],
+            "weight": 69,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:15-05:00",
+    "updated_at": "2023-04-10T08:08:20-05:00",
+    "timestamp": "2023-09-24T01:25:33-05:00"
+}

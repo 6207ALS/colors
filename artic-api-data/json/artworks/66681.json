@@ -1,0 +1,160 @@
+{
+    "id": 66681,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/66681",
+    "is_boosted": false,
+    "title": "The Comic Almanack",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAN/Xv+Pav9/ZxODaw+TcwuPdxOTdxObfxuPeyOfhyuniyejiyunjy+jizOrkzevlzu7lzezmze3lzu3lz+3nz+/mz+/n0vDp0/Hp0/Dq1vLs2AAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoIQpRxRYmjMIxpQ9SVNUF7UgAFQrDBECADs=",
+        "width": 3000,
+        "height": 2334,
+        "alt_text": "A work made of pen and ink and graphite on folder paper."
+    },
+    "main_reference_number": "1986.1585",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1848,
+    "date_end": 1848,
+    "date_display": "1848",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "George Cruikshank (English, 1792-1878)\nwith the publisher David Bogue (English, 19th century)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Pen and ink and graphite on folder paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. John W. Taylor, Mrs. Winthrop M. Robinson, Jr. and Mrs. Fred D. Sauter from the Estate of Frances Hooper",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1987,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.3581,
+    "color": {
+        "h": 38,
+        "l": 41,
+        "s": 39,
+        "percentage": 0.0001808292104273356,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34089,
+    "artist_title": "George Cruikshank",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34089
+    ],
+    "artist_titles": [
+        "George Cruikshank"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "book",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "book",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "301acbae-ca5b-e3f2-5655-8e9b06a2c80d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1585"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Comic Almanack"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:06-05:00",
+    "updated_at": "2023-04-10T15:25:32-05:00",
+    "timestamp": "2023-09-24T00:49:21-05:00"
+}

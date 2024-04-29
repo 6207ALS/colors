@@ -1,0 +1,41 @@
+{
+    "id": 40579,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40579",
+    "title": "Frans Floris, I",
+    "sort_title": "Floris, Frans, I",
+    "alt_titles": [
+        "Frans de Vrient",
+        "Fran\u00e7ois de Vriendt",
+        "Frans Floris, the elder",
+        "Frans Floris de Vriendt, I",
+        "Frans Floris",
+        "Frans Floris, (the Elder)"
+    ],
+    "is_artist": true,
+    "birth_date": 1516,
+    "death_date": 1570,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frans Floris, I",
+            "Floris, Frans, I",
+            "Frans de Vrient",
+            "Fran\u00e7ois de Vriendt",
+            "Frans Floris, the elder",
+            "Frans Floris de Vriendt, I",
+            "Frans Floris",
+            "Frans Floris, (the Elder)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T10:32:42-06:00",
+    "updated_at": "2023-02-15T10:37:27-06:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

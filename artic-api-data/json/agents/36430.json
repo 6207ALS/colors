@@ -1,0 +1,53 @@
+{
+    "id": 36430,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36430",
+    "title": "Giulio Romano",
+    "sort_title": "Romano, Giulio",
+    "alt_titles": [
+        "Giulio Pippi",
+        "Romano Giulio",
+        "Giulio Pietro de' Giannuzzi",
+        "Jules Romain",
+        "Giulio Romano",
+        "Giulio Romano, (Giulio Pippi)",
+        "Giulio Romano, (Giulio di Pietro de Gianuzzi)",
+        "Giulio Pippi, (Romano)",
+        "Giulio di Pietro de' Gianuzzi",
+        "Giulio di Filippo dei Gianuzzi",
+        "Giulio di Pietro d'Gianuzzi",
+        "Giulio Pippi"
+    ],
+    "is_artist": true,
+    "birth_date": 1499,
+    "death_date": 1546,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giulio Romano",
+            "Romano, Giulio",
+            "Giulio Pippi",
+            "Romano Giulio",
+            "Giulio Pietro de' Giannuzzi",
+            "Jules Romain",
+            "Giulio Romano",
+            "Giulio Romano, (Giulio Pippi)",
+            "Giulio Romano, (Giulio di Pietro de Gianuzzi)",
+            "Giulio Pippi, (Romano)",
+            "Giulio di Pietro de' Gianuzzi",
+            "Giulio di Filippo dei Gianuzzi",
+            "Giulio di Pietro d'Gianuzzi",
+            "Giulio Pippi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-10-19T14:43:48-05:00",
+    "updated_at": "2022-03-15T16:37:59-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

@@ -1,0 +1,192 @@
+{
+    "id": 234208,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/234208",
+    "is_boosted": false,
+    "title": "Isolde",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADQUDDEdFDAgFDIkFzAlHUEdFEEpGkM1Iks2Iks2KFs5IU5CLV1KKl9PLG9DLAAAACH5BAAAAAAALAAAAAADAAUAAAQLcCWCHBhFBSNYOxEAOw==",
+        "width": 1388,
+        "height": 2250,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "2015.638",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1876",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Circle of Sir John Everett Millais\nEnglish, 1829\u20131896",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "36.2 \u00d7 23.5 cm (14 \u00d7 9 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23.5,
+            "width_in": 9.25,
+            "height_cm": 36.2,
+            "height_in": 14,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Gift of Suzette and Eugene Davidson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.71,
+    "color": {
+        "h": 40,
+        "l": 30,
+        "s": 40,
+        "percentage": 0.06881404674322121,
+        "population": 793
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 114749,
+    "artist_title": "Circle of Sir John Everett Millais",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114749
+    ],
+    "artist_titles": [
+        "Circle of Sir John Everett Millais"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on panel",
+        "oil painting",
+        "Pre-Raphaelite",
+        "isolde",
+        "victorian",
+        "fictional characters",
+        "portraits: female subject",
+        "painting"
+    ],
+    "style_id": "TM-7600",
+    "style_title": "Pre-Raphaelite",
+    "alt_style_ids": [
+        "TM-7577"
+    ],
+    "style_ids": [
+        "TM-7600",
+        "TM-7577"
+    ],
+    "style_titles": [
+        "Pre-Raphaelite",
+        "victorian"
+    ],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-80",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "oil on panel",
+        "painting"
+    ],
+    "subject_id": "TM-13324",
+    "alt_subject_ids": [
+        "TM-12207",
+        "TM-8582"
+    ],
+    "subject_ids": [
+        "TM-13324",
+        "TM-12207",
+        "TM-8582"
+    ],
+    "subject_titles": [
+        "isolde",
+        "fictional characters",
+        "portraits: female subject"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-4273",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4273"
+    ],
+    "technique_titles": [
+        "oil painting"
+    ],
+    "theme_titles": [],
+    "image_id": "ad5071c8-92d6-bbd1-c13d-3ec39d8b5587",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.638"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Isolde"
+            ],
+            "weight": 245,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:22:36-05:00",
+    "timestamp": "2023-09-24T01:51:07-05:00"
+}

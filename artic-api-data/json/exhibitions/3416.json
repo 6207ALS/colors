@@ -1,0 +1,38 @@
+{
+    "id": 3416,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3416",
+    "title": "Chicago Art League, 3rd Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1883-03-12T00:00:00-05:50",
+    "aic_end_at": "1883-03-26T00:00:00-05:50",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "443b558c-4538-8424-a84e-3e15269c383c"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Art League, 3rd Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:35-06:00",
+    "timestamp": "2023-09-24T02:01:11-05:00"
+}

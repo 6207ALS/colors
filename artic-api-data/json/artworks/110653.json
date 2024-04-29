@@ -1,0 +1,175 @@
+{
+    "id": 110653,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/110653",
+    "is_boosted": false,
+    "title": "Millefleur with Medallions",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGxsU39qUohuVox1VpN5YZN6Ypd8YJh9Y5yBX6KDaaSEaKSKb6uMb6CLdK6RdQAAACH5BAAAAAAALAAAAAADAAUAAAQLkIijEEvDGbBKaBEAOw==",
+        "width": 1192,
+        "height": 2219,
+        "alt_text": "A work made of wool, cotton and silk, slit and double interlocking and dovetailed tapestry weaves."
+    },
+    "main_reference_number": "1950.1618",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1540,
+    "date_end": 1560,
+    "date_display": "1540/60",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Flanders, Bruges",
+    "place_of_origin": "Bruges",
+    "description": null,
+    "dimensions": "161.4 \u00d7 304.2 cm (63 1/2 \u00d7 119 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 304.2,
+            "width_in": 119.75,
+            "height_cm": 161.4,
+            "height_in": 63.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool, cotton and silk, slit and double interlocking and dovetailed tapestry weaves",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Chauncey McCormick and Mrs. Richard Ely Danielson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1951,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.2073,
+    "color": {
+        "h": 7,
+        "l": 49,
+        "s": 63,
+        "percentage": 0.007862901244228516,
+        "population": 104
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "weaving - tapestry",
+        "wool (textile)",
+        "coat of arms",
+        "royalty",
+        "textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-70",
+    "classification_title": "weaving - tapestry",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-70",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "weaving - tapestry",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-10481",
+        "TM-12150"
+    ],
+    "subject_ids": [
+        "TM-10481",
+        "TM-12150"
+    ],
+    "subject_titles": [
+        "coat of arms",
+        "royalty"
+    ],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8b9fa953-af5b-b2bb-4882-f85dc04d1a05",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.1618"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Millefleur with Medallions"
+            ],
+            "weight": 73,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-21T12:49:54-05:00",
+    "updated_at": "2023-09-23T23:25:22-05:00",
+    "timestamp": "2023-09-24T01:09:32-05:00"
+}

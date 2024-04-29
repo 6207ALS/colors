@@ -1,0 +1,180 @@
+{
+    "id": 52348,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/52348",
+    "is_boosted": false,
+    "title": "Panel (Dress Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJGEb5KGbpSHb5aHbpOIb5WKb5iKcZqLcJmLcpqNcJqOc52OcZuMdZ2NdpeMeJSNfZaNfZeNfZaOfJaPfpmOfZuRfZyTf6CPcZ2ViJ+Yi52ZkaCUgqCXiqKYiKKYjKGYj6WdkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwExlI7FQMJHDIAC4OCYIRUPAgFgMCcKi8NBwPh5QpxMEADs=",
+        "width": 6510,
+        "height": 4543,
+        "alt_text": "A work made of silk, plain weave; painted."
+    },
+    "main_reference_number": "1978.168",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century, Qing dynasty (1644\u20131911)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Made in China for the European/American market",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "53.4 \u00d7 78 cm (21 \u00d7 30 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 78,
+            "width_in": 30.75,
+            "height_cm": 53.4,
+            "height_in": 21,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, plain weave; painted",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. William J. Robertson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.6519,
+    "color": {
+        "h": 356,
+        "l": 49,
+        "s": 26,
+        "percentage": 0.0375239063596969,
+        "population": 186
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "qing",
+        "fashion",
+        "textile",
+        "weaving - printed",
+        "printed textile",
+        "silk (fiber)"
+    ],
+    "style_id": "TM-5086",
+    "style_title": "qing",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5086"
+    ],
+    "style_titles": [
+        "qing"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-2352"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-2352"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "printed textile"
+    ],
+    "subject_id": "TM-8663",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8663"
+    ],
+    "subject_titles": [
+        "fashion"
+    ],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "818bf443-23ae-b6d0-5a90-e321c5ba6edb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.168"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel (Dress Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:15:12-05:00",
+    "timestamp": "2023-09-24T00:43:39-05:00"
+}

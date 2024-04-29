@@ -1,0 +1,180 @@
+{
+    "id": 89060,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/89060",
+    "is_boosted": false,
+    "title": "Candlestick (one of a pair)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALm4tL69ucnHw9LPzNTU0dzb2uDf3efm5Onn5ezr6vDv7/Hw7/Lx8fPy8PT08/X19Pb29ff29fj4+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAQ5z4IcSdQozDEIRhEARAgAOw==",
+        "width": 1780,
+        "height": 2250,
+        "alt_text": "A work made of pewter."
+    },
+    "main_reference_number": "1938.935",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1899,
+    "date_display": "19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "P. J. Joiris\nBelgian, 19th century\nBelgium",
+    "place_of_origin": "Li\u00e8ge",
+    "description": null,
+    "dimensions": "37.5 \u00d7 12.1 \u00d7 12.1 cm (14 3/4 \u00d7 4 3/4 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 12.1,
+            "depth_in": 4.75,
+            "width_cm": 12.1,
+            "width_in": 4.75,
+            "height_cm": 37.5,
+            "height_in": 14.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pewter",
+    "inscriptions": null,
+    "credit_line": "The William Owen Goodman and Erna Sawyer Goodman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.2767,
+    "color": {
+        "h": 41,
+        "l": 55,
+        "s": 6,
+        "percentage": 0.04195237681914186,
+        "population": 377
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 45051,
+    "artist_title": "P. J. Joiris",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        45051
+    ],
+    "artist_titles": [
+        "P. J. Joiris"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "candleholder - candlestick",
+        "pewter",
+        "candleholder",
+        "pewter",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-333",
+    "classification_title": "candleholder - candlestick",
+    "alt_classification_ids": [
+        "TM-11771",
+        "TM-41",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-333",
+        "TM-11771",
+        "TM-41",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "candleholder - candlestick",
+        "candleholder",
+        "pewter",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2513",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2513"
+    ],
+    "material_titles": [
+        "pewter"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "98676932-2160-bef1-431e-745bb7561357",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.935"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Candlestick (one of a pair)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:44:06-05:00",
+    "timestamp": "2023-09-24T00:59:15-05:00"
+}

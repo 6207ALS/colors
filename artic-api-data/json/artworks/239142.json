@@ -1,0 +1,160 @@
+{
+    "id": 239142,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/239142",
+    "is_boosted": false,
+    "title": "Measurement: Wall",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAJaOiZiOiJySi6CVjaKXkKeclqmel9TU1trW09nX2N/c29jZ3N7c3OHf3uHg3tjd4tnf5tfg6eDg4eHi5uTk5Ofm5uLm6efn6Obn6eTo6uPp7uTq7uXq7+nq6+3u7+Ls8ubu8+Pu9e7w8e3x8+vy9uz2+wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwAiEo9mAPqHHpOMRjUilhYRSuWAylkOC4Wg0FAiAYFAwEAaBIAA7",
+        "width": 1200,
+        "height": 800,
+        "alt_text": "A work made of vinyl on wall."
+    },
+    "main_reference_number": "2017.98",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1969,
+    "date_end": 1969,
+    "date_display": "1969",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Mel Bochner\nAmerican, born 1940",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "Dimensions vary with installation, wall at least: H.: 365.8 cm (144 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 365.8,
+            "height_in": 144,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Dimensions vary with installation, wall at least"
+        }
+    ],
+    "medium_display": "Vinyl on wall",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Frank G. Logan Endowment, Watson F. Blair Prize, Wilson L. Mead Trust for the Encouragement of Art, and Emilie L. Wild funds",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.8664,
+    "color": {
+        "h": 205,
+        "l": 93,
+        "s": 25,
+        "percentage": 0.742560673412613,
+        "population": 3518
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Installation",
+    "artwork_type_id": 16,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 2748,
+    "artist_title": "Mel Bochner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2748
+    ],
+    "artist_titles": [
+        "Mel Bochner"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "installation"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1152",
+    "classification_title": "installation",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-1152"
+    ],
+    "classification_titles": [
+        "installation"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "40b6dd3e-ab58-87c7-86ab-379c0b199d60",
+    "alt_image_ids": [
+        "13038895-e57a-e28b-0c6f-f73515aca250"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.98"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Measurement: Wall"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T14:58:41-05:00",
+    "timestamp": "2023-09-24T01:52:49-05:00"
+}

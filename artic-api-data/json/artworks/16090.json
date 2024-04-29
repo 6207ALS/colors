@@ -1,0 +1,179 @@
+{
+    "id": 16090,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16090",
+    "is_boosted": false,
+    "title": "Kew Gardens, Richmond",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAH9ueMKkco6Qiq6djaCVkbqvn7ywn766q8eigciigcu3j865ks61n8K9rwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsImzgkoMDTAMKREAOw==",
+        "width": 5150,
+        "height": 7992,
+        "alt_text": "A work made of color lithograph on cream wove paper."
+    },
+    "main_reference_number": "1925.501",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1925,
+    "date_display": "February 12, 1925",
+    "date_qualifier_title": "Published",
+    "date_qualifier_id": 10,
+    "artist_display": "F. Gregory Brown (English, 1887-1948)\nprinted by Waterlow and Sons Limited Lithographers\npublished by Underground Electric Railways Company of London Limited",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Sheet: 101.6 \u00d7 64 cm (40 \u00d7 25 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64,
+            "width_in": 25.1969,
+            "height_cm": 101.6,
+            "height_in": 40,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color lithograph on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Underground Electric Railways Company of London Limited",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.7709,
+    "color": {
+        "h": 45,
+        "l": 54,
+        "s": 75,
+        "percentage": 0.029474608305128405,
+        "population": 325
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33772,
+    "artist_title": "F. Gregory Brown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33772
+    ],
+    "artist_titles": [
+        "F. Gregory Brown"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "poster",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "lithograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-220",
+    "classification_title": "poster",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-71"
+    ],
+    "classification_ids": [
+        "TM-220",
+        "TM-17",
+        "TM-4",
+        "TM-71"
+    ],
+    "classification_titles": [
+        "poster",
+        "print",
+        "prints and drawing",
+        "lithograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b1000cd5-e565-8278-1d78-c87b9a8f3526",
+    "alt_image_ids": [
+        "58348154-493e-74eb-eeee-40c3926b4fa3",
+        "a0ac1d42-df25-201d-5a46-59533468f609"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1925.501"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Kew Gardens, Richmond"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:37:50-05:00",
+    "timestamp": "2023-09-24T00:26:53-05:00"
+}

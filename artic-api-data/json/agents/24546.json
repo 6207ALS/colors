@@ -1,0 +1,33 @@
+{
+    "id": 24546,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/24546",
+    "title": "Pierre Soulages",
+    "sort_title": "Soulages, Pierre",
+    "alt_titles": [
+        "Pierre Souiages",
+        "Pierre Jean Louis Soulages"
+    ],
+    "is_artist": true,
+    "birth_date": 1919,
+    "death_date": 2022,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre Soulages",
+            "Soulages, Pierre",
+            "Pierre Souiages",
+            "Pierre Jean Louis Soulages"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-26T16:16:37-05:00",
+    "updated_at": "2022-10-26T16:20:54-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

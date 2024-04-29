@@ -1,0 +1,158 @@
+{
+    "id": 235027,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/235027",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADo9NV9JPXRKKwQ7TRw9SQA8WQZATwJGWBNQWSZPSTRUTjVdTzNjaltHS3x0WUpicUZtdpdtTGuBV2yAX6qDTL6NSZeJYZ2LbKqPcKSodsawWn2Kg6uphLW4mwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILR1i5U0AndF00NpmJMxUlApyFAQgHGEADs=",
+        "width": 2712,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2016.209",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1951,
+    "date_display": "1951",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Karel Appel\nDutch, 1921\u20132006",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "60 \u00d7 80 cm (23 5/8 \u00d7 31 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 80,
+            "width_in": 31.5,
+            "height_cm": 60,
+            "height_in": 23.6,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Carol Rosenthal-Groeling Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 73.7198,
+    "color": {
+        "h": 52,
+        "l": 52,
+        "s": 73,
+        "percentage": 0.06584563272052772,
+        "population": 388
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 291",
+    "gallery_id": 25468,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 962,
+    "artist_title": "Karel Appel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        962
+    ],
+    "artist_titles": [
+        "Karel Appel"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "71bfa197-00f2-7c70-eda1-39dc252c0201",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.209"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 446,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-30T14:20:11-05:00",
+    "updated_at": "2023-08-30T14:20:54-05:00",
+    "timestamp": "2023-09-24T01:51:32-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 18858,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/18858",
+    "title": "John J. A. Murphy",
+    "sort_title": "Murphy, John J. A.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1888,
+    "death_date": 1967,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John J. A. Murphy",
+            "Murphy, John J. A."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:08-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

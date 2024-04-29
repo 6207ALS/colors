@@ -1,0 +1,169 @@
+{
+    "id": 27251,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27251",
+    "is_boosted": false,
+    "title": "Whistler's Birthplace",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHduWn92YYR+a7+3n8C4n8G6ocnCqNLKr8/IsNbPtN3WveXfxerjy+vly+3lzO7nze7nzvDpz+/p0PDp0PDq0PHr0fHq0vPt0/Lr1PLs1PTu1fXu1vbw1/n02gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIJZ1nDZZy5AYzYYAgSBVykEUkPNQV8SEADs=",
+        "width": 3000,
+        "height": 2478,
+        "alt_text": "A work made of engraving in black on paper."
+    },
+    "main_reference_number": "1938.206",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1928,
+    "date_end": 2002,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Eleanor (Pratt) Humphrey\nAmerican, 1908-2002",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Engraving in black on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Walter S. Brewster",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.3167,
+    "color": {
+        "h": 38,
+        "l": 46,
+        "s": 16,
+        "percentage": 0.01806629306936093,
+        "population": 106
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 20977,
+    "artist_title": "Eleanor Humphrey",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        20977
+    ],
+    "artist_titles": [
+        "Eleanor Humphrey"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "21st Century",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "c1c883db-7e15-b8ac-6568-98335a090268",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.206"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Whistler's Birthplace"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:54-05:00",
+    "updated_at": "2023-04-10T15:28:48-05:00",
+    "timestamp": "2023-09-24T00:32:27-05:00"
+}

@@ -1,0 +1,185 @@
+{
+    "id": 50665,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50665",
+    "is_boosted": false,
+    "title": "#10",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFJSTFdYUVlZUlpaVG9vaHFya3JzbHNzbYeEfYmHf4qIgIuIgYuKgpGSipmYkJ+gmKWjm6+upq+vp7GwqLSzq7a0rLa1rb+/tb+/t8TEu8XFvMbGvcfIvsnLwQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4LVlGtcxwSAATWVNEYU5xWEQD6QsCSKFADs=",
+        "width": 2417,
+        "height": 1905,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1976.142",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1961,
+    "date_end": 1961,
+    "date_display": "1961",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John McLaughlin\nAmerican, 1898\u20131976",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "122 \u00d7 153.1 cm (48 \u00d7 60 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 153.1,
+            "width_in": 60,
+            "height_cm": 122,
+            "height_in": 48,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Twentieth-Century Purchase Fund",
+    "catalogue_display": "<p>Unknown #10-1961.</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.7434,
+    "color": {
+        "h": 45,
+        "l": 50,
+        "s": 3,
+        "percentage": 0.3171047178035987,
+        "population": 1775
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 35715,
+    "artist_title": "John McLaughlin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35715
+    ],
+    "artist_titles": [
+        "John McLaughlin"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "geometric",
+        "modern and contemporary art",
+        "gray (color)",
+        "white (color)",
+        "black (color)",
+        "lines"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-9124",
+    "alt_subject_ids": [
+        "TM-11840",
+        "TM-11841",
+        "TM-11845",
+        "TM-12722"
+    ],
+    "subject_ids": [
+        "TM-9124",
+        "TM-11840",
+        "TM-11841",
+        "TM-11845",
+        "TM-12722"
+    ],
+    "subject_titles": [
+        "geometric",
+        "gray (color)",
+        "white (color)",
+        "black (color)",
+        "lines"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1900a32b-cb66-e710-58a5-09e2161dd77f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.142"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "#10"
+            ],
+            "weight": 1749,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-02T11:53:31-05:00",
+    "updated_at": "2023-05-02T11:57:21-05:00",
+    "timestamp": "2023-09-24T00:42:50-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 12643,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/12643",
+    "title": "William Henry Jackson",
+    "sort_title": "Jackson, William Henry",
+    "alt_titles": [
+        "William H. Jackson"
+    ],
+    "is_artist": true,
+    "birth_date": 1843,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Henry Jackson",
+            "Jackson, William Henry",
+            "William H. Jackson"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:37-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

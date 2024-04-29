@@ -1,0 +1,35 @@
+{
+    "id": 42645,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42645",
+    "title": "Eldzier Cortor",
+    "sort_title": "Cortor, Eldzier",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1916,
+    "death_date": 2015,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Eldzier Cortor",
+            "Cortor, Eldzier"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Eldzier Cortor",
+            "Cortor, Eldzier"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:18:23-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

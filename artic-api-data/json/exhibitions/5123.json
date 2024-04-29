@@ -1,0 +1,38 @@
+{
+    "id": 5123,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5123",
+    "title": "Exhibition of Reproductions of Paintings by Old Masters, Modern American Painters and Illustrators",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1921-01-01T00:00:00-06:00",
+    "aic_end_at": "1921-12-31T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "ea792c5b-226b-3161-479c-f7a2a81018f4"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Exhibition of Reproductions of Paintings by Old Masters, Modern American Painters and Illustrators"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:19:51-06:00",
+    "timestamp": "2023-09-24T02:01:32-05:00"
+}

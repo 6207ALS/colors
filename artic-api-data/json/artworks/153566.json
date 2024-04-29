@@ -1,0 +1,165 @@
+{
+    "id": 153566,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/153566",
+    "is_boosted": false,
+    "title": "Scenes from Noh Plays",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJ2Td5+VeKyef6yfgq+kha2oiq6qj7aqibOqjbqtj7uwjrGskLuxk7yylL2zlr60l7qymL+2mr+3m8G1m8a6nsa9oMa8o8e8pci8oMq+o8vBpMzApsbAqM7Dqc7ErtDHsdPLttTMttTNtwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAllk+lgLJcPiCMKeR6LQgBgkDAIDcEAEXEoKhrIIREEADs=",
+        "width": 3324,
+        "height": 2493,
+        "alt_text": "A work made of woodblock printed book."
+    },
+    "main_reference_number": "2013.302",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1806,
+    "date_end": 1806,
+    "date_display": "1806",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Shinsai and Toshu (Japanese)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "19.7 \u00d7 13.2 cm (7 13/16 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.2,
+            "width_in": 5.1969,
+            "height_cm": 19.7,
+            "height_in": 7.756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Woodblock printed book",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 47,
+        "l": 48,
+        "s": 20,
+        "percentage": 0.00418741670419654,
+        "population": 347
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 26406,
+    "artist_title": "T\u00f4sh\u00fb",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        26406
+    ],
+    "artist_titles": [
+        "T\u00f4sh\u00fb"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "book",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "book",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "47fbae93-f4e8-26d2-4077-c536fd664ff6",
+    "alt_image_ids": [
+        "ae16b176-a8a3-d3f2-f411-65def5e05996"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.302"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Scenes from Noh Plays"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-19T13:23:32-05:00",
+    "updated_at": "2023-04-07T14:22:39-05:00",
+    "timestamp": "2023-09-24T01:29:08-05:00"
+}

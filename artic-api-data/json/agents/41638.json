@@ -1,0 +1,37 @@
+{
+    "id": 41638,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41638",
+    "title": "Charles de Lafosse",
+    "sort_title": "Lafosse, Charles de",
+    "alt_titles": [
+        "Charles De Lafosse",
+        "Charles de La Fosse",
+        "Charles de La Fosse",
+        "Charles De La Fosse"
+    ],
+    "is_artist": true,
+    "birth_date": 1636,
+    "death_date": 1716,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles de Lafosse",
+            "Lafosse, Charles de",
+            "Charles De Lafosse",
+            "Charles de La Fosse",
+            "Charles de La Fosse",
+            "Charles De La Fosse"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-09-30T17:16:20-05:00",
+    "updated_at": "2022-03-15T16:42:16-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

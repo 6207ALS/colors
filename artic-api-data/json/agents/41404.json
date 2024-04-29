@@ -1,0 +1,33 @@
+{
+    "id": 41404,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41404",
+    "title": "Crispin de Passe, III",
+    "sort_title": "Passe, Crispin de, III",
+    "alt_titles": [
+        "Crispijn de Passe, III",
+        "Crispijn van Passe, III, (Crispianus Passaeus)"
+    ],
+    "is_artist": true,
+    "birth_date": 1643,
+    "death_date": 1680,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Crispin de Passe, III",
+            "Passe, Crispin de, III",
+            "Crispijn de Passe, III",
+            "Crispijn van Passe, III, (Crispianus Passaeus)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:58-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

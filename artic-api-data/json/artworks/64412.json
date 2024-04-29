@@ -1,0 +1,167 @@
+{
+    "id": 64412,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/64412",
+    "is_boosted": false,
+    "title": "Study of a Cow",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAC4uLjIyMjk5OTs7Oz4+PkBAQENDQ0REREhISElJSUtLS09PT1NTU1hYWFpaWltbW1xcXGJiYmNjY2ZmZmdnZ2lpaWtra2xsbG1tbW5ubm9vb3Jycnp6enx8fAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAHAAUAAAUdINVhB8QUlgMYwaBwGCIQyVRpW3Y9TCRRkcbiEAIAOw==",
+        "width": 3000,
+        "height": 2092,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1910.288",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1870,
+    "date_end": 1890,
+    "date_display": "1870/90",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Emile van Marcke de Lummen\nFrench, 1827-1890",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "49.5 \u00d7 71.1 cm (19 1/2 \u00d7 28 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 71.1,
+            "width_in": 28,
+            "height_cm": 49.5,
+            "height_in": 19.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Martha S. Hill",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.28385019488222335,
+        "population": 1407
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 37114,
+    "artist_title": "Emile van Marcke de Lummen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37114
+    ],
+    "artist_titles": [
+        "Emile van Marcke de Lummen"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c66cff23-22a1-e440-b390-ef4e68facd6a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1910.288"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Study of a Cow"
+            ],
+            "weight": 165,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:50-05:00",
+    "timestamp": "2023-09-24T00:48:21-05:00"
+}

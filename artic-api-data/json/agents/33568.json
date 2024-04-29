@@ -1,0 +1,41 @@
+{
+    "id": 33568,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33568",
+    "title": "Domenico Beccafumi, called Il Mecarino",
+    "sort_title": "Beccafumi, Domenico, called Il Mecarino",
+    "alt_titles": [
+        "Mecarino",
+        "Domenico Beccafumi",
+        "Domenico Beccafumi, (Mecuccio)",
+        "Mecuccio",
+        "Domenico Beccafumi",
+        "Dominico Beccafumi, (Mecarino)"
+    ],
+    "is_artist": true,
+    "birth_date": 1484,
+    "death_date": 1551,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Domenico Beccafumi, called Il Mecarino",
+            "Beccafumi, Domenico, called Il Mecarino",
+            "Mecarino",
+            "Domenico Beccafumi",
+            "Domenico Beccafumi, (Mecuccio)",
+            "Mecuccio",
+            "Domenico Beccafumi",
+            "Dominico Beccafumi, (Mecarino)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:05:33-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

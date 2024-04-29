@@ -1,0 +1,185 @@
+{
+    "id": 158499,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/158499",
+    "is_boosted": false,
+    "title": "Armoured Men (Yoroeru otokotachi)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGk5EHlCDnZFF35KGn5MGmNJN2xNM2lLNWxRO3RVPHFVQH1lV3ppW35qWn5uYoFNGIFmT4NmToVqWYp2aAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYBNBzCEQSPIMihEAxSQtTggAOw==",
+        "width": 2261,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print; edition 8/50."
+    },
+    "main_reference_number": "2001.431",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1974,
+    "date_end": 1974,
+    "date_display": "1974",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tajima Hiroyuki\nJapanese, 1911-1997",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "63.6 \u00d7 50.1 cm (25 1/16 \u00d7 19 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.1,
+            "width_in": 19.6875,
+            "height_cm": 63.6,
+            "height_in": 25.0625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; edition 8/50",
+    "inscriptions": null,
+    "credit_line": "Gift of Theodore and Louann Van Zelst",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2002,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.3522,
+    "color": {
+        "h": 38,
+        "l": 51,
+        "s": 40,
+        "percentage": 0.0015915558413282487,
+        "population": 15
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 32830,
+    "artist_title": "Tajima Hiroyuki",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32830
+    ],
+    "artist_titles": [
+        "Tajima Hiroyuki"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "showa",
+        "Japanism",
+        "East Asian",
+        "asian",
+        "print",
+        "asian art"
+    ],
+    "style_id": "TM-5225",
+    "style_title": "showa",
+    "alt_style_ids": [
+        "TM-5181",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_ids": [
+        "TM-5225",
+        "TM-5181",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_titles": [
+        "showa",
+        "Japanism",
+        "East Asian",
+        "asian"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3fdd15ff-028c-3529-4b18-06e8c6eb82a2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2001.431"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Armoured Men (Yoroeru otokotachi)"
+            ],
+            "weight": 10,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:24:23-05:00",
+    "timestamp": "2023-09-24T01:31:56-05:00"
+}

@@ -1,0 +1,176 @@
+{
+    "id": 202473,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202473",
+    "is_boosted": false,
+    "title": "Ghost and Pool of Blood (Gespenst und Blutlache)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHl+dF15j2N7hWZ6hGh9hHGDiHSFiXmToHCUsYSNjZCXkZCYlICdrZinpp+oppqor46uv5Cmt56wuaOzuomvw5K1xJyywoKx1Ya535C62Km/yY294q3CzLjK0gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYIBs2YUlB8VA1WIQxSAojTZJHeBwT2SFADs=",
+        "width": 1000,
+        "height": 907,
+        "alt_text": "A work made of polyester, latex, laquer, and plexiglas; edition number two of three."
+    },
+    "main_reference_number": "2015.647a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1988,
+    "date_end": 1988,
+    "date_display": "1988",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Katharina Fritsch\nGerman, born 1956",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "Ghost: 200 \u00d7 59.7 \u00d7 61 cm (78 3/4 \u00d7 23 1/2 \u00d7 24 in.); Pool: 0.6 \u00d7 57.2 \u00d7 209.6 cm (1/4 \u00d7 22 1/2 \u00d7 82 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 61,
+            "depth_in": 24,
+            "width_cm": 59.7,
+            "width_in": 23.5,
+            "height_cm": 200,
+            "height_in": 78.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Ghost"
+        },
+        {
+            "depth_cm": 209.6,
+            "depth_in": 82.5,
+            "width_cm": 57.2,
+            "width_in": 22.5,
+            "height_cm": 0.6,
+            "height_in": 0.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Pool"
+        }
+    ],
+    "medium_display": "Polyester, latex, laquer, and Plexiglas; edition number two of three",
+    "inscriptions": null,
+    "credit_line": "Gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.7904,
+    "color": {
+        "h": 207,
+        "l": 64,
+        "s": 49,
+        "percentage": 0.0919529535815908,
+        "population": 593
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 54234,
+    "artist_title": "Katharina Fritsch",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        54234
+    ],
+    "artist_titles": [
+        "Katharina Fritsch"
+    ],
+    "category_ids": [
+        "PC-834",
+        "PC-825",
+        "PC-8"
+    ],
+    "category_titles": [
+        "Halloween",
+        "Women artists",
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Halloween",
+        "Women artists"
+    ],
+    "image_id": "243c75ba-1b3b-a010-e3ed-9269b9a6414e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.647a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Ghost and Pool of Blood (Gespenst und Blutlache)"
+            ],
+            "weight": 92,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-04T12:35:08-05:00",
+    "updated_at": "2023-07-04T12:35:48-05:00",
+    "timestamp": "2023-09-24T01:40:40-05:00"
+}

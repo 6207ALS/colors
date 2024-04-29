@@ -1,0 +1,177 @@
+{
+    "id": 107489,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/107489",
+    "is_boosted": false,
+    "title": "Tile",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAItNJolPLYtQI4pRKI5TKJBYMZJaM5ZdPK99SK6hlbClmbOmmbGmm7apnLWro7WtpLqvp7mxqbqxqb2yqL28uL+9ucK6s8fHxcjIxQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIJUoTPUMhLBEAQI0TmEc0yVBFhYCADs=",
+        "width": 3164,
+        "height": 3164,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1984.922",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1576,
+    "date_end": 1600,
+    "date_display": "1575/1600",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Dutch, Limburg",
+    "place_of_origin": "Limburg",
+    "description": null,
+    "dimensions": "14.3 \u00d7 14.3 cm (5 5/8 \u00d7 5 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14.3,
+            "width_in": 5.625,
+            "height_cm": 14.3,
+            "height_in": 5.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware",
+    "inscriptions": null,
+    "credit_line": "Bequest of Hans G. Cahen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 58.2934,
+    "color": {
+        "h": 40,
+        "l": 48,
+        "s": 75,
+        "percentage": 0.035038394481663945,
+        "population": 249
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "earthenware",
+        "ceramic tile",
+        "inorganic material",
+        "ceramics",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-46",
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "ceramics",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2613",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2613",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "ceramic tile",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "faf9ccd1-3d6e-84db-39c4-b0dfc5bae744",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.922"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tile"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:39:49-05:00",
+    "timestamp": "2023-09-24T01:08:37-05:00"
+}

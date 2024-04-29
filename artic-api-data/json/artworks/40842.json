@@ -1,0 +1,172 @@
+{
+    "id": 40842,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/40842",
+    "is_boosted": false,
+    "title": "Art of Engraving, from Encyclop\u00e9die",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJt/RaGESaeLTqKHU6SJVaiNV6iOW6mPW6qQXK2TXLGWXq6TYKuSZa+WaLadawAAACH5BAAAAAAALAAAAAADAAUAAAQLkJk2wCEBFZGWchEAOw==",
+        "width": 2071,
+        "height": 3000,
+        "alt_text": "A work made of letterpress in black on cream laid paper with later covers of tan paper; sheets removed from books."
+    },
+    "main_reference_number": "1941.133",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1751,
+    "date_end": 1777,
+    "date_display": "1751/77",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "published by Andr\u00e9 le Breton (French, 1708-1779)\nMichel-Antoine David (French, c. 1707-1769)\nLaurent Durand (French, 1712-1763)\nAntoine-Claude Briasson (French, 1700-1775)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "39.4 \u00d7 25.2 cm (15 9/16 \u00d7 9 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.2,
+            "width_in": 9.9213,
+            "height_cm": 39.4,
+            "height_in": 15.5119,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Letterpress in black on cream laid paper with later covers of tan paper; sheets removed from books",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1941,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 42.3519,
+    "color": {
+        "h": 37,
+        "l": 53,
+        "s": 41,
+        "percentage": 0.18837990368239477,
+        "population": 1939
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 74057,
+    "artist_title": "Andr\u00e9 Fran\u00e7ois Le Breton",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        74057
+    ],
+    "artist_titles": [
+        "Andr\u00e9 Fran\u00e7ois Le Breton"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "book",
+        "paper (fiber product)",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "book",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cae895cc-9cf9-d917-80d2-0ef88c862159",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1941.133"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Art of Engraving, from Encyclop\u00e9die"
+            ],
+            "weight": 35,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:53-05:00",
+    "updated_at": "2023-04-10T13:43:07-05:00",
+    "timestamp": "2023-09-24T00:38:06-05:00"
+}

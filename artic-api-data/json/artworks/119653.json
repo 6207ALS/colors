@@ -1,0 +1,163 @@
+{
+    "id": 119653,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/119653",
+    "is_boosted": false,
+    "title": "Tazza",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAJaDfq2KZKuJcpycl5yenaGPi6Wck6CfmLufkb6fkqujlaCgn7CnmZ2hoKCiorGrprOzsrS2tba5ubW4usG/vNzEsuDHtr/AwMHBwcLBwsHCwsTExcTFxsTHx8XHx8bHx8vHw8jJysnKzM3Nzc3O0M/Q0czT18vS2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQEJjYFAcHIuI5CEIMCYQzsZUAJwymJColEB0LpoRCWSpUDyfIAA7",
+        "width": 3000,
+        "height": 1918,
+        "alt_text": "A work made of enameled gold and agate."
+    },
+    "main_reference_number": "1992.547",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1600,
+    "date_end": 1699,
+    "date_display": "Bowl: 17th century, mount: 19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "European",
+    "place_of_origin": "Europe",
+    "description": null,
+    "dimensions": "5 \u00d7 4.9 \u00d7 3.9 cm (2 \u00d7 1 15/16 \u00d7 1 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 3.9,
+            "depth_in": 1.5625,
+            "width_cm": 4.9,
+            "width_in": 1.9375,
+            "height_cm": 5,
+            "height_in": 2,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Enameled gold and agate",
+    "inscriptions": null,
+    "credit_line": "Gift of Marilynn B. Alsdorf",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.3013,
+    "color": {
+        "h": 208,
+        "l": 50,
+        "s": 28,
+        "percentage": 0.002861060308950497,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "jewelry",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-115",
+    "classification_title": "jewelry",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-115",
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "jewelry",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fc43068c-13c1-8d9a-7939-d8476ebb743d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.547"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tazza"
+            ],
+            "weight": 43,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:34:36-05:00",
+    "timestamp": "2023-09-24T01:13:09-05:00"
+}

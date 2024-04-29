@@ -1,0 +1,38 @@
+{
+    "id": 4828,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4828",
+    "title": "Paintings by John F. Carlson",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1917-01-05T00:00:00-06:00",
+    "aic_end_at": "1917-01-28T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "b746b244-cf9b-4169-2579-8cd3af7f860d"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by John F. Carlson"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:21-06:00",
+    "timestamp": "2023-09-24T02:01:28-05:00"
+}

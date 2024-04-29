@@ -1,0 +1,28 @@
+{
+    "id": 117500,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/117500",
+    "title": "Jonathan Monk",
+    "sort_title": "Monk, Jonathan",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1969,
+    "death_date": 1969,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jonathan Monk",
+            "Monk, Jonathan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-01T15:57:27-06:00",
+    "updated_at": "2021-02-01T16:00:50-06:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

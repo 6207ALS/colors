@@ -1,0 +1,35 @@
+{
+    "id": 26638,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/26638",
+    "title": "Zou Yigui",
+    "sort_title": "Zou Yigui",
+    "alt_titles": [
+        "Tsou I-kuei",
+        "Y\u00fcan-pao",
+        "Tsou I-kouei"
+    ],
+    "is_artist": true,
+    "birth_date": 1686,
+    "death_date": 1772,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zou Yigui",
+            "Zou Yigui",
+            "Tsou I-kuei",
+            "Y\u00fcan-pao",
+            "Tsou I-kouei"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:10:44-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

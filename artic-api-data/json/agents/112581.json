@@ -1,0 +1,31 @@
+{
+    "id": 112581,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/112581",
+    "title": "Zarina",
+    "sort_title": "Zarina",
+    "alt_titles": [
+        "Zarina Hashmi"
+    ],
+    "is_artist": true,
+    "birth_date": 1937,
+    "death_date": 2020,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zarina",
+            "Zarina",
+            "Zarina Hashmi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-01-04T08:55:27-06:00",
+    "updated_at": "2023-09-23T23:17:13-05:00",
+    "timestamp": "2023-09-24T02:00:36-05:00"
+}

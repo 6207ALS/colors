@@ -1,0 +1,28 @@
+{
+    "id": 117208,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/117208",
+    "title": "Jeremiah Gurney",
+    "sort_title": "Gurney, Jeremiah",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1812,
+    "death_date": 1895,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jeremiah Gurney",
+            "Gurney, Jeremiah"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-04-20T10:14:47-05:00",
+    "updated_at": "2022-03-15T16:46:26-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

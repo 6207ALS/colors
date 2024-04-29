@@ -1,0 +1,174 @@
+{
+    "id": 185001,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/185001",
+    "is_boosted": false,
+    "title": "A Pair of Carp",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAJmLd5uOfKeUeZ2SgaaaiKudibqigr2lh7qlir2rkwAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI0ByBQAqFjAgAOw==",
+        "width": 901,
+        "height": 2250,
+        "alt_text": "A work made of ink and colors on paper."
+    },
+    "main_reference_number": "2005.54",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1392,
+    "date_end": 1910,
+    "date_display": "Joseon dynasty (1392\u20131910)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Korea",
+    "place_of_origin": "Korea",
+    "description": null,
+    "dimensions": "106.3 \u00d7 41.9 cm (41 7/8 \u00d7 16 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 41.9,
+            "width_in": 16.5,
+            "height_cm": 106.3,
+            "height_in": 41.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink and colors on paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Asian Art Council",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.5768,
+    "color": {
+        "h": 37,
+        "l": 57,
+        "s": 14,
+        "percentage": 0.03584077902976306,
+        "population": 636
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "ink",
+        "Korean (culture or style)",
+        "ink",
+        "painting"
+    ],
+    "style_id": "TM-5182",
+    "style_title": "Korean (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5182"
+    ],
+    "style_titles": [
+        "Korean (culture or style)"
+    ],
+    "classification_id": "TM-1627",
+    "classification_title": "ink",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-1627",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "ink",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3aa79682-996a-0ce4-f2dc-3eb802e9d503",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2005.54"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "A Pair of Carp"
+            ],
+            "weight": 5285,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-09-23T23:29:09-05:00",
+    "timestamp": "2023-09-24T01:34:52-05:00"
+}

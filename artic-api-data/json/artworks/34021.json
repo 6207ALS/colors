@@ -1,0 +1,171 @@
+{
+    "id": 34021,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/34021",
+    "is_boosted": false,
+    "title": "Mola",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAG05RntATIM3Poc0TIc/VI4/Up04VaI/X5dIToROVI1MVZFDUYVkb5lka5xjdZhtfZ9vfqlpdappeq1re6ppf6Z1f610frV0f6ZwgK96iq19i65+jKmKlLOFlgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIOdQU7RBQ0EsFWYoyZFJAhIAl9ZYD9OFADs=",
+        "width": 2712,
+        "height": 2250,
+        "alt_text": "Stoneware plate with a yellow band on the rim decorated with black leaf pattern."
+    },
+    "main_reference_number": "1970.368",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1969,
+    "date_display": "1960/69",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Kuna\n Panama, San Blas Islands, Mandinga Niranjo",
+    "place_of_origin": "San Blas",
+    "description": null,
+    "dimensions": "40 \u00d7 48.2 cm (15 3/4 \u00d7 19 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.2,
+            "width_in": 19,
+            "height_cm": 40,
+            "height_in": 15.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and rayon, plain weave, reverse applique with applique and cotton chain stitch embroidery",
+    "inscriptions": null,
+    "credit_line": "Gift of F. Louis Hoover",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 65.6029,
+    "color": {
+        "h": 341,
+        "l": 46,
+        "s": 44,
+        "percentage": 0.4419124422790056,
+        "population": 2604
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 51518,
+    "artist_title": "Kuna",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51518
+    ],
+    "artist_titles": [
+        "Kuna"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Latin American"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "fc8a82f2-3468-cacd-7552-57548fc9f086",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.368"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mola"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T13:55:36-05:00",
+    "timestamp": "2023-09-24T00:35:31-05:00"
+}

@@ -1,0 +1,54 @@
+{
+    "id": 6444,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6444",
+    "title": "Paintings by Renoir",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1973-02-03T00:00:00-06:00",
+    "aic_end_at": "1973-04-01T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "36b3f60f-a0ed-9b91-d842-91c3f7b214cf",
+    "alt_image_ids": [
+        "780ff866-8430-08b4-53b8-4fd1f78237a9",
+        "38cb67a9-5e1b-41a5-20ca-40f1e9f5cf59",
+        "5968a864-3f62-d07c-b9e6-59c2cdc70b5f",
+        "61028d04-b739-3e54-e4c0-dff2336b5a64",
+        "e49b5487-c09a-f2be-fbd4-15564f973d49",
+        "314d241f-fc8d-35e9-7fd0-243029aa8fc7",
+        "6adbb964-3951-1eca-7b4c-5c7b0d9924d2",
+        "b433da97-0133-7a09-d96f-bf5cd4d351f0",
+        "71457cce-8f3a-f1ac-89b6-3d9bfc4654b2",
+        "f2e35777-52df-6ad6-0416-26d4d6192d08",
+        "d57ba4c4-34dc-2c10-a564-75fc748205d8",
+        "ae182422-c2c8-2b65-fba4-e5d3b8f54cdc",
+        "de5a46c7-7d1c-d394-0264-d3a8856d4952",
+        "cc860f4f-e920-e313-c1a4-b6118af8efdb",
+        "c5eca6e4-8ee2-ade4-ed30-0773dca6b503",
+        "0023aa3c-6cde-7112-7ad1-51172113b73a",
+        "2abe8307-cef3-41bf-6223-0b96562e20c2"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Renoir"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:17:36-06:00",
+    "timestamp": "2023-09-24T02:01:48-05:00"
+}

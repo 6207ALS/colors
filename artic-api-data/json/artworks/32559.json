@@ -1,0 +1,167 @@
+{
+    "id": 32559,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/32559",
+    "is_boosted": false,
+    "title": "Table Topper",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAKZpYqeorbmqq72qr7qtssivrMeyrsK3tMG1tsG6uc6+u8u8vc7CuM6+wMrDwc3FwtDBwtfNydHNztfNztTO0dbT097X0tzV3N7c3eHRz+DU2uLd2+Dd3eXd39PX4OPf4d/i5+bl5ezk4wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAEjAJIoCAbRJ4LhIBwVC+CxSUwumZCnQ4EsCprGYRAEADs=",
+        "width": 1023,
+        "height": 689,
+        "alt_text": "A work made of linen, plain weave; embroidered with wool in bullion, chain, and satin stitches."
+    },
+    "main_reference_number": "1969.796",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1760,
+    "date_end": 1760,
+    "date_display": "1760",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Mary Toppin (American, active c. 1760)\nUnited States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "94.9 \u00d7 84.9 cm (37 \u00d7 33 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 84.9,
+            "width_in": 33.375,
+            "height_cm": 94.9,
+            "height_in": 37,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; embroidered with wool in bullion, chain, and satin stitches",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Julian Armstrong, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.0243,
+    "color": {
+        "h": 38,
+        "l": 52,
+        "s": 61,
+        "percentage": 0.007309575125724692,
+        "population": 35
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 61830,
+    "artist_title": "Mary Toppin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        61830
+    ],
+    "artist_titles": [
+        "Mary Toppin"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "3edfe7b8-1165-3942-ac27-10636272a3de",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1969.796"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Table Topper"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T13:58:16-05:00",
+    "timestamp": "2023-09-24T00:34:56-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 40594,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40594",
+    "title": "Henri Gaudier-Brzeska",
+    "sort_title": "Gaudier-Brzeska, Henri",
+    "alt_titles": [
+        "Henry Gaudier-Brzeska",
+        "Henri Gaudier",
+        "Henri Gaudier- Brzeska"
+    ],
+    "is_artist": true,
+    "birth_date": 1891,
+    "death_date": 1915,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henri Gaudier-Brzeska",
+            "Gaudier-Brzeska, Henri",
+            "Henry Gaudier-Brzeska",
+            "Henri Gaudier",
+            "Henri Gaudier- Brzeska"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:26-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,168 @@
+{
+    "id": 159709,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/159709",
+    "is_boosted": false,
+    "title": "La Danse (The Dance)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEhGQ01KR05KSE5LSU9LSVBNSlFOSlJOS1JPS1NQTFVRTldTUFhUUFhUUVpXU1xYVF1ZVV5ZVWFcWWJdWGRfW2diXmlkX2xnY25qY25pZAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIBIV0zFgj5U5VxJAhuIEzCNIBEAtTSWEADs=",
+        "width": 2651,
+        "height": 2250,
+        "alt_text": "A work made of cotton and linen, plain weave; block printed."
+    },
+    "main_reference_number": "2002.90",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1903,
+    "date_end": 1923,
+    "date_display": "c. 1913",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Raoul Dufy (French, 1877\u20131953)\nProduced by Bianchini F\u00e9rier, founded 1888\nPrinted by Manufacture de Tournon\nFrance, Tournon",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "86.1 \u00d7 122 cm (33 7/8 \u00d7 48 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 122,
+            "width_in": 48,
+            "height_cm": 86.1,
+            "height_in": 33.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and linen, plain weave; block printed",
+    "inscriptions": null,
+    "credit_line": "Louise Lutz Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2002,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.694,
+    "color": {
+        "h": 37,
+        "l": 51,
+        "s": 4,
+        "percentage": 0.024354360921688304,
+        "population": 147
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 34323,
+    "artist_title": "Raoul Dufy",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34323
+    ],
+    "artist_titles": [
+        "Raoul Dufy"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4adb32d4-32f6-8b59-ec41-0baa103ddc16",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2002.90"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "La Danse (The Dance)"
+            ],
+            "weight": 205,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:22:10-05:00",
+    "timestamp": "2023-09-24T01:32:26-05:00"
+}

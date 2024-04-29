@@ -1,0 +1,35 @@
+{
+    "id": 40597,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40597",
+    "title": "Jean Louis Andr\u00e9 Th\u00e9odore G\u00e9ricault",
+    "sort_title": "G\u00e9ricault, Jean Louis Andr\u00e9 Th\u00e9odore",
+    "alt_titles": [
+        "Th\u00e9odore G\u00e9ricault",
+        "Jean Louis Theodore Gericault",
+        "Jean Louis Theodore Gericault"
+    ],
+    "is_artist": true,
+    "birth_date": 1791,
+    "death_date": 1824,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Louis Andr\u00e9 Th\u00e9odore G\u00e9ricault",
+            "G\u00e9ricault, Jean Louis Andr\u00e9 Th\u00e9odore",
+            "Th\u00e9odore G\u00e9ricault",
+            "Jean Louis Theodore Gericault",
+            "Jean Louis Theodore Gericault"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:26-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

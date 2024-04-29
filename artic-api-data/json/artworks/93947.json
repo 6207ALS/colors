@@ -1,0 +1,190 @@
+{
+    "id": 93947,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/93947",
+    "is_boosted": false,
+    "title": "High Chest of Drawers",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHJTPmtURrBSBLFVBaRTEqdXFo9rUJ50WqB7XYNvYoh0aLWCWbaFXbCIbaKNfY+JiJ6amrGaiqGenbGvrgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYLQwTiMMyFEQhhIAyQQ9UggAOw==",
+        "width": 1708,
+        "height": 2250,
+        "alt_text": "A work made of black walnut, walnut veneer, southern yellow pine, and atlantic white cedar."
+    },
+    "main_reference_number": "1977.177",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1700,
+    "date_end": 1730,
+    "date_display": "1700\u201330",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 18th century)\nPhiladelphia",
+    "place_of_origin": "Philadelphia",
+    "description": null,
+    "dimensions": "153.2 \u00d7 108 \u00d7 59.1 cm (60 1/4 \u00d7 42 1/2 \u00d7 23 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 59.1,
+            "depth_in": 23.25,
+            "width_cm": 108,
+            "width_in": 42.5,
+            "height_cm": 153.2,
+            "height_in": 60.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Black walnut, walnut veneer, Southern yellow pine, and Atlantic white cedar",
+    "inscriptions": null,
+    "credit_line": "Gift of Jamee J. and Marshall Field",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 79.424,
+    "color": {
+        "h": 32,
+        "l": 54,
+        "s": 83,
+        "percentage": 0.0032031672918181498,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 165",
+    "gallery_id": 2147476040,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "case furniture",
+        "walnut",
+        "furniture",
+        "cedar (wood)",
+        "pine",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-122",
+    "classification_title": "case furniture",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-122",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "case furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3609",
+    "alt_material_ids": [
+        "TM-3625",
+        "TM-3636"
+    ],
+    "material_ids": [
+        "TM-3609",
+        "TM-3625",
+        "TM-3636"
+    ],
+    "material_titles": [
+        "walnut",
+        "cedar (wood)",
+        "pine"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9905b52c-bf1e-e32b-b2b5-f4462d1ef7be",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.177"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "High Chest of Drawers"
+            ],
+            "weight": 62,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-03T14:37:43-05:00",
+    "updated_at": "2023-08-03T14:41:02-05:00",
+    "timestamp": "2023-09-24T01:01:33-05:00"
+}

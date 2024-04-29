@@ -1,0 +1,28 @@
+{
+    "id": 58676,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/58676",
+    "title": "Michelle Stuart",
+    "sort_title": "Stuart, Michelle",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1933,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Michelle Stuart",
+            "Stuart, Michelle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-04T11:16:51-06:00",
+    "updated_at": "2022-03-15T16:59:00-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

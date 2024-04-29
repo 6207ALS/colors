@@ -1,0 +1,35 @@
+{
+    "id": 47823,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47823",
+    "title": "Alexander Leventon",
+    "sort_title": "Leventon, Alexander",
+    "alt_titles": [
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0418\u043b\u044c\u0438\u0447 \u041b\u0435\u0432\u0435\u043d\u0442\u043e\u043d",
+        "Aleksandr Il'ich Leventon",
+        "Alexander Ilyich Leventon"
+    ],
+    "is_artist": true,
+    "birth_date": 1895,
+    "death_date": 1950,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alexander Leventon",
+            "Leventon, Alexander",
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0418\u043b\u044c\u0438\u0447 \u041b\u0435\u0432\u0435\u043d\u0442\u043e\u043d",
+            "Aleksandr Il'ich Leventon",
+            "Alexander Ilyich Leventon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:16-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

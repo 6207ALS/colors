@@ -1,0 +1,56 @@
+{
+    "id": 6488,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6488",
+    "title": "Near Eastern Art in Chicago Collections",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1973-11-17T00:00:00-06:00",
+    "aic_end_at": "1974-01-30T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        6761,
+        12304,
+        60500,
+        37733,
+        41393,
+        39135,
+        39102
+    ],
+    "artwork_titles": [
+        "Carpet",
+        "Prayer Carpet",
+        "Carpet",
+        "Garden rug",
+        "Carpet",
+        "Panel",
+        "Imitation \"Bird\" Carpet"
+    ],
+    "artist_ids": [
+        29882
+    ],
+    "site_ids": [],
+    "image_id": "0e851b46-e962-d737-5491-8afbe971c2c3",
+    "alt_image_ids": [],
+    "document_ids": [
+        "a6ea6074-1103-4d8c-d0a7-21a8f03f33a7"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Near Eastern Art in Chicago Collections"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-04T11:52:19-05:00",
+    "updated_at": "2020-06-04T11:55:34-05:00",
+    "timestamp": "2023-09-24T02:01:49-05:00"
+}

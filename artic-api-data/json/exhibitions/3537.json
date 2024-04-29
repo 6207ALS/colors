@@ -1,0 +1,39 @@
+{
+    "id": 3537,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3537",
+    "title": "Water Color Exhibition 10th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1898-04-19T00:00:00-06:00",
+    "aic_end_at": "1898-06-05T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "f9cf7ec2-ad35-387d-7064-9f89d5db5721",
+        "6d75eec3-57ce-b5fb-3441-1713ecc3b471"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Water Color Exhibition 10th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:24-06:00",
+    "timestamp": "2023-09-24T02:01:12-05:00"
+}

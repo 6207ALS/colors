@@ -1,0 +1,176 @@
+{
+    "id": 128004,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/128004",
+    "is_boosted": false,
+    "title": "Colophon",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOTn5uXo5+3r5+fp6Ojp6e3t6e7u6+3u7O7u7PDv6fDw6vHx6/Lx6/Tx7Pbz7/f38fj28fn38vn48gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYFIYwhMAikQMS4QcjANFTQgAOw==",
+        "width": 2204,
+        "height": 3000,
+        "alt_text": "A work made of letterpress on paper."
+    },
+    "main_reference_number": "1992.13.13",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1991,
+    "date_end": 1991,
+    "date_display": "1991",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Rosemarie Trockel\nGerman, born 1952",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "54 \u00d7 38 cm (21 5/16 \u00d7 15 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38,
+            "width_in": 14.9607,
+            "height_cm": 54,
+            "height_in": 21.2599,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Letterpress on paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mr. and Mrs. Lewis Manilow",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.0739,
+    "color": {
+        "h": 208,
+        "l": 45,
+        "s": 36,
+        "percentage": 0.00020684213084626356,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42808,
+    "artist_title": "Rosemarie Trockel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42808
+    ],
+    "artist_titles": [
+        "Rosemarie Trockel"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "letterpress",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-555",
+    "classification_title": "letterpress",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-555",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "letterpress",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "611fb077-6417-c2b1-b532-a364811fa304",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.13.13"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Colophon"
+            ],
+            "weight": 85,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-04-10T10:31:59-05:00",
+    "timestamp": "2023-09-24T01:17:59-05:00"
+}

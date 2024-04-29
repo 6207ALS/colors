@@ -1,0 +1,167 @@
+{
+    "id": 111618,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111618",
+    "is_boosted": false,
+    "title": "The Battle of Zama",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADUqF0s2HUAzJEg3I0I4I1I5IFdGJ1xBJlVAK1tLOF1NOFlOPGFKK2ZNK2dRMm1VMW1RNGVQOGdWOG9WOnJUMnRZN3RcPHhcPXpgP2hVQm9cQ3NsYY13WZt5Xpl+eY+Bb5qGbKOTe6+XfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQFEIRLFwOp7Np2HQOBILgmAACBQOkYkiA0EwMI/KRRIEADs=",
+        "width": 2978,
+        "height": 2250,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1990.563",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1567,
+    "date_end": 1578,
+    "date_display": "after 1567",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "After Cornelis Cort\nNetherlandish, c. 1533\u2013before April 22, 1578",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "59 \u00d7 42.7 cm (23 1/4 \u00d7 16 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 42.7,
+            "width_in": 16.8125,
+            "height_cm": 59,
+            "height_in": 23.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "George F. Harding Collection",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago Annual Report, 1990\u201391 (Chicago, 1991), p. 19.",
+    "exhibition_history": null,
+    "provenance_text": "George F. Harding, Jr. (d. 1939), Chicago; bequeathed to The George F. Harding Museum, Chicago; transferred to the Art Institute in 1982; accessioned 1990.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.8252,
+    "color": {
+        "h": 8,
+        "l": 45,
+        "s": 31,
+        "percentage": 0.039479246393328754,
+        "population": 212
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 205",
+    "gallery_id": 2147483635,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 5355,
+    "artist_title": "Cornelis Cort",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        5355
+    ],
+    "artist_titles": [
+        "Cornelis Cort"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-80",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6bde48ea-58f0-33eb-2d0b-a45aff7131e6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.563"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Battle of Zama"
+            ],
+            "weight": 4585,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-16T16:29:36-05:00",
+    "updated_at": "2023-06-16T16:31:48-05:00",
+    "timestamp": "2023-09-24T01:09:54-05:00"
+}

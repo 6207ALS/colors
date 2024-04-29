@@ -1,0 +1,37 @@
+{
+    "id": 1955,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1955",
+    "title": "Girolamo Mazzola Bedoli",
+    "sort_title": "Bedoli, Girolamo Mazzola",
+    "alt_titles": [
+        "Girolamo Mazzola-Bedoli",
+        "Girolamo Mazzuola Bedoli",
+        "Mazzolino Bedoli",
+        "Girolamo Mazzolino Bedoli"
+    ],
+    "is_artist": true,
+    "birth_date": 1490,
+    "death_date": 1569,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Girolamo Mazzola Bedoli",
+            "Bedoli, Girolamo Mazzola",
+            "Girolamo Mazzola-Bedoli",
+            "Girolamo Mazzuola Bedoli",
+            "Mazzolino Bedoli",
+            "Girolamo Mazzolino Bedoli"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:50-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

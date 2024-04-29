@@ -1,0 +1,37 @@
+{
+    "id": 81515,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/81515",
+    "title": "Sir Charles D'Oyly",
+    "sort_title": "D'Oyly, Charles, Sir",
+    "alt_titles": [
+        "Charles D\u2019Oyly",
+        "baronet Charles D'Oyly",
+        "Charles D'Oyley",
+        "Charles Doyley"
+    ],
+    "is_artist": true,
+    "birth_date": 1781,
+    "death_date": 1845,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sir Charles D'Oyly",
+            "D'Oyly, Charles, Sir",
+            "Charles D\u2019Oyly",
+            "baronet Charles D'Oyly",
+            "Charles D'Oyley",
+            "Charles Doyley"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:49-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

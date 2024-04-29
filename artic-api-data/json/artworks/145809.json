@@ -1,0 +1,184 @@
+{
+    "id": 145809,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145809",
+    "is_boosted": false,
+    "title": "Canteen Form",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADkvFykoKTEvMjQyNTc1Nzc2N0A5J0A7MkhDOl9UOV5VPEFAQU9KQ2JdVIyLip2clp2cmqinosLEx8nLzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCAMBXEgCwMkjWMojwRFUwgAOw==",
+        "width": 1637,
+        "height": 2250,
+        "alt_text": "A work made of porcelain."
+    },
+    "main_reference_number": "1996.448",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1988,
+    "date_end": 1988,
+    "date_display": "1988",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Brother Thomas Bezanson\nAmerican, born Canada, 1929\u20132007",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "26.7 \u00d7 21.6 \u00d7 9.3 cm (10 1/2 \u00d7 8 1/2 \u00d7 3 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 9.3,
+            "depth_in": 3.25,
+            "width_cm": 21.6,
+            "width_in": 8.5,
+            "height_cm": 26.7,
+            "height_in": 10.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Porcelain",
+    "inscriptions": "Written in marker on underside: \"ST 150 / 2/4 / [pictorial mark]\"",
+    "credit_line": "Gift of Bernie and Sue Pucker in honor of the arrival of Jessica Pritzker Pucker",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Brother Thomas Bezanson (1929\u20132007), 1988; Berrnie and Sue Pucker, Boston, by 1996; given to the Art Institute of Chicago,1996.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.5737,
+    "color": {
+        "h": 42,
+        "l": 51,
+        "s": 27,
+        "percentage": 0.000511751346161916,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 42742,
+    "artist_title": "Brother Thomas Bezanson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42742
+    ],
+    "artist_titles": [
+        "Brother Thomas Bezanson"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "vase",
+        "porcelain",
+        "stoneware",
+        "ceramics",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-279",
+        "TM-46",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-279",
+        "TM-46",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vase",
+        "stoneware",
+        "ceramics",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2448",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2448"
+    ],
+    "material_titles": [
+        "porcelain"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a013bc73-7ee1-23b4-8c37-78edc04ccbc6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.448"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Canteen Form"
+            ],
+            "weight": 40,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:00:44-05:00",
+    "timestamp": "2023-09-24T01:25:15-05:00"
+}

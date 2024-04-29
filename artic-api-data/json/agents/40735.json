@@ -1,0 +1,41 @@
+{
+    "id": 40735,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40735",
+    "title": "Parmigianino",
+    "sort_title": "Parmigianino",
+    "alt_titles": [
+        "Francesco Mazzola",
+        "Parmigianino, (Francesco Mazzola)",
+        "Il Parmigianino",
+        "Il Parmigiano, (Girolamo Francesco Maria Mazzola)",
+        "Il Parmigiano, (Girolamo Francesco Maria Mazzuoli)",
+        "Girolamo Francesco Maria Mazzola"
+    ],
+    "is_artist": true,
+    "birth_date": 1503,
+    "death_date": 1540,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Parmigianino",
+            "Parmigianino",
+            "Francesco Mazzola",
+            "Parmigianino, (Francesco Mazzola)",
+            "Il Parmigianino",
+            "Il Parmigiano, (Girolamo Francesco Maria Mazzola)",
+            "Il Parmigiano, (Girolamo Francesco Maria Mazzuoli)",
+            "Girolamo Francesco Maria Mazzola"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:52-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

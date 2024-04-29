@@ -1,0 +1,28 @@
+{
+    "id": 22903,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22903",
+    "title": "Thomas Sandby",
+    "sort_title": "Sandby, Thomas",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1723,
+    "death_date": 1798,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thomas Sandby",
+            "Sandby, Thomas"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-08T09:21:44-05:00",
+    "updated_at": "2022-03-15T16:52:13-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

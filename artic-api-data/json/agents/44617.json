@@ -1,0 +1,33 @@
+{
+    "id": 44617,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44617",
+    "title": "Franz Johann Heinrich Nadorp",
+    "sort_title": "Nadorp, Franz Johann Heinrich",
+    "alt_titles": [
+        "Franz Joseph Heinrich Nadorp",
+        "Franz Nadorp"
+    ],
+    "is_artist": true,
+    "birth_date": 1794,
+    "death_date": 1876,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Franz Johann Heinrich Nadorp",
+            "Nadorp, Franz Johann Heinrich",
+            "Franz Joseph Heinrich Nadorp",
+            "Franz Nadorp"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:25-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

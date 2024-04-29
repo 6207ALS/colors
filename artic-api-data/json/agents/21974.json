@@ -1,0 +1,37 @@
+{
+    "id": 21974,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/21974",
+    "title": "Ercole de'Roberti",
+    "sort_title": "Roberti, Ercole de'",
+    "alt_titles": [
+        "Ercole de'Roberti",
+        "Ercole Roberti Grandi",
+        "Ercole da Ferrara",
+        "Ercole da Bologna"
+    ],
+    "is_artist": true,
+    "birth_date": 1451,
+    "death_date": 1496,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ercole de'Roberti",
+            "Roberti, Ercole de'",
+            "Ercole de'Roberti",
+            "Ercole Roberti Grandi",
+            "Ercole da Ferrara",
+            "Ercole da Bologna"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:59-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

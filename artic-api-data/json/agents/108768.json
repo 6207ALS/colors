@@ -1,0 +1,31 @@
+{
+    "id": 108768,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/108768",
+    "title": "Bas Jan Ader",
+    "sort_title": "Ader, Bas Jan",
+    "alt_titles": [
+        "Basjan Ader"
+    ],
+    "is_artist": true,
+    "birth_date": 1942,
+    "death_date": 1975,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bas Jan Ader",
+            "Ader, Bas Jan",
+            "Basjan Ader"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:44:24-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 42555,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42555",
+    "title": "Pierre Fran\u00e7ois Eug\u00e8ne Giraud",
+    "sort_title": "Giraud, Pierre Fran\u00e7ois Eug\u00e8ne",
+    "alt_titles": [
+        "Eug\u00e8ne Giraud",
+        "Eug\u00e8ne (Pierre Fran\u00e7ois Eug\u00e8ne) Giraud"
+    ],
+    "is_artist": true,
+    "birth_date": 1806,
+    "death_date": 1891,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre Fran\u00e7ois Eug\u00e8ne Giraud",
+            "Giraud, Pierre Fran\u00e7ois Eug\u00e8ne",
+            "Eug\u00e8ne Giraud",
+            "Eug\u00e8ne (Pierre Fran\u00e7ois Eug\u00e8ne) Giraud"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:47-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

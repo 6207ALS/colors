@@ -1,0 +1,33 @@
+{
+    "id": 36567,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36567",
+    "title": "Karl Schmidt-Rottluff",
+    "sort_title": "Schmidt-Rottluff, Karl",
+    "alt_titles": [
+        "Karl Schmidt-Rottluff",
+        "Karl S. Rottluff (Schmidt-Rottluff)"
+    ],
+    "is_artist": true,
+    "birth_date": 1884,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Karl Schmidt-Rottluff",
+            "Schmidt-Rottluff, Karl",
+            "Karl Schmidt-Rottluff",
+            "Karl S. Rottluff (Schmidt-Rottluff)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:31-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

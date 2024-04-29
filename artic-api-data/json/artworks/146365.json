@@ -1,0 +1,189 @@
+{
+    "id": 146365,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146365",
+    "is_boosted": false,
+    "title": "Medal commemorating Major General Zachary Taylor",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHxOOHpRP4RYRJRqVp90XZNzZZd2ZZt9bJ1+b7Cflq6hm6+inLGimrexrriyr7qyrrq0sbu1sru2sry1sby2sru3tL67ucG9usG9uwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIEYxTSUhwgEtQ0AoTgEYkfUk0xUCADs=",
+        "width": 2400,
+        "height": 2250,
+        "alt_text": "A work made of copper."
+    },
+    "main_reference_number": "R1689/56",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1846,
+    "date_end": 1850,
+    "date_display": "1847",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Charles C. Wright\nAmerican, active 1846\u20131847",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Diam.: 6.5 cm (2 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 6.5,
+            "diameter_in": 2.5625,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Copper",
+    "inscriptions": null,
+    "credit_line": "Unknown",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.1019,
+    "color": {
+        "h": 267,
+        "l": 45,
+        "s": 3,
+        "percentage": 0.0030031382795020797,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 65353,
+    "artist_title": "C. C. Wright",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        65353
+    ],
+    "artist_titles": [
+        "C. C. Wright"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "medal",
+        "bronze",
+        "copper alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-120",
+    "classification_title": "medal",
+    "alt_classification_ids": [
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-120",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "medal",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [
+        "TM-2694",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2430",
+        "TM-2694",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "bronze",
+        "copper alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9996587a-4873-1658-e61e-82a0f2d971a7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "R1689/56"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Medal commemorating Major General Zachary Taylor"
+            ],
+            "weight": 25,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T11:57:39-05:00",
+    "timestamp": "2023-09-24T01:25:34-05:00"
+}

@@ -1,0 +1,191 @@
+{
+    "id": 61823,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/61823",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAH13bX54bX95bX95boJ7b4B6cIB7cIN9coR+cgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIUIwCzkDEhAgAOw==",
+        "width": 1635,
+        "height": 5426,
+        "alt_text": "A work made of cotton, satin weave, printed."
+    },
+    "main_reference_number": "1981.97",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1929,
+    "date_display": "1920s (based on 17th/18th century prototype)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Mariano Fortuny y Madrazo (Italian, born Spain, 1871\u20131949)\nItaly, Venice",
+    "place_of_origin": "Venezia province",
+    "description": null,
+    "dimensions": "441.9 \u00d7 73.4 cm (174 \u00d7 28 7/8 in.); Repeat: H.: 196.9 cm (77 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73.4,
+            "width_in": 28.875,
+            "height_cm": 441.9,
+            "height_in": 174,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 196.9,
+            "height_in": 77.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Cotton, satin weave, printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Vera Megowen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.4624,
+    "color": {
+        "h": 164,
+        "l": 34,
+        "s": 5,
+        "percentage": 0.05146872405895755,
+        "population": 1214
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 51708,
+    "artist_title": "Mariano Fortuny y Madrazo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51708
+    ],
+    "artist_titles": [
+        "Mariano Fortuny y Madrazo"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "satin weaving",
+        "cotton (textile)",
+        "Modernism",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2578",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2578"
+    ],
+    "material_titles": [
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-10501",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10501"
+    ],
+    "technique_titles": [
+        "satin weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "403c7a78-12e1-163f-6903-5a4da2b24dc1",
+    "alt_image_ids": [
+        "6feffe9a-5afd-8c62-2223-5fe2c885cef9"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.97"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 25,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:59:28-05:00",
+    "timestamp": "2023-09-24T00:47:04-05:00"
+}

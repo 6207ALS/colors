@@ -1,0 +1,66 @@
+{
+    "id": 31257,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31257",
+    "title": "Claude Lorrain",
+    "sort_title": "Lorrain, Claude",
+    "alt_titles": [
+        "Claude Gell\u00e9e",
+        "Le Lorrain",
+        "Claude Gell\u00e9e, called Lorrain",
+        "Claude Lorrain",
+        "Claude Gell\u00e9e",
+        "Le Lorrain Gill\u00e9e",
+        "Claude Lorraine, (Claude Gell\u00e9e)",
+        "Le Lorrain Claude",
+        "Claudio Lorense",
+        "Claudio de Lorena"
+    ],
+    "is_artist": true,
+    "birth_date": 1600,
+    "death_date": 1682,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Claude Lorrain",
+            "Lorrain, Claude",
+            "Claude Gell\u00e9e",
+            "Le Lorrain",
+            "Claude Gell\u00e9e, called Lorrain",
+            "Claude Lorrain",
+            "Claude Gell\u00e9e",
+            "Le Lorrain Gill\u00e9e",
+            "Claude Lorraine, (Claude Gell\u00e9e)",
+            "Le Lorrain Claude",
+            "Claudio Lorense",
+            "Claudio de Lorena"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Claude Lorrain",
+            "Lorrain, Claude",
+            "Claude Gell\u00e9e",
+            "Le Lorrain",
+            "Claude Gell\u00e9e, called Lorrain",
+            "Claude Lorrain",
+            "Claude Gell\u00e9e",
+            "Le Lorrain Gill\u00e9e",
+            "Claude Lorraine, (Claude Gell\u00e9e)",
+            "Le Lorrain Claude",
+            "Claudio Lorense",
+            "Claudio de Lorena"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:24:13-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

@@ -1,0 +1,159 @@
+{
+    "id": 179337,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/179337",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJZqO5puPodmQItoQYppQ4xrRZRuQ5lwQ5hxR51zRpVwSJZyS5mCa5qHdJyJdp6Ld5+MeZ+Mep+Me5mLfqCNeqKPfpyNgJqPiKORgKSRgKCVjaGZlaOalKOenQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4CZBj6NFQXIAjIUsitFMQ0EIF4dlFdWFADs=",
+        "width": 2506,
+        "height": 2250,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1984.523b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1201,
+    "date_end": 1300,
+    "date_display": "13th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Spain",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "b: 10.1 \u00d7 12 cm (4 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12,
+            "width_in": 4.75,
+            "height_cm": 10.1,
+            "height_in": 4,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "b"
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Kate S. Buckingham Endowment",
+    "catalogue_display": null,
+    "publication_history": "Isabelle Errera, Catalogue d\u2019Etoffes Anciennes (Brussels: Falk Fils, 1901), no. 56.\n\nCyril G. E. Bunt, Sicilian and Lucchese Fabrics (Leigh-on-Sea, England: F. Lewis Publishers, 1961), fig. 11.\n\nDonata Devoti, L'Arte del Tessuto in Europa (Milan: Bramante Editrice, 1974), no. 44.",
+    "exhibition_history": "Art Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, Gift, Bequest and Purchase: A Selection of Textile Acquisitions from 1982\u20131987, Mar. 18\u2013Aug. 14, 1989.\n\nArt Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, European Textile Masterpieces from Coptic Times through the 19th Century, Sept. 27, 1989\u2013Jan. 22, 1990.",
+    "provenance_text": "Loewi-Robertson, Inc., Los Angeles, CA, by 1984 [invoice object no. 17107, July 18, 1984, and incoming permanent receipt RX14775, Apr. 17, 1984, copies in curatorial object file, Textiles Department]; sold to the Art Institute of Chicago, 1984.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": 1985,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.9448,
+    "color": {
+        "h": 262,
+        "l": 64,
+        "s": 2,
+        "percentage": 0.574785591497937,
+        "population": 3668
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b4be247a-c229-a053-ddc2-25d293b62e00",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.523b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-05T16:03:56-06:00",
+    "updated_at": "2023-04-07T12:53:51-05:00",
+    "timestamp": "2023-09-24T01:32:48-05:00"
+}

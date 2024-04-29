@@ -1,0 +1,48 @@
+{
+    "id": 4244,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4244",
+    "title": "Chicago Collectors",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1963-09-20T00:00:00-05:00",
+    "aic_end_at": "1963-10-27T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "995394c4-0f4d-62cf-a50c-d303b2e952e0",
+    "alt_image_ids": [
+        "373ce8fb-f0f8-ca34-409e-37dc074cc96c",
+        "e130c115-08b1-5c43-4f2d-20d583de7973",
+        "08bd5c9a-1b8d-2b68-f041-de103cc6e452",
+        "dd5df29a-a10e-b6c5-017f-bc21ca340f92",
+        "d706951a-42ca-13f5-371d-18b46197de75",
+        "b5fcfd5e-3fbc-bfeb-3ed2-40c4a2cd97d1",
+        "a6da19c8-9b49-04d9-390e-d0775676ce31",
+        "5ddb1b93-f2c5-7940-2f38-05031038e682",
+        "57d81a07-166f-39fe-e1a3-2071f782360d",
+        "f45935f0-a888-e08d-4896-daf8dfa4ab4b",
+        "ea9519c2-67a3-0fab-d63a-40e88ca33e41"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Collectors"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-14T14:13:02-05:00",
+    "updated_at": "2019-10-14T14:16:21-05:00",
+    "timestamp": "2023-09-24T02:01:21-05:00"
+}

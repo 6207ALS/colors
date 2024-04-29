@@ -1,0 +1,31 @@
+{
+    "id": 11555,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/11555",
+    "title": "Henry Hill",
+    "sort_title": "Hill, Henry",
+    "alt_titles": [
+        "John Henry Hill"
+    ],
+    "is_artist": true,
+    "birth_date": 1839,
+    "death_date": 1922,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henry Hill",
+            "Hill, Henry",
+            "John Henry Hill"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:01:03-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

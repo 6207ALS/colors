@@ -1,0 +1,183 @@
+{
+    "id": 147443,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/147443",
+    "is_boosted": false,
+    "title": "Chicago Sketch, \"Chicago\", Design Sketch",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALGCcK6QcZ6ShKGRg7eyj7Kunriyo7yxpsOzoL3CucnAssrNxcnQx9TZ0NPb1AAAACH5BAAAAAAALAAAAAADAAUAAAQLsDGXxlLgoCAMKREAOw==",
+        "width": 4552,
+        "height": 6796,
+        "alt_text": "A work made of colored pencil and ink on paper."
+    },
+    "main_reference_number": "1996.804",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1996,
+    "date_end": 1996,
+    "date_display": "1996",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alan Harold Colquhoun\nBritish, 1921\u20132012",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "14.7 \u00d7 9.5 cm (5 13/16 \u00d7 3 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.5,
+            "width_in": 3.75,
+            "height_cm": 14.7,
+            "height_in": 5.8125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Colored pencil and ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Alan Colquhoun",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.6604,
+    "color": {
+        "h": 47,
+        "l": 53,
+        "s": 78,
+        "percentage": 0.0020728571603552876,
+        "population": 22
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 62041,
+    "artist_title": "Alan Harold Colquhoun",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        62041
+    ],
+    "artist_titles": [
+        "Alan Harold Colquhoun"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "travel sketch",
+        "paper (fiber product)",
+        "ink",
+        "colored pencil",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-702",
+    "classification_title": "travel sketch",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-702",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "travel sketch",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-2420"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-2420"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "colored pencil"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "41f3d2bb-683e-af69-a5e1-531f747bbba6",
+    "alt_image_ids": [
+        "de746d67-05a3-7338-f28b-7ec0566def3e"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.804"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Chicago Sketch, \"Chicago\", Design Sketch"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:05:47-05:00",
+    "timestamp": "2023-09-24T01:26:07-05:00"
+}

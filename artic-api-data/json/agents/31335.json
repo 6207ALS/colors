@@ -1,0 +1,33 @@
+{
+    "id": 31335,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31335",
+    "title": "John Beasley Greene",
+    "sort_title": "Greene, John Beasley",
+    "alt_titles": [
+        "John B. Greene",
+        "John Beasly Greene"
+    ],
+    "is_artist": true,
+    "birth_date": 1832,
+    "death_date": 1856,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Beasley Greene",
+            "Greene, John Beasley",
+            "John B. Greene",
+            "John Beasly Greene"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-20T15:46:14-05:00",
+    "updated_at": "2023-09-23T23:21:39-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

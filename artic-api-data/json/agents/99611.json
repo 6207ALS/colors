@@ -1,0 +1,31 @@
+{
+    "id": 99611,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/99611",
+    "title": "Paule V\u00e9zelay",
+    "sort_title": "V\u00e9zelay, Paule",
+    "alt_titles": [
+        "Marjorie Watson-Williams"
+    ],
+    "is_artist": true,
+    "birth_date": 1892,
+    "death_date": 1984,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paule V\u00e9zelay",
+            "V\u00e9zelay, Paule",
+            "Marjorie Watson-Williams"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:43:30-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

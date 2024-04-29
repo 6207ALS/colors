@@ -1,0 +1,172 @@
+{
+    "id": 5052,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/5052",
+    "is_boosted": false,
+    "title": "Nocturne",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAB0aJRwZJxsYKR0bKx4eMCEdKyIfKyAeMCIgLSYhLCQiLCQiLSQjLSUiLygmLCgmLyAhMiUkMSUlMSIjNSclNCknMCgmMikmMisqOisrOikwQy4wQi8yQzQzQTQ7TTU8UDc/UzxEVz1EVzpFWj9HWkBLYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQIeCIYlELBXAQEOATASBBMYDCpE2DcPhUxqJOIjHpdPJUAqLIAA7",
+        "width": 3000,
+        "height": 1950,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1956.1253",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1955,
+    "date_end": 1955,
+    "date_display": "1955",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Uchima Ansei\nAmerican, 1921-2000",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "41.3 \u00d7 65.3 cm (16 1/4 \u00d7 25 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 65.3,
+            "width_in": 25.6875,
+            "height_cm": 41.3,
+            "height_in": 16.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Japanese Print Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.6675,
+    "color": {
+        "h": 214,
+        "l": 49,
+        "s": 14,
+        "percentage": 0.038964075122736835,
+        "population": 180
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 37058,
+    "artist_title": "Uchima Ansei",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37058
+    ],
+    "artist_titles": [
+        "Uchima Ansei"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "Japanese (culture or style)",
+        "print",
+        "asian art"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9cbb66e4-7dcb-4263-8acd-248e8f52d82c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.1253"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Nocturne"
+            ],
+            "weight": 1213,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-04-10T14:58:09-05:00",
+    "timestamp": "2023-09-24T00:22:31-05:00"
+}

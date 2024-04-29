@@ -1,0 +1,168 @@
+{
+    "id": 202926,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202926",
+    "is_boosted": false,
+    "title": "AF96",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPMAAConJysnKCwoKS4qKy8rLDArLTAsLTEtLTIuLzMvMDQwMDQwMTUwMTUxMTUxMgAAACH5BAAAAAAALAAAAAAFAAUAAAQSUMgAiClkoJTQWcyiJI3jNEoEADs=",
+        "width": 1463,
+        "height": 1463,
+        "alt_text": "A work made of polyester upholstery."
+    },
+    "main_reference_number": "2010.247",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2000,
+    "date_end": 2000,
+    "date_display": "2000",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Maharam Design Studio (American, founded 1902)\nManufactured by Maharam (American, founded 1902)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "640 \u00d7 137 cm (252 \u00d7 54 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 137,
+            "width_in": 54,
+            "height_cm": 640,
+            "height_in": 252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Polyester upholstery",
+    "inscriptions": null,
+    "credit_line": "Gift of Maharam Fabric Corporation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2000 Maharam.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.6828,
+    "color": {
+        "h": 359,
+        "l": 51,
+        "s": 1,
+        "percentage": 0.049813621070317414,
+        "population": 354
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 110922,
+    "artist_title": "Maharam Design Studio",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110922
+    ],
+    "artist_titles": [
+        "Maharam Design Studio"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design",
+        "21st Century",
+        "textile"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-13174",
+    "classification_title": "design",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-13174",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "design",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d053d3c1-d5bc-a663-b372-3e4b48e216e0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.247"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "AF96"
+            ],
+            "weight": 23,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:46:29-05:00",
+    "timestamp": "2023-09-24T01:40:46-05:00"
+}

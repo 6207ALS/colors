@@ -1,0 +1,168 @@
+{
+    "id": 146909,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146909",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAHpFH39SO39fWKJWW6tRWpdjRJFiSKl1VqBaZJxnZ7RydrSAXquGbbqJabmNcK2QgLOYjKuakKufmK6gnbGinrGknrSlnLSkpLOqqbitqbiur7yysb6zsb21sr61tL23tcKwp8C3tcO3uMK5usK7vMbBwMjExNDIygAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQMxl8+lUIhQNgqAohTIe0UCQOJk4pNFEYgE9AhCGo7E4FACGIAA7",
+        "width": 3000,
+        "height": 2000,
+        "alt_text": "A work made of flourescent paint and sumi ink on laminated canvas."
+    },
+    "main_reference_number": "1997.142",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Keith Haring\nAmerican, 1958-1990",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "173.9 \u00d7 243.2 cm (68 1/2 \u00d7 95 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 243.2,
+            "width_in": 95.75,
+            "height_cm": 173.9,
+            "height_in": 68.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Flourescent paint and sumi ink on laminated canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Lannan Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.4616,
+    "color": {
+        "h": 346,
+        "l": 56,
+        "s": 79,
+        "percentage": 0.07007678896332789,
+        "population": 332
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 65199,
+    "artist_title": "Keith Haring",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        65199
+    ],
+    "artist_titles": [
+        "Keith Haring"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "Pop Art",
+        "modern and contemporary art"
+    ],
+    "style_id": "TM-7221",
+    "style_title": "Pop Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7221"
+    ],
+    "style_titles": [
+        "Pop Art"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ec22f356-36cc-4e3d-c108-aae2ac7ce298",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.142"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1474,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:07:23-05:00",
+    "timestamp": "2023-09-24T01:25:46-05:00"
+}

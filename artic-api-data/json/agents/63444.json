@@ -1,0 +1,33 @@
+{
+    "id": 63444,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/63444",
+    "title": "Jules Achille No\u00ebl",
+    "sort_title": "No\u00ebl, Jules Achille",
+    "alt_titles": [
+        "Jules A. No\u00ebl",
+        "Jules Achille No\u00efl"
+    ],
+    "is_artist": true,
+    "birth_date": 1815,
+    "death_date": 1881,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jules Achille No\u00ebl",
+            "No\u00ebl, Jules Achille",
+            "Jules A. No\u00ebl",
+            "Jules Achille No\u00efl"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-04-09T14:53:14-05:00",
+    "updated_at": "2021-04-09T14:55:43-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

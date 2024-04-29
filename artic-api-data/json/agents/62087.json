@@ -1,0 +1,31 @@
+{
+    "id": 62087,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62087",
+    "title": "Fujiko Shiraga",
+    "sort_title": "Shiraga, Fujiko",
+    "alt_titles": [
+        "Fujiko Shiraga"
+    ],
+    "is_artist": true,
+    "birth_date": 1928,
+    "death_date": 2015,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fujiko Shiraga",
+            "Shiraga, Fujiko",
+            "Fujiko Shiraga"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-09-23T11:03:57-05:00",
+    "updated_at": "2022-03-15T16:59:31-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

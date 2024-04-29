@@ -1,0 +1,178 @@
+{
+    "id": 27388,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27388",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAC8oHyolIS8rKDMuLDcxJjkwJT81JzcyKzYyLT01KUA2Kkg/MlxXUW1fUGxjVnlpV3RqXHRrXHJtZHZwZoJxYI5/aZSAbZSGcZmIdJqKdJ+LdZKIeKGUgbupkAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4NZU15NJgEEE0ZQsyOEwhTIIEEdpFtaFADs=",
+        "width": 2656,
+        "height": 2250,
+        "alt_text": "A work made of wool, tapestry weave."
+    },
+    "main_reference_number": "1938.247",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 201,
+    "date_end": 600,
+    "date_display": "Roman period (30 B.C.\u2013641 A.D.), 3th/6th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Coptic\nEgypt",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "12.1 \u00d7 15.4 cm (4 3/4 \u00d7 6 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.4,
+            "width_in": 6.0625,
+            "height_cm": 12.1,
+            "height_in": 4.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool, tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Russell Tyson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1939,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.8115,
+    "color": {
+        "h": 323,
+        "l": 12,
+        "s": 1,
+        "percentage": 0.6137211705560041,
+        "population": 3694
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 37541,
+    "artist_title": "Ancient Egyptian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37541
+    ],
+    "artist_titles": [
+        "Ancient Egyptian"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roman period (egyptian)",
+        "wool (textile)",
+        "textile",
+        "weaving",
+        "coptic (period)"
+    ],
+    "style_id": "TM-4315",
+    "style_title": "roman period (egyptian)",
+    "alt_style_ids": [
+        "TM-4407"
+    ],
+    "style_ids": [
+        "TM-4315",
+        "TM-4407"
+    ],
+    "style_titles": [
+        "roman period (egyptian)",
+        "coptic (period)"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d2e907b7-691e-3ab5-5e99-10a369e626cb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.247"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-09-23T23:22:16-05:00",
+    "timestamp": "2023-09-24T00:32:31-05:00"
+}

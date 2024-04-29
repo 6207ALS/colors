@@ -1,0 +1,35 @@
+{
+    "id": 40434,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40434",
+    "title": "Sir George Howland Beaumont",
+    "sort_title": "Beaumont, George Howland, Sir",
+    "alt_titles": [
+        "George H. Beaumont",
+        "George Howland Beaumont",
+        "Sir George Howland Beaumont, bart."
+    ],
+    "is_artist": true,
+    "birth_date": 1753,
+    "death_date": 1827,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sir George Howland Beaumont",
+            "Beaumont, George Howland, Sir",
+            "George H. Beaumont",
+            "George Howland Beaumont",
+            "Sir George Howland Beaumont, bart."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:30-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

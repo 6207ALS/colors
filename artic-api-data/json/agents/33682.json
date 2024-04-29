@@ -1,0 +1,31 @@
+{
+    "id": 33682,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33682",
+    "title": "Ilya Bolotowsky",
+    "sort_title": "Bolotowsky, Ilya",
+    "alt_titles": [
+        "Ilya Boltovsky"
+    ],
+    "is_artist": true,
+    "birth_date": 1907,
+    "death_date": 1981,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ilya Bolotowsky",
+            "Bolotowsky, Ilya",
+            "Ilya Boltovsky"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-26T12:03:17-05:00",
+    "updated_at": "2023-07-26T12:05:51-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

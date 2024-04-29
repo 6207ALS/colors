@@ -1,0 +1,31 @@
+{
+    "id": 27609,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27609",
+    "title": "Franz von Stuck",
+    "sort_title": "Stuck, Franz von",
+    "alt_titles": [
+        "Franz Ritter von Stuck"
+    ],
+    "is_artist": true,
+    "birth_date": 1863,
+    "death_date": 1928,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Franz von Stuck",
+            "Stuck, Franz von",
+            "Franz Ritter von Stuck"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:19-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 40763,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40763",
+    "title": "Denis Auguste Marie Raffet",
+    "sort_title": "Raffet, Denis Auguste Marie",
+    "alt_titles": [
+        "Auguste Raffet"
+    ],
+    "is_artist": true,
+    "birth_date": 1804,
+    "death_date": 1860,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Denis Auguste Marie Raffet",
+            "Raffet, Denis Auguste Marie",
+            "Auguste Raffet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:35:55-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

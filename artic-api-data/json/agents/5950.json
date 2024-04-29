@@ -1,0 +1,35 @@
+{
+    "id": 5950,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5950",
+    "title": "Edward Dupaquier Dart",
+    "sort_title": "Dart, Edward Dupaquier",
+    "alt_titles": [
+        "Edward D. Dart",
+        "Ed Dart",
+        "Edward Dart"
+    ],
+    "is_artist": true,
+    "birth_date": 1922,
+    "death_date": 1975,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edward Dupaquier Dart",
+            "Dart, Edward Dupaquier",
+            "Edward D. Dart",
+            "Ed Dart",
+            "Edward Dart"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:17:55-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

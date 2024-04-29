@@ -1,0 +1,176 @@
+{
+    "id": 48823,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/48823",
+    "is_boosted": false,
+    "title": "Bottle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABoZGR0bHCclIy8uLTk+QlBSWFFXXWtrbneHmYKEi4qOlZyfpJehrKemqMbFyQAAACH5BAAAAAAALAAAAAADAAUAAAQLMBAwjDisLJScahEAOw==",
+        "width": 1497,
+        "height": 2250,
+        "alt_text": "A work made of tin-glazed earthenware (delftware)."
+    },
+    "main_reference_number": "1943.1041",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1695,
+    "date_end": 1705,
+    "date_display": "c. 1690/1700",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Delft, Netherlands",
+    "place_of_origin": "Delfland",
+    "description": null,
+    "dimensions": "33.4 \u00d7 17.2 cm (13 1/8 \u00d7 6 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 33.4,
+            "height_in": 13.125,
+            "diameter_cm": 17.2,
+            "diameter_in": 6.75,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Tin-glazed earthenware (Delftware)",
+    "inscriptions": null,
+    "credit_line": "Decorative Arts Special Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.6305,
+    "color": {
+        "h": 213,
+        "l": 35,
+        "s": 35,
+        "percentage": 0.017039906149439978,
+        "population": 182
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "earthenware",
+        "vase",
+        "earthenware",
+        "vessel",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-27",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-74",
+        "TM-27",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "vase",
+        "earthenware",
+        "vessel",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "db70e4a1-45e8-ca32-9619-9cb737d7bffd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.1041"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bottle"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-29T15:04:38-05:00",
+    "updated_at": "2023-06-29T15:07:40-05:00",
+    "timestamp": "2023-09-24T00:41:49-05:00"
+}

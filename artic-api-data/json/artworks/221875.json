@@ -1,0 +1,188 @@
+{
+    "id": 221875,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/221875",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEVEQkxKSV1cWmVkY2ZkYmhnZWdoY36HaqGedJOQjZiakqyrlq+tq7y4tMvQxAAAACH5BAAAAAAALAAAAAADAAUAAAQLMBBQnDBnKJTaYhEAOw==",
+        "width": 1374,
+        "height": 2250,
+        "alt_text": "A work made of lead-glazed earthenware (creamware)."
+    },
+    "main_reference_number": "1960.132",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1785,
+    "date_end": 1795,
+    "date_display": "c. 1790",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England, Yorkshire",
+    "place_of_origin": "Yorkshire",
+    "description": null,
+    "dimensions": "26 \u00d7 13 \u00d7 7.6 cm (10 1/4 \u00d7 5 1/8 \u00d7 3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 7.6,
+            "depth_in": 3,
+            "width_cm": 13,
+            "width_in": 5.125,
+            "height_cm": 26,
+            "height_in": 10.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lead-glazed earthenware (creamware)",
+    "inscriptions": null,
+    "credit_line": "Gift of Se\u00f1or Felipe De Espil",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.2409,
+    "color": {
+        "h": 39,
+        "l": 51,
+        "s": 59,
+        "percentage": 0.003696253889662524,
+        "population": 43
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "vase",
+        "earthenware",
+        "vessel",
+        "pearlware",
+        "european decorative arts",
+        "ceramics",
+        "creamware",
+        "earthenware",
+        "lead-glazed earthenware"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-2338",
+        "TM-1394",
+        "TM-46",
+        "TM-11135",
+        "TM-74",
+        "TM-11132"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-27",
+        "TM-2338",
+        "TM-1394",
+        "TM-46",
+        "TM-11135",
+        "TM-74",
+        "TM-11132"
+    ],
+    "classification_titles": [
+        "vase",
+        "vessel",
+        "pearlware",
+        "european decorative arts",
+        "ceramics",
+        "creamware",
+        "earthenware",
+        "lead-glazed earthenware"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0453207a-f20f-6d0f-e803-a2e41425ddb2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1960.132"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:25:18-05:00",
+    "timestamp": "2023-09-24T01:46:30-05:00"
+}

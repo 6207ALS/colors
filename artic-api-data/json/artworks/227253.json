@@ -1,0 +1,167 @@
+{
+    "id": 227253,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/227253",
+    "is_boosted": false,
+    "title": "The Ghez Family, Chicago",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAB8fJCIfJCggJiokJy4oKTcpLDEsLzUsLiAlMEA7PUdAPk5HRkZHSWZJR2pLSGpfWm1hW21lYG9vbX5zbH52cIl/d7esnbqvnb6zocS9rsjBrcnKvdDKuNXQwAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4IVxWmY91NZVUFI4k3IwQrMMEWEgASCFADs=",
+        "width": 9311,
+        "height": 7351,
+        "alt_text": "A work made of chromogenic print mounted on acrylic."
+    },
+    "main_reference_number": "2014.1203",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1990,
+    "date_end": 1990,
+    "date_display": "1990",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Thomas Struth\nGerman, born 1954",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "101.6 \u00d7 127 cm (40 \u00d7 50 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 127,
+            "width_in": 50,
+            "height_cm": 101.6,
+            "height_in": 40,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Chromogenic print mounted on acrylic",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 357,
+        "l": 32,
+        "s": 48,
+        "percentage": 0.00010811575123623422,
+        "population": 74
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 37458,
+    "artist_title": "Thomas Struth",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37458
+    ],
+    "artist_titles": [
+        "Thomas Struth"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "00d35c43-f76f-1e99-29cf-3ba785cc7596",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.1203"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Ghez Family, Chicago"
+            ],
+            "weight": 76,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:12:12-05:00",
+    "timestamp": "2023-09-24T01:48:10-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 99620,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99620",
+    "is_boosted": false,
+    "title": "Thompson Commissary: Fragment from Lobby",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAI6Oj5ORkpaVkZaVlZyYkpubl6Obk6mflqWdmK+jlqOgnqShn6ujm6qmn7CkmLWnm6GgoKOioqajobqxp7Oyr7W2tLq7u769u8G4r8G6s8rHw8nJyMrJyMrKyAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4NNk2IE4xaYZQyJwHQFM1GVVECMpSxSEADs=",
+        "width": 2702,
+        "height": 2250,
+        "alt_text": "A work made of glazed terra-cotta."
+    },
+    "main_reference_number": "1982.1634",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1912,
+    "date_end": 1912,
+    "date_display": "1912 (renovated 1982)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alfred S. Alschuler\nAmerican, 1876-1940",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "46 \u00d7 57 \u00d7 10.3 cm (18 1/8 \u00d7 22 1/2 \u00d7 4 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.3,
+            "depth_in": 4.0552,
+            "width_cm": 57,
+            "width_in": 22.441,
+            "height_cm": 46,
+            "height_in": 18.1103,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glazed Terra-cotta",
+    "inscriptions": null,
+    "credit_line": "Gift of Lonn Frye and Jon Construction Company",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.7413,
+    "color": {
+        "h": 201,
+        "l": 64,
+        "s": 46,
+        "percentage": 0.0003379600058129121,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 33400,
+    "artist_title": "Alfred S. Alschuler",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33400
+    ],
+    "artist_titles": [
+        "Alfred S. Alschuler"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bc78abfc-7415-e7b7-90e9-3f54baa4761e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1634"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Thompson Commissary: Fragment from Lobby"
+            ],
+            "weight": 82,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:40:37-05:00",
+    "timestamp": "2023-09-24T01:04:12-05:00"
+}

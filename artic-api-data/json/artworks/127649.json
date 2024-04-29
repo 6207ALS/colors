@@ -1,0 +1,172 @@
+{
+    "id": 127649,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/127649",
+    "is_boosted": false,
+    "title": "Letter D",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJSOcpmTd56YfaOcgqWfhKqkh6ymjLOrkrWuk8C6oMS8oce/o87Gq83HrM/Hr9jRt97Wu+Xcwuzly+7lzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYKQ40wIQByQgAxMUxpM0UggAOw==",
+        "width": 2541,
+        "height": 3000,
+        "alt_text": "A work made of engraving on paper."
+    },
+    "main_reference_number": "1926.1577.6",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1630,
+    "date_end": 1630,
+    "date_display": "1630",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Peter Aubry\nGerman, 1596-1668",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "22.2 \u00d7 18.8 cm (8 3/4 \u00d7 7 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.8,
+            "width_in": 7.4016,
+            "height_cm": 22.2,
+            "height_in": 8.7402,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1927,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.2947,
+    "color": {
+        "h": 47,
+        "l": 63,
+        "s": 38,
+        "percentage": 0.006318663304660909,
+        "population": 53
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 1235,
+    "artist_title": "Peter Aubry",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1235
+    ],
+    "artist_titles": [
+        "Peter Aubry"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "290edee3-bf60-bb63-dc1b-3ca6f8ec658a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.1577.6"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Letter D"
+            ],
+            "weight": 139,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-04-10T10:32:45-05:00",
+    "timestamp": "2023-09-24T01:17:50-05:00"
+}

@@ -1,0 +1,182 @@
+{
+    "id": 16923,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16923",
+    "is_boosted": false,
+    "title": "L'Art Nouveau, Grafton Galleries",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEkmJ1c2Ll0yLls2LGpCMGpEOnZNOHRPPHZUQnhVQn5sXYVfRYpnTotuWoxtWQAAACH5BAAAAAAALAAAAAADAAUAAAQL0DV1FiosCUPACBEAOw==",
+        "width": 1380,
+        "height": 2291,
+        "alt_text": "A work made of color lthograph on cream wove paper, laid down on linen."
+    },
+    "main_reference_number": "1925.834",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1899,
+    "date_end": 1899,
+    "date_display": "1899",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Frank Brangwyn (English, 1867-1956)\nprinted by Charles Verneau (French, active 1890s)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "77.3 \u00d7 49.3 cm (30 7/16 \u00d7 19 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.3,
+            "width_in": 19.4095,
+            "height_cm": 77.3,
+            "height_in": 30.4331,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lthograph on cream wove paper, laid down on linen",
+    "inscriptions": null,
+    "credit_line": "Mrs. Victor F. Lawson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.8593,
+    "color": {
+        "h": 187,
+        "l": 52,
+        "s": 13,
+        "percentage": 0.0016098966276902218,
+        "population": 19
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33738,
+    "artist_title": "Frank Brangwyn",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33738
+    ],
+    "artist_titles": [
+        "Frank Brangwyn"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "lithography",
+        "paper (fiber product)",
+        "printing",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3859",
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3859",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "lithography",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "fa04c3bc-3f20-fcc5-eed7-367e85967e8f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1925.834"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "L'Art Nouveau, Grafton Galleries"
+            ],
+            "weight": 43,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:35:55-05:00",
+    "timestamp": "2023-09-24T00:27:16-05:00"
+}

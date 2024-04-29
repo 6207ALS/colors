@@ -1,0 +1,160 @@
+{
+    "id": 24369,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/24369",
+    "is_boosted": false,
+    "title": "Fan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAAAAAAICAgYGBgcHBwgICAsLCyYmJikpKTY2Njo6OkZGRlZWVl1dXWVlZWpqam1tbXR0dHh4eIODg42NjY6OjpCQkJKSkpWVlZiYmJmZmZubm5+fn6Wlpaqqqq2trbKysrm5ucPDw8TExNnZ2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAJAAUAAAYqQIAgAclMFIDAgEHBXDyhBkDCwWg2HdDogXBkLBRR6FMBAAiGyOJQAAQBADs=",
+        "width": 2031,
+        "height": 1181,
+        "alt_text": "A work made of carved ivory."
+    },
+    "main_reference_number": "1937.475",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century, Qing dynasty(1644\u20131911)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Carved ivory",
+    "inscriptions": null,
+    "credit_line": "Richard I. Stearns Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.05229137918512601,
+        "population": 216
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "qing",
+        "textile",
+        "fan - misc",
+        "european decorative arts",
+        "costume"
+    ],
+    "style_id": "TM-5086",
+    "style_title": "qing",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5086"
+    ],
+    "style_titles": [
+        "qing"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-2313",
+        "TM-1394",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-2313",
+        "TM-1394",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "fan - misc",
+        "european decorative arts",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "12c4a618-0c10-18f3-c6af-35eeec89e218",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1937.475"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fan"
+            ],
+            "weight": 20,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:53-05:00",
+    "updated_at": "2023-04-10T15:29:01-05:00",
+    "timestamp": "2023-09-24T00:31:03-05:00"
+}

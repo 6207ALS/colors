@@ -1,0 +1,41 @@
+{
+    "id": 41448,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41448",
+    "title": "Johann Carl Loth",
+    "sort_title": "Loth, Johann Carl",
+    "alt_titles": [
+        "Carlotto",
+        "Carlotto Bavarese",
+        "Johann Carl Loth, (Carlotto)",
+        "Johann Carl Lotto, (Carlotto)",
+        "Johann Carl Lotto, (Carlo Lotto)",
+        "Carolus Lott"
+    ],
+    "is_artist": true,
+    "birth_date": 1632,
+    "death_date": 1698,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Carl Loth",
+            "Loth, Johann Carl",
+            "Carlotto",
+            "Carlotto Bavarese",
+            "Johann Carl Loth, (Carlotto)",
+            "Johann Carl Lotto, (Carlotto)",
+            "Johann Carl Lotto, (Carlo Lotto)",
+            "Carolus Lott"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:05-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

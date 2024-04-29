@@ -1,0 +1,57 @@
+{
+    "id": 40500,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40500",
+    "title": "Antonio da Correggio",
+    "sort_title": "Correggio, Antonio da",
+    "alt_titles": [
+        "Correggio",
+        "Antonio Allegri, called Correggio",
+        "Il Correggio",
+        "Antonio Allegri Correggio",
+        "Antonio Allegri da Correggio",
+        "Antonio Allegri",
+        "Antonio Allegri"
+    ],
+    "is_artist": true,
+    "birth_date": 1489,
+    "death_date": 1534,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Antonio da Correggio",
+            "Correggio, Antonio da",
+            "Correggio",
+            "Antonio Allegri, called Correggio",
+            "Il Correggio",
+            "Antonio Allegri Correggio",
+            "Antonio Allegri da Correggio",
+            "Antonio Allegri",
+            "Antonio Allegri"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio da Correggio",
+            "Correggio, Antonio da",
+            "Correggio",
+            "Antonio Allegri, called Correggio",
+            "Il Correggio",
+            "Antonio Allegri Correggio",
+            "Antonio Allegri da Correggio",
+            "Antonio Allegri",
+            "Antonio Allegri"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-26T08:44:05-06:00",
+    "updated_at": "2022-03-15T16:40:46-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

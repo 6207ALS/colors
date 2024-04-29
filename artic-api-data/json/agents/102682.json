@@ -1,0 +1,31 @@
+{
+    "id": 102682,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/102682",
+    "title": "Catherine Faulkner",
+    "sort_title": "Faulkner, Catherine",
+    "alt_titles": [
+        "Kate Faulkner"
+    ],
+    "is_artist": true,
+    "birth_date": 1841,
+    "death_date": 1898,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Catherine Faulkner",
+            "Faulkner, Catherine",
+            "Kate Faulkner"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-12-10T11:05:22-06:00",
+    "updated_at": "2021-12-10T11:05:50-06:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 69901,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/69901",
+    "title": "Circle of Giovanni Battista Trotti",
+    "sort_title": "Trotti, Giovanni Battista, Circle of",
+    "alt_titles": [
+        "Circle of il Malosso"
+    ],
+    "is_artist": true,
+    "birth_date": 1555,
+    "death_date": 1619,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Giovanni Battista Trotti",
+            "Trotti, Giovanni Battista, Circle of",
+            "Circle of il Malosso"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:24:50-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

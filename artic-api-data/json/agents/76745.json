@@ -1,0 +1,35 @@
+{
+    "id": 76745,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/76745",
+    "title": "Claude Niquet",
+    "sort_title": "Niquet, Claude",
+    "alt_titles": [
+        "Claude Niquet, l'a\u00eene",
+        "Claude Niquet, the elder",
+        "Claude I Niquet"
+    ],
+    "is_artist": true,
+    "birth_date": 1770,
+    "death_date": 1831,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Claude Niquet",
+            "Niquet, Claude",
+            "Claude Niquet, l'a\u00eene",
+            "Claude Niquet, the elder",
+            "Claude I Niquet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:35-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

@@ -1,0 +1,159 @@
+{
+    "id": 240327,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/240327",
+    "is_boosted": false,
+    "title": "List of Works",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "2017.278a-s",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2015,
+    "date_end": 2015,
+    "date_display": "2015",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Aaron Flint Jamison\nAmerican, born 1979",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "29.8 \u00d7 26 \u00d7 2.2 cm (11 3/4 \u00d7 10 1/4 \u00d7 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2.2,
+            "depth_in": 0.875,
+            "width_cm": 26,
+            "width_in": 10.25,
+            "height_cm": 29.8,
+            "height_in": 11.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "18 sheets carbonless paper, clamshell magnet box; edition number 17 of 18, with two artist's proofs",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Eric Ceputis and David W. Williams",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 115481,
+    "artist_title": "Aaron Flint Jamison",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115481
+    ],
+    "artist_titles": [
+        "Aaron Flint Jamison"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "21st Century",
+        "print"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-17"
+    ],
+    "classification_titles": [
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.278a-s"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "List of Works"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-14T12:47:05-05:00",
+    "updated_at": "2023-04-07T14:24:24-05:00",
+    "timestamp": "2023-09-24T01:53:16-05:00"
+}

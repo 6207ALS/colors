@@ -1,0 +1,172 @@
+{
+    "id": 180752,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/180752",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAA4TEQ8UFykpJiooKCssLTYyMjk0NDw9PkRAPT4/QXNwant0cHl2cYeCfoyHg56Tj5qYlZ2dmqKal6uppgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGAgAKE0wsEsQxI5BTRJTwgAOw==",
+        "width": 1692,
+        "height": 2250,
+        "alt_text": "A work made of daguerreotype."
+    },
+    "main_reference_number": "2003.53",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2001,
+    "date_end": 2001,
+    "date_display": "2001",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Chuck Close\nAmerican, 1940-2021",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "20.5 \u00d7 15.5 cm (8 1/8 \u00d7 6 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.5,
+            "width_in": 6.1024,
+            "height_cm": 20.5,
+            "height_in": 8.0709,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Daguerreotype",
+    "inscriptions": null,
+    "credit_line": "The Mary and Leigh Block Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, \"New to View:  Recent Acquisitions in Photography, \" February 8-October 19, 2003. (Elizabeth Siegel) (Galleries 3 and 4)\n\nArt Institute of Chicago, \"From Darkroom to Digital: Photographic Variations,\" November 19, 2005- February 26, 2006. (Elizabeth Siegel)\n\nArt Institute of Chicago, \u201cIn the Vernacular,\u201d February 6\u2013May 31, 2010. (Greg Harris)",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 20,
+    "fiscal_year": 2003,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.8157,
+    "color": {
+        "h": 321,
+        "l": 34,
+        "s": 59,
+        "percentage": 0.00010581976988432842,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 30769,
+    "artist_title": "Chuck Close",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30769
+    ],
+    "artist_titles": [
+        "Chuck Close"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "daguerreotype",
+        "21st Century",
+        "photograph",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-417",
+    "classification_title": "daguerreotype",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-417",
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "daguerreotype",
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "14d34b5a-5372-f7d4-6643-9ab34d55a8ba",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2003.53"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 4786,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:19:31-05:00",
+    "timestamp": "2023-09-24T01:33:13-05:00"
+}

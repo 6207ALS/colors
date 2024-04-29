@@ -1,0 +1,168 @@
+{
+    "id": 63784,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/63784",
+    "is_boosted": false,
+    "title": "Dish",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAALiyrrm0sMbDv8nDvsnDv8nEv8jEwMrFwM3JxNPOydvY1N3Z1t3a1tza1+Dd2eHd2eDe2+Ti3+Tj4eXk4ubk4ubl4ubl4+fm4+jn5evn5eno5uvp5+vq5+3q5+3s6u7t6+/u7PLv7fPy8QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQAzow+F4PhZRhOF4KCCgzSExKCAEldCCAAgYGp9LJ0OZYDSSIAA7",
+        "width": 3000,
+        "height": 1772,
+        "alt_text": "A work made of colorless glass with spiral white glass canes."
+    },
+    "main_reference_number": "1948.502",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1550,
+    "date_end": 1600,
+    "date_display": "1575/1600",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Italian; Venice",
+    "place_of_origin": "Venice",
+    "description": null,
+    "dimensions": "3.8 \u00d7 24.8 cm (1 1/2 \u00d7 9 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.8,
+            "width_in": 9.75,
+            "height_cm": 3.8,
+            "height_in": 1.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Colorless glass with spiral white glass canes",
+    "inscriptions": null,
+    "credit_line": "Julius and Augusta N. Rosenwald Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.4003,
+    "color": {
+        "h": 58,
+        "l": 43,
+        "s": 2,
+        "percentage": 0.01167183562244232,
+        "population": 49
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 238",
+    "gallery_id": 28496,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "dish (vessel)",
+        "glass",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11783",
+    "classification_title": "dish (vessel)",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11783",
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "dish (vessel)",
+        "glass",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "761a53b3-33c9-dd27-2226-d28202a7c34a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1948.502"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dish"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-05T13:06:43-05:00",
+    "updated_at": "2023-07-05T13:11:32-05:00",
+    "timestamp": "2023-09-24T00:48:03-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 76077,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/76077",
+    "is_boosted": false,
+    "title": "Saint Sebastian",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJmUiqyll7qzpL+4q8G5qsG6q8K7q8S8q8S9rsfAscjBssnCssnCs8rCs83FtsvFuc3GuNbQwt/XyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURINE0koJET7IMAHMYAeQUQggAOw==",
+        "width": 2116,
+        "height": 2991,
+        "alt_text": "A work made of engraving, on paper."
+    },
+    "main_reference_number": "1951.371",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1506,
+    "date_end": 1507,
+    "date_display": "1506/07",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Master I.B. with the Bird\nItalian, active c. 1500-1525",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "20.4 \u00d7 14.4 cm (8 1/16 \u00d7 5 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14.4,
+            "width_in": 5.6693,
+            "height_cm": 20.4,
+            "height_in": 8.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Engraving, on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Potter Palmer, Jr.",
+    "catalogue_display": "<p>Bartsch 1</p><p>Galichon 2</p><p>Hind V.II.2 only state</p><p>Byam Shaw 2</p><p>Bartsch, illustrated 25.2507.002 only state</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1952,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.5272,
+    "color": {
+        "h": 37,
+        "l": 46,
+        "s": 26,
+        "percentage": 0.007270822190549326,
+        "population": 73
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 43487,
+    "artist_title": "Master I.B. with the Bird",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43487
+    ],
+    "artist_titles": [
+        "Master I.B. with the Bird"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ca4744b9-b20e-c014-0ef6-9f874919647d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1951.371"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Saint Sebastian"
+            ],
+            "weight": 141,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-14T14:19:06-05:00",
+    "updated_at": "2023-04-07T14:24:02-05:00",
+    "timestamp": "2023-09-24T00:53:04-05:00"
+}

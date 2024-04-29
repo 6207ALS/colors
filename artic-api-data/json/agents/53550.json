@@ -1,0 +1,31 @@
+{
+    "id": 53550,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/53550",
+    "title": "Theodoor Galle",
+    "sort_title": "Galle, Theodoor",
+    "alt_titles": [
+        "Theodor Galle"
+    ],
+    "is_artist": true,
+    "birth_date": 1571,
+    "death_date": 1633,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Theodoor Galle",
+            "Galle, Theodoor",
+            "Theodor Galle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:10-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

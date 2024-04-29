@@ -1,0 +1,31 @@
+{
+    "id": 11178,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/11178",
+    "title": "Benjamin Robert Haydon",
+    "sort_title": "Haydon, Benjamin Robert",
+    "alt_titles": [
+        "Benjamin R. Haydon"
+    ],
+    "is_artist": true,
+    "birth_date": 1786,
+    "death_date": 1846,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Benjamin Robert Haydon",
+            "Haydon, Benjamin Robert",
+            "Benjamin R. Haydon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2022-03-15T16:49:22-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

@@ -1,0 +1,48 @@
+{
+    "id": 17549,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/17549",
+    "title": "Piet Mondrian",
+    "sort_title": "Mondrian, Piet",
+    "alt_titles": [
+        "Pieter Cornelis Mondrian",
+        "Pieter Cornelis (Piet) Mondrian",
+        "Pieter Cornelis Mondriaan",
+        "\u76ae\u7279\u00b7\u8499\u5fb7\u91cc\u5b89"
+    ],
+    "is_artist": true,
+    "birth_date": 1872,
+    "death_date": 1944,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Piet Mondrian",
+            "Mondrian, Piet",
+            "Pieter Cornelis Mondrian",
+            "Pieter Cornelis (Piet) Mondrian",
+            "Pieter Cornelis Mondriaan",
+            "\u76ae\u7279\u00b7\u8499\u5fb7\u91cc\u5b89"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Piet Mondrian",
+            "Mondrian, Piet",
+            "Pieter Cornelis Mondrian",
+            "Pieter Cornelis (Piet) Mondrian",
+            "Pieter Cornelis Mondriaan",
+            "\u76ae\u7279\u00b7\u8499\u5fb7\u91cc\u5b89"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-14T14:52:03-05:00",
+    "updated_at": "2022-03-15T16:50:58-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

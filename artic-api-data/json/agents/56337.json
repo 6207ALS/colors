@@ -1,0 +1,31 @@
+{
+    "id": 56337,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/56337",
+    "title": "Santiago Calatrava",
+    "sort_title": "Calatrava, Santiago",
+    "alt_titles": [
+        "Santiago Calatrava Valls"
+    ],
+    "is_artist": true,
+    "birth_date": 1951,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Santiago Calatrava",
+            "Calatrava, Santiago",
+            "Santiago Calatrava Valls"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-03-09T12:33:00-06:00",
+    "updated_at": "2021-03-09T12:35:45-06:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

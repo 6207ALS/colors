@@ -1,0 +1,180 @@
+{
+    "id": 256252,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/256252",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAE1JTFhTVVlVVl9aWl9bW2lhX2NgYWtjYGhjYm5mYnJraHdva3xzbXhzcX93c314dYB4cYF4c4F5c4+Ee4iBfY2Ef5KHgZySiqSakgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIEY5ylUZDSFJwoNIC0AEjFUkyBQCADs=",
+        "width": 652,
+        "height": 709,
+        "alt_text": "A work made of collage of cut and pasted photocopied papers, with traces of incising, over white-out and graphite, on cream wove paper."
+    },
+    "main_reference_number": "2020.38",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1977,
+    "date_end": 1977,
+    "date_display": "1977",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jack Whitten\nAmerican, 1939-2018",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Sight: 60.3 \u00d7 55.8 cm (23 3/4 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.8,
+            "width_in": 21.9686,
+            "height_cm": 60.3,
+            "height_in": 23.7402,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sight"
+        }
+    ],
+    "medium_display": "Collage of cut and pasted photocopied papers, with traces of incising, over white-out and graphite, on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Margaret Fisher Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 6,
+        "l": 51,
+        "s": 2,
+        "percentage": 0.2107002864139417,
+        "population": 974
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 60337,
+    "artist_title": "Jack Whitten",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        60337
+    ],
+    "artist_titles": [
+        "Jack Whitten"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-142"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "African American artists"
+    ],
+    "term_titles": [
+        "wove paper",
+        "drawings (visual works)",
+        "collage",
+        "paper",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-391",
+        "TM-145",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-391",
+        "TM-145",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "collage",
+        "paper",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3074",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3074"
+    ],
+    "material_titles": [
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "African American artists"
+    ],
+    "image_id": "74dfa61c-18fd-05d9-4d5f-1fa8e348bb8c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.38"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-05T15:45:27-05:00",
+    "updated_at": "2023-04-07T11:34:40-05:00",
+    "timestamp": "2023-09-24T01:56:59-05:00"
+}

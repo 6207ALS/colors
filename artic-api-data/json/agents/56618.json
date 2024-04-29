@@ -1,0 +1,33 @@
+{
+    "id": 56618,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/56618",
+    "title": "Johann Riepenhausen",
+    "sort_title": "Riepenhausen, Johann",
+    "alt_titles": [
+        "Johannes Riepenhausen",
+        "Johann (Christian) Riepenhausen"
+    ],
+    "is_artist": true,
+    "birth_date": 1788,
+    "death_date": 1860,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Riepenhausen",
+            "Riepenhausen, Johann",
+            "Johannes Riepenhausen",
+            "Johann (Christian) Riepenhausen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:37-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

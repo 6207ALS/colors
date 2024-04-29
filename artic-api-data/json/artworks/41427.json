@@ -1,0 +1,183 @@
+{
+    "id": 41427,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/41427",
+    "is_boosted": false,
+    "title": "The North Porch, Harfleur",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAGlfRnFlSXJmSXhsToV1T45/WaaYdambd7+tgMe0iAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI8BggwigkoQgAOw==",
+        "width": 1429,
+        "height": 3000,
+        "alt_text": "A work made of etching, with touches of drypoint, on ivory laid paper."
+    },
+    "main_reference_number": "1927.1772",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1904,
+    "date_end": 1904,
+    "date_display": "1904",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "David Young Cameron\nScottish, 1865-1945",
+    "place_of_origin": "Scotland",
+    "description": null,
+    "dimensions": "Image/plate: 37.3 \u00d7 16.4 cm (14 11/16 \u00d7 6 1/2 in.); Sheet: 40 \u00d7 18.6 cm (15 3/4 \u00d7 7 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16.4,
+            "width_in": 6.4567,
+            "height_cm": 37.3,
+            "height_in": 14.6851,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.6,
+            "width_in": 7.3229,
+            "height_cm": 40,
+            "height_in": 15.7481,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching, with touches of drypoint, on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Estate of Robert Forsyth",
+    "catalogue_display": "<p>Rinder 360 IV/IV</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.3589,
+    "color": {
+        "h": 44,
+        "l": 48,
+        "s": 49,
+        "percentage": 0.001876537252615424,
+        "population": 28
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33847,
+    "artist_title": "David Young Cameron",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33847
+    ],
+    "artist_titles": [
+        "David Young Cameron"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "da86cc25-0873-1031-0196-58ab6c5634a8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.1772"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The North Porch, Harfleur"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:53-05:00",
+    "updated_at": "2023-04-10T13:41:44-05:00",
+    "timestamp": "2023-09-24T00:38:21-05:00"
+}

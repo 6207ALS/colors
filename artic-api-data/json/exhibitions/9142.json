@@ -1,0 +1,36 @@
+{
+    "id": 9142,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9142",
+    "title": "SAIC Group Exhibition",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Confirmed",
+    "aic_start_at": "2004-12-17T00:00:00-06:00",
+    "aic_end_at": "2005-01-15T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "SAIC Group Exhibition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:11:50-06:00",
+    "timestamp": "2023-09-24T02:02:28-05:00"
+}

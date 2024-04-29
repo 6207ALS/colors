@@ -1,0 +1,35 @@
+{
+    "id": 36292,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36292",
+    "title": "Pierre Puvis de Chavannes",
+    "sort_title": "Puvis de Chavannes, Pierre",
+    "alt_titles": [
+        "Pierre C\u00e9cile Puvis de Chavannes",
+        "Puvis de Chavannes",
+        "Pierre Puvis De Chavannes"
+    ],
+    "is_artist": true,
+    "birth_date": 1824,
+    "death_date": 1898,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre Puvis de Chavannes",
+            "Puvis de Chavannes, Pierre",
+            "Pierre C\u00e9cile Puvis de Chavannes",
+            "Puvis de Chavannes",
+            "Pierre Puvis De Chavannes"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:38-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

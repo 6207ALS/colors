@@ -1,0 +1,163 @@
+{
+    "id": 221810,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/221810",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMTPt9TZyN/o3Ofr3ebv3Ons2+np5evt6ezw4O3w6e7w6PDx6vP26vDy7fL17u728/f88Pf69Pr88vj59QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYLAYCpIcDtNMTzFEEgEIUAgAOw==",
+        "width": 900,
+        "height": 1053,
+        "alt_text": "A work made of acrylic and silkscreen ink on canvas."
+    },
+    "main_reference_number": "2013.1423",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1990,
+    "date_display": "1989/90",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Prince\nAmerican, born 1949",
+    "place_of_origin": "United States",
+    "description": "<p>A principal author of 1980s \u201cappropriation art,\u201d Richard Prince had worked early on in the tear-sheet department of Time Life, building a personal archive of advertising remnants. Then, in 1984, he began to draw wholesale copies of quintessential one-liner cartoons published in the New Yorker magazine\u2014soon separating the images from their captions and assigning them new ones. In his White Paintings series, Prince explored a still more complex jumbling of image and text, combining numerous disjointed jokes, lines borrowed from songs and ads, and graphic cartoon outtakes. On the one hand, Prince was turning the medium of painting, almost literally, into a joke. On the other hand, a work like <em>Untitled</em>\u2014which marks Prince\u2019s transition into the White Paintings\u2014is surprisingly haunting, rich with detail but also ghostly, as if about to dissolve.</p>\n",
+    "dimensions": "142.2 \u00d7 121.9 cm (56 \u00d7 48 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 121.9,
+            "width_in": 48,
+            "height_cm": 142.2,
+            "height_in": 56,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic and silkscreen ink on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Barbara Gladstone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.1973,
+    "color": {
+        "h": 183,
+        "l": 49,
+        "s": 9,
+        "percentage": 0.004812331117254854,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 43769,
+    "artist_title": "Richard Prince",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43769
+    ],
+    "artist_titles": [
+        "Richard Prince"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10368",
+    "classification_title": "acrylic paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10368",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "21b72cfc-bc23-8eb3-8ed9-66102a887245",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1423"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 120,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:29-05:00",
+    "updated_at": "2023-04-07T15:19:58-05:00",
+    "timestamp": "2023-09-24T01:46:28-05:00"
+}

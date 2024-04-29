@@ -1,0 +1,31 @@
+{
+    "id": 42530,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42530",
+    "title": "Louis Nicolas van Blarenberghe",
+    "sort_title": "Blarenberghe, Louis Nicolas van",
+    "alt_titles": [
+        "Louis N. van Blarenberghe"
+    ],
+    "is_artist": true,
+    "birth_date": 1716,
+    "death_date": 1794,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Nicolas van Blarenberghe",
+            "Blarenberghe, Louis Nicolas van",
+            "Louis N. van Blarenberghe"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:46-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

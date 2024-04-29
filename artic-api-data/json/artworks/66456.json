@@ -1,0 +1,172 @@
+{
+    "id": 66456,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/66456",
+    "is_boosted": false,
+    "title": "Girl on a Sofa",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAALJXLq5bNbFcOu9KAOlPCuVRAOdSAeVTBuJVB+dVBehXAu5UBuFSCuRZDuhZCOxaC+JUEOBWEOxjEoRhXq9kTLpuTMB1RMpwW1x2mmh4jWB4l2N7mGR9m3WJnQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIHQ4idEwhfJECDFI1rUIQDVRwYZ1mcaFADs=",
+        "width": 2822,
+        "height": 2250,
+        "alt_text": "A work made of color lithograph on white wove paper."
+    },
+    "main_reference_number": "1986.1505",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1968,
+    "date_end": 1968,
+    "date_display": "1968",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Howard Hodgkin\nEnglish, 1932-2017",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "51.2 \u00d7 64.3 cm (20 3/16 \u00d7 25 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64.3,
+            "width_in": 25.315,
+            "height_cm": 51.2,
+            "height_in": 20.1575,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Donn Shapiro",
+    "catalogue_display": "<p>Heenk, Liesbeth 9</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 122.7525,
+    "color": {
+        "h": 20,
+        "l": 45,
+        "s": 98,
+        "percentage": 1.046962379257753,
+        "population": 5931
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 11747,
+    "artist_title": "Howard Hodgkin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        11747
+    ],
+    "artist_titles": [
+        "Howard Hodgkin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ffce572f-1dc8-8210-dcd1-7a73e2973776",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1505"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Girl on a Sofa"
+            ],
+            "weight": 152,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:58-05:00",
+    "updated_at": "2023-04-10T12:50:18-05:00",
+    "timestamp": "2023-09-24T00:49:15-05:00"
+}

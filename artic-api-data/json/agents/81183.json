@@ -1,0 +1,28 @@
+{
+    "id": 81183,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/81183",
+    "title": "stanley brouwn",
+    "sort_title": "brouwn, stanley",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "stanley brouwn",
+            "brouwn, stanley"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-06T17:28:25-05:00",
+    "updated_at": "2022-03-15T17:00:48-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

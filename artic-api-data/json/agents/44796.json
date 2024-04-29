@@ -1,0 +1,28 @@
+{
+    "id": 44796,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44796",
+    "title": "Luis Arenal",
+    "sort_title": "Arenal, Luis",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1908,
+    "death_date": 1985,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Luis Arenal",
+            "Arenal, Luis"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-09-21T10:27:20-05:00",
+    "updated_at": "2022-03-15T16:56:36-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

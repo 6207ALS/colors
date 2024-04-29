@@ -1,0 +1,182 @@
+{
+    "id": 62738,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62738",
+    "is_boosted": false,
+    "title": "Delphos (Dress)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAAoHBRYVEx4dFjExLHl5Y3iCdomIcpWXhZOXiYqWlpSekLe/vtXi49zn59fq7gAAACH5BAAAAAAALAAAAAADAAUAAAQLUBVHxDKjncAQSBEAOw==",
+        "width": 492,
+        "height": 768,
+        "alt_text": "A work made of silk, warp-float faced satin weave, pleated; with silk braid and glass beads."
+    },
+    "main_reference_number": "1981.410",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1901,
+    "date_end": 1925,
+    "date_display": "1901/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Mariano Fortuny y Madrazo (Italian, born Spain, 1871\u20131949)\nItaly, Venice",
+    "place_of_origin": "Venice",
+    "description": null,
+    "dimensions": "139.8 \u00d7 157 cm (55 \u00d7 61 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 157,
+            "width_in": 61.75,
+            "height_cm": 139.8,
+            "height_in": 55,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, warp-float faced satin weave, pleated; with silk braid and glass beads",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Rosecrans Baldwin in memory of Helen Poole Baldwin (Mrs. A. Rosecrans Baldwin)",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.9023,
+    "color": {
+        "h": 65,
+        "l": 52,
+        "s": 12,
+        "percentage": 0.06120491658463946,
+        "population": 679
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 51708,
+    "artist_title": "Mariano Fortuny y Madrazo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51708
+    ],
+    "artist_titles": [
+        "Mariano Fortuny y Madrazo"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "silk (textile)",
+        "pleating",
+        "Modernism",
+        "textile",
+        "weaving",
+        "costume"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-4245",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4245"
+    ],
+    "technique_titles": [
+        "pleating"
+    ],
+    "theme_titles": [],
+    "image_id": "a9d4c0e9-b546-167d-8314-42bcb6c44f18",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.410"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Delphos (Dress)"
+            ],
+            "weight": 417,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:58:03-05:00",
+    "timestamp": "2023-09-24T00:47:32-05:00"
+}

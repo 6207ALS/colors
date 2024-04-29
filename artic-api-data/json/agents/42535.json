@@ -1,0 +1,47 @@
+{
+    "id": 42535,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42535",
+    "title": "Marco Marchetti",
+    "sort_title": "Marchetti, Marco",
+    "alt_titles": [
+        "Marco da Faenza",
+        "Marco Antonio Rocchetti",
+        "Marc' Antonio Rocchetti",
+        "Marco Antonio da Faenza",
+        "dall'Archetto",
+        "Marco Marchetti, (Marco da Faenza)",
+        "Marco da Faenza",
+        "Marco da Faenza",
+        "Marco Da Faenza Marchetti"
+    ],
+    "is_artist": true,
+    "birth_date": 1521,
+    "death_date": 1588,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Marco Marchetti",
+            "Marchetti, Marco",
+            "Marco da Faenza",
+            "Marco Antonio Rocchetti",
+            "Marc' Antonio Rocchetti",
+            "Marco Antonio da Faenza",
+            "dall'Archetto",
+            "Marco Marchetti, (Marco da Faenza)",
+            "Marco da Faenza",
+            "Marco da Faenza",
+            "Marco Da Faenza Marchetti"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:47-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

@@ -1,0 +1,51 @@
+{
+    "id": 3246,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3246",
+    "title": "Architectural Exhibition by Frank Lloyd Wright",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1930-09-25T00:00:00-05:00",
+    "aic_end_at": "1930-10-12T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "7a33c160-6352-62f6-027b-a7204ba06369",
+    "alt_image_ids": [
+        "89c828b3-b351-e7dd-0657-3dc15fbb0019",
+        "0452ee32-c08e-e564-f52b-5d23448be17c",
+        "77399bcd-ed1d-5c88-81b5-050d171998b0",
+        "9d0a13ab-4794-1893-f049-6bb869dc9655",
+        "023d06ba-867b-f360-a0b0-af4ed90aca95",
+        "891e6a87-543b-d9a7-cfb7-2543614674c5",
+        "381cf0b4-7730-de9c-fb52-79d6fda4b692",
+        "638773fd-8923-c553-b932-d3c2ca588900",
+        "bc1d9ee6-777a-0661-b477-c0088641ec25",
+        "622f2c51-2372-41dd-bd24-c7668ae34ef3",
+        "c0ac5488-3bbb-4d56-ac5a-823193e9ee74",
+        "c1199c24-34fb-157a-b7dc-817eebbb8fea",
+        "3d703e55-19df-b4ad-c4cc-a442e1c1f9a7",
+        "d5727991-aee6-4099-5ddf-ce9ad4ba531c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Architectural Exhibition by Frank Lloyd Wright"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-11T19:00:25-06:00",
+    "updated_at": "2020-12-15T10:10:28-06:00",
+    "timestamp": "2023-09-24T02:01:08-05:00"
+}

@@ -1,0 +1,186 @@
+{
+    "id": 120160,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120160",
+    "is_boosted": false,
+    "title": "Stool",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHl0bHt4cX55coaCe4+Mip6al6iioK2op66uqrCvq7Cur7Syr7W0s7e2s7i3t7y6t7u6uru7u8DBwMPBwMXFxMTExcrLyszNy8/R0tPT09XV1NXW1dXX1gAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoNQgSRNBQyAAjFMYB6FYDzUtFadt2YWFADs=",
+        "width": 2675,
+        "height": 2250,
+        "alt_text": "A work made of walnut and chestnut."
+    },
+    "main_reference_number": "1991.107",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1817,
+    "date_end": 1837,
+    "date_display": "1817\u201337",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 19th century)\nZoar, Ohio",
+    "place_of_origin": "Zoar",
+    "description": null,
+    "dimensions": "40.6 \u00d7 61 \u00d7 33 cm (16 \u00d7 24 \u00d7 13 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 33,
+            "depth_in": 13,
+            "width_cm": 61,
+            "width_in": 24,
+            "height_cm": 40.6,
+            "height_in": 16,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Walnut and chestnut",
+    "inscriptions": null,
+    "credit_line": "Robert R. McCormick Charitable Trust Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.8467,
+    "color": {
+        "h": 46,
+        "l": 38,
+        "s": 7,
+        "percentage": 0.11778740377488552,
+        "population": 704
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "seating",
+        "walnut",
+        "furniture",
+        "chestnut",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3609",
+    "alt_material_ids": [
+        "TM-3558"
+    ],
+    "material_ids": [
+        "TM-3609",
+        "TM-3558"
+    ],
+    "material_titles": [
+        "walnut",
+        "chestnut"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "505831c3-a08b-680c-0954-d1de91a0dd10",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.107"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Stool"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:16:42-05:00",
+    "timestamp": "2023-09-24T01:13:31-05:00"
+}

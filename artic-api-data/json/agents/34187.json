@@ -1,0 +1,37 @@
+{
+    "id": 34187,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34187",
+    "title": "Paul de Lamerie",
+    "sort_title": "Lamerie, Paul de",
+    "alt_titles": [
+        "Paul De Lamerie",
+        "Paul Jacques de Lamerie",
+        "Paul Delamerie",
+        "Paul Jaques Souchay de La Merie"
+    ],
+    "is_artist": true,
+    "birth_date": 1688,
+    "death_date": 1751,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul de Lamerie",
+            "Lamerie, Paul de",
+            "Paul De Lamerie",
+            "Paul Jacques de Lamerie",
+            "Paul Delamerie",
+            "Paul Jaques Souchay de La Merie"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-12-14T10:01:10-06:00",
+    "updated_at": "2022-12-14T10:05:57-06:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

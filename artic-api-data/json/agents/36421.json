@@ -1,0 +1,28 @@
+{
+    "id": 36421,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36421",
+    "title": "Randolph Rogers",
+    "sort_title": "Rogers, Randolph",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1825,
+    "death_date": 1892,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Randolph Rogers",
+            "Rogers, Randolph"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:02-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

@@ -1,0 +1,182 @@
+{
+    "id": 213102,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/213102",
+    "is_boosted": false,
+    "title": "The Skier",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAEGEAAIEgQNFgUPFwkRGQsUGxcXGSoiGDstHC8mITUxLz48PUI4L0Q4LVE+LG9TO3RZPHtgPlRRVHxrWIZuXKJ+YJyAZauQe6SSiqyZj8+1oO7Rwe7SxvTj3QAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIHJtkKUdGRdNnUNVD4MZipQ0SzEAgUCEADs=",
+        "width": 2848,
+        "height": 2250,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "2012.369",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1987,
+    "date_end": 1987,
+    "date_display": "1987",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Tina Barney\nAmerican, born 1945",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/paper, sight: 76.9 \u00d7 97.5 cm (30 5/16 \u00d7 38 7/16 in.); Frame: 80 \u00d7 100.2 \u00d7 4.3 cm (31 1/2 \u00d7 39 1/2 \u00d7 1 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 97.5,
+            "width_in": 38.3859,
+            "height_cm": 76.9,
+            "height_in": 30.2756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/paper, sight"
+        },
+        {
+            "depth_cm": 4.3,
+            "depth_in": 1.693,
+            "width_cm": 100.2,
+            "width_in": 39.4489,
+            "height_cm": 80,
+            "height_in": 31.4961,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Frame"
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert A. Taub",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.8291,
+    "color": {
+        "h": 37,
+        "l": 53,
+        "s": 84,
+        "percentage": 0.0017811405711761583,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 49197,
+    "artist_title": "Tina Barney",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        49197
+    ],
+    "artist_titles": [
+        "Tina Barney"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Women artists"
+    ],
+    "term_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "8c3f9ed7-2a5b-6f5d-31cb-9cc89bc74141",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.369"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Skier"
+            ],
+            "weight": 199,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-19T11:26:59-06:00",
+    "updated_at": "2023-04-07T12:42:44-05:00",
+    "timestamp": "2023-09-24T01:43:51-05:00"
+}

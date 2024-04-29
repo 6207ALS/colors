@@ -1,0 +1,33 @@
+{
+    "id": 33738,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33738",
+    "title": "Frank Brangwyn",
+    "sort_title": "Brangwyn, Frank",
+    "alt_titles": [
+        "Frank William Brangwyn",
+        "Sir Frank Brangwyn"
+    ],
+    "is_artist": true,
+    "birth_date": 1867,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frank Brangwyn",
+            "Brangwyn, Frank",
+            "Frank William Brangwyn",
+            "Sir Frank Brangwyn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:55:41-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

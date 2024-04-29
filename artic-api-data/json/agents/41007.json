@@ -1,0 +1,31 @@
+{
+    "id": 41007,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41007",
+    "title": "Caleb Robert Stanley",
+    "sort_title": "Stanley, Caleb Robert",
+    "alt_titles": [
+        "Colet Robert Stanley"
+    ],
+    "is_artist": true,
+    "birth_date": 1790,
+    "death_date": 1868,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Caleb Robert Stanley",
+            "Stanley, Caleb Robert",
+            "Colet Robert Stanley"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:36-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

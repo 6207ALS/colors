@@ -1,0 +1,63 @@
+{
+    "id": 40669,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40669",
+    "title": "Leonardo da Vinci",
+    "sort_title": "Vinci, Leonardo da",
+    "alt_titles": [
+        "Leonardo da Vinci",
+        "Leonardo, da Vinci",
+        "Leonardo Da Vinci",
+        "Lionardo, da Vinci",
+        "Liyunardu Davinshi",
+        "Leonardo da Vinchi",
+        "L\u00e9onard, de Vinci",
+        "Lieh-ao-na-to Ta Fen-ch`i",
+        "\u5217\u5965\u7eb3\u591a\u00b7\u8fbe\u00b7\u82ac\u5947"
+    ],
+    "is_artist": true,
+    "birth_date": 1452,
+    "death_date": 1519,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Leonardo da Vinci",
+            "Vinci, Leonardo da",
+            "Leonardo da Vinci",
+            "Leonardo, da Vinci",
+            "Leonardo Da Vinci",
+            "Lionardo, da Vinci",
+            "Liyunardu Davinshi",
+            "Leonardo da Vinchi",
+            "L\u00e9onard, de Vinci",
+            "Lieh-ao-na-to Ta Fen-ch`i",
+            "\u5217\u5965\u7eb3\u591a\u00b7\u8fbe\u00b7\u82ac\u5947"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Leonardo da Vinci",
+            "Vinci, Leonardo da",
+            "Leonardo da Vinci",
+            "Leonardo, da Vinci",
+            "Leonardo Da Vinci",
+            "Lionardo, da Vinci",
+            "Liyunardu Davinshi",
+            "Leonardo da Vinchi",
+            "L\u00e9onard, de Vinci",
+            "Lieh-ao-na-to Ta Fen-ch`i",
+            "\u5217\u5965\u7eb3\u591a\u00b7\u8fbe\u00b7\u82ac\u5947"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-14T14:47:14-05:00",
+    "updated_at": "2022-03-15T16:41:44-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

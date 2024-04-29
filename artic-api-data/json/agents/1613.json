@@ -1,0 +1,31 @@
+{
+    "id": 1613,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1613",
+    "title": "George N. Barnard",
+    "sort_title": "Barnard, George N.",
+    "alt_titles": [
+        "G. N. (George N.) Barnard"
+    ],
+    "is_artist": true,
+    "birth_date": 1819,
+    "death_date": 1902,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George N. Barnard",
+            "Barnard, George N.",
+            "G. N. (George N.) Barnard"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:44-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 51569,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51569",
+    "title": "James Lee Byars",
+    "sort_title": "Byars, James Lee",
+    "alt_titles": [
+        "James L. Byars"
+    ],
+    "is_artist": true,
+    "birth_date": 1932,
+    "death_date": 1997,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Lee Byars",
+            "Byars, James Lee",
+            "James L. Byars"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:53-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

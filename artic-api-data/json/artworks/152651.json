@@ -1,0 +1,180 @@
+{
+    "id": 152651,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/152651",
+    "is_boosted": false,
+    "title": "DNA #7",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACIgHCUjHiglHyUkISkmICknICgnIyspJC0rJS8tJzEuJTAsJjIvJjIvJzMvJzg1Kjo2LDs4LkE7KwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4IEAS5I0hPREjlIw0GAEQggAOw==",
+        "width": 1657,
+        "height": 2250,
+        "alt_text": "A work made of photo-paper mounted on steel."
+    },
+    "main_reference_number": "1998.841",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1992,
+    "date_end": 1992,
+    "date_display": "1992",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Susan Rankaitis\nAmerican, born 1949",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "99.1 \u00d7 73.7 cm (39 \u00d7 29 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73.7,
+            "width_in": 29,
+            "height_cm": 99.1,
+            "height_in": 39,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Photo-paper mounted on steel",
+    "inscriptions": null,
+    "credit_line": "Gift of Madeleine and Harvey Plonsker",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.9498,
+    "color": {
+        "h": 41,
+        "l": 43,
+        "s": 26,
+        "percentage": 0.00020720342714468495,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 55626,
+    "artist_title": "Susan Rankaitis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        55626
+    ],
+    "artist_titles": [
+        "Susan Rankaitis"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-12"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "paper (fiber product)",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-213",
+    "classification_title": "gelatin silver (developing-out-paper) pr",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-213",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "0ab21999-ee69-40f0-3872-f7fddd2ea558",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1998.841"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "DNA #7"
+            ],
+            "weight": 43,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-08T10:55:33-05:00",
+    "timestamp": "2023-09-24T01:28:36-05:00"
+}

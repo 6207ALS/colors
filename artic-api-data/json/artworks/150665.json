@@ -1,0 +1,170 @@
+{
+    "id": 150665,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/150665",
+    "is_boosted": false,
+    "title": "Two Slinkies (Study Pieces)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJ57fZiAf6N7gISEhIWGhJyCgZaSkpeVlJqTlJyUlZmXmJeamZiamZuYmp+bnAAAACH5BAAAAAAALAAAAAADAAUAAAQLULlm2BqhECBOQhEAOw==",
+        "width": 3572,
+        "height": 5809,
+        "alt_text": "A work made of metal coils (\"slinkys\"), padded with jute; wrapped with acrylic."
+    },
+    "main_reference_number": "1992.467",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1971,
+    "date_end": 1978,
+    "date_display": "1971/1978",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Claire Zeisler (American, 1903\u20131991)\nChicago, United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "157.5 \u00d7 11.4 cm (62 \u00d7 4 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11.4,
+            "width_in": 4.5,
+            "height_cm": 157.5,
+            "height_in": 62,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Metal coils (\"slinkys\"), padded with jute; wrapped with acrylic",
+    "inscriptions": null,
+    "credit_line": "Gift of Joan Binkley in memory of Claire Zeisler",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.2775,
+    "color": {
+        "h": 356,
+        "l": 53,
+        "s": 78,
+        "percentage": 0.020679158955243897,
+        "population": 239
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 37413,
+    "artist_title": "Claire Zeisler",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37413
+    ],
+    "artist_titles": [
+        "Claire Zeisler"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists",
+        "Chicago Artists"
+    ],
+    "image_id": "6b641164-fdf8-d01c-0992-a7c9e5a29041",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.467"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Two Slinkies (Study Pieces)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-17T09:39:23-06:00",
+    "updated_at": "2023-04-07T12:25:22-05:00",
+    "timestamp": "2023-09-24T01:27:44-05:00"
+}

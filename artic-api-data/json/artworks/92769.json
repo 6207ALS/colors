@@ -1,0 +1,168 @@
+{
+    "id": 92769,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/92769",
+    "is_boosted": false,
+    "title": "Wine Can",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALaxrLy3ssjIx9ra29zc2uDf3uHi4+bl5ubn5ujp6+np6+rq6+zr6vHx8vHx8wAAACH5BAAAAAAALAAAAAADAAUAAAQL0KnVBGKhHEDSMBEAOw==",
+        "width": 1542,
+        "height": 2250,
+        "alt_text": "A work made of pewter."
+    },
+    "main_reference_number": "1938.839",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1756,
+    "date_end": 1756,
+    "date_display": "1756",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Germany",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "31.8 \u00d7 15.2 \u00d7 8.9 cm (12 1/2 \u00d7 6 \u00d7 3 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 8.9,
+            "depth_in": 3.5,
+            "width_cm": 15.2,
+            "width_in": 6,
+            "height_cm": 31.8,
+            "height_in": 12.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pewter",
+    "inscriptions": null,
+    "credit_line": "The William Owen Goodman and Erna Sawyer Goodman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.5642,
+    "color": {
+        "h": 212,
+        "l": 54,
+        "s": 6,
+        "percentage": 0.0004822112278062282,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "pewter",
+        "pewter",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-41",
+    "classification_title": "pewter",
+    "alt_classification_ids": [
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-41",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "pewter",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2513",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2513"
+    ],
+    "material_titles": [
+        "pewter"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "33d54101-7a5c-fcaf-9005-6b7a0b3723e2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.839"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Wine Can"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:43:17-05:00",
+    "timestamp": "2023-09-24T01:00:57-05:00"
+}

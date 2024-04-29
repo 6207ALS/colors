@@ -1,0 +1,45 @@
+{
+    "id": 40603,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40603",
+    "title": "Giovanni da Udine",
+    "sort_title": "Udine, Giovanni da",
+    "alt_titles": [
+        "Giovanni da Udine Nanni",
+        "Giovanni Nanni",
+        "Giovanni da Udine, (Giovanni di Francesco Ricamodor)",
+        "Giovanni Da Udine",
+        "Giovanni da Udine, (Nanni)",
+        "Giovanni da Udine, (Recamatori)",
+        "Giovanni da Udine Ricamatore",
+        "Giovanni di Nanis"
+    ],
+    "is_artist": true,
+    "birth_date": 1487,
+    "death_date": 1564,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni da Udine",
+            "Udine, Giovanni da",
+            "Giovanni da Udine Nanni",
+            "Giovanni Nanni",
+            "Giovanni da Udine, (Giovanni di Francesco Ricamodor)",
+            "Giovanni Da Udine",
+            "Giovanni da Udine, (Nanni)",
+            "Giovanni da Udine, (Recamatori)",
+            "Giovanni da Udine Ricamatore",
+            "Giovanni di Nanis"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-24T11:32:31-05:00",
+    "updated_at": "2022-03-15T16:41:29-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

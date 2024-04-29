@@ -1,0 +1,174 @@
+{
+    "id": 61893,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/61893",
+    "is_boosted": false,
+    "title": "Scarf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKsPE5kdIZElKpkkKLA+P7dESL9raLWslre1t8aNhc6+vMrBqMzDq83BrMXBvuDVueDavsHBwM3LyNPOzdTQztDT1OLm3eXm3O7w7AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoBAMSkQABSZRRmI51QU9DDI1yxECADs=",
+        "width": 1094,
+        "height": 1092,
+        "alt_text": "A work made of silk, twill weave; screen printed."
+    },
+    "main_reference_number": "1981.119",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1972,
+    "date_end": 1972,
+    "date_display": "1972",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Pablo Palazuelo (Spanish, 1915-2007)\nFrance, Lyon, Maison Abraham\nPrinted for Galerie Adrien Maeght\nFrance, Paris",
+    "place_of_origin": "Lyon",
+    "description": null,
+    "dimensions": "87.8 \u00d7 89.7 cm (35 \u00d7 35 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 89.7,
+            "width_in": 35.25,
+            "height_cm": 87.8,
+            "height_in": 35,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, twill weave; screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Leigh B. Block in memory of Mary Lasker Block",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 75.3531,
+    "color": {
+        "h": 358,
+        "l": 39,
+        "s": 68,
+        "percentage": 0.31553127596221525,
+        "population": 2237
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 19890,
+    "artist_title": "Pablo Palazuelo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        19890
+    ],
+    "artist_titles": [
+        "Pablo Palazuelo"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed",
+        "silk (fiber)",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "61e862ab-fe92-88fb-d80a-12d83c8d59fd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.119"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Scarf"
+            ],
+            "weight": 96,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:59:21-05:00",
+    "timestamp": "2023-09-24T00:47:07-05:00"
+}

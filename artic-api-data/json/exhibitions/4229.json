@@ -1,0 +1,42 @@
+{
+    "id": 4229,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4229",
+    "title": "Le Corbusier",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1963-05-17T00:00:00-05:00",
+    "aic_end_at": "1963-06-23T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "f6d523e3-906c-6bc4-fa5c-a4eaffa916f5",
+    "alt_image_ids": [
+        "c62c76b9-d905-4c00-5a72-1c3ba796ac41",
+        "7d945be5-b8dd-8648-a58f-ac7286e1a605",
+        "de96c245-5786-cb66-7855-67632682099d",
+        "ba2008c9-678c-c5f7-9bd5-bca3b5e620af",
+        "8a2c832d-b650-ee9f-3e0f-bbef5339f0ea"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Le Corbusier"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:22-06:00",
+    "timestamp": "2023-09-24T02:01:21-05:00"
+}

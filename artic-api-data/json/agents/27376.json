@@ -1,0 +1,33 @@
+{
+    "id": 27376,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27376",
+    "title": "Cornelis Martinus Vermeulen",
+    "sort_title": "Vermeulen, Cornelis Martinus",
+    "alt_titles": [
+        "Cornelis van der Meulen",
+        "Cornelis Vermeulen"
+    ],
+    "is_artist": true,
+    "birth_date": 1644,
+    "death_date": 1702,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cornelis Martinus Vermeulen",
+            "Vermeulen, Cornelis Martinus",
+            "Cornelis van der Meulen",
+            "Cornelis Vermeulen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:16-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

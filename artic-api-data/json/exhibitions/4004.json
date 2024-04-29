@@ -1,0 +1,38 @@
+{
+    "id": 4004,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4004",
+    "title": "Picasso: 75th Anniversary Exhibition",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1957-10-29T00:00:00-06:00",
+    "aic_end_at": "1957-12-08T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "3e20e1e1-74ac-6acb-be72-b0e2960a061d"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Picasso: 75th Anniversary Exhibition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:41-06:00",
+    "timestamp": "2023-09-24T02:01:18-05:00"
+}

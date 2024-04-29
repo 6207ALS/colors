@@ -1,0 +1,31 @@
+{
+    "id": 41558,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41558",
+    "title": "William Henry Stothard Scott of Brighton",
+    "sort_title": "Scott, William Henry Stothard, of Brighton",
+    "alt_titles": [
+        "William Henry Stothard Scott"
+    ],
+    "is_artist": true,
+    "birth_date": 1783,
+    "death_date": 1850,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Henry Stothard Scott of Brighton",
+            "Scott, William Henry Stothard, of Brighton",
+            "William Henry Stothard Scott"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:33:57-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

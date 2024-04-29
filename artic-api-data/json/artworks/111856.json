@@ -1,0 +1,172 @@
+{
+    "id": 111856,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111856",
+    "is_boosted": false,
+    "title": "Drawing #162",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADI4L1dcUmpuXG90YGdxaIKHfIyNeoeLgIGMgaOmlqSnma6xpLW5qL/Csr7Cs8PGt9LTv9XWxdjZydvczAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDQ9TpQQCCQAA1MERqMcSwgAOw==",
+        "width": 2206,
+        "height": 2772,
+        "alt_text": "A work made of mixed media on ivory wove paper."
+    },
+    "main_reference_number": "1990.454",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1986,
+    "date_end": 1986,
+    "date_display": "1986",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Edward Henderson\nAmerican, born 1951",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "26.9 \u00d7 21.5 cm (10 5/8 \u00d7 8 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21.5,
+            "width_in": 8.4646,
+            "height_cm": 26.9,
+            "height_in": 10.5906,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Mixed media on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Kaye and Howard Haas",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.4372,
+    "color": {
+        "h": 71,
+        "l": 50,
+        "s": 7,
+        "percentage": 0.05320715955538977,
+        "population": 475
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 39493,
+    "artist_title": "Edward Henderson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        39493
+    ],
+    "artist_titles": [
+        "Edward Henderson"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dff39668-5af4-0720-5b7b-762f09f4dfca",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.454"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Drawing #162"
+            ],
+            "weight": 242,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:13:32-05:00",
+    "timestamp": "2023-09-24T01:10:02-05:00"
+}

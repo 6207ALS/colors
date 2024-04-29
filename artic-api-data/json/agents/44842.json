@@ -1,0 +1,28 @@
+{
+    "id": 44842,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44842",
+    "title": "Chicago Painter",
+    "sort_title": "Chicago Painter",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": "<p>While the identities of most artists from ancient Greece are unknown, many painters can be recognized by their distinctive artistic styles. Scholars often name these artists after the museums or institutions that own their works, or the place where their work was first identified.&nbsp;</p><p>This identification system was developed in the early 20th century by Sir John Beazley (1885\u20131970), a British art historian, classical archaeologist, and international authority on Greek art. Using his exceptional talent and sharp eye to focus on small stylistic details that distinguished the hand of one painter from that of another, Beazley was able to identify&nbsp; \u201csignatures\u201d or particular motifs used by specific artists. An artist might be recognized by something as subtle as the composition of eyes, noses, or hands. <br><br>The Chicago Painter was one such ancient Greek painter identified by Beazley, who first attributed Greek vases to the artist in his 1918 publication <em>Attic Red-Figured Vases in American Museums.</em> The painter was originally called the \"Painter of the Chicago Stamnos,\u201d which was shortened to the \"Chicago Painter.\" The name comes from a large stamnos (mixing jar) that was acquired by the Art Institute of Chicago in 1889 and was the first and finest example of this artist's work to be identified. While we do not know much about the artist, he was likely male and a capable draftsman, active in Athens in the middle of the 5th century BC. He was a follower or student of the Villa Giulia Painter (a painter named after a distinct vessel in the Villa Giulia Museum in Rome) and had a preference for depicting graceful and tender scenes where figures are focused on their individual tasks. The stamnos at the Art Institute, along with others that he decorated, depicts scenes related to the cult of the wine god Dionysos, highlighting his uncluttered, elegant signature style.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Painter",
+            "Chicago Painter"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:23:06-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

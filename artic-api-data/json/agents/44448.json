@@ -1,0 +1,28 @@
+{
+    "id": 44448,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44448",
+    "title": "Myron Kozman",
+    "sort_title": "Kozman, Myron",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1916,
+    "death_date": 2002,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Myron Kozman",
+            "Kozman, Myron"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-11-08T13:53:31-06:00",
+    "updated_at": "2022-11-08T13:55:56-06:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

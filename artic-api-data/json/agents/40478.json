@@ -1,0 +1,31 @@
+{
+    "id": 40478,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40478",
+    "title": "Antonio del Castillo y Saavedra",
+    "sort_title": "Castillo y Saavedra, Antonio del",
+    "alt_titles": [
+        "Antonio del Castillo y Saavedra"
+    ],
+    "is_artist": true,
+    "birth_date": 1603,
+    "death_date": 1667,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio del Castillo y Saavedra",
+            "Castillo y Saavedra, Antonio del",
+            "Antonio del Castillo y Saavedra"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:39-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

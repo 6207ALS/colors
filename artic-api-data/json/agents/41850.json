@@ -1,0 +1,37 @@
+{
+    "id": 41850,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41850",
+    "title": "S\u00e9bastien Le Clerc, the elder",
+    "sort_title": "Le Clerc, S\u00e9bastien, the elder",
+    "alt_titles": [
+        "S\u00e9bastien Le Clerc, I",
+        "S\u00e9bastien Leclerc, I",
+        "S\u00e9bastien Le Clerc",
+        "Seb. (S\u00e9bastian) Le Clerc"
+    ],
+    "is_artist": true,
+    "birth_date": 1637,
+    "death_date": 1714,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "S\u00e9bastien Le Clerc, the elder",
+            "Le Clerc, S\u00e9bastien, the elder",
+            "S\u00e9bastien Le Clerc, I",
+            "S\u00e9bastien Leclerc, I",
+            "S\u00e9bastien Le Clerc",
+            "Seb. (S\u00e9bastian) Le Clerc"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:31:26-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 30716,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30716",
+    "title": "J. Wells Champney",
+    "sort_title": "Champney, J. Wells",
+    "alt_titles": [
+        "James Wells Champney",
+        "James Wills Champney"
+    ],
+    "is_artist": true,
+    "birth_date": 1843,
+    "death_date": 1903,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "J. Wells Champney",
+            "Champney, J. Wells",
+            "James Wells Champney",
+            "James Wills Champney"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:21:51-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

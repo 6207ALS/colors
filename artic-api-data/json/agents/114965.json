@@ -1,0 +1,31 @@
+{
+    "id": 114965,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/114965",
+    "title": "Hirokawa Kozen",
+    "sort_title": "Kozen, Hirokawa",
+    "alt_titles": [
+        "\u5f18\u7985 \u5e83\u5ddd"
+    ],
+    "is_artist": true,
+    "birth_date": 1902,
+    "death_date": 1967,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hirokawa Kozen",
+            "Kozen, Hirokawa",
+            "\u5f18\u7985 \u5e83\u5ddd"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:16:29-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 47063,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47063",
+    "title": "Style of Carlo Dolci",
+    "sort_title": "Dolci, Carlo, Style of",
+    "alt_titles": [
+        "Style of Carlino Dolci"
+    ],
+    "is_artist": true,
+    "birth_date": 1616,
+    "death_date": 1686,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Style of Carlo Dolci",
+            "Dolci, Carlo, Style of",
+            "Style of Carlino Dolci"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:48-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

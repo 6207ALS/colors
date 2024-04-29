@@ -1,0 +1,189 @@
+{
+    "id": 251783,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/251783",
+    "is_boosted": false,
+    "title": "Zero Zero One",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAP+FEP2GFv+JF/6JG/yIHf6JHP+MIfmJJPmKJvuKJvyLJfeKKfWMMvWaSfWdTd2peN6qe92sgduuhQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoEQoTFQYCdQ4BwQIyBMMSwgAOw==",
+        "width": 4471,
+        "height": 5697,
+        "alt_text": "A work made of book."
+    },
+    "main_reference_number": "2020.166",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1998,
+    "date_end": 1998,
+    "date_display": "1998",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Esen Karol (Turkish, born 1967)\nCommissioned by 124/3",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "17 \u00d7 13 cm (6 11/16 \u00d7 5 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13,
+            "width_in": 5.125,
+            "height_cm": 17,
+            "height_in": 6.6875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book",
+    "inscriptions": null,
+    "credit_line": "Gift of Prem Krishnamurthy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 126.4328,
+    "color": {
+        "h": 31,
+        "l": 51,
+        "s": 99,
+        "percentage": 0.8503592958552301,
+        "population": 7699
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 116614,
+    "artist_title": "Esen Karol",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        116614
+    ],
+    "artist_titles": [
+        "Esen Karol"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "red (color)",
+        "book",
+        "20th Century",
+        "paper (fiber product)",
+        "design",
+        "graphic design",
+        "graphic design"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "book",
+        "graphic design"
+    ],
+    "subject_id": "TM-11851",
+    "alt_subject_ids": [
+        "TM-12574",
+        "TM-13337"
+    ],
+    "subject_ids": [
+        "TM-11851",
+        "TM-12574",
+        "TM-13337"
+    ],
+    "subject_titles": [
+        "red (color)",
+        "design",
+        "graphic design"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a9632f2b-4b09-5ca7-7462-95fbd2a2f6c4",
+    "alt_image_ids": [
+        "6c1c6050-d716-4285-388b-9cad7896ba2c"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.166"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Zero Zero One"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T15:49:06-05:00",
+    "updated_at": "2023-05-17T15:54:14-05:00",
+    "timestamp": "2023-09-24T01:56:31-05:00"
+}

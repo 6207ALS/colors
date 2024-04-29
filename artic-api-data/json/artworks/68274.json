@@ -1,0 +1,186 @@
+{
+    "id": 68274,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/68274",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAF8qMGE3O1JbSGtHR3hNRnlVSnlYT3hRWLUeLIcvNZksN4I8RqE0SYRfRYJCUaVPS7VZV49xV4Z4XaRjRLJyVJBqZZ55dclnbIyNYZSVcaualq6qocusocPEqQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIHNxXeUEylMQS0I1QgQhE5ZJA2BsmnWEADs=",
+        "width": 965,
+        "height": 768,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "1986.3229",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1977,
+    "date_end": 1977,
+    "date_display": "1977",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Jane Smith\nAmerican, born 1956",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 26.3 \u00d7 33.7 cm (10 3/8 \u00d7 13 5/16 in.); Paper: 27.9 \u00d7 35.5 cm (11 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33.7,
+            "width_in": 13.2678,
+            "height_cm": 26.3,
+            "height_in": 10.3544,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.5,
+            "width_in": 13.9764,
+            "height_cm": 27.9,
+            "height_in": 10.9843,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Gift of Jane Smith",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 72.6563,
+    "color": {
+        "h": 356,
+        "l": 53,
+        "s": 71,
+        "percentage": 0.13241333467691324,
+        "population": 749
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36720,
+    "artist_title": "Jane Smith",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36720
+    ],
+    "artist_titles": [
+        "Jane Smith"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Women artists"
+    ],
+    "term_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-558",
+    "classification_title": "chromogenic color print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-558",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "bebcaa1a-2984-9fa9-bc2d-a3b736c8095c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.3229"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:47:28-05:00",
+    "timestamp": "2023-09-24T00:50:02-05:00"
+}

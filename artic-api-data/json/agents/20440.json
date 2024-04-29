@@ -1,0 +1,31 @@
+{
+    "id": 20440,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/20440",
+    "title": "Johann Adreas Pfeffel, I",
+    "sort_title": "Pfeffel, Johann Adreas, I",
+    "alt_titles": [
+        "Joannes Andreas Pfeffel"
+    ],
+    "is_artist": true,
+    "birth_date": 1674,
+    "death_date": 1748,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Adreas Pfeffel, I",
+            "Pfeffel, Johann Adreas, I",
+            "Joannes Andreas Pfeffel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:57-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

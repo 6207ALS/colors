@@ -1,0 +1,186 @@
+{
+    "id": 62020,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62020",
+    "is_boosted": false,
+    "title": "End Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJuZmJ2dnKunoqaoraapra2rqK2sq7SwrLm3tri4uLq5ub27ucSqhsy0kcu5n868oMO6rsS5rMm8qszArgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BJByvE4RUAMgMA0BiJNSQgAOw==",
+        "width": 1619,
+        "height": 2250,
+        "alt_text": "A work made of maple, magnolia, yellow poplar frame, hardwood veneer."
+    },
+    "main_reference_number": "1981.175",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1944,
+    "date_end": 1944,
+    "date_display": "1944",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Samuel A. Marx\nAmerican, 1885\u20131964\nManufactured by William Quigley Co.\nAmerican, 20th century",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "59.7 \u00d7 35.9 cm (23 1/2 \u00d7 14 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.9,
+            "width_in": 14.0625,
+            "height_cm": 59.7,
+            "height_in": 23.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Maple, magnolia, yellow poplar frame, hardwood veneer",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. Leigh B. Block",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.5158,
+    "color": {
+        "h": 37,
+        "l": 40,
+        "s": 56,
+        "percentage": 0.000303644954028154,
+        "population": 3
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 31956,
+    "artist_title": "Samuel A. Marx",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31956
+    ],
+    "artist_titles": [
+        "Samuel A. Marx"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "table",
+        "maple",
+        "Chicago",
+        "furniture",
+        "american decorative arts",
+        "american arts",
+        "american tulipwood (wood)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-3584",
+    "alt_material_ids": [
+        "TM-11820"
+    ],
+    "material_ids": [
+        "TM-3584",
+        "TM-11820"
+    ],
+    "material_titles": [
+        "maple",
+        "american tulipwood (wood)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c7546cd5-f85d-54bd-bf36-a1d52fc08893",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.175"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "End Table"
+            ],
+            "weight": 57,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:46:10-06:00",
+    "updated_at": "2023-04-07T12:18:39-05:00",
+    "timestamp": "2023-09-24T00:47:12-05:00"
+}

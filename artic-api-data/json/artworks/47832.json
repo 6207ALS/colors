@@ -1,0 +1,172 @@
+{
+    "id": 47832,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47832",
+    "is_boosted": false,
+    "title": "Kesa",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAIJhP4RiP4RjP4ZjP4FhQIZlQ4RlRIZnRYhnRIlnRItoQ4lpRohqSoprS49uSotsTIxsTJRwS4RpUohsU4lvWYpvWYxwVo5yVo9yV4lwWIlwW49zWI90WoxyXox0X411YIx5bJN6YpR6Y5WAb5mAa5aBcJWCdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJBkg7FwLiVKIFFYRBQhz4HReEAcpIrAgAAQBiKT5tOpZCajIAA7",
+        "width": 3000,
+        "height": 1838,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1974.483",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century, Edo period (1615\u20131868)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Japan",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "102.6 \u00d7 169 cm (40 3/8 \u00d7 66 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 169,
+            "width_in": 66.5,
+            "height_cm": 102.6,
+            "height_in": 40.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. E. M. Anderson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1975,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.9958,
+    "color": {
+        "h": 249,
+        "l": 66,
+        "s": 3,
+        "percentage": 0.3839186368359586,
+        "population": 1670
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "edo (japanese period)",
+        "textile",
+        "costume",
+        "liturgical - buddhist",
+        "weaving"
+    ],
+    "style_id": "TM-5218",
+    "style_title": "edo (japanese period)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5218"
+    ],
+    "style_titles": [
+        "edo (japanese period)"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-81",
+        "TM-10316",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-81",
+        "TM-10316",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "costume",
+        "liturgical - buddhist",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "369217e3-7e0f-e300-874a-dffd20ec7571",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.483"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Kesa"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:26:52-05:00",
+    "timestamp": "2023-09-24T00:41:19-05:00"
+}

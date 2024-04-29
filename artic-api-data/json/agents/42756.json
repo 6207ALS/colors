@@ -1,0 +1,31 @@
+{
+    "id": 42756,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42756",
+    "title": "Jol\u00e1n Gross-Bettelheim",
+    "sort_title": "Gross-Bettelheim, Jol\u00e1n",
+    "alt_titles": [
+        "Jol\u00e1n Gross Bettelheim"
+    ],
+    "is_artist": true,
+    "birth_date": 1900,
+    "death_date": 1972,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jol\u00e1n Gross-Bettelheim",
+            "Gross-Bettelheim, Jol\u00e1n",
+            "Jol\u00e1n Gross Bettelheim"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-04T10:34:28-06:00",
+    "updated_at": "2022-03-15T16:42:53-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

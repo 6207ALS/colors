@@ -1,0 +1,31 @@
+{
+    "id": 15094,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15094",
+    "title": "Louis Fran\u00e7ois Lejeune",
+    "sort_title": "Lejeune, Louis Fran\u00e7ois",
+    "alt_titles": [
+        "Louis F. Lejeune"
+    ],
+    "is_artist": true,
+    "birth_date": 1775,
+    "death_date": 1848,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Fran\u00e7ois Lejeune",
+            "Lejeune, Louis Fran\u00e7ois",
+            "Louis F. Lejeune"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:05-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

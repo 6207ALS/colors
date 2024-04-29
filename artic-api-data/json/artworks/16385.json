@@ -1,0 +1,167 @@
+{
+    "id": 16385,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16385",
+    "is_boosted": false,
+    "title": "The Hollow Road",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACgcHCgeHjUlHzgtKUQ0KUY1LEg5LVg8KE4/MEtAOFZDMVFANFFANl1FN2BONmlWPHxbN3RuanZ0YmN6fHl+f6B/TIJ6b4h/eJiAU2qOlXqPnmuMoHWUoJGXjAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4JRxm0ZJnRVdzZIIBXMEgEE81aAgDgaFADs=",
+        "width": 2908,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1933.1084",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1695,
+    "date_end": 1705,
+    "date_display": "c. 1700",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Cornelis Huysmans\nFlemish, 1648-1727",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "25.4 \u00d7 31.8 cm (10 \u00d7 12 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 31.8,
+            "width_in": 12.5,
+            "height_cm": 25.4,
+            "height_in": 10,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.6613,
+    "color": {
+        "h": 40,
+        "l": 61,
+        "s": 50,
+        "percentage": 0.02146875386619508,
+        "population": 118
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 35046,
+    "artist_title": "Cornelis Huysmans",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35046
+    ],
+    "artist_titles": [
+        "Cornelis Huysmans"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c858614f-f411-e7d5-71fb-014a534f8294",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1084"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Hollow Road"
+            ],
+            "weight": 256,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:25:04-05:00",
+    "timestamp": "2023-09-24T00:27:04-05:00"
+}

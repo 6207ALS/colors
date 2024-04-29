@@ -1,0 +1,158 @@
+{
+    "id": 229824,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/229824",
+    "is_boosted": false,
+    "title": "Rainbow (prismatic) [Regenbogen (prismatisch)]",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACcrIjZEOkBCNUNMR0hYSlFbTFVdU2ddS0dkWVNmXl1hWWJkVUpvZGt3bnFzZXN9b4VyWXOUiX6bipGSgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIMwySRFj3NAywAIAaEYRQgAOw==",
+        "width": 1832,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas (burlap) with painted wood frame."
+    },
+    "main_reference_number": "2017.102",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1924,
+    "date_end": 1924,
+    "date_display": "1924",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Arthur Segal\nRomania, 1875\u20131944",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "105.4 \u00d7 85.7 cm (41 1/2 \u00d7 33 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 85.7,
+            "width_in": 33.75,
+            "height_cm": 105.4,
+            "height_in": 41.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas (burlap) with painted wood frame",
+    "inscriptions": null,
+    "credit_line": "Gift of Richard Roth",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.335,
+    "color": {
+        "h": 21,
+        "l": 38,
+        "s": 83,
+        "percentage": 0.008481326754574473,
+        "population": 74
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 393",
+    "gallery_id": 23991,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 57636,
+    "artist_title": "Arthur Segal",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        57636
+    ],
+    "artist_titles": [
+        "Arthur Segal"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "10ded856-4cd4-e1b3-24bb-024c8071c50b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.102"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rainbow (prismatic) [Regenbogen (prismatisch)]"
+            ],
+            "weight": 76,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:09:13-05:00",
+    "timestamp": "2023-09-24T01:48:55-05:00"
+}

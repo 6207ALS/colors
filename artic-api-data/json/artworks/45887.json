@@ -1,0 +1,181 @@
+{
+    "id": 45887,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45887",
+    "is_boosted": false,
+    "title": "Shawl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEBDR0NGSkVITEpMT0tNUkxOU1NVWFRVWFRWWmFiZmtrbW1vcHFydHJzdHNzdHd4eXh5e3p7e39/gIKBgoWEg4ODhYeGhoaGh4aHh46MjI6NjI2NjpCOjo+QkZWUlJeXmJucnaOioqipqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMphQCgkMhwDICBAaCwQxcJx8WBAm85HFIpUGI2HZBIEADs=",
+        "width": 1562,
+        "height": 1080,
+        "alt_text": "A work made of silk, plain 1:1 gauze weave with supplementary brocading wefts."
+    },
+    "main_reference_number": "1973.692",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1805,
+    "date_end": 1830,
+    "date_display": "c. 1815/20",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England, Spitalfields",
+    "place_of_origin": "Spitalfields",
+    "description": null,
+    "dimensions": "114 \u00d7 100 cm (44 7/8 \u00d7 39 1/2 in.); Repeat: 26.7 \u00d7 12.7 cm (10 1/2 \u00d7 5 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 100,
+            "width_in": 39.5,
+            "height_cm": 114,
+            "height_in": 44.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.7,
+            "width_in": 5,
+            "height_cm": 26.7,
+            "height_in": 10.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Silk, plain 1:1 gauze weave with supplementary brocading wefts",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Edward C. Lipton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.7992,
+    "color": {
+        "h": 152,
+        "l": 45,
+        "s": 1,
+        "percentage": 0.034183234344383875,
+        "population": 168
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "silk (fiber)",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2d651430-d6a7-f9a4-0d8f-8b1de8af2291",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.692"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Shawl"
+            ],
+            "weight": 23,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:31:29-05:00",
+    "timestamp": "2023-09-24T00:40:22-05:00"
+}

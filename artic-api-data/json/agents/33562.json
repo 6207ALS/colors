@@ -1,0 +1,31 @@
+{
+    "id": 33562,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33562",
+    "title": "Romare Howard Bearden",
+    "sort_title": "Bearden, Romare Howard",
+    "alt_titles": [
+        "Romare Bearden"
+    ],
+    "is_artist": true,
+    "birth_date": 1914,
+    "death_date": 1988,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Romare Howard Bearden",
+            "Bearden, Romare Howard",
+            "Romare Bearden"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:16:29-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

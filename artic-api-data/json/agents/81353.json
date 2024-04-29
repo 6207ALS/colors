@@ -1,0 +1,28 @@
+{
+    "id": 81353,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/81353",
+    "title": "Pae White",
+    "sort_title": "White, Pae",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1963,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pae White",
+            "White, Pae"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:48-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

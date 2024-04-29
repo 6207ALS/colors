@@ -1,0 +1,39 @@
+{
+    "id": 14096,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14096",
+    "title": "Gustav Klimt",
+    "sort_title": "Klimt, Gustav",
+    "alt_titles": [
+        "\u53e4\u65af\u5854\u592b\u00b7\u5361\u8036\u535a\u7279"
+    ],
+    "is_artist": true,
+    "birth_date": 1862,
+    "death_date": 1918,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Gustav Klimt",
+            "Klimt, Gustav",
+            "\u53e4\u65af\u5854\u592b\u00b7\u5361\u8036\u535a\u7279"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gustav Klimt",
+            "Klimt, Gustav",
+            "\u53e4\u65af\u5854\u592b\u00b7\u5361\u8036\u535a\u7279"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-13T14:47:55-05:00",
+    "updated_at": "2022-03-15T16:49:48-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

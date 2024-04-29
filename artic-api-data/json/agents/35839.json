@@ -1,0 +1,37 @@
+{
+    "id": 35839,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35839",
+    "title": "Hishikawa Moronobu",
+    "sort_title": "Hishikawa Moronobu",
+    "alt_titles": [
+        "Moronobu",
+        "Furuyama Moronobu",
+        "Kichibei",
+        "Y\u00fbchiku"
+    ],
+    "is_artist": true,
+    "birth_date": 1613,
+    "death_date": 1694,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hishikawa Moronobu",
+            "Hishikawa Moronobu",
+            "Moronobu",
+            "Furuyama Moronobu",
+            "Kichibei",
+            "Y\u00fbchiku"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:56:09-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,176 @@
+{
+    "id": 105443,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/105443",
+    "is_boosted": false,
+    "title": "Sample (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAF5THl9THmBUH2RZKGZbKYV4SId7Tot+TYt+T4d9UIh9UY+CUY6CU5KHWKKXbqSZbKabcaqecgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGQozhIIRTMQzAEEyJMkUAgAOw==",
+        "width": 1749,
+        "height": 2250,
+        "alt_text": "A work made of rayon, linen, and wool, plain weave self-patterned by areas of main warp and ground floats."
+    },
+    "main_reference_number": "1986.368",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1940,
+    "date_end": 1949,
+    "date_display": "Probably late 1940s",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Astrid Sampe (Swedish, 1909\u20132002)\nSweden",
+    "place_of_origin": "Sweden",
+    "description": null,
+    "dimensions": "24 \u00d7 18.9 cm (9 7/8 \u00d7 7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.9,
+            "width_in": 7.5,
+            "height_cm": 24,
+            "height_in": 9.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Rayon, linen, and wool, plain weave self-patterned by areas of main warp and ground floats",
+    "inscriptions": null,
+    "credit_line": "Gift of Astrid Sampe",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1986,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 45.6831,
+    "color": {
+        "h": 46,
+        "l": 39,
+        "s": 53,
+        "percentage": 0.08185491107580115,
+        "population": 748
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 36526,
+    "artist_title": "Astrid Sampe",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36526
+    ],
+    "artist_titles": [
+        "Astrid Sampe"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving",
+        "furnishing textile"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "fd177501-587c-f99b-0fbe-23df0e503f4c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.368"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Furnishing Fabric)"
+            ],
+            "weight": 32,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:42:34-05:00",
+    "timestamp": "2023-09-24T01:07:51-05:00"
+}

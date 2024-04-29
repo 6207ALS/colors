@@ -1,0 +1,181 @@
+{
+    "id": 200675,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/200675",
+    "is_boosted": false,
+    "title": "Interior",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIZ2d/9cRP1zWv91XGSGfZuAdfqAdPiOffiOf7SDhbaemr2qmceIg8eOi9eNhAAAACH5BAAAAAAALAAAAAADAAUAAAQL8BgkwnCJAVLUahEAOw==",
+        "width": 1126,
+        "height": 2250,
+        "alt_text": "A work made of enamel house paint on canvas and wood."
+    },
+    "main_reference_number": "2009.571a-b",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2005,
+    "date_end": 2005,
+    "date_display": "2005",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Joe Zucker\nAmerican, born 1941",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Box: 152.4 \u00d7 152.4 cm (60 \u00d7 60 in.); Lid: 153.7 \u00d7 153.7 cm (60 1/2 \u00d7 60 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 152.4,
+            "width_in": 60,
+            "height_cm": 152.4,
+            "height_in": 60,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Box"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 153.7,
+            "width_in": 60.5,
+            "height_cm": 153.7,
+            "height_in": 60.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Lid"
+        }
+    ],
+    "medium_display": "Enamel house paint on canvas and wood",
+    "inscriptions": null,
+    "credit_line": "Ada S. Garrett Prize Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Joe Zucker.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 99.4038,
+    "color": {
+        "h": 6,
+        "l": 65,
+        "s": 91,
+        "percentage": 0.33179509382557,
+        "population": 4713
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 61174,
+    "artist_title": "Joe Zucker",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        61174
+    ],
+    "artist_titles": [
+        "Joe Zucker"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "painting",
+        "21st Century"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "c115f671-4540-56a5-7ece-42ef001b977c",
+    "alt_image_ids": [
+        "fcde7493-889c-b586-dea7-25f2676118c9",
+        "f29b89f6-d418-8903-4d49-b2d13b89d099"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.571a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Interior"
+            ],
+            "weight": 475,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-14T11:27:23-05:00",
+    "updated_at": "2023-07-15T23:02:23-05:00",
+    "timestamp": "2023-09-24T01:40:05-05:00"
+}

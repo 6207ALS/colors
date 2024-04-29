@@ -1,0 +1,39 @@
+{
+    "id": 35629,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35629",
+    "title": "Maria Martinez",
+    "sort_title": "Martinez, Maria",
+    "alt_titles": [
+        "Maria Montoya Martinez",
+        "Maria Povera Martinez",
+        "Mar\u00eda (Mar\u00eda Montoya) Mart\u00ednez",
+        "Maria, of San Ildefonso",
+        "Mar\u00eda Poveka Mart\u00ednez"
+    ],
+    "is_artist": true,
+    "birth_date": 1886,
+    "death_date": 1980,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maria Martinez",
+            "Martinez, Maria",
+            "Maria Montoya Martinez",
+            "Maria Povera Martinez",
+            "Mar\u00eda (Mar\u00eda Montoya) Mart\u00ednez",
+            "Maria, of San Ildefonso",
+            "Mar\u00eda Poveka Mart\u00ednez"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-20T15:48:56-05:00",
+    "updated_at": "2022-04-22T10:56:51-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

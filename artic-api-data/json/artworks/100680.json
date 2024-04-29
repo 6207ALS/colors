@@ -1,0 +1,177 @@
+{
+    "id": 100680,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/100680",
+    "is_boosted": false,
+    "title": "Atheneum",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAANnKt+LRvNvQw+TUwOXUwOnZxePaz+jayezfzubc1ebd1ujf2Ozh1enh2uvk3/Hk1Ovk4e7m4fHp5/bs5fft5fXs5vbu6Pjw6vjw7gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoOQYS1QhwGFNQ0BQGFM8F5QIShMCADs=",
+        "width": 2272,
+        "height": 2250,
+        "alt_text": "A work made of seven color aluminum lithograph print on twinrocker hm special paper, edition 34/75."
+    },
+    "main_reference_number": "1983.660",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1979,
+    "date_end": 1979,
+    "date_display": "1979",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Meier\nAmerican, born 1934",
+    "place_of_origin": "New Harmony",
+    "description": null,
+    "dimensions": "86.5 \u00d7 86.8 cm (34 1/16 \u00d7 34 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 86.8,
+            "width_in": 34.1733,
+            "height_cm": 86.5,
+            "height_in": 34.0552,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Seven color aluminum lithograph print on Twinrocker HM special paper, edition 34/75",
+    "inscriptions": null,
+    "credit_line": "Gift of Richard Meier",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.552,
+    "color": {
+        "h": 37,
+        "l": 55,
+        "s": 55,
+        "percentage": 0.00014206462519800257,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 32008,
+    "artist_title": "Richard Meier",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32008
+    ],
+    "artist_titles": [
+        "Richard Meier"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "presentation drawing",
+        "paper (fiber product)",
+        "ink",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-920",
+    "classification_title": "presentation drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-920",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "presentation drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6cb7c7fd-6f49-ed36-f012-d27a4fa82c22",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.660"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Atheneum"
+            ],
+            "weight": 213,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:36:52-05:00",
+    "timestamp": "2023-09-24T01:04:57-05:00"
+}

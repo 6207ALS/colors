@@ -1,0 +1,173 @@
+{
+    "id": 22242,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22242",
+    "is_boosted": false,
+    "title": "Caroline",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHRqXHpvXHpxYHdzbIiBdYiEfLKmkbywmLuyo8G2oMjBscnCssnDts7Iu9PMvNbPwNrSwNnTw+Ld0OPf1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4GMg0xEIyjIAiVMQUMQ0UggAOw==",
+        "width": 8958,
+        "height": 12043,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1964.1086",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1962,
+    "date_end": 1962,
+    "date_display": "1962",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alberto Giacometti\nSwiss, 1901\u20131966",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "129.5 \u00d7 96.5 cm (51 \u00d7 38 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 96.5,
+            "width_in": 38,
+            "height_cm": 129.5,
+            "height_in": 51,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Mary and Leigh Block Fund for Acquisitions, in memory of Mrs. Loula Lasker",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1965,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Succession Giacometti / Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 38,
+        "l": 51,
+        "s": 21,
+        "percentage": 7.508259502578363e-5,
+        "population": 81
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 34643,
+    "artist_title": "Alberto Giacometti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34643
+    ],
+    "artist_titles": [
+        "Alberto Giacometti"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "portraits",
+        "modern and contemporary art",
+        "women"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-8658",
+    "alt_subject_ids": [
+        "TM-8735"
+    ],
+    "subject_ids": [
+        "TM-8658",
+        "TM-8735"
+    ],
+    "subject_titles": [
+        "portraits",
+        "women"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5451f8c7-184e-6cec-106a-6c952001c375",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.1086"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Caroline"
+            ],
+            "weight": 3560,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-27T09:48:30-05:00",
+    "updated_at": "2023-04-07T11:40:04-05:00",
+    "timestamp": "2023-09-24T00:29:42-05:00"
+}

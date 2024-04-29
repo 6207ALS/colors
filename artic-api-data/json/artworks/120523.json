@@ -1,0 +1,181 @@
+{
+    "id": 120523,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120523",
+    "is_boosted": false,
+    "title": "Bench",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAE86OV5PTWNXVmZYVmpbWWxiYHxxboWAgIiBgJeSkJmVk6ytrbCxr7G0s7S4uLe6ubi4uMLFxcHGxsPGxsPHyMTJysrMy8nNzsrOzsrOz8rR0s7T1M/U1NDU1NPV1NHX19TZ2dbZ2Nbd3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAxI9JlcKg8EYRAQLBoFgyIBYEgODg0FYtlEMpxOyBMEADs=",
+        "width": 2965,
+        "height": 2250,
+        "alt_text": "A work made of burly padouk."
+    },
+    "main_reference_number": "1991.36",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1990,
+    "date_end": 1990,
+    "date_display": "1990",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "David N. Ebner\nAmerican, born 1945",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "41.3 \u00d7 88.6 \u00d7 36.2 cm (16 1/4 \u00d7 34 7/8 \u00d7 14 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 36.2,
+            "depth_in": 14.25,
+            "width_cm": 88.6,
+            "width_in": 34.875,
+            "height_cm": 41.3,
+            "height_in": 16.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Burly padouk",
+    "inscriptions": null,
+    "credit_line": "Raymond W. Garbe Fund in honor of Carl A. Erikson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.9016,
+    "color": {
+        "h": 8,
+        "l": 30,
+        "s": 33,
+        "percentage": 0.008711447212336892,
+        "population": 47
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 43550,
+    "artist_title": "David Ebner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43550
+    ],
+    "artist_titles": [
+        "David Ebner"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "seating",
+        "padouk",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3589",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3589"
+    ],
+    "material_titles": [
+        "padouk"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f3e1811b-b551-2a45-3d05-3a68ac16e1d6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.36"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bench"
+            ],
+            "weight": 68,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-15T13:56:18-06:00",
+    "updated_at": "2023-05-08T12:27:40-05:00",
+    "timestamp": "2023-09-24T01:13:44-05:00"
+}

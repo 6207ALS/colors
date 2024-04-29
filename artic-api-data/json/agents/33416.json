@@ -1,0 +1,39 @@
+{
+    "id": 33416,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33416",
+    "title": "James Anderson, Jr.",
+    "sort_title": "Anderson, James, Jr.",
+    "alt_titles": [
+        "James Anderson, II",
+        "James Anderson",
+        "Giacomo Anderson",
+        "Isaac Atkinson",
+        "William Nugent Dunbar"
+    ],
+    "is_artist": true,
+    "birth_date": 1813,
+    "death_date": 1877,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Anderson, Jr.",
+            "Anderson, James, Jr.",
+            "James Anderson, II",
+            "James Anderson",
+            "Giacomo Anderson",
+            "Isaac Atkinson",
+            "William Nugent Dunbar"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:06:13-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

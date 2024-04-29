@@ -1,0 +1,180 @@
+{
+    "id": 72778,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72778",
+    "is_boosted": false,
+    "title": "Tureen",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABYgPy03Ui4/bi9AcmprcHd3e3d3fXB5knF5k56cnomVs4SUv5SfuKuqrLKysrO0tre3ubq6usTCvImaw8HBwMvKydDOx9TT1NTV193d3d7e3ePj4+Xk5AAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGVBj+RUyjIxFIYMwnFxSQAY2hYVRJOFADs=",
+        "width": 2531,
+        "height": 2250,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1917.188",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1827,
+    "date_end": 1830,
+    "date_display": "1827\u201330",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Enoch Wood & Sons\nEnglish, active 1818\u20131846\nMade for the American market\nStaffordshire",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": "24.5 \u00d7 22.5 cm (9 5/8 \u00d7 8 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.5,
+            "width_in": 8.875,
+            "height_cm": 24.5,
+            "height_in": 9.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. A. D. Eddy to Amelia Blanxius Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.3872,
+    "color": {
+        "h": 222,
+        "l": 45,
+        "s": 68,
+        "percentage": 0.003795966785290629,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 37346,
+    "artist_title": "William Wood",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37346
+    ],
+    "artist_titles": [
+        "William Wood"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "vessel for serving food",
+        "earthenware",
+        "earthenware",
+        "dish (vessel)",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11798",
+    "classification_title": "vessel for serving food",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-11783",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11798",
+        "TM-74",
+        "TM-11783",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vessel for serving food",
+        "earthenware",
+        "dish (vessel)",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "95d8d015-b74f-9775-1800-8912bfb8e490",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1917.188"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tureen"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:17:29-05:00",
+    "timestamp": "2023-09-24T00:51:47-05:00"
+}

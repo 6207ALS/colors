@@ -1,0 +1,31 @@
+{
+    "id": 44391,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44391",
+    "title": "Frank Besedick",
+    "sort_title": "Besedick, Frank",
+    "alt_titles": [
+        "Frank Paul Besedick"
+    ],
+    "is_artist": true,
+    "birth_date": 1913,
+    "death_date": 1987,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frank Besedick",
+            "Besedick, Frank",
+            "Frank Paul Besedick"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:30:53-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

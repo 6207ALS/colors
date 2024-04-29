@@ -1,0 +1,28 @@
+{
+    "id": 85967,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/85967",
+    "title": "Dominik Biemann",
+    "sort_title": "Biemann, Dominik",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1800,
+    "death_date": 1857,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dominik Biemann",
+            "Biemann, Dominik"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:56-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

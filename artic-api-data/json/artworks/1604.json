@@ -1,0 +1,189 @@
+{
+    "id": 1604,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/1604",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEBKPl5qP0daSVdkSGt5S3lxS4N/WHyKS36AUn+NVIGVVLGgRoyIcpeYeLCpY7i3bb24a8qvScOte8K4dAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoGAUwBEtgQI9xJQ4UjMgTAgAOw==",
+        "width": 1083,
+        "height": 1431,
+        "alt_text": "A work made of silk, plain weave with patterning warps and patterning and brocading wefts."
+    },
+    "main_reference_number": "1895.151",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1728,
+    "date_end": 1752,
+    "date_display": "c. 1738/42",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "102 \u00d7 53.6 cm (40 1/8 \u00d7 21 1/8 in.); Warp repeat: H.: 92.3 cm (36 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 53.6,
+            "width_in": 21.125,
+            "height_cm": 102,
+            "height_in": 40.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 92.3,
+            "height_in": 36.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Silk, plain weave with patterning warps and patterning and brocading wefts",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 65.0983,
+    "color": {
+        "h": 51,
+        "l": 50,
+        "s": 69,
+        "percentage": 0.07198366098677247,
+        "population": 676
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "plain weaving",
+        "silk (fiber)",
+        "textile",
+        "weaving",
+        "weft patterning",
+        "warp patterning"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3688",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [
+        "TM-4227",
+        "TM-4226"
+    ],
+    "technique_ids": [
+        "TM-10513",
+        "TM-4227",
+        "TM-4226"
+    ],
+    "technique_titles": [
+        "plain weaving",
+        "weft patterning",
+        "warp patterning"
+    ],
+    "theme_titles": [],
+    "image_id": "69a552d4-470c-9a32-7d6b-ac39e3c89147",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1895.151"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2023-04-10T15:05:42-05:00",
+    "timestamp": "2023-09-24T00:21:01-05:00"
+}

@@ -1,0 +1,181 @@
+{
+    "id": 94501,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/94501",
+    "is_boosted": false,
+    "title": "Paperweight",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACg4Z2ZoiHlxh3Z5l4GAnbCtub21vcjI08zJ0fHt6vPw7fX08vf18vf28/Pz9PT09PT19ff29Pn39vj39/j49vn69/r69/n6+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIHQx1hMhw7EoAhAklUEUzTNJlBMCADs=",
+        "width": 2250,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1977.875",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1959,
+    "date_display": "1953",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Whitefriars Glasshouse\nEnglish, founded late 17th century",
+    "place_of_origin": "London",
+    "description": null,
+    "dimensions": "Diam.: 7.4 cm (2 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 7.4,
+            "diameter_in": 2.9375,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Arthur Rubloff",
+    "catalogue_display": "<p>Unknown 108.</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1978,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.9568,
+    "color": {
+        "h": 223,
+        "l": 31,
+        "s": 81,
+        "percentage": 0.02659540785957625,
+        "population": 189
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 86363,
+    "artist_title": "Whitefriars Glasshouse",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        86363
+    ],
+    "artist_titles": [
+        "Whitefriars Glasshouse"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "millefiori glass",
+        "paperweight",
+        "millefiori",
+        "glass",
+        "european decorative arts",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-858",
+    "classification_title": "paperweight",
+    "alt_classification_ids": [
+        "TM-371",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-858",
+        "TM-371",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "paperweight",
+        "millefiori",
+        "european decorative arts",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2657",
+    "alt_material_ids": [
+        "TM-2453"
+    ],
+    "material_ids": [
+        "TM-2657",
+        "TM-2453"
+    ],
+    "material_titles": [
+        "millefiori glass",
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "756ebb2f-2f41-7ccb-859f-0a773142edba",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.875"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Paperweight"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-17T15:52:03-05:00",
+    "updated_at": "2023-08-17T15:56:03-05:00",
+    "timestamp": "2023-09-24T01:01:54-05:00"
+}

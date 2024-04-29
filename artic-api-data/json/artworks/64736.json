@@ -1,0 +1,173 @@
+{
+    "id": 64736,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/64736",
+    "is_boosted": false,
+    "title": "Autumn Woods",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAEs2Jkg4Jkw5Jkk3KUo5KEs5KEo7KUw5KUw6KE49KU89KVA8J1M/J1E/KFA+KVA/KVI/KlI/K1dAJ1hCJ1FAKVNBKldBKVdCKFZDKFZDKVZCKldCKlVFLVxDKFlFKF1HKVtIKV1JKV5IKV1JKlxILmFJKWFMLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYkQE7F4rB0SJ+Jw1EZlUwepYVhGY1ADIMjkbBIJAHD4TAwCABBADs=",
+        "width": 9908,
+        "height": 6386,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1911.34",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1891,
+    "date_end": 1894,
+    "date_display": "1891\u201394",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "George Inness (American, 1825\u20131894)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "73.8 \u00d7 114.3 cm (29 1/16 \u00d7 45 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 114.3,
+            "width_in": 45,
+            "height_cm": 73.8,
+            "height_in": 29.0625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Signed lower left: \"G. Inness\"",
+    "credit_line": "Edward B. Butler Collection",
+    "catalogue_display": "<p>Quick 1099</p>",
+    "publication_history": "Michael Quick, George Inness, a Catalogue Raisonne, vol. 2 (Rutgers University Press, 2007), no. 1099.",
+    "exhibition_history": null,
+    "provenance_text": "(Sale, Fifth Avenue Art Galleries, New York, February 7-8, 1901, no. 110). Emerson McMillin, New York. M. Knoedler & Co., New York, 1911; sold to Edward B. Butler, Chicago, 1911; given to the Art Institute of Chicago, 1911.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 40,
+        "l": 47,
+        "s": 35,
+        "percentage": 9.482794480912463e-6,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35061,
+    "artist_title": "George Inness",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35061
+    ],
+    "artist_titles": [
+        "George Inness"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "organic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "29fcf18a-5461-7084-91c3-57799ca55e18",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1911.34"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Autumn Woods"
+            ],
+            "weight": 696,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-17T16:38:20-05:00",
+    "updated_at": "2023-07-17T16:41:03-05:00",
+    "timestamp": "2023-09-24T00:48:31-05:00"
+}

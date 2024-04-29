@@ -1,0 +1,160 @@
+{
+    "id": 238721,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/238721",
+    "is_boosted": false,
+    "title": "La Morocha",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFs8L2Q/MFlDOGpENW9MPllXWl5bXnJRRHljXHlkXmdmamhlaG5sb3pqZ2tscH91dnt7fn97foZaSqNmToRtZ318gI6IiZCFgpuMh5qMiZqRkJqRksbExsjFxwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoKE01FIwkDQ9TpUMARJZACEcG6dh2dWFADs=",
+        "width": 5413,
+        "height": 4756,
+        "alt_text": "A work made of colored terracotta."
+    },
+    "main_reference_number": "2016.461",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1946,
+    "date_end": 1946,
+    "date_display": "1946",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Lucio Fontana\nItalian, born Argentina, 1899-1968",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "45 \u00d7 47 \u00d7 36 cm (17 3/4 \u00d7 18 1/2 \u00d7 14 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 36,
+            "depth_in": 14.125,
+            "width_cm": 47,
+            "width_in": 18.5,
+            "height_cm": 45,
+            "height_in": 17.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Colored terracotta",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Milan, miart, Fiera d\u2019arte moderna e contemporanea, Mar. 3\u20136, 2002.\n\nNew York, The Met Breuer, Lucio Fontana: On the Threshold, Jan. 22\u2013Apr. 14, 2019.",
+    "provenance_text": "Comisi\u00f3n Argentina de Fomento Internacional, Buenos Aires; Pablo Edelstein, Buenos Aires; Galleria Gian Ferrari, Milan; Fundaci\u00f3n Lisdero, Buenos Aires; sold to private collection, New York [Finart, Milan Arte moderna e contemporanea, 15 November 2000, lot 158]; given to the Art Institute of Chicago, Dec. 31, 2016.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.1855,
+    "color": {
+        "h": 319,
+        "l": 39,
+        "s": 2,
+        "percentage": 0.3590736124918556,
+        "population": 2243
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 34502,
+    "artist_title": "Lucio Fontana",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34502
+    ],
+    "artist_titles": [
+        "Lucio Fontana"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5d587644-2c20-e58e-87b2-2b2a6c697f57",
+    "alt_image_ids": [
+        "dafd3ef0-aed3-b1c3-eda0-0edf23c30968"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.461"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "La Morocha"
+            ],
+            "weight": 49,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T14:59:08-05:00",
+    "timestamp": "2023-09-24T01:52:44-05:00"
+}

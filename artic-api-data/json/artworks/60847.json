@@ -1,0 +1,151 @@
+{
+    "id": 60847,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/60847",
+    "is_boosted": false,
+    "title": "Rug",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEk3Nk49Plc+PVtERGJHRGJMTW5QS25ST25UTmtPUGhRUW1XWXRZV3hbW4l0dgAAACH5BAAAAAAALAAAAAADAAUAAAQLEIgwkipumcbIQREAOw==",
+        "width": 1018,
+        "height": 1624,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1980.623",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1900,
+    "date_display": "1875/1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Caucasus",
+    "place_of_origin": "Caucasus",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. V. C. Abbott",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1981,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.8421,
+    "color": {
+        "h": 42,
+        "l": 55,
+        "s": 25,
+        "percentage": 0.013758615671592426,
+        "population": 156
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - rug",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-211",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-211",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - rug",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2e31a126-3db8-4889-848b-7c4c67359e84",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.623"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rug"
+            ],
+            "weight": 14,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:04-05:00",
+    "updated_at": "2023-04-10T15:25:49-05:00",
+    "timestamp": "2023-09-24T00:46:37-05:00"
+}

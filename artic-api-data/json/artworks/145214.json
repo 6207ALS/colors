@@ -1,0 +1,176 @@
+{
+    "id": 145214,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145214",
+    "is_boosted": false,
+    "title": "Coffee Pot",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABkZGhscHiEgISYkISYkIiUkJUE+OUdDP0hDOUtMPGBeTWdfTmBgU3JuVnd2d4F/gJ+dnq2rrMPDxM3MzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURICAUwYAshKE0x8MkzhRBUggAOw==",
+        "width": 1694,
+        "height": 2250,
+        "alt_text": "A work made of lead-glazed earthenware (creamware)."
+    },
+    "main_reference_number": "1996.346a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1760,
+    "date_end": 1770,
+    "date_display": "1760/70",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England, Staffordshire",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": "23.5 \u00d7 19.4 cm (9 1/4 \u00d7 7 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19.4,
+            "width_in": 7.625,
+            "height_cm": 23.5,
+            "height_in": 9.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lead-glazed earthenware (creamware)",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Leslie Bezark",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.3409,
+    "color": {
+        "h": 46,
+        "l": 49,
+        "s": 30,
+        "percentage": 0.002224199288256228,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "earthenware",
+        "earthenware",
+        "european decorative arts",
+        "ceramics",
+        "creamware",
+        "lead-glazed earthenware"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46",
+        "TM-11135",
+        "TM-11132"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-1394",
+        "TM-46",
+        "TM-11135",
+        "TM-11132"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "european decorative arts",
+        "ceramics",
+        "creamware",
+        "lead-glazed earthenware"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5c56c15e-5f73-8ba9-d5b4-b049198261a3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.346a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Coffee Pot"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:32:15-05:00",
+    "timestamp": "2023-09-24T01:24:52-05:00"
+}

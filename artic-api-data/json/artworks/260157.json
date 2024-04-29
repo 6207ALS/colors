@@ -1,0 +1,181 @@
+{
+    "id": 260157,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/260157",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGVXaGVfe2pkc1tjgGZsh2xqgWdtimFqjmtwimt3jGt2j2twlWx0lXN6l3qgwQAAACH5BAAAAAAALAAAAAADAAUAAAQLcKRwXCtqCcCIQREAOw==",
+        "width": 5605,
+        "height": 8133,
+        "alt_text": "A work made of watercolor over graphite on cream wove paper."
+    },
+    "main_reference_number": "2022.1460",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1963,
+    "date_display": "1960s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William Baziotes\nAmerican, 1912-1963",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "19 \u00d7 28 cm (7 1/2 \u00d7 11 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 28,
+            "width_in": 11.0237,
+            "height_cm": 19,
+            "height_in": 7.4804,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor over graphite on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Ethel Baziotes Trust in memory of William Baziotes",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 215,
+        "l": 47,
+        "s": 35,
+        "percentage": 0.00014258930999168265,
+        "population": 65
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 1855,
+    "artist_title": "William Baziotes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1855
+    ],
+    "artist_titles": [
+        "William Baziotes"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "prints and drawing",
+        "watercolor",
+        "paper",
+        "drawing",
+        "watercolor",
+        "wove paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-14658",
+        "TM-39"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-14658",
+        "TM-39"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "paper",
+        "drawing",
+        "watercolor"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2403",
+    "alt_material_ids": [
+        "TM-3074"
+    ],
+    "material_ids": [
+        "TM-2403",
+        "TM-3074"
+    ],
+    "material_titles": [
+        "watercolor",
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "29e2c7d4-b61b-686f-215a-e715760cf510",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.1460"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-21T15:47:10-05:00",
+    "updated_at": "2023-04-21T15:47:25-05:00",
+    "timestamp": "2023-09-24T01:57:38-05:00"
+}

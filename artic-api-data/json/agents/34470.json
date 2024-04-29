@@ -1,0 +1,45 @@
+{
+    "id": 34470,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34470",
+    "title": "Lyonel Feininger",
+    "sort_title": "Feininger, Lyonel",
+    "alt_titles": [
+        "Charles L\u00e9onell Feininger",
+        "L\u00e9onell Charles Feininger",
+        "Lyonel Charles Adrian Feininger"
+    ],
+    "is_artist": true,
+    "birth_date": 1871,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Lyonel Feininger",
+            "Feininger, Lyonel",
+            "Charles L\u00e9onell Feininger",
+            "L\u00e9onell Charles Feininger",
+            "Lyonel Charles Adrian Feininger"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lyonel Feininger",
+            "Feininger, Lyonel",
+            "Charles L\u00e9onell Feininger",
+            "L\u00e9onell Charles Feininger",
+            "Lyonel Charles Adrian Feininger"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:53:56-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

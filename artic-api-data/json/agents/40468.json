@@ -1,0 +1,37 @@
+{
+    "id": 40468,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40468",
+    "title": "Simone Cantarini",
+    "sort_title": "Cantarini, Simone",
+    "alt_titles": [
+        "Pesarese",
+        "Simone da Pesaro",
+        "Simone Cantarini, (Il Pesarese)",
+        "Il Pesarese"
+    ],
+    "is_artist": true,
+    "birth_date": 1612,
+    "death_date": 1648,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Simone Cantarini",
+            "Cantarini, Simone",
+            "Pesarese",
+            "Simone da Pesaro",
+            "Simone Cantarini, (Il Pesarese)",
+            "Il Pesarese"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:37-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

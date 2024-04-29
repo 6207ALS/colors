@@ -1,0 +1,33 @@
+{
+    "id": 89759,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/89759",
+    "title": "Valie Export",
+    "sort_title": "EXPORT, VALIE",
+    "alt_titles": [
+        "Waltraud H\u00f6llinger",
+        "VALIE EXPORT"
+    ],
+    "is_artist": true,
+    "birth_date": 1940,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Valie Export",
+            "EXPORT, VALIE",
+            "Waltraud H\u00f6llinger",
+            "VALIE EXPORT"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:01:19-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

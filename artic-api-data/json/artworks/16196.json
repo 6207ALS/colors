@@ -1,0 +1,167 @@
+{
+    "id": 16196,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16196",
+    "is_boosted": false,
+    "title": "Night",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAC87UzM/VDxKXlFbaFFcalRdaVdeaFdeaVVebFhgbFljbGlwdnB0eHF3eXJ3egAAACH5BAAAAAAALAAAAAADAAUAAAQLkJlWhDphJEAcWhEAOw==",
+        "width": 2081,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1962.1127",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1954,
+    "date_end": 1954,
+    "date_display": "1954",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Yoshida Hodaka\nJapanese, 1926-1995",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "40.7 \u00d7 28.1 cm (16 \u00d7 11 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 28.1,
+            "width_in": 11.0625,
+            "height_cm": 40.7,
+            "height_in": 16,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Albert L. Arenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.4815,
+    "color": {
+        "h": 205,
+        "l": 41,
+        "s": 59,
+        "percentage": 0.003905315622726985,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 37394,
+    "artist_title": "Yoshida Hodaka",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37394
+    ],
+    "artist_titles": [
+        "Yoshida Hodaka"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2cac3fc9-5815-3bd4-c1c6-da3b4a5991ee",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.1127"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Night"
+            ],
+            "weight": 62,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:37:31-05:00",
+    "timestamp": "2023-09-24T00:26:57-05:00"
+}

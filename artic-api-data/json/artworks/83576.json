@@ -1,0 +1,189 @@
+{
+    "id": 83576,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/83576",
+    "is_boosted": false,
+    "title": "Boat in Port",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKaqpayup6quqbi8t72+tr/BudbTxN/cyufex+LeyuPfyuDf0efhyefgyuTi0+Lh1ebl1+jk0unl0+3m0e7r2uzr3fDr2PHr2PHt2/Lu3vPv3/Xx4PTz5fj26QAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4JU5FDZpXVFx1vYECyRFBCAMRqMwyYGEADs=",
+        "width": 3000,
+        "height": 2323,
+        "alt_text": "A work made of pen and brush and gray ink, on ivory wove paper, laid down on board."
+    },
+    "main_reference_number": "1922.1653",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1899,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Attributed to William Roxby Beverley\nEnglish, c. 1811-1889",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "16.8 \u00d7 22.9 cm (6 5/8 \u00d7 9 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.9,
+            "width_in": 9.0158,
+            "height_cm": 16.8,
+            "height_in": 6.6142,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and brush and gray ink, on ivory wove paper, laid down on board",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.3978,
+    "color": {
+        "h": 196,
+        "l": 50,
+        "s": 9,
+        "percentage": 0.012553762853961531,
+        "population": 69
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 2352,
+    "artist_title": "William Roxby Beverley",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2352
+    ],
+    "artist_titles": [
+        "William Roxby Beverley"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "gray ink",
+        "colored ink",
+        "ink",
+        "coating (material)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2501",
+        "TM-2539",
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2501",
+        "TM-2539",
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "gray ink",
+        "colored ink",
+        "ink",
+        "coating (material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "15920e04-5efb-ab4b-aee3-bdc97495f019",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.1653"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Boat in Port"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:02-05:00",
+    "updated_at": "2023-04-10T12:16:58-05:00",
+    "timestamp": "2023-09-24T00:56:26-05:00"
+}

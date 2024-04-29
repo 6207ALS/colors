@@ -1,0 +1,41 @@
+{
+    "id": 36587,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36587",
+    "title": "Georges Scott",
+    "sort_title": "Scott, Georges",
+    "alt_titles": [
+        "George Scott",
+        "Georges Bertin Scott",
+        "Scott de Plagnolles",
+        "Georges B. Scott",
+        "Scott de Plagnolles",
+        "Georges Bertin (Scott de Plagnolles) Scott"
+    ],
+    "is_artist": true,
+    "birth_date": 1873,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Georges Scott",
+            "Scott, Georges",
+            "George Scott",
+            "Georges Bertin Scott",
+            "Scott de Plagnolles",
+            "Georges B. Scott",
+            "Scott de Plagnolles",
+            "Georges Bertin (Scott de Plagnolles) Scott"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:27-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

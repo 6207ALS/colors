@@ -1,0 +1,41 @@
+{
+    "id": 76709,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/76709",
+    "title": "Bertha E. Jaques",
+    "sort_title": "Jaques, Bertha E.",
+    "alt_titles": [
+        "Bertha Evelyn Clausen",
+        "Bertha Evelyn Clausen Jaques",
+        "Mrs. William Kilbourne Jaques",
+        "Bertha Evelyn Jacques",
+        "Bertha E. (Bertha Evelyn) Jaques",
+        "Jaques, Bertha Evelyn Clauson, Mrs"
+    ],
+    "is_artist": true,
+    "birth_date": 1863,
+    "death_date": 1941,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bertha E. Jaques",
+            "Jaques, Bertha E.",
+            "Bertha Evelyn Clausen",
+            "Bertha Evelyn Clausen Jaques",
+            "Mrs. William Kilbourne Jaques",
+            "Bertha Evelyn Jacques",
+            "Bertha E. (Bertha Evelyn) Jaques",
+            "Jaques, Bertha Evelyn Clauson, Mrs"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:35-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

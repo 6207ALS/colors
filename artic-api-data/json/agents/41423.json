@@ -1,0 +1,31 @@
+{
+    "id": 41423,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41423",
+    "title": "Bartolom\u00e9 Est\u00e9ban Murillo",
+    "sort_title": "Murillo, Bartolom\u00e9 Est\u00e9ban",
+    "alt_titles": [
+        "Murillo"
+    ],
+    "is_artist": true,
+    "birth_date": 1618,
+    "death_date": 1682,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bartolom\u00e9 Est\u00e9ban Murillo",
+            "Murillo, Bartolom\u00e9 Est\u00e9ban",
+            "Murillo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:10-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

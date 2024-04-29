@@ -1,0 +1,45 @@
+{
+    "id": 36397,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36397",
+    "title": "Diego Rivera",
+    "sort_title": "Rivera, Diego",
+    "alt_titles": [
+        "Diego Mar\u00eda Concepci\u00f3n Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodr\u00edguez",
+        "Diego Rivera Barrientos",
+        "\u8fed\u6208\u00b7\u91cc\u7ef4\u62c9"
+    ],
+    "is_artist": true,
+    "birth_date": 1886,
+    "death_date": 1957,
+    "description": "<p>A leader of the Mexican muralist movement of the 1920s, who sought to challenge social and political iniquities, Diego Rivera often turned to indigenous themes to foster Mexican cultural pride.</p><p>After years of rigorous art training in Mexico City, he traveled throughout Europe before settling in Paris in 1912, where he befriended other emigr\u00e9 avant-garde artists, including Amedeo Modigliani and Piet Mondrian. Rivera enjoyed a brief but sparkling period as a Cubist painter, becoming a leading member of a group of Cubists that included Albert Gleizes, Juan Gris, and Jean Metzinger. Following World War I and the Russian Revolution, Rivera, like many other artists in Paris, rejected Cubism as frivolous and inappropriate for the new age. Returning to Mexico\u2014which itself had emerged from a decade of revolutionary struggle\u2014he adopted monumental forms that suited the country\u2019s new political reality and began to produce work for which he is acclaimed today: paintings, graphics, and, above all, murals depicting Mexican political and cultural life.</p><p>Although he was commissioned to paint a mural in Chicago in 1933 for the General Motors Building at the Century of Progress Exposition, a controversy over another mural resulted in negative publicity for the artist, and his commission was dismissed.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Diego Rivera",
+            "Rivera, Diego",
+            "Diego Mar\u00eda Concepci\u00f3n Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodr\u00edguez",
+            "Diego Rivera Barrientos",
+            "\u8fed\u6208\u00b7\u91cc\u7ef4\u62c9"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Diego Rivera",
+            "Rivera, Diego",
+            "Diego Mar\u00eda Concepci\u00f3n Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodr\u00edguez",
+            "Diego Rivera Barrientos",
+            "\u8fed\u6208\u00b7\u91cc\u7ef4\u62c9"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-14T15:10:00-05:00",
+    "updated_at": "2023-09-23T23:19:09-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

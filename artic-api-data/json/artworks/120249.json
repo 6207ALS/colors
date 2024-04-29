@@ -1,0 +1,180 @@
+{
+    "id": 120249,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120249",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAIxuSoxySJ6Md42NjY2NjpKSj52aj5KSk6iXg7Odhqifl7enibKmj7Con5+foKGipLm0rba1tbu2sr25tLa3usXFxsTFx8PFyMbHyAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4HAYBfEoC+RQCYBEFxMIFjY1UhUCADs=",
+        "width": 2250,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1991.240",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1982,
+    "date_end": 1982,
+    "date_display": "1982",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Samuel J. Herman\nAmerican, 1936-2020\nLondon, England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "17.8 \u00d7 17.2 \u00d7 10.8 cm (7 \u00d7 1/2 \u00d7 4 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.8,
+            "depth_in": 4.25,
+            "width_cm": 17.2,
+            "width_in": 0.5,
+            "height_cm": 17.8,
+            "height_in": 7,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": "etched in script at bottom: \"SAMUEL J. HERMAN/1982/CN8\"",
+    "credit_line": "Gift of Stanton and Judith Brody",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.6811,
+    "color": {
+        "h": 38,
+        "l": 43,
+        "s": 45,
+        "percentage": 0.005487941304357003,
+        "population": 39
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 31460,
+    "artist_title": "Samuel J. Herman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31460
+    ],
+    "artist_titles": [
+        "Samuel J. Herman"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fcf81634-3d3c-f1c5-d18f-cb8fd1ef9528",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.240"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:34:16-05:00",
+    "timestamp": "2023-09-24T01:13:33-05:00"
+}

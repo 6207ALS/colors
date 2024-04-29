@@ -1,0 +1,169 @@
+{
+    "id": 156603,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/156603",
+    "is_boosted": false,
+    "title": "Seal",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAB8aETArH0I+NU5KQ1tZUW5sZomLiIuOjZqcmpqcm5uenJ6gnaCjoaGjoqOkoaWnpqSop6Wop6eqqamrqKirqqqtq6uuq6qtrKyvra2xsK6ysbCzsrO2tQAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIHU5FFZFXEFslaQNwKIlhxAYUdMoySOFADs=",
+        "width": 3000,
+        "height": 2643,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "2000.500",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1644,
+    "date_end": 1911,
+    "date_display": "Qing dynasty (1644-1911)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of C.A. Islinger",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2001,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 151,
+        "l": 66,
+        "s": 1,
+        "percentage": 0.08279732627065203,
+        "population": 6565
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "bronze",
+        "qing",
+        "Chinese (culture or style)",
+        "East Asian",
+        "asian",
+        "asian art",
+        "decorative arts"
+    ],
+    "style_id": "TM-5086",
+    "style_title": "qing",
+    "alt_style_ids": [
+        "TM-4303",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_ids": [
+        "TM-5086",
+        "TM-4303",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_titles": [
+        "qing",
+        "Chinese (culture or style)",
+        "East Asian",
+        "asian"
+    ],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-26",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "bronze",
+        "asian art",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "083b4998-0f5b-aebf-c6b0-38d9787cd02d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2000.500"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Seal"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-16T09:19:19-05:00",
+    "updated_at": "2023-06-29T18:02:47-05:00",
+    "timestamp": "2023-09-24T01:30:49-05:00"
+}

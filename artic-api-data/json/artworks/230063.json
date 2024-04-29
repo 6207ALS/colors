@@ -1,0 +1,181 @@
+{
+    "id": 230063,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/230063",
+    "is_boosted": false,
+    "title": "Untitled (Family Album)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAJ6OeaqNZ62Ud66bfbqZcrCTfLGUfr+oe8Omf6GPgKCVhbGehbuqk7mtlry7q7+8qr68q7m7r7y9r7y+r7u9sb2/sby/sry/s8Gvk9W7mNbBpd3EptXCqNrFqd3HqtzHq9jIrd7Jrd/KrsTCsuXNruvSsuvTsvLaugAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQIgDhEFkBgdLpPThnBiLCYUUEpkMCcnF09FsCopHZdQICAiAIAA7",
+        "width": 10107,
+        "height": 6054,
+        "alt_text": "A work made of spiral bound magnetic album, 114 gelatin silver prints and 29 chromogenic prints."
+    },
+    "main_reference_number": "2015.534",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": null,
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Photographer unknown (American, 20th century)\npossibly compiled by J. Stoken (American, active 1963\u20131968)",
+    "place_of_origin": "Unknown Place",
+    "description": null,
+    "dimensions": "Overall: 29.4 \u00d7 25.4 \u00d7 2.3 cm (11 5/8 \u00d7 10 \u00d7 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2.3,
+            "depth_in": 0.9056,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 29.4,
+            "height_in": 11.5749,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Overall"
+        }
+    ],
+    "medium_display": "Spiral bound magnetic album, 114 gelatin silver prints and 29 chromogenic prints",
+    "inscriptions": null,
+    "credit_line": "Gift of Peter J. Cohen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 61,
+        "l": 71,
+        "s": 9,
+        "percentage": 0.0039844558499901725,
+        "population": 2438
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117550,
+    "artist_title": "Unknown Maker",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117550
+    ],
+    "artist_titles": [
+        "Unknown Maker"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "black-and-white photography",
+        "photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "63fdc57a-db5b-66cc-48ae-3f6907e60f28",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.534"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Family Album)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-02T15:50:07-05:00",
+    "updated_at": "2023-05-02T15:52:28-05:00",
+    "timestamp": "2023-09-24T01:49:03-05:00"
+}

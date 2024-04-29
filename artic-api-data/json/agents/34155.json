@@ -1,0 +1,39 @@
+{
+    "id": 34155,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34155",
+    "title": "Stuart Davis",
+    "sort_title": "Davis, Stuart",
+    "alt_titles": [
+        "Edward Stuart Davis"
+    ],
+    "is_artist": true,
+    "birth_date": 1894,
+    "death_date": 1964,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Stuart Davis",
+            "Davis, Stuart",
+            "Edward Stuart Davis"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Stuart Davis",
+            "Davis, Stuart",
+            "Edward Stuart Davis"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-05T16:41:13-05:00",
+    "updated_at": "2023-07-05T16:45:51-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

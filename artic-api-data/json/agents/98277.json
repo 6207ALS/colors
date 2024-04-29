@@ -1,0 +1,37 @@
+{
+    "id": 98277,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/98277",
+    "title": "Evrard Leyniers",
+    "sort_title": "Leyniers, Evrard",
+    "alt_titles": [
+        "Everaert Leyniers",
+        "Everaert Leniers",
+        "Everard Leniers",
+        "Everard Leyniers"
+    ],
+    "is_artist": true,
+    "birth_date": 1597,
+    "death_date": 1680,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Evrard Leyniers",
+            "Leyniers, Evrard",
+            "Everaert Leyniers",
+            "Everaert Leniers",
+            "Everard Leniers",
+            "Everard Leyniers"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:22:17-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

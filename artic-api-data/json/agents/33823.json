@@ -1,0 +1,33 @@
+{
+    "id": 33823,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33823",
+    "title": "Willem Buytewech",
+    "sort_title": "Buytewech, Willem",
+    "alt_titles": [
+        "Willem P. Buytewech",
+        "Willem Pietersz. Buytewech"
+    ],
+    "is_artist": true,
+    "birth_date": 1591,
+    "death_date": 1624,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Willem Buytewech",
+            "Buytewech, Willem",
+            "Willem P. Buytewech",
+            "Willem Pietersz. Buytewech"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:55:27-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 46431,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46431",
+    "is_boosted": false,
+    "title": "Rembrandt's Father",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC8qIDEtJEI7MEI8MkU/NEQ+NUhCNklDOEtEOk1HPVJMQVdRQ1tVR15YTGhiUYJ8bJ6ZjKKcj6Wfk6eilwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAQABQAABREgciyN8TjKwAhJQACFFEFTCAA7",
+        "width": 574,
+        "height": 768,
+        "alt_text": "A work made of mezzotint in black on paper."
+    },
+    "main_reference_number": "1927.4092",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1730,
+    "date_end": 1765,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "James McArdell (Irish, c. 1710-1765)\nafter Rembrandt van Rijn (Dutch, 1606-1669)",
+    "place_of_origin": "Ireland",
+    "description": null,
+    "dimensions": "Image: 31.3 \u00d7 25.8 cm (12 3/8 \u00d7 10 3/16 in.); Sheet, cut within platemark: 35.6 \u00d7 25.7 cm (14 1/16 \u00d7 10 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.8,
+            "width_in": 10.1575,
+            "height_cm": 31.3,
+            "height_in": 12.3229,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.7,
+            "width_in": 10.1182,
+            "height_cm": 35.6,
+            "height_in": 14.0158,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, cut within platemark"
+        }
+    ],
+    "medium_display": "Mezzotint in black on paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.1922,
+    "color": {
+        "h": 45,
+        "l": 49,
+        "s": 9,
+        "percentage": 0.021558432817613556,
+        "population": 205
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35547,
+    "artist_title": "James MacArdell",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35547
+    ],
+    "artist_titles": [
+        "James MacArdell"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "mezzotint",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-22",
+    "classification_title": "mezzotint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-22",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "mezzotint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1be703ba-f687-04b0-8eeb-aabcf2c9431d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.4092"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rembrandt's Father"
+            ],
+            "weight": 124,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:30:11-05:00",
+    "timestamp": "2023-09-24T00:40:39-05:00"
+}

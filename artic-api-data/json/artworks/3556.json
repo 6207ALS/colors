@@ -1,0 +1,188 @@
+{
+    "id": 3556,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/3556",
+    "is_boosted": false,
+    "title": "Card Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAI5jVJZnU55wW6ydma6hnbetqriuq7iurbSvsL21sb21tLy6uMG1r8G2r8K4tMG+vsbDwcnEwsvIxsnIyefn5uzs6u7u7e/v7u3u8AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoMQ0yeMEAnAYw0IgUQEp01VZFBYCADs=",
+        "width": 2396,
+        "height": 2250,
+        "alt_text": "A work made of mahogany and white pine with fruit wood inlay."
+    },
+    "main_reference_number": "1956.765",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1790,
+    "date_end": 1790,
+    "date_display": "c. 1790",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 18th century)\nNewport, Rhode Island",
+    "place_of_origin": "Newport",
+    "description": null,
+    "dimensions": "74 \u00d7 90.2 \u00d7 43.8 cm (29 1/8 \u00d7 35 1/2 \u00d7 17 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 43.8,
+            "depth_in": 17.25,
+            "width_cm": 90.2,
+            "width_in": 35.5,
+            "height_cm": 74,
+            "height_in": 29.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Mahogany and white pine with fruit wood inlay",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society through the Jessie Spalding Landon Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.6803,
+    "color": {
+        "h": 41,
+        "l": 53,
+        "s": 91,
+        "percentage": 0.0008986663790934254,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "table",
+        "mahogany",
+        "pine",
+        "furniture",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-9132"
+    ],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3582",
+    "alt_material_ids": [
+        "TM-3636"
+    ],
+    "material_ids": [
+        "TM-3582",
+        "TM-3636"
+    ],
+    "material_titles": [
+        "mahogany",
+        "pine"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6814f882-a7c7-bd17-d8b6-6adb2e41209c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.765"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Card Table"
+            ],
+            "weight": 753,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-20T14:02:40-05:00",
+    "updated_at": "2023-06-20T14:12:19-05:00",
+    "timestamp": "2023-09-24T00:21:50-05:00"
+}

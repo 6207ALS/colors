@@ -1,0 +1,33 @@
+{
+    "id": 66577,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/66577",
+    "title": "Aubry Le Jeune",
+    "sort_title": "Le Jeune, Aubry",
+    "alt_titles": [
+        "Aubry Le Jeune",
+        "Aubry Lejeune"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Aubry Le Jeune",
+            "Le Jeune, Aubry",
+            "Aubry Le Jeune",
+            "Aubry Lejeune"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:08-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

@@ -1,0 +1,168 @@
+{
+    "id": 84182,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/84182",
+    "is_boosted": false,
+    "title": "Sketch for the print \"Mountain Stream\"",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFJNSFJOSVdTTVlVT1xXUV9aU2JdVmdiXG9rZHFsZXJsZXJuZnl1b3x5cn16c397dIJ8dImFfYyIgJOOhZuXjp2WjJ2YjqGck6ahl6iimaijmaqkmbawpbm0qb24r8G8scnEuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwM/kEnk4PBpCYBAAZCwKxGEhoGwMFUiigAFxOoyGxBMEADs=",
+        "width": 3000,
+        "height": 2183,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "1955.794",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1955,
+    "date_display": "early 1950s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sasajima Kihei\nJapanese, 1906-1993",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "50.7 \u00d7 69.2 cm (19 15/16 \u00d7 27 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 69.2,
+            "width_in": 27.25,
+            "height_cm": 50.7,
+            "height_in": 19.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.4911,
+    "color": {
+        "h": 39,
+        "l": 51,
+        "s": 5,
+        "percentage": 0.024963280755632707,
+        "population": 129
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 22996,
+    "artist_title": "Sasajima Kihei",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        22996
+    ],
+    "artist_titles": [
+        "Sasajima Kihei"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "572a87ea-2142-4cf8-c53c-ec4635f64eb2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1955.794"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sketch for the print \"Mountain Stream\""
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:02-05:00",
+    "updated_at": "2023-04-10T12:14:36-05:00",
+    "timestamp": "2023-09-24T00:56:50-05:00"
+}

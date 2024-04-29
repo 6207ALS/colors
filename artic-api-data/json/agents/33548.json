@@ -1,0 +1,35 @@
+{
+    "id": 33548,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33548",
+    "title": "Pompeo Girolamo Batoni",
+    "sort_title": "Batoni, Pompeo Girolamo",
+    "alt_titles": [
+        "Pompeo Girolamo Battoni",
+        "Pompeo G. Batoni",
+        "Pomp\u00e9o Girolamo Batoni"
+    ],
+    "is_artist": true,
+    "birth_date": 1708,
+    "death_date": 1787,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pompeo Girolamo Batoni",
+            "Batoni, Pompeo Girolamo",
+            "Pompeo Girolamo Battoni",
+            "Pompeo G. Batoni",
+            "Pomp\u00e9o Girolamo Batoni"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:51:34-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

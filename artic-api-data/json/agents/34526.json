@@ -1,0 +1,33 @@
+{
+    "id": 34526,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34526",
+    "title": "Louis Fran\u00e7ais",
+    "sort_title": "Fran\u00e7ais, Louis",
+    "alt_titles": [
+        "Fran\u00e7ois Louis Fran\u00e7ais",
+        "Fran\u00e7ois L. Fran\u00e7ais"
+    ],
+    "is_artist": true,
+    "birth_date": 1814,
+    "death_date": 1897,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Fran\u00e7ais",
+            "Fran\u00e7ais, Louis",
+            "Fran\u00e7ois Louis Fran\u00e7ais",
+            "Fran\u00e7ois L. Fran\u00e7ais"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-04T12:05:36-06:00",
+    "updated_at": "2022-04-22T10:53:42-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

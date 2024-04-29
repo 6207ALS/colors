@@ -1,0 +1,33 @@
+{
+    "id": 65276,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65276",
+    "title": "V. D. Brenner, Sr.",
+    "sort_title": "Brenner, V. D., Sr.",
+    "alt_titles": [
+        "Victor David Brenner",
+        "Viktoras Deividas Breneris"
+    ],
+    "is_artist": true,
+    "birth_date": 1871,
+    "death_date": 1924,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "V. D. Brenner, Sr.",
+            "Brenner, V. D., Sr.",
+            "Victor David Brenner",
+            "Viktoras Deividas Breneris"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:15-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

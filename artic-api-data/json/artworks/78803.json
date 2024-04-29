@@ -1,0 +1,177 @@
+{
+    "id": 78803,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/78803",
+    "is_boosted": false,
+    "title": "Myself as a Bandit",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANzSq93Sr9/Vr97WsOHXseDYseHYsuHYs+TYsuXas+HatePatOPbtuXct+XduOffuerhvOvivQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURILA0AcEoR/Eog+EwAgJFSQgAOw==",
+        "width": 2313,
+        "height": 3000,
+        "alt_text": "A work made of graphite on cream wove paper."
+    },
+    "main_reference_number": "1952.1171",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1948,
+    "date_end": 1948,
+    "date_display": "1948",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Wilde\nAmerican, born 1919",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "64.7 \u00d7 49.4 cm (25 1/2 \u00d7 19 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.4,
+            "width_in": 19.4489,
+            "height_cm": 64.7,
+            "height_in": 25.4725,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Margaret Day Blake Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.5045,
+    "color": {
+        "h": 46,
+        "l": 60,
+        "s": 62,
+        "percentage": 0.00043412245943396944,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 28571,
+    "artist_title": "John Wilde",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28571
+    ],
+    "artist_titles": [
+        "John Wilde"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c4ac9a10-80f0-2820-a070-0640c570ad28",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1952.1171"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Myself as a Bandit"
+            ],
+            "weight": 108,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:31:06-05:00",
+    "timestamp": "2023-09-24T00:53:57-05:00"
+}

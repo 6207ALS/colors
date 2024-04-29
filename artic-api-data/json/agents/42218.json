@@ -1,0 +1,43 @@
+{
+    "id": 42218,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42218",
+    "title": "Pisanello",
+    "sort_title": "Pisanello",
+    "alt_titles": [
+        "Antonio Pisano",
+        "Antonio Pisano Pisanello",
+        "Pisanello, (Antonio Pisano)",
+        "Antonio di Puccio Pisanello, (il Pisanello)",
+        "Antonio Pisano",
+        "Antonio Pisano, called Pisanello",
+        "Vittore Pisanello"
+    ],
+    "is_artist": true,
+    "birth_date": 1390,
+    "death_date": 1460,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pisanello",
+            "Pisanello",
+            "Antonio Pisano",
+            "Antonio Pisano Pisanello",
+            "Pisanello, (Antonio Pisano)",
+            "Antonio di Puccio Pisanello, (il Pisanello)",
+            "Antonio Pisano",
+            "Antonio Pisano, called Pisanello",
+            "Vittore Pisanello"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-15T10:00:04-05:00",
+    "updated_at": "2022-03-15T16:38:37-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

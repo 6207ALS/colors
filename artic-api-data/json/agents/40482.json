@@ -1,0 +1,42 @@
+{
+    "id": 40482,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40482",
+    "title": "Paul Cezanne",
+    "sort_title": "Cezanne, Paul",
+    "alt_titles": [
+        "Paul C\u00e9zanne",
+        "\u4fdd\u7f57\u00b7\u585e\u5c1a"
+    ],
+    "is_artist": true,
+    "birth_date": 1839,
+    "death_date": 1906,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Paul Cezanne",
+            "Cezanne, Paul",
+            "Paul C\u00e9zanne",
+            "\u4fdd\u7f57\u00b7\u585e\u5c1a"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul Cezanne",
+            "Cezanne, Paul",
+            "Paul C\u00e9zanne",
+            "\u4fdd\u7f57\u00b7\u585e\u5c1a"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-03-25T10:03:59-05:00",
+    "updated_at": "2022-03-25T10:06:32-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,161 @@
+{
+    "id": 19215,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/19215",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAI98bZNyaZOCdKCPfaePf5iLgJqKgpuPhKeWg6GWigAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMJlABBrglAgAOw==",
+        "width": 1035,
+        "height": 2250,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1934.349",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "Queen Anne period (1702\u20131714), early 18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of David Adler",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1936,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.8292,
+    "color": {
+        "h": 45,
+        "l": 44,
+        "s": 46,
+        "percentage": 0.0019414723738188568,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "queen anne",
+        "textile",
+        "needlework (visual works)",
+        "stuart",
+        "european"
+    ],
+    "style_id": "TM-5937",
+    "style_title": "queen anne",
+    "alt_style_ids": [
+        "TM-5930",
+        "TM-4703"
+    ],
+    "style_ids": [
+        "TM-5937",
+        "TM-5930",
+        "TM-4703"
+    ],
+    "style_titles": [
+        "queen anne",
+        "stuart",
+        "european"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b3d9ca70-df21-4b9e-8e37-cbfae560c3f2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1934.349"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 225,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:51-05:00",
+    "updated_at": "2023-04-10T15:29:46-05:00",
+    "timestamp": "2023-09-24T00:27:59-05:00"
+}

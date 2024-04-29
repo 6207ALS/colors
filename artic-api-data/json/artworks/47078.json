@@ -1,0 +1,187 @@
+{
+    "id": 47078,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47078",
+    "is_boosted": false,
+    "title": "Untitled (Portrait of a Man)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG5jSGZqXXZsUHVtUn5xUWpuYIB0U4p4UoJ3WYh9Xod9Yoh+YZOBWpWDXo6CYp6LZIKDdYSFdoaIfYyPgwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIJM4jyBNywBFChAUyEEYTQgAOw==",
+        "width": 2379,
+        "height": 3000,
+        "alt_text": "A work made of daguerreotype."
+    },
+    "main_reference_number": "1974.211",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1834,
+    "date_end": 1865,
+    "date_display": "c. 1839/60",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Artist unknown\nAmerican, 19th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Plate: 21.6 \u00d7 16.5 cm (8 9/16 \u00d7 6 1/2 in.); Case: 25 \u00d7 20 \u00d7 2 cm (9 7/8 \u00d7 7 7/8 \u00d7 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16.5,
+            "width_in": 6.4961,
+            "height_cm": 21.6,
+            "height_in": 8.504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 2,
+            "depth_in": 0.7875,
+            "width_cm": 20,
+            "width_in": 7.8741,
+            "height_cm": 25,
+            "height_in": 9.8426,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Case"
+        }
+    ],
+    "medium_display": "Daguerreotype",
+    "inscriptions": null,
+    "credit_line": "Tillie C. Cohn Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 42.8606,
+    "color": {
+        "h": 40,
+        "l": 36,
+        "s": 61,
+        "percentage": 0.10880372811789638,
+        "population": 975
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 110752,
+    "artist_title": "Unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110752
+    ],
+    "artist_titles": [
+        "Unknown"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "daguerreotype",
+        "19th century",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-417",
+    "classification_title": "daguerreotype",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-417",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "daguerreotype",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "42d6acaa-3f17-00cd-5604-650d71b8b263",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.211"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Portrait of a Man)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:28:46-05:00",
+    "timestamp": "2023-09-24T00:40:55-05:00"
+}

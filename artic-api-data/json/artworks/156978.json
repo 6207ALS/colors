@@ -1,0 +1,172 @@
+{
+    "id": 156978,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/156978",
+    "is_boosted": false,
+    "title": "Todd in a New Jacket",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADAwKzs6Nj4+OU1NSH19dYSDe4yMhJGQh6upoa2so7Cvpra0q7a1rMC+tsbDusjHvsrJwM7MxNXTyeTh2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoHMYEVMQjyIMUBMAybQgUggAOw==",
+        "width": 2255,
+        "height": 3000,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "1977.453",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1919,
+    "date_end": 1965,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Francis Chapin\nAmerican, 1899-1965",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "35.3 \u00d7 27 cm (13 15/16 \u00d7 10 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27,
+            "width_in": 10.63,
+            "height_cm": 35.3,
+            "height_in": 13.8977,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Francis Chapin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.5637,
+    "color": {
+        "h": 196,
+        "l": 50,
+        "s": 6,
+        "percentage": 0.004126971025488808,
+        "population": 39
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33918,
+    "artist_title": "Francis Chapin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33918
+    ],
+    "artist_titles": [
+        "Francis Chapin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "983aeacc-2e26-c8d0-c5f0-907e4e594926",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.453"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Todd in a New Jacket"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:18-05:00",
+    "updated_at": "2023-04-07T16:28:28-05:00",
+    "timestamp": "2023-09-24T01:31:05-05:00"
+}

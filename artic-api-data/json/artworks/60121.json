@@ -1,0 +1,172 @@
+{
+    "id": 60121,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/60121",
+    "is_boosted": false,
+    "title": "Collar",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEFTLG1zVoJ2VoeDaJiYfKGcf5+bhayehKmii6yqmbeqlrutl7uvnsG9rsrHutPRztfT0dXU0NXU0tXW1NjY19fY2dnZ2trZ2tra2tvc3N/e3uPh3d3f4eHj4+Ti4OLj5eTj5+Pk5efl5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwE5ItPFoMB9HIUFoWEAIwCBguHAWAsZBUclQIJGHZBIEADs=",
+        "width": 3000,
+        "height": 2200,
+        "alt_text": "A work made of horn and enamel."
+    },
+    "main_reference_number": "1947.207",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1925,
+    "date_display": "Early 20th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ren\u00e9 Lalique et Cie.\nFrench, founded 1885\nParis, France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "5.1 \u00d7 7.9 cm (2 \u00d7 3 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 7.9,
+            "width_in": 3.125,
+            "height_cm": 5.1,
+            "height_in": 2,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Horn and enamel",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles J. Morse in Memory of Charles J. Morse",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.1236,
+    "color": {
+        "h": 156,
+        "l": 30,
+        "s": 45,
+        "percentage": 0.02648884589250135,
+        "population": 138
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 21584,
+    "artist_title": "Rene Lalique et Cie.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21584
+    ],
+    "artist_titles": [
+        "Rene Lalique et Cie."
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "horn",
+        "jewelry",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-115",
+    "classification_title": "jewelry",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-115",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "jewelry",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2562",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2562"
+    ],
+    "material_titles": [
+        "horn"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7cdc41ee-0168-d64f-b93b-6edef7ac3434",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1947.207"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Collar"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:49:39-05:00",
+    "timestamp": "2023-09-24T00:46:18-05:00"
+}

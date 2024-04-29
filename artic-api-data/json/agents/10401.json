@@ -1,0 +1,35 @@
+{
+    "id": 10401,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10401",
+    "title": "Grueby Faience Company",
+    "sort_title": "Grueby Faience Company",
+    "alt_titles": [
+        "Grueby Faience & Tile Co.",
+        "Grueby Pottery Co.",
+        "Grueby Faience and Tile Company"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Grueby Faience Company",
+            "Grueby Faience Company",
+            "Grueby Faience & Tile Co.",
+            "Grueby Pottery Co.",
+            "Grueby Faience and Tile Company"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-06-20T13:25:46-05:00",
+    "updated_at": "2023-06-20T13:27:42-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

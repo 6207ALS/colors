@@ -1,0 +1,183 @@
+{
+    "id": 59955,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59955",
+    "is_boosted": false,
+    "title": "Bookcover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCwAFAPUAAExJO15XRlZTSmNcSmZfSWVcSmRcUWNeVXxvTnJuYHVzanp5cXl6dH9+doh2Q498Q4l4RYBzUoR1UoB6Y5uHS5yISY2CX46EX5WGUpmIU5eJWKKLRamSRqyVSqOPUaCRW4+DYImAZ5aLZouGcI2Jd4uGeoyHepSNeZWOf7Wpf9y9VNO4W92+WNi9Y8ezc8u3d97BW+HBVe3MWOvLYrGmhLaqgrarhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAALAAUAAAYywADhoiExRh/R4PDowFi0RSq2okQgnBfKlCidXBWEY6OS2Rq1WcsjEQAsmIkilAEVDEEAOw==",
+        "width": 1549,
+        "height": 720,
+        "alt_text": "A work made of silk, plain weave; batik dyed."
+    },
+    "main_reference_number": "1980.152",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1925,
+    "date_display": "c. 1910",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Dutch",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "53.5 \u00d7 23.4 cm (21 1/8 \u00d7 9 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23.4,
+            "width_in": 9.25,
+            "height_cm": 53.5,
+            "height_in": 21.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, plain weave; batik dyed",
+    "inscriptions": null,
+    "credit_line": "Gift of A. James Speyer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 65.8557,
+    "color": {
+        "h": 46,
+        "l": 61,
+        "s": 72,
+        "percentage": 0.7586486551916141,
+        "population": 2507
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 36978,
+    "artist_title": "Louis Comfort Tiffany",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36978
+    ],
+    "artist_titles": [
+        "Louis Comfort Tiffany"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "silk (textile)",
+        "plain weaving",
+        "Modernism",
+        "textile",
+        "weaving - printed",
+        "batik"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [
+        "TM-4302"
+    ],
+    "technique_ids": [
+        "TM-10513",
+        "TM-4302"
+    ],
+    "technique_titles": [
+        "plain weaving",
+        "batik"
+    ],
+    "theme_titles": [],
+    "image_id": "1f82c888-ffa7-384a-fd6b-1ad276b6d9d5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.152"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bookcover"
+            ],
+            "weight": 153,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:03:42-05:00",
+    "timestamp": "2023-09-24T00:46:13-05:00"
+}

@@ -1,0 +1,42 @@
+{
+    "id": 36457,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36457",
+    "title": "Dante Gabriel Rossetti",
+    "sort_title": "Rossetti, Dante Gabriel",
+    "alt_titles": [
+        "Dante G. Rossetti",
+        "Gabriel Charles (Dante Gabriel) Rossetti"
+    ],
+    "is_artist": true,
+    "birth_date": 1828,
+    "death_date": 1882,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Dante Gabriel Rossetti",
+            "Rossetti, Dante Gabriel",
+            "Dante G. Rossetti",
+            "Gabriel Charles (Dante Gabriel) Rossetti"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dante Gabriel Rossetti",
+            "Rossetti, Dante Gabriel",
+            "Dante G. Rossetti",
+            "Gabriel Charles (Dante Gabriel) Rossetti"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:51-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

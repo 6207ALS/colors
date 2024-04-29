@@ -1,0 +1,37 @@
+{
+    "id": 41247,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41247",
+    "title": "Freiherr von Arthur George Ramberg",
+    "sort_title": "Ramberg, Arthur George, Freiherr von",
+    "alt_titles": [
+        "Arthur George von Ramberg",
+        "Ramberg, A. (Arthur), Freiherr von",
+        "Ramberg, Georg Arthur, Freiherr von",
+        "Von Ramberg, Arthur, Freiherr"
+    ],
+    "is_artist": true,
+    "birth_date": 1819,
+    "death_date": 1875,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Freiherr von Arthur George Ramberg",
+            "Ramberg, Arthur George, Freiherr von",
+            "Arthur George von Ramberg",
+            "Ramberg, A. (Arthur), Freiherr von",
+            "Ramberg, Georg Arthur, Freiherr von",
+            "Von Ramberg, Arthur, Freiherr"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:59-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

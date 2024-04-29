@@ -1,0 +1,28 @@
+{
+    "id": 115590,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/115590",
+    "title": "Thackara, Sons & Co.",
+    "sort_title": "Thackara, Sons & Co.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thackara, Sons & Co.",
+            "Thackara, Sons & Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-28T11:00:42-05:00",
+    "updated_at": "2020-07-28T11:00:45-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

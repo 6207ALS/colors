@@ -1,0 +1,31 @@
+{
+    "id": 72293,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/72293",
+    "title": "John Theodore Heins, Sr.",
+    "sort_title": "Heins, John Theodore, Sr.",
+    "alt_titles": [
+        "Dirck (John Theodore, Sr.) Heins"
+    ],
+    "is_artist": true,
+    "birth_date": 1697,
+    "death_date": 1756,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Theodore Heins, Sr.",
+            "Heins, John Theodore, Sr.",
+            "Dirck (John Theodore, Sr.) Heins"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:18-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

@@ -1,0 +1,49 @@
+{
+    "id": 8091,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8091",
+    "title": "Glad Tidings of Great Joy (1994)",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1994-11-18T00:00:00-06:00",
+    "aic_end_at": "1995-01-15T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        30689,
+        64509
+    ],
+    "artwork_titles": [
+        "Fragment (From an Orphrey Band)",
+        "Pillow Cover (Depicting the Annunciation)"
+    ],
+    "artist_ids": [
+        52061
+    ],
+    "site_ids": [],
+    "image_id": "8115a3a0-ada3-b72e-bb7b-05104b9fbdc3",
+    "alt_image_ids": [
+        "338fe444-b378-0560-252d-4dbbe4d6ac36",
+        "f2369657-5ad3-20c5-1adb-510f81b778e7",
+        "425542ab-eb4d-3255-c60e-b402a3611f09",
+        "b952eee1-b625-6df9-709f-61b6e5e189e5"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Glad Tidings of Great Joy (1994)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-09-07T23:24:00-05:00",
+    "timestamp": "2023-09-24T02:02:11-05:00"
+}

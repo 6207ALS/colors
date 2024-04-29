@@ -1,0 +1,186 @@
+{
+    "id": 216327,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/216327",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJxQPJl7dcOJc5CGhZGKiaqIh6CUj6Wbl7uwss3KyNDNzO7q6/Du7vPw8PPz8wAAACH5BAAAAAAALAAAAAADAAUAAAQLkIRxgFEisbIcahEAOw==",
+        "width": 1350,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "2012.982",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1924,
+    "date_end": 1927,
+    "date_display": "1924/27",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "France, \u00c9pinay-sur-Seine\nCharles Schneider (French, 1881-1953)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "32.4 \u00d7 15.2 cm (12 3/4 \u00d7 6 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.2,
+            "width_in": 6,
+            "height_cm": 32.4,
+            "height_in": 12.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Joseph W. Fell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.5291,
+    "color": {
+        "h": 8,
+        "l": 47,
+        "s": 30,
+        "percentage": 0.02009430816056872,
+        "population": 238
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 65645,
+    "artist_title": "Charles Schneider",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        65645
+    ],
+    "artist_titles": [
+        "Charles Schneider"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "Art Deco",
+        "vessel",
+        "glass",
+        "european decorative arts",
+        "Art Nouveau"
+    ],
+    "style_id": "TM-5976",
+    "style_title": "Art Deco",
+    "alt_style_ids": [
+        "TM-5977"
+    ],
+    "style_ids": [
+        "TM-5976",
+        "TM-5977"
+    ],
+    "style_titles": [
+        "Art Deco",
+        "Art Nouveau"
+    ],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-27",
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "vase",
+        "vessel",
+        "glass",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a31bb5f6-80e1-0545-4fbe-d67cd7c96187",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.982"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 8,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:27:15-05:00",
+    "timestamp": "2023-09-24T01:44:41-05:00"
+}

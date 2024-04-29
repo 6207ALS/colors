@@ -1,0 +1,33 @@
+{
+    "id": 36359,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36359",
+    "title": "Samuel William Reynolds, the elder",
+    "sort_title": "Reynolds, Samuel William, the elder",
+    "alt_titles": [
+        "Samuel W. Reynolds, I",
+        "Samuel William Reynolds, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1773,
+    "death_date": 1835,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Samuel William Reynolds, the elder",
+            "Reynolds, Samuel William, the elder",
+            "Samuel W. Reynolds, I",
+            "Samuel William Reynolds, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:15-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

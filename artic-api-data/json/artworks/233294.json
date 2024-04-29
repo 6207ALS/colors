@@ -1,0 +1,171 @@
+{
+    "id": 233294,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/233294",
+    "is_boosted": false,
+    "title": "\"Teaside\" Tea Service",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEVDQ0ZEQ0pJR1RTUFRTUVVUUllYWWtrbHBwb4mHg4qJhoqKjpSUla6qpr+5sby4tL66tLy8vMS/t8fBuM7Hu8vGv9LLvsC/wsPDwcXGxcfHxcXGx8nJycnKywAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIDEUQgAgiaQcBgNZVLNEzlQ9V4ZpXLeFADs=",
+        "width": 2802,
+        "height": 2250,
+        "alt_text": "A work made of porcelain."
+    },
+    "main_reference_number": "2016.598.3.1-4",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1986,
+    "date_end": 1986,
+    "date_display": "1986",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Stanley Tigerman (American, 1930\u20132019)\nMargaret McCurry (American, born 1942)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "19 \u00d7 31 \u00d7 26 cm (7 1/2 \u00d7 12 1/4 \u00d7 10 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 26,
+            "depth_in": 10.25,
+            "width_cm": 31,
+            "width_in": 12.25,
+            "height_cm": 19,
+            "height_in": 7.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Porcelain",
+    "inscriptions": null,
+    "credit_line": "Gift of Stanley Tigerman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.6732,
+    "color": {
+        "h": 327,
+        "l": 52,
+        "s": 0,
+        "percentage": 0.07236587344557929,
+        "population": 413
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 24742,
+    "artist_title": "Stanley Tigerman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        24742
+    ],
+    "artist_titles": [
+        "Stanley Tigerman"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-5"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "tableware",
+        "teaware",
+        "design"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1445",
+    "classification_title": "tableware",
+    "alt_classification_ids": [
+        "TM-1376",
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-1445",
+        "TM-1376",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "tableware",
+        "teaware",
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "40be51c4-40bd-4c2e-8346-e00f9953fb13",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.598.3.1-4"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "\"Teaside\" Tea Service"
+            ],
+            "weight": 44,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:32-05:00",
+    "updated_at": "2023-04-07T15:07:52-05:00",
+    "timestamp": "2023-09-24T01:50:31-05:00"
+}

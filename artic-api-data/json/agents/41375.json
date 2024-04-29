@@ -1,0 +1,33 @@
+{
+    "id": 41375,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41375",
+    "title": "Frans van der Meulen",
+    "sort_title": "Meulen, Frans van der",
+    "alt_titles": [
+        "Adam Frans van der Meulen",
+        "Adam F. van der Meulen"
+    ],
+    "is_artist": true,
+    "birth_date": 1632,
+    "death_date": 1690,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frans van der Meulen",
+            "Meulen, Frans van der",
+            "Adam Frans van der Meulen",
+            "Adam F. van der Meulen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:12-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

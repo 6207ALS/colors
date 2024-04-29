@@ -1,0 +1,180 @@
+{
+    "id": 62004,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62004",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJGPk5aUl52bnqCdnqKgoaSgoKimp6yqq66qqq6srbSyscG+vsbExQAAAAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMAiQlCFlHHTYYhEAOw==",
+        "width": 1316,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1981.170",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1943,
+    "date_end": 1943,
+    "date_display": "1943",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Dorothy C. Thorpe, Inc.\nAmerican, 1901\u20131989\nLos Angeles",
+    "place_of_origin": "Sun Valley",
+    "description": null,
+    "dimensions": "38 \u00d7 10.3 cm (15 \u00d7 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.3,
+            "width_in": 0.0625,
+            "height_cm": 38,
+            "height_in": 15,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": "acid etched mark underneath side of base \"DTC\".",
+    "credit_line": "Mrs. William A. Boone through The Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, A Decade of Decorative Arts: the Antiquarian Society of the Art Institute of Chicago, Nov. 12, 1986\u2013Jan. 4, 1987, cat. 97.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.8673,
+    "color": {
+        "h": 328,
+        "l": 65,
+        "s": 1,
+        "percentage": 0.21864347201882176,
+        "population": 2656
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 34277,
+    "artist_title": "Dorothy C. Thorpe Inc.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34277
+    ],
+    "artist_titles": [
+        "Dorothy C. Thorpe Inc."
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7fd0f28f-c855-75e9-b030-489cd654d7ae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.170"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T11:59:37-05:00",
+    "timestamp": "2023-09-24T00:47:11-05:00"
+}

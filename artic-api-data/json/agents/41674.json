@@ -1,0 +1,41 @@
+{
+    "id": 41674,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41674",
+    "title": "Franz Anton Maulbertsch",
+    "sort_title": "Maulbertsch, Franz Anton",
+    "alt_titles": [
+        "Franz A. Maulbertsch",
+        "Anton Maulpartsch",
+        "Anton Franz Maulpertsch",
+        "Franz Anton Maulberz",
+        "Franz Anton Maulbersch",
+        "Franz Anton Maulpertsch"
+    ],
+    "is_artist": true,
+    "birth_date": 1724,
+    "death_date": 1796,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Franz Anton Maulbertsch",
+            "Maulbertsch, Franz Anton",
+            "Franz A. Maulbertsch",
+            "Anton Maulpartsch",
+            "Anton Franz Maulpertsch",
+            "Franz Anton Maulberz",
+            "Franz Anton Maulbersch",
+            "Franz Anton Maulpertsch"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:18-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

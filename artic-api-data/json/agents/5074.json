@@ -1,0 +1,31 @@
+{
+    "id": 5074,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5074",
+    "title": "Adriaen Collaert",
+    "sort_title": "Collaert, Adriaen",
+    "alt_titles": [
+        "Adriaen Collaert, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1560,
+    "death_date": 1618,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adriaen Collaert",
+            "Collaert, Adriaen",
+            "Adriaen Collaert, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T09:29:07-06:00",
+    "updated_at": "2023-02-15T09:32:09-06:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

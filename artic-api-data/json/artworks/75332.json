@@ -1,0 +1,172 @@
+{
+    "id": 75332,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/75332",
+    "is_boosted": false,
+    "title": "Portrait of Margaret Spicer Simson",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAI2HgZiSjKWinqekn6uloLCvq7Svqbeyrbu6ucW+t8K9uMPCwcXDwMTEw8XFxMjIxsnIxsvKyMvMy8zMyszMzM/Pzc/PztbW1dfX1QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4PUUC2UNgOBEBhEglZIcDTYxkBQCADs=",
+        "width": 2378,
+        "height": 2250,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1919.194",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1906,
+    "date_end": 1906,
+    "date_display": "1906",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Theodore Spicer-Simson\nAmerican, 1871\u20131959",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Diam.: 12.1 cm (4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 12.1,
+            "diameter_in": 4.75,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": "inscribed: A.D. MCMVI/Margaret Spicer-Simson/TSS FEC",
+    "credit_line": "Augusta Mannheimer Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.0488,
+    "color": {
+        "h": 38,
+        "l": 44,
+        "s": 3,
+        "percentage": 0.03359525741994369,
+        "population": 226
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 24175,
+    "artist_title": "Theodore Spicer-Simson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        24175
+    ],
+    "artist_titles": [
+        "Theodore Spicer-Simson"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "silver",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2436"
+    ],
+    "material_titles": [
+        "silver"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6cc8ad7d-245b-d5a7-6c91-d0ff1652ad1f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1919.194"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Margaret Spicer Simson"
+            ],
+            "weight": 43,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T11:57:42-05:00",
+    "timestamp": "2023-09-24T00:52:48-05:00"
+}

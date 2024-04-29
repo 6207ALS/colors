@@ -1,0 +1,177 @@
+{
+    "id": 113753,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/113753",
+    "is_boosted": false,
+    "title": "Sketches of a Barrel and Other Objects",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAN/ayeHcy+bhz+nlz+fk0unk0Ojl0Ojl0urn0uvn0urn0+zn0ejm1Onn1ern1Orn1ern1uvo0+ro1evp1uvq1+zo1Ozp1uzq1u3q1+3r2O3r2QAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIBBVilQ8l0Uxh3NNWUM4yDBpkGAsCRaEADs=",
+        "width": 2952,
+        "height": 2546,
+        "alt_text": "A work made of brush and gray and black ink, with graphite, on ivory laid paper."
+    },
+    "main_reference_number": "1968.684.10cV",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1781,
+    "date_end": 1827,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Pierre Antoine Mongin\nFrench, 1761-1827",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "19.3 \u00d7 15.8 cm (7 5/8 \u00d7 6 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.8,
+            "width_in": 6.2205,
+            "height_cm": 19.3,
+            "height_in": 7.5985,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brush and gray and black ink, with graphite, on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Gift of William H. and Frederick G. Schab in honor of Harold Joachim",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1969,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.6547,
+    "color": {
+        "h": 29,
+        "l": 35,
+        "s": 0,
+        "percentage": 0.00016316913623154353,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35810,
+    "artist_title": "Pierre Antoine Mongin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35810
+    ],
+    "artist_titles": [
+        "Pierre Antoine Mongin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "ink",
+        "graphite",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6f581414-1831-6e9d-28ac-967459b4fc36",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1968.684.10cV"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sketches of a Barrel and Other Objects"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:09-05:00",
+    "updated_at": "2023-04-10T11:08:06-05:00",
+    "timestamp": "2023-09-24T01:10:54-05:00"
+}

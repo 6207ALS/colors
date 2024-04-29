@@ -1,0 +1,38 @@
+{
+    "id": 3546,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3546",
+    "title": "Art Students' League 5th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1898-12-22T00:00:00-06:00",
+    "aic_end_at": "1898-12-29T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "c5c988dd-6ea1-ae44-c9f0-d36e63a75148"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art Students' League 5th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:24-06:00",
+    "timestamp": "2023-09-24T02:01:13-05:00"
+}

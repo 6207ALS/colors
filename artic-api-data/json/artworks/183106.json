@@ -1,0 +1,192 @@
+{
+    "id": 183106,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/183106",
+    "is_boosted": false,
+    "title": "Museum of What's Happening Now",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHc9NYE+LJdVJ4BENJBcMphjN4xza5J6ZY51cJV5dJh5dZqCbJqKcZyLcaCDZq+OaaeYk6eelLioj6qhmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQ001EQCzIAiREIDqQ8UggAOw==",
+        "width": 616,
+        "height": 768,
+        "alt_text": "A work made of color screenprint on white wove paper."
+    },
+    "main_reference_number": "2004.847",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1992,
+    "date_end": 1992,
+    "date_display": "1992",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Roger Brown\nAmerican, 1941-1997",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 43.1 \u00d7 33.4 cm (17 \u00d7 13 3/16 in.); Sheet: 50.7 \u00d7 40.8 cm (20 \u00d7 16 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33.4,
+            "width_in": 13.1497,
+            "height_cm": 43.1,
+            "height_in": 16.9686,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40.8,
+            "width_in": 16.063,
+            "height_cm": 50.7,
+            "height_in": 19.941,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color screenprint on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Roger Brown Study Collection of the School of The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 72.2366,
+    "color": {
+        "h": 41,
+        "l": 54,
+        "s": 88,
+        "percentage": 0.07550849724546356,
+        "population": 669
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33774,
+    "artist_title": "Roger Brown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33774
+    ],
+    "artist_titles": [
+        "Roger Brown"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "silkscreen",
+        "screen printing",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10309",
+    "classification_title": "silkscreen",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-10309",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "silkscreen",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "4e966d16-608b-872f-a39f-7acf0af63167",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.847"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Museum of What's Happening Now"
+            ],
+            "weight": 271,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:14:49-05:00",
+    "timestamp": "2023-09-24T01:34:10-05:00"
+}

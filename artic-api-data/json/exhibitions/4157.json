@@ -1,0 +1,49 @@
+{
+    "id": 4157,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4157",
+    "title": "The Ben Heller Collection of Paintings of the School of New York",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1961-09-22T00:00:00-05:00",
+    "aic_end_at": "1961-10-22T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "d7338233-97b6-cc05-656b-0c8626286076",
+    "alt_image_ids": [
+        "e78519c0-596a-60c9-7ba6-ec6e0e14d670",
+        "aaeb3d0a-c18b-896d-3801-d6375e8b2555",
+        "f57bf430-2341-a798-be69-da6b4551c730",
+        "12a52d0e-22a6-0030-7e7d-31017fafc227",
+        "8280ec9c-5e94-314b-93c9-34d97d758fa9",
+        "89243fb4-e3da-6c01-4caf-1d4efaf98e9f",
+        "a7e44726-0b32-977e-54ea-9df9a9cc3613",
+        "09df5144-6753-e796-c241-81f095d9e25a",
+        "7eb43ca4-5ec1-f362-0304-5281d6917f3e",
+        "21ff6a67-ce2f-e081-c171-608f279cf439"
+    ],
+    "document_ids": [
+        "277d0f99-2cc7-2687-64d3-5ade3c65c491"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Ben Heller Collection of Paintings of the School of New York"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-14T11:29:00-05:00",
+    "updated_at": "2019-10-14T11:31:20-05:00",
+    "timestamp": "2023-09-24T02:01:19-05:00"
+}

@@ -1,0 +1,176 @@
+{
+    "id": 72517,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72517",
+    "is_boosted": false,
+    "title": "Hannah Moore",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAgGCAgICgsLDwwKDAwLDDEwNjg4Pnhybn96dHVyeHp4f62rsK+ts8C6tMK7tMC8u8O+vcbAusnBuQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEAMgXAgQtFERiI5ygI9TAgAOw==",
+        "width": 1697,
+        "height": 2250,
+        "alt_text": "A work made of biscuit porcelain."
+    },
+    "main_reference_number": "1917.80",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1815,
+    "date_end": 1825,
+    "date_display": "c. 1830",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Minton\nEnglish, founded 1793",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "17.5 \u00d7 9.8 \u00d7 11.7 cm (6 7/8 \u00d7 3 7/8 \u00d7 4 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 11.7,
+            "depth_in": 4.625,
+            "width_cm": 9.8,
+            "width_in": 3.875,
+            "height_cm": 17.5,
+            "height_in": 6.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Biscuit porcelain",
+    "inscriptions": null,
+    "credit_line": "The Amelia Blanxius Memorial Collection, gift of Emma B. Hodge and Jene E. Bell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.1741,
+    "color": {
+        "h": 303,
+        "l": 47,
+        "s": 1,
+        "percentage": 0.02994803696989585,
+        "population": 282
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 100955,
+    "artist_title": "Herbert Minton and Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        100955
+    ],
+    "artist_titles": [
+        "Herbert Minton and Company"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "sculpture",
+        "porcelain",
+        "porcelain",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-38",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-38",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "porcelain",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2448",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2448"
+    ],
+    "material_titles": [
+        "porcelain"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c72124ff-09c7-a04b-cb04-b0be59c22d15",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1917.80"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Hannah Moore"
+            ],
+            "weight": 25,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:46:15-05:00",
+    "timestamp": "2023-09-24T00:51:42-05:00"
+}

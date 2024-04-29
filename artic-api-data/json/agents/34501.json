@@ -1,0 +1,31 @@
+{
+    "id": 34501,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34501",
+    "title": "Pierre Fran\u00e7ois L\u00e9onard Fontaine",
+    "sort_title": "Fontaine, Pierre Fran\u00e7ois L\u00e9onard",
+    "alt_titles": [
+        "Pierre F. L. Fontaine"
+    ],
+    "is_artist": true,
+    "birth_date": 1762,
+    "death_date": 1853,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre Fran\u00e7ois L\u00e9onard Fontaine",
+            "Fontaine, Pierre Fran\u00e7ois L\u00e9onard",
+            "Pierre F. L. Fontaine"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-21T10:04:52-05:00",
+    "updated_at": "2022-04-22T10:53:49-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

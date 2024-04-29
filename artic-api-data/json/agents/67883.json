@@ -1,0 +1,41 @@
+{
+    "id": 67883,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/67883",
+    "title": "Agnolo del Mazziere",
+    "sort_title": "Mazziere, Agnolo del",
+    "alt_titles": [
+        "Agnolo di Domenico",
+        "del Mazziere, Agnolo",
+        "Agnolo di Domenico, called del Mazziere",
+        "Agnolo di Domenico, called del Mazziere (Master of Santo Spirito)",
+        "Agnolo del Mazziere, Master of Santo Spirito",
+        "Master of Santo Spirito"
+    ],
+    "is_artist": true,
+    "birth_date": 1460,
+    "death_date": 1515,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Agnolo del Mazziere",
+            "Mazziere, Agnolo del",
+            "Agnolo di Domenico",
+            "del Mazziere, Agnolo",
+            "Agnolo di Domenico, called del Mazziere",
+            "Agnolo di Domenico, called del Mazziere (Master of Santo Spirito)",
+            "Agnolo del Mazziere, Master of Santo Spirito",
+            "Master of Santo Spirito"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:00-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 41683,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41683",
+    "title": "Leone Leoni",
+    "sort_title": "Leoni, Leone",
+    "alt_titles": [
+        "Leone Leoni, (Leone Aretino)",
+        "Leone Lioni, (Leone Aretino)"
+    ],
+    "is_artist": true,
+    "birth_date": 1509,
+    "death_date": 1590,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Leone Leoni",
+            "Leoni, Leone",
+            "Leone Leoni, (Leone Aretino)",
+            "Leone Lioni, (Leone Aretino)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:36-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

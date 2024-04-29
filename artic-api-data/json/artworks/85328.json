@@ -1,0 +1,163 @@
+{
+    "id": 85328,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/85328",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAD4+PkdHR0xMTFBQUFVVVVZWVlxcXF5eXl9fX2FhYWRkZGZmZm5ubnBwcHd3d3x8fIKCgoODg4WFhYmJiY6OjpKSkpSUlJWVlaOjo6ysrK6urrKyssfHx97e3gAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAHAAUAAAUd4HU8CON0EqEgS6JFhpEoDQYBQlAM2TZREEuFEwIAOw==",
+        "width": 3889,
+        "height": 2744,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1955.1708",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1000,
+    "date_end": 1476,
+    "date_display": "A.D. 1000/1476",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Peru, Probably central coast",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": "30.5 \u00d7 22.7 cm (12 \u00d7 9 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.7,
+            "width_in": 9,
+            "height_cm": 30.5,
+            "height_in": 12,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Kate S. Buckingham Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Eduard Gaffron (1861\u20131931), Lima, Peru, from 1892 to 1912, then Berlin, from 1912 [History of the Department report (Joanne Behrens, 1985) and correspondence in curatorial file]; by descent to his children Mercedes Gaffron, Berlin then Durham, SC, and Hans Gaffron (1902\u20131979), Berlin then Chicago [correspondence and documentation of the Gaffron Collection in curatorial file]; sold to the Art Institute, 1955.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.22428900385777087,
+        "population": 1125
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-829",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "aa6d84b1-d46e-dd57-9775-ac985b8ec471",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1955.1708"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-07T10:37:56-06:00",
+    "updated_at": "2023-04-07T12:31:11-05:00",
+    "timestamp": "2023-09-24T00:57:36-05:00"
+}

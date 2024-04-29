@@ -1,0 +1,35 @@
+{
+    "id": 47099,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47099",
+    "title": "Style of Giovanni Battista Salvi",
+    "sort_title": "Salvi, Giovanni Battista, Style of",
+    "alt_titles": [
+        "Style of Sassoferrato",
+        "Style of Sassoferrato, (Giovanni Battista Salvi)",
+        "Style of Giovanni Battista Salvi Sassoferrato"
+    ],
+    "is_artist": true,
+    "birth_date": 1609,
+    "death_date": 1685,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Style of Giovanni Battista Salvi",
+            "Salvi, Giovanni Battista, Style of",
+            "Style of Sassoferrato",
+            "Style of Sassoferrato, (Giovanni Battista Salvi)",
+            "Style of Giovanni Battista Salvi Sassoferrato"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-07-22T12:59:29-05:00",
+    "updated_at": "2022-07-22T13:25:56-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

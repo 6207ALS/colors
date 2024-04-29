@@ -1,0 +1,166 @@
+{
+    "id": 193334,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/193334",
+    "is_boosted": false,
+    "title": "Artist's Studio",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAAG1mXm9qY25qZIZ/d4V+eIWBfYiBeYuGf4yFfZCJhI2QjJaQiZWTjJubkqeelZ+glqegmaahm6Kinayimaqonayon6uqoqyqoa+ppK2up7awp7a0qba1q7i1sb64sry8ucC9t8HCucbBucXEu8LIwczLx9DNyNXRzdbXz97f1N3g1+Hg3Obi3eXl4+bl4uXn4u/w7f39/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuwM6JtXLFWrAXqYCJmEofRQalEiQIHpDEMgqlDIMJZCFiXDgPgAMROGgqlE0jCAA7",
+        "width": 2104,
+        "height": 1088,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "2008.21",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1970,
+    "date_display": "1965",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wucius Wong\nChinese, born 1936",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "94.5 \u00d7 183.5 cm (37 1/4 \u00d7 72 1/4 in.);112 \u00d7 208 cm (44 \u00d7 82 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Fred Eychaner and Tommy Yang Guo in Honor of Jay Xu",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Wucius Wong",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.2877,
+    "color": {
+        "h": 67,
+        "l": 43,
+        "s": 3,
+        "percentage": 0.1444709262463678,
+        "population": 531
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 77979,
+    "artist_title": "Wucius Wong",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        77979
+    ],
+    "artist_titles": [
+        "Wucius Wong"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "ink",
+        "Chinese (culture or style)",
+        "ink",
+        "painting"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-1627",
+    "classification_title": "ink",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-1627",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "ink",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "32b36d1f-abad-7de7-3f99-3845c8d01c63",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.21"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Artist's Studio"
+            ],
+            "weight": 899,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:40-05:00",
+    "updated_at": "2023-04-10T15:20:15-05:00",
+    "timestamp": "2023-09-24T01:37:37-05:00"
+}

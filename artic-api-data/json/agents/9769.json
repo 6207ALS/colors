@@ -1,0 +1,33 @@
+{
+    "id": 9769,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9769",
+    "title": "Bartolomeo di Giovanni",
+    "sort_title": "Bartolomeo di Giovanni",
+    "alt_titles": [
+        "Alunno di Domenico",
+        "Bartolommeo di Giovanni, (Alunno di Domenico)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bartolomeo di Giovanni",
+            "Bartolomeo di Giovanni",
+            "Alunno di Domenico",
+            "Bartolommeo di Giovanni, (Alunno di Domenico)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-25T11:01:47-05:00",
+    "updated_at": "2022-03-15T16:49:03-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

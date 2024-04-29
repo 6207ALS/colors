@@ -1,0 +1,182 @@
+{
+    "id": 78793,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/78793",
+    "is_boosted": false,
+    "title": "In the Light of the Moon",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHx6bYSCdYeFd5SThJ6cjqGfkK6rna+snbOwoLSxo7u5qr26rsK+rsbDs8TCtMfFtMrHt8zKudPQwdbSwtfUxNfUxtjTw9jVxdjVxtnWxt3ay97bzOHdzuHezgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIKddG5VVWOQUz6JAxNBIASAYnZUcCDOFADs=",
+        "width": 3000,
+        "height": 2425,
+        "alt_text": "A work made of black crayon, with incising, on off-white wove paper."
+    },
+    "main_reference_number": "1952.1166",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1951,
+    "date_display": "1951",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Edward Balchowsky\nAmerican, born 1916",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "28 \u00d7 34.4 cm (11 1/16 \u00d7 13 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 34.4,
+            "width_in": 13.5434,
+            "height_cm": 28,
+            "height_in": 11.0237,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Black crayon, with incising, on off-white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Print and Drawing Club",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.5243,
+    "color": {
+        "h": 54,
+        "l": 47,
+        "s": 13,
+        "percentage": 0.010103068720028288,
+        "population": 58
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 1466,
+    "artist_title": "Edward Balchowsky",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1466
+    ],
+    "artist_titles": [
+        "Edward Balchowsky"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "crayon",
+        "incising",
+        "paper (fiber product)",
+        "crayons",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-23",
+    "classification_title": "crayon",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-23",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "crayon",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2418"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2418"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "crayons"
+    ],
+    "technique_id": "TM-3851",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3851"
+    ],
+    "technique_titles": [
+        "incising"
+    ],
+    "theme_titles": [],
+    "image_id": "ada71ccf-37d3-6cd6-8afd-cbcbcfab7140",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1952.1166"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "In the Light of the Moon"
+            ],
+            "weight": 281,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:31:07-05:00",
+    "timestamp": "2023-09-24T00:53:57-05:00"
+}

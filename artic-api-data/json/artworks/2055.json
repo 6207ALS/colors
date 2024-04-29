@@ -1,0 +1,151 @@
+{
+    "id": 2055,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/2055",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAACQiGSonHj8wHi8uIzIuIjQvIjk0JkAxH04/K0I+ME5BLFhRPWFIKm1TNXBdP3RfPnVhQn1nQ4FsSoduTI14WI97WpZ5UJl8UJx9UZ9/VamOY76aacWhbtOiYNKobtCocdatddKte9ywc9axf960e+y6d+rGlfDJlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwJNJg4lcSp3RonAYJCQcioHQQAQAjopCMPlYIJvQg5EBkUSeIAA7",
+        "width": 2232,
+        "height": 1395,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1956.73",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": null,
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Peru",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Edwin A. Seipp",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Pablo Soldi, Ica, Peru, by 1956 [sent care of Rudolfo Byrne, Brooklyn, NY; incoming Receipt RX1913 dated 5/21/1956 in curatorial file]; sold to the Art Institute of Chicago, 1956.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.6783,
+    "color": {
+        "h": 32,
+        "l": 82,
+        "s": 98,
+        "percentage": 0.04307448051274418,
+        "population": 191
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-829",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "1fbf322e-136d-adc4-5234-d3fe812c54f7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.73"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-27T11:23:26-05:00",
+    "updated_at": "2023-07-27T11:26:40-05:00",
+    "timestamp": "2023-09-24T00:21:08-05:00"
+}

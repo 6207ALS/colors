@@ -1,0 +1,33 @@
+{
+    "id": 36400,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36400",
+    "title": "Luca della Robbia",
+    "sort_title": "Robbia, Luca della",
+    "alt_titles": [
+        "Luca Della Robbia",
+        "Luca di Simone di Marco della Robbia"
+    ],
+    "is_artist": true,
+    "birth_date": 1400,
+    "death_date": 1482,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Luca della Robbia",
+            "Robbia, Luca della",
+            "Luca Della Robbia",
+            "Luca di Simone di Marco della Robbia"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:05-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

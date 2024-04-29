@@ -1,0 +1,172 @@
+{
+    "id": 26800,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/26800",
+    "is_boosted": false,
+    "title": "The Artist's Wife and Children",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACglIC0qIy0qJC4rJjg0LDo2LTs2Ljw4Lj46MkNANURAN0pGOktHPE1IPlJOQlRPRFRQRV5aTF9aTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoEEIQ1AoQCBFR+MsyQMhTAgAOw==",
+        "width": 2397,
+        "height": 3000,
+        "alt_text": "A work made of mezzotint on paper."
+    },
+    "main_reference_number": "1938.68",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1665,
+    "date_end": 1677,
+    "date_display": "1665/77",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wallerant Vaillant\nDutch, 1623-1677",
+    "place_of_origin": "Flanders",
+    "description": "<p>The oldest of five artist brothers, Wallerant Vaillant was a successful Dutch artist who made several portraits of royalty. He frequently used the newly discovered technique of mezzotint, as he has done in this print, in which the surface of a copper plate is entirely roughened by a rocker and then burnished to achieve tonal effects.</p>\n",
+    "dimensions": "37.4 \u00d7 29.6 cm (14 3/4 \u00d7 11 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 29.6,
+            "width_in": 11.6536,
+            "height_cm": 37.4,
+            "height_in": 14.7245,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Mezzotint on paper",
+    "inscriptions": null,
+    "credit_line": "William McCallin McKee Memorial Endowment",
+    "catalogue_display": "<p>Hollstein Vol. XXXI, 210</p><p>Wessely 12</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.4822,
+    "color": {
+        "h": 41,
+        "l": 49,
+        "s": 11,
+        "percentage": 0.018889882106896495,
+        "population": 168
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 37081,
+    "artist_title": "Wallerand Vaillant",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37081
+    ],
+    "artist_titles": [
+        "Wallerand Vaillant"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "mezzotint",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-22",
+    "classification_title": "mezzotint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-22",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "mezzotint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "42031de7-e51f-f74d-ae2c-13de50357ab3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.68"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Artist's Wife and Children"
+            ],
+            "weight": 137,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:11:55-05:00",
+    "timestamp": "2023-09-24T00:32:18-05:00"
+}

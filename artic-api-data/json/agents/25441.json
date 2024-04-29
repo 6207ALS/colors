@@ -1,0 +1,28 @@
+{
+    "id": 25441,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/25441",
+    "title": "Takei Takeo",
+    "sort_title": "Takei Takeo",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1894,
+    "death_date": 1983,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Takei Takeo",
+            "Takei Takeo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-06-06T14:51:24-05:00",
+    "updated_at": "2023-06-06T14:52:36-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

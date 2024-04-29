@@ -1,0 +1,31 @@
+{
+    "id": 33552,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33552",
+    "title": "Johann Friedrich Bause",
+    "sort_title": "Bause, Johann Friedrich",
+    "alt_titles": [
+        "Johann F. Bause"
+    ],
+    "is_artist": true,
+    "birth_date": 1738,
+    "death_date": 1814,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Friedrich Bause",
+            "Bause, Johann Friedrich",
+            "Johann F. Bause"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:51:33-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

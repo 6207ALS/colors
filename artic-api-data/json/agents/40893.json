@@ -1,0 +1,47 @@
+{
+    "id": 40893,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40893",
+    "title": "Pieter de Witte",
+    "sort_title": "Witte, Pieter de",
+    "alt_titles": [
+        "Pietro Candido",
+        "Peter de Witte",
+        "Pieter de Witte, (Pietro Candido)",
+        "Peter Candid",
+        "Pieter d'Elia Candido",
+        "Peter Wit, (Peter Candid)",
+        "Peter Wit, (Pietro Candido)",
+        "Peter Witte, (Peter Candid)",
+        "Peter Witte, (Pietro Candido)"
+    ],
+    "is_artist": true,
+    "birth_date": 1548,
+    "death_date": 1628,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pieter de Witte",
+            "Witte, Pieter de",
+            "Pietro Candido",
+            "Peter de Witte",
+            "Pieter de Witte, (Pietro Candido)",
+            "Peter Candid",
+            "Pieter d'Elia Candido",
+            "Peter Wit, (Peter Candid)",
+            "Peter Wit, (Pietro Candido)",
+            "Peter Witte, (Peter Candid)",
+            "Peter Witte, (Pietro Candido)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:36-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

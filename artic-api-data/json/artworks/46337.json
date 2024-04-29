@@ -1,0 +1,162 @@
+{
+    "id": 46337,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46337",
+    "is_boosted": false,
+    "title": "Portrait of a Gentleman",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "1943.99",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1822,
+    "date_end": 1829,
+    "date_display": "1822\u201329",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Samuel F. B. Morse\nAmerican, 1791\u20131872",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "76.8 \u00d7 63.5 cm (30 1/4 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 76.8,
+            "height_in": 30.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Cyrus Hall McCormick Fund",
+    "catalogue_display": null,
+    "publication_history": "The Art Institute of Chicago: Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection, (Art Institute of Chicago, 1961), p. 341.",
+    "exhibition_history": "Baltimore, Walters Gallery, 1943.\n\nMilwaukee Art Institute, Nineteenth Century American Masters, Feb. 20\u2013Mar. 28, 1948, press release with checklist only, no. 33.\n\nVancouver Art Gallery, Canada, Two Hundred Years of American Painting, Mar. 8 to Apr. 3, 1955, cat. 14.\n\nArt Institute of Chicago, <a href=\"https://www.artic.edu/exhibitions/4071/two-centuries-of-american-art-1750-1950\"><em>Two Centuries of American Art, 1750-1950</em></a>, Oct. 1, 1959\u2013Jan. 10, 1960, no cat. [downloadable checklist available].",
+    "provenance_text": "Henry D. H. Rolfs and C.C. Markham, Brooklyn. Mrs. Frank M. Widner, Brooklyn; sold to Art Institute 1943.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1943,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 17803,
+    "artist_title": "Samuel F. B. Morse",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        17803
+    ],
+    "artist_titles": [
+        "Samuel F. B. Morse"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "organic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.99"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Gentleman"
+            ],
+            "weight": 130,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-07T17:37:23-05:00",
+    "updated_at": "2023-08-07T17:40:59-05:00",
+    "timestamp": "2023-09-24T00:40:37-05:00"
+}

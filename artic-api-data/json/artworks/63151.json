@@ -1,0 +1,198 @@
+{
+    "id": 63151,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/63151",
+    "is_boosted": false,
+    "title": "Teller's wicket from the National Farmers Bank, Owatonna, Minnesota",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFxgVWJnW3yBeIaMgoeMg4uQh46Ti5GWjZWakpabk5qgmZqgmqirpKuvp8DEvAAAACH5BAAAAAAALAAAAAADAAUAAAQLkIlWgEnukDAUWhEAOw==",
+        "width": 1460,
+        "height": 2250,
+        "alt_text": "A rectangular grille with ornamental details including organic and geometric forms, an open arch at bottom, and an elliptical window in the center."
+    },
+    "main_reference_number": "1908.73",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1856,
+    "date_end": 1924,
+    "date_display": "1906/08",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Louis H. Sullivan\nAmerican, 1856-1924",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "57.8 \u00d7 104.2 cm (22 3/4 \u00d7 41 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 104.2,
+            "width_in": 41,
+            "height_cm": 57.8,
+            "height_in": 22.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Copper-plated cast iron",
+    "inscriptions": null,
+    "credit_line": "Gift of the Winslow Brothers Company",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.7517,
+    "color": {
+        "h": 149,
+        "l": 49,
+        "s": 5,
+        "percentage": 0.006940277994661466,
+        "population": 76
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 32803,
+    "artist_title": "Louis H. Sullivan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32803
+    ],
+    "artist_titles": [
+        "Louis H. Sullivan"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural detail",
+        "cooper-plated cast iron",
+        "architecture",
+        "architecture",
+        "architectural fragment",
+        "bank",
+        "design",
+        "geometric",
+        "minnesota",
+        "organic"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-174",
+    "classification_title": "architectural detail",
+    "alt_classification_ids": [
+        "TM-103",
+        "TM-184"
+    ],
+    "classification_ids": [
+        "TM-174",
+        "TM-103",
+        "TM-184"
+    ],
+    "classification_titles": [
+        "architectural detail",
+        "architecture",
+        "architectural fragment"
+    ],
+    "subject_id": "TM-12085",
+    "alt_subject_ids": [
+        "TM-13883",
+        "TM-12574",
+        "TM-9124",
+        "TM-15113",
+        "TM-14571"
+    ],
+    "subject_ids": [
+        "TM-12085",
+        "TM-13883",
+        "TM-12574",
+        "TM-9124",
+        "TM-15113",
+        "TM-14571"
+    ],
+    "subject_titles": [
+        "architecture",
+        "bank",
+        "design",
+        "geometric",
+        "minnesota",
+        "organic"
+    ],
+    "material_id": "TM-15118",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-15118"
+    ],
+    "material_titles": [
+        "cooper-plated cast iron"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "245d8fde-c637-8d4c-ac14-d373724b0d7c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1908.73"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Teller's wicket from the National Farmers Bank, Owatonna, Minnesota"
+            ],
+            "weight": 1191,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-18T10:09:25-05:00",
+    "updated_at": "2023-09-23T23:21:31-05:00",
+    "timestamp": "2023-09-24T00:47:43-05:00"
+}

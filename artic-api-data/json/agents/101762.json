@@ -1,0 +1,28 @@
+{
+    "id": 101762,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/101762",
+    "title": "Max Baur",
+    "sort_title": "Baur, Max",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1898,
+    "death_date": 1988,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Baur",
+            "Baur, Max"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-08T09:00:28-06:00",
+    "updated_at": "2021-02-08T09:05:13-06:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

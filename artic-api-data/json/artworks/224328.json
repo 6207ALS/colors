@@ -1,0 +1,162 @@
+{
+    "id": 224328,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/224328",
+    "is_boosted": false,
+    "title": "LOVE",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAJ+enqioqbCvsbS1tra2trW2ubm4uL29vdHS09PU1dLU1tjY2Nvb29rb3dzc3Nzc3dzd3d3d3d/f393e4eHh4eLi4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIKJUDQNNSfFIyEAwhxAABuNECxUCADs=",
+        "width": 2250,
+        "height": 2250,
+        "alt_text": "A work made of cast aluminum."
+    },
+    "main_reference_number": "2014.1056",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1966,
+    "date_end": 1966,
+    "date_display": "1966",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Robert Indiana\nAmerican, 1928-2018",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "30.5 \u00d7 30.5 \u00d7 15.3 cm (12 \u00d7 12 \u00d7 6 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 15.3,
+            "depth_in": 6,
+            "width_cm": 30.5,
+            "width_in": 12,
+            "height_cm": 30.5,
+            "height_in": 12,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cast aluminum",
+    "inscriptions": null,
+    "credit_line": "Gift of the estates of Walter Netsch and Dawn Clark Netsch",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.7656,
+    "color": {
+        "h": 204,
+        "l": 45,
+        "s": 1,
+        "percentage": 0.0406670522297224,
+        "population": 289
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 35058,
+    "artist_title": "Robert Indiana",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35058
+    ],
+    "artist_titles": [
+        "Robert Indiana"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "1417e303-b381-26d5-6f96-03606493777e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.1056"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "LOVE"
+            ],
+            "weight": 163,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:30-05:00",
+    "updated_at": "2023-04-07T15:17:00-05:00",
+    "timestamp": "2023-09-24T01:47:09-05:00"
+}

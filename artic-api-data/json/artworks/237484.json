@@ -1,0 +1,171 @@
+{
+    "id": 237484,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/237484",
+    "is_boosted": false,
+    "title": "Prentice Laboratory, Madison, Wisconsin, Lawn Perspective",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAJaWkqGhnKChnqGhnq+vq7q6t8DAvMHBvMjJw8nJxM7OydDPydDQy9HRzNTTzNXUz9nZ097c193d2OLh2uPi3eTk3ufn4Ojn4ejo4eno4evo4urp4+rq4urq4+zp4+3q4+vq5Ovr5O3r5O3s5ezs5u3s5u7t5u/t5u7u5wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQBGpg8lwQqjTRULZbCwVyOQhGBwQhADAESkYEg2GYuH5jECbDKhk0gQBADs=",
+        "width": 3850,
+        "height": 2274,
+        "alt_text": "A work made of graphite on illustration board."
+    },
+    "main_reference_number": "1994.89.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1959,
+    "date_end": 1959,
+    "date_display": "1959",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Franz Lipp\nAmerican, born Germany, 1897\u20131996",
+    "place_of_origin": "Madison",
+    "description": null,
+    "dimensions": "43 \u00d7 71 cm (16 15/16 \u00d7 27 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 71,
+            "width_in": 27.9375,
+            "height_cm": 43,
+            "height_in": 16.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on illustration board",
+    "inscriptions": null,
+    "credit_line": "Gift of Franz Lipp through The Chicago Botanic Garden",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.1654,
+    "color": {
+        "h": 62,
+        "l": 54,
+        "s": 1,
+        "percentage": 0.05550076938834818,
+        "population": 233
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 44285,
+    "artist_title": "Franz Lipp",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44285
+    ],
+    "artist_titles": [
+        "Franz Lipp"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "landscape drawing",
+        "presentation drawing",
+        "design drawing",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1271",
+    "classification_title": "landscape drawing",
+    "alt_classification_ids": [
+        "TM-920",
+        "TM-914",
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-1271",
+        "TM-920",
+        "TM-914",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "landscape drawing",
+        "presentation drawing",
+        "design drawing",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d1c7c7e5-ea37-e9e2-1bbb-72eba0611d2b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1994.89.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Prentice Laboratory, Madison, Wisconsin, Lawn Perspective"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:00:59-05:00",
+    "timestamp": "2023-09-24T01:52:22-05:00"
+}

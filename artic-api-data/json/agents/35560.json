@@ -1,0 +1,31 @@
+{
+    "id": 35560,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35560",
+    "title": "Nicolaes Maes",
+    "sort_title": "Maes, Nicolaes",
+    "alt_titles": [
+        "Nicolaes Maas"
+    ],
+    "is_artist": true,
+    "birth_date": 1632,
+    "death_date": 1693,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolaes Maes",
+            "Maes, Nicolaes",
+            "Nicolaes Maas"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:57:04-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

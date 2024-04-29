@@ -1,0 +1,166 @@
+{
+    "id": 72366,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72366",
+    "is_boosted": false,
+    "title": "Half Shawl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUhADEzNjM1NzY3Ok9PT1BRVFJTVFZYW1pcX15fYF5gYmNjYmRjY2ZmZmpqam1ta25tbHBvbm1tcHBwcnRzdXt5eHx7e35+fn9+foCAg4KDhISDhIiFgY+NjLW1trq2tMfHyPz8/P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIYFkzgYABzNRBIhBDwXx2MhyFAqDMigE9ooCohPCBQEADs=",
+        "width": 3000,
+        "height": 2151,
+        "alt_text": "A work made of silk, pusher machine lace."
+    },
+    "main_reference_number": "1917.23",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1865,
+    "date_end": 1875,
+    "date_display": "1865/75",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France or England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "132.7 \u00d7 288.6 cm (52 1/4 \u00d7 113 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 288.6,
+            "width_in": 113.625,
+            "height_cm": 132.7,
+            "height_in": 52.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, Pusher machine lace",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Austin B. Reeve",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.6895,
+    "color": {
+        "h": 38,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.06500750237640718,
+        "population": 331
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - machine",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-993"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-993"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - machine"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2d2159ed-397c-909b-2149-9d59437a693a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1917.23"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Half Shawl"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:42:48-05:00",
+    "timestamp": "2023-09-24T00:51:38-05:00"
+}

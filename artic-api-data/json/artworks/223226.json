@@ -1,0 +1,155 @@
+{
+    "id": 223226,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/223226",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAExMR01NSVFSTVZXUWdoY21tZnZ1ZoB7Z4R/bIuIeZGLdpqUfa2dbKibd66he62hfsKvfcSxd6+khb6vg8KygsW0hMW0hcu5gMW3i8a2i8e5j8m6ism7i8m7jAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYIIoxrEQQDAIhdQ8DjNlkFVFl0Zh3caFADs=",
+        "width": 3000,
+        "height": 2362,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1979.1411d",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1966,
+    "date_end": 1976,
+    "date_display": "c. 1971",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Sonia Landy Sheridan\nAmerican, born 1925",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "101.5 (unfolded); 20.5 cm (folded) \u00d7 26.1 cm (image/paper)",
+    "dimensions_detail": [],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Sonia Landy Sheridan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1980,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 40.4099,
+    "color": {
+        "h": 42,
+        "l": 63,
+        "s": 42,
+        "percentage": 0.7372908002115222,
+        "population": 4127
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36635,
+    "artist_title": "Sonia Landy Sheridan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36635
+    ],
+    "artist_titles": [
+        "Sonia Landy Sheridan"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Women artists"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "7f7295a8-ea6d-ea0f-5b6e-ff768e6167be",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1979.1411d"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-03-22T14:36:39-05:00",
+    "updated_at": "2023-04-10T15:12:34-05:00",
+    "timestamp": "2023-09-24T01:46:49-05:00"
+}

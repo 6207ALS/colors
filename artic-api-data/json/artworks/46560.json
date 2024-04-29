@@ -1,0 +1,160 @@
+{
+    "id": 46560,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46560",
+    "is_boosted": false,
+    "title": "Breakfast",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD08N0dFP0dGP19dVGRhWGRiWmZkWmdlXGhlXG5sY3FvZnh2bHt3bH15b316cIF/dcjDts/KvNLOwdXSxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIMQjSEMTqEcS/IAQTRJUAgAOw==",
+        "width": 2123,
+        "height": 3000,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1974.63",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1718,
+    "date_end": 1755,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fran\u00e7ois Bernard L\u00e9pici\u00e9 (French, 1698-1755)\nafter Fran\u00e7ois Boucher (French, 1703-1770)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Carter H. Harrison Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.3602,
+    "color": {
+        "h": 99,
+        "l": 47,
+        "s": 4,
+        "percentage": 0.02041806231592619,
+        "population": 205
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42367,
+    "artist_title": "Fran\u00e7ois Bernard L\u00e9pici\u00e9",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42367
+    ],
+    "artist_titles": [
+        "Fran\u00e7ois Bernard L\u00e9pici\u00e9"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8795a04e-ba12-c83f-e3ba-697165b2661e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.63"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Breakfast"
+            ],
+            "weight": 92,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-06-28T09:35:09-05:00",
+    "updated_at": "2023-04-10T15:08:40-05:00",
+    "timestamp": "2023-09-24T00:40:43-05:00"
+}

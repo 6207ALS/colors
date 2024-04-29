@@ -1,0 +1,170 @@
+{
+    "id": 135331,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/135331",
+    "is_boosted": false,
+    "title": "View from Balcony with Three Chairs",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAALatlbeulriwmbuym7yzm7yynL+2n8O3ncG3n8K3nsK4n8S4nsS5n8G3oMK4oMO5ocO4osO5osK5o8S6o8W7o8a7ose8o8W7pMa7pMe9pce9p8i9o8i9pMe9qMi9qAAAACH5BAAAAAAALAAAAAAHAAUAAAUdoLdQnZZBGLNVFndIARVdU1IAgzAQioE8DQeCEgIAOw==",
+        "width": 8614,
+        "height": 5966,
+        "alt_text": "A work made of ink on tracing paper.."
+    },
+    "main_reference_number": "1983.1802.4",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1930,
+    "date_display": "c. 1930",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ludwig Karl Hilberseimer\nAmerican, born Germany 1885\u20131967",
+    "place_of_origin": "Berlin",
+    "description": null,
+    "dimensions": "23.5 \u00d7 34 cm (9 1/4 \u00d7 3 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 34,
+            "width_in": 3.375,
+            "height_cm": 23.5,
+            "height_in": 9.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on tracing paper.",
+    "inscriptions": null,
+    "credit_line": "Gift of George E. Danforth",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.4383,
+    "color": {
+        "h": 39,
+        "l": 55,
+        "s": 18,
+        "percentage": 0.03717154974893969,
+        "population": 183
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 34787,
+    "artist_title": "Ludwig Karl Hilberseimer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34787
+    ],
+    "artist_titles": [
+        "Ludwig Karl Hilberseimer"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural drawing",
+        "paper (fiber product)",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8ecb1947-4f23-52d2-a34b-764dc2a1f7d5",
+    "alt_image_ids": [
+        "29db0049-93e6-16a3-13cf-15a3a127cb13"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.1802.4"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "View from Balcony with Three Chairs"
+            ],
+            "weight": 3,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T08:27:57-05:00",
+    "timestamp": "2023-09-24T01:20:56-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 3065,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3065",
+    "title": "Alexander Stuart Boyd",
+    "sort_title": "Boyd, Alexander Stuart",
+    "alt_titles": [
+        "Twym"
+    ],
+    "is_artist": true,
+    "birth_date": 1854,
+    "death_date": 1930,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alexander Stuart Boyd",
+            "Boyd, Alexander Stuart",
+            "Twym"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:37-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

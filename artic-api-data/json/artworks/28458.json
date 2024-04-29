@@ -1,0 +1,173 @@
+{
+    "id": 28458,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/28458",
+    "is_boosted": false,
+    "title": "Standing Figure of Hercules",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFhLQG1hVHVpXnZsZJCFe5qQjKeemq+moK6mpLWspryzrcvDv83FwNvTz+be2QAAACH5BAAAAAAALAAAAAADAAUAAAQLsBjEwHDhNKEWSREAOw==",
+        "width": 1360,
+        "height": 2250,
+        "alt_text": "A work made of wood with traces of gilding."
+    },
+    "main_reference_number": "1967.696",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1700,
+    "date_end": 1725,
+    "date_display": "1700/25",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Andrea Brustolon (School of) \nItalian, 1662-1732",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "H.: 83.2 cm (32 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 83.2,
+            "height_in": 32.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wood with traces of gilding",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. James W. Alsdorf",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Mr. and Mrs. James W. Alsdorf, Winnetka, Illinois, by 1967; given to the Art Institute, 1967.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1968,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.8853,
+    "color": {
+        "h": 9,
+        "l": 64,
+        "s": 5,
+        "percentage": 0.012500159440809192,
+        "population": 147
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 46283,
+    "artist_title": "School of Brustolon Andrea",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        46283
+    ],
+    "artist_titles": [
+        "School of Brustolon Andrea"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "statuette",
+        "wood (plant material)",
+        "plant material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-114",
+    "classification_title": "statuette",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-114",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "statuette",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2431",
+    "alt_material_ids": [
+        "TM-3478"
+    ],
+    "material_ids": [
+        "TM-2431",
+        "TM-3478"
+    ],
+    "material_titles": [
+        "wood (plant material)",
+        "plant material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3e4776e6-a9b9-e192-64e4-17f0c3efdfc0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1967.696"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Standing Figure of Hercules"
+            ],
+            "weight": 654,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:08:13-05:00",
+    "timestamp": "2023-09-24T00:33:01-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 62078,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62078",
+    "title": "Lee Ufan",
+    "sort_title": "Ufan, Lee",
+    "alt_titles": [
+        "Lee U-Fan",
+        "U-hwan Yi",
+        "Ukan Ri",
+        "Ufan Lee",
+        "U Fan Lee"
+    ],
+    "is_artist": true,
+    "birth_date": 1936,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lee Ufan",
+            "Ufan, Lee",
+            "Lee U-Fan",
+            "U-hwan Yi",
+            "Ukan Ri",
+            "Ufan Lee",
+            "U Fan Lee"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-02T16:58:29-05:00",
+    "updated_at": "2022-03-15T16:59:31-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

@@ -1,0 +1,181 @@
+{
+    "id": 20475,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/20475",
+    "is_boosted": false,
+    "title": "Portrait of Augustine Taylor",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFxYUXVuY31zZH90Znl2aot9aImDc4eBfYyDeY+FepCGfZCKhrGZgaahn6aiowAAACH5BAAAAAAALAAAAAADAAUAAAQL0KmGShJsABKOWREAOw==",
+        "width": 1549,
+        "height": 2250,
+        "alt_text": "A work made of watercolor on ivory."
+    },
+    "main_reference_number": "1964.141",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1777,
+    "date_end": 1794,
+    "date_display": "1777\u201394",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "John Ramage\nAmerican, born Ireland, 1748\u20131842",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "4.7 \u00d7 3.4 cm (1 13/16 \u00d7 1 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 3.4,
+            "width_in": 1.3125,
+            "height_cm": 4.7,
+            "height_in": 1.8125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor on ivory",
+    "inscriptions": null,
+    "credit_line": "Mary Louise Stevenson Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.8748,
+    "color": {
+        "h": 37,
+        "l": 39,
+        "s": 9,
+        "percentage": 0.20274618348723436,
+        "population": 2092
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Miniature Painting",
+    "artwork_type_id": 30,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36315,
+    "artist_title": "John Ramage",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36315
+    ],
+    "artist_titles": [
+        "John Ramage"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "miniature painting",
+        "watercolor",
+        "ivory",
+        "american arts",
+        "miniature",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-340",
+    "classification_title": "miniature painting",
+    "alt_classification_ids": [
+        "TM-2191",
+        "TM-591",
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-340",
+        "TM-2191",
+        "TM-591",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "miniature painting",
+        "american arts",
+        "miniature",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2403",
+    "alt_material_ids": [
+        "TM-2442"
+    ],
+    "material_ids": [
+        "TM-2403",
+        "TM-2442"
+    ],
+    "material_titles": [
+        "watercolor",
+        "ivory"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "51e6ac91-b2fe-ce86-2b10-1ab3ea4e7584",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.141"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Augustine Taylor"
+            ],
+            "weight": 1463,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:25:08-05:00",
+    "timestamp": "2023-09-24T00:28:46-05:00"
+}

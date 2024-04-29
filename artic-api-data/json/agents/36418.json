@@ -1,0 +1,57 @@
+{
+    "id": 36418,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36418",
+    "title": "Auguste Rodin",
+    "sort_title": "Rodin, Auguste",
+    "alt_titles": [
+        "Auguste (Fran\u00e7ois A. Rene) Rodin",
+        "Fran\u00e7ois Auguste Rodin",
+        "Ogiust Roden",
+        "Rodin",
+        "Lo-tan",
+        "Rodan",
+        "\u5965\u53e4\u65af\u7279\u00b7\u7f57\u4e39"
+    ],
+    "is_artist": true,
+    "birth_date": 1840,
+    "death_date": 1917,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Auguste Rodin",
+            "Rodin, Auguste",
+            "Auguste (Fran\u00e7ois A. Rene) Rodin",
+            "Fran\u00e7ois Auguste Rodin",
+            "Ogiust Roden",
+            "Rodin",
+            "Lo-tan",
+            "Rodan",
+            "\u5965\u53e4\u65af\u7279\u00b7\u7f57\u4e39"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Auguste Rodin",
+            "Rodin, Auguste",
+            "Auguste (Fran\u00e7ois A. Rene) Rodin",
+            "Fran\u00e7ois Auguste Rodin",
+            "Ogiust Roden",
+            "Rodin",
+            "Lo-tan",
+            "Rodan",
+            "\u5965\u53e4\u65af\u7279\u00b7\u7f57\u4e39"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T18:27:49-05:00",
+    "updated_at": "2022-03-15T16:38:03-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

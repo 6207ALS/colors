@@ -1,0 +1,182 @@
+{
+    "id": 125100,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/125100",
+    "is_boosted": false,
+    "title": "Laudant deum qui creavit omnia",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFlVSXhzZIF8bIN+bI6Hd5eSgJ2XhKScirq0ob62o7+3pcC4pcK6pMG8qMW9qMS/q8a+qse/q8W/rcbAq8fBrcnDrsnDr8vErwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4FM1ljQZg0BdQFAg0EEwS+JEiRICADs=",
+        "width": 2829,
+        "height": 3000,
+        "alt_text": "A work made of wood engraving on paper."
+    },
+    "main_reference_number": "1924.92.19",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1916,
+    "date_end": 1916,
+    "date_display": "1916",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Eric Gill\nEnglish, 1882-1940",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Sheet: 11.2 \u00d7 12 cm (4 7/16 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12,
+            "width_in": 4.7245,
+            "height_cm": 11.2,
+            "height_in": 4.4095,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Wood engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Print and Drawing Club",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1924,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.9919,
+    "color": {
+        "h": 44,
+        "l": 48,
+        "s": 9,
+        "percentage": 0.0049094928361211295,
+        "population": 37
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34654,
+    "artist_title": "Eric Gill",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34654
+    ],
+    "artist_titles": [
+        "Eric Gill"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "wood engraving",
+        "wood engraving (process)",
+        "paper (fiber product)",
+        "printing",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-259",
+    "classification_title": "wood engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-259",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "wood engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3876",
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3876",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "wood engraving (process)",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "e678d8b0-e0af-d3bf-6278-469c16b70991",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1924.92.19"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Laudant deum qui creavit omnia"
+            ],
+            "weight": 136,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:11-05:00",
+    "updated_at": "2023-04-10T10:40:44-05:00",
+    "timestamp": "2023-09-24T01:16:22-05:00"
+}

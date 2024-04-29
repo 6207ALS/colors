@@ -1,0 +1,168 @@
+{
+    "id": 87039,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/87039",
+    "is_boosted": false,
+    "title": "Dirck Volckertsz. Coornhert (1522-1590), Author, Secretary of the City of Haarlem, Printmaker, Goltzius's Teacher",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGljWGpjWHt2aoN8b4V+comDdYqDdoyGeZGKfJOMfp2XiKOcjqWej6WekK+omLixod3WyNzWyejh0uvk1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NQc0YIUQjA4AJEwD6QYUggAOw==",
+        "width": 1726,
+        "height": 2250,
+        "alt_text": "A work made of engraving in black on ivory laid paper."
+    },
+    "main_reference_number": "1961.878",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1591,
+    "date_end": 1592,
+    "date_display": "1591",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Hendrick Goltzius\nDutch, 1558-1617",
+    "place_of_origin": "Netherlands",
+    "description": "<p>In this print Hendrick Goltzius simultaneously paid homage to his teacher while also displaying his own virtuosic talent for engraving. By manipulating the difficult process, which includes sculpting directly into a metal plate with a chisel-like tool called a burin, Goltzius achieved an astonishing degree of realism. To underscore the aim of this portrait, Goltzius included the inscription Ad Vivum Depictus (Drawn from Life).</p>\n",
+    "dimensions": "Trimmed within platemark: 42.5 \u00d7 32.4 cm (16 3/4 \u00d7 12 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 32.4,
+            "width_in": 12.756,
+            "height_cm": 42.5,
+            "height_in": 16.7323,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Trimmed within platemark"
+        }
+    ],
+    "medium_display": "Engraving in black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Dr. Harold Joachim",
+    "catalogue_display": "<p>Bartsch 164 III/III</p><p>Strauss 287 III/III</p><p>Hollstein, The New 211 III/III</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.2658,
+    "color": {
+        "h": 38,
+        "l": 93,
+        "s": 60,
+        "percentage": 0.2496608045489429,
+        "population": 2313
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34692,
+    "artist_title": "Hendrick Goltzius",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34692
+    ],
+    "artist_titles": [
+        "Hendrick Goltzius"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "print",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "45a08123-79eb-7ea6-9983-d3c9230eabf0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1961.878"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dirck Volckertsz. Coornhert (1522-1590), Author, Secretary of the City of Haarlem, Printmaker, Goltzius's Teacher"
+            ],
+            "weight": 125,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:04:46-05:00",
+    "timestamp": "2023-09-24T00:58:32-05:00"
+}

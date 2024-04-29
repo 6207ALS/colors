@@ -1,0 +1,33 @@
+{
+    "id": 30500,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30500",
+    "title": "Hyacinthe Louis Aubry-Lecomte",
+    "sort_title": "Aubry-Lecomte, Hyacinthe Louis",
+    "alt_titles": [
+        "Hyacinthe L. Aubry-Lecomte",
+        "Hyacinthe Louis Victor Jean Baptiste Aubry-Lecomte"
+    ],
+    "is_artist": true,
+    "birth_date": 1787,
+    "death_date": 1858,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hyacinthe Louis Aubry-Lecomte",
+            "Aubry-Lecomte, Hyacinthe Louis",
+            "Hyacinthe L. Aubry-Lecomte",
+            "Hyacinthe Louis Victor Jean Baptiste Aubry-Lecomte"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:54:16-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

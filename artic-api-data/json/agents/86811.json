@@ -1,0 +1,37 @@
+{
+    "id": 86811,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/86811",
+    "title": "Master of the Liechtenstein Adoration",
+    "sort_title": "Master of the Liechtenstein Adoration",
+    "alt_titles": [
+        "Anonymous Liechtenstein Master",
+        "Master of the Liechtenstein Adoration Drawings",
+        "Master of the Liechtenstein Album",
+        "Lichtenstein Master"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Master of the Liechtenstein Adoration",
+            "Master of the Liechtenstein Adoration",
+            "Anonymous Liechtenstein Master",
+            "Master of the Liechtenstein Adoration Drawings",
+            "Master of the Liechtenstein Album",
+            "Lichtenstein Master"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:01:04-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

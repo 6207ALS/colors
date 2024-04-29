@@ -1,0 +1,174 @@
+{
+    "id": 80415,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80415",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKGhfaCifqOiiKGijaajj6akjailjamkj6Wjkaelkqqmk6illaimlKunlKikmAAAACH5BAAAAAAALAAAAAADAAUAAAQLcDiWghKmEHBWQxEAOw==",
+        "width": 3495,
+        "height": 5008,
+        "alt_text": "A work made of cotton, plain weave; screen printed."
+    },
+    "main_reference_number": "1954.226",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1950,
+    "date_display": "1950",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed and produced by Fede Cheti (Italian, 1936-1975)\nItaly, Milan",
+    "place_of_origin": "Milan",
+    "description": null,
+    "dimensions": "121.4 \u00d7 79.7 cm (47 7/8 \u00d7 31 3/8 in.); Warp repeat: H.: 55 cm (21 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 79.7,
+            "width_in": 31.375,
+            "height_cm": 121.4,
+            "height_in": 47.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 55,
+            "height_in": 21.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of the Italian Government from His Excellency Alberto Tarchiani, Ambassador of Italy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 39.6496,
+    "color": {
+        "h": 46,
+        "l": 52,
+        "s": 74,
+        "percentage": 0.0049099322036561316,
+        "population": 50
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 106415,
+    "artist_title": "Fede Cheti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        106415
+    ],
+    "artist_titles": [
+        "Fede Cheti"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4ee59235-6faa-90a3-bfe9-2cda49bb70b9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.226"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 90,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:26:35-05:00",
+    "timestamp": "2023-09-24T00:54:44-05:00"
+}

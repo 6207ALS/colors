@@ -1,0 +1,57 @@
+{
+    "id": 41499,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41499",
+    "title": "Sebastiano del Piombo",
+    "sort_title": "Sebastiano del Piombo",
+    "alt_titles": [
+        "Sebastiano Luciani",
+        "Sebastiano del Piombo",
+        "Sebastiano del Piombo, (Sebastiano Luciani)",
+        "Sebastiano del Piombo, (Fra Sebastiano Luciani)",
+        "Sebastiano Luciani",
+        "Bastiano di Francesco Luciani",
+        "Sebastiano Viniziano"
+    ],
+    "is_artist": true,
+    "birth_date": 1480,
+    "death_date": 1547,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Sebastiano del Piombo",
+            "Sebastiano del Piombo",
+            "Sebastiano Luciani",
+            "Sebastiano del Piombo",
+            "Sebastiano del Piombo, (Sebastiano Luciani)",
+            "Sebastiano del Piombo, (Fra Sebastiano Luciani)",
+            "Sebastiano Luciani",
+            "Bastiano di Francesco Luciani",
+            "Sebastiano Viniziano"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sebastiano del Piombo",
+            "Sebastiano del Piombo",
+            "Sebastiano Luciani",
+            "Sebastiano del Piombo",
+            "Sebastiano del Piombo, (Sebastiano Luciani)",
+            "Sebastiano del Piombo, (Fra Sebastiano Luciani)",
+            "Sebastiano Luciani",
+            "Bastiano di Francesco Luciani",
+            "Sebastiano Viniziano"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:13-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

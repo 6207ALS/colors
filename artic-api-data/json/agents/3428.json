@@ -1,0 +1,31 @@
+{
+    "id": 3428,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3428",
+    "title": "Gordon Frederick Browne",
+    "sort_title": "Browne, Gordon Frederick",
+    "alt_titles": [
+        "Gordon F. Browne"
+    ],
+    "is_artist": true,
+    "birth_date": 1858,
+    "death_date": 1932,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gordon Frederick Browne",
+            "Browne, Gordon Frederick",
+            "Gordon F. Browne"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:37-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

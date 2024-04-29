@@ -1,0 +1,41 @@
+{
+    "id": 40457,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40457",
+    "title": "Pieter Bruegel, the elder",
+    "sort_title": "Bruegel, Pieter, the elder",
+    "alt_titles": [
+        "Pieter Brueghel, the elder",
+        "Pieter Breugel, the elder",
+        "Pieter Breughel, the elder",
+        "Pieter Brueghel, I",
+        "Pieter Brueghel, I, (Peasant Brueghel)",
+        "Brughel"
+    ],
+    "is_artist": true,
+    "birth_date": 1525,
+    "death_date": 1569,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pieter Bruegel, the elder",
+            "Bruegel, Pieter, the elder",
+            "Pieter Brueghel, the elder",
+            "Pieter Breugel, the elder",
+            "Pieter Breughel, the elder",
+            "Pieter Brueghel, I",
+            "Pieter Brueghel, I, (Peasant Brueghel)",
+            "Brughel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T10:04:08-06:00",
+    "updated_at": "2023-09-23T23:23:52-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 74212,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/74212",
+    "is_boosted": false,
+    "title": "Covered Dish",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAACEhIScmJi8lJisqKSwrKi8uLC8wLjEwLzIxMD85O0NDRURERkhISUxLTVRRUlRUVXJ0eXx7gISFiI6MipOQk5KVmpeWmaShnqGip6SlqLOxrayvs7Cxs7OztLCztrS2t7m5trS2ure6vcC+vdrU0t3b2eTh3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQEBgQCgYEAfFgvFwCBINiGVUMpEokYpkctGAMpiNh8PpfEShIAA7",
+        "width": 3000,
+        "height": 1840,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1918.61a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1887,
+    "date_end": 1887,
+    "date_display": "1887",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Thomas Bakewell for Atterbury Glass Co.\nPittsburgh",
+    "place_of_origin": "Sandwich",
+    "description": null,
+    "dimensions": "12.7 \u00d7 28 \u00d7 10.2 cm (5 \u00d7 11 \u00d7 4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.2,
+            "depth_in": 4,
+            "width_cm": 28,
+            "width_in": 11,
+            "height_cm": 12.7,
+            "height_in": 5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Emma B. Hodge",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.5843,
+    "color": {
+        "h": 3,
+        "l": 47,
+        "s": 11,
+        "percentage": 0.0011472336754384154,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 32718,
+    "artist_title": "Boston and Sandwich Glass Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32718
+    ],
+    "artist_titles": [
+        "Boston and Sandwich Glass Company"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "dish (vessel)",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11783",
+    "classification_title": "dish (vessel)",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11783",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "dish (vessel)",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fabe8198-d3c2-115e-39f4-720860c859d1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1918.61a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Covered Dish"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:00:26-05:00",
+    "timestamp": "2023-09-24T00:52:27-05:00"
+}

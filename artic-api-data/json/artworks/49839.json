@@ -1,0 +1,172 @@
+{
+    "id": 49839,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/49839",
+    "is_boosted": false,
+    "title": "Boy",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHEnVXEsU3IpVXIqVncpV3UyVnwwVXwyV3szW3gyXXoyXXkzX30wXHk0XH40X3k5X307Xng6ZX0/anZDYHVEYYE6WoA9YJVLZ5VMZ4JWbodWbohPcIlUdYdXeotQeJJdfYVhdaV0fq91fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAThUDF4OoMI57ORLB6UDEgzaSQYGNHFoSgILCEIIBAEADs=",
+        "width": 3000,
+        "height": 2301,
+        "alt_text": "A work made of pastel on magenta wove paper, commercially laminated to board."
+    },
+    "main_reference_number": "1975.1037",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1950,
+    "date_display": "1950",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean Cocteau\nFrench, 1889-1963",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "49.3 \u00d7 64.5 cm (19 7/16 \u00d7 25 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64.5,
+            "width_in": 25.3937,
+            "height_cm": 49.3,
+            "height_in": 19.4095,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pastel on magenta wove paper, commercially laminated to board",
+    "inscriptions": null,
+    "credit_line": "Gift of Charlotte Vern Olson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1976,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.0075,
+    "color": {
+        "h": 329,
+        "l": 35,
+        "s": 52,
+        "percentage": 1.121602415081035,
+        "population": 6108
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34001,
+    "artist_title": "Jean Cocteau",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34001
+    ],
+    "artist_titles": [
+        "Jean Cocteau"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pastel",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-229",
+    "classification_title": "pastel",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-229",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pastel",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c1a8b4a4-43f9-4440-b23c-6de5d1e649f0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1975.1037"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Boy"
+            ],
+            "weight": 100,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:21:21-05:00",
+    "timestamp": "2023-09-24T00:42:24-05:00"
+}

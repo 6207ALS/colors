@@ -1,0 +1,28 @@
+{
+    "id": 19024,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/19024",
+    "title": "Thomas Nash",
+    "sort_title": "Nash, Thomas",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1851,
+    "death_date": 1926,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thomas Nash",
+            "Nash, Thomas"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:01:00-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

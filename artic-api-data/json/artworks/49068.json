@@ -1,0 +1,167 @@
+{
+    "id": 49068,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/49068",
+    "is_boosted": false,
+    "title": "Lady Playing with a Dog",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACEfGyIfGicjGyEiHSQiHCsnHzAnHCspIDEsIDcwJDoxIzozI0E0IUQ4JkY9KVBELU5GMGJYOWhdOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYBAAROEcAwIpwhIlRiM9TAgAOw==",
+        "width": 6258,
+        "height": 8045,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1943.1183",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1655,
+    "date_end": 1685,
+    "date_display": "c. 1660/80",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Eglon van der Neer\nDutch, 1634-1703",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": "48.5 \u00d7 38 cm (19 1/8 \u00d7 14 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38,
+            "width_in": 14.9375,
+            "height_cm": 48.5,
+            "height_in": 19.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Honor\u00e9 Palmer",
+    "catalogue_display": null,
+    "publication_history": "C. Hofstede de Groot, A Catalogue Raisonn\u00e9 of the Works of the Most Eminent Dutch Paintings of the Seventeenth Century, vol. 5 (London, 1913), pp. 500-501, no. 104.\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), p. 343.\n\nPeter C. Sutton, A Guide to Dutch Art in America (Grand Rapids, Michigan, 1986), p. 53.",
+    "exhibition_history": null,
+    "provenance_text": "Otto Pein, M\u00fcncheburg; sold J. M. Heberle, Cologne, October 29-30, 1888, lot 56.  Sold Galerie Hugo Helbing, Munich, March 23, 1903, lot 61.  Honor\u00e9 Palmer, Chicago, by 1943; given to the Art Institute, 1943.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1944,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 48,
+        "s": 30,
+        "percentage": 0.00013308012356986042,
+        "population": 67
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 37102,
+    "artist_title": "Eglon van der Neer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37102
+    ],
+    "artist_titles": [
+        "Eglon van der Neer"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bc8a4129-fae7-c0ed-aad8-73ac5e638bd6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.1183"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lady Playing with a Dog"
+            ],
+            "weight": 925,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:24:09-05:00",
+    "timestamp": "2023-09-24T00:41:57-05:00"
+}

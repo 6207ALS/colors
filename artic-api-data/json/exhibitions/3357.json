@@ -1,0 +1,39 @@
+{
+    "id": 3357,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3357",
+    "title": "Modern European Sculpture",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1928-03-29T00:00:00-06:00",
+    "aic_end_at": "1928-05-06T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "27f88996-a520-97af-8554-d67eb05c415a",
+    "alt_image_ids": [
+        "1c3acdad-ba6c-a97a-510b-ef1ed414732a",
+        "e4877f29-a959-9f51-241e-0f688b79e61a"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Modern European Sculpture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:24:16-06:00",
+    "timestamp": "2023-09-24T02:01:10-05:00"
+}

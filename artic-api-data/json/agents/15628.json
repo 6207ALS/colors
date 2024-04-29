@@ -1,0 +1,31 @@
+{
+    "id": 15628,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15628",
+    "title": "Morris Louis",
+    "sort_title": "Louis, Morris",
+    "alt_titles": [
+        "Morris Louis Bernstein"
+    ],
+    "is_artist": true,
+    "birth_date": 1912,
+    "death_date": 1962,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Morris Louis",
+            "Louis, Morris",
+            "Morris Louis Bernstein"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:22-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

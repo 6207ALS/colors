@@ -1,0 +1,33 @@
+{
+    "id": 23596,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/23596",
+    "title": "David Seymour",
+    "sort_title": "Seymour, David",
+    "alt_titles": [
+        "Chim",
+        "Chim (David Seymour)"
+    ],
+    "is_artist": true,
+    "birth_date": 1911,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "David Seymour",
+            "Seymour, David",
+            "Chim",
+            "Chim (David Seymour)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:22-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

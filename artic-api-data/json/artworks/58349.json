@@ -1,0 +1,174 @@
+{
+    "id": 58349,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/58349",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAG14bHiLiJabmrSzs7O1uLu7vbu8vrq9vru+wL6/wb/AwsPHyMrOztPU19jZ2wAAACH5BAAAAAAALAAAAAADAAUAAAQLUI2ShFkBMUCcaREAOw==",
+        "width": 1447,
+        "height": 2250,
+        "alt_text": "A work made of cloisonne enamel."
+    },
+    "main_reference_number": "1900.1515",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1644,
+    "date_end": 1912,
+    "date_display": "Qing dynasty (1644\u20131912)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "14.3 \u00d7 5.9 cm (5 5/8 \u00d7 2 5/16 in.); Diam.: 5.9 cm (2 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 14.3,
+            "height_in": 5.625,
+            "diameter_cm": 5.9,
+            "diameter_in": 2.3125,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 5.9,
+            "diameter_in": 2.3125,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cloisonne enamel",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Samuel M. Nickerson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 45,
+        "l": 57,
+        "s": 56,
+        "percentage": 0.0021193273439299703,
+        "population": 69
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "metal",
+        "vessel",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-33",
+    "classification_title": "metal",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-33",
+        "TM-27",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "metal",
+        "vessel",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "695a4d1c-2f99-c902-a393-96cc8205c0e6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1900.1515"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-16T09:19:19-05:00",
+    "updated_at": "2023-06-29T18:07:49-05:00",
+    "timestamp": "2023-09-24T00:45:25-05:00"
+}

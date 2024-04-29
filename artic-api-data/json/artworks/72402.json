@@ -1,0 +1,185 @@
+{
+    "id": 72402,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72402",
+    "is_boosted": false,
+    "title": "Terrible Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHJ0c4uMjKKkpKyzs62zs7Czs7O6ubS8u8rJyc3NzdbY2NbZ2drZ2ePi4+Lj4+Hj5OXk5ejn6Ojo6Ono6Ojp6enp6erq6urq6+rr6/Dw8fHy8vf39/j4+AAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYBNV1gQtx0AYylMEgEBdCYIwG+ZkmsSFADs=",
+        "width": 6144,
+        "height": 4802,
+        "alt_text": "A work made of bronze and glass."
+    },
+    "main_reference_number": "1988.318",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1988,
+    "date_end": 1988,
+    "date_display": "1988",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Michele Oka Doner\nAmerican, born 1945",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "40 \u00d7 66 \u00d7 55.9 cm (15 3/4 \u00d7 26 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 55.9,
+            "depth_in": 22,
+            "width_cm": 66,
+            "width_in": 26,
+            "height_cm": 40,
+            "height_in": 15.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze and glass",
+    "inscriptions": null,
+    "credit_line": "Raymond W. Garbe Fund in honor of E. Norman Brydges",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.8123,
+    "color": {
+        "h": 74,
+        "l": 45,
+        "s": 0,
+        "percentage": 0.004140138280618573,
+        "population": 23
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 43536,
+    "artist_title": "Michele Oka Doner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43536
+    ],
+    "artist_titles": [
+        "Michele Oka Doner"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-5"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "bronze",
+        "table",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "74a1a7e7-f0d6-a8c0-5d3b-0d908fb68ac6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.318"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Terrible Table"
+            ],
+            "weight": 39,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-15T13:29:11-06:00",
+    "updated_at": "2023-04-07T12:26:21-05:00",
+    "timestamp": "2023-09-24T00:51:38-05:00"
+}

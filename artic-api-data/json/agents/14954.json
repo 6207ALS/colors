@@ -1,0 +1,41 @@
+{
+    "id": 14954,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14954",
+    "title": "Auguste Xavier Le Prince",
+    "sort_title": "Le Prince, Auguste Xavier",
+    "alt_titles": [
+        "Auguste X. Leprince",
+        "Auguste Xavier Leprince",
+        "Xavier (Auguste Xavier) Leprince",
+        "Xavier Leprince",
+        "Auguste-Xavier Leprince",
+        "Auguste Xavier Le Prince"
+    ],
+    "is_artist": true,
+    "birth_date": 1799,
+    "death_date": 1826,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Auguste Xavier Le Prince",
+            "Le Prince, Auguste Xavier",
+            "Auguste X. Leprince",
+            "Auguste Xavier Leprince",
+            "Xavier (Auguste Xavier) Leprince",
+            "Xavier Leprince",
+            "Auguste-Xavier Leprince",
+            "Auguste Xavier Le Prince"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:46-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

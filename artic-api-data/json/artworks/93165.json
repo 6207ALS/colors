@@ -1,0 +1,177 @@
+{
+    "id": 93165,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/93165",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAEVHG05MG0tPH01OHlhWJ1NUKFdYKVpYKGNgMoR8T4R+VYmEWI2FWomEXY+JX5eLX5CKYpKLYpKLZJiPY52RZq2jfLanf7KngsO0jgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoJUwSvUEBNBQB1JI02AIEBY5yxUCADs=",
+        "width": 2213,
+        "height": 2250,
+        "alt_text": "A work made of silk, satin damask weave."
+    },
+    "main_reference_number": "1907.598",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1650,
+    "date_display": "1601/50",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "25.7 \u00d7 24.5 cm (10 1/8 \u00d7 9 5/8 in.); Repeat: 13 \u00d7 6.7 cm (5 1/8 \u00d7 2 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.5,
+            "width_in": 9.625,
+            "height_cm": 25.7,
+            "height_in": 10.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 6.7,
+            "width_in": 2.625,
+            "height_cm": 13,
+            "height_in": 5.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Silk, satin damask weave",
+    "inscriptions": null,
+    "credit_line": "Art Institute of Chicago Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.159,
+    "color": {
+        "h": 53,
+        "l": 39,
+        "s": 35,
+        "percentage": 0.024915184559229624,
+        "population": 180
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8292bb31-72a6-3431-3ea5-48fc19832eab",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1907.598"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-10T13:25:39-06:00",
+    "updated_at": "2023-04-07T12:48:58-05:00",
+    "timestamp": "2023-09-24T01:01:04-05:00"
+}

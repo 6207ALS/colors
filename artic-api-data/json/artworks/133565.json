@@ -1,0 +1,172 @@
+{
+    "id": 133565,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/133565",
+    "is_boosted": false,
+    "title": "The Finish",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIB1YZ2QaYqEcJ+UipePkpuUlaGZkbetjbqwgZ2ir56jsKymo6GnrrStpri1r6irsK2us7KysLGxs8e9mgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQ8DpQo0kIUzREAw4QIRggAOw==",
+        "width": 2295,
+        "height": 3000,
+        "alt_text": "A work made of watercolor and gouache on paper."
+    },
+    "main_reference_number": "20.9.1989",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1930,
+    "date_display": "c. 1925",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Lionel Edwards\nEnglish, 1878-1966",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "34.3 \u00d7 25.4 cm (13 1/2 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 34.3,
+            "height_in": 13.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor and gouache on paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous loan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.731,
+    "color": {
+        "h": 8,
+        "l": 37,
+        "s": 39,
+        "percentage": 0.003767548703640313,
+        "population": 35
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 45065,
+    "artist_title": "Lionel Edwards",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        45065
+    ],
+    "artist_titles": [
+        "Lionel Edwards"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "watercolor",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-39",
+    "classification_title": "watercolor",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-39",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "watercolor",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b10a512b-4b4e-aa7c-bd10-eddebb041aae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "20.9.1989"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Finish"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-10T14:46:53-06:00",
+    "updated_at": "2023-04-07T11:45:28-05:00",
+    "timestamp": "2023-09-24T01:20:25-05:00"
+}

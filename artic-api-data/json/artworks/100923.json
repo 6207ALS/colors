@@ -1,0 +1,174 @@
+{
+    "id": 100923,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/100923",
+    "is_boosted": false,
+    "title": "Notre Dame, Paris, France, Travel Sketch",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIN5ZYd7ZYZ6Zol+aYyAaoyBa5CEb5OFbpOHcJuNdJ6QdqKUeq6fgbChg7mqi72sir6ujcSykMW0ksu6ls26lsy7mM++mtK/mtHAm9LAnNPBndTCnQAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIKVpFpZd0yNtVNUsDhQxCTIEylEQgGCEADs=",
+        "width": 4881,
+        "height": 3802,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "1983.893",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1904,
+    "date_end": 1904,
+    "date_display": "August 8, 1904",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "C. Herrick Hammond\nAmerican, 1882\u20131969",
+    "place_of_origin": "Paris",
+    "description": null,
+    "dimensions": "12.5 \u00d7 16.3 cm (4 15/16 \u00d7 6 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16.3,
+            "width_in": 6.4375,
+            "height_cm": 12.5,
+            "height_in": 4.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "James W. Hammond gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.3121,
+    "color": {
+        "h": 38,
+        "l": 67,
+        "s": 37,
+        "percentage": 0.09366953100135984,
+        "population": 518
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 33172,
+    "artist_title": "James Wright Hammond",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33172
+    ],
+    "artist_titles": [
+        "James Wright Hammond"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "prints and drawing",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "61e29beb-0f38-02fa-0363-3239d9f922bd",
+    "alt_image_ids": [
+        "d69cfe10-429b-696f-76b5-9e38b5532c24"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.893"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Notre Dame, Paris, France, Travel Sketch"
+            ],
+            "weight": 10,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:36:10-05:00",
+    "timestamp": "2023-09-24T01:05:06-05:00"
+}

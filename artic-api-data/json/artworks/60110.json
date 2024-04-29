@@ -1,0 +1,164 @@
+{
+    "id": 60110,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/60110",
+    "is_boosted": false,
+    "title": "Syracuse and Its Surroundings",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAIFsRoRvTJmEV5SBXpiFWpKCYpuIYKOPYKKRba2bdb6vhcS0hsW1h8i3hse3iMi2icu7i8y6jse6kdC/kNDAjtDBkNLDkNLDlNLDltTElNLGmNLEmtXHmtXJmNfJmtrMmtzPnd7RnNbGoNjKodnKo9rLotrPotvQotvQo9zQoN3Qot3So97TpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQBIo9CmpUh4Rp6NZsU4m1OgQKEgQg8QGIwAoGAbCotJ4OC4QiiUziQQBADs=",
+        "width": 3000,
+        "height": 1700,
+        "alt_text": "A work made of albumen prints, stereo (103 mounted in the book)."
+    },
+    "main_reference_number": "1980.225",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1878,
+    "date_end": 1878,
+    "date_display": "1878",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Publisher: Child, Hamilton\nAmerican, born 1836\nPhotographer: Judd And Mcleish\nAmerican, 19th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Albumen prints, stereo (103 mounted in the book)",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Jesmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.6448,
+    "color": {
+        "h": 42,
+        "l": 68,
+        "s": 45,
+        "percentage": 0.7628662328702531,
+        "population": 3074
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 24321,
+    "artist_title": "Hamilton Child",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        24321
+    ],
+    "artist_titles": [
+        "Hamilton Child"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "albumen silver print",
+        "19th century",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-420",
+    "classification_title": "albumen silver print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-420",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "albumen silver print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "07200bd7-1d95-d806-2d6e-99d49a4c71a1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.225"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Syracuse and Its Surroundings"
+            ],
+            "weight": 36,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:04-05:00",
+    "updated_at": "2023-04-10T15:25:52-05:00",
+    "timestamp": "2023-09-24T00:46:17-05:00"
+}

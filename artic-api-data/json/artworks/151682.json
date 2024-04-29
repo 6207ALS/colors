@@ -1,0 +1,172 @@
+{
+    "id": 151682,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/151682",
+    "is_boosted": false,
+    "title": "Sample (Dress Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAD8kGj8iHUcrJlxIQGJMRWVNSmZSTGtXU2xVU25bVXBeWXpqZX9xa4FuaYJxbAAAACH5BAAAAAAALAAAAAADAAUAAAQLsBFnQEJClXDWYBEAOw==",
+        "width": 1390,
+        "height": 2250,
+        "alt_text": "A work made of wool, nylon and acrylic, twill weave."
+    },
+    "main_reference_number": "1972.1159k",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1966,
+    "date_end": 1966,
+    "date_display": "1966",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Dorothy Liebes (American, 1897-1972)\nNew York, New York, United States",
+    "place_of_origin": "New York City",
+    "description": null,
+    "dimensions": "27.3 \u00d7 15.5 cm (10 3/4 \u00d7 6 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.5,
+            "width_in": 6.125,
+            "height_cm": 27.3,
+            "height_in": 10.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool, nylon and acrylic, twill weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Liebes Design, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.341,
+    "color": {
+        "h": 327,
+        "l": 46,
+        "s": 75,
+        "percentage": 0.0018249840313897252,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35485,
+    "artist_title": "Dorothy Liebes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35485
+    ],
+    "artist_titles": [
+        "Dorothy Liebes"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "ff90476d-a177-90ef-ba74-d8d5b686157d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.1159k"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Dress Fabric)"
+            ],
+            "weight": 9,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-22T16:42:13-05:00",
+    "updated_at": "2023-09-22T16:46:17-05:00",
+    "timestamp": "2023-09-24T01:28:16-05:00"
+}

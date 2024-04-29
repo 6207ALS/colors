@@ -1,0 +1,33 @@
+{
+    "id": 41240,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41240",
+    "title": "Peeter de Jode, the younger",
+    "sort_title": "Jode, Peeter de, the younger",
+    "alt_titles": [
+        "Peeter de Jonghe",
+        "Pieter de Jode, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1606,
+    "death_date": 1674,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Peeter de Jode, the younger",
+            "Jode, Peeter de, the younger",
+            "Peeter de Jonghe",
+            "Pieter de Jode, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:34:15-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

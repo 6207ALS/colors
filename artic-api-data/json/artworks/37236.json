@@ -1,0 +1,171 @@
+{
+    "id": 37236,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/37236",
+    "is_boosted": false,
+    "title": "Vest",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGUzHWU0Hmo3IGo5IXlUO3pXPn9cSoFfTIJjVINmWINnWot0Z5F9cJN+dJN/dZiJgJyVjJ+alKWmqqmqsQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoARFk1MQDTIIiRIAC2McTwgAOw==",
+        "width": 1810,
+        "height": 2250,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1971.729",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1971,
+    "date_display": "19th/20th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Yugoslavia",
+    "place_of_origin": "Serbia and Montenegro",
+    "description": null,
+    "dimensions": "36.6 \u00d7 27.2 \u00d7 2.6 cm (14 \u00d7 10 11/16 \u00d7 1 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2.6,
+            "depth_in": 1,
+            "width_cm": 27.2,
+            "width_in": 10.6875,
+            "height_cm": 36.6,
+            "height_in": 14,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Miss Avrina Pugh",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Avrina Pugh, Racine, WI, by Apr. 30, 1971 [Incoming permanent receipt RX8088, Apr. 30, 1971; copy in curatorial object file]; given to the Art Institute of Chicago, 1971.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 55.5005,
+    "color": {
+        "h": 49,
+        "l": 66,
+        "s": 82,
+        "percentage": 0.008602501063993552,
+        "population": 76
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "needlework (visual works)",
+        "costume",
+        "dress (garment)",
+        "clothing",
+        "textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-83",
+    "classification_title": "needlework (visual works)",
+    "alt_classification_ids": [
+        "TM-81",
+        "TM-11897",
+        "TM-12173",
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-83",
+        "TM-81",
+        "TM-11897",
+        "TM-12173",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "needlework (visual works)",
+        "costume",
+        "dress (garment)",
+        "clothing",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3bd267c6-a4af-8c21-c649-570fe7752ac8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1971.729"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vest"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-24T11:42:02-05:00",
+    "updated_at": "2023-08-24T11:46:00-05:00",
+    "timestamp": "2023-09-24T00:37:05-05:00"
+}

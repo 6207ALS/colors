@@ -1,0 +1,166 @@
+{
+    "id": 159668,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/159668",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFo3JmRCLHBHL3NLN3VMNHVNOXZcUHthU3tkWXxlWX1mW39nXHhpY35xbYNvZYRxZot+d4x/eZuUlJ2WlgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYPQ4ECIQxjIUhxIAycQ0UggAOw==",
+        "width": 1825,
+        "height": 2250,
+        "alt_text": "A work made of silk, warp-float faced 7:1 's' twill weave with plain interlacings of secondary binding warps and pairs of self-patterning ground wefts."
+    },
+    "main_reference_number": "2002.222",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century (after a 14th century Italian design)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italian (?)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "11.8 \u00d7 9.5 cm (4 5/8 \u00d7 3 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.5,
+            "width_in": 3.75,
+            "height_cm": 11.8,
+            "height_in": 4.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, warp-float faced 7:1 'S' twill weave with plain interlacings of secondary binding warps and pairs of self-patterning ground wefts",
+    "inscriptions": null,
+    "credit_line": "Gift of Mildred Davison",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2002,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.1095,
+    "color": {
+        "h": 279,
+        "l": 66,
+        "s": 1,
+        "percentage": 0.36043873740262616,
+        "population": 3157
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8b42000a-e3ef-37b9-a290-4b85f5742d16",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2002.222"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:22:15-05:00",
+    "timestamp": "2023-09-24T01:32:25-05:00"
+}

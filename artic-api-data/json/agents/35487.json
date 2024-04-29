@@ -1,0 +1,31 @@
+{
+    "id": 35487,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35487",
+    "title": "Maria Likarz",
+    "sort_title": "Likarz, Maria",
+    "alt_titles": [
+        "Maria Likarz-Strauss"
+    ],
+    "is_artist": true,
+    "birth_date": 1893,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maria Likarz",
+            "Likarz, Maria",
+            "Maria Likarz-Strauss"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:46:03-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

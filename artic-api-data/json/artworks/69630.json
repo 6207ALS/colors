@@ -1,0 +1,159 @@
+{
+    "id": 69630,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/69630",
+    "is_boosted": false,
+    "title": "Axe",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGZbPWlhRWhiSGplS3FqUnRvVnhyWX9xWHt1Y4B1XZqUiJ2ajqKej66snreypczKxtPSzdXT0NzZ0+vr6wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYKQ8E0MgSxIIxQEMhuQ0UAgAOw==",
+        "width": 2284,
+        "height": 3000,
+        "alt_text": "A work made of stone."
+    },
+    "main_reference_number": "1950.509",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "Neolithic",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "24.8 \u00d7 5 \u00d7 0.7 cm (9 3/4 \u00d7 1 15/16 \u00d7 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0.7,
+            "depth_in": 0.25,
+            "width_cm": 5,
+            "width_in": 1.9375,
+            "height_cm": 24.8,
+            "height_in": 9.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stone",
+    "inscriptions": null,
+    "credit_line": "Edward and Louise B. Sonnenschein Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 48,
+        "l": 49,
+        "s": 11,
+        "percentage": 0.005998248686514886,
+        "population": 411
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "jade",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-461",
+    "classification_title": "jade",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-461",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "jade",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0cb968ab-117e-33bc-60d3-8baab14088a2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.509"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Axe"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-12T10:32:25-06:00",
+    "updated_at": "2023-04-07T13:29:33-05:00",
+    "timestamp": "2023-09-24T00:50:40-05:00"
+}

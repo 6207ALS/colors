@@ -1,0 +1,189 @@
+{
+    "id": 249822,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/249822",
+    "is_boosted": false,
+    "title": "Good By",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAL63rsu+rc/CsczEudDDsdzMtdPHutHJvuHNtuDPvePSvNjRwd3Tw9nTxdvUxt7UxtzVyN3VyN7VyN/VyN7VyeDWyeHXyuHXy+TXyODXzOLYzOLYzeLYzuXazuXbz+rg1CH5BAAAAAAALAAAAAAHAAUAAAUdoAYc3zB4U2BwhHBpCtYhyVY9VFQwmSVRkEXDEQIAOw==",
+        "width": 9163,
+        "height": 6181,
+        "alt_text": "A work made of graphite and colored pencil on ivory wove paper."
+    },
+    "main_reference_number": "2020.646",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1931,
+    "date_end": 1990,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Inez Nathaniel Walker\nAmerican, 1911-1990",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "30.3 \u00d7 45.5 cm (11 15/16 \u00d7 17 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 45.5,
+            "width_in": 17.9134,
+            "height_cm": 30.3,
+            "height_in": 11.9292,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite and colored pencil on ivory wove paper",
+    "inscriptions": "Inscribed center, in graphite: \u201cGood By\u201d",
+    "credit_line": "Bequest of Robert A. Lewis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.979,
+    "color": {
+        "h": 66,
+        "l": 54,
+        "s": 4,
+        "percentage": 4.590678912502772e-5,
+        "population": 26
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 63135,
+    "artist_title": "Inez Nathaniel Walker",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        63135
+    ],
+    "artist_titles": [
+        "Inez Nathaniel Walker"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "graphite",
+        "prints and drawing",
+        "graphite",
+        "paper",
+        "wove paper",
+        "colored pencil",
+        "colored pencil"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-175",
+        "TM-145",
+        "TM-296"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4",
+        "TM-175",
+        "TM-145",
+        "TM-296"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing",
+        "graphite",
+        "paper",
+        "colored pencil"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2410",
+    "alt_material_ids": [
+        "TM-3074",
+        "TM-2420"
+    ],
+    "material_ids": [
+        "TM-2410",
+        "TM-3074",
+        "TM-2420"
+    ],
+    "material_titles": [
+        "graphite",
+        "wove paper",
+        "colored pencil"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d676d057-0b15-3599-07af-b688a3051ed5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.646"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Good By"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:45:58-05:00",
+    "timestamp": "2023-09-24T01:55:39-05:00"
+}

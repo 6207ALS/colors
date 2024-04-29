@@ -1,0 +1,159 @@
+{
+    "id": 39893,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/39893",
+    "is_boosted": false,
+    "title": "The Great Battle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFNHGlRHH1lLH1tLHlpNH15PHlxPI11QIF1RIltQJFxRJGBTI2RWImFUJGBVKGBWKGFWLWhXKWZZLWldLGpdLm9dLmVaNWlcMWhcMmpeNGpdOHJlNHRoQHtuQXJoSH1yVoBvOpSCTQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQM4lg5EENB1Kg3EAVEIbB2JhiIAmDwVBMCgcEhCL5xMEADs=",
+        "width": 3000,
+        "height": 2277,
+        "alt_text": "A work made of original gelatin plate worked in drypoint."
+    },
+    "main_reference_number": "1940.1175",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1878,
+    "date_end": 1888,
+    "date_display": "c. 1883",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Rodolphe Bresdin\nFrench, 1825-1885",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "216 (right); 217 (left) \u00d7 309 mm",
+    "dimensions_detail": [],
+    "medium_display": "Original gelatin plate worked in drypoint",
+    "inscriptions": null,
+    "credit_line": "John H. Wrenn Memorial Collection",
+    "catalogue_display": "<p>van Gelder 94</p><p>Neumann 154</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1941,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.0691,
+    "color": {
+        "h": 45,
+        "l": 47,
+        "s": 49,
+        "percentage": 0.0025948991696322656,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33751,
+    "artist_title": "Rodolphe Bresdin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33751
+    ],
+    "artist_titles": [
+        "Rodolphe Bresdin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drypoint",
+        "matrix",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-154",
+    "classification_title": "drypoint",
+    "alt_classification_ids": [
+        "TM-561",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-154",
+        "TM-561",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "drypoint",
+        "matrix",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0fe984dc-e2c0-7319-9d21-6d47aaf0f339",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1940.1175"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Great Battle"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:58-05:00",
+    "updated_at": "2023-04-10T15:27:36-05:00",
+    "timestamp": "2023-09-24T00:37:48-05:00"
+}

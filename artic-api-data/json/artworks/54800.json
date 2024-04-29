@@ -1,0 +1,177 @@
+{
+    "id": 54800,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/54800",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEtJUFJQWVdUY2Ngcbq5u769v8LBxsPBx+Xl5OXl5ejo5+np6ezs7O3t7e7u7vDw7/Pz8vj4+Pj5+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoHIYiDQITxQAUFMQztIwSQgAOw==",
+        "width": 610,
+        "height": 768,
+        "alt_text": "A work made of slate."
+    },
+    "main_reference_number": "1946.63",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1945,
+    "date_end": 1946,
+    "date_display": "1945/46",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Isamu Noguchi\nAmerican, 1904-1988",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "97.5 \u00d7 47.9 \u00d7 27.9 cm (38 3/8 \u00d7 18 7/8 \u00d7 11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 27.9,
+            "depth_in": 11,
+            "width_cm": 47.9,
+            "width_in": 18.875,
+            "height_cm": 97.5,
+            "height_in": 38.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Slate",
+    "inscriptions": null,
+    "credit_line": "Gift of Isamu Noguchi",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 The Isamu Noguchi Foundation and Garden Museum, New York / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.8126,
+    "color": {
+        "h": 303,
+        "l": 45,
+        "s": 0,
+        "percentage": 0.00301870591431571,
+        "population": 27
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 36035,
+    "artist_title": "Isamu Noguchi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36035
+    ],
+    "artist_titles": [
+        "Isamu Noguchi"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "stone",
+        "abstract shapes",
+        "sculpture",
+        "modern and contemporary art",
+        "black (color)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-96",
+    "classification_title": "stone",
+    "alt_classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-96",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "stone",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12708",
+    "alt_subject_ids": [
+        "TM-11845"
+    ],
+    "subject_ids": [
+        "TM-12708",
+        "TM-11845"
+    ],
+    "subject_titles": [
+        "abstract shapes",
+        "black (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8397dcc0-fd97-1bf1-dc42-c207372daf00",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1946.63"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 423,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:10:52-05:00",
+    "timestamp": "2023-09-24T00:44:29-05:00"
+}

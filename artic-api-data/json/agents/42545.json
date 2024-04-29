@@ -1,0 +1,31 @@
+{
+    "id": 42545,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42545",
+    "title": "Lucian Bernhard",
+    "sort_title": "Bernhard, Lucian",
+    "alt_titles": [
+        "Lucian Bernhard (Emil Kahn)"
+    ],
+    "is_artist": true,
+    "birth_date": 1883,
+    "death_date": 1972,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lucian Bernhard",
+            "Bernhard, Lucian",
+            "Lucian Bernhard (Emil Kahn)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:32:57-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

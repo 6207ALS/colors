@@ -1,0 +1,183 @@
+{
+    "id": 60620,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/60620",
+    "is_boosted": false,
+    "title": "Ashland Series #3",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAAwAAOM1AJ5CBbOmmr6om7WxrOa0nO27oPO+pd7CreTDr+Lc1uTf2vLi2fLk3Obk4uzq5uzr6PDu6/Hx8PP08/T08vX19PT29Pf39vf49/f4+PX///j///r///3//////yH5BAAAAAAALAAAAAAHAAUAAAUdYIR9XqdJ1kIoR5N9AyAEBlcxRYI41zN9nQ0FEgIAOw==",
+        "width": 3000,
+        "height": 2255,
+        "alt_text": "A work made of etching on white wove paper."
+    },
+    "main_reference_number": "1980.400",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1980,
+    "date_end": 1980,
+    "date_display": "1980",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Laddie John Dill\nAmerican, born 1943",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 19.8 \u00d7 40.3 cm (7 13/16 \u00d7 15 7/8 in.); Sheet: 56.5 \u00d7 75.8 cm (22 1/4 \u00d7 29 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40.3,
+            "width_in": 15.8662,
+            "height_cm": 19.8,
+            "height_in": 7.7953,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 75.8,
+            "width_in": 29.8426,
+            "height_cm": 56.5,
+            "height_in": 22.2441,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Stanley and Norman Freehling",
+    "catalogue_display": "<p>Landfall Press LD-08-79E</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 61.8146,
+    "color": {
+        "h": 18,
+        "l": 48,
+        "s": 98,
+        "percentage": 0.11862396204033215,
+        "population": 633
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34261,
+    "artist_title": "Laddie John Dill",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34261
+    ],
+    "artist_titles": [
+        "Laddie John Dill"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1d053e04-64f8-ef5c-9179-278f9e1a06ef",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.400"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Ashland Series #3"
+            ],
+            "weight": 31,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:02:17-05:00",
+    "timestamp": "2023-09-24T00:46:31-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 47264,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47264",
+    "is_boosted": false,
+    "title": "Three Masks",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC4mHzkqIlJIP1xLRHZuZnl0bHx2b5B6boZ8c5CJf5+ZkKijma6pnrOgk7m2q8rHu+3o3vXy6vn16/n27AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoLMwDxEABTIIiWIcDRRNUggAOw==",
+        "width": 1874,
+        "height": 2250,
+        "alt_text": "A work made of drypoint and mezzotint in black, red, purple and brown on white wove paper."
+    },
+    "main_reference_number": "1974.267",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1962,
+    "date_end": 1962,
+    "date_display": "1962",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Jir\u00ed Anderle\nCzech, born 1936",
+    "place_of_origin": "Czech Republic",
+    "description": null,
+    "dimensions": "Image/plate: 49.1 \u00d7 51 cm (19 3/8 \u00d7 20 1/8 in.); Sheet: 79.7 \u00d7 63.4 cm (31 7/16 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 51,
+            "width_in": 20.0788,
+            "height_cm": 49.1,
+            "height_in": 19.3308,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.4,
+            "width_in": 24.9607,
+            "height_cm": 79.7,
+            "height_in": 31.378,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Drypoint and mezzotint in black, red, purple and brown on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Jacques Baruch",
+    "catalogue_display": "<p>Baukunst-Galerie 4</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.2057,
+    "color": {
+        "h": 47,
+        "l": 94,
+        "s": 42,
+        "percentage": 0.3265675476722978,
+        "population": 2786
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33415,
+    "artist_title": "Jir\u00ed Anderle",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33415
+    ],
+    "artist_titles": [
+        "Jir\u00ed Anderle"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "intaglio",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-309",
+    "classification_title": "intaglio",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-309",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "intaglio",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0cb252a1-0b0d-4146-c952-8c259dbc575c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.267"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Three Masks"
+            ],
+            "weight": 119,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:28:18-05:00",
+    "timestamp": "2023-09-24T00:41:02-05:00"
+}

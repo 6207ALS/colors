@@ -1,0 +1,168 @@
+{
+    "id": 266845,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/266845",
+    "is_boosted": false,
+    "title": "Hospital (Krankenhaus)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFxkamFmbnFna3tkaHh1a513dl9jhXpug3BwlIp6gYF+mn6BiYOHmZOIkpaFn4uanaWVnqqen7SUlLCYmK6tjLCyi7ejlbm/n5iMpZOVopycoJupsqyrqKess7WtsaKzuMW3psLBrNDRr9DNssPAwMHJx8zJytfYxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwAqHdAJNSh+KxyQKdTYZi2R0eTQSCw0kwjgUBgEFxoEwCAiAIAA7",
+        "width": 3385,
+        "height": 2254,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2022.1494",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Maria Lassnig\nAustrian, 1919-2014",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": "130 \u00d7 195 cm (51 3/16 \u00d7 76 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 195,
+            "width_in": 76.7717,
+            "height_cm": 130,
+            "height_in": 51.1812,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Joseph Winterbotham Collection",
+    "catalogue_display": null,
+    "publication_history": "Lauren O\u2019Neill-Butler, Maria Lassnig: The Paris Years, 1960-68, exh. cat. (New York: Petzel, 2020), 21, 63 (ill.), 64\u201365 (color ill.).\n\nJames Quandt, \u201cBody Awareness,\u201d in The New York Review of Books, Dec. 16, 2021, p. 61 (color ill.).",
+    "exhibition_history": "New York, Petzel, Maria Lassnig: The Paris Years, 1960-68, Nov. 4-Dec. 17, 2021, no cat. no.",
+    "provenance_text": "Estate of the artist, Vienna; sold through Petzel to the Art Institute of Chicago, Nov. 8, 2022.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 352,
+        "l": 41,
+        "s": 39,
+        "percentage": 0.004547962656901434,
+        "population": 347
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 88951,
+    "artist_title": "Maria Lassnig",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        88951
+    ],
+    "artist_titles": [
+        "Maria Lassnig"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "oil paint (paint)",
+        "painting",
+        "canvas"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3124"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3124"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f1228737-96ea-5368-6bc0-7ce44bc5e577",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.1494"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Hospital (Krankenhaus)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-26T12:06:34-05:00",
+    "updated_at": "2023-06-26T12:07:44-05:00",
+    "timestamp": "2023-09-24T01:58:54-05:00"
+}

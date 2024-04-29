@@ -1,0 +1,33 @@
+{
+    "id": 43970,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43970",
+    "title": "Joachin y Miro Sunyer",
+    "sort_title": "Sunyer, Joachin y Miro",
+    "alt_titles": [
+        "Joaquin Sunyer",
+        "Joaquim Sunyer Mir\u00f3"
+    ],
+    "is_artist": true,
+    "birth_date": 1875,
+    "death_date": 1958,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joachin y Miro Sunyer",
+            "Sunyer, Joachin y Miro",
+            "Joaquin Sunyer",
+            "Joaquim Sunyer Mir\u00f3"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:31:29-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 105514,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/105514",
+    "title": "Liu Zheng",
+    "sort_title": "Liu Zheng",
+    "alt_titles": [
+        "Zheng Liu"
+    ],
+    "is_artist": true,
+    "birth_date": 1969,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Liu Zheng",
+            "Liu Zheng",
+            "Zheng Liu"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-03-11T16:51:12-05:00",
+    "updated_at": "2022-03-15T16:44:04-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

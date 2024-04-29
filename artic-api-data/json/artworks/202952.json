@@ -1,0 +1,172 @@
+{
+    "id": 202952,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202952",
+    "is_boosted": false,
+    "title": "Life on Mars",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAH17LJGOMqyoOr+7Q8vGRsvHR9bRSNrVTNrVTt7ZTeXfSvPuUPXuUPXvUPPtVPXvVPjyU/r0UvjyV/z2WQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURYDEghwAEhGIkDhRNUrM8TAgAOw==",
+        "width": 849,
+        "height": 1200,
+        "alt_text": "A work made of book."
+    },
+    "main_reference_number": "2010.299a",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2008,
+    "date_end": 2008,
+    "date_display": "2008",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "COMA (American, founded 1996)\nCornelia Blatter (American, born Switzerland 1960)\nMarcel Hermans (American, born the Netherlands 1961)\n\nDaniel Birnbaum, Richard Flood, Eungie Joo and Chus Martinez, Authors; Douglas Fogle, Editor\n\nPublished by Carnegie Museum of Art (August 1, 2008)",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "17.8 \u00d7 23.5 \u00d7 6.7 cm (7 \u00d7 9 1/4 \u00d7 2 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 6.7,
+            "depth_in": 2.625,
+            "width_cm": 23.5,
+            "width_in": 9.25,
+            "height_cm": 17.8,
+            "height_in": 7,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book",
+    "inscriptions": null,
+    "credit_line": "Gift of Carnegie Museum of Art",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 92.1484,
+    "color": {
+        "h": 237,
+        "l": 37,
+        "s": 92,
+        "percentage": 0.3550255202198665,
+        "population": 3617
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 110636,
+    "artist_title": "COMA",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110636
+    ],
+    "artist_titles": [
+        "COMA"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "book",
+        "21st Century",
+        "paper",
+        "graphic design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-145",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "book",
+        "paper",
+        "graphic design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b6b8a4a4-975c-0461-e011-26742a9a19fb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.299a"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Life on Mars"
+            ],
+            "weight": 10,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-07T10:10:30-05:00",
+    "updated_at": "2023-08-07T10:10:52-05:00",
+    "timestamp": "2023-09-24T01:40:47-05:00"
+}

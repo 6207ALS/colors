@@ -1,0 +1,166 @@
+{
+    "id": 102764,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102764",
+    "is_boosted": false,
+    "title": "The Revenge of the Danaides",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAC4rLzo6Mzo6ND0/ND49ODs6PkRALUFGMk9AM0NDOkNHOk9RQlBTRFVQU2NfWAAAACH5BAAAAAAALAAAAAADAAUAAAQLsDSgnFjHsIECSREAOw==",
+        "width": 2039,
+        "height": 3000,
+        "alt_text": "A work made of colored pencil on paper."
+    },
+    "main_reference_number": "1984.711",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Ellen Lanyon\nAmerican, 1926-2013",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Colored pencil on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Ellen Lanyon",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Estate of Ellen Lanyon.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.5757,
+    "color": {
+        "h": 196,
+        "l": 42,
+        "s": 78,
+        "percentage": 9.566448551639689e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35391,
+    "artist_title": "Ellen Lanyon",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35391
+    ],
+    "artist_titles": [
+        "Ellen Lanyon"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-154",
+        "PC-825",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Chicago Artists",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "c42d6050-23db-6f72-a942-9eee44877cf8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.711"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Revenge of the Danaides"
+            ],
+            "weight": 113,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:18-05:00",
+    "updated_at": "2023-04-10T15:24:10-05:00",
+    "timestamp": "2023-09-24T01:06:22-05:00"
+}

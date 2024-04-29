@@ -1,0 +1,181 @@
+{
+    "id": 154254,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/154254",
+    "is_boosted": false,
+    "title": "Yokei Tsukuri Niwa no Zu",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHtqWmVnYG1qYnJ4c318coF/dn2CfJWZkpGZlZqel6+Xgq2ejLWeiKGlnZykoZyrqqWrpKqup6e1ta69vgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEAMgtI8CBNNzgJJSWAcRQgAOw==",
+        "width": 1470,
+        "height": 2068,
+        "alt_text": "A work made of woodblock printed book, single volume."
+    },
+    "main_reference_number": "2013.308",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1690,
+    "date_end": 1700,
+    "date_display": "1695",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hishikawa Moronobu (Japanese, died 1694)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "26.3 \u00d7 18.5 cm (10 3/8 \u00d7 7 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.5,
+            "width_in": 7.2835,
+            "height_cm": 26.3,
+            "height_in": 10.3544,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Woodblock printed book, single volume",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 152,
+        "l": 60,
+        "s": 4,
+        "percentage": 0.10460663956104686,
+        "population": 3180
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 35839,
+    "artist_title": "Hishikawa Moronobu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35839
+    ],
+    "artist_titles": [
+        "Hishikawa Moronobu"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "book",
+        "edo (japanese period)",
+        "Japanism",
+        "East Asian",
+        "asian",
+        "asian art"
+    ],
+    "style_id": "TM-5218",
+    "style_title": "edo (japanese period)",
+    "alt_style_ids": [
+        "TM-5181",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_ids": [
+        "TM-5218",
+        "TM-5181",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_titles": [
+        "edo (japanese period)",
+        "Japanism",
+        "East Asian",
+        "asian"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "book",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2a4f2e5a-fbfa-aec6-6b06-9f81b285c54a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.308"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Yokei Tsukuri Niwa no Zu"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-21T11:24:55-05:00",
+    "updated_at": "2023-04-07T14:21:40-05:00",
+    "timestamp": "2023-09-24T01:29:29-05:00"
+}

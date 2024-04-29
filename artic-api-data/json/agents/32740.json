@@ -1,0 +1,28 @@
+{
+    "id": 32740,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32740",
+    "title": "Scheggi",
+    "sort_title": "Scheggi",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1817,
+    "death_date": 1824,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Scheggi",
+            "Scheggi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-05T16:10:18-05:00",
+    "updated_at": "2023-07-05T16:10:49-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

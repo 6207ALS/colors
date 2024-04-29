@@ -1,0 +1,161 @@
+{
+    "id": 23462,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/23462",
+    "is_boosted": false,
+    "title": "Pattern",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAJ+GY6yFYKqKZqyOZq6Qb7SUb66Rcbuad7yrkMCjgMKigMKigcKkhMWliMepiseqi8WojMesj8mvj8uwjsaskcuvkcyvksyxks2xksywk8uwlcyxlMy1ls20ms23m9G2mNC2mdG3nNC3ndC4nNG5n9K5ntW6nNK7oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwMijEhJ1KKQDZpJobCCaBYcQGBQsJYbEABAoHKPLx4PImECnIAA7",
+        "width": 3000,
+        "height": 1978,
+        "alt_text": "A work made of embroidery."
+    },
+    "main_reference_number": "1937.112",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Bukhara, Turkestan, Uzbekistan",
+    "place_of_origin": "Uzbekistan",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "embroidery",
+    "inscriptions": null,
+    "credit_line": "Gift of Burton Y. Berry",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.4871,
+    "color": {
+        "h": 45,
+        "l": 52,
+        "s": 55,
+        "percentage": 0.0027735818462667587,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "bukhara",
+        "textile",
+        "needlework (visual works)",
+        "central asian",
+        "asian"
+    ],
+    "style_id": "TM-4968",
+    "style_title": "bukhara",
+    "alt_style_ids": [
+        "TM-4856",
+        "TM-4694"
+    ],
+    "style_ids": [
+        "TM-4968",
+        "TM-4856",
+        "TM-4694"
+    ],
+    "style_titles": [
+        "bukhara",
+        "central asian",
+        "asian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "29e264d1-ccfe-68ad-5cfb-06f81b58d8fa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1937.112"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pattern"
+            ],
+            "weight": 71,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:52-05:00",
+    "updated_at": "2023-04-10T15:29:21-05:00",
+    "timestamp": "2023-09-24T00:30:30-05:00"
+}

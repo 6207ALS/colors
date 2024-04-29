@@ -1,0 +1,31 @@
+{
+    "id": 102664,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/102664",
+    "title": "R\u00e9my Zaugg",
+    "sort_title": "Zaugg, R\u00e9my",
+    "alt_titles": [
+        "Remy Zaugg"
+    ],
+    "is_artist": true,
+    "birth_date": 1943,
+    "death_date": 2005,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "R\u00e9my Zaugg",
+            "Zaugg, R\u00e9my",
+            "Remy Zaugg"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-11-19T11:59:19-06:00",
+    "updated_at": "2022-03-15T16:43:44-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

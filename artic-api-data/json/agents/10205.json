@@ -1,0 +1,31 @@
+{
+    "id": 10205,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10205",
+    "title": "Albert A. Gray",
+    "sort_title": "Gray, Albert A.",
+    "alt_titles": [
+        "Gray, Albert A. (Albert Alexander)"
+    ],
+    "is_artist": true,
+    "birth_date": 1868,
+    "death_date": 1936,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albert A. Gray",
+            "Gray, Albert A.",
+            "Gray, Albert A. (Albert Alexander)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:16:23-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

@@ -1,0 +1,50 @@
+{
+    "id": 4667,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4667",
+    "title": "Nicolas de Stael",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1966-01-07T00:00:00-06:00",
+    "aic_end_at": "1966-02-13T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "68d92bb4-d964-f374-6bf9-01f612b1015a",
+    "alt_image_ids": [
+        "caadf564-93d1-0312-aebf-9fab82c8cd60",
+        "f5df673a-4d16-b9d2-108d-12a04f670254",
+        "cd215eb8-c4ea-d3c4-6818-ae3bea94ba15",
+        "e95d2d30-b7a3-523a-84f4-91f51b7477e4",
+        "31f256b9-83ec-5140-b193-c41aa9020087",
+        "5597d23e-a6a6-f915-0f24-62dc71962edf",
+        "8baaa579-b824-2ec6-aa7f-2bd6f8bc5e0d",
+        "b226a34e-eeb2-a983-bf66-669e6601c9c1",
+        "0e71e86d-b405-910b-fb7c-d6d1f27501da",
+        "fc69b414-a499-e4e2-ee3a-102d26fb222d",
+        "a4c29e11-1a04-bc42-c0d5-e0f9597dd48e"
+    ],
+    "document_ids": [
+        "51113fd4-189b-c277-ea42-d31095314f40"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolas de Stael"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-31T14:32:19-05:00",
+    "updated_at": "2019-10-31T14:35:39-05:00",
+    "timestamp": "2023-09-24T02:01:26-05:00"
+}

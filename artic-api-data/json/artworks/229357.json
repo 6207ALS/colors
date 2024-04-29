@@ -1,0 +1,179 @@
+{
+    "id": 229357,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/229357",
+    "is_boosted": false,
+    "title": "Little Race Riot",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACM7SzJPZC5SazZXbjJXcjtgfEpITF1ZXWBbX0dZaFVrfmdgY3JvdX58g2B/mAAAACH5BAAAAAAALAAAAAADAAUAAAQLsIQhCHAqLXQaMxEAOw==",
+        "width": 5294,
+        "height": 9773,
+        "alt_text": "A work made of acrylic and silkscreen ink on linen; two joined canvases."
+    },
+    "main_reference_number": "2015.125",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1964,
+    "date_end": 1964,
+    "date_display": "1964",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Andy Warhol\nAmerican, 1928\u20131987",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Each: 76.2 \u00d7 83.8 cm (30 \u00d7 33 in.); 76.2 \u00d7 83.9 cm (30 \u00d7 33 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 83.8,
+            "width_in": 32.9922,
+            "height_cm": 76.2,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Each"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 83.9,
+            "width_in": 33,
+            "height_cm": 76.2,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic and silkscreen ink on linen; two joined canvases",
+    "inscriptions": null,
+    "credit_line": "Gift of Edlis Neeson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 53.7193,
+    "color": {
+        "h": 202,
+        "l": 49,
+        "s": 61,
+        "percentage": 0.004341792074678824,
+        "population": 56
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 296",
+    "gallery_id": 25472,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 37219,
+    "artist_title": "Andy Warhol",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37219
+    ],
+    "artist_titles": [
+        "Andy Warhol"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "Pop Art",
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "style_id": "TM-7221",
+    "style_title": "Pop Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7221"
+    ],
+    "style_titles": [
+        "Pop Art"
+    ],
+    "classification_id": "TM-10368",
+    "classification_title": "acrylic paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10368",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "92392b95-81f3-c1bc-e137-95a0963fae05",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.125"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Little Race Riot"
+            ],
+            "weight": 2300,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-07T16:38:36-05:00",
+    "updated_at": "2023-09-23T23:23:27-05:00",
+    "timestamp": "2023-09-24T01:48:49-05:00"
+}

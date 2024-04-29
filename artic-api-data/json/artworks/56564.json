@@ -1,0 +1,174 @@
+{
+    "id": 56564,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/56564",
+    "is_boosted": false,
+    "title": "Fragment (Dress Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAF9RO19RPF9SPWBSPWNXRGRYRHhtX3puYXhuYnxwY3txZHtyZn9zZ392a4F1aYB2aoh/d46FfpCIgZWOhwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQ4kwEMz0IUjRIIiJQcUAgAOw==",
+        "width": 1868,
+        "height": 2250,
+        "alt_text": "A work made of tapestry stitch, silk."
+    },
+    "main_reference_number": "1898.250",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Iran (Persia)",
+    "place_of_origin": "Persia",
+    "description": null,
+    "dimensions": "74.5 \u00d7 60 cm (29 3/8 \u00d7 23 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60,
+            "width_in": 23.625,
+            "height_cm": 74.5,
+            "height_in": 29.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "tapestry stitch, silk",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Cyrus H. McCormick",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.7509,
+    "color": {
+        "h": 7,
+        "l": 37,
+        "s": 56,
+        "percentage": 0.004324223246790433,
+        "population": 37
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "persian",
+        "tapestry weaving",
+        "silk (textile)",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": "TM-4811",
+    "style_title": "persian",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4811"
+    ],
+    "style_titles": [
+        "persian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10470",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10470"
+    ],
+    "technique_titles": [
+        "tapestry weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "7b5b1e6d-ab77-66e5-98ab-717bc9556cfd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1898.250"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment (Dress Fabric)"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:07:57-05:00",
+    "timestamp": "2023-09-24T00:45:06-05:00"
+}

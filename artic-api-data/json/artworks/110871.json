@@ -1,0 +1,163 @@
+{
+    "id": 110871,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/110871",
+    "is_boosted": false,
+    "title": "Portrait of a Gentleman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAYVDgQUEAUVEAcWEAsXEQkWEwkWFAoYEwwYEQsYFQwYFAwZFw4ZFg8aFhAbExUdFSotHh8oIi42LDo5JwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDFBBPM4SBMIwJIogxQZRwgAOw==",
+        "width": 1780,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1954.195",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1480,
+    "date_end": 1556,
+    "date_display": "1540/50",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Italian (Venetian)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "89.8 \u00d7 71.6 cm (35 3/8 \u00d7 28 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 71.6,
+            "width_in": 28.1875,
+            "height_cm": 89.8,
+            "height_in": 35.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. Chester D. Tripp",
+    "catalogue_display": null,
+    "publication_history": "The Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection, 1961, p. 451. \n\nR. Pallucchini, Tiziano, Florence, 1969, vol. 1, pp. 223, 348, vol. 2, pl. 674. \n\nChristopher Lloyd, Italian Paintings before 1600 in The Art Institute of Chicago, Chicago, 1963, pp. 272-273 (ill.).",
+    "exhibition_history": null,
+    "provenance_text": "E. and A. Silberman Galleries, New York; sold to Chester D. Tripp, Chicago, 1945 [according to letter of March 2, 1945 from Silberman to Tripp]; given to The Art Institute of Chicago, 1954.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.3263,
+    "color": {
+        "h": 39,
+        "l": 50,
+        "s": 40,
+        "percentage": 0.003338385423273887,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4fad87cf-c7e8-ee73-8a06-17eaf6a99d23",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.195"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Gentleman"
+            ],
+            "weight": 541,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:22:54-05:00",
+    "timestamp": "2023-09-24T01:09:37-05:00"
+}

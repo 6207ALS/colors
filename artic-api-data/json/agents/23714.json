@@ -1,0 +1,33 @@
+{
+    "id": 23714,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/23714",
+    "title": "Martin Archer Shee",
+    "sort_title": "Shee, Martin Archer",
+    "alt_titles": [
+        "Martin A. Shee",
+        "Sir Martin Archer Shee"
+    ],
+    "is_artist": true,
+    "birth_date": 1769,
+    "death_date": 1850,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Martin Archer Shee",
+            "Shee, Martin Archer",
+            "Martin A. Shee",
+            "Sir Martin Archer Shee"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:23-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

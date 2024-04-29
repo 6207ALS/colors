@@ -1,0 +1,176 @@
+{
+    "id": 131296,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/131296",
+    "is_boosted": false,
+    "title": "Measure of Order",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABUWGRYWGRobHRwcHxwdHxwfIiAhISEkJiUnKycpLigqLSgqLyYqMCkrMCksMCstMS0vMy0wNDEzNz89NjM1ODQ3PEJAOzk8Qz0+QD0/RT5BRj9DSgAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIJQoFpYhhTFplHMIzHY9AxAQlYQsTZSFADs=",
+        "width": 3000,
+        "height": 2419,
+        "alt_text": "A work made of pastel on paper."
+    },
+    "main_reference_number": "1978.221.22",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1952,
+    "date_end": 1978,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Irene Siegel\nAmerican, born 1932",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "40.9 \u00d7 51 cm (16 1/8 \u00d7 20 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 51,
+            "width_in": 20.0788,
+            "height_cm": 40.9,
+            "height_in": 16.1024,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pastel on paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by William E. Hartmann and  Mrs. Lewis Manilow",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.6876,
+    "color": {
+        "h": 210,
+        "l": 53,
+        "s": 21,
+        "percentage": 0.00856049210600335,
+        "population": 49
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36693,
+    "artist_title": "Irene Siegel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36693
+    ],
+    "artist_titles": [
+        "Irene Siegel"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "pastel",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-229",
+    "classification_title": "pastel",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-229",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pastel",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "d494cad3-9705-e6dd-f44e-0a25b6335e80",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.221.22"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Measure of Order"
+            ],
+            "weight": 33,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T10:25:11-05:00",
+    "timestamp": "2023-09-24T01:19:25-05:00"
+}

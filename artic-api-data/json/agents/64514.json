@@ -1,0 +1,33 @@
+{
+    "id": 64514,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/64514",
+    "title": "Jacqueline Poncelet",
+    "sort_title": "Poncelet, Jacqueline",
+    "alt_titles": [
+        "Jacqui Poncelet",
+        "Jacque Poncelet"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacqueline Poncelet",
+            "Poncelet, Jacqueline",
+            "Jacqui Poncelet",
+            "Jacque Poncelet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-08T10:26:36-06:00",
+    "updated_at": "2020-12-08T10:30:51-06:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

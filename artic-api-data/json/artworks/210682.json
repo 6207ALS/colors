@@ -1,0 +1,163 @@
+{
+    "id": 210682,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/210682",
+    "is_boosted": false,
+    "title": "Carnival",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFuNu12Qs2emxnOiwJ+apbOkp82HgfGimf6km+y6r/C0qM+swp3E3bzIx77R397M1eDF0Ojg3vvt5Pnw5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDNFyeBIisBAh/EsSAEERAgAOw==",
+        "width": 1859,
+        "height": 2250,
+        "alt_text": "A work made of acrylic on canvas."
+    },
+    "main_reference_number": "2011.794",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1974,
+    "date_end": 1974,
+    "date_display": "1974",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Kimber Smith\nAmerican, 1922\u20131981",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "165.1 \u00d7 139.7 cm (65 \u00d7 55 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 139.7,
+            "width_in": 55,
+            "height_cm": 165.1,
+            "height_in": 65,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Duncan and Miles Smith",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 86.0562,
+    "color": {
+        "h": 51,
+        "l": 51,
+        "s": 96,
+        "percentage": 0.0033726420580094435,
+        "population": 29
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 111732,
+    "artist_title": "Kimber Smith",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111732
+    ],
+    "artist_titles": [
+        "Kimber Smith"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10368",
+    "classification_title": "acrylic paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10368",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "536692c3-b9ca-f82b-19f7-7bce6d774886",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2011.794"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Carnival"
+            ],
+            "weight": 326,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:27-05:00",
+    "updated_at": "2023-04-07T15:37:12-05:00",
+    "timestamp": "2023-09-24T01:42:42-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 92837,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/92837",
+    "title": "Mayer et Pierson",
+    "sort_title": "Mayer et Pierson",
+    "alt_titles": [
+        "Mayer and Pierson",
+        "Mayer & Pierson"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mayer et Pierson",
+            "Mayer et Pierson",
+            "Mayer and Pierson",
+            "Mayer & Pierson"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:01:26-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

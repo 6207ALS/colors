@@ -1,0 +1,59 @@
+{
+    "id": 8108,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8108",
+    "title": "Engraved Imagery: Literary Subjects on Cloth",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1995-02-22T00:00:00-06:00",
+    "aic_end_at": "1995-05-14T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        50499,
+        180097
+    ],
+    "artwork_titles": [
+        "Les Monuments de Gr\u00e8ce (Furnishing Fabric)",
+        "Garrick and Shakespeare with Tragedy and Comedy (Furnishing Fabric)"
+    ],
+    "artist_ids": [
+        74963,
+        36068,
+        64367
+    ],
+    "site_ids": [],
+    "image_id": "8ce1b5e5-6fa5-bd16-9444-98f6d8544152",
+    "alt_image_ids": [
+        "b485d70c-a6a2-8134-b21d-68be739e24cc",
+        "3b8d5b15-5c58-9588-85ad-c5bfb195e8e7",
+        "f63ef2d4-c730-2355-bdd9-b646c142a60a",
+        "2a05da53-ff3c-3741-585c-b9916ea1cb28",
+        "c8af440e-67b4-72f4-2eaf-b144abc277a3",
+        "3a0d524d-c111-3aad-dabe-163b1d6be4ff",
+        "b75e57b1-7a52-d46a-ddb7-2bfbbf2d0634",
+        "9b38af4d-b1ec-86e1-1fb7-ab5cc38d856d",
+        "580ae11c-2e38-6b16-0705-1a7ce3626c5e",
+        "f4e599fd-e85f-cea8-3990-d0016e7cbff3",
+        "df25ab5c-862f-0b43-5549-6372f6632966",
+        "5a217c7d-789b-60de-82a8-58acc2dc4a15"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Engraved Imagery: Literary Subjects on Cloth"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-01-12T11:03:45-06:00",
+    "updated_at": "2023-01-12T11:06:54-06:00",
+    "timestamp": "2023-09-24T02:02:11-05:00"
+}

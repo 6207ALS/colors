@@ -1,0 +1,35 @@
+{
+    "id": 37102,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37102",
+    "title": "Eglon van der Neer",
+    "sort_title": "Neer, Eglon van der",
+    "alt_titles": [
+        "Eglon Van der Neer",
+        "Eglon H. van der Neer",
+        "Eglon Hendrik van der Neer"
+    ],
+    "is_artist": true,
+    "birth_date": 1634,
+    "death_date": 1703,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Eglon van der Neer",
+            "Neer, Eglon van der",
+            "Eglon Van der Neer",
+            "Eglon H. van der Neer",
+            "Eglon Hendrik van der Neer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:32:43-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,38 @@
+{
+    "id": 8499,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8499",
+    "title": "Chicago and Vicinity 48th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1944-01-27T00:00:00-05:00",
+    "aic_end_at": "1944-03-05T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "20b294a0-d102-6348-e7d8-a41fc28cc880"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 48th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:12:34-06:00",
+    "timestamp": "2023-09-24T02:02:18-05:00"
+}

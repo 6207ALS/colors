@@ -1,0 +1,172 @@
+{
+    "id": 229942,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/229942",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFgyImRBKWZYUW1gXXJhVX1nXHppYXptZW5tcXh3e3p4e3p5fXt6fYh5bIKAhZCOkpiYnq6vtLCyt7q0s7O1u8LAwcLBw8jJy83O0QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVILMgifIQzeFERSBAkgEM1FVNFhYCADs=",
+        "width": 2239,
+        "height": 2250,
+        "alt_text": "A work made of stoneware."
+    },
+    "main_reference_number": "2015.464",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1910,
+    "date_display": "1900/10",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Paul Jeanneney\nFrench, 1861-1920",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "10.8 \u00d7 11.4 cm (4 1/4 \u00d7 4 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11.4,
+            "width_in": 4.5,
+            "height_cm": 10.8,
+            "height_in": 4.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stoneware",
+    "inscriptions": null,
+    "credit_line": "Gift of Odette Brabec-Baumann",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.3623,
+    "color": {
+        "h": 268,
+        "l": 47,
+        "s": 1,
+        "percentage": 0.2289848617897793,
+        "population": 1635
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 69147,
+    "artist_title": "Paul Jeanneney",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        69147
+    ],
+    "artist_titles": [
+        "Paul Jeanneney"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "vase",
+        "stoneware",
+        "vessel",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-27",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "vase",
+        "vessel",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2484",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2484"
+    ],
+    "material_titles": [
+        "stoneware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "852f77ba-c3bd-0102-741a-20ed86c77981",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.464"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:24:51-05:00",
+    "timestamp": "2023-09-24T01:48:59-05:00"
+}

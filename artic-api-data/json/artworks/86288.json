@@ -1,0 +1,177 @@
+{
+    "id": 86288,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/86288",
+    "is_boosted": false,
+    "title": "Mantle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUhACYkJzw7OD89P0c/P0xBNGJIMW9QNkNERklHRkpNT1hWT09RVm1dS2xhXXZ2dI9jRpycnaysqcu+s9vKxtjTz9TU1dXV19/Z1dra3d3f3uDf3Obm5uzn5vTv6ffx6vr6+f7+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwBAIY6lsQhnHYZFQaBoAAWIQiEwKBMODAeFIKJeO5xMEADs=",
+        "width": 2560,
+        "height": 1920,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1956.64",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -100,
+    "date_end": 200,
+    "date_display": "100 B.C./A.D. 200",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Nazca\nPeru, south coast, Nazca Valley, Coyungo",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Edwin A. Seipp",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Pablo Soldi, Ica, Peru, by 1956 [sent care of Rudolfo Byrne, Brooklyn, NY; incoming Receipt RX1913 dated 5/21/1956 in curatorial file]; sold to the Art Institute of Chicago, 1956.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.5401,
+    "color": {
+        "h": 4,
+        "l": 45,
+        "s": 59,
+        "percentage": 0.00150156913975104,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 29844,
+    "artist_title": "Nasca",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29844
+    ],
+    "artist_titles": [
+        "Nasca"
+    ],
+    "category_ids": [
+        "PC-829",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "nazca",
+        "weaving",
+        "needlework (visual works)",
+        "andean",
+        "andes",
+        "Pre-Columbian"
+    ],
+    "style_id": "TM-6777",
+    "style_title": "nazca",
+    "alt_style_ids": [
+        "TM-13504",
+        "TM-12988",
+        "TM-6516"
+    ],
+    "style_ids": [
+        "TM-6777",
+        "TM-13504",
+        "TM-12988",
+        "TM-6516"
+    ],
+    "style_titles": [
+        "nazca",
+        "andean",
+        "andes",
+        "Pre-Columbian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "6e12d527-615c-554b-f875-b27fd58b310f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.64"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mantle"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-27T11:23:26-05:00",
+    "updated_at": "2023-09-23T23:16:49-05:00",
+    "timestamp": "2023-09-24T00:58:14-05:00"
+}

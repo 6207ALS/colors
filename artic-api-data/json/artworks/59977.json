@@ -1,0 +1,187 @@
+{
+    "id": 59977,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59977",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIGBgYODg4eHh4yMjI6OjpGRkZmZmZ2dnZ6enp+fn6CgoKGhoaOjo6ampqioqKmpqaqqqqurq6ysrK6urrCwsLOzs7i4uLm5ucDAwAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUYoGQAwbBUSnQU10Qlx0FhDQIpliMQDyOFADs=",
+        "width": 5306,
+        "height": 4500,
+        "alt_text": "A work made of silk, damask weave."
+    },
+    "main_reference_number": "1980.165",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1710,
+    "date_end": 1784,
+    "date_display": "1710/84",
+    "date_qualifier_title": "Modeled",
+    "date_qualifier_id": 50,
+    "artist_display": "France, Lyon",
+    "place_of_origin": "Lyon",
+    "description": null,
+    "dimensions": "46 \u00d7 56 cm (18 1/8 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 56,
+            "width_in": 22,
+            "height_cm": 46,
+            "height_in": 18.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, damask weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. William J. Robertson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.21335722403338064,
+        "population": 1286
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "silk (textile)",
+        "damask",
+        "Greek",
+        "textile",
+        "weaving",
+        "cityscapes",
+        "lattices",
+        "people"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-8768",
+    "alt_subject_ids": [
+        "TM-8762",
+        "TM-11201",
+        "TM-8810"
+    ],
+    "subject_ids": [
+        "TM-8768",
+        "TM-8762",
+        "TM-11201",
+        "TM-8810"
+    ],
+    "subject_titles": [
+        "Greek",
+        "cityscapes",
+        "lattices",
+        "people"
+    ],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10575",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10575"
+    ],
+    "technique_titles": [
+        "damask"
+    ],
+    "theme_titles": [],
+    "image_id": "739f2954-15c0-2232-4866-8a8916c486ec",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.165"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 32,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-08T14:10:23-05:00",
+    "updated_at": "2023-08-08T14:11:01-05:00",
+    "timestamp": "2023-09-24T00:46:13-05:00"
+}

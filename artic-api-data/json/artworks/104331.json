@@ -1,0 +1,160 @@
+{
+    "id": 104331,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104331",
+    "is_boosted": false,
+    "title": "La Lecon de Mandoline",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKmhfq6ofL+4ksq9j8a+nszEocTCqNXLpdHIqNLKr9XJrNbOsNnRt97Ut+Tavujfw+zky+rjzOvkzvHp0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4JMwDgIEhSEMx0IozSRFUAgAOw==",
+        "width": 2203,
+        "height": 3000,
+        "alt_text": "A work made of color etching and engraving on wove paper."
+    },
+    "main_reference_number": "1985.492",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1909,
+    "date_end": 1967,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Milly Possoz\nPortuguese, 1889-1967",
+    "place_of_origin": "Portugal",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Color etching and engraving on wove paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Janis H. Palmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.2368,
+    "color": {
+        "h": 51,
+        "l": 42,
+        "s": 55,
+        "percentage": 0.004133239095481956,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 20876,
+    "artist_title": "Milly Possoz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        20876
+    ],
+    "artist_titles": [
+        "Milly Possoz"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6347299c-fe4b-37ab-4df6-09938eaf070b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.492"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "La Lecon de Mandoline"
+            ],
+            "weight": 22,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-04-18T14:26:58-05:00",
+    "updated_at": "2023-04-10T15:09:59-05:00",
+    "timestamp": "2023-09-24T01:07:18-05:00"
+}

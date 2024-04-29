@@ -1,0 +1,37 @@
+{
+    "id": 36286,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36286",
+    "title": "Pierre Paul Prud'hon",
+    "sort_title": "Prud'hon, Pierre Paul",
+    "alt_titles": [
+        "Pierre-Paul Prud'hon",
+        "Pierre P. Prud'hon",
+        "P. P. Prud'hon",
+        "Pierre Paul Prudhon"
+    ],
+    "is_artist": true,
+    "birth_date": 1758,
+    "death_date": 1823,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre Paul Prud'hon",
+            "Prud'hon, Pierre Paul",
+            "Pierre-Paul Prud'hon",
+            "Pierre P. Prud'hon",
+            "P. P. Prud'hon",
+            "Pierre Paul Prudhon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:42-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

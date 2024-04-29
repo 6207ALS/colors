@@ -1,0 +1,180 @@
+{
+    "id": 260581,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/260581",
+    "is_boosted": false,
+    "title": "Untitled (AJAS Advertisement)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE9NTVRTU2FeXWlmY2pmYmtoZHRwa3RxbnZzb3dzb3dzcHh0cXp2cn55c315dIB7doF9eImEfoyFfYyIgwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAE5xXMEQLMgAzMpghQlRAgAOw==",
+        "width": 7637,
+        "height": 9798,
+        "alt_text": "A work made of printed matter."
+    },
+    "main_reference_number": "Obj: 260581",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1955/65",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Kwame Brathwaite\nAmerican, 1938-2023",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "25.4 \u00d7 20.4 cm (10 \u00d7 8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.4,
+            "width_in": 8,
+            "height_cm": 25.4,
+            "height_in": 10,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Printed matter",
+    "inscriptions": null,
+    "credit_line": "Promised gift of Kim and Keith Allen-Niesen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 65,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.00023119896065776824,
+        "population": 173
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117534,
+    "artist_title": "Kwame Brathwaite",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117534
+    ],
+    "artist_titles": [
+        "Kwame Brathwaite"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-142"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "African American artists"
+    ],
+    "term_titles": [
+        "African American",
+        "photograph",
+        "photographic process",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-68",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-68",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photographic process",
+        "photography"
+    ],
+    "subject_id": "TM-12272",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12272"
+    ],
+    "subject_titles": [
+        "African American"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "African American artists"
+    ],
+    "image_id": "fa22236c-d271-87ac-a155-1d3f6c18d16f",
+    "alt_image_ids": [
+        "f52c9388-a12d-a5a3-ff8e-28a6284067e2",
+        "644b7f59-c6cc-bc2e-c90b-966a27b02fbd"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "Obj: 260581"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (AJAS Advertisement)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-09T16:13:30-05:00",
+    "updated_at": "2023-08-09T16:16:06-05:00",
+    "timestamp": "2023-09-24T01:57:41-05:00"
+}

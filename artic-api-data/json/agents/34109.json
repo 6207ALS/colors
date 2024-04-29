@@ -1,0 +1,43 @@
+{
+    "id": 34109,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34109",
+    "title": "D.H. Burnham & Co.",
+    "sort_title": "D.H. Burnham & Co.",
+    "alt_titles": [
+        "Burnham (D. H.) & Co.",
+        "Burnham & Co.",
+        "D.H. Burnham and Co.",
+        "D.H. Burnham & Company",
+        "D.H. Burnham and Company",
+        "D. H. Burnham and Company",
+        "D. H. Burnham & Co."
+    ],
+    "is_artist": true,
+    "birth_date": 1891,
+    "death_date": 1912,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "D.H. Burnham & Co.",
+            "D.H. Burnham & Co.",
+            "Burnham (D. H.) & Co.",
+            "Burnham & Co.",
+            "D.H. Burnham and Co.",
+            "D.H. Burnham & Company",
+            "D.H. Burnham and Company",
+            "D. H. Burnham and Company",
+            "D. H. Burnham & Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:03:18-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

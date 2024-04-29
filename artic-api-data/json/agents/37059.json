@@ -1,0 +1,33 @@
+{
+    "id": 37059,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37059",
+    "title": "Alice Wright Uhlmann",
+    "sort_title": "Uhlmann, Alice Wright",
+    "alt_titles": [
+        "Alice Wright Uhlman",
+        "Alice W. Uhlmann"
+    ],
+    "is_artist": true,
+    "birth_date": 1901,
+    "death_date": 2000,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alice Wright Uhlmann",
+            "Uhlmann, Alice Wright",
+            "Alice Wright Uhlman",
+            "Alice W. Uhlmann"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:39:46-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,178 @@
+{
+    "id": 235372,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/235372",
+    "is_boosted": false,
+    "title": "Collotype",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHd0bHh2boqHeoqGe46LgI+MgJCMgqCdkKijlaqmlqyomK+sn7axob64qMO9rMfCsdjVwtzYxt3YyO7q2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCNNTxJBSrEcBCAMgcE4SAgAOw==",
+        "width": 2412,
+        "height": 3000,
+        "alt_text": "A work made of collotype, plate xxvi from the book \"home landscapes\" (1914)."
+    },
+    "main_reference_number": "1978.233.26",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1905,
+    "date_end": 1914,
+    "date_display": "c. 1910",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "George Champion \nEnglish, active early 20th century",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image: 23.9 \u00d7 19 cm (9 7/16 \u00d7 7 1/2 in.); Paper: 32.2 \u00d7 25.2 cm (12 11/16 \u00d7 9 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19,
+            "width_in": 7.4804,
+            "height_cm": 23.9,
+            "height_in": 9.4095,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.2,
+            "width_in": 9.9213,
+            "height_cm": 32.2,
+            "height_in": 12.6772,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Collotype, plate XXVI from the book \"Home Landscapes\" (1914)",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Leigh B. Block",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.1985,
+    "color": {
+        "h": 47,
+        "l": 48,
+        "s": 9,
+        "percentage": 0.039805180779977994,
+        "population": 352
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 4397,
+    "artist_title": "George Champion",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        4397
+    ],
+    "artist_titles": [
+        "George Champion"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "collotype",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-1171",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-1171",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "collotype",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e0fe8386-8a0a-cf72-0036-b52335f9b01c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.233.26"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Collotype"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:32-05:00",
+    "updated_at": "2023-04-07T15:03:33-05:00",
+    "timestamp": "2023-09-24T01:51:46-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 41349,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41349",
+    "title": "Romeyn de Hooghe",
+    "sort_title": "Hooghe, Romeyn de",
+    "alt_titles": [
+        "Romeyn de Hooche",
+        "Romeyn de Hooge",
+        "Romeyn de Hoogh"
+    ],
+    "is_artist": true,
+    "birth_date": 1645,
+    "death_date": 1708,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Romeyn de Hooghe",
+            "Hooghe, Romeyn de",
+            "Romeyn de Hooche",
+            "Romeyn de Hooge",
+            "Romeyn de Hoogh"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:15-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

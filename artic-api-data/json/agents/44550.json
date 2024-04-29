@@ -1,0 +1,33 @@
+{
+    "id": 44550,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44550",
+    "title": "Paul Emile Detouche",
+    "sort_title": "Detouche, Paul Emile",
+    "alt_titles": [
+        "Paul-Emile Destouches",
+        "Paul Emile Detouches"
+    ],
+    "is_artist": true,
+    "birth_date": 1794,
+    "death_date": 1874,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul Emile Detouche",
+            "Detouche, Paul Emile",
+            "Paul-Emile Destouches",
+            "Paul Emile Detouches"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:23-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

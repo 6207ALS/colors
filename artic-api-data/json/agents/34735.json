@@ -1,0 +1,35 @@
+{
+    "id": 34735,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34735",
+    "title": "Kate Greenaway",
+    "sort_title": "Greenaway, Kate",
+    "alt_titles": [
+        "K. (Kate) Greenaway",
+        "Ket Grinave",
+        "Kait Grinavai"
+    ],
+    "is_artist": true,
+    "birth_date": 1846,
+    "death_date": 1901,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kate Greenaway",
+            "Greenaway, Kate",
+            "K. (Kate) Greenaway",
+            "Ket Grinave",
+            "Kait Grinavai"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:53:07-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

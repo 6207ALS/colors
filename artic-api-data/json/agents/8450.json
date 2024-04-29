@@ -1,0 +1,41 @@
+{
+    "id": 8450,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/8450",
+    "title": "Paul Flindt",
+    "sort_title": "Flindt, Paul",
+    "alt_titles": [
+        "Paul Flynt",
+        "Paul Vlindt",
+        "Paul Flint",
+        "Paul Flindt, the Younger",
+        "Paul Flynth",
+        "Paul Vlindt, the Younger"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul Flindt",
+            "Flindt, Paul",
+            "Paul Flynt",
+            "Paul Vlindt",
+            "Paul Flint",
+            "Paul Flindt, the Younger",
+            "Paul Flynth",
+            "Paul Vlindt, the Younger"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:38-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

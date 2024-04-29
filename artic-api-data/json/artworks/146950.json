@@ -1,0 +1,168 @@
+{
+    "id": 146950,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146950",
+    "is_boosted": false,
+    "title": "Composition",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAD4/QEFBQkBDRENER0ZJS0tOUVJUVltdX19fYGJiYWhqbH51b52Gd5GIgrGgk7qsobCxr6+xsbW0sru6uNC4p9O7q9O9rdy8qMLBvQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoEAghzE01FIE1cUAymM5STRhEhQCADs=",
+        "width": 2290,
+        "height": 2250,
+        "alt_text": "A work made of alabaster."
+    },
+    "main_reference_number": "1997.215",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1944,
+    "date_end": 1944,
+    "date_display": "1944",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Milton Horn\nAmerican, born Russia, 1906\u20131995",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "27.9 \u00d7 27.9 \u00d7 11.4 cm (11 \u00d7 11 \u00d7 4 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 11.4,
+            "depth_in": 4.5,
+            "width_cm": 27.9,
+            "width_in": 11,
+            "height_cm": 27.9,
+            "height_in": 11,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Alabaster",
+    "inscriptions": null,
+    "credit_line": "Gift of the Milton Horn Art Trust",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.1754,
+    "color": {
+        "h": 201,
+        "l": 45,
+        "s": 1,
+        "percentage": 0.030945381401825775,
+        "population": 216
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 12022,
+    "artist_title": "Milton Horn",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        12022
+    ],
+    "artist_titles": [
+        "Milton Horn"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "alabaster",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2443",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2443"
+    ],
+    "material_titles": [
+        "alabaster"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f69a9e54-3762-7724-9648-bfb4d894a6dd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.215"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Composition"
+            ],
+            "weight": 124,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:55:16-05:00",
+    "timestamp": "2023-09-24T01:25:47-05:00"
+}

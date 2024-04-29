@@ -1,0 +1,31 @@
+{
+    "id": 6921,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6921",
+    "title": "Rackstraw Downes",
+    "sort_title": "Downes, Rackstraw",
+    "alt_titles": [
+        "Rackshaw Downes"
+    ],
+    "is_artist": true,
+    "birth_date": 1939,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rackstraw Downes",
+            "Downes, Rackstraw",
+            "Rackshaw Downes"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:20-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

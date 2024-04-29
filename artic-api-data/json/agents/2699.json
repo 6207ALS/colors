@@ -1,0 +1,28 @@
+{
+    "id": 2699,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2699",
+    "title": "Edward Blore",
+    "sort_title": "Blore, Edward",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1787,
+    "death_date": 1879,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edward Blore",
+            "Blore, Edward"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:37-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

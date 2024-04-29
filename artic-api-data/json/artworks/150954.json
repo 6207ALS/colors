@@ -1,0 +1,151 @@
+{
+    "id": 150954,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/150954",
+    "is_boosted": false,
+    "title": "Sample (83.79.964/41.)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhDAAFAPUAABUKCRsPEBwPEBwQEB0RERwSERwREiATFCETFCAUFCEXFyQaGiYbHCccHCccHSgdHSseHiofICwfIC8iJDAkJjMnKTUoKjYpKjcrK0hERV1aWmZjYnp2eIWCg5SJipWLjJyQkp2ZnKejp6ijp6ejqKmlqammqqqmqqunq7Wytru4vby5vr+6v8G9w8K9xMbDycjDysnGzMvGzs3Hz8/K0dDM09rV2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAMAAUAAAY3QButRpvJYK4WiRMDQTCXi6VCmSgyLw8gcUAQBIOAQaP6FBoPycMRYSw2K9aodDqRRChTqJMKAgA7",
+        "width": 3000,
+        "height": 1271,
+        "alt_text": "A work made of rayon and acetate, plain weave with discontinuous supplementary pile warps forming cut voided velvet."
+    },
+    "main_reference_number": "1998.562.57",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1959,
+    "date_display": "1951/59",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Produced by J.B. Martin Company, Inc.\nFrance, Tarare",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "39.8 \u00d7 93.7 cm (15 3/4 \u00d7 36 7/8 in.)\nRepeat: 6.7 \u00d7 6.0 cm (2 5/8 \u00d7 2 3/8 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Rayon and acetate, plain weave with discontinuous supplementary pile warps forming cut voided velvet",
+    "inscriptions": null,
+    "credit_line": "Gift of J.B. Martin Company, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.7593,
+    "color": {
+        "h": 7,
+        "l": 54,
+        "s": 29,
+        "percentage": 0.002658240045721729,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 81467,
+    "artist_title": "J B. Martin Company, Inc.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        81467
+    ],
+    "artist_titles": [
+        "J B. Martin Company, Inc."
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - velvet"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-608"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-608"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - velvet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2f2a249c-c0b8-898a-bd12-7113e2fb3ef9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1998.562.57"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (83.79.964/41.)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:33-05:00",
+    "updated_at": "2023-04-10T15:21:23-05:00",
+    "timestamp": "2023-09-24T01:27:53-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 128635,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/128635",
+    "is_boosted": false,
+    "title": "Sea Bird",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGRkV2lpX2ZoYH6AfYmHeYmKh5KQg5iWhpCTkKGcjq+plqOgmrOwnairq7KtoLq5rry7rsC/sMHAuMzLv8bGwNXTw9PSytTTyNrXytfX0uLcyOffzOvkze3m0ePh2ePi2Ozm2O/r3/Xy5wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQBGow9FsQp6FQ0FIYDKFBkIwoFgMjAMgIPlMKhHI4xIEADs=",
+        "width": 3000,
+        "height": 2264,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "1958.794.9",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1959,
+    "date_end": 1959,
+    "date_display": "1959",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Max Kahn\nAmerican, born Russia, 1902-2005",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 40.8 \u00d7 56 cm (16 1/8 \u00d7 22 1/16 in.); Sheet: 50.6 \u00d7 67 cm (19 15/16 \u00d7 26 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 56,
+            "width_in": 22.0473,
+            "height_cm": 40.8,
+            "height_in": 16.063,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 67,
+            "width_in": 26.378,
+            "height_cm": 50.6,
+            "height_in": 19.9213,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Print and Drawing Club Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.4238,
+    "color": {
+        "h": 42,
+        "l": 55,
+        "s": 88,
+        "percentage": 0.0003730313271708558,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35181,
+    "artist_title": "Max Kahn",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35181
+    ],
+    "artist_titles": [
+        "Max Kahn"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f9880ec1-0550-6297-5e64-167079d9a103",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1958.794.9"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sea Bird"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-07-18T16:00:53-05:00",
+    "timestamp": "2023-09-24T01:18:13-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 72137,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/72137",
+    "title": "Chicago Plan Commission",
+    "sort_title": "Chicago Plan Commission",
+    "alt_titles": [
+        "Chicago. Plan Commission",
+        "Chicago (Ill.). Plan Commission"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Plan Commission",
+            "Chicago Plan Commission",
+            "Chicago. Plan Commission",
+            "Chicago (Ill.). Plan Commission"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-18T12:36:57-05:00",
+    "updated_at": "2022-03-15T17:00:17-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

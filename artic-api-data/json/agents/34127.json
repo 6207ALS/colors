@@ -1,0 +1,33 @@
+{
+    "id": 34127,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34127",
+    "title": "Ernst Damitz",
+    "sort_title": "Damitz, Ernst",
+    "alt_titles": [
+        "Ernst Otto Wilhelm Franz von Damitz",
+        "Ernst Von Damitz"
+    ],
+    "is_artist": true,
+    "birth_date": 1805,
+    "death_date": 1883,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ernst Damitz",
+            "Damitz, Ernst",
+            "Ernst Otto Wilhelm Franz von Damitz",
+            "Ernst Von Damitz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:39:12-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

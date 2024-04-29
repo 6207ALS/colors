@@ -1,0 +1,33 @@
+{
+    "id": 32830,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32830",
+    "title": "Tajima Hiroyuki",
+    "sort_title": "Tajima Hiroyuki",
+    "alt_titles": [
+        "Hiroyuki Tajima",
+        "Nagai Kiyoshi"
+    ],
+    "is_artist": true,
+    "birth_date": 1911,
+    "death_date": 1997,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tajima Hiroyuki",
+            "Tajima Hiroyuki",
+            "Hiroyuki Tajima",
+            "Nagai Kiyoshi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:06:46-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

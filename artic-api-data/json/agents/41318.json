@@ -1,0 +1,31 @@
+{
+    "id": 41318,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41318",
+    "title": "Adriaen van der Werff",
+    "sort_title": "Werff, Adriaen van der",
+    "alt_titles": [
+        "Adriaen Van der Werff"
+    ],
+    "is_artist": true,
+    "birth_date": 1659,
+    "death_date": 1722,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adriaen van der Werff",
+            "Werff, Adriaen van der",
+            "Adriaen Van der Werff"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-08T10:26:02-05:00",
+    "updated_at": "2022-03-15T16:37:16-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

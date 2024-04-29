@@ -1,0 +1,28 @@
+{
+    "id": 8629,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/8629",
+    "title": "Gray Foy",
+    "sort_title": "Foy, Gray",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1922,
+    "death_date": 2012,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gray Foy",
+            "Foy, Gray"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-05-17T15:39:47-05:00",
+    "updated_at": "2019-05-17T15:40:39-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

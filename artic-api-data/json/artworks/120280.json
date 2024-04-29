@@ -1,0 +1,184 @@
+{
+    "id": 120280,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120280",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAENDRl1QVlhWWVhYW2daYG1rb5qWnJ+boaytsq6vtLCztrG0t7K0uLu9wdXX2trc3+7w9PL0+PX3+/r8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGIcyEIEiiMUTwQME8Q0UggAOw==",
+        "width": 1775,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1991.243",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1985,
+    "date_end": 1985,
+    "date_display": "1985",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Valerie Surjan (American, born 1946)\nand Micheal Nourot (American, 1949\u20132015)",
+    "place_of_origin": "Benicia",
+    "description": null,
+    "dimensions": "19.1 \u00d7 9.6 cm (7 1/2 \u00d7 3 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.6,
+            "width_in": 3.75,
+            "height_cm": 19.1,
+            "height_in": 7.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": "etched in script on foot rim: \"(c) Valerie Surjan/Nourot VS-41-81\"",
+    "credit_line": "Gift of Stanton and Judith Brody",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.0236,
+    "color": {
+        "h": 346,
+        "l": 45,
+        "s": 19,
+        "percentage": 0.0022214225101185796,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 43445,
+    "artist_title": "Valerie Surjan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43445
+    ],
+    "artist_titles": [
+        "Valerie Surjan"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-3"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "4c7611ce-c2c7-4fa0-5501-69e4775a1a4c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.243"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 23,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-15T16:19:58-05:00",
+    "updated_at": "2023-09-15T16:20:50-05:00",
+    "timestamp": "2023-09-24T01:13:34-05:00"
+}

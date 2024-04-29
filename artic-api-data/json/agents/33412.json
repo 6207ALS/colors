@@ -1,0 +1,31 @@
+{
+    "id": 33412,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33412",
+    "title": "Jacopo Amigoni",
+    "sort_title": "Amigoni, Jacopo",
+    "alt_titles": [
+        "Jacopo Amiconi"
+    ],
+    "is_artist": true,
+    "birth_date": 1682,
+    "death_date": 1752,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacopo Amigoni",
+            "Amigoni, Jacopo",
+            "Jacopo Amiconi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-21T14:14:21-05:00",
+    "updated_at": "2022-04-22T10:51:56-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

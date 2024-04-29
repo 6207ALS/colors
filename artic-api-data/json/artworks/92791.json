@@ -1,0 +1,164 @@
+{
+    "id": 92791,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/92791",
+    "is_boosted": false,
+    "title": "Salesman's Sample",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAAECAQMDAjMlIDstJTgyMjo0Mzk3NUQ6MU1EPFJJP15WSGpfUnNoWHRpWXVqW3RqXXZqXnpuXXpsX3pvXnptYH9yZI+AbpqGbZqKc5mJdJ6OeKCQeAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYOZIVLMtgBAADEQgx4A9hpIUl1ZZU8SFADs=",
+        "width": 2720,
+        "height": 2250,
+        "alt_text": "A work made of wool, fulled plain weave; embroidered with silk floss in outline, satin, padded satin and single satin stitches; couching and french knots."
+    },
+    "main_reference_number": "1956.144",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1780,
+    "date_end": 1790,
+    "date_display": "1780/90",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France, possibly Lyon",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "20.4 \u00d7 17 cm (8 1/8 \u00d7 6 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17,
+            "width_in": 6.75,
+            "height_cm": 20.4,
+            "height_in": 8.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool, fulled plain weave; embroidered with silk floss in outline, satin, padded satin and single satin stitches; couching and French knots",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Chauncey B. Borland",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.0747,
+    "color": {
+        "h": 62,
+        "l": 67,
+        "s": 88,
+        "percentage": 0.0010211531882955425,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "textile",
+        "needlework (visual works)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "72b47c13-0d94-70e1-6e6e-1d8d72617a5b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.144"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Salesman's Sample"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:56:29-05:00",
+    "timestamp": "2023-09-24T01:00:57-05:00"
+}

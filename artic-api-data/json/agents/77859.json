@@ -1,0 +1,37 @@
+{
+    "id": 77859,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/77859",
+    "title": "Jean-Jacques Avril, le jeune",
+    "sort_title": "Avril, Jean-Jacques, le jeune",
+    "alt_titles": [
+        "Jean Jacques Avril",
+        "Jean-Jacques Avril, le fils",
+        "Jean-Jacques Avril, the younger",
+        "Jean-Jacques Avril"
+    ],
+    "is_artist": true,
+    "birth_date": 1771,
+    "death_date": 1835,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean-Jacques Avril, le jeune",
+            "Avril, Jean-Jacques, le jeune",
+            "Jean Jacques Avril",
+            "Jean-Jacques Avril, le fils",
+            "Jean-Jacques Avril, the younger",
+            "Jean-Jacques Avril"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-21T11:14:17-05:00",
+    "updated_at": "2020-07-21T11:15:49-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

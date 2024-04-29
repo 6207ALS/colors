@@ -1,0 +1,173 @@
+{
+    "id": 823,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/823",
+    "is_boosted": false,
+    "title": "Bracelet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHB3X3R7YpKWjZKXj5aYiZeajZqZip+hlKGimKannqappaipoKyvq6+xqb6+vr+/v8HAv8PDw8TExMXExcbGxsfGx8vLy8vLzM/P0tDQ0tHQ0wAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4CNV1ORIjDAoURMUB7BICWEgkJVlmHaFADs=",
+        "width": 2631,
+        "height": 2105,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1894.697",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1301,
+    "date_end": 1500,
+    "date_display": "14th-15th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Islamic",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "0.8 \u00d7 6.4 \u00d7 6.4 cm (11 \u00d7 2 1/2 \u00d7 2 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 6.4,
+            "depth_in": 2.5,
+            "width_cm": 6.4,
+            "width_in": 2.5,
+            "height_cm": 0.8,
+            "height_in": 11,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Henry H. Getty and Charles L. Hutchinson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Reverend Chauncey Murch (1859-1907), Luxor, Egypt; sold to the Art Institute of Chicago, 1894; price reimbursed by Henry H. Getty and Charles L. Hutchinson, 1894.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 43,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 52,
+        "l": 51,
+        "s": 42,
+        "percentage": 0.000451405722560626,
+        "population": 25
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Arts of Africa",
+    "department_id": "PC-1",
+    "artist_id": 29882,
+    "artist_title": "Islamic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29882
+    ],
+    "artist_titles": [
+        "Islamic"
+    ],
+    "category_ids": [
+        "PC-1"
+    ],
+    "category_titles": [
+        "Arts of Africa"
+    ],
+    "term_titles": [
+        "glass",
+        "jewelry",
+        "ancient art",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-115",
+        "TM-1392",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-115",
+        "TM-1392",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "glass",
+        "jewelry",
+        "ancient art",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "53ecdcd2-3154-2c96-a636-e764af8d1aaf",
+    "alt_image_ids": [
+        "ad8211b1-d530-abbd-f56a-01bcb95e3df4"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1894.697"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bracelet"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2023-04-10T15:05:54-05:00",
+    "timestamp": "2023-09-24T00:20:57-05:00"
+}

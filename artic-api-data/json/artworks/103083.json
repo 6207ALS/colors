@@ -1,0 +1,159 @@
+{
+    "id": 103083,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/103083",
+    "is_boosted": false,
+    "title": "Rug",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAC0tLi02PzY4Oz1DSDhBTzhETzdCUDpGVEFKVkFMV0VOWElRW1hYXUhXZktYZ0labElcblBUZ1xfY0pYcUpccE5ec1BdcE9ie1Fkdl5qeXh6f01lgE9siVxlhl5qgFtuhF5ujmp2hWJ0iWd1i2tyi299iWR7lmh+nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQEBgYEAsHIxEJeMRjUwYRWSy4XRIJYLlogmBTh9B4dB4QCiSIAA7",
+        "width": 3000,
+        "height": 1798,
+        "alt_text": "A work made of linen and cotton plain weave with wool yarns forming \"hooked\" pile."
+    },
+    "main_reference_number": "1984.1096",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "169 \u00d7 93 cm (66 1/2 \u00d7 36 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 93,
+            "width_in": 36.625,
+            "height_cm": 169,
+            "height_in": 66.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and cotton plain weave with wool yarns forming \"hooked\" pile",
+    "inscriptions": null,
+    "credit_line": "Bequest of William McCormick Blair",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 39.1308,
+    "color": {
+        "h": 357,
+        "l": 44,
+        "s": 47,
+        "percentage": 0.04275160612146624,
+        "population": 182
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework - rug"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1666"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1666"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework - rug"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b55683c1-9b04-c99d-8ca8-58ce73cbfd04",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.1096"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rug"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:30:14-05:00",
+    "timestamp": "2023-09-24T01:06:29-05:00"
+}

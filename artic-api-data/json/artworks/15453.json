@@ -1,0 +1,185 @@
+{
+    "id": 15453,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/15453",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhFwAFAPYAAAoLBw8PCw8QCxARDRITDhMTDhITDxMUDxQVEBUWERcXExcYExgYFBkaFRobFhoaFxscFxwcGRwcGiEiHiIjHiIiHyMjICQlICUlIScnJCgoJCgoJSorJissKS8vKy8wKi8wKzExLDEyLTEyLjIzLzU2MTY2MTY2Mzg4Mjg5Mzg4NT4+OUFCPERFQEdIQ0pKRktMRlVWUFVWUVlZU1lZVVlaVVtcVmJjXWNkYGdnYmxtZ21tZ25uaW9vanBwa3JybXZ3cnh4cnp7dn9/eoSEf4WFgIaGgYaHgoiIhImJhYmKhYyMh46PipCQjZWVkJ6emp+fm6Chm6OjnaSkoKenorCxrrS0sLu7uL29ur29u8DAvMDBvsPDwMPDwcfHxMjIxcnJx8rKx8zMyczMys3Nys3Ny9HRz9LSz9LS0NTU0dTU0tXV0tvc2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAXAAUAAAd1gAUXFA4NBwQGAwkQCggLICIlLjQ4TVUtHldkXGBbWVhdY2VfXmFraGdsaWpmYi8mMzk8PUtFSEJKU1ZPP1BUUU47Q1pSKxMhKSgsOh8wNjdERjYxPkdMQEE1STIcERUbFhsjGiQnKh0SGBkVDwwJCwcCAQCBADs=",
+        "width": 2046,
+        "height": 453,
+        "alt_text": "A work made of slit tapestry weave."
+    },
+    "main_reference_number": "1925.314",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 500,
+    "date_end": 1000,
+    "date_display": "A.D. 500/1000",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Moche-Wari\nPossibly north-central coast, Peru",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": "39.4 \u00d7 5.1 cm (15 1/2 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.1,
+            "width_in": 2,
+            "height_cm": 39.4,
+            "height_in": 15.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Slit tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Frank G. Logan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1925,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.9079,
+    "color": {
+        "h": 61,
+        "l": 52,
+        "s": 2,
+        "percentage": 0.09566448551639688,
+        "population": 150
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 30183,
+    "artist_title": "Moche",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30183
+    ],
+    "artist_titles": [
+        "Moche"
+    ],
+    "category_ids": [
+        "PC-829",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "moche",
+        "weaving",
+        "andean",
+        "andes",
+        "Pre-Columbian"
+    ],
+    "style_id": "TM-12868",
+    "style_title": "moche",
+    "alt_style_ids": [
+        "TM-13504",
+        "TM-12988",
+        "TM-6516"
+    ],
+    "style_ids": [
+        "TM-12868",
+        "TM-13504",
+        "TM-12988",
+        "TM-6516"
+    ],
+    "style_titles": [
+        "moche",
+        "andean",
+        "andes",
+        "Pre-Columbian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "d04bbb6e-7d20-9b8a-8419-879b0278e752",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1925.314"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 414,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-25T11:03:07-06:00",
+    "updated_at": "2023-04-07T12:38:32-05:00",
+    "timestamp": "2023-09-24T00:26:39-05:00"
+}

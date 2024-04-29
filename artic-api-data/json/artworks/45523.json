@@ -1,0 +1,160 @@
+{
+    "id": 45523,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45523",
+    "is_boosted": false,
+    "title": "The Old Couple",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACojEToyGlxUPXJnSndtUZGFZZGIa7Klg7qwkryykc7Dos3DpejfxOvix+vjx+viye3lyOzkyuzky+7my+/nzPLq0/Ps0PPs0vXu0vbu0vfv0/Ps1Pjw2/v03QAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYPU0kBNxxyAYWVcEAKFtC5Iok3RhFsWEADs=",
+        "width": 3000,
+        "height": 2508,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1927.3589",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1844,
+    "date_end": 1911,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jozef Isra\u00ebls\nDutch, 1824-1911",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.5581,
+    "color": {
+        "h": 43,
+        "l": 68,
+        "s": 50,
+        "percentage": 0.006730437562572036,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40639,
+    "artist_title": "Jozef Isra\u00ebls",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40639
+    ],
+    "artist_titles": [
+        "Jozef Isra\u00ebls"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b22ad7d4-1a9a-cefb-2344-c9711cdb57e4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.3589"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Old Couple"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:00-05:00",
+    "updated_at": "2023-04-10T15:26:56-05:00",
+    "timestamp": "2023-09-24T00:40:07-05:00"
+}

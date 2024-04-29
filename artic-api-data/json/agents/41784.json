@@ -1,0 +1,31 @@
+{
+    "id": 41784,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41784",
+    "title": "Jean Cotelle, the Younger",
+    "sort_title": "Cotelle, Jean, the Younger",
+    "alt_titles": [
+        "Jean Cotelle, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1642,
+    "death_date": 1708,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Cotelle, the Younger",
+            "Cotelle, Jean, the Younger",
+            "Jean Cotelle, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:57-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

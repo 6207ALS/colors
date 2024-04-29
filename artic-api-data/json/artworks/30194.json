@@ -1,0 +1,160 @@
+{
+    "id": 30194,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/30194",
+    "is_boosted": false,
+    "title": "L'Enlevement Nocturne",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEI9MEVAMkxHOU1HOVlSRWNcTpyVg6Kbi6qjj66ol7Ksm7avnMS7p8S8p9jPudjQv9zUwuDXwOjfzO7m0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQ0zhIMSAIIhkIUxwQ9UggAOw==",
+        "width": 2176,
+        "height": 3000,
+        "alt_text": "A work made of engraving in black on paper."
+    },
+    "main_reference_number": "1926.967",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1766,
+    "date_end": 1831,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Nicolas Ponce (French, 1746-1831)\nafter Pierre Antoine Baudouin (French, 1723-1769)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Engraving in black on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Print and Drawing Club",
+    "catalogue_display": "<p>Unknown L & D. 171a</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.1036,
+    "color": {
+        "h": 38,
+        "l": 47,
+        "s": 15,
+        "percentage": 0.03511759289317922,
+        "population": 344
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 20786,
+    "artist_title": "Nicolas Ponce",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        20786
+    ],
+    "artist_titles": [
+        "Nicolas Ponce"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7970b076-2137-f94c-867b-679cdd1487fa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.967"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "L'Enlevement Nocturne"
+            ],
+            "weight": 38,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:55-05:00",
+    "updated_at": "2023-04-10T15:28:39-05:00",
+    "timestamp": "2023-09-24T00:33:51-05:00"
+}

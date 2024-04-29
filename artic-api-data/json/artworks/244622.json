@@ -1,0 +1,180 @@
+{
+    "id": 244622,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/244622",
+    "is_boosted": false,
+    "title": "La poup\u00e9e",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAK6Nc6+PdaCLeaONe6WPfK+Qd7GQdbGRdrOTd7aUd7GSeMiZccybc8qcdc6fd9CedNOhdgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BAcwrEwgNI4RfJABoEkQwgAOw==",
+        "width": 2763,
+        "height": 3471,
+        "alt_text": "A work made of book with illustrations."
+    },
+    "main_reference_number": "2019.161",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1936,
+    "date_end": 1936,
+    "date_display": "Paris: Editions G.L.M., 1936",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hans Bellmer (German (b. Poland), 1902-1975)\ntranslated by Robert Valen\u00e7ay",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "16.7 \u00d7 12.8 \u00d7 0.5 cm (6 5/8 \u00d7 5 1/16 \u00d7 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0.5,
+            "depth_in": 0.1969,
+            "width_cm": 12.8,
+            "width_in": 5.0394,
+            "height_cm": 16.7,
+            "height_in": 6.5749,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book with illustrations",
+    "inscriptions": null,
+    "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 86,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.3781,
+    "color": {
+        "h": 7,
+        "l": 7,
+        "s": 53,
+        "percentage": 0.00448060290992756,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Ryerson and Burnham Libraries Special Collections",
+    "department_id": "PC-824",
+    "artist_id": 33588,
+    "artist_title": "Hans Bellmer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33588
+    ],
+    "artist_titles": [
+        "Hans Bellmer"
+    ],
+    "category_ids": [
+        "PC-824"
+    ],
+    "category_titles": [
+        "Ryerson and Burnham Libraries Special Collections"
+    ],
+    "term_titles": [
+        "book",
+        "dolls",
+        "20th Century",
+        "photography",
+        "periodical cover"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-2395"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-2395"
+    ],
+    "classification_titles": [
+        "book",
+        "periodical cover"
+    ],
+    "subject_id": "TM-8856",
+    "alt_subject_ids": [
+        "TM-8578"
+    ],
+    "subject_ids": [
+        "TM-8856",
+        "TM-8578"
+    ],
+    "subject_titles": [
+        "dolls",
+        "photography"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "13663289-0fa8-4c74-5cd0-cfc67048fd58",
+    "alt_image_ids": [
+        "ccc7f06b-c856-70c8-0665-f97ecaea7bad"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.161"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "La poup\u00e9e"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:35-05:00",
+    "updated_at": "2023-06-06T12:52:35-05:00",
+    "timestamp": "2023-09-24T01:54:31-05:00"
+}

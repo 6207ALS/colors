@@ -1,0 +1,177 @@
+{
+    "id": 84125,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/84125",
+    "is_boosted": false,
+    "title": "Border (For a Skirt)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAQAFAPIAAJ+Dc6GGdaOIdaOKfKCLfgAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEOAJBCQA7",
+        "width": 1516,
+        "height": 6460,
+        "alt_text": "A work made of linen and cotton, plain weave; embroidered with silk in cretan, closed herringbone, encroaching satin, satin, stem, whipped stem, and twined double running stitches."
+    },
+    "main_reference_number": "1955.762",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Greece, Crete",
+    "place_of_origin": "Kr\u00edti",
+    "description": null,
+    "dimensions": "151.5 \u00d7 26.7 cm (59 5/8 \u00d7 10 5/8 in.); Imately: H.: 14 cm (11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.7,
+            "width_in": 10.625,
+            "height_cm": 151.5,
+            "height_in": 59.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 14,
+            "height_in": 11,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Imately"
+        }
+    ],
+    "medium_display": "Linen and cotton, plain weave; embroidered with silk in Cretan, closed herringbone, encroaching satin, satin, stem, whipped stem, and twined double running stitches",
+    "inscriptions": null,
+    "credit_line": "Gift of Burton Y. Berry",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 39.3228,
+    "color": {
+        "h": 3,
+        "l": 37,
+        "s": 57,
+        "percentage": 0.01958352157291675,
+        "population": 593
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0962c680-ff3b-d15f-25fd-9cd31dfbbc01",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1955.762"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border (For a Skirt)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:02-05:00",
+    "updated_at": "2023-04-10T12:14:48-05:00",
+    "timestamp": "2023-09-24T00:56:48-05:00"
+}

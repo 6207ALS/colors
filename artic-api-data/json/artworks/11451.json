@@ -1,0 +1,172 @@
+{
+    "id": 11451,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11451",
+    "is_boosted": false,
+    "title": "Woman in Kimono",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAM/Jr8/Jtc/NuNPPuNHPu9LOutLQvNLRvNTQvtTSvtXTvtTTv9XTv9nVvNfUwNfUwtfVw9nWwNjWwdjWwtnXwtnWw9nYw9vYwtrYxNrZxdvZxdrZxtzaxtzbx93byAAAACH5BAAAAAAALAAAAAAHAAUAAAUdIDBRksMUDddpVvVcXnYsGxRhzJFAyKAYAgEhEAIAOw==",
+        "width": 3000,
+        "height": 2130,
+        "alt_text": "A work made of graphite on paper."
+    },
+    "main_reference_number": "1960.16",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1921,
+    "date_display": "early 20th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hashiguchi Goyo\nJapanese, 1881-1921",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "18.9 \u00d7 27 cm (7 7/16 \u00d7 10 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27,
+            "width_in": 10.625,
+            "height_cm": 18.9,
+            "height_in": 7.4375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on paper",
+    "inscriptions": null,
+    "credit_line": "Unrestricted gift of Oliver Statler",
+    "catalogue_display": "<p>Unknown 16</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.3133,
+    "color": {
+        "h": 23,
+        "l": 63,
+        "s": 82,
+        "percentage": 0.0003960733290161341,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 34861,
+    "artist_title": "Hashiguchi Goy\u00f4",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34861
+    ],
+    "artist_titles": [
+        "Hashiguchi Goy\u00f4"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "paper (fiber product)",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e8fc762e-cf02-51ea-5bca-b98df340895b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1960.16"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Woman in Kimono"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:47:17-05:00",
+    "timestamp": "2023-09-24T00:24:58-05:00"
+}

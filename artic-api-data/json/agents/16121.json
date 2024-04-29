@@ -1,0 +1,37 @@
+{
+    "id": 16121,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16121",
+    "title": "Hans Rudolf Manuel Deutsch",
+    "sort_title": "Manuel Deutsch, Hans Rudolf",
+    "alt_titles": [
+        "Hans R. Manuel",
+        "Hans Rudolf Manuel",
+        "Hans Rudolf Manuel, (Hans Rudolf Manuel Deutsch)",
+        "Hans Rudolf Manuel Deutsch"
+    ],
+    "is_artist": true,
+    "birth_date": 1525,
+    "death_date": 1572,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hans Rudolf Manuel Deutsch",
+            "Manuel Deutsch, Hans Rudolf",
+            "Hans R. Manuel",
+            "Hans Rudolf Manuel",
+            "Hans Rudolf Manuel, (Hans Rudolf Manuel Deutsch)",
+            "Hans Rudolf Manuel Deutsch"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:36-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

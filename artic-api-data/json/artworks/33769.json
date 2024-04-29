@@ -1,0 +1,168 @@
+{
+    "id": 33769,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/33769",
+    "is_boosted": false,
+    "title": "Lousy Fear",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEs5NkM3OU08Okw/Okw+O1E7Nk1APU5BPktBQFBEQ1hHRldKRG9ZVHRcV4NvYgAAACH5BAAAAAAALAAAAAADAAUAAAQL0AnCAmrJqDMKWBEAOw==",
+        "width": 4843,
+        "height": 7013,
+        "alt_text": "A work made of acrylic on canvas."
+    },
+    "main_reference_number": "1970.292",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1970,
+    "date_display": "1970",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Larry Poons\nAmerican, born 1937",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "262.2 \u00d7 181.6 cm (103 1/4 \u00d7 71 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 181.6,
+            "width_in": 71.5,
+            "height_cm": 262.2,
+            "height_in": 103.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on canvas",
+    "inscriptions": null,
+    "credit_line": "Grant J. Pick Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1970,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.1625,
+    "color": {
+        "h": 9,
+        "l": 32,
+        "s": 41,
+        "percentage": 0.007675096643068173,
+        "population": 79
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 36239,
+    "artist_title": "Larry Poons",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36239
+    ],
+    "artist_titles": [
+        "Larry Poons"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "abstract shapes",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12708",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12708"
+    ],
+    "subject_titles": [
+        "abstract shapes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8eb4413a-1e72-5c3c-0393-604906e5a1f2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.292"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lousy Fear"
+            ],
+            "weight": 140,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T13:56:12-05:00",
+    "timestamp": "2023-09-24T00:35:23-05:00"
+}

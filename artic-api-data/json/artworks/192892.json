@@ -1,0 +1,168 @@
+{
+    "id": 192892,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/192892",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEM/PFpEKk9COWlxM2NoR3J0Tnl+Tnl+UIJwWodwWZl3XIJyZ4B2ZoiOV4aJXImPWp6GbpOLbZyOep2bepmZfKOAYaqxfqSSgbS0i8Omi8S8uuLc2uzr7u/w8/Dx9PDx9fb4/fj7//n8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwI8ntME8HB2RBmI4FECcSyYyIFgmAoYkgGhQFoBERREEADs=",
+        "width": 3000,
+        "height": 2265,
+        "alt_text": "A work made of inkjet print."
+    },
+    "main_reference_number": "2007.471",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2006,
+    "date_end": 2006,
+    "date_display": "2006",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Larry E. McPherson\nAmerican, born 1943",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "69.2 \u00d7 86.4 cm (27 1/4 \u00d7 34 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 86.4,
+            "width_in": 34.0158,
+            "height_cm": 69.2,
+            "height_in": 27.2441,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Inkjet print",
+    "inscriptions": null,
+    "credit_line": "Photography and Media Purchase Fund; Kenneth and Edna Heilbron Photography Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": "1 of 15",
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2006 Larry E McPherson.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 42.2655,
+    "color": {
+        "h": 64,
+        "l": 39,
+        "s": 55,
+        "percentage": 0.08038825100531942,
+        "population": 431
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 35717,
+    "artist_title": "Larry E. McPherson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35717
+    ],
+    "artist_titles": [
+        "Larry E. McPherson"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "21st Century",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5ec06430-6a3b-fa31-1577-a015f7ee0160",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2007.471"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-01T13:33:43-06:00",
+    "updated_at": "2023-04-07T13:21:54-05:00",
+    "timestamp": "2023-09-24T01:37:29-05:00"
+}

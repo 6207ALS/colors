@@ -1,0 +1,151 @@
+{
+    "id": 78285,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/78285",
+    "is_boosted": false,
+    "title": "Korean painting",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFE+M0tBNUpCN05GOk9IOlBBO1ZEPFZHP1ZIO1RLO1NLPVNKPldJPFVJP1VMPFZNPFlLPFtNPlxOP1tRPVVMQVZJRFlNQVtPQVhORVxPRFxSQV1SQl1TRl5TR2BSRGBVR2NXR2BWSWBXS2JYTGNZTmZZTWNYUXNjVgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQMYgIghAFh4LQfNwbBSdjAQxASQuI8yh0DBQKqaSCBTifEinIAA7",
+        "width": 7777,
+        "height": 4780,
+        "alt_text": "A work made of ink and color on hemp cloth."
+    },
+    "main_reference_number": "1920.456",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "late 19th-early 20th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Korea",
+    "place_of_origin": "Korea",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Ink and color on hemp cloth",
+    "inscriptions": null,
+    "credit_line": "Nickerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 37,
+        "l": 41,
+        "s": 18,
+        "percentage": 0.0021412780847720157,
+        "population": 796
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "fresco",
+        "painting",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-482",
+    "classification_title": "fresco",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-482",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "fresco",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "81c34d72-2c60-e606-825e-9d72fe538135",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1920.456"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Korean painting"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-02T08:47:58-05:00",
+    "updated_at": "2023-04-07T14:19:22-05:00",
+    "timestamp": "2023-09-24T00:53:52-05:00"
+}

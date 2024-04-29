@@ -1,0 +1,31 @@
+{
+    "id": 40997,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40997",
+    "title": "Gerrit Rademaker",
+    "sort_title": "Rademaker, Gerrit",
+    "alt_titles": [
+        "Gerard Rademaker"
+    ],
+    "is_artist": true,
+    "birth_date": 1672,
+    "death_date": 1711,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gerrit Rademaker",
+            "Rademaker, Gerrit",
+            "Gerard Rademaker"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-10T13:23:22-05:00",
+    "updated_at": "2020-07-10T13:25:32-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

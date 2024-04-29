@@ -1,0 +1,31 @@
+{
+    "id": 22591,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22591",
+    "title": "Salomon van Ruysdael",
+    "sort_title": "Ruysdael, Salomon van",
+    "alt_titles": [
+        "Saloman van Ruisdael"
+    ],
+    "is_artist": true,
+    "birth_date": 1595,
+    "death_date": 1670,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Salomon van Ruysdael",
+            "Ruysdael, Salomon van",
+            "Saloman van Ruisdael"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:08-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

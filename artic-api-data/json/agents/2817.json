@@ -1,0 +1,39 @@
+{
+    "id": 2817,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2817",
+    "title": "Boetius Adams Bolswert",
+    "sort_title": "Bolswert, Boetius Adams",
+    "alt_titles": [
+        "Bo\u00ebtius Bolswert",
+        "Boetius A. Bolswert",
+        "Boetius Bolswert",
+        "Boetius \u00e0 Bolswert",
+        "Bo\u00ebtius Adamsz. Bolswert"
+    ],
+    "is_artist": true,
+    "birth_date": 1580,
+    "death_date": 1633,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Boetius Adams Bolswert",
+            "Bolswert, Boetius Adams",
+            "Bo\u00ebtius Bolswert",
+            "Boetius A. Bolswert",
+            "Boetius Bolswert",
+            "Boetius \u00e0 Bolswert",
+            "Bo\u00ebtius Adamsz. Bolswert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T10:28:23-06:00",
+    "updated_at": "2023-02-15T10:32:27-06:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

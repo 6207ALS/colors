@@ -1,0 +1,31 @@
+{
+    "id": 33364,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33364",
+    "title": "David Adler",
+    "sort_title": "Adler, David",
+    "alt_titles": [
+        "David A. Adler"
+    ],
+    "is_artist": true,
+    "birth_date": 1882,
+    "death_date": 1949,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "David Adler",
+            "Adler, David",
+            "David A. Adler"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:52:07-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

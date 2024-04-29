@@ -1,0 +1,31 @@
+{
+    "id": 104403,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/104403",
+    "title": "Eloy Bonnejonne",
+    "sort_title": "Bonnejonne, Eloy",
+    "alt_titles": [
+        "Eloi Bonnejonne"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Eloy Bonnejonne",
+            "Bonnejonne, Eloy",
+            "Eloi Bonnejonne"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-03-03T14:33:32-06:00",
+    "updated_at": "2022-03-15T16:43:55-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

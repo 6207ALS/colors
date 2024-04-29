@@ -1,0 +1,167 @@
+{
+    "id": 190811,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/190811",
+    "is_boosted": false,
+    "title": "Daft",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACMaDjIhDTYiDi4jE0AvHWE4DWg/HVU9I2JGKmVGKWdLLGRKL2lJK3lTLW1RM29SNXhVMntXM3hXNX9aNpRKBZtSBY1TG5paFapYCAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIEIkTLQUlCE9V9VMjoUp0BAIwBECADs=",
+        "width": 2134,
+        "height": 2250,
+        "alt_text": "A work made of acrylic on canvas."
+    },
+    "main_reference_number": "2014.638",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1991,
+    "date_end": 1991,
+    "date_display": "1991",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jim Nutt\nAmerican, born 1938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "73.7 \u00d7 71.1 cm (29 \u00d7 28 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 71.1,
+            "width_in": 28,
+            "height_cm": 73.7,
+            "height_in": 29,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Cleve E. Carney",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Jim Nutt",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 68.5428,
+    "color": {
+        "h": 31,
+        "l": 40,
+        "s": 96,
+        "percentage": 0.1114184570345077,
+        "population": 835
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 36059,
+    "artist_title": "Jim Nutt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36059
+    ],
+    "artist_titles": [
+        "Jim Nutt"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10368",
+    "classification_title": "acrylic paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10368",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "c8bfb4db-961f-72bb-53ba-4406e5b4f77d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.638"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Daft"
+            ],
+            "weight": 617,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:22-05:00",
+    "updated_at": "2023-09-23T23:18:35-05:00",
+    "timestamp": "2023-09-24T01:37:03-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 41935,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41935",
+    "title": "Jean B\u00e9rain, I",
+    "sort_title": "B\u00e9rain, Jean, I",
+    "alt_titles": [
+        "Jean B\u00e9rain, the elder",
+        "Jean (Louis) B\u00e9rain"
+    ],
+    "is_artist": true,
+    "birth_date": 1640,
+    "death_date": 1711,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean B\u00e9rain, I",
+            "B\u00e9rain, Jean, I",
+            "Jean B\u00e9rain, the elder",
+            "Jean (Louis) B\u00e9rain"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:32:51-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

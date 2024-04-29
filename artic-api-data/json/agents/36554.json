@@ -1,0 +1,31 @@
+{
+    "id": 36554,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36554",
+    "title": "Johann Schaper",
+    "sort_title": "Schaper, Johann",
+    "alt_titles": [
+        "Johann Sch\u00e4per"
+    ],
+    "is_artist": true,
+    "birth_date": 1621,
+    "death_date": 1670,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Schaper",
+            "Schaper, Johann",
+            "Johann Sch\u00e4per"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:32-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

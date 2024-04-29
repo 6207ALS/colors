@@ -1,0 +1,167 @@
+{
+    "id": 81519,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/81519",
+    "is_boosted": false,
+    "title": "Young Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAB8NEywXFi0aGjEfHTIfHDopIkQxKk82KlA9MV9LPGJOPGJPPG9XP2xXQ3NfSnlkVYtuTYdqU5lvUYZyW5p5VJ2FZpmJcKqNb66Tb7uZb7ugdb6qir6tj8OwlAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoEE4jTAsQcYUgHJIkPYgVkVhXTJF18aFADs=",
+        "width": 2724,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1922.415",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1839,
+    "date_end": 1849,
+    "date_display": "1844/45",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean-Fran\u00e7ois Millet\nFrench, 1814-1875",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "52.1 \u00d7 62.4 cm (20 1/2 \u00d7 24 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 62.4,
+            "width_in": 24.5,
+            "height_cm": 52.1,
+            "height_in": 20.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Potter Palmer Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1922,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.4745,
+    "color": {
+        "h": 37,
+        "l": 53,
+        "s": 29,
+        "percentage": 0.05232407521031892,
+        "population": 307
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 35787,
+    "artist_title": "Jean Fran\u00e7ois Millet",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35787
+    ],
+    "artist_titles": [
+        "Jean Fran\u00e7ois Millet"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "681c9b51-6682-3f8c-dac8-ad250ed82240",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.415"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Young Woman"
+            ],
+            "weight": 1138,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:27-05:00",
+    "timestamp": "2023-09-24T00:55:19-05:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 68825,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/68825",
+    "title": "Circle of Fiorentino Rosso",
+    "sort_title": "Rosso, Fiorentino, Circle of",
+    "alt_titles": [
+        "Circle of Rosso Fiorentino",
+        "Circle of Giovanni Battista di Jacopo",
+        "Circle of Il Rosso Fiorentino",
+        "Circle of Master Roux",
+        "Circle of Ma\u00eetre Roux",
+        "Circle of Giovanni Battista Rossi",
+        "Circle of Rosso, Giovanni Battista di Jacopo di Guasparre, (Il Rosso Fiorentino)"
+    ],
+    "is_artist": true,
+    "birth_date": 1494,
+    "death_date": 1540,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Fiorentino Rosso",
+            "Rosso, Fiorentino, Circle of",
+            "Circle of Rosso Fiorentino",
+            "Circle of Giovanni Battista di Jacopo",
+            "Circle of Il Rosso Fiorentino",
+            "Circle of Master Roux",
+            "Circle of Ma\u00eetre Roux",
+            "Circle of Giovanni Battista Rossi",
+            "Circle of Rosso, Giovanni Battista di Jacopo di Guasparre, (Il Rosso Fiorentino)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:24:53-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

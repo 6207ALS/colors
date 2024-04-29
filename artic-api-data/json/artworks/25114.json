@@ -1,0 +1,198 @@
+{
+    "id": 25114,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/25114",
+    "is_boosted": false,
+    "title": "Epergne",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAG9scHNwc4+LjZWSk6+ei7ink7ytmqijobCrqcW1owAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMIAh0CkkmQgAOw==",
+        "width": 1021,
+        "height": 2250,
+        "alt_text": "A work made of gilded bronze and glass."
+    },
+    "main_reference_number": "1966.104",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1805,
+    "date_end": 1825,
+    "date_display": "c. 1810/20",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Possibly Pierre-Philippe Thomire (French, 1751-1843)\nParis, France",
+    "place_of_origin": "Paris",
+    "description": null,
+    "dimensions": "H.: 61 cm (24 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 61,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gilded bronze and glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles V. Hickox",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1966,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.2016,
+    "color": {
+        "h": 262,
+        "l": 43,
+        "s": 2,
+        "percentage": 0.13413829076788905,
+        "population": 2101
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 63580,
+    "artist_title": "Jean Baptiste Claude Odiot",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        63580
+    ],
+    "artist_titles": [
+        "Jean Baptiste Claude Odiot"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "metalwork",
+        "bronze",
+        "Borghese Service",
+        "copper alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material",
+        "glass",
+        "european decorative arts",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-29",
+    "classification_title": "metalwork",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-29",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "metalwork",
+        "european decorative arts",
+        "glass"
+    ],
+    "subject_id": "TM-15414",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-15414"
+    ],
+    "subject_titles": [
+        "Borghese Service"
+    ],
+    "material_id": "TM-2430",
+    "alt_material_ids": [
+        "TM-2694",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600",
+        "TM-2453"
+    ],
+    "material_ids": [
+        "TM-2430",
+        "TM-2694",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600",
+        "TM-2453"
+    ],
+    "material_titles": [
+        "bronze",
+        "copper alloy",
+        "nonferrous metal",
+        "metal",
+        "inorganic material",
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3fb63782-0e29-7bb5-a2fd-a9111308cdbf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1966.104"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Epergne"
+            ],
+            "weight": 10,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:59:03-05:00",
+    "timestamp": "2023-09-24T00:31:22-05:00"
+}

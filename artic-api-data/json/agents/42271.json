@@ -1,0 +1,33 @@
+{
+    "id": 42271,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42271",
+    "title": "Paula Rension Gerard",
+    "sort_title": "Gerard, Paula Rension",
+    "alt_titles": [
+        "Paula Gerard",
+        "Mrs. Herbert Rension"
+    ],
+    "is_artist": true,
+    "birth_date": 1907,
+    "death_date": 1991,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paula Rension Gerard",
+            "Gerard, Paula Rension",
+            "Paula Gerard",
+            "Mrs. Herbert Rension"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:33:19-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

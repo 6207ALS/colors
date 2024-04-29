@@ -1,0 +1,33 @@
+{
+    "id": 40624,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40624",
+    "title": "Jacob Philipp Hackert",
+    "sort_title": "Hackert, Jacob Philipp",
+    "alt_titles": [
+        "Jacob P. Hackert",
+        "Philipp Hackert"
+    ],
+    "is_artist": true,
+    "birth_date": 1737,
+    "death_date": 1807,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacob Philipp Hackert",
+            "Hackert, Jacob Philipp",
+            "Jacob P. Hackert",
+            "Philipp Hackert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:38-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

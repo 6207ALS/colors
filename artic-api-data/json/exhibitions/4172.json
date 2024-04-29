@@ -1,0 +1,52 @@
+{
+    "id": 4172,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4172",
+    "title": "65th Annual American Exhibition",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1962-01-05T00:00:00-06:00",
+    "aic_end_at": "1962-02-18T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "7c03cad0-086d-472d-433e-caf79737c5d9",
+    "alt_image_ids": [
+        "0889c808-f98a-7657-ee11-e4024e62736a",
+        "79c3bea8-b7d0-636d-25ee-1e6d3cd451df",
+        "1c52bef7-2b9b-563b-7a4d-526225f94685",
+        "44e172bb-7b33-1b4d-7639-4f9f4ced2cbd",
+        "0c40f239-c27b-cfec-88e7-8a9096b57f1b",
+        "3e226915-aec7-c02c-9724-43d78bace3bf",
+        "8fdb366e-aafc-19ba-2286-4fa8b421929c",
+        "a10c5eee-f8b0-38de-08c7-cd331441cea2",
+        "a2694e5a-a83c-5770-0804-8152dabfb958",
+        "19f36411-d4ba-a576-2c4a-21cec352e0e8",
+        "5c39525b-0596-d845-4f44-41d05f1b44c7",
+        "073e9f55-2153-5854-f332-69b240d6a191",
+        "4ae82660-9117-c0e4-68a5-93fbd10cf7b9"
+    ],
+    "document_ids": [
+        "5a4e891d-6668-1ed2-23df-6215b8b49e68"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "65th Annual American Exhibition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-14T11:45:59-05:00",
+    "updated_at": "2019-10-14T11:46:24-05:00",
+    "timestamp": "2023-09-24T02:01:20-05:00"
+}

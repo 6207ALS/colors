@@ -1,0 +1,35 @@
+{
+    "id": 59667,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/59667",
+    "title": "Adriaen Hendricksz. Verboom",
+    "sort_title": "Verboom, Adriaen Hendricksz.",
+    "alt_titles": [
+        "Adriaen H. Verboom",
+        "Adriaen Hendriksz. van Boon",
+        "Adriaen Hendriksz. Van der Boom"
+    ],
+    "is_artist": true,
+    "birth_date": 1628,
+    "death_date": 1675,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adriaen Hendricksz. Verboom",
+            "Verboom, Adriaen Hendricksz.",
+            "Adriaen H. Verboom",
+            "Adriaen Hendriksz. van Boon",
+            "Adriaen Hendriksz. Van der Boom"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-09-20T16:16:45-05:00",
+    "updated_at": "2023-09-20T16:20:51-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

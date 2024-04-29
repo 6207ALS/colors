@@ -1,0 +1,164 @@
+{
+    "id": 59315,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59315",
+    "is_boosted": false,
+    "title": "The Bird's Nest",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGpoX3liUGpybX2AdZGJfKiUf5SOgpuai6Wflqajl6qglritnaitp7Oto7+1qcGxn8PAs9vJuN7OvdvXzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MQoCHQsiWAUA/EEgBQ5TQgAOw==",
+        "width": 2339,
+        "height": 3000,
+        "alt_text": "A work made of colored engraving on paper."
+    },
+    "main_reference_number": "1926.446",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1763,
+    "date_end": 1826,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Charles Knight (English, 1743-c. 1826)\nafter William Westall (English, 1781-1850)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Colored engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles Netcher",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.3523,
+    "color": {
+        "h": 37,
+        "l": 53,
+        "s": 12,
+        "percentage": 0.045540188942403186,
+        "population": 415
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35295,
+    "artist_title": "Charles Knight",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35295
+    ],
+    "artist_titles": [
+        "Charles Knight"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "aquatint",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-147",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-147",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "aquatint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "13473d27-d392-bca3-8184-48c4db891034",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.446"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Bird's Nest"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:04-05:00",
+    "updated_at": "2023-04-10T15:25:54-05:00",
+    "timestamp": "2023-09-24T00:45:55-05:00"
+}

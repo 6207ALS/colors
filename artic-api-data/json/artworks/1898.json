@@ -1,0 +1,167 @@
+{
+    "id": 1898,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/1898",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAG0gIHMlJncwL35AOYNEPIlHQ4dMQ45JRIhRR4tQRo1TR5pfVZViVp1hW6BvYgAAACH5BAAAAAAALAAAAAADAAUAAAQL0KFmAFHipFDYWBEAOw==",
+        "width": 1330,
+        "height": 2250,
+        "alt_text": "A work made of silk, brocade plain compound cloth."
+    },
+    "main_reference_number": "1895.667",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1625,
+    "date_end": 1675,
+    "date_display": "1625/75",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Silk, brocade plain compound cloth",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.0557,
+    "color": {
+        "h": 355,
+        "l": 34,
+        "s": 51,
+        "percentage": 0.057065945273259366,
+        "population": 686
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "brocading",
+        "flowers",
+        "silk (textile)",
+        "textile",
+        "weaving",
+        "compound weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-10482",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-10482"
+    ],
+    "subject_titles": [
+        "flowers"
+    ],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-4228",
+    "alt_technique_ids": [
+        "TM-10542"
+    ],
+    "technique_ids": [
+        "TM-4228",
+        "TM-10542"
+    ],
+    "technique_titles": [
+        "brocading",
+        "compound weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "e8bed579-b311-c48f-d283-2ed1eb239793",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1895.667"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:44:50-05:00",
+    "updated_at": "2023-04-10T15:30:52-05:00",
+    "timestamp": "2023-09-24T00:21:03-05:00"
+}

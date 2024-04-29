@@ -1,0 +1,41 @@
+{
+    "id": 4086,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4086",
+    "title": "Photographs by Edward Weston",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1960-04-08T00:00:00-06:00",
+    "aic_end_at": "1960-05-08T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "b909660f-bfc9-e71e-d53b-7b712c1c26e7",
+        "70f175d6-f31f-6463-5b38-a589f2804ccb",
+        "b6d38a5b-2593-bd3b-9912-8efae38d1604",
+        "6d748677-97ef-a6b2-361e-ea505e2b26d1"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photographs by Edward Weston"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:32-06:00",
+    "timestamp": "2023-09-24T02:01:18-05:00"
+}

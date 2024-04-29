@@ -1,0 +1,182 @@
+{
+    "id": 40176,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/40176",
+    "is_boosted": false,
+    "title": "The Fisherman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEQ6Mk9VRG9kVGloV3ZxYHl5bJONYZaSepeef6SadY+OhJ2YgKGniK6qjLKohqqpkqOjmbuzmcHDrtjKoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4IMwUjEICkQAi2MEzZQcUQgAOw==",
+        "width": 2203,
+        "height": 3000,
+        "alt_text": "A work made of color lithograph on paper."
+    },
+    "main_reference_number": "1940.1261",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1940,
+    "date_end": 1940,
+    "date_display": "1940",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Misch Kohn (American, 1916-2003)\npublished by the Works Progress Administration",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "37.6 \u00d7 25.8 cm (14 13/16 \u00d7 10 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.8,
+            "width_in": 10.1575,
+            "height_cm": 37.6,
+            "height_in": 14.8032,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by an Anonymous Donor",
+    "catalogue_display": "<p>Hernandez 52</p><p>Zigrosser 6</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1941,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.2304,
+    "color": {
+        "h": 42,
+        "l": 55,
+        "s": 74,
+        "percentage": 0.010643090670866035,
+        "population": 103
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35311,
+    "artist_title": "Misch Kohn",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35311
+    ],
+    "artist_titles": [
+        "Misch Kohn"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "lithography",
+        "paper (fiber product)",
+        "printing",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3859",
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3859",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "lithography",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "fc7a2d64-f262-0e25-3c08-cb8fdf5c4bc5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1940.1261"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Fisherman"
+            ],
+            "weight": 3,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:53-05:00",
+    "updated_at": "2023-04-10T13:43:55-05:00",
+    "timestamp": "2023-09-24T00:37:55-05:00"
+}

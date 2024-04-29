@@ -1,0 +1,31 @@
+{
+    "id": 68515,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/68515",
+    "title": "Gabriel Huquier",
+    "sort_title": "Huquier, Gabriel",
+    "alt_titles": [
+        "Gabriel Hucquier"
+    ],
+    "is_artist": true,
+    "birth_date": 1695,
+    "death_date": 1772,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gabriel Huquier",
+            "Huquier, Gabriel",
+            "Gabriel Hucquier"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:57-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

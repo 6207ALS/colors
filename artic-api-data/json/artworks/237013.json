@@ -1,0 +1,168 @@
+{
+    "id": 237013,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/237013",
+    "is_boosted": false,
+    "title": "Union Building, Lucknow University, India, Perspective",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAAMu7nMu7ns6/os+/pNDBpdPFq9LFrM7DsM7DsdLGsNHFstPHstTHsNLGtNfJs9bKstfKs9PItdTJttfLt93PtNTJuNXKuNfMudnNudrOu9jNvNnOvNzQudzRud/SuN/Sud/Tud7Su9zRvN/TvuDUv9zRwN7TwN/TwOLWwuHWxOPXxuPZyOXayebcywAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuwA+K1VqxVCfH4EOSlCqaxgRCAI0imw3ioGAIPCFM5mJZJAwBSkdkSqU4jwIgCAA7",
+        "width": 3000,
+        "height": 1503,
+        "alt_text": "A work made of graphite on tracing paper."
+    },
+    "main_reference_number": "1990.391.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1931,
+    "date_end": 1942,
+    "date_display": "c. 1936/37",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Walter Burley Griffin (American, 1876-1937)\nMarion Mahony Griffin (American, 1871-1961)",
+    "place_of_origin": "Lucknow",
+    "description": null,
+    "dimensions": "76 \u00d7 62.1 cm (29 15/16 \u00d7 24 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 62.1,
+            "width_in": 24.4375,
+            "height_cm": 76,
+            "height_in": 29.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on tracing paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Marion Mahony Griffin through Eric Nicholls",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.0194,
+    "color": {
+        "h": 43,
+        "l": 38,
+        "s": 62,
+        "percentage": 0.00028109943611453114,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 34743,
+    "artist_title": "Walter Burley Griffin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34743
+    ],
+    "artist_titles": [
+        "Walter Burley Griffin"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design drawing",
+        "paper (fiber product)",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-914",
+    "classification_title": "design drawing",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-914",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "design drawing",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6c7cff21-cc6d-a734-b411-42086f86da52",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.391.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Union Building, Lucknow University, India, Perspective"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:01:10-05:00",
+    "timestamp": "2023-09-24T01:52:20-05:00"
+}

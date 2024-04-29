@@ -1,0 +1,172 @@
+{
+    "id": 80629,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80629",
+    "is_boosted": false,
+    "title": "Heinrich Aldegrever, Aged 35",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHBwWnNzXoeFbouJcIyLco+OeJmXepyaf52af52bgZ6cgp+dhKKfhaKghqmmjAAAACH5BAAAAAAALAAAAAADAAUAAAQLUBVyBDAjoNTYchEAOw==",
+        "width": 2218,
+        "height": 3456,
+        "alt_text": "A work made of engraving in black on ivory laid paper."
+    },
+    "main_reference_number": "1921.231",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1537,
+    "date_end": 1537,
+    "date_display": "1537",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Heinrich Aldegrever\nGerman, 1502-c.1560",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Sheet: 19.8 \u00d7 12.7 cm (7 13/16 \u00d7 5 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.7,
+            "width_in": 5,
+            "height_cm": 19.8,
+            "height_in": 7.7953,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving in black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Potter Palmer, Jr.",
+    "catalogue_display": "<p>Bartsch 189</p><p>Bartsch, illustrated 189</p><p>Hollstein 189</p><p>New Hollstein 189</p><p>Schmidt 184</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.0635,
+    "color": {
+        "h": 58,
+        "l": 57,
+        "s": 12,
+        "percentage": 0.09713803893104823,
+        "population": 1076
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33378,
+    "artist_title": "Heinrich Aldegrever",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33378
+    ],
+    "artist_titles": [
+        "Heinrich Aldegrever"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f7a13056-d491-3c43-6eb2-c9a3888ce0d7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1921.231"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Heinrich Aldegrever, Aged 35"
+            ],
+            "weight": 143,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:26:02-05:00",
+    "timestamp": "2023-09-24T00:54:51-05:00"
+}

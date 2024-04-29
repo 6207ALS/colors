@@ -1,0 +1,31 @@
+{
+    "id": 116372,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116372",
+    "title": "Kathleen Kersey",
+    "sort_title": "Kersey, Kathleen",
+    "alt_titles": [
+        "Mrs. Allington"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kathleen Kersey",
+            "Kersey, Kathleen",
+            "Mrs. Allington"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-12-10T11:05:22-06:00",
+    "updated_at": "2021-12-10T11:05:50-06:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

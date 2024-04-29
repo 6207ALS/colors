@@ -1,0 +1,37 @@
+{
+    "id": 87103,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/87103",
+    "title": "Maison Myrbor",
+    "sort_title": "Maison Myrbor",
+    "alt_titles": [
+        "Salon Myrbor",
+        "Galerie Myrbor",
+        "Galerie Bucher-Myrbor",
+        "Myrbor"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maison Myrbor",
+            "Maison Myrbor",
+            "Salon Myrbor",
+            "Galerie Myrbor",
+            "Galerie Bucher-Myrbor",
+            "Myrbor"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-23T13:36:25-06:00",
+    "updated_at": "2023-02-23T13:37:14-06:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

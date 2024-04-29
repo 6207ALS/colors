@@ -1,0 +1,37 @@
+{
+    "id": 41255,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41255",
+    "title": "Cornelis Cornelisz.",
+    "sort_title": "Cornelisz., Cornelis",
+    "alt_titles": [
+        "Cornelis van Haarlem",
+        "Cornelis Cornelisz. van Haarlem",
+        "Cornelis van Haarlem",
+        "Cornelis van Haarlem, (Cornelis Cornelisz.) Cornelis van Haarlem, (Cornelis Cornelisz.)"
+    ],
+    "is_artist": true,
+    "birth_date": 1562,
+    "death_date": 1638,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cornelis Cornelisz.",
+            "Cornelisz., Cornelis",
+            "Cornelis van Haarlem",
+            "Cornelis Cornelisz. van Haarlem",
+            "Cornelis van Haarlem",
+            "Cornelis van Haarlem, (Cornelis Cornelisz.) Cornelis van Haarlem, (Cornelis Cornelisz.)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-29T14:21:50-05:00",
+    "updated_at": "2022-03-15T16:42:10-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

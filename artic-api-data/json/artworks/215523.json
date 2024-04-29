@@ -1,0 +1,177 @@
+{
+    "id": 215523,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/215523",
+    "is_boosted": false,
+    "title": "Building",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJSWlJyemqKjoaqsqqusq7Gyr8TFw8jIxcjJx8/QztDRz9HRz9nZ19ra2Nvb2ePi4OPj4ebm4+fm5Ofn5ejo5enq5+vr6ezs6u3t6+7u7PLy8AAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4IQxjQRNB2FQ1xUAwqJVyFA4WWQlivSEADs=",
+        "width": 3624,
+        "height": 2898,
+        "alt_text": "A work made of brush and black ink and graphite on two sheets of white tracing paper (sandwiched)."
+    },
+    "main_reference_number": "2012.559",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2008,
+    "date_end": 2008,
+    "date_display": "2008",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Susan Hefuna\nGerman, born 1962",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "47.4 \u00d7 60 cm (18 11/16 \u00d7 23 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60,
+            "width_in": 23.6221,
+            "height_cm": 47.4,
+            "height_in": 18.6615,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brush and black ink and graphite on two sheets of white tracing paper (sandwiched)",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Lewis Manilow Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.2989,
+    "color": {
+        "h": 38,
+        "l": 51,
+        "s": 3,
+        "percentage": 0.0058079981414405945,
+        "population": 33
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 112327,
+    "artist_title": "Susan Hefuna",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112327
+    ],
+    "artist_titles": [
+        "Susan Hefuna"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-13"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "21st Century",
+        "prints and drawing"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "e8dd284b-fc02-b42a-9d9b-2853dab47a3d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.559"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Building"
+            ],
+            "weight": 45,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:28-05:00",
+    "updated_at": "2023-04-07T15:28:20-05:00",
+    "timestamp": "2023-09-24T01:44:29-05:00"
+}

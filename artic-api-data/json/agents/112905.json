@@ -1,0 +1,31 @@
+{
+    "id": 112905,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/112905",
+    "title": "Jacques Clement Wagrez",
+    "sort_title": "Wagrez, Jacques Clement",
+    "alt_titles": [
+        "Jacques Cl\u00e9ment Wagrez"
+    ],
+    "is_artist": true,
+    "birth_date": 1850,
+    "death_date": 1908,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacques Clement Wagrez",
+            "Wagrez, Jacques Clement",
+            "Jacques Cl\u00e9ment Wagrez"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:45:24-05:00",
+    "timestamp": "2023-09-24T02:00:36-05:00"
+}

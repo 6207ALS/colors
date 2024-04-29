@@ -1,0 +1,35 @@
+{
+    "id": 40864,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40864",
+    "title": "Jean Pierre Antoine Tassaert",
+    "sort_title": "Tassaert, Jean Pierre Antoine",
+    "alt_titles": [
+        "Johan Peter Anton Tassaert",
+        "Jean P. A. Tassaert",
+        "Jean Pierre Antoine Tassart"
+    ],
+    "is_artist": true,
+    "birth_date": 1727,
+    "death_date": 1788,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Pierre Antoine Tassaert",
+            "Tassaert, Jean Pierre Antoine",
+            "Johan Peter Anton Tassaert",
+            "Jean P. A. Tassaert",
+            "Jean Pierre Antoine Tassart"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:59-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

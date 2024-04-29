@@ -1,0 +1,203 @@
+{
+    "id": 10545,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/10545",
+    "is_boosted": false,
+    "title": "Jardini\u00e8re",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACEhICwsKy0sLC8wLzY2NTU4Nz4/P0BAPUZGQklIRlJSUF9eV1tbWWBgYoKCfWN2gHF9hImMi5KPhpSWkJuamK6mnqSlpbSyr66wsgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4HAkBKA40hIw0FMITTQhBnZVlBUCADs=",
+        "width": 2032,
+        "height": 2250,
+        "alt_text": "A work made of tin-glazed earthenware."
+    },
+    "main_reference_number": "1923.1481",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1700,
+    "date_end": 1775,
+    "date_display": "1700\u201375",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Talavera poblana\nPuebla, Mexico",
+    "place_of_origin": "Puebla",
+    "description": null,
+    "dimensions": "44 \u00d7 41.9 cm (17 1/4 \u00d7 16 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 41.9,
+            "width_in": 16.5,
+            "height_cm": 44,
+            "height_in": 17.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Tin-glazed earthenware",
+    "inscriptions": null,
+    "credit_line": "Gift of Eva Lewis in memory of her husband, Herbert Pickering Lewis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, Mexican Majolica of the 17th to the 19th Centuries, 1967, no cat.",
+    "provenance_text": "Herbert Pickering Lewis (1876\u20131922), Mexico City, Mexico, from late 19th/early 20th century [correspondence and research in curatorial object file]; by descent to his widow, Eva Lewis (born Eva Hill, died c. 1964), Mexico City, Mexico, from 1922 [exported from Mexico Oct./Nov. 1923; received in Chicago Dec. 3, 1923 according to correspondence from Eva Lewis to Robert Harshe, Nov. 4, 1923, and incoming permanent receipt R1335, Dec. 3, 1923, copies in curatorial object file, Arts of the Americas]; given to the Art Institute of Chicago, 1923.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1924,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.3575,
+    "color": {
+        "h": 203,
+        "l": 32,
+        "s": 40,
+        "percentage": 0.007119980572624437,
+        "population": 56
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 43829,
+    "artist_title": "Talavera Poblana",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43829
+    ],
+    "artist_titles": [
+        "Talavera Poblana"
+    ],
+    "category_ids": [
+        "PC-3",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Arts of the Americas",
+        "Latin American"
+    ],
+    "term_titles": [
+        "earthenware",
+        "ceramic",
+        "spanish colonial",
+        "inorganic material",
+        "european",
+        "european decorative arts",
+        "ceramics",
+        "vessel",
+        "art of the americas",
+        "Arts of the Americas"
+    ],
+    "style_id": "TM-5973",
+    "style_title": "spanish colonial",
+    "alt_style_ids": [
+        "TM-4703",
+        "TM-13488"
+    ],
+    "style_ids": [
+        "TM-5973",
+        "TM-4703",
+        "TM-13488"
+    ],
+    "style_titles": [
+        "spanish colonial",
+        "european",
+        "Arts of the Americas"
+    ],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46",
+        "TM-27",
+        "TM-13487"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-1394",
+        "TM-46",
+        "TM-27",
+        "TM-13487"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "european decorative arts",
+        "ceramics",
+        "vessel",
+        "art of the americas"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2432",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2432",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "ceramic",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "0669e69c-ea2f-14ce-5e44-fa9efa09b344",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.1481"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jardini\u00e8re"
+            ],
+            "weight": 1294,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-20T15:38:53-05:00",
+    "updated_at": "2023-09-20T15:40:57-05:00",
+    "timestamp": "2023-09-24T00:24:40-05:00"
+}

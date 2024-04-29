@@ -1,0 +1,28 @@
+{
+    "id": 41515,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41515",
+    "title": "George Frost",
+    "sort_title": "Frost, George",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1744,
+    "death_date": 1821,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Frost",
+            "Frost, George"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-06T15:20:31-05:00",
+    "updated_at": "2022-03-15T16:42:14-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

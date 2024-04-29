@@ -1,0 +1,31 @@
+{
+    "id": 29531,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/29531",
+    "title": "Adrian Zingg",
+    "sort_title": "Zingg, Adrian",
+    "alt_titles": [
+        "Adrian Zink"
+    ],
+    "is_artist": true,
+    "birth_date": 1734,
+    "death_date": 1816,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adrian Zingg",
+            "Zingg, Adrian",
+            "Adrian Zink"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:35-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

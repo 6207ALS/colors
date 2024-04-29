@@ -1,0 +1,31 @@
+{
+    "id": 40612,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40612",
+    "title": "Etienne Pierre Adrien Gois",
+    "sort_title": "Gois, Etienne Pierre Adrien",
+    "alt_titles": [
+        "Etienne P. A. Gois"
+    ],
+    "is_artist": true,
+    "birth_date": 1731,
+    "death_date": 1823,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Etienne Pierre Adrien Gois",
+            "Gois, Etienne Pierre Adrien",
+            "Etienne P. A. Gois"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:30-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

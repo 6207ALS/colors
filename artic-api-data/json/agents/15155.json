@@ -1,0 +1,39 @@
+{
+    "id": 15155,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15155",
+    "title": "Louis Auguste Lep\u00e8re",
+    "sort_title": "Lep\u00e8re, Louis Auguste",
+    "alt_titles": [
+        "Auguste Lep\u00e8re",
+        "Auguste Louis Lep\u00e8re",
+        "Auguste (Louis Auguste) Lep\u00e8re",
+        "August Lep\u00e8re",
+        "Louis-Auguste Lep\u00e8re"
+    ],
+    "is_artist": true,
+    "birth_date": 1849,
+    "death_date": 1918,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Auguste Lep\u00e8re",
+            "Lep\u00e8re, Louis Auguste",
+            "Auguste Lep\u00e8re",
+            "Auguste Louis Lep\u00e8re",
+            "Auguste (Louis Auguste) Lep\u00e8re",
+            "August Lep\u00e8re",
+            "Louis-Auguste Lep\u00e8re"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:06-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

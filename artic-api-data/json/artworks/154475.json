@@ -1,0 +1,172 @@
+{
+    "id": 154475,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/154475",
+    "is_boosted": false,
+    "title": "Bottle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACIiISYnJT05Mj88NUA+OUpEPnJtY3d3c3x5c4BsX5V+Z5+Hb5yTi5ucnbWmi7Onj7injKyknKqrqsWkhwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDAIQAE9RDI5BqIshxQxTQgAOw==",
+        "width": 1825,
+        "height": 2250,
+        "alt_text": "A work made of glazed stoneware."
+    },
+    "main_reference_number": "2000.91",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1940,
+    "date_end": 1949,
+    "date_display": "1940/49",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bernard Leach\nEnglish, 1887-1979",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "19.7 \u00d7 14 \u00d7 8.9 cm (7 3/4 \u00d7 5 1/2 \u00d7 3 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 8.9,
+            "depth_in": 3.5,
+            "width_cm": 14,
+            "width_in": 5.5,
+            "height_cm": 19.7,
+            "height_in": 7.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glazed stoneware",
+    "inscriptions": null,
+    "credit_line": "Rice Foundation Fund; Bertha E. Brown Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.3184,
+    "color": {
+        "h": 39,
+        "l": 49,
+        "s": 17,
+        "percentage": 0.017582377434274446,
+        "population": 154
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 14967,
+    "artist_title": "Bernard Leach",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        14967
+    ],
+    "artist_titles": [
+        "Bernard Leach"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "stoneware",
+        "stoneware",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-279",
+    "classification_title": "stoneware",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-279",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "stoneware",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2484",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2484"
+    ],
+    "material_titles": [
+        "stoneware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e76a4c88-5f64-9063-5ee1-c8b3719d4355",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2000.91"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bottle"
+            ],
+            "weight": 34,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:31:38-05:00",
+    "timestamp": "2023-09-24T01:29:37-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 41267,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41267",
+    "title": "Giovanni Battista Carlone",
+    "sort_title": "Carlone, Giovanni Battista",
+    "alt_titles": [
+        "Giovanni B. Carlone"
+    ],
+    "is_artist": true,
+    "birth_date": 1592,
+    "death_date": 1677,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni Battista Carlone",
+            "Carlone, Giovanni Battista",
+            "Giovanni B. Carlone"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:05-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

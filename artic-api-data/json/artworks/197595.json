@@ -1,0 +1,174 @@
+{
+    "id": 197595,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/197595",
+    "is_boosted": false,
+    "title": "A Modern Mermaid",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAE0vPFRARFpGRlVGUGNBS2NNWXJfZnRnbnZlcHtxeYVsbIJyd4p4dIFxe6SEcKaLdo+Fi5KChZqDgZ2Jh5OHjZiHiZuWl52Yl6WbnKihnrKqqLexrru3ssK8t9TT0NvZ097c1OLf1+jm3Ovp3ezp3O/t4e/t4+7u4u/u4vHt4PHw4/Tx5/f05wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwBSmQQlBEhYSCxEwfAaCBWoVeUg8DEflZJoQCiAF4KAqdTIbkebCGQUBADs=",
+        "width": 3000,
+        "height": 1568,
+        "alt_text": "A work made of photolithograph, stereo."
+    },
+    "main_reference_number": "1976.1093",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1925,
+    "date_display": "1925",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Artist unknown\nAmerican, early 20th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Each image: 7.6 \u00d7 5.6 cm (3 \u00d7 2 1/4 in.); Card: 8.9 \u00d7 17.7 cm (3 9/16 \u00d7 7 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.6,
+            "width_in": 2.2048,
+            "height_cm": 7.6,
+            "height_in": 2.9922,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Each image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.7,
+            "width_in": 6.9686,
+            "height_cm": 8.9,
+            "height_in": 3.504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Card"
+        }
+    ],
+    "medium_display": "Photolithograph, stereo",
+    "inscriptions": null,
+    "credit_line": "Gift of Harold Allen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.6729,
+    "color": {
+        "h": 0,
+        "l": 60,
+        "s": 58,
+        "percentage": 0.013449428802758746,
+        "population": 50
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 110752,
+    "artist_title": "Unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110752
+    ],
+    "artist_titles": [
+        "Unknown"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e0061bc3-db0a-1ab3-ed13-68d719c500b6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.1093"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "A Modern Mermaid"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:54:48-05:00",
+    "timestamp": "2023-09-24T01:39:03-05:00"
+}

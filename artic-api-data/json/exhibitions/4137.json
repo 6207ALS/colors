@@ -1,0 +1,45 @@
+{
+    "id": 4137,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4137",
+    "title": "Treasures of Chicago Collectors",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1961-04-15T00:00:00-06:00",
+    "aic_end_at": "1961-05-07T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "058eee46-e660-d7eb-d1c4-84ae72c852b0",
+    "alt_image_ids": [
+        "ead085aa-ee78-ceec-f5d3-4ae74fcf2278",
+        "a1e1eaec-ba61-0d4b-5d6d-65ca3eb681e0",
+        "7f5d346b-b38e-5dc2-9a95-73427c0f55c3",
+        "3d0d3824-4c6c-e5b8-4583-88dd5dbdfa94",
+        "2f3f875c-a00e-2aa0-babb-ca863c606d7e",
+        "2ebf0f22-7572-bef2-d4c7-1304b4f6c864"
+    ],
+    "document_ids": [
+        "f33f0d31-d0ba-a062-ef33-74732396f9ef"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Treasures of Chicago Collectors"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:27-06:00",
+    "timestamp": "2023-09-24T02:01:19-05:00"
+}

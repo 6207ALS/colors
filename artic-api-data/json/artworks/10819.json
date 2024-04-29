@@ -1,0 +1,172 @@
+{
+    "id": 10819,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/10819",
+    "is_boosted": false,
+    "title": "The Old Coquette, from Cabinet Reynst",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFtYS2ViU3dzY3t2ZoeCcYyHd4+Ld4yHepmVg6Kci6mkkqqlk8S+rsbBr8rEsszGtM/JudDJutLLutXPuwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoOQwUTIAx0IISmEECDQ1TwgAOw==",
+        "width": 2294,
+        "height": 3000,
+        "alt_text": "A work made of engraving on cream laid paper."
+    },
+    "main_reference_number": "1923.1633",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1655,
+    "date_end": 1658,
+    "date_display": "c. 1655-58",
+    "date_qualifier_title": "Between",
+    "date_qualifier_id": 63,
+    "artist_display": "Jeremias Falck (Polish, c. 1610-1664/77)\nafter Bernardo Strozzi (Italian, 1581-1644)",
+    "place_of_origin": "Poland",
+    "description": null,
+    "dimensions": "40 \u00d7 31.7 cm (15 3/4 \u00d7 12 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 31.7,
+            "width_in": 12.4804,
+            "height_cm": 40,
+            "height_in": 15.7481,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Engraving on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Horace S. Oakley",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1924,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.4538,
+    "color": {
+        "h": 41,
+        "l": 62,
+        "s": 44,
+        "percentage": 0.0007535097407280626,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34455,
+    "artist_title": "Jeremias Falck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34455
+    ],
+    "artist_titles": [
+        "Jeremias Falck"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f67f3f45-536a-c272-2254-4d97e9eec08f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.1633"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Old Coquette, from Cabinet Reynst"
+            ],
+            "weight": 69,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-05T09:23:05-05:00",
+    "updated_at": "2023-09-05T09:26:58-05:00",
+    "timestamp": "2023-09-24T00:24:43-05:00"
+}

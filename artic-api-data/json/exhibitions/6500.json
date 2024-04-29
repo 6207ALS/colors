@@ -1,0 +1,55 @@
+{
+    "id": 6500,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6500",
+    "title": "Marcel Duchamp",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1974-03-23T00:00:00-05:00",
+    "aic_end_at": "1974-05-05T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "6a8db67e-c2dd-9418-1fcf-2245c5f68f71",
+    "alt_image_ids": [
+        "9d335b82-85f7-0f9c-da67-267f5d7c94a8",
+        "4bb2eafa-f0c2-33b3-fa9d-9b41faedd8a4",
+        "ef5bee32-9ba9-0630-e896-bbc4cf9cbe85",
+        "a4850cfc-fe24-80b0-85df-7d666b66d1b4",
+        "6faa0c1e-a35f-2b7a-3346-5c9a2afe49ba",
+        "ef611055-3c1c-1ff2-13bc-d88a451ef87c",
+        "6673ac26-4ad4-daf4-904e-fa7af2580a33",
+        "8051b734-171c-e653-7adc-9ec29f9fba98",
+        "2f7fa333-e0e3-1ccb-3e75-b57fe3fcc8ed",
+        "cabc02d9-8ca1-147f-3ee5-8f5b582b9389",
+        "fa368a69-6800-2fd1-2ec3-4e26f7621559",
+        "4350e3ee-f6c5-9056-a49c-036ffc07da74",
+        "90afe44b-678a-3cc6-f7b6-83ad75ecb6e4",
+        "a8d553ac-3320-cbc5-cc0a-fb716dff8516",
+        "617348a4-c8a5-bb5c-55b7-1893b2c5dca0",
+        "35f677cf-0bb6-01b6-ed94-f1430fde9d46",
+        "8c395b65-41ee-bc5e-9e87-2bb850f32c9d",
+        "133a9b93-a4d2-f42f-e43a-46b49037db77"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Marcel Duchamp"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:17:29-06:00",
+    "timestamp": "2023-09-24T02:01:49-05:00"
+}

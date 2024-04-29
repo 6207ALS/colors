@@ -1,0 +1,172 @@
+{
+    "id": 121771,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/121771",
+    "is_boosted": false,
+    "title": "Folding Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHlPMINSKJh3Wo10Y4J1bol5cp+SiZ6XlKqWhKmajaqcj6admKWkpKqop6qqqq6rqa2trbCpo6yusLO1trW1tb24trW4u76+vsbHyMjIyMrKyt7e3uHi4uzr6wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoENdiAIxUxQIUmMMQGJhB1Es2aY9FdeFADs=",
+        "width": 2250,
+        "height": 1941,
+        "alt_text": "A work made of oak with spanish cane."
+    },
+    "main_reference_number": "1993.154",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1949,
+    "date_end": 1949,
+    "date_display": "Designed 1949; Manufactured c. 1956",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Hans J. Wegner\nDanish, 1914-2007\nMade by Johannes Hansen\nCopenhagen, Denmark",
+    "place_of_origin": "Copenhagen",
+    "description": null,
+    "dimensions": "H.: 77 cm (30 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 77,
+            "height_in": 30.3125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oak with Spanish cane",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. John Fischetti",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.239,
+    "color": {
+        "h": 198,
+        "l": 73,
+        "s": 0,
+        "percentage": 0.25633871301975486,
+        "population": 1571
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 28191,
+    "artist_title": "Hans J. Wegner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28191
+    ],
+    "artist_titles": [
+        "Hans J. Wegner"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "chair",
+        "furniture",
+        "seating",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11745",
+    "classification_title": "chair",
+    "alt_classification_ids": [
+        "TM-466",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-11745",
+        "TM-466",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "chair",
+        "seating",
+        "furniture"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a86372f9-ea0b-4768-1891-d9e58648519f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1993.154"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Folding Chair"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:10-05:00",
+    "updated_at": "2023-04-10T10:50:16-05:00",
+    "timestamp": "2023-09-24T01:14:35-05:00"
+}

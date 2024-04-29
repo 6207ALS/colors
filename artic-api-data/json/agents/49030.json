@@ -1,0 +1,33 @@
+{
+    "id": 49030,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/49030",
+    "title": "Bakewell's Glass Works",
+    "sort_title": "Bakewell's Glass Works",
+    "alt_titles": [
+        "Pittsburgh Flint Glass Works",
+        "Bakewell, Page, and Bakewell"
+    ],
+    "is_artist": true,
+    "birth_date": 1808,
+    "death_date": 1882,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bakewell's Glass Works",
+            "Bakewell's Glass Works",
+            "Pittsburgh Flint Glass Works",
+            "Bakewell, Page, and Bakewell"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:28:53-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

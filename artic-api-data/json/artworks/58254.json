@@ -1,0 +1,183 @@
+{
+    "id": 58254,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/58254",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJ+ll767rdS1pt+5p+XEuPPKuNLYytje0eHawejm1erm1urn1uzn2ezp2u7q3Mrl4tDm4Pj14fn14vn05fz45v/75v/75/356P/76f796P/97v/+8wAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoJRtm0ZVD1EcmAUJg3FFCAAEU7I4SsOEADs=",
+        "width": 2771,
+        "height": 2250,
+        "alt_text": "A work made of color aquatint on paper."
+    },
+    "main_reference_number": "1979.398",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1971,
+    "date_end": 1971,
+    "date_display": "1971",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Adolph Gottlieb\nAmerican, 1903-1974",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/plate: 44.6 \u00d7 60.5 cm (17 9/16 \u00d7 23 7/8 in.); Sheet: 67 \u00d7 83 cm (26 7/16 \u00d7 32 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60.5,
+            "width_in": 23.8189,
+            "height_cm": 44.6,
+            "height_in": 17.5591,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 83,
+            "width_in": 32.6772,
+            "height_cm": 67,
+            "height_in": 26.378,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color aquatint on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Joel Starrels",
+    "catalogue_display": "<p>Harvey 69</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "Art \u00a9 The Adolph and Esther Gottlieb Foundation / Licensed by VAGA, New York, NY",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.4263,
+    "color": {
+        "h": 42,
+        "l": 45,
+        "s": 96,
+        "percentage": 0.0034634733442432744,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34710,
+    "artist_title": "Adolph Gottlieb",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34710
+    ],
+    "artist_titles": [
+        "Adolph Gottlieb"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "aquatint",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-147",
+    "classification_title": "aquatint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-147",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "aquatint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0344611a-48c0-61fe-35b4-f098d83d4bee",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1979.398"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 339,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:06:52-05:00",
+    "timestamp": "2023-09-24T00:45:23-05:00"
+}

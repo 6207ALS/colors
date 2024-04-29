@@ -1,0 +1,178 @@
+{
+    "id": 182990,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182990",
+    "is_boosted": false,
+    "title": "Mountain Stream (Shanxi)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACEmHCsvJjc8Mzs/NjxBOEdMQ1hdU1leVFxgV11hWWpuZnF2bnh8dHl9dn2AeX+De4aKgo6Si5KWj5ygmKCknaeqo66xq7a6s73Bur/CvcrNyNbZ09bZ1OLk3+Pl4ert6Pf59f39/P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQFDGIwp1MBpChRMZJD6SSQFgOFg2FAGCAVlcHIGG4hEEADs=",
+        "width": 2267,
+        "height": 1505,
+        "alt_text": "A work made of woodcut printed with oil-based ink."
+    },
+    "main_reference_number": "2004.209",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1998,
+    "date_end": 1998,
+    "date_display": "1998",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Zhao Yannian\nChinese, born 1924",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "30.5 \u00d7 46.2 cm (12 \u00d7 18 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 46.2,
+            "width_in": 18.2,
+            "height_cm": 30.5,
+            "height_in": 12,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Woodcut printed with oil-based ink",
+    "inscriptions": null,
+    "credit_line": "Margaret Gentles Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.909,
+    "color": {
+        "h": 69,
+        "l": 51,
+        "s": 5,
+        "percentage": 0.02372479240806643,
+        "population": 112
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 101938,
+    "artist_title": "Zhao Yannian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        101938
+    ],
+    "artist_titles": [
+        "Zhao Yannian"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "woodcut",
+        "Chinese (culture or style)",
+        "ink",
+        "print"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-148",
+    "classification_title": "woodcut",
+    "alt_classification_ids": [
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-148",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "woodcut",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fcf7d4ed-e1ea-08d1-a438-88c2c02eb2e8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.209"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mountain Stream (Shanxi)"
+            ],
+            "weight": 116,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:15:04-05:00",
+    "timestamp": "2023-09-24T01:34:07-05:00"
+}

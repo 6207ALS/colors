@@ -1,0 +1,28 @@
+{
+    "id": 74965,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/74965",
+    "title": "Edwin Hill Clark",
+    "sort_title": "Clark, Edwin Hill",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1878,
+    "death_date": 1967,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edwin Hill Clark",
+            "Clark, Edwin Hill"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-18T12:32:53-05:00",
+    "updated_at": "2021-10-18T12:35:47-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

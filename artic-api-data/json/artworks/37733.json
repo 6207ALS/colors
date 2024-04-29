@@ -1,0 +1,181 @@
+{
+    "id": 37733,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/37733",
+    "is_boosted": false,
+    "title": "Garden rug",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEE1SlZBT0tCUVVGU1RIWFhKWX1KT2NGVWVJVGlOVmpPVntMVW5QW2hUXnlWXXlgZINWWY9gW6FvZqFvZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDAEgBIZB7JITjJBTPE0RAgAOw==",
+        "width": 1045,
+        "height": 1309,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1971.872",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1890,
+    "date_end": 1890,
+    "date_display": "1890",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Caucasus, Kazakhstan",
+    "place_of_origin": "Kazakhstan",
+    "description": null,
+    "dimensions": "241.3 \u00d7 193.1 cm (95 \u00d7 76 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 193.1,
+            "width_in": 76,
+            "height_cm": 241.3,
+            "height_in": 95,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Dave Chapman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1972,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.8848,
+    "color": {
+        "h": 3,
+        "l": 38,
+        "s": 48,
+        "percentage": 0.21624159746935545,
+        "population": 1925
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "kazak",
+        "textile",
+        "weaving - rug",
+        "caucasian",
+        "central asian",
+        "asian",
+        "weaving"
+    ],
+    "style_id": "TM-4874",
+    "style_title": "kazak",
+    "alt_style_ids": [
+        "TM-4858",
+        "TM-4856",
+        "TM-4694"
+    ],
+    "style_ids": [
+        "TM-4874",
+        "TM-4858",
+        "TM-4856",
+        "TM-4694"
+    ],
+    "style_titles": [
+        "kazak",
+        "caucasian",
+        "central asian",
+        "asian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-211",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-211",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - rug",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cf9ed9a2-e2c3-e105-ea93-97288fe0109f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1971.872"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Garden rug"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:48:18-05:00",
+    "timestamp": "2023-09-24T00:37:10-05:00"
+}

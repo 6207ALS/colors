@@ -1,0 +1,35 @@
+{
+    "id": 23688,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/23688",
+    "title": "George Bernard Shaw",
+    "sort_title": "Shaw, George Bernard",
+    "alt_titles": [
+        "George B. Shaw",
+        "Bernard Shaw",
+        "G. B. (George Bernard) Shaw"
+    ],
+    "is_artist": true,
+    "birth_date": 1856,
+    "death_date": 1950,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Bernard Shaw",
+            "Shaw, George Bernard",
+            "George B. Shaw",
+            "Bernard Shaw",
+            "G. B. (George Bernard) Shaw"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:11:49-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

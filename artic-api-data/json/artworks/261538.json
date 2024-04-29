@@ -1,0 +1,181 @@
+{
+    "id": 261538,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/261538",
+    "is_boosted": false,
+    "title": "Title Page, from To the Spring (An den Fr\u00fchling)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJqQhZ2Shqygkq+jlcy8qs29qs2+q9HBrdHCsNLCsNjIs9nIs9nItNvKteDNt+DOt+PQueTSu+bUvgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIFQUUQEExyIMjZQkkrM0TggAOw==",
+        "width": 7387,
+        "height": 9942,
+        "alt_text": "A work made of woodcut in black on cream laid paper."
+    },
+    "main_reference_number": "2021.322.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1899,
+    "date_end": 1899,
+    "date_display": "1899",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Heinrich Vogeler\nGerman, 1872-1942",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Sheet: 35 \u00d7 26 cm (13 13/16 \u00d7 10 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26,
+            "width_in": 10.2363,
+            "height_cm": 35,
+            "height_in": 13.7796,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Woodcut in black on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "John H. Wrenn Memorial and Celia and David Hilliard endowment funds",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 45,
+        "l": 62,
+        "s": 0,
+        "percentage": 0.000518779872223292,
+        "population": 381
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 59857,
+    "artist_title": "Heinrich Vogeler",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        59857
+    ],
+    "artist_titles": [
+        "Heinrich Vogeler"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "ink",
+        "prints and drawing",
+        "laid paper",
+        "paper",
+        "print",
+        "woodcut"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-17",
+        "TM-148"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-17",
+        "TM-148"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "paper",
+        "print",
+        "woodcut"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-3070"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-3070"
+    ],
+    "material_titles": [
+        "ink",
+        "laid paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "180cf38d-4e8a-b0a2-4cc8-d8d9089306a7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.322.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Title Page, from To the Spring (An den Fr\u00fchling)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-05T09:42:07-05:00",
+    "updated_at": "2023-06-05T09:52:41-05:00",
+    "timestamp": "2023-09-24T01:57:51-05:00"
+}

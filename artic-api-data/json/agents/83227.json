@@ -1,0 +1,28 @@
+{
+    "id": 83227,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/83227",
+    "title": "Franz Graf von Pocci",
+    "sort_title": "Pocci, Franz Graf von",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1807,
+    "death_date": 1876,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Franz Graf von Pocci",
+            "Pocci, Franz Graf von"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:51-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

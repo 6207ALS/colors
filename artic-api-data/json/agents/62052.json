@@ -1,0 +1,31 @@
+{
+    "id": 62052,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62052",
+    "title": "Monogrammist B.D.P.",
+    "sort_title": "Monogrammist B.D.P.",
+    "alt_titles": [
+        "B.D.P."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Monogrammist B.D.P.",
+            "Monogrammist B.D.P.",
+            "B.D.P."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:44-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

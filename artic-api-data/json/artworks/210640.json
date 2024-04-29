@@ -1,0 +1,177 @@
+{
+    "id": 210640,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/210640",
+    "is_boosted": false,
+    "title": "Untitled, from Insect Series",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAM7Oz+Dg3+vr7PX19fn5+Pn4+fr6+f7+/v///wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQK8KA5i0EgEIFGBAA7",
+        "width": 964,
+        "height": 1428,
+        "alt_text": "A work made of gouache on ivory wove paper."
+    },
+    "main_reference_number": "2011.642",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2000,
+    "date_end": 2000,
+    "date_display": "2000",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Michael Hopkins\nAmerican, born 1958",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "16.5 \u00d7 11.4 cm (6 1/2 \u00d7 4 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11.4,
+            "width_in": 4.4882,
+            "height_cm": 16.5,
+            "height_in": 6.4961,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gouache on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Bresemann",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 1.6416,
+    "color": {
+        "h": 235,
+        "l": 46,
+        "s": 1,
+        "percentage": 0.0017095526955372127,
+        "population": 18
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 111717,
+    "artist_title": "Michael Hopkins",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111717
+    ],
+    "artist_titles": [
+        "Michael Hopkins"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "gouache",
+        "paper (fiber product)",
+        "21st Century",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-221",
+    "classification_title": "gouache",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-221",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "gouache",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "eb5ec52a-d6ac-7d7c-9a40-388f177e4e7f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2011.642"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled, from Insect Series"
+            ],
+            "weight": 252,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:27-05:00",
+    "updated_at": "2023-04-07T15:37:13-05:00",
+    "timestamp": "2023-09-24T01:42:41-05:00"
+}

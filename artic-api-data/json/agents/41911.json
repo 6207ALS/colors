@@ -1,0 +1,39 @@
+{
+    "id": 41911,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41911",
+    "title": "Lucas van Leyden",
+    "sort_title": "Leyden, Lucas van",
+    "alt_titles": [
+        "Lucas van Leyden",
+        "Lucas Hugensz. van Leyden",
+        "Luca di Leida",
+        "Lucas van Leiden",
+        "Lucas Huygensz. van Leyden"
+    ],
+    "is_artist": true,
+    "birth_date": 1494,
+    "death_date": 1533,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lucas van Leyden",
+            "Leyden, Lucas van",
+            "Lucas van Leyden",
+            "Lucas Hugensz. van Leyden",
+            "Luca di Leida",
+            "Lucas van Leiden",
+            "Lucas Huygensz. van Leyden"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-14T15:26:43-06:00",
+    "updated_at": "2023-02-14T15:27:13-06:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 41519,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41519",
+    "title": "Tiberius Dominikus Wocher",
+    "sort_title": "Wocher, Tiberius Dominikus",
+    "alt_titles": [
+        "Tiberius Dominikus (Theodor) Wocher"
+    ],
+    "is_artist": true,
+    "birth_date": 1728,
+    "death_date": 1799,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tiberius Dominikus Wocher",
+            "Wocher, Tiberius Dominikus",
+            "Tiberius Dominikus (Theodor) Wocher"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:14-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

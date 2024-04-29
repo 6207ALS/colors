@@ -1,0 +1,172 @@
+{
+    "id": 181114,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/181114",
+    "is_boosted": false,
+    "title": "demonstration",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAB0hHh8kHyUpJjQ2MzU5NFRVVFZYVWBjYGpraXFycXZ3dn18epWVlbKxs7SzswAAACH5BAAAAAAALAAAAAADAAUAAAQLkLgTGjMqLQRGEREAOw==",
+        "width": 1509,
+        "height": 2250,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "2003.91.11",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2003,
+    "date_end": 2003,
+    "date_display": "2003",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wolfgang Tillmans\nGerman, born 1968",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "15 \u00d7 10 cm (6 \u00d7 4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10,
+            "width_in": 4,
+            "height_cm": 15,
+            "height_in": 6,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Gift of Society for Contemporary Art",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2003,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.325,
+    "color": {
+        "h": 61,
+        "l": 52,
+        "s": 1,
+        "percentage": 0.04680786409865135,
+        "population": 496
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 87493,
+    "artist_title": "Wolfgang Tillmans",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        87493
+    ],
+    "artist_titles": [
+        "Wolfgang Tillmans"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "photograph",
+        "21st Century",
+        "chromogenic color print",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b6c66b9b-544f-86d5-e45f-1c625737e598",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2003.91.11"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "demonstration"
+            ],
+            "weight": 85,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:18:42-05:00",
+    "timestamp": "2023-09-24T01:33:23-05:00"
+}

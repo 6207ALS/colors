@@ -1,0 +1,22 @@
+{
+    "id": "TM-14700",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/TM-14700",
+    "title": "communication",
+    "subtype": "subject",
+    "parent_id": null,
+    "aat_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "communication"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-03-26T15:04:23-05:00",
+    "updated_at": "2021-03-26T15:05:33-05:00",
+    "timestamp": "2023-09-24T02:02:43-05:00"
+}

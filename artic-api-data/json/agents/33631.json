@@ -1,0 +1,31 @@
+{
+    "id": 33631,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33631",
+    "title": "Thomas Bewick",
+    "sort_title": "Bewick, Thomas",
+    "alt_titles": [
+        "T. (Thomas) Bewick"
+    ],
+    "is_artist": true,
+    "birth_date": 1753,
+    "death_date": 1828,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thomas Bewick",
+            "Bewick, Thomas",
+            "T. (Thomas) Bewick"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:51:15-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

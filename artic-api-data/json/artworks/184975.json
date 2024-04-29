@@ -1,0 +1,168 @@
+{
+    "id": 184975,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/184975",
+    "is_boosted": false,
+    "title": "The Rattlesnake",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE5LSVFOTFNRT2BcWnl3dpORj5mXl6Cen6SioKqpqLCusLGvsbSzsri3t8C/vsHAv8rIyMrKyuvq6+zs7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4GEsShMQUCIASFQMzPQ4UggAOw==",
+        "width": 1870,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "2005.62",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1905,
+    "date_end": 1905,
+    "date_display": "Modeled 1905, cast 1918",
+    "date_qualifier_title": "Modeled",
+    "date_qualifier_id": 50,
+    "artist_display": "Frederic Remington (American, 1861\u20131909)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "61 \u00d7 43.2 \u00d7 33 cm (24 \u00d7 17 \u00d7 13 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 33,
+            "depth_in": 13,
+            "width_cm": 43.2,
+            "width_in": 17,
+            "height_cm": 61,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": "Foundry: Roman Bronze Works, N. Y; cast no. 62",
+    "credit_line": "Bequest of Marjorie Block Stein",
+    "catalogue_display": null,
+    "publication_history": "Michael D. Greenbaum, Icons of the West: Frederic Remington's Sculpture, (Frederic Remington Art Museum, 1996). p. 197.\n\nAnnual Report (Art Insitute of Chicago, 2004\u20132005), p. 16.",
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.5516,
+    "color": {
+        "h": 37,
+        "l": 54,
+        "s": 7,
+        "percentage": 0.0008189030910082101,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 21570,
+    "artist_title": "Frederic Remington",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21570
+    ],
+    "artist_titles": [
+        "Frederic Remington"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "bronze",
+        "bronze"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-28"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-28"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "bronze"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "eccf029b-54ea-a8fa-1074-6ba455d387b9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2005.62"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Rattlesnake"
+            ],
+            "weight": 126,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-12T11:18:19-05:00",
+    "updated_at": "2023-05-12T11:22:38-05:00",
+    "timestamp": "2023-09-24T01:34:51-05:00"
+}

@@ -1,0 +1,165 @@
+{
+    "id": 240229,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/240229",
+    "is_boosted": false,
+    "title": "Mrs. J. Ogden Amour House, Lake Forest, Illinois, Sun Room Detail",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMK+tsTAt8nHvcrIvsvKv8/MxdLPyNTSytXSy9TTy9XUy9XTzNfVz9jVztnXz9rZ0dva0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGA0yHA8DaFAjpA8DlAwSwgAOw==",
+        "width": 5692,
+        "height": 7250,
+        "alt_text": "A work made of graphite on tracing paper."
+    },
+    "main_reference_number": "1989.672.8",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1935,
+    "date_end": 1935,
+    "date_display": "10/09/1935",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "David Adler\nAmerican, (1882\u20131949)",
+    "place_of_origin": "Lake Forest",
+    "description": null,
+    "dimensions": "Approx.: 123 \u00d7 106.5 cm (48 7/16 \u00d7 41 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 106.5,
+            "width_in": 41.9375,
+            "height_cm": 123,
+            "height_in": 48.4375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Approx."
+        }
+    ],
+    "medium_display": "Graphite on tracing paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Bowen Blair, executor of the estate of William McCormick Blair",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.3794,
+    "color": {
+        "h": 37,
+        "l": 56,
+        "s": 5,
+        "percentage": 0.002653285264648622,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 33364,
+    "artist_title": "David Adler",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33364
+    ],
+    "artist_titles": [
+        "David Adler"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-126"
+    ],
+    "classification_titles": [
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e947000c-9d27-5765-a7e6-8f869118f1c7",
+    "alt_image_ids": [
+        "47d92e38-cf65-e0ec-e6b8-7a66dfba799c"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.672.8"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mrs. J. Ogden Amour House, Lake Forest, Illinois, Sun Room Detail"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:34-05:00",
+    "updated_at": "2023-04-07T14:56:51-05:00",
+    "timestamp": "2023-09-24T01:53:15-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 15066,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15066",
+    "title": "Sauveur (Jean Sauveur) Legros",
+    "sort_title": "Legros, Sauveur (Jean Sauveur)",
+    "alt_titles": [
+        "Sauveur (Jean Sauveur) Le Gros"
+    ],
+    "is_artist": true,
+    "birth_date": 1754,
+    "death_date": 1834,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sauveur (Jean Sauveur) Legros",
+            "Legros, Sauveur (Jean Sauveur)",
+            "Sauveur (Jean Sauveur) Le Gros"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:43-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

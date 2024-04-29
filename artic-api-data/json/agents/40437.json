@@ -1,0 +1,31 @@
+{
+    "id": 40437,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40437",
+    "title": "Luigi Benfatto",
+    "sort_title": "Benfatto, Luigi",
+    "alt_titles": [
+        "Alvise Dal Friso"
+    ],
+    "is_artist": true,
+    "birth_date": 1534,
+    "death_date": 1609,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Luigi Benfatto",
+            "Benfatto, Luigi",
+            "Alvise Dal Friso"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-18T13:20:52-05:00",
+    "updated_at": "2020-06-18T13:25:34-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,53 @@
+{
+    "id": 50313,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/50313",
+    "title": "Giovanni da Bologna",
+    "sort_title": "Bologna, Giovanni da",
+    "alt_titles": [
+        "Jean de Boulogne",
+        "Jean de Boulogne",
+        "Giambologna, (Jean Boulogne)",
+        "Giovanni Bologna",
+        "Giambologna",
+        "Giovanni da Bologna",
+        "Giovanni Bologna",
+        "Gian Bologna",
+        "Jean de Bologne",
+        "Jean Boullongne",
+        "Jean Boulongne",
+        "Jean Bolongne"
+    ],
+    "is_artist": true,
+    "birth_date": 1519,
+    "death_date": 1608,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni da Bologna",
+            "Bologna, Giovanni da",
+            "Jean de Boulogne",
+            "Jean de Boulogne",
+            "Giambologna, (Jean Boulogne)",
+            "Giovanni Bologna",
+            "Giambologna",
+            "Giovanni da Bologna",
+            "Giovanni Bologna",
+            "Gian Bologna",
+            "Jean de Bologne",
+            "Jean Boullongne",
+            "Jean Boulongne",
+            "Jean Bolongne"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:21-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

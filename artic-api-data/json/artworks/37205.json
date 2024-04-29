@@ -1,0 +1,177 @@
+{
+    "id": 37205,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/37205",
+    "is_boosted": false,
+    "title": "Spinner",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJWLiJqSj4iKnpiTkpqYlZWRmZqZmJ+cnK+elqWbmK+in5qXpbaxsLm1sri2tciwmce5qdLGtry8xsbDx9LLyNXQz9jQy9nV09vW1d3b2uDe2+Xh3+Xk4unl5AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoEEMRwA4TNEgyjUJ0ENp0pJEFpdh1daFADs=",
+        "width": 2740,
+        "height": 2250,
+        "alt_text": "A work made of glass; lampwork (verre de nevers), metal armature."
+    },
+    "main_reference_number": "1927.1364",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1700,
+    "date_end": 1799,
+    "date_display": "18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Nevers, France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "11.9 \u00d7 13.3 cm (4 11/16 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.3,
+            "width_in": 5.25,
+            "height_cm": 11.9,
+            "height_in": 4.6875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass; lampwork (verre de Nevers), metal armature",
+    "inscriptions": null,
+    "credit_line": "Gift of Julius and Augusta Rosenwald",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.0962,
+    "color": {
+        "h": 39,
+        "l": 46,
+        "s": 76,
+        "percentage": 0.011656689911477726,
+        "population": 68
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "glass",
+        "lampworking",
+        "miniature",
+        "decorative object/ornament",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-591",
+        "TM-30",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-591",
+        "TM-30",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "glass",
+        "miniature",
+        "decorative object/ornament",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": "TM-4141",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4141"
+    ],
+    "technique_titles": [
+        "lampworking"
+    ],
+    "theme_titles": [],
+    "image_id": "af5079d8-e8e2-7df8-44de-b7479f4d0553",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.1364"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Spinner"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-09T09:46:40-05:00",
+    "updated_at": "2023-06-09T09:47:49-05:00",
+    "timestamp": "2023-09-24T00:37:04-05:00"
+}

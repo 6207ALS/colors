@@ -1,0 +1,42 @@
+{
+    "id": 5383,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5383",
+    "title": "Juan S\u00e1nchez Cot\u00e1n",
+    "sort_title": "S\u00e1nchez Cot\u00e1n, Juan",
+    "alt_titles": [
+        "Juan S\u00e1nchez Cot\u00e1n",
+        "Fray Juan S\u00e1nchez Cot\u00e1n"
+    ],
+    "is_artist": true,
+    "birth_date": 1560,
+    "death_date": 1627,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Juan S\u00e1nchez Cot\u00e1n",
+            "S\u00e1nchez Cot\u00e1n, Juan",
+            "Juan S\u00e1nchez Cot\u00e1n",
+            "Fray Juan S\u00e1nchez Cot\u00e1n"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan S\u00e1nchez Cot\u00e1n",
+            "S\u00e1nchez Cot\u00e1n, Juan",
+            "Juan S\u00e1nchez Cot\u00e1n",
+            "Fray Juan S\u00e1nchez Cot\u00e1n"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:05-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

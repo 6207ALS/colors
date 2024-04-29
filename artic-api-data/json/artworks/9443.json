@@ -1,0 +1,172 @@
+{
+    "id": 9443,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/9443",
+    "is_boosted": false,
+    "title": "Gellius de Bouma",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEVBP1VRTllVUVtXU19bV2BdWGllYGplYHBrZXdxa3dzbHp2cIN+douGfYyHfZuVi7q0qb23q723rMvFtwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAQABQAABRFgggjB8TgAoTBFMxjLFEFSCAA7",
+        "width": 555,
+        "height": 768,
+        "alt_text": "A work made of etching and engraving on paper."
+    },
+    "main_reference_number": "1923.1034",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1540,
+    "date_end": 1586,
+    "date_display": "1656",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Cornelis Visscher\nDutch, c. 1629-1658",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": "Sheet; trimmed: 40.3 \u00d7 28.9 cm (15 7/8 \u00d7 11 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 28.9,
+            "width_in": 11.378,
+            "height_cm": 40.3,
+            "height_in": 15.8662,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet; trimmed"
+        }
+    ],
+    "medium_display": "Etching and engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Horace S. Oakley",
+    "catalogue_display": "<p>Hollstein 141 ii/vi</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 1924,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.6999,
+    "color": {
+        "h": 38,
+        "l": 49,
+        "s": 5,
+        "percentage": 0.04086275299075709,
+        "population": 402
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 37165,
+    "artist_title": "Cornelis Visscher, the Elder",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37165
+    ],
+    "artist_titles": [
+        "Cornelis Visscher, the Elder"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cd3c2a4c-4c78-e223-0764-9159e5edcc85",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1923.1034"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Gellius de Bouma"
+            ],
+            "weight": 145,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:51:12-05:00",
+    "timestamp": "2023-09-24T00:24:10-05:00"
+}

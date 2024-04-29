@@ -1,0 +1,31 @@
+{
+    "id": 113549,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/113549",
+    "title": "James A. Wales",
+    "sort_title": "Wales, James A.",
+    "alt_titles": [
+        "James Albert Wales"
+    ],
+    "is_artist": true,
+    "birth_date": 1852,
+    "death_date": 1886,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James A. Wales",
+            "Wales, James A.",
+            "James Albert Wales"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:45:28-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

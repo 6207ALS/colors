@@ -1,0 +1,167 @@
+{
+    "id": 41279,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/41279",
+    "is_boosted": false,
+    "title": "Sample (Casement Material)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACNUZCRUZSRXZSVXZSxYZylXaixZaixcajJcbUZqd0ttektve0tvfE5xfFBxfFBzflF0flR2f1JzgFN1gVV4gmN+iGiCi3aMlHqOlgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4DVRENYMhxBJBlI8C0AEjKU4SRUCADs=",
+        "width": 2474,
+        "height": 2250,
+        "alt_text": "A work made of linen, rayon, metal foil laminated in celllulose acetate film, plain weave."
+    },
+    "main_reference_number": "1972.1156a",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1953,
+    "date_end": 1970,
+    "date_display": "1953/70",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Dorothy Liebes (American, 1897-1972)\nNew York, New York, United States",
+    "place_of_origin": "New York City",
+    "description": null,
+    "dimensions": "20.4 \u00d7 22.7 cm (8 \u00d7 9 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.7,
+            "width_in": 9,
+            "height_cm": 20.4,
+            "height_in": 8,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, rayon, metal foil laminated in celllulose acetate film, plain weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Liebes Design, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.2321,
+    "color": {
+        "h": 162,
+        "l": 52,
+        "s": 80,
+        "percentage": 0.004021151255604479,
+        "population": 26
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35485,
+    "artist_title": "Dorothy Liebes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35485
+    ],
+    "artist_titles": [
+        "Dorothy Liebes"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "dc26234d-8c43-ed4c-30f7-a539487f2de3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.1156a"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Casement Material)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-22T16:42:13-05:00",
+    "updated_at": "2023-09-22T16:46:31-05:00",
+    "timestamp": "2023-09-24T00:38:19-05:00"
+}

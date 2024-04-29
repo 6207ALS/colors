@@ -1,0 +1,183 @@
+{
+    "id": 39548,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/39548",
+    "is_boosted": false,
+    "title": "Portrait of Brunet, Printer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGtoWYiFdI6Le5qYhZ+ciaekkqyrlq6rmq+smrKvmrSxoLizoLm1orq4pLy4p7y6p726p7+8p7+9qcTArgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4II4zAEIkxIQTTEYCfRIUQgAOw==",
+        "width": 2666,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on ivory laid paper."
+    },
+    "main_reference_number": "1972.603",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1816,
+    "date_end": 1816,
+    "date_display": "1816",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Dominique-Vivant Denon\nFrench, 1747-1825",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 11.8 \u00d7 12 cm (4 11/16 \u00d7 4 3/4 in.); Sheet: 15.8 \u00d7 14.1 cm (6 1/4 \u00d7 5 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12,
+            "width_in": 4.7245,
+            "height_cm": 11.8,
+            "height_in": 4.6457,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14.1,
+            "width_in": 5.5512,
+            "height_cm": 15.8,
+            "height_in": 6.2205,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Harold Joachim Purchase Fund",
+    "catalogue_display": "<p>Fonds Fran\u00e7ais 9</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.1034,
+    "color": {
+        "h": 49,
+        "l": 53,
+        "s": 21,
+        "percentage": 0.009249919063208198,
+        "population": 74
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34237,
+    "artist_title": "Dominique-Vivant Denon",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34237
+    ],
+    "artist_titles": [
+        "Dominique-Vivant Denon"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9c1fd5c1-3512-b701-494b-0e22724d31d7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.603"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Brunet, Printer"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:45:27-05:00",
+    "timestamp": "2023-09-24T00:37:40-05:00"
+}

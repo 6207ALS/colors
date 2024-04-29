@@ -1,0 +1,168 @@
+{
+    "id": 260838,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/260838",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAHVsZ3huanlvantxbH10b351cJKKhJONhpaQiMC8uQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIEJ0AyBDFpAgAOw==",
+        "width": 5251,
+        "height": 11460,
+        "alt_text": "A work made of spray emulsion on canvas."
+    },
+    "main_reference_number": "2021.183",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1968,
+    "date_end": 1968,
+    "date_display": "1968",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Lawrence Weiner\nAmerican, 1942-2021",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "236 \u00d7 91.4 cm (93 \u00d7 36 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 91.4,
+            "width_in": 36,
+            "height_cm": 236,
+            "height_in": 93,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Spray emulsion on canvas",
+    "inscriptions": null,
+    "credit_line": "Director's Discretionary Acquisition Fund; The Marian and Samuel Klasstorner Endowment Fund; Major Acquisitions Centennial Fund",
+    "catalogue_display": null,
+    "publication_history": "Ann Goldstein, ed., Lawrence Weiner: As Far As the Eye Can See, exh. cat. (Los Angeles: Museum of Contemporary Art; New York: Whitney Museum of American Art: New Haven: Distributed by Yale University Press, 2007), 396.",
+    "exhibition_history": "New York, Whitney Museum of American Art, Lawrence Weiner: AS FAR AS THE EYE CAN SEE, Nov. 15, 2007\u2013Feb 10, 2008, no cat. no.; Museum of Contemporary Art, Los Angeles, Apr. 13\u2013July 14, 2008; D\u00fcsseldorf, K21 Kunstsammlung Nordrhein\u2013Westfalen, Sept. 20, 2008\u2013Jan. 4, 2009.",
+    "provenance_text": "The artist; given to Chuck Ginnever (1931-2019); his estate; sold to Regen Projects, Los Angeles; sold to the Art Institute of Chicago, Sept. 14, 2021.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 40,
+        "l": 31,
+        "s": 16,
+        "percentage": 0.0005001955914322644,
+        "population": 301
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 297",
+    "gallery_id": 25473,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 33089,
+    "artist_title": "Lawrence Weiner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33089
+    ],
+    "artist_titles": [
+        "Lawrence Weiner"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "canvas",
+        "painting",
+        "spray emulsion"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3124",
+    "alt_material_ids": [
+        "TM-14815"
+    ],
+    "material_ids": [
+        "TM-3124",
+        "TM-14815"
+    ],
+    "material_titles": [
+        "canvas",
+        "spray emulsion"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0d063eed-e4be-cba0-7178-2191f0dfad3c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.183"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-31T15:11:05-05:00",
+    "updated_at": "2023-04-07T11:36:52-05:00",
+    "timestamp": "2023-09-24T01:57:45-05:00"
+}

@@ -1,0 +1,173 @@
+{
+    "id": 102111,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102111",
+    "is_boosted": false,
+    "title": "The Holy Family",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD4+PkJCQklJSWxsbH9/f6KioqSkpKampqurq7Ozs7+/v+Hh4eXl5enp6fLy8vT09Pb29v///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURYOQ00VMQUCIExgEMyaIgTAgAOw==",
+        "width": 1809,
+        "height": 2250,
+        "alt_text": "A work made of painted terracotta."
+    },
+    "main_reference_number": "1984.40",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1685,
+    "date_end": 1695,
+    "date_display": "c. 1690",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Giovanni Giuseppe Mazza\nItalian, 1653\u20141741",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "42.9 \u00d7 44.5 \u00d7 27.9 cm (16 7/8 \u00d7 17 1/2 \u00d7 11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 27.9,
+            "depth_in": 11,
+            "width_cm": 44.5,
+            "width_in": 17.5,
+            "height_cm": 42.9,
+            "height_in": 16.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Painted terracotta",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Anthony L. Michel",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, \u201cEuropean Terracotta Sculpture from the Permanent Collection,\u201d 27 July \u2013 13 October 1983 [no cat.].",
+    "provenance_text": "P. and D. Colnaghi and Company, Limited, by 1982; sold to Anthony Michel, Wilmette, Illinois, by 1982 [according to letters from Ian Wardropper to Anthony Michel, 27 October 1982, and to Michael Hall, 11 June 1984, in curatorial file]; loaned by Mr. and Mrs. Anthony Michel to the Art Institute, 1983 [according to Receipt X14193 in Registrar\u2019s office]; given to the Art Institute, 1984.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.07764889118288917,
+        "population": 686
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 31982,
+    "artist_title": "Giuseppe Mazza",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31982
+    ],
+    "artist_titles": [
+        "Giuseppe Mazza"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "statuette",
+        "terracotta",
+        "inorganic material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-114",
+    "classification_title": "statuette",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-114",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "statuette",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2433",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2433",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "terracotta",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e5ce41bb-25c0-1f80-e859-2e2e2c33f258",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.40"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Holy Family"
+            ],
+            "weight": 282,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:32:08-05:00",
+    "timestamp": "2023-09-24T01:05:59-05:00"
+}

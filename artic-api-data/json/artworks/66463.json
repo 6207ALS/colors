@@ -1,0 +1,172 @@
+{
+    "id": 66463,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/66463",
+    "is_boosted": false,
+    "title": "Custom Print I, from the portfolio \"11 Pop Artists, Volume I\"",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFZSFWhFKGVfLj07VU9ES0ZMU3NgU5VbHpVpIbFqP9V1Hsp/JuhwK5pjQZ+QHJaEPciNHsi0E++zLpGCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoINAEXAsQqAkBtMQg/QUUwgAOw==",
+        "width": 2494,
+        "height": 3000,
+        "alt_text": "A work made of silkscreen on heavy white cardstock."
+    },
+    "main_reference_number": "1986.1507",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Peter Phillips\nEnglish, born 1939",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "61 \u00d7 50.8 cm (24 1/16 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.8,
+            "width_in": 20,
+            "height_cm": 61,
+            "height_in": 24.0158,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silkscreen on heavy white cardstock",
+    "inscriptions": null,
+    "credit_line": "Gift of Donn Shapiro",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": "99/200",
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 138.7854,
+    "color": {
+        "h": 47,
+        "l": 50,
+        "s": 96,
+        "percentage": 0.4452493091967496,
+        "population": 3806
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 20474,
+    "artist_title": "Peter Phillips",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        20474
+    ],
+    "artist_titles": [
+        "Peter Phillips"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "screen printing",
+        "silkscreen",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10309",
+    "classification_title": "silkscreen",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-10309",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "silkscreen",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "1dd4b5b8-1944-5047-0777-1da56c9b3dcc",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1507"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Custom Print I, from the portfolio \"11 Pop Artists, Volume I\""
+            ],
+            "weight": 124,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-28T14:16:34-05:00",
+    "updated_at": "2023-04-07T14:20:01-05:00",
+    "timestamp": "2023-09-24T00:49:15-05:00"
+}

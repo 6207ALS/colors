@@ -1,0 +1,43 @@
+{
+    "id": 34327,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34327",
+    "title": "George Du Maurier",
+    "sort_title": "Du Maurier, George",
+    "alt_titles": [
+        "George Louis Pamella Busson Dumaurier",
+        "George Louis Pamella Busson du Maurier",
+        "George Busson du Maurier",
+        "George Louis Palmella Busson Du Maurier",
+        "George Louis Palmella Busson de Maurier",
+        "George Louis Palmella Busson Du Maurier",
+        "George Du Maurier"
+    ],
+    "is_artist": true,
+    "birth_date": 1834,
+    "death_date": 1896,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Du Maurier",
+            "Du Maurier, George",
+            "George Louis Pamella Busson Dumaurier",
+            "George Louis Pamella Busson du Maurier",
+            "George Busson du Maurier",
+            "George Louis Palmella Busson Du Maurier",
+            "George Louis Palmella Busson de Maurier",
+            "George Louis Palmella Busson Du Maurier",
+            "George Du Maurier"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:18-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

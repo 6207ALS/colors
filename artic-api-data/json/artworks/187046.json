@@ -1,0 +1,186 @@
+{
+    "id": 187046,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/187046",
+    "is_boosted": false,
+    "title": "1/2/3",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAABZDkqTZGGVcnScfoSfiYSljYmlj8vNy83Uz9LY09nY2Nva29/b3eTj5Onl6AAAACH5BAAAAAAALAAAAAADAAUAAAQLMDVXAjJgEKEOWxEAOw==",
+        "width": 511,
+        "height": 768,
+        "alt_text": "A work made of paint on cardboard and balsa wood."
+    },
+    "main_reference_number": "2004.477.3",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1966,
+    "date_end": 1966,
+    "date_display": "1966",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mel Bochner\nAmerican, born 1940",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "15.2 \u00d7 10.2 \u00d7 5.1 cm (6 \u00d7 4 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 5.1,
+            "depth_in": 2,
+            "width_cm": 10.2,
+            "width_in": 4,
+            "height_cm": 15.2,
+            "height_in": 6,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Paint on cardboard and balsa wood",
+    "inscriptions": null,
+    "credit_line": "Gift of Stenn Family Collection; through prior gift of Lucille E. and Joseph L. Block",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Mel Bochner",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.1692,
+    "color": {
+        "h": 131,
+        "l": 30,
+        "s": 43,
+        "percentage": 0.05870341294340036,
+        "population": 627
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 2748,
+    "artist_title": "Mel Bochner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2748
+    ],
+    "artist_titles": [
+        "Mel Bochner"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "Conceptual Art",
+        "paint",
+        "sculpture",
+        "paint",
+        "wood",
+        "balsa wood",
+        "cardboard"
+    ],
+    "style_id": "TM-7196",
+    "style_title": "Conceptual Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7196"
+    ],
+    "style_titles": [
+        "Conceptual Art"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-10387",
+        "TM-84"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-10387",
+        "TM-84"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "paint",
+        "wood"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2577",
+    "alt_material_ids": [
+        "TM-3624",
+        "TM-3012"
+    ],
+    "material_ids": [
+        "TM-2577",
+        "TM-3624",
+        "TM-3012"
+    ],
+    "material_titles": [
+        "paint",
+        "balsa wood",
+        "cardboard"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cc0afc83-3499-b46c-7978-054fe9233511",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.477.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "1/2/3"
+            ],
+            "weight": 772,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-04-07T16:07:23-05:00",
+    "timestamp": "2023-09-24T01:35:48-05:00"
+}

@@ -1,0 +1,177 @@
+{
+    "id": 43661,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/43661",
+    "is_boosted": false,
+    "title": "Man with a Black Fez",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGN2lG5/mmZ/pXCGqYGOppObqpCetJ6lsry9wMDCxc3Oz8TK0MrP1M7R09HT1NPT1NDT1tTX2dbZ3NjY2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIJMgi2QQUBQAjTMIynQUTwgAOw==",
+        "width": 1578,
+        "height": 2250,
+        "alt_text": "A work made of glass; lampwork (verre de nevers), metal armature."
+    },
+    "main_reference_number": "1941.1179",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1750,
+    "date_end": 1799,
+    "date_display": "1750/99",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Nevers, France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "8.1 \u00d7 3.4 \u00d7 4.8 cm (3 3/16 \u00d7 1 5/16 \u00d7 1 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 4.8,
+            "depth_in": 1.875,
+            "width_cm": 3.4,
+            "width_in": 1.3125,
+            "height_cm": 8.1,
+            "height_in": 3.1875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass; lampwork (verre de Nevers), metal armature",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Potter Palmer through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1942,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.5151,
+    "color": {
+        "h": 216,
+        "l": 42,
+        "s": 51,
+        "percentage": 0.04204143746188144,
+        "population": 426
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "decorative object/ornament",
+        "lampworking",
+        "glass",
+        "lampwork",
+        "glass",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-30",
+    "classification_title": "decorative object/ornament",
+    "alt_classification_ids": [
+        "TM-287",
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-30",
+        "TM-287",
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "decorative object/ornament",
+        "lampwork",
+        "glass",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": "TM-4141",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4141"
+    ],
+    "technique_titles": [
+        "lampworking"
+    ],
+    "theme_titles": [],
+    "image_id": "aa10759a-2662-7193-5148-5a9431840ba9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1941.1179"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Man with a Black Fez"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:54:25-05:00",
+    "timestamp": "2023-09-24T00:39:09-05:00"
+}

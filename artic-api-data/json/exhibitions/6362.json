@@ -1,0 +1,49 @@
+{
+    "id": 6362,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6362",
+    "title": "Georgia O'Keeffe Retrospective",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1971-01-06T00:00:00-06:00",
+    "aic_end_at": "1971-02-07T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "0356469b-1a19-3fe8-f3b2-13272c090253",
+    "alt_image_ids": [
+        "0ebef934-9b12-e597-d3fa-b33a09a4a2bc",
+        "f222af5c-0504-c735-47ae-82590952da33",
+        "ae4140b7-241a-e363-781e-d338d14f0a63",
+        "e7f9d054-6cb9-1277-9bf3-6bccc31e3422",
+        "170cc0b6-d8ab-38c9-2372-ad3654b023ff",
+        "5d0089bf-cfc6-209b-9431-66e01e3e3d6c",
+        "6c94872c-02e6-ad62-ac5f-e96f9c820e81",
+        "40ed01be-9b0f-d150-df26-d7315be16f56",
+        "d39ae232-bab2-24f9-ae25-5a2c173f317d",
+        "0a5061a9-60fa-42c8-0472-e43a0b3e8d62"
+    ],
+    "document_ids": [
+        "bf4c4b13-bdf8-14b7-499d-5a7edbbb4dc0"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Georgia O'Keeffe Retrospective"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:17:45-06:00",
+    "timestamp": "2023-09-24T02:01:47-05:00"
+}

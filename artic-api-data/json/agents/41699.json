@@ -1,0 +1,33 @@
+{
+    "id": 41699,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41699",
+    "title": "Fran\u00e7ois Marius Granet",
+    "sort_title": "Granet, Fran\u00e7ois Marius",
+    "alt_titles": [
+        "Fran\u00e7ois M. Granet",
+        "Francois-Marius Granet"
+    ],
+    "is_artist": true,
+    "birth_date": 1775,
+    "death_date": 1849,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fran\u00e7ois Marius Granet",
+            "Granet, Fran\u00e7ois Marius",
+            "Fran\u00e7ois M. Granet",
+            "Francois-Marius Granet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:18-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

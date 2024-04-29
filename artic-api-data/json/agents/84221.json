@@ -1,0 +1,43 @@
+{
+    "id": 84221,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/84221",
+    "title": "Cixi",
+    "sort_title": "Cixi",
+    "alt_titles": [
+        "Cixi, Empress dowager of China",
+        "Tz`u-hsi, Empress dowager of China",
+        "Zu Xi, Empress dowager of China",
+        "Cixi huang tai hou",
+        "Xiaoqin, Empress dowager of China",
+        "Xiaoqin xian huang hou",
+        "Xi tai hou"
+    ],
+    "is_artist": true,
+    "birth_date": 1835,
+    "death_date": 1908,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cixi",
+            "Cixi",
+            "Cixi, Empress dowager of China",
+            "Tz`u-hsi, Empress dowager of China",
+            "Zu Xi, Empress dowager of China",
+            "Cixi huang tai hou",
+            "Xiaoqin, Empress dowager of China",
+            "Xiaoqin xian huang hou",
+            "Xi tai hou"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-11T10:59:47-05:00",
+    "updated_at": "2022-10-11T11:01:00-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

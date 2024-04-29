@@ -1,0 +1,182 @@
+{
+    "id": 100164,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/100164",
+    "is_boosted": false,
+    "title": "Greene County Court House, Eutaw, Alabama",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHpsY3VvaHlvcH15dpCHd5OPfJWMfJaOfJSReJqQeKGdfIuLhYuPi5ybhJGWj5iWiJeRk5mSkZ6ekKSaiaGgiqujl7CpkbCpl5qfoqqmpK2wpKy2p7K9q7e7vgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGEkU3UUlGJdyLNxjaQtGJN1ziAAERSEADs=",
+        "width": 3000,
+        "height": 2381,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "1983.140",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1974,
+    "date_end": 1976,
+    "date_display": "1974/76",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Stephen Shore\nAmerican, born 1947",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 19.5 \u00d7 24.7 cm (7 11/16 \u00d7 9 3/4 in.); Paper: 27.8 \u00d7 35.5 cm (11 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.7,
+            "width_in": 9.7245,
+            "height_cm": 19.5,
+            "height_in": 7.6772,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.5,
+            "width_in": 13.9764,
+            "height_cm": 27.8,
+            "height_in": 10.9449,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": "Unmarked recto; inscribed verso, lower left, in graphite: \"Greene Co Eutaw AL\"; verso, lower right, in black or brown ink: \"STEPHEN SHORE\"",
+    "credit_line": "Gift of Joseph E. Seagram and Sons, Inc., Seagram County Court House Archives",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.1665,
+    "color": {
+        "h": 346,
+        "l": 51,
+        "s": 47,
+        "percentage": 0.0008865766968634689,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36659,
+    "artist_title": "Stephen Shore",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36659
+    ],
+    "artist_titles": [
+        "Stephen Shore"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-558",
+    "classification_title": "chromogenic color print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-558",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "chromogenic color print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1fee2dc5-041e-087b-b2f7-46d1ded38d18",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.140"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Greene County Court House, Eutaw, Alabama"
+            ],
+            "weight": 75,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:38:38-05:00",
+    "timestamp": "2023-09-24T01:04:37-05:00"
+}

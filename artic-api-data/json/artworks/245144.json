@@ -1,0 +1,165 @@
+{
+    "id": 245144,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/245144",
+    "is_boosted": false,
+    "title": "Photographs from the School of the Art Institute of Chicago",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPQAAM3PydXW0tjZ09nY1NrZ1drb1t3b2N3c2d7d2d7e2t/e2t/f29/f3ODe2+Df3OHh2+Dg3eHg3eHi3eHg3uLh3uLi3uLi3+Pj3+Pi4OTj4OXl4ubm4+fn5AAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAUf4DFBjLJQB8Zt2lUEiMVp2iMAg8xWUtYQjoUioYgYQgA7",
+        "width": 7936,
+        "height": 5006,
+        "alt_text": "A work made of various media, see individual object records."
+    },
+    "main_reference_number": "1975.598-638",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1975,
+    "date_end": 1975,
+    "date_display": "1975",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Various artists",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "Various dimensions, see indovidual object records",
+    "dimensions_detail": [],
+    "medium_display": "Various media, see individual object records",
+    "inscriptions": null,
+    "credit_line": "Gift of the School of the Art Institute of Chicago Students and Faculty",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.8639,
+    "color": {
+        "h": 46,
+        "l": 57,
+        "s": 7,
+        "percentage": 0.001787178335824213,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "black-and-white photography",
+        "photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "be85b813-38da-6d25-1c8c-370b91b12419",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1975.598-638"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Photographs from the School of the Art Institute of Chicago"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:54-05:00",
+    "updated_at": "2023-04-10T15:19:07-05:00",
+    "timestamp": "2023-09-24T01:54:35-05:00"
+}

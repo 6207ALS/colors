@@ -1,0 +1,33 @@
+{
+    "id": 41020,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41020",
+    "title": "George Woodward",
+    "sort_title": "Woodward, George",
+    "alt_titles": [
+        "George Moutard Woodward",
+        "George Murgatroyd Woodward"
+    ],
+    "is_artist": true,
+    "birth_date": 1750,
+    "death_date": 1809,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Woodward",
+            "Woodward, George",
+            "George Moutard Woodward",
+            "George Murgatroyd Woodward"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:59-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

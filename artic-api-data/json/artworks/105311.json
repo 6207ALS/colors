@@ -1,0 +1,172 @@
+{
+    "id": 105311,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/105311",
+    "is_boosted": false,
+    "title": "Ariel Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACxRd09mf1drgnp+hGF/mWN+qn+AgH6BhHyCioSDg42er5GhsK2sqrGvrb7H1crQ2tnb5ubk4+fl4/T09fj4+P37+f38+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDIgh9EEgMBECrFIlVM8FjVBFBUCADs=",
+        "width": 2114,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1986.203",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1960,
+    "date_display": "About 1955",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Edvin \u00d6hrstr\u00f6m\nSwedish, 1906-1994\nMade by Orrefors Glassworks (Glasbruk)\nSm\u00e5land, Sweden, founded 1898",
+    "place_of_origin": "Orrefors",
+    "description": null,
+    "dimensions": "16.5 \u00d7 12.7 cm (6 1/2 \u00d7 5 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.7,
+            "width_in": 5,
+            "height_cm": 16.5,
+            "height_in": 6.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Thomas Alcock gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.7929,
+    "color": {
+        "h": 206,
+        "l": 40,
+        "s": 72,
+        "percentage": 0.036102944968796735,
+        "population": 273
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 32375,
+    "artist_title": "Edvin \u00d6hrstr\u00f6m",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32375
+    ],
+    "artist_titles": [
+        "Edvin \u00d6hrstr\u00f6m"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "vessel",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-27",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "vase",
+        "vessel",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e2d859a3-64d1-aa34-480d-7d47e6d9b073",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.203"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Ariel Vase"
+            ],
+            "weight": 10,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:23:44-05:00",
+    "timestamp": "2023-09-24T01:07:46-05:00"
+}

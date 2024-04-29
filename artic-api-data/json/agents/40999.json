@@ -1,0 +1,31 @@
+{
+    "id": 40999,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40999",
+    "title": "John Inigo Richards",
+    "sort_title": "Richards, John Inigo",
+    "alt_titles": [
+        "John I. Richards"
+    ],
+    "is_artist": true,
+    "birth_date": 1731,
+    "death_date": 1810,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Inigo Richards",
+            "Richards, John Inigo",
+            "John I. Richards"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:59-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

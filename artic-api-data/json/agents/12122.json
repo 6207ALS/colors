@@ -1,0 +1,33 @@
+{
+    "id": 12122,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/12122",
+    "title": "Xiang Shengmo",
+    "sort_title": "Xiang Shengmo",
+    "alt_titles": [
+        "Hsiang Sh\u00eang-mo",
+        "Hiang Cheng-mo"
+    ],
+    "is_artist": true,
+    "birth_date": 1597,
+    "death_date": 1658,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Xiang Shengmo",
+            "Xiang Shengmo",
+            "Hsiang Sh\u00eang-mo",
+            "Hiang Cheng-mo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:30-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

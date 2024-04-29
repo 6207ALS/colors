@@ -1,0 +1,35 @@
+{
+    "id": 110067,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/110067",
+    "title": "Henry of Segusio",
+    "sort_title": "Segusio, Henry of",
+    "alt_titles": [
+        "Hostiensis de Segusio",
+        "Henricus de Segusio",
+        "Hostiensis"
+    ],
+    "is_artist": true,
+    "birth_date": 1200,
+    "death_date": 1271,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henry of Segusio",
+            "Segusio, Henry of",
+            "Hostiensis de Segusio",
+            "Henricus de Segusio",
+            "Hostiensis"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:19:33-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 68851,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/68851",
+    "title": "Chauncey Bradley Ives",
+    "sort_title": "Ives, Chauncey Bradley",
+    "alt_titles": [
+        "Chauncey B. Ives"
+    ],
+    "is_artist": true,
+    "birth_date": 1810,
+    "death_date": 1894,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chauncey Bradley Ives",
+            "Ives, Chauncey Bradley",
+            "Chauncey B. Ives"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:58-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

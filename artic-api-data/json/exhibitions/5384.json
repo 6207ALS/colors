@@ -1,0 +1,38 @@
+{
+    "id": 5384,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5384",
+    "title": "Paintings by Glen Mitchell",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1926-07-15T00:00:00-05:00",
+    "aic_end_at": "1926-09-15T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "4c89c555-93d5-de8b-1422-b3c5649aee6c"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Glen Mitchell"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:19:27-06:00",
+    "timestamp": "2023-09-24T02:01:35-05:00"
+}

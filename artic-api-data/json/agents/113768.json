@@ -1,0 +1,28 @@
+{
+    "id": 113768,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/113768",
+    "title": "Charline von Heyl",
+    "sort_title": "von Heyl, Charline",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1960,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charline von Heyl",
+            "von Heyl, Charline"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-17T11:37:23-06:00",
+    "updated_at": "2022-03-15T16:45:39-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

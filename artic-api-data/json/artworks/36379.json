@@ -1,0 +1,173 @@
+{
+    "id": 36379,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/36379",
+    "is_boosted": false,
+    "title": "Medallion",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACkpKTAwMDg4ODk5OT4+PkBAQEREREhISEpKSkxMTE9PT1NTU1ZWVldXV1hYWFpaWlxcXGFhYWJiYoiIiIyMjJCQkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAFAAUAAAUVoIEkh7AwE0RITeUUykNFQiAcAxACADs=",
+        "width": 2282,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1927.1102",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1825,
+    "date_end": 1835,
+    "date_display": "c. 1830",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Dominik Biemann\nBohemian, 1800-1857",
+    "place_of_origin": "Bohemia",
+    "description": null,
+    "dimensions": "Diam.: 9.7 cm (3 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 9.7,
+            "diameter_in": 3.8125,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Julius and Augusta Rosenwald",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.0819376103623955,
+        "population": 574
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 85967,
+    "artist_title": "Dominik Biemann",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        85967
+    ],
+    "artist_titles": [
+        "Dominik Biemann"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "glass",
+        "inorganic material",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "glass",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2453",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "glass",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "658cf73e-9020-075d-235f-a8eb5a5ead56",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.1102"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Medallion"
+            ],
+            "weight": 14,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-09T09:46:40-05:00",
+    "updated_at": "2023-06-09T09:49:11-05:00",
+    "timestamp": "2023-09-24T00:36:38-05:00"
+}

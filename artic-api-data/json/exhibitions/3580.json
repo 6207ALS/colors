@@ -1,0 +1,39 @@
+{
+    "id": 3580,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3580",
+    "title": "The Nickerson Collection",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1900-02-01T00:00:00-06:00",
+    "aic_end_at": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "dc36450d-e904-8583-fa82-18004fae06a4",
+    "alt_image_ids": [
+        "7bee1bfe-4322-aed9-8411-98928f12c8e4",
+        "f8eb7ce9-f81f-0a36-d187-e01cfa650d97"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Nickerson Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:20-06:00",
+    "timestamp": "2023-09-24T02:01:13-05:00"
+}

@@ -1,0 +1,45 @@
+{
+    "id": 6208,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6208",
+    "title": "German Painting of the 19th Century",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1971-02-27T00:00:00-06:00",
+    "aic_end_at": "1971-03-28T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "893faf78-fc40-e026-4821-5511f7a82a45",
+    "alt_image_ids": [
+        "98f7b721-ac61-16cb-9264-06a1e1b8a3c7",
+        "12c6ab95-71c7-a9c0-9eba-f4a056433228",
+        "522a72ec-e3b3-b6fe-74ea-7dd92b5c1c10",
+        "66994d25-a541-fa35-9011-cdf928e4db5c",
+        "61594d97-c8e9-7514-fef6-18a921455531",
+        "f1d024cc-cc81-bcbf-9cf7-5324ed1fdf82"
+    ],
+    "document_ids": [
+        "f5d0974a-daea-f9e3-a691-9a679ddfb5f1"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "German Painting of the 19th Century"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:18:00-06:00",
+    "timestamp": "2023-09-24T02:01:45-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 40755,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40755",
+    "title": "Sir John Edward Poynter",
+    "sort_title": "Poynter, John Edward, Sir",
+    "alt_titles": [
+        "Sir Edward John Poynter, 1st Baronet",
+        "Edward J. Poynter",
+        "Edward John Poynter",
+        "Edward John Poynter, baronet",
+        "Sir Edward John Poynter, bart."
+    ],
+    "is_artist": true,
+    "birth_date": 1836,
+    "death_date": 1919,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sir John Edward Poynter",
+            "Poynter, John Edward, Sir",
+            "Sir Edward John Poynter, 1st Baronet",
+            "Edward J. Poynter",
+            "Edward John Poynter",
+            "Edward John Poynter, baronet",
+            "Sir Edward John Poynter, bart."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:35:53-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

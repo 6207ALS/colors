@@ -1,0 +1,31 @@
+{
+    "id": 22449,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22449",
+    "title": "Royal Windsor Workshop",
+    "sort_title": "Royal Windsor Workshop",
+    "alt_titles": [
+        "Royal Windsor Manufactory"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Royal Windsor Workshop",
+            "Royal Windsor Workshop",
+            "Royal Windsor Manufactory"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:15-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

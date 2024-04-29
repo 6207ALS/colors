@@ -1,0 +1,168 @@
+{
+    "id": 153681,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/153681",
+    "is_boosted": false,
+    "title": "Flower ballet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJ+eoaGfoaKho6KhpKOjpKWlpqWlp6akpqalpqamp6enqamqq6usraytrgAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMBCBVjksnaaAGREAOw==",
+        "width": 3394,
+        "height": 6327,
+        "alt_text": "A work made of rayon, warp-faced plain weave with creped wefts; screen printed."
+    },
+    "main_reference_number": "1999.577",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1970,
+    "date_display": "1960/70",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Salvador Dali (Spanish, 1904\u20131989)\nManufactured by Wesley Simpson Custom Fabrics Inc. \nProbably United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "224 \u00d7 107 cm (88 1/4 \u00d7 42 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 107,
+            "width_in": 42.125,
+            "height_cm": 224,
+            "height_in": 88.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Rayon, warp-faced plain weave with creped wefts; screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Eunice Schaefer Stinchfield",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Salvador Dal\u00ed, Fundaci\u00f3 Gala-Salvador Dal\u00ed / Artists Rights Society (ARS), New York,\n2018",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.5061,
+    "color": {
+        "h": 50,
+        "l": 50,
+        "s": 88,
+        "percentage": 7.546053564906625e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 34123,
+    "artist_title": "Salvador Dal\u00ed",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34123
+    ],
+    "artist_titles": [
+        "Salvador Dal\u00ed"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "Surrealism",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": "TM-7551",
+    "style_title": "Surrealism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7551"
+    ],
+    "style_titles": [
+        "Surrealism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dd4ca737-b8cc-b6b0-66af-ab0946d28171",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.577"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flower ballet"
+            ],
+            "weight": 116,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-09-23T23:16:30-05:00",
+    "timestamp": "2023-09-24T01:29:12-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 31459,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31459",
+    "title": "Herman Miller Furniture Company",
+    "sort_title": "Herman Miller Furniture Company",
+    "alt_titles": [
+        "Herman Miller Inc.",
+        "Miller (Herman), Inc.",
+        "Herman Miller (Firm)",
+        "Herman Miller",
+        "Herman Miller Furniture Co."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Herman Miller Furniture Company",
+            "Herman Miller Furniture Company",
+            "Herman Miller Inc.",
+            "Miller (Herman), Inc.",
+            "Herman Miller (Firm)",
+            "Herman Miller",
+            "Herman Miller Furniture Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-03-21T15:15:05-05:00",
+    "updated_at": "2022-03-21T15:16:00-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

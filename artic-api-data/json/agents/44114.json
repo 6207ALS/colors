@@ -1,0 +1,31 @@
+{
+    "id": 44114,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44114",
+    "title": "Nicolas Antoine Taunay",
+    "sort_title": "Taunay, Nicolas Antoine",
+    "alt_titles": [
+        "Nicolas A. Taunay"
+    ],
+    "is_artist": true,
+    "birth_date": 1755,
+    "death_date": 1830,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolas Antoine Taunay",
+            "Taunay, Nicolas Antoine",
+            "Nicolas A. Taunay"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:03-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

@@ -1,0 +1,195 @@
+{
+    "id": 38860,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/38860",
+    "is_boosted": false,
+    "title": "Side Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJxzXKlzTbGIb6eMfaWTi66ckb+giraonsWxpcW4r8K8u8vIx8bHycnHyMXL0AAAACH5BAAAAAAALAAAAAADAAUAAAQLMCFmhBvhEFCWahEAOw==",
+        "width": 1346,
+        "height": 2250,
+        "alt_text": "A work made of oak."
+    },
+    "main_reference_number": "1972.305",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1908,
+    "date_end": 1908,
+    "date_display": "designed 1908",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Designed by Frank Lloyd Wright\nAmerican, 1867\u20131959\nNiedecken Walbridge Co.\nAmerican, early 20th cen.\nMilwaukee",
+    "place_of_origin": "Milwaukee",
+    "description": null,
+    "dimensions": "94.3 \u00d7 36.2 \u00d7 36.8 cm (37 1/8 \u00d7 14 1/4 \u00d7 14 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 36.8,
+            "depth_in": 14.5,
+            "width_cm": 36.2,
+            "width_in": 14.25,
+            "height_cm": 94.3,
+            "height_in": 37.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oak",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Graham Foundation for Advanced Studies in the Fine Arts",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Frank Lloyd Wright Foundation / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 52.4006,
+    "color": {
+        "h": 0,
+        "l": 40,
+        "s": 9,
+        "percentage": 0.001347042862061969,
+        "population": 16
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 37362,
+    "artist_title": "Frank Lloyd Wright",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37362
+    ],
+    "artist_titles": [
+        "Frank Lloyd Wright"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-3"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "seating",
+        "oak",
+        "furniture",
+        "Arts and Crafts Movement",
+        "furniture",
+        "american decorative arts",
+        "american arts",
+        "American Arts and Crafts Movement"
+    ],
+    "style_id": "TM-7569",
+    "style_title": "Arts and Crafts Movement",
+    "alt_style_ids": [
+        "TM-14958"
+    ],
+    "style_ids": [
+        "TM-7569",
+        "TM-14958"
+    ],
+    "style_titles": [
+        "Arts and Crafts Movement",
+        "American Arts and Crafts Movement"
+    ],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3587",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3587"
+    ],
+    "material_titles": [
+        "oak"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "ba0c3f23-d6a7-6607-a187-4d80a92a0f0d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.305"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Side Chair"
+            ],
+            "weight": 234,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-08T15:51:30-06:00",
+    "updated_at": "2023-09-23T23:21:37-05:00",
+    "timestamp": "2023-09-24T00:37:23-05:00"
+}

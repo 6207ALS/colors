@@ -1,0 +1,28 @@
+{
+    "id": 36037,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36037",
+    "title": "Kenneth Noland",
+    "sort_title": "Noland, Kenneth Clifton",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1924,
+    "death_date": 2010,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kenneth Noland",
+            "Noland, Kenneth Clifton"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-03-04T17:23:38-06:00",
+    "updated_at": "2022-03-15T16:38:53-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

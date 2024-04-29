@@ -1,0 +1,42 @@
+{
+    "id": 5695,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5695",
+    "title": "Paintings by Aaron Bohrod, Francis Chapin, Julio de Diego, J. Jeffrey Grant, Carl Hoeckner, Harriet and Walter Krawiec",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1935-07-25T00:00:00-05:00",
+    "aic_end_at": "1935-10-13T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "3b19c220-27cf-e0e3-7a8e-8bdb5430c225",
+        "2359cbf1-fd77-e6f2-a029-c79d7f3099ad",
+        "f803b050-b431-45d4-bf4d-7c5776b3f8de",
+        "6ee675a2-c409-c53c-cb1b-c39b68ade9f5",
+        "1ccb6f25-d0f3-aa39-714a-429031ece8e5"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Aaron Bohrod, Francis Chapin, Julio de Diego, J. Jeffrey Grant, Carl Hoeckner, Harriet and Walter Krawiec"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:18:57-06:00",
+    "timestamp": "2023-09-24T02:01:38-05:00"
+}

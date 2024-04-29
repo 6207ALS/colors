@@ -1,0 +1,191 @@
+{
+    "id": 254216,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/254216",
+    "is_boosted": false,
+    "title": "Photogram",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEdAM0xHOk5HPF5URl9VR29mV3RrW3ZqWnpvX3pwXn9zZIN0Y4h5aIl6aY1/b4+Ab5KDcpKEcaGRfqqdhgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURINNE0pBMyGEEACQUxKI4TwgAOw==",
+        "width": 1984,
+        "height": 2475,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "2020.470",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1940,
+    "date_end": 1949,
+    "date_display": "c. 1940s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sumner Fineberg\nAmerican, born 1922",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "25.4 \u00d7 20.3 cm (10 \u00d7 8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.3,
+            "width_in": 8,
+            "height_cm": 25.4,
+            "height_in": 10,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Gift of Bauhaus Chicago Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 76,
+        "s": 26,
+        "percentage": 0.00018328445747800584,
+        "population": 9
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 116686,
+    "artist_title": "Sumner Fineberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        116686
+    ],
+    "artist_titles": [
+        "Sumner Fineberg"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "bauhaus",
+        "modernist",
+        "photogram",
+        "gelatin silver print",
+        "education",
+        "20th Century",
+        "Chicago",
+        "institute of Design"
+    ],
+    "style_id": "TM-7634",
+    "style_title": "bauhaus",
+    "alt_style_ids": [
+        "TM-13130"
+    ],
+    "style_ids": [
+        "TM-7634",
+        "TM-13130"
+    ],
+    "style_titles": [
+        "bauhaus",
+        "20th Century"
+    ],
+    "classification_id": "TM-13871",
+    "classification_title": "photogram",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13871"
+    ],
+    "classification_titles": [
+        "photogram"
+    ],
+    "subject_id": "TM-14536",
+    "alt_subject_ids": [
+        "TM-14535",
+        "TM-12075",
+        "TM-13268"
+    ],
+    "subject_ids": [
+        "TM-14536",
+        "TM-14535",
+        "TM-12075",
+        "TM-13268"
+    ],
+    "subject_titles": [
+        "modernist",
+        "education",
+        "Chicago",
+        "institute of Design"
+    ],
+    "material_id": "TM-13866",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-13866"
+    ],
+    "material_titles": [
+        "gelatin silver print"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1926196c-b21f-ba59-dfa8-6630326336ba",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.470"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Photogram"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:37-05:00",
+    "updated_at": "2023-04-07T14:43:32-05:00",
+    "timestamp": "2023-09-24T01:56:47-05:00"
+}

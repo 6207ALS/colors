@@ -1,0 +1,160 @@
+{
+    "id": 59993,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59993",
+    "is_boosted": false,
+    "title": "The Stag and the Chamois",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGpmXHFsYnZyZndzZ3x4a315bX96cIeCc4eDd42Je5CMfpWRgqCcjaSgkbKuocG/s8K/tMO/t8TCtcTBt8TCtsfFucjEuMjFucnGusrGu8rHvcvIvc3Jvs7Kv87LwNHMwdHNwtXRx9jWywAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwE9IdJFYOhqDg3FIgCKBxoIw8EwABYECseFAHpQKJhMEADs=",
+        "width": 3000,
+        "height": 2098,
+        "alt_text": "A work made of lithograph in black on paper."
+    },
+    "main_reference_number": "1947.125",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1794,
+    "date_end": 1829,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Maximilian Josef Wagenbauer\nGerman, 1774-1829",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Lithograph in black on paper",
+    "inscriptions": null,
+    "credit_line": "Hannan Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.4106,
+    "color": {
+        "h": 44,
+        "l": 46,
+        "s": 12,
+        "percentage": 0.03719564911434144,
+        "population": 185
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 27785,
+    "artist_title": "Maximilian Josef Wagenbauer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        27785
+    ],
+    "artist_titles": [
+        "Maximilian Josef Wagenbauer"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8b6e6ee9-5a47-4125-b86e-2bea2efa7b93",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1947.125"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Stag and the Chamois"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:04-05:00",
+    "updated_at": "2023-04-10T15:25:52-05:00",
+    "timestamp": "2023-09-24T00:46:14-05:00"
+}

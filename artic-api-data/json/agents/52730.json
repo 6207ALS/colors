@@ -1,0 +1,37 @@
+{
+    "id": 52730,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52730",
+    "title": "Jan Collaert, II",
+    "sort_title": "Collaert, Jan, II",
+    "alt_titles": [
+        "Jan-Baptiste Collaert, II",
+        "Hans Collaert, II",
+        "Hans Collaert, II, (Jan Baptist)",
+        "Jan Collaert, II, (Jan Baptist)"
+    ],
+    "is_artist": true,
+    "birth_date": 1561,
+    "death_date": 1620,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Collaert, II",
+            "Collaert, Jan, II",
+            "Jan-Baptiste Collaert, II",
+            "Hans Collaert, II",
+            "Hans Collaert, II, (Jan Baptist)",
+            "Jan Collaert, II, (Jan Baptist)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-09-20T16:16:45-05:00",
+    "updated_at": "2023-09-20T16:20:51-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

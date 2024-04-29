@@ -1,0 +1,188 @@
+{
+    "id": 51797,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/51797",
+    "is_boosted": false,
+    "title": "The Drying After",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACAiJSQlKCMoKjMpJzcxKScrMSosNCsuNjkuMzo3M0QtMls/NWEwKV1DNFZBPV1APGRCMW1HPTs6RV1GSHJJSGlaSXFRRXNTRXphUIFOM4tqSoFtX5BtYLB3ZwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIHZtFZE8ixZBWUN1E+cUiCJZTAAIhzGEADs=",
+        "width": 8603,
+        "height": 6982,
+        "alt_text": "A work made of oil on wood panel."
+    },
+    "main_reference_number": "1976.521",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1961,
+    "date_end": 1961,
+    "date_display": "1961",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bob Thompson\nAmerican, 1937\u20131966",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "54 \u00d7 63.5 cm (21 1/4 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 54,
+            "height_in": 21.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on wood panel",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Joseph R. Shapiro",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1977,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.5602,
+    "color": {
+        "h": 40,
+        "l": 49,
+        "s": 79,
+        "percentage": 0.0067636469584399905,
+        "population": 39
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 26040,
+    "artist_title": "Bob Thompson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        26040
+    ],
+    "artist_titles": [
+        "Bob Thompson"
+    ],
+    "category_ids": [
+        "PC-142",
+        "PC-830",
+        "PC-8"
+    ],
+    "category_titles": [
+        "African American artists",
+        "African Diaspora",
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "women",
+        "modern and contemporary art",
+        "trees",
+        "nudes",
+        "abstract figures"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-8735",
+    "alt_subject_ids": [
+        "TM-11205",
+        "TM-8649",
+        "TM-12688"
+    ],
+    "subject_ids": [
+        "TM-8735",
+        "TM-11205",
+        "TM-8649",
+        "TM-12688"
+    ],
+    "subject_titles": [
+        "women",
+        "trees",
+        "nudes",
+        "abstract figures"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "African American artists",
+        "African Diaspora"
+    ],
+    "image_id": "921038c5-e638-c607-07ed-3b0ebcc4cf90",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.521"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Drying After"
+            ],
+            "weight": 594,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-25T11:42:52-06:00",
+    "updated_at": "2023-04-07T12:38:14-05:00",
+    "timestamp": "2023-09-24T00:43:25-05:00"
+}

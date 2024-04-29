@@ -1,0 +1,172 @@
+{
+    "id": 131351,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/131351",
+    "is_boosted": false,
+    "title": "Book Illustration",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGxoUXt2Xn14YIaAZYaAZ4eCZoiBZomDaIuGaqCYfKqjia+ojbOskLuzlbiymLy0mcK6m8vDpc3DpNHGptzSst7Utd/XuN3WuuTavAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4AUxjRUVCKA4AhEsj3EMCUZV0hQCADs=",
+        "width": 2941,
+        "height": 3000,
+        "alt_text": "A work made of wood engraving on paper."
+    },
+    "main_reference_number": "1980.1094q",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1773,
+    "date_end": 1828,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Thomas Bewick\nEnglish, 1753-1828",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "4.9 \u00d7 5 cm (1 15/16 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5,
+            "width_in": 1.9686,
+            "height_cm": 4.9,
+            "height_in": 1.9292,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wood engraving on paper",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.037,
+    "color": {
+        "h": 49,
+        "l": 69,
+        "s": 41,
+        "percentage": 0.003862175508289883,
+        "population": 28
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33631,
+    "artist_title": "Thomas Bewick",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33631
+    ],
+    "artist_titles": [
+        "Thomas Bewick"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "wood engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-259",
+    "classification_title": "wood engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-259",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "wood engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "18b74cd8-d488-2151-c5d8-cb0204e84315",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.1094q"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Book Illustration"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T10:24:56-05:00",
+    "timestamp": "2023-09-24T01:19:28-05:00"
+}

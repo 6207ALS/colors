@@ -1,0 +1,177 @@
+{
+    "id": 14032,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/14032",
+    "is_boosted": false,
+    "title": "Cape",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAAoKCg8PDxMTExcXFx4eHiYmJiwsLDAwMDMzMzU1NTY2Njs7Ozw8PERERFlZWVtbW2JiYnFxcXNzc3Z2dn19fYmJiYqKipmZmaCgoKKioqSkpKWlpaampsTExM7OzuDg4Pb29vz8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAHAAUAAAYhwA6Gc6lIMptI44BQPCyOwoAwSEwYAkBgAfl4KAYNKBQEADs=",
+        "width": 3000,
+        "height": 2054,
+        "alt_text": "A work made of silk, warp frame machine lace edged with straight down machine lace imitation of \"bayeux\" bobbin lace."
+    },
+    "main_reference_number": "1933.29",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1855,
+    "date_end": 1865,
+    "date_display": "1855/65",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Probably England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "105.3 \u00d7 153 cm (41 1/2 \u00d7 60 1/4 in.); Shirred bottom panel: W.: 44.6 cm (17 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 153,
+            "width_in": 60.25,
+            "height_cm": 105.3,
+            "height_in": 41.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 44.6,
+            "width_in": 17.5,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Shirred bottom panel"
+        }
+    ],
+    "medium_display": "Silk, Warp frame machine lace edged with straight down machine lace imitation of \"Bayeux\" bobbin lace",
+    "inscriptions": null,
+    "credit_line": "Gift of Rt. Rev. George Craig Stewart",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1934,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.04851863958668698,
+        "population": 236
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - machine",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-993"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-993"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - machine"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c6038fd1-bd7e-d496-a324-23edcec603ac",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.29"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cape"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:41:44-05:00",
+    "timestamp": "2023-09-24T00:26:08-05:00"
+}

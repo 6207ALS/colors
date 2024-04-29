@@ -1,0 +1,182 @@
+{
+    "id": 100245,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/100245",
+    "is_boosted": false,
+    "title": "Busby Building, 128 West Lake Street, Chicago, Illinois: Window Keystone",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABYWFhgYGC0tLS8vLzY2NkNDQ0RERE5OTk9PT1RUVFpaWmtra2xsbHBwcHFxcXV1dX5+foCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURIEAQgQBFg8E0BZIoh7MsTwgAOw==",
+        "width": 1799,
+        "height": 2250,
+        "alt_text": "A work made of limestone."
+    },
+    "main_reference_number": "1983.258",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1867,
+    "date_end": 1877,
+    "date_display": "c. 1872",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Unknown architect\nChicago, Illinois",
+    "place_of_origin": "Lake Street, 128 West",
+    "description": null,
+    "dimensions": "64 \u00d7 36 \u00d7 14 cm (25 1/4 \u00d7 14 3/16 \u00d7 5 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 14,
+            "depth_in": 5.5119,
+            "width_cm": 36,
+            "width_in": 14.1733,
+            "height_cm": 64,
+            "height_in": 25.1969,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Limestone",
+    "inscriptions": null,
+    "credit_line": "Department of Architecture Purchase Account",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 52,
+        "s": 0,
+        "percentage": 0.11727340459774772,
+        "population": 1042
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "limestone",
+        "Chicago",
+        "carbonate rock",
+        "sedimentary rock",
+        "rock",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-2444",
+    "alt_material_ids": [
+        "TM-2828",
+        "TM-2820",
+        "TM-2796"
+    ],
+    "material_ids": [
+        "TM-2444",
+        "TM-2828",
+        "TM-2820",
+        "TM-2796"
+    ],
+    "material_titles": [
+        "limestone",
+        "carbonate rock",
+        "sedimentary rock",
+        "rock"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "abc7861c-fac1-71ff-b95d-f5723bd5eacf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.258"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Busby Building, 128 West Lake Street, Chicago, Illinois: Window Keystone"
+            ],
+            "weight": 214,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-26T15:53:47-05:00",
+    "updated_at": "2023-05-26T15:57:43-05:00",
+    "timestamp": "2023-09-24T01:04:40-05:00"
+}

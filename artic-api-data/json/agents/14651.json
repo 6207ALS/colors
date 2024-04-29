@@ -1,0 +1,35 @@
+{
+    "id": 14651,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14651",
+    "title": "Maxime Lalanne",
+    "sort_title": "Lalanne, Maxime",
+    "alt_titles": [
+        "Maxime Fran\u00e7ois Antoine Lalanne",
+        "Maxime Fran\u00e7ois Antoine Lahanne",
+        "Maxime-Fran\u00e7ois-Antoine Lalanne"
+    ],
+    "is_artist": true,
+    "birth_date": 1827,
+    "death_date": 1886,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maxime Lalanne",
+            "Lalanne, Maxime",
+            "Maxime Fran\u00e7ois Antoine Lalanne",
+            "Maxime Fran\u00e7ois Antoine Lahanne",
+            "Maxime-Fran\u00e7ois-Antoine Lalanne"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T15:13:03-05:00",
+    "updated_at": "2022-03-15T16:49:55-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

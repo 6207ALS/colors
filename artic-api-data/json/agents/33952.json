@@ -1,0 +1,33 @@
+{
+    "id": 33952,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33952",
+    "title": "Jiang Eshi",
+    "sort_title": "Jiang Eshi",
+    "alt_titles": [
+        "Chiang Er-shih",
+        "Kiang Eul-che"
+    ],
+    "is_artist": true,
+    "birth_date": 1910,
+    "death_date": 1972,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jiang Eshi",
+            "Jiang Eshi",
+            "Chiang Er-shih",
+            "Kiang Eul-che"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-25T11:01:57-05:00",
+    "updated_at": "2023-07-25T11:05:58-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

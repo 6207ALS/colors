@@ -1,0 +1,167 @@
+{
+    "id": 16417,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16417",
+    "is_boosted": false,
+    "title": "The Flageolet Player",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAB4ZFRwYFh0ZFh4aFh8aFyAbFiMcFyQdFyQeGSYgGSkhGSoiGiwkGiwmHS4mHSwoIDIrITQtI0E4KwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoEAkToAozQJJUTE8CHAwRggAOw==",
+        "width": 3873,
+        "height": 5240,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1933.1095",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1635,
+    "date_end": 1640,
+    "date_display": "1635/40",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "David Teniers the Younger\nFlemish, 1610-1690",
+    "place_of_origin": "Flanders",
+    "description": null,
+    "dimensions": "22.3 \u00d7 15.8 cm (8 3/4 \u00d7 6 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.8,
+            "width_in": 6.25,
+            "height_cm": 22.3,
+            "height_in": 8.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.3382,
+    "color": {
+        "h": 62,
+        "l": 44,
+        "s": 6,
+        "percentage": 0.0035348069319643236,
+        "population": 34
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 41190,
+    "artist_title": "David Teniers, the younger",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41190
+    ],
+    "artist_titles": [
+        "David Teniers, the younger"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-80",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "aabaac7c-d41a-f31d-7411-77f5f3fea322",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1095"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Flageolet Player"
+            ],
+            "weight": 395,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:25:00-05:00",
+    "timestamp": "2023-09-24T00:27:05-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 179636,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/179636",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAGVRSWVSS2lUTGpXTmtXUGxZUXNjW3NkXXVkXnVlXgAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI0BwQChkCpQgAOw==",
+        "width": 2236,
+        "height": 6412,
+        "alt_text": "A work made of cotton, twill weave; printed; one panel pieced and edged with matching tape on all sides."
+    },
+    "main_reference_number": "1980.682b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1929,
+    "date_display": "1920s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Mariano Fortuny y Madrazo (Italian, born Spain, 1871\u20131949)\nPrinted by Societ\u00e0 Anonima Fortuny\nItaly, Venice",
+    "place_of_origin": "Venice",
+    "description": null,
+    "dimensions": "231.2 \u00d7 66 cm (91 \u00d7 26 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 66,
+            "width_in": 26,
+            "height_cm": 231.2,
+            "height_in": 91,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, twill weave; printed; one panel pieced and edged with matching tape on all sides",
+    "inscriptions": null,
+    "credit_line": "Gift of an anonymous donor",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.5494,
+    "color": {
+        "h": 39,
+        "l": 50,
+        "s": 11,
+        "percentage": 0.002503029401761249,
+        "population": 51
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 51708,
+    "artist_title": "Mariano Fortuny y Madrazo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51708
+    ],
+    "artist_titles": [
+        "Mariano Fortuny y Madrazo"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "twill weaving",
+        "cotton (textile)",
+        "Modernism",
+        "textile",
+        "weaving - printed",
+        "turkish"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [
+        "TM-5552"
+    ],
+    "style_ids": [
+        "TM-5981",
+        "TM-5552"
+    ],
+    "style_titles": [
+        "Modernism",
+        "turkish"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2578",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2578"
+    ],
+    "material_titles": [
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-10498",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10498"
+    ],
+    "technique_titles": [
+        "twill weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "e13c5530-d252-48a8-a70a-29213510e592",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.682b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:01:34-05:00",
+    "timestamp": "2023-09-24T01:32:52-05:00"
+}

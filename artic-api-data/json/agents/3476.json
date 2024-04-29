@@ -1,0 +1,39 @@
+{
+    "id": 3476,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3476",
+    "title": "Bartholomaeus Bruyn, the younger",
+    "sort_title": "Bruyn, Bartholomaeus, the younger",
+    "alt_titles": [
+        "Bartholomaeus Bruyn, II",
+        "Bartholomaeus Bruin, the younger",
+        "Bartel Bruyn, the younger",
+        "Barthel Bruyn, the younger",
+        "Bartholom\u00e4us Bruyn, (the Younger)"
+    ],
+    "is_artist": true,
+    "birth_date": 1525,
+    "death_date": 1610,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bartholomaeus Bruyn, the younger",
+            "Bruyn, Bartholomaeus, the younger",
+            "Bartholomaeus Bruyn, II",
+            "Bartholomaeus Bruin, the younger",
+            "Bartel Bruyn, the younger",
+            "Barthel Bruyn, the younger",
+            "Bartholom\u00e4us Bruyn, (the Younger)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:37-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

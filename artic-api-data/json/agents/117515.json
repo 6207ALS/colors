@@ -1,0 +1,28 @@
+{
+    "id": 117515,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/117515",
+    "title": "Richard Parkin",
+    "sort_title": "Parkin, Richard",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Richard Parkin",
+            "Parkin, Richard"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-12-02T14:42:08-06:00",
+    "updated_at": "2021-12-02T14:45:51-06:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

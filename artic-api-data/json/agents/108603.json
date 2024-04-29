@@ -1,0 +1,28 @@
+{
+    "id": 108603,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/108603",
+    "title": "Albert Watson",
+    "sort_title": "Watson, Albert",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1942,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albert Watson",
+            "Watson, Albert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T11:07:17-05:00",
+    "updated_at": "2022-03-15T16:44:23-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

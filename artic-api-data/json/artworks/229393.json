@@ -1,0 +1,172 @@
+{
+    "id": 229393,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/229393",
+    "is_boosted": true,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD4uK1MvI1k+OlhANWRCOmdIQmlKRnRPT21lVWllWmlgXnhgW3JlZXZxaIBmWJd8c6CFbZWdl7WTgKywrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PQ4EnM0kAEMiBAUyUIoUQgAOw==",
+        "width": 5467,
+        "height": 6765,
+        "alt_text": "Abstract painting of several various-colored and overlapping rings and circles, looser brushstrokes drape across the circles like winding thread."
+    },
+    "main_reference_number": "2015.176",
+    "has_not_been_viewed_much": false,
+    "boost_rank": 10,
+    "date_start": 1964,
+    "date_end": 1964,
+    "date_display": "1964",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tanaka Atsuko\nJapanese, 1932-2005",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "90.5 \u00d7 72.5 cm (35 5/8 \u00d7 28 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 72.5,
+            "width_in": 28.5,
+            "height_cm": 90.5,
+            "height_in": 35.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Enamel on canvas",
+    "inscriptions": null,
+    "credit_line": "Through prior purchase from the Mary and Leigh Block Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 65.9821,
+    "color": {
+        "h": 10,
+        "l": 43,
+        "s": 90,
+        "percentage": 0.06039244855552863,
+        "population": 531
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 58851,
+    "artist_title": "Tanaka Atsuko",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        58851
+    ],
+    "artist_titles": [
+        "Tanaka Atsuko"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+    ],
+    "term_titles": [
+        "Gutai group",
+        "painting"
+    ],
+    "style_id": "TM-13467",
+    "style_title": "Gutai group",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13467"
+    ],
+    "style_titles": [
+        "Gutai group"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "7690dd6e-05ed-773c-a80e-e7cc4eb879cc",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [
+        7346
+    ],
+    "section_titles": [
+        "125\u00a0 Tanaka Atsuko, Untitled, 1964"
+    ],
+    "site_ids": [],
+    "suggest_autocomplete_boosted": "Untitled",
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.176"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 16843,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-09-23T23:24:31-05:00",
+    "timestamp": "2023-09-24T01:48:50-05:00"
+}

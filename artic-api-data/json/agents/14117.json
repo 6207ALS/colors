@@ -1,0 +1,28 @@
+{
+    "id": 14117,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14117",
+    "title": "Les Klug",
+    "sort_title": "Klug, Les",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1930,
+    "death_date": 1988,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Les Klug",
+            "Klug, Les"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:15:07-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

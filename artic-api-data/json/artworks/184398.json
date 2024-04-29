@@ -1,0 +1,168 @@
+{
+    "id": 184398,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/184398",
+    "is_boosted": false,
+    "title": "Chicago, IL",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEU7NWdgXmhiYoR5do6AdIeAf3l5g5KKg6aXj6OVkquekaKYmK+hk66hnrGgl7GimaWfpLelobitqLevsLuzsby6vr+9v8G9vcfCvcvFv8G9wMC/w8PBw8vGxsjJzdTPytXPzs7O0NHQ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIdEBOp4NgfFZ1AIXQiMDCBAWSAaGEFiAok4NAaOpRIEADs=",
+        "width": 3000,
+        "height": 2280,
+        "alt_text": "A work made of inkjet print."
+    },
+    "main_reference_number": "2005.36",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2003,
+    "date_end": 2003,
+    "date_display": "2003",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Brian Ulrich\nAmerican, born 1971",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "76.3 \u00d7 101.6 cm (30 1/16 \u00d7 40 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 101.6,
+            "width_in": 40,
+            "height_cm": 76.3,
+            "height_in": 30.0394,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Inkjet print",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.1069,
+    "color": {
+        "h": 5,
+        "l": 61,
+        "s": 56,
+        "percentage": 0.010178343076783569,
+        "population": 55
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 102576,
+    "artist_title": "Brian Ulrich",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        102576
+    ],
+    "artist_titles": [
+        "Brian Ulrich"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "21st Century",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ee72a18f-7600-792d-0af8-3251114596c0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2005.36"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Chicago, IL"
+            ],
+            "weight": 41,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:13:07-05:00",
+    "timestamp": "2023-09-24T01:34:33-05:00"
+}

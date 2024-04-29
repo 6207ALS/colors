@@ -1,0 +1,28 @@
+{
+    "id": 52189,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52189",
+    "title": "Chang Tang",
+    "sort_title": "Tang, Chang",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1954,
+    "death_date": 1987,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chang Tang",
+            "Tang, Chang"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-08-07T13:46:12-05:00",
+    "updated_at": "2019-08-07T13:51:10-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

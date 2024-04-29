@@ -1,0 +1,181 @@
+{
+    "id": 54822,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/54822",
+    "is_boosted": false,
+    "title": "Paperweight",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHdkPpt+YWyHT4WXZ4uUYaeuiqe2lKizmbu4ndTSyubo5O3s6+/u6/bx8fb19Pj09Pj39/j49vn3+Pv3+Pn5+fr5+v/8//79/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYOUoVGUZwrE8AQEkEzIUDXQxkRQCADs=",
+        "width": 2481,
+        "height": 2481,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1978.1233",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Saint-Louis Glassworks (Cristalleries de Saint-Louis)\nLorraine, France, founded 1586",
+    "place_of_origin": "Saint-Louis",
+    "description": null,
+    "dimensions": "Diam.: 7.7 cm (3 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 7.7,
+            "diameter_in": 3.0625,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Arthur Rubloff",
+    "catalogue_display": "<p>Unknown 111.</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1979,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.9846,
+    "color": {
+        "h": 48,
+        "l": 49,
+        "s": 77,
+        "percentage": 0.003517911092536541,
+        "population": 25
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 43087,
+    "artist_title": "Compagnie de Saint Louis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43087
+    ],
+    "artist_titles": [
+        "Compagnie de Saint Louis"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "lampworking",
+        "glass",
+        "paperweight",
+        "lampwork",
+        "european decorative arts",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-858",
+    "classification_title": "paperweight",
+    "alt_classification_ids": [
+        "TM-287",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-858",
+        "TM-287",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "paperweight",
+        "lampwork",
+        "european decorative arts",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": "TM-4141",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4141"
+    ],
+    "technique_titles": [
+        "lampworking"
+    ],
+    "theme_titles": [],
+    "image_id": "d5778a10-6a84-b5ab-3e49-e4987327eff3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.1233"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Paperweight"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:51:59-05:00",
+    "timestamp": "2023-09-24T00:44:29-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 23069,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/23069",
+    "is_boosted": false,
+    "title": "Grotesque Dance",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAHlzXaqlkKumk7OumcbBrNPOuNXPu9zXw+jiy+rizerkzevlz+3nz+7m0e7n0u3o0e7o0e/o0u/p1PDq0vDr2PLr2PHt2PLt2fPu2PPs2vPu2vTt2/Pv3Pfx3vfz3/z24yH5BAAAAAAALAAAAAAHAAUAAAUdoOQsUOQ0GoUVRldxXgAI33ZZxHBs2YMwE0XCEQIAOw==",
+        "width": 3000,
+        "height": 2274,
+        "alt_text": "A work made of lithograph on ivory wove paper."
+    },
+    "main_reference_number": "1936.333:dup1",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1906,
+    "date_end": 1907,
+    "date_display": "1906/07",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Max Slevogt\nGerman, 1868-1932",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Image: 13 \u00d7 15 cm (5 1/8 \u00d7 5 15/16 in.); Sheet: 30 \u00d7 40.5 cm (11 13/16 \u00d7 16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15,
+            "width_in": 5.9056,
+            "height_cm": 13,
+            "height_in": 5.1182,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40.5,
+            "width_in": 15.9449,
+            "height_cm": 30,
+            "height_in": 11.8111,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Steuben Memorial Fund",
+    "catalogue_display": "<p>Sievers & Waldmann 16</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.3165,
+    "color": {
+        "h": 48,
+        "l": 45,
+        "s": 19,
+        "percentage": 0.00482664008301821,
+        "population": 26
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 24253,
+    "artist_title": "Max Slevogt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        24253
+    ],
+    "artist_titles": [
+        "Max Slevogt"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0a2b95eb-7aab-be32-7f5f-2f1cb88e1abb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1936.333:dup1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Grotesque Dance"
+            ],
+            "weight": 1250,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:20:39-05:00",
+    "timestamp": "2023-09-24T00:30:14-05:00"
+}

@@ -1,0 +1,168 @@
+{
+    "id": 131446,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/131446",
+    "is_boosted": false,
+    "title": "The Software Chart",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAABsKBSEPBiEPByAPCCMQCSUTCSgUCi0WCU8qClcxDlgwDVoxDVsxDV0xDFwzDl82DnQ1CHc7Dno7DXw7DHo8DXs8DX09DX49DmI8F3g+E2tJJH1RIYZPGYRMH4NTHotVHoROI4lPIYJTIYRTIIVTIIVUIoVQJIZQJIZQJYhVIYtYIpBaI5BYKolgL5dmMJhpM5xtPQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuQFam0wGdTKgQDAMgDASHgiGg2SAYikXi4Wi0OJCJxBKpUC4r10eVKpFGIs8rCAA7",
+        "width": 3000,
+        "height": 1540,
+        "alt_text": "A work made of color sreenprint on astrofoil."
+    },
+    "main_reference_number": "1994.268",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1968,
+    "date_end": 1968,
+    "date_display": "1968",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Joe Tilson\nEnglish, born 1928",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "63.5 \u00d7 125.7 cm (25 \u00d7 49 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 125.7,
+            "width_in": 49.4882,
+            "height_cm": 63.5,
+            "height_in": 25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color sreenprint on astrofoil",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Albert Haas",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1995,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 65.7525,
+    "color": {
+        "h": 40,
+        "l": 69,
+        "s": 89,
+        "percentage": 0.006027083521679693,
+        "population": 22
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36980,
+    "artist_title": "Joe Tilson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36980
+    ],
+    "artist_titles": [
+        "Joe Tilson"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "print",
+        "screen printing",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "48c10cc5-b699-07dc-1f4b-1565f8f6d3bf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1994.268"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Software Chart"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T10:24:38-05:00",
+    "timestamp": "2023-09-24T01:19:31-05:00"
+}

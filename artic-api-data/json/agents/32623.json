@@ -1,0 +1,33 @@
+{
+    "id": 32623,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32623",
+    "title": "Albert Roelofs",
+    "sort_title": "Roelofs, Albert",
+    "alt_titles": [
+        "Otto Willem Albertus Roelofs",
+        "Otto Willem Albertus (Albert) Roelofs"
+    ],
+    "is_artist": true,
+    "birth_date": 1877,
+    "death_date": 1920,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albert Roelofs",
+            "Roelofs, Albert",
+            "Otto Willem Albertus Roelofs",
+            "Otto Willem Albertus (Albert) Roelofs"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:52:24-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

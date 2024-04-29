@@ -1,0 +1,45 @@
+{
+    "id": 41885,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41885",
+    "title": "Marcus Gheeraerts, I",
+    "sort_title": "Gheeraerts, Marcus, I",
+    "alt_titles": [
+        "Marcus Geeraerdts, the elder",
+        "Marcus Geeraerts, I",
+        "Marcus Gerards, (the Elder)",
+        "Marcus Gheeraerts, the elder",
+        "Marcus Geerards, the elder",
+        "Marcus Gerard, the elder",
+        "Marcus Garret, the elder",
+        "Marcus Geeraerts, the elder"
+    ],
+    "is_artist": true,
+    "birth_date": 1520,
+    "death_date": 1590,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Marcus Gheeraerts, I",
+            "Gheeraerts, Marcus, I",
+            "Marcus Geeraerdts, the elder",
+            "Marcus Geeraerts, I",
+            "Marcus Gerards, (the Elder)",
+            "Marcus Gheeraerts, the elder",
+            "Marcus Geerards, the elder",
+            "Marcus Gerard, the elder",
+            "Marcus Garret, the elder",
+            "Marcus Geeraerts, the elder"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-09-20T16:16:45-05:00",
+    "updated_at": "2023-09-20T16:20:52-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

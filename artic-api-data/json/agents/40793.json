@@ -1,0 +1,33 @@
+{
+    "id": 40793,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40793",
+    "title": "Augustin de Saint-Aubin",
+    "sort_title": "Saint-Aubin, Augustin de",
+    "alt_titles": [
+        "August de Saint Aubin",
+        "Augustin Saint-Aubin"
+    ],
+    "is_artist": true,
+    "birth_date": 1736,
+    "death_date": 1807,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Augustin de Saint-Aubin",
+            "Saint-Aubin, Augustin de",
+            "August de Saint Aubin",
+            "Augustin Saint-Aubin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:11-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

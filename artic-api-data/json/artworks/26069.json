@@ -1,0 +1,170 @@
+{
+    "id": 26069,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/26069",
+    "is_boosted": false,
+    "title": "Collar",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPQAAAAAAAEBAQICAQQEBAcHBg0ODQ8PDxAQEBQVFB4gHi0uLDEyMDY3NTY5Nj0+PENGQkVJRUdKRldZVlZaVlteWnN1cXZ7dn2BfH+EfoeMhQAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAUfoAAcz7QAooJBjSUBSJYAAXAxVAQMA+BUBQJgCCAYQgA7",
+        "width": 4267,
+        "height": 2521,
+        "alt_text": "A work made of cotton, needle lace of a type known as \"point de gaze\"."
+    },
+    "main_reference_number": "1937.1144",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1855,
+    "date_end": 1865,
+    "date_display": "1855/65",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Belgium",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "15.8 \u00d7 28.2 cm (6 1/4 \u00d7 11 1/8 in.); Repeat: W.: 8.6 cm (3 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 28.2,
+            "width_in": 11.125,
+            "height_cm": 15.8,
+            "height_in": 6.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 8.6,
+            "width_in": 3.5,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Cotton, needle lace of a type known as \"Point de Gaze\"",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.2264,
+    "color": {
+        "h": 107,
+        "l": 46,
+        "s": 2,
+        "percentage": 0.025963879241759445,
+        "population": 109
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - needle"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1293"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1293"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - needle"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "44454e0e-033c-8a39-3400-f03f73e4488d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1937.1144"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Collar"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:13:54-05:00",
+    "timestamp": "2023-09-24T00:31:53-05:00"
+}

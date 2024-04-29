@@ -1,0 +1,185 @@
+{
+    "id": 68835,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/68835",
+    "is_boosted": false,
+    "title": "Shrine Surround",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAF06JmE9JmA/KltnaWFsbGhxc4tiSotkTYl0ZIl0ZYN4cYZ5cpd/cZh+cZSEeJWFe5yJf5eMhZqPiouPkYyRk6mhn6uko8bGzNPb5wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4EQUA6UEArAwB2Q0yYM5iGRdVRQCADs=",
+        "width": 2271,
+        "height": 2250,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1913.159.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1850,
+    "date_display": "Qing dynasty(1644\u20131911), 1800/50",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "139.7 \u00d7 136.8 cm (55 \u00d7 53 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 136.8,
+            "width_in": 53.875,
+            "height_cm": 139.7,
+            "height_in": 55,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. William J. Calhoun through The Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.8232,
+    "color": {
+        "h": 83,
+        "l": 40,
+        "s": 1,
+        "percentage": 0.011777259389171731,
+        "population": 83
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "kangxi",
+        "textile",
+        "weaving",
+        "needlework (visual works)",
+        "qing",
+        "Chinese (culture or style)",
+        "East Asian",
+        "asian"
+    ],
+    "style_id": "TM-5134",
+    "style_title": "kangxi",
+    "alt_style_ids": [
+        "TM-5086",
+        "TM-4303",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_ids": [
+        "TM-5134",
+        "TM-5086",
+        "TM-4303",
+        "TM-4695",
+        "TM-4694"
+    ],
+    "style_titles": [
+        "kangxi",
+        "qing",
+        "Chinese (culture or style)",
+        "East Asian",
+        "asian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b00e1307-abc1-06ed-0525-174f5e9fa4e6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1913.159.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Shrine Surround"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:46:29-05:00",
+    "timestamp": "2023-09-24T00:50:19-05:00"
+}

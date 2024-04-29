@@ -1,0 +1,168 @@
+{
+    "id": 148909,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/148909",
+    "is_boosted": false,
+    "title": "Mise-en-carte (Point-paper)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGZdT2dKUWxpVnFyWoFmYYBlYoZiaYV3YoZ8aIx7bZl7eYeIcIeLcpmCd5mJcJ6Je5mScZ+Zf6OTgKaSgKWXhKiQhayZga6bh6ichamdhq6chLWiiLapjbmpj76rkse1nMm5ncy8oNDBpQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQFEHk6FMQpcDxKEoaDiJBqJCsHgMgYEAsPk8JBHGAhQEADs=",
+        "width": 3000,
+        "height": 2166,
+        "alt_text": "A work made of ink and gouache on hand drawn graph paper."
+    },
+    "main_reference_number": "1996.52.9",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1760,
+    "date_end": 1790,
+    "date_display": "1760/90",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by J Bte Clere and Germain Fr\u00e8res\nFrance",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "39.4 \u00d7 55.6 cm (15 1/2 \u00d7 21 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.6,
+            "width_in": 21.875,
+            "height_cm": 39.4,
+            "height_in": 15.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink and gouache on hand drawn graph paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Neil P. Frankel, Nina Hancock, Robert D. Kleinschmidt; Royalties from F. Schumacher and Company",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1996,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.1639,
+    "color": {
+        "h": 346,
+        "l": 46,
+        "s": 19,
+        "percentage": 0.1595287765369984,
+        "population": 819
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 77251,
+    "artist_title": "Germain Fr\u00e8res",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        77251
+    ],
+    "artist_titles": [
+        "Germain Fr\u00e8res"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "textile",
+        "accessory - paper design"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1357"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1357"
+    ],
+    "classification_titles": [
+        "textile",
+        "accessory - paper design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3eeb52d5-c681-e50c-d949-1e7f14009131",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.52.9"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mise-en-carte (Point-paper)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:02:38-05:00",
+    "timestamp": "2023-09-24T01:26:46-05:00"
+}

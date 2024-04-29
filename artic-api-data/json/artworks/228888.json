@@ -1,0 +1,173 @@
+{
+    "id": 228888,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/228888",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHtrXJWDb6mTc6+fiq6fjbumicSxlMOymMKynMu7pM27pNHDr9PEr9bHstfMv+DVy+Tay/by8Pj09fz7+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURINQw0yEUEQEg0hAYzpIoTwgAOw==",
+        "width": 1777,
+        "height": 2250,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1973.694f",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 201,
+    "date_end": 1000,
+    "date_display": "Roman period (30 B.C.\u2013 641 A.D.)/Arab period (641\u2013969)/Fatimid period (969\u20131171), 3rd/ 10th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Egypt",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "53 \u00d7 42.3 cm (20 7/8 \u00d7 16 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 42.3,
+            "width_in": 16.625,
+            "height_cm": 53,
+            "height_in": 20.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Ronald P. Boardman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.423,
+    "color": {
+        "h": 348,
+        "l": 14,
+        "s": 26,
+        "percentage": 0.02445854887429529,
+        "population": 220
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 37541,
+    "artist_title": "Ancient Egyptian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37541
+    ],
+    "artist_titles": [
+        "Ancient Egyptian"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roman period (egyptian)",
+        "textile",
+        "weaving",
+        "coptic (period)"
+    ],
+    "style_id": "TM-4315",
+    "style_title": "roman period (egyptian)",
+    "alt_style_ids": [
+        "TM-4407"
+    ],
+    "style_ids": [
+        "TM-4315",
+        "TM-4407"
+    ],
+    "style_titles": [
+        "roman period (egyptian)",
+        "coptic (period)"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c90876b4-afbf-69c7-997f-ba3014fb6052",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.694f"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-09-23T23:22:16-05:00",
+    "timestamp": "2023-09-24T01:48:39-05:00"
+}

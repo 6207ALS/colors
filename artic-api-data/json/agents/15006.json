@@ -1,0 +1,33 @@
+{
+    "id": 15006,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15006",
+    "title": "Rico (Frederico) LeBrun",
+    "sort_title": "LeBrun, Rico (Frederico)",
+    "alt_titles": [
+        "Federico Lebrun",
+        "Rico Lebrun"
+    ],
+    "is_artist": true,
+    "birth_date": 1900,
+    "death_date": 1964,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rico (Frederico) LeBrun",
+            "LeBrun, Rico (Frederico)",
+            "Federico Lebrun",
+            "Rico Lebrun"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:45-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

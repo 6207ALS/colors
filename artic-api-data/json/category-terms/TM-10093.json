@@ -1,0 +1,22 @@
+{
+    "id": "TM-10093",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/TM-10093",
+    "title": "work",
+    "subtype": "subject",
+    "parent_id": null,
+    "aat_id": 300387357,
+    "suggest_autocomplete_all": {
+        "input": [
+            "work"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-05-08T19:35:30-05:00",
+    "updated_at": "2022-04-21T18:33:52-05:00",
+    "timestamp": "2023-09-24T02:02:36-05:00"
+}

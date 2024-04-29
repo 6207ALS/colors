@@ -1,0 +1,187 @@
+{
+    "id": 234666,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/234666",
+    "is_boosted": false,
+    "title": "Shell House (Body Parts)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIp2a5WHf8Cun8XAwN7JwdfPyM/O0NLQ0NfV1NfX2dvb293d3d/f3t7e4OLi4efi4OTk5PDu7fPz8/T09gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDEcCwIEClMITpMQ0SQ9UAgAOw==",
+        "width": 1672,
+        "height": 2250,
+        "alt_text": "A work made of color 3d print."
+    },
+    "main_reference_number": "2016.204",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2015,
+    "date_end": 2015,
+    "date_display": "2015",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Andreas Angelidakis \nGreek, born 1968",
+    "place_of_origin": "Greece",
+    "description": null,
+    "dimensions": "30 \u00d7 20 \u00d7 20 cm (12 \u00d7 8 \u00d7 8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 20,
+            "depth_in": 8,
+            "width_cm": 20,
+            "width_in": 8,
+            "height_cm": 30,
+            "height_in": 12,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color 3D print",
+    "inscriptions": null,
+    "credit_line": "Gift of Andreas Angelidakis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.3158,
+    "color": {
+        "h": 240,
+        "l": 45,
+        "s": 5,
+        "percentage": 0.00460269341249966,
+        "population": 44
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Model",
+    "artwork_type_id": 20,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 114737,
+    "artist_title": "Andreas Angelidakis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114737
+    ],
+    "artist_titles": [
+        "Andreas Angelidakis"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "21st Century",
+        "architectural sculpture",
+        "3D print",
+        "shells",
+        "design",
+        "arms",
+        "houses"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-423",
+    "classification_title": "architectural sculpture",
+    "alt_classification_ids": [
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-423",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "architectural sculpture",
+        "design"
+    ],
+    "subject_id": "TM-12162",
+    "alt_subject_ids": [
+        "TM-12634",
+        "TM-12493"
+    ],
+    "subject_ids": [
+        "TM-12162",
+        "TM-12634",
+        "TM-12493"
+    ],
+    "subject_titles": [
+        "shells",
+        "arms",
+        "houses"
+    ],
+    "material_id": "TM-13170",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-13170"
+    ],
+    "material_titles": [
+        "3D print"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "31679de9-fc78-8252-787e-6bb9472ceb95",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.204"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Shell House (Body Parts)"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:32-05:00",
+    "updated_at": "2023-04-07T15:05:40-05:00",
+    "timestamp": "2023-09-24T01:51:19-05:00"
+}

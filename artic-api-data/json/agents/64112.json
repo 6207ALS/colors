@@ -1,0 +1,45 @@
+{
+    "id": 64112,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/64112",
+    "title": "Georg Pencz",
+    "sort_title": "Pencz, Georg",
+    "alt_titles": [
+        "Jorg Pencz",
+        "Georg Benntz",
+        "Georg Benz",
+        "Georg Pens",
+        "Georg Pentz",
+        "Georg Penz",
+        "Georg Prenntz",
+        "Georgius Pencz"
+    ],
+    "is_artist": true,
+    "birth_date": 1495,
+    "death_date": 1550,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Georg Pencz",
+            "Pencz, Georg",
+            "Jorg Pencz",
+            "Georg Benntz",
+            "Georg Benz",
+            "Georg Pens",
+            "Georg Pentz",
+            "Georg Penz",
+            "Georg Prenntz",
+            "Georgius Pencz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:43-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

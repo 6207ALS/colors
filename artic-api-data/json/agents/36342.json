@@ -1,0 +1,31 @@
+{
+    "id": 36342,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36342",
+    "title": "Ad Reinhardt",
+    "sort_title": "Reinhardt, Ad",
+    "alt_titles": [
+        "Adolph Frederick Reinhardt"
+    ],
+    "is_artist": true,
+    "birth_date": 1913,
+    "death_date": 1967,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ad Reinhardt",
+            "Reinhardt, Ad",
+            "Adolph Frederick Reinhardt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T14:35:55-05:00",
+    "updated_at": "2022-03-15T16:38:19-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

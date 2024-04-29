@@ -1,0 +1,28 @@
+{
+    "id": 52693,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52693",
+    "title": "James Coleman",
+    "sort_title": "Coleman, James",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1941,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Coleman",
+            "Coleman, James"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-02T08:52:02-06:00",
+    "updated_at": "2022-03-15T16:58:05-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

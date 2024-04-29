@@ -1,0 +1,35 @@
+{
+    "id": 38833,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/38833",
+    "title": "Luise\u00f1o",
+    "sort_title": "Luise\u00f1o",
+    "alt_titles": [
+        "Gheecham Indians",
+        "Kheecham Indians",
+        "Luise\u00f1o Indians"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Luise\u00f1o",
+            "Luise\u00f1o",
+            "Gheecham Indians",
+            "Kheecham Indians",
+            "Luise\u00f1o Indians"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:18-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

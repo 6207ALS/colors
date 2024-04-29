@@ -1,0 +1,37 @@
+{
+    "id": 14952,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14952",
+    "title": "Jean Le Pautre",
+    "sort_title": "Le Pautre, Jean",
+    "alt_titles": [
+        "Jean Le Pautre",
+        "Jean Lepautre",
+        "Jean Le Paultre",
+        "Jean Le P\u00f4tre"
+    ],
+    "is_artist": true,
+    "birth_date": 1618,
+    "death_date": 1682,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Le Pautre",
+            "Le Pautre, Jean",
+            "Jean Le Pautre",
+            "Jean Lepautre",
+            "Jean Le Paultre",
+            "Jean Le P\u00f4tre"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:59-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

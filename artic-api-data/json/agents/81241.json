@@ -1,0 +1,43 @@
+{
+    "id": 81241,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/81241",
+    "title": "Jean de La Fontaine",
+    "sort_title": "La Fontaine, Jean de",
+    "alt_titles": [
+        "Lafonten, Zhan de",
+        "Fontaine, Jean de La",
+        "De La Fontaine, Jean",
+        "La Fontaine, J. de (Jean)",
+        "La Fontaine",
+        "La P`ongt`enu",
+        "Lafonten, Jan du"
+    ],
+    "is_artist": true,
+    "birth_date": 1621,
+    "death_date": 1695,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean de La Fontaine",
+            "La Fontaine, Jean de",
+            "Lafonten, Zhan de",
+            "Fontaine, Jean de La",
+            "De La Fontaine, Jean",
+            "La Fontaine, J. de (Jean)",
+            "La Fontaine",
+            "La P`ongt`enu",
+            "Lafonten, Jan du"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-16T13:54:08-05:00",
+    "updated_at": "2020-07-16T13:55:46-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

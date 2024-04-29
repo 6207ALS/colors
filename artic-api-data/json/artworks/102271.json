@@ -1,0 +1,163 @@
+{
+    "id": 102271,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102271",
+    "is_boosted": false,
+    "title": "United Church, Park Forest, Illinois, Floor Plan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAANPMu9PVvdLVxdjSwdjUwdvWxNzWxd7Vxt7XxtfYw93Yw9rZxd7axtbayNvayt/ayt/cyd7bzeDby+DdyuPczeHfzOHfzePezePez+Td0eXgz+bg0efh0uXi0+ri0ujg1Onl1+zm2PDo3fHq3vTu4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwEpCEWBsQiTLZCFwaDojzqQR8WBAIsrjApFIMh+EwVAgDACHIAA7",
+        "width": 3000,
+        "height": 2012,
+        "alt_text": "A work made of graphite, colored pencil, and watercolor on illustration board."
+    },
+    "main_reference_number": "1984.214",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1950,
+    "date_display": "1950",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Schweikher and Elting\nAmerican, 1945-1953",
+    "place_of_origin": "Park Forest",
+    "description": null,
+    "dimensions": "99.1 \u00d7 73.5 cm (39 \u00d7 28 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73.5,
+            "width_in": 28.9375,
+            "height_cm": 99.1,
+            "height_in": 39,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite, colored pencil, and watercolor on illustration board",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy and Paul Schweikher",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.3618,
+    "color": {
+        "h": 45,
+        "l": 55,
+        "s": 11,
+        "percentage": 0.0016796313209250567,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 32751,
+    "artist_title": "Schweikher and Elting Architects",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32751
+    ],
+    "artist_titles": [
+        "Schweikher and Elting Architects"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "23c8346f-dd31-7fd7-5efa-46989f2bd6be",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.214"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "United Church, Park Forest, Illinois, Floor Plan"
+            ],
+            "weight": 9,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:31:40-05:00",
+    "timestamp": "2023-09-24T01:06:06-05:00"
+}

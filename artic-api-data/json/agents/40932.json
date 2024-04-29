@@ -1,0 +1,39 @@
+{
+    "id": 40932,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40932",
+    "title": "Hablot Knight Browne",
+    "sort_title": "Browne, Hablot Knight",
+    "alt_titles": [
+        "Harold Knight Browne",
+        "\"Phiz\"",
+        "Hablot K. Browne",
+        "Hablot Knight Browne, (Phiz)",
+        "Phiz"
+    ],
+    "is_artist": true,
+    "birth_date": 1815,
+    "death_date": 1882,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hablot Knight Browne",
+            "Browne, Hablot Knight",
+            "Harold Knight Browne",
+            "\"Phiz\"",
+            "Hablot K. Browne",
+            "Hablot Knight Browne, (Phiz)",
+            "Phiz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:44-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

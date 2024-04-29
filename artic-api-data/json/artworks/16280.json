@@ -1,0 +1,172 @@
+{
+    "id": 16280,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16280",
+    "is_boosted": false,
+    "title": "Sad Day (Kanashii hi)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADskIE4tKFE1L1Q3MGA4MXNBOmdXUHJeVXpjWX5mXIFqX4JqXohpX4JsYI+CdY+Cd5mIfaaRgqygkrWnmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoGMwEQIQiyIMzREUifRAUwgAOw==",
+        "width": 1705,
+        "height": 2250,
+        "alt_text": "A work made of color woodblock print; edition 21/50."
+    },
+    "main_reference_number": "1962.1157",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Yoshida Masaji\nJapanese, 1917-1971",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "71 \u00d7 54.9 cm (27 15/16 \u00d7 21 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 54.9,
+            "width_in": 21.625,
+            "height_cm": 71,
+            "height_in": 27.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; edition 21/50",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Albert L. Arenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.6054,
+    "color": {
+        "h": 8,
+        "l": 60,
+        "s": 51,
+        "percentage": 0.024855560391544417,
+        "population": 233
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 29327,
+    "artist_title": "Yoshida Masaji",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29327
+    ],
+    "artist_titles": [
+        "Yoshida Masaji"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "Japanese (culture or style)",
+        "print",
+        "asian art"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9dd4a3c0-56ce-7774-be8f-8a8b3f757cf1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.1157"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sad Day (Kanashii hi)"
+            ],
+            "weight": 25,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:37:14-05:00",
+    "timestamp": "2023-09-24T00:27:00-05:00"
+}

@@ -1,0 +1,174 @@
+{
+    "id": 190233,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/190233",
+    "is_boosted": false,
+    "title": "River City: Site Plan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAL69vL+/v8bFxcrHxcrIx8nIycrJyMvJyMrJyszLy83Nzc7NzdDOzdHPzdLPzdDOz9LQz9HQ0dLQ0NLQ0dLR0tLS0tPT09XT0tTT1NXU1NTU1dbV1dbV1tjW1QAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdoCNNFcZtEIVVmpU1S6FEUQcEAvJg10AkCYbhEAIAOw==",
+        "width": 1024,
+        "height": 749,
+        "alt_text": "A work made of ink on mylar."
+    },
+    "main_reference_number": "RX23664/110.1",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1913,
+    "date_end": 1997,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bertrand Goldberg\nAmerican, 1913-1997",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "76.8 \u00d7 103.8 cm (30 1/4 \u00d7 40 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 103.8,
+            "width_in": 40.8662,
+            "height_cm": 76.8,
+            "height_in": 30.2363,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on mylar",
+    "inscriptions": null,
+    "credit_line": "The Archive of Bertrand Goldberg, gifted by his children through his estate",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.494,
+    "color": {
+        "h": 86,
+        "l": 40,
+        "s": 0,
+        "percentage": 0.009228444372667654,
+        "population": 48
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 31299,
+    "artist_title": "Bertrand Goldberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31299
+    ],
+    "artist_titles": [
+        "Bertrand Goldberg"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "ink",
+        "Chicago",
+        "architectural drawing",
+        "Bertrand Goldberg Archive"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1627",
+    "classification_title": "ink",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-1627",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "ink",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-12075",
+        "TM-14001"
+    ],
+    "subject_ids": [
+        "TM-12075",
+        "TM-14001"
+    ],
+    "subject_titles": [
+        "Chicago",
+        "Bertrand Goldberg Archive"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1e33d9df-8888-55b1-841c-f726c676c636",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "RX23664/110.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "River City: Site Plan"
+            ],
+            "weight": 233,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-09-23T23:22:03-05:00",
+    "timestamp": "2023-09-24T01:36:43-05:00"
+}

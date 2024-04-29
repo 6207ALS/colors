@@ -1,0 +1,176 @@
+{
+    "id": 226722,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/226722",
+    "is_boosted": false,
+    "title": "Babycakes",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAALjHwLrGxrfKw7rJxbjMxrfJzLfKzLjIybrJyLrJyrvJyrnKyrzLy7vLzLnLzrjMzLnMzbvMzbvNz7rOz9PLydjNzM/Y2dPQ0NDW1QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoGU4hXIl08NUACEMVCRBCLY0RxACADs=",
+        "width": 2009,
+        "height": 2156,
+        "alt_text": "A work made of letterpress printed booklet, pink ribbon, felt."
+    },
+    "main_reference_number": "2013.1440.16",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1970,
+    "date_display": "1970",
+    "date_qualifier_title": "Exhibited",
+    "date_qualifier_id": 11,
+    "artist_display": "Ed Ruscha\nAmerican, born 1937",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "19 \u00d7 15.4 cm (7 1/2 \u00d7 6 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.4,
+            "width_in": 6.063,
+            "height_cm": 19,
+            "height_in": 7.4804,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Letterpress printed booklet, pink ribbon, felt",
+    "inscriptions": null,
+    "credit_line": "Gift of Dirk Denison",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.4028,
+    "color": {
+        "h": 1,
+        "l": 52,
+        "s": 32,
+        "percentage": 0.0006561059847363503,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 40791,
+    "artist_title": "Ed Ruscha",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40791
+    ],
+    "artist_titles": [
+        "Ed Ruscha"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "book",
+        "Pop Art",
+        "mixed media",
+        "print",
+        "sculpture"
+    ],
+    "style_id": "TM-7221",
+    "style_title": "Pop Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7221"
+    ],
+    "style_titles": [
+        "Pop Art"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-10366",
+        "TM-17",
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-10366",
+        "TM-17",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "book",
+        "mixed media",
+        "print",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "af468ce7-1979-4215-cc1b-5e370efbea18",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1440.16"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Babycakes"
+            ],
+            "weight": 28,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:13:17-05:00",
+    "timestamp": "2023-09-24T01:47:57-05:00"
+}

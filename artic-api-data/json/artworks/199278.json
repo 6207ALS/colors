@@ -1,0 +1,158 @@
+{
+    "id": 199278,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/199278",
+    "is_boosted": false,
+    "title": "Koruna (Crown)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGpjTnpxWHx0W4uCaZCGa5WKapqObpyQbpaLcJeNcJeMcpqQc6GUdqSXeqqefaudf66ffrOif6ebgq+hgwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoKQwzwAESCIUDmEcSwNFUwgAOw==",
+        "width": 1644,
+        "height": 2250,
+        "alt_text": "A work made of periodicals; 23 issues. nos. 1-18 (1929); 1-4, 19-20 (1930)."
+    },
+    "main_reference_number": "2009.491",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1929,
+    "date_end": 1930,
+    "date_display": "1929\u201330",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Vojtech Tittelbach\nCzech, 1900\u20131971",
+    "place_of_origin": "Czech Republic",
+    "description": null,
+    "dimensions": "24 \u00d7 17 cm (9 1/2 \u00d7 6 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17,
+            "width_in": 6.693,
+            "height_cm": 24,
+            "height_in": 9.4489,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Periodicals; 23 issues. Nos. 1-18 (1929); 1-4, 19-20 (1930)",
+    "inscriptions": null,
+    "credit_line": "Gladys N. Anderson Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.804,
+    "color": {
+        "h": 42,
+        "l": 63,
+        "s": 30,
+        "percentage": 0.31650188832078224,
+        "population": 3079
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 115971,
+    "artist_title": "Vojtech Tittelbach",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115971
+    ],
+    "artist_titles": [
+        "Vojtech Tittelbach"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "book"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-11"
+    ],
+    "classification_titles": [
+        "book"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "739c3368-9e20-c347-866e-b53a9136dc48",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.491"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Koruna (Crown)"
+            ],
+            "weight": 9,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:51:48-05:00",
+    "timestamp": "2023-09-24T01:39:39-05:00"
+}

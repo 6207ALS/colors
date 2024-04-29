@@ -1,0 +1,35 @@
+{
+    "id": 72845,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/72845",
+    "title": "Juan Roig y Soler",
+    "sort_title": "Roig y Soler, Juan",
+    "alt_titles": [
+        "Roig Soler, Juan",
+        "Roig Soler, Joan",
+        "Soler, Joan Roig"
+    ],
+    "is_artist": true,
+    "birth_date": 1852,
+    "death_date": 1909,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan Roig y Soler",
+            "Roig y Soler, Juan",
+            "Roig Soler, Juan",
+            "Roig Soler, Joan",
+            "Soler, Joan Roig"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-26T11:44:19-05:00",
+    "updated_at": "2020-05-27T04:20:44-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

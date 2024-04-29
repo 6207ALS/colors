@@ -1,0 +1,33 @@
+{
+    "id": 41437,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41437",
+    "title": "Jan van Eyck",
+    "sort_title": "Eyck, Jan van",
+    "alt_titles": [
+        "Jean van Eyck",
+        "Johannes van Eyck"
+    ],
+    "is_artist": true,
+    "birth_date": 1385,
+    "death_date": 1441,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan van Eyck",
+            "Eyck, Jan van",
+            "Jean van Eyck",
+            "Johannes van Eyck"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-11T13:57:19-05:00",
+    "updated_at": "2022-03-15T16:37:08-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

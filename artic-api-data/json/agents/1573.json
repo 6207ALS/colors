@@ -1,0 +1,31 @@
+{
+    "id": 1573,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1573",
+    "title": "Paolo Antonio Barbieri",
+    "sort_title": "Barbieri, Paolo Antonio",
+    "alt_titles": [
+        "Paolo A. Barbieri"
+    ],
+    "is_artist": true,
+    "birth_date": 1603,
+    "death_date": 1649,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paolo Antonio Barbieri",
+            "Barbieri, Paolo Antonio",
+            "Paolo A. Barbieri"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:44-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

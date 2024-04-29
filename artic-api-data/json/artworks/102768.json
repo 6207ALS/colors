@@ -1,0 +1,179 @@
+{
+    "id": 102768,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102768",
+    "is_boosted": false,
+    "title": "Mirror",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "1984.715",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1770,
+    "date_end": 1810,
+    "date_display": "1770\u20131810",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 18th\u201319th century)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "103.8 \u00d7 62.2 \u00d7 11.4 cm (40 7/8 \u00d7 24 1/2 \u00d7 4 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 11.4,
+            "depth_in": 4.5,
+            "width_cm": 62.2,
+            "width_in": 24.5,
+            "height_cm": 103.8,
+            "height_in": 40.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass and gilt pine",
+    "inscriptions": null,
+    "credit_line": "Bequest of William McCormick Blair",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "gilding",
+        "mirror",
+        "glass",
+        "wood (plant material)",
+        "furniture accessory",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-278",
+    "classification_title": "mirror",
+    "alt_classification_ids": [
+        "TM-559",
+        "TM-2190",
+        "TM-2191",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-278",
+        "TM-559",
+        "TM-2190",
+        "TM-2191",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "mirror",
+        "furniture accessory",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [
+        "TM-2431"
+    ],
+    "material_ids": [
+        "TM-2453",
+        "TM-2431"
+    ],
+    "material_titles": [
+        "glass",
+        "wood (plant material)"
+    ],
+    "technique_id": "TM-3887",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3887"
+    ],
+    "technique_titles": [
+        "gilding"
+    ],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.715"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mirror"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:18:07-05:00",
+    "timestamp": "2023-09-24T01:06:23-05:00"
+}

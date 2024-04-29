@@ -1,0 +1,172 @@
+{
+    "id": 203067,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/203067",
+    "is_boosted": false,
+    "title": "Amy Sillman: Works on Paper",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJqFh6iQj7qepL2so7WtqsSrquCwtO7Gy/LEyvPK1PXM1PnM1PjM1vfO2PDS1vPR2fja4frb4fzd5P/h6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIJQwUoM4T0AMBSAYx7QoUQgAOw==",
+        "width": 2346,
+        "height": 2979,
+        "alt_text": "A work made of book."
+    },
+    "main_reference_number": "2010.28.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2006,
+    "date_end": 2006,
+    "date_display": "2006",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "COMA (Amsterdam and New York, founded 1996)\nCornelia Blatter (American, born Switzerland 1960)\nMarcel Hermans (American, born the Netherlands 1961)\n\nWayne Koestenbaum, Author\n\npublished by Gregory R. Miller & Co (June 1, 2006)",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "31.3 \u00d7 23.9 \u00d7 1.3 cm (12 3/8 \u00d7 9 7/16 \u00d7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.3,
+            "depth_in": 0.5,
+            "width_cm": 23.9,
+            "width_in": 9.4,
+            "height_cm": 31.3,
+            "height_in": 12.3334,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book",
+    "inscriptions": null,
+    "credit_line": "Gift of COMA",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.3868,
+    "color": {
+        "h": 43,
+        "l": 51,
+        "s": 95,
+        "percentage": 0.002217270318510881,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 110636,
+    "artist_title": "COMA",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110636
+    ],
+    "artist_titles": [
+        "COMA"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "book",
+        "21st Century",
+        "paper",
+        "graphic design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-145",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "book",
+        "paper",
+        "graphic design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "525ae7be-8516-90b5-ea33-e5c2df8cfb83",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.28.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Amy Sillman: Works on Paper"
+            ],
+            "weight": 47,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-07T12:15:00-06:00",
+    "updated_at": "2023-04-07T13:59:28-05:00",
+    "timestamp": "2023-09-24T01:40:48-05:00"
+}

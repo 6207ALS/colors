@@ -1,0 +1,173 @@
+{
+    "id": 18746,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18746",
+    "is_boosted": false,
+    "title": "Saint George",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADAwMD4+PkJCQlRUVFVVVVhYWFtbW2NjY2VlZWdnZ2lpaXl5eYKCgqSkpKqqqri4uLq6usXFxdLS0gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAUR4FAcSlMkkMQAj2MIERIQSwgAOw==",
+        "width": 1591,
+        "height": 2250,
+        "alt_text": "A work made of lindenwood."
+    },
+    "main_reference_number": "1963.837",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1755,
+    "date_end": 1765,
+    "date_display": "c. 1760",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Anton Eberhardt\nAustrian, active 1760",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": "121.9 \u00d7 88.9 cm (48 \u00d7 35 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 88.9,
+            "width_in": 35,
+            "height_cm": 121.9,
+            "height_in": 48,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lindenwood",
+    "inscriptions": "AE [Anton Eberhardt?] on back of neck.",
+    "credit_line": "Gift of Mrs. Daniel Huger",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago, Annual Report 1963\u201364, p. 19.\n\nArt Institute of Chicago, Calendar 59, 2 (March 1965), pp. 6 (ill.), 7.",
+    "exhibition_history": null,
+    "provenance_text": "Mrs. Daniel Huger, by 1963; given to the Art Institute, 1963.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.054535177179615785,
+        "population": 548
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 7381,
+    "artist_title": "Anton Eberhardt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        7381
+    ],
+    "artist_titles": [
+        "Anton Eberhardt"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "large scale",
+        "wood (plant material)",
+        "plant material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-90",
+    "classification_title": "large scale",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-90",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "large scale",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2431",
+    "alt_material_ids": [
+        "TM-3478"
+    ],
+    "material_ids": [
+        "TM-2431",
+        "TM-3478"
+    ],
+    "material_titles": [
+        "wood (plant material)",
+        "plant material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e4b7904a-22ef-5621-849e-a851ebd44619",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1963.837"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Saint George"
+            ],
+            "weight": 166,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:48-05:00",
+    "updated_at": "2023-04-10T14:33:10-05:00",
+    "timestamp": "2023-09-24T00:27:47-05:00"
+}

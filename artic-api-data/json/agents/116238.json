@@ -1,0 +1,28 @@
+{
+    "id": 116238,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116238",
+    "title": "John Van der Meulen",
+    "sort_title": "Van der Meulen, John",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Van der Meulen",
+            "Van der Meulen, John"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:15:49-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

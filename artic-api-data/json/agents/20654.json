@@ -1,0 +1,31 @@
+{
+    "id": 20654,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/20654",
+    "title": "Domenico Piola",
+    "sort_title": "Piola, Domenico",
+    "alt_titles": [
+        "Domenico Piola, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1627,
+    "death_date": 1703,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Domenico Piola",
+            "Piola, Domenico",
+            "Domenico Piola, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:39-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

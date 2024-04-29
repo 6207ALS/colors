@@ -1,0 +1,187 @@
+{
+    "id": 145149,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145149",
+    "is_boosted": false,
+    "title": "Blue Monday Man",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACUmLjw8QUJJXFhZX1pbX2NiZW5tbIB+eYJ/ent8gXx/hn2BjH2Cj4aDgIGChoOEh4SFi4eIjIiKj42Nko6OkoWImIiMmJGSmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoBUpz0Ihw+FcRUBIUwMYUAUJCRMCADs=",
+        "width": 2719,
+        "height": 3000,
+        "alt_text": "A work made of watercolor on white wove paper, tipped to blue wove paper."
+    },
+    "main_reference_number": "1996.321",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1962,
+    "date_end": 1962,
+    "date_display": "1962",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Idelle Weber\nAmerican, 1932-2020",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Primary support: 48.8 \u00d7 43.5 cm (19 1/4 \u00d7 17 3/16 in.); Secondary support: 50.5 \u00d7 45.4 cm (19 15/16 \u00d7 17 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 43.5,
+            "width_in": 17.126,
+            "height_cm": 48.8,
+            "height_in": 19.2126,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Primary support"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 45.4,
+            "width_in": 17.8741,
+            "height_cm": 50.5,
+            "height_in": 19.8819,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Secondary support"
+        }
+    ],
+    "medium_display": "Watercolor on white wove paper, tipped to blue wove paper",
+    "inscriptions": null,
+    "credit_line": "Margaret Fisher Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.0113,
+    "color": {
+        "h": 217,
+        "l": 41,
+        "s": 95,
+        "percentage": 0.047322032168777665,
+        "population": 371
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 47623,
+    "artist_title": "Idelle Weber",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        47623
+    ],
+    "artist_titles": [
+        "Idelle Weber"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "watercolor",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-39",
+    "classification_title": "watercolor",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-39",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "watercolor",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "53923bc1-f44d-2889-f73e-f0cf7c007e8e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.321"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Blue Monday Man"
+            ],
+            "weight": 419,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:15-05:00",
+    "updated_at": "2023-04-10T08:10:52-05:00",
+    "timestamp": "2023-09-24T01:24:50-05:00"
+}

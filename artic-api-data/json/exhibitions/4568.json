@@ -1,0 +1,55 @@
+{
+    "id": 4568,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4568",
+    "title": "International Exhibition of Modern Art. The Armory Show.",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1913-03-24T00:00:00-06:00",
+    "aic_end_at": "1913-04-16T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "a74b5183-6a81-e5c2-524b-7bb34cd67e87",
+    "alt_image_ids": [
+        "e7911d90-cb53-c990-7298-18b716b70930",
+        "cb0457ad-826a-d9ae-aa0e-aff879b53137",
+        "4c3d2ed1-9f6e-c877-6a1c-c92cddd1f19e",
+        "18ee6757-8b11-6d1a-d358-d5c5a76830c1",
+        "1e911e16-37c2-42f4-086a-cd330d9f9076",
+        "ddc4ab61-e9ba-a6c0-4e74-b98c9e361c4f",
+        "8ef8ebe3-c69c-4e6f-20eb-3096104eba85",
+        "ba1d578a-7d70-93ac-bc14-9bffd91ea299",
+        "bbbdc858-1584-133e-6413-6869064b13f1",
+        "c816fbe7-d790-ed2a-9194-a3ebe3397f51",
+        "385b35f4-5f19-dcf3-0f92-729ba4ad0d64",
+        "cb6c5cc3-9fa4-072a-354f-33162e799cf0",
+        "22df8165-a0bb-144b-9dca-a1ef7307e40b",
+        "4223f272-9a55-2986-9e7e-5f1ad1e5a4b8",
+        "ae1d605f-326b-2032-69a2-3a10bf23a4c8"
+    ],
+    "document_ids": [
+        "3822e9ce-af6c-fe00-086d-5dac01c39aad",
+        "05e6d775-d936-46f8-ef09-3e1bde264632"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "International Exhibition of Modern Art. The Armory Show."
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-08-05T14:12:21-05:00",
+    "updated_at": "2022-09-07T23:27:42-05:00",
+    "timestamp": "2023-09-24T02:01:25-05:00"
+}

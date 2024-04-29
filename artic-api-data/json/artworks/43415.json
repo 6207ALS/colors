@@ -1,0 +1,176 @@
+{
+    "id": 43415,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/43415",
+    "is_boosted": false,
+    "title": "Mantel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACwuLTIxMjQ0NDk6Oj07OkFAPmVeVmhfW2ZgVWZgWGtiWnlvbnx0c4BwbIBwbZaFc5WDe5mEeZqHep+alKWPgqCblaKdm6Wgoaynpa+pp7WspLStqLSuq7GvrLKvrrqwpryzqrqyrbq0sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwI4Fo8lcPB8J47GggEIQwqAQEW0aAYDAwZkoDIjEoRIEADs=",
+        "width": 3000,
+        "height": 2083,
+        "alt_text": "A work made of ironstone (white earthenware), underglaze polychrome enamels, and gilding."
+    },
+    "main_reference_number": "1941.1105",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1830,
+    "date_end": 1845,
+    "date_display": "1830/45",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Charles James Mason\nEnglish (1771-1856)",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": "123.6 \u00d7 191.8 \u00d7 33.4 cm (48 5/8 \u00d7 75 1/2 \u00d7 13 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 33.4,
+            "depth_in": 13.125,
+            "width_cm": 191.8,
+            "width_in": 75.5,
+            "height_cm": 123.6,
+            "height_in": 48.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ironstone (white earthenware), underglaze polychrome enamels, and gilding",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Samuel A. Marx",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1943,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.1923,
+    "color": {
+        "h": 223,
+        "l": 59,
+        "s": 44,
+        "percentage": 0.0012166560209264836,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 30260,
+    "artist_title": "Staffordshire Potteries",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30260
+    ],
+    "artist_titles": [
+        "Staffordshire Potteries"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "stoneware",
+        "earthenware",
+        "european decorative arts",
+        "ceramics",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-279",
+    "classification_title": "stoneware",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-279",
+        "TM-1394",
+        "TM-46",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "stoneware",
+        "european decorative arts",
+        "ceramics",
+        "furniture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8df85ebd-3fb6-8435-6cee-cd0b05fac5a7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1941.1105"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mantel"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-21T14:20:07-05:00",
+    "updated_at": "2023-07-21T14:20:54-05:00",
+    "timestamp": "2023-09-24T00:39:05-05:00"
+}

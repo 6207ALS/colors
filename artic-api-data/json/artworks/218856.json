@@ -1,0 +1,172 @@
+{
+    "id": 218856,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/218856",
+    "is_boosted": false,
+    "title": "Palais de Glace",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADshKG9qcmR1f5xyUal7WbJ5V4Jzblx1gnR/iIx9gHyPkaGNiquXgaSegJOgm4GfppehoZSzsaKtp8HFtgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYBIcEEMoUjMYTgEI0YI8UwgAOw==",
+        "width": 1609,
+        "height": 2270,
+        "alt_text": "A work made of color lithograph on cream wove paper."
+    },
+    "main_reference_number": "2013.1145",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1891,
+    "date_end": 1891,
+    "date_display": "1891",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jules Ch\u00e9ret, (French, 1836-1932)\nprinted by Imprimerie Chaix",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "124 \u00d7 87.9 cm (48 7/8 \u00d7 34 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 87.9,
+            "width_in": 34.6063,
+            "height_cm": 124,
+            "height_in": 48.8189,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mary A. Young",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 60.4473,
+    "color": {
+        "h": 2,
+        "l": 46,
+        "s": 94,
+        "percentage": 0.017858443402203075,
+        "population": 179
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 4326,
+    "artist_title": "Jules Ch\u00e9ret",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        4326
+    ],
+    "artist_titles": [
+        "Jules Ch\u00e9ret"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cc8c005c-1a21-13dd-9a40-795e43c4c5c5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1145"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Palais de Glace"
+            ],
+            "weight": 73,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:29-05:00",
+    "updated_at": "2023-04-07T15:24:22-05:00",
+    "timestamp": "2023-09-24T01:45:30-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 41653,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41653",
+    "title": "Jan Stephan van Calcar",
+    "sort_title": "Calcar, Jan Stephan van",
+    "alt_titles": [
+        "Jan S. van Calcar",
+        "Johannes Stephan van Calcar, (Giovanni de Calcar)",
+        "Jan Stephan von Calcar",
+        "Jan Stephan van Calkar"
+    ],
+    "is_artist": true,
+    "birth_date": 1499,
+    "death_date": 1550,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Stephan van Calcar",
+            "Calcar, Jan Stephan van",
+            "Jan S. van Calcar",
+            "Johannes Stephan van Calcar, (Giovanni de Calcar)",
+            "Jan Stephan von Calcar",
+            "Jan Stephan van Calkar"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:17-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 14483,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14483",
+    "title": "Utagawa Kuniyasu",
+    "sort_title": "Utagawa Kuniyasu",
+    "alt_titles": [
+        "Kuniyasu",
+        "Utagawa Yasugor\u00f4",
+        "Yasujir\u00f4",
+        "Ipp\u00f4sai"
+    ],
+    "is_artist": true,
+    "birth_date": 1794,
+    "death_date": 1832,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Utagawa Kuniyasu",
+            "Utagawa Kuniyasu",
+            "Kuniyasu",
+            "Utagawa Yasugor\u00f4",
+            "Yasujir\u00f4",
+            "Ipp\u00f4sai"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:59-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

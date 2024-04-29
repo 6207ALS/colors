@@ -1,0 +1,163 @@
+{
+    "id": 146908,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146908",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGRiWGJkXWVrY3iBeYeMioSPi4eOjI6QhoqWk5ebk6ClnZylpaaooaKpqK6wqKuwraywrrW2rrS4sb2/uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4JAcQOFEAaJIwsJMRgM9RAgAOw==",
+        "width": 2262,
+        "height": 2981,
+        "alt_text": "A work made of string."
+    },
+    "main_reference_number": "1997.141",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1993,
+    "date_end": 1993,
+    "date_display": "1993",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tom Friedman\nAmerican, born 1965",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "90.1 \u00d7 81.2 \u00d7 81.2 cm (35 1/2 \u00d7 32 \u00d7 32 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 81.2,
+            "depth_in": 32,
+            "width_cm": 81.2,
+            "width_in": 32,
+            "height_cm": 90.1,
+            "height_in": 35.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "String",
+    "inscriptions": null,
+    "credit_line": "Gift of Lannan Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.0661,
+    "color": {
+        "h": 138,
+        "l": 57,
+        "s": 3,
+        "percentage": 0.261378451012361,
+        "population": 2448
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 54207,
+    "artist_title": "Tom Friedman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        54207
+    ],
+    "artist_titles": [
+        "Tom Friedman"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f0945d94-1311-9616-b3be-86272e433e13",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.141"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 188,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:07:23-05:00",
+    "timestamp": "2023-09-24T01:25:46-05:00"
+}

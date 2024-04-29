@@ -1,0 +1,35 @@
+{
+    "id": 11930,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/11930",
+    "title": "Richard Roland Holst",
+    "sort_title": "Roland Holst, Richard",
+    "alt_titles": [
+        "Richard Holst",
+        "Richard Nicol\u00e1as Roland Holst",
+        "Richard Roland Holst"
+    ],
+    "is_artist": true,
+    "birth_date": 1868,
+    "death_date": 1938,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Richard Roland Holst",
+            "Roland Holst, Richard",
+            "Richard Holst",
+            "Richard Nicol\u00e1as Roland Holst",
+            "Richard Roland Holst"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-13T14:27:14-06:00",
+    "updated_at": "2023-02-13T14:27:14-06:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

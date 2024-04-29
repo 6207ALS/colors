@@ -1,0 +1,31 @@
+{
+    "id": 57326,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57326",
+    "title": "Achille Louis Martinet",
+    "sort_title": "Martinet, Achille Louis",
+    "alt_titles": [
+        "Achille-Louis Martinet"
+    ],
+    "is_artist": true,
+    "birth_date": 1806,
+    "death_date": 1877,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Achille Louis Martinet",
+            "Martinet, Achille Louis",
+            "Achille-Louis Martinet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-03-01T12:01:08-06:00",
+    "updated_at": "2021-03-01T12:05:46-06:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

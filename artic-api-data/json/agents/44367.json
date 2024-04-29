@@ -1,0 +1,28 @@
+{
+    "id": 44367,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44367",
+    "title": "Charles R. Hechter",
+    "sort_title": "Hechter, Charles R.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1886,
+    "death_date": 1951,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles R. Hechter",
+            "Hechter, Charles R."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:30:56-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

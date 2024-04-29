@@ -1,0 +1,38 @@
+{
+    "id": 4281,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4281",
+    "title": "Ivan Albright Retrospective",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1964-10-30T00:00:00-06:00",
+    "aic_end_at": "1964-12-27T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "fcabb620-7e49-e186-a38f-695c5bbec4d2"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ivan Albright Retrospective"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-14T14:31:13-05:00",
+    "updated_at": "2019-10-14T14:31:26-05:00",
+    "timestamp": "2023-09-24T02:01:21-05:00"
+}

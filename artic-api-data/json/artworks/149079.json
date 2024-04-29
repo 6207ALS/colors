@@ -1,0 +1,167 @@
+{
+    "id": 149079,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/149079",
+    "is_boosted": false,
+    "title": "Cats",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAE0yGFQ1FFQ+GWY2JG8wIlhEGmZLGGxHJHRpMXhrM3NsZXRtZYI0Iok1JIc9KI9FLox8LoFsZIZyZ4V1aJJ3aJaENJKDOqqXOIqEdI+GeZOFdZWEdp6Jd5uIebKvn7mzp766qcC5pcG6qMW7qcO9qcK9q8zHtQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQFNnw8FoMqbRw9EgMAaij+WSqEAQJA8gICgYDiHQRLJQRCilIAA7",
+        "width": 3000,
+        "height": 2006,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1997.706",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Kobashi Yasuhide\nJapanese, 1931-2003",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "26.5 \u00d7 39.5 cm (10 7/16 \u00d7 15 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 39.5,
+            "width_in": 15.5625,
+            "height_cm": 26.5,
+            "height_in": 10.4375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Harold Allen in memory of Margaret Gentles",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1998,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 70.967,
+    "color": {
+        "h": 52,
+        "l": 50,
+        "s": 79,
+        "percentage": 0.06625274475656848,
+        "population": 315
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 35301,
+    "artist_title": "Kobashi Yasuhide",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35301
+    ],
+    "artist_titles": [
+        "Kobashi Yasuhide"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "08d3c83e-a6ae-6f9c-3e36-f3a13e71f478",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.706"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cats"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:01:56-05:00",
+    "timestamp": "2023-09-24T01:26:53-05:00"
+}

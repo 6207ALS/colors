@@ -1,0 +1,31 @@
+{
+    "id": 16053,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16053",
+    "title": "Cornelis de Man",
+    "sort_title": "Man, Cornelis de",
+    "alt_titles": [
+        "Cornelis Willems de Maan"
+    ],
+    "is_artist": true,
+    "birth_date": 1621,
+    "death_date": 1706,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cornelis de Man",
+            "Man, Cornelis de",
+            "Cornelis Willems de Maan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:35-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

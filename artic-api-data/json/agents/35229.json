@@ -1,0 +1,43 @@
+{
+    "id": 35229,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35229",
+    "title": "Matsumura Keibun",
+    "sort_title": "Matsumura Keibun",
+    "alt_titles": [
+        "Keibun",
+        "Matsumura Naoji",
+        "Shis\u00f4",
+        "Kaname (Y\u00f4jin)",
+        "Y\u00f4jin",
+        "Kakei",
+        "G\u00f4 Kwakkei"
+    ],
+    "is_artist": true,
+    "birth_date": 1779,
+    "death_date": 1843,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Matsumura Keibun",
+            "Matsumura Keibun",
+            "Keibun",
+            "Matsumura Naoji",
+            "Shis\u00f4",
+            "Kaname (Y\u00f4jin)",
+            "Y\u00f4jin",
+            "Kakei",
+            "G\u00f4 Kwakkei"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-31T16:42:16-05:00",
+    "updated_at": "2022-10-31T16:45:52-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 109422,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109422",
+    "is_boosted": false,
+    "title": "Cincinnati II",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEZEPktJQ0xJQ1NRSVhWTVpXT1tZUFxZUFxaUV5bUmFfVGJgVmNhV2dkWWlnXGpoXGtpXm1rXm5rYG5sYXBsYXJvY3JwZHNwZHRyZXRwZnl2aXp3anx5aoB+b4B9cYiEdZGNfQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwILAMLEcKJ7Nw9GBDDKXBQNDQFAqiggHEPiANJJPIxEEADs=",
+        "width": 3000,
+        "height": 2101,
+        "alt_text": "A work made of woodblock print; edition 32/100."
+    },
+    "main_reference_number": "1973.859",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1973,
+    "date_display": "20th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Matsubara Naoko\nJapanese, born 1937",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "46.6 \u00d7 61 cm (18 3/8 \u00d7 24 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 61,
+            "width_in": 24,
+            "height_cm": 46.6,
+            "height_in": 18.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Woodblock print; edition 32/100",
+    "inscriptions": null,
+    "credit_line": "Collection of The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.077,
+    "color": {
+        "h": 50,
+        "l": 47,
+        "s": 16,
+        "percentage": 0.011259223515692545,
+        "population": 56
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 16649,
+    "artist_title": "Matsubara Naoko",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        16649
+    ],
+    "artist_titles": [
+        "Matsubara Naoko"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-7"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodcut",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "woodblock"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-148",
+    "classification_title": "woodcut",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-2392"
+    ],
+    "classification_ids": [
+        "TM-148",
+        "TM-17",
+        "TM-4",
+        "TM-2392"
+    ],
+    "classification_titles": [
+        "woodcut",
+        "print",
+        "prints and drawing",
+        "woodblock"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "7edbaa07-803d-6c03-de11-502e170ad525",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.859"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cincinnati II"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:17:06-05:00",
+    "timestamp": "2023-09-24T01:09:12-05:00"
+}

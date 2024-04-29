@@ -1,0 +1,182 @@
+{
+    "id": 146608,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146608",
+    "is_boosted": false,
+    "title": "The Artist's Son",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADU+N0JKQ3BjVJt2U4N6bJCCb5qPfqWGY5mVgZyShJ+VhJGYkaigjK6gjLynh86/nsC1psS6qsTBt87HuwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCMkkDNE03MsEhIABkMUSggAOw==",
+        "width": 2414,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print; edition 1/20."
+    },
+    "main_reference_number": "1996.738",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1952,
+    "date_end": 1952,
+    "date_display": "1952",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sekino Jun'ichiro\nJapanese, 1914-1988",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "55.6 \u00d7 44.1 cm (21 7/8 \u00d7 17 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 44.1,
+            "width_in": 17.375,
+            "height_cm": 55.6,
+            "height_in": 21.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; edition 1/20",
+    "inscriptions": null,
+    "credit_line": "Gift of Samuel Silverstein",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.4724,
+    "color": {
+        "h": 175,
+        "l": 46,
+        "s": 5,
+        "percentage": 0.000905526427788795,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 35168,
+    "artist_title": "Sekino Jun\u2019ichir\u014d",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35168
+    ],
+    "artist_titles": [
+        "Sekino Jun\u2019ichir\u014d"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "block printing",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "Japanese (culture or style)",
+        "asian art",
+        "print"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-26",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "asian art",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3942",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3942"
+    ],
+    "technique_titles": [
+        "block printing"
+    ],
+    "theme_titles": [],
+    "image_id": "76773b92-3245-0165-5f8d-71d0089c8871",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.738"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Artist's Son"
+            ],
+            "weight": 34,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:08:04-05:00",
+    "timestamp": "2023-09-24T01:25:37-05:00"
+}

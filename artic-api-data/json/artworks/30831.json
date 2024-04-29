@@ -1,0 +1,159 @@
+{
+    "id": 30831,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/30831",
+    "is_boosted": false,
+    "title": "Flounce",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHh4eHp6e3t7e3x8e39/f4CAf39/gICAgICAgYKCgIOCgYSEg4eGhYaGhoeGhoeHhomIh4eIiIiIiIuKioyMio6OjpCPjZKRj5KRkZGSkZKSkZWUk5aXlwAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoHUp0MYUi3BIgTMBRoU8WJNx0cAklEaEADs=",
+        "width": 4138,
+        "height": 3200,
+        "alt_text": "A work made of linen, bobbin part lace."
+    },
+    "main_reference_number": "1939.402",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1725,
+    "date_end": 1775,
+    "date_display": "1725/75",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Hungary",
+    "place_of_origin": "Hungary",
+    "description": null,
+    "dimensions": "50.4 \u00d7 225.7 cm (19 7/8 \u00d7 88 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 225.7,
+            "width_in": 88.875,
+            "height_cm": 50.4,
+            "height_in": 19.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, bobbin part lace",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Frank R. Lillie",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.142,
+    "color": {
+        "h": 50,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.061131366941030066,
+        "population": 336
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1647"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1647"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1ce4cb8b-82e7-b451-e75b-4c9a8455ede5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1939.402"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flounce"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:02:30-05:00",
+    "timestamp": "2023-09-24T00:34:06-05:00"
+}

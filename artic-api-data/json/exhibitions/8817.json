@@ -1,0 +1,38 @@
+{
+    "id": 8817,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8817",
+    "title": "SAIC: Exhibition by Faculty",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1943-09-13T00:00:00-05:00",
+    "aic_end_at": "1943-11-15T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "95cc7017-c132-e780-5640-5567a93c57ff"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "SAIC: Exhibition by Faculty"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:12:04-06:00",
+    "timestamp": "2023-09-24T02:02:22-05:00"
+}

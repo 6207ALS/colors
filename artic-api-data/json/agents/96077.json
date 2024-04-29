@@ -1,0 +1,28 @@
+{
+    "id": 96077,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/96077",
+    "title": "Simon Starling",
+    "sort_title": "Starling, Simon",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1967,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Simon Starling",
+            "Starling, Simon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-08T11:46:42-06:00",
+    "updated_at": "2021-02-08T11:50:12-06:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

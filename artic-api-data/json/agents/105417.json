@@ -1,0 +1,31 @@
+{
+    "id": 105417,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/105417",
+    "title": "Raffaello Guidi",
+    "sort_title": "Guidi, Raffaello",
+    "alt_titles": [
+        "Raphael Guidi"
+    ],
+    "is_artist": true,
+    "birth_date": 1540,
+    "death_date": 1614,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Raffaello Guidi",
+            "Guidi, Raffaello",
+            "Raphael Guidi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-09-20T16:16:45-05:00",
+    "updated_at": "2023-09-20T16:20:51-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

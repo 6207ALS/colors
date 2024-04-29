@@ -1,0 +1,169 @@
+{
+    "id": 149656,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/149656",
+    "is_boosted": false,
+    "title": "Handkerchief",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADc+TzY/UDhBSj9GTz5GUj5FVD5GVTxJVzxGW0JJUkRLVUBIWEBJW0VNXkRSY1NdYl9gYFhia1xlbGBiYmRkZWFpbnBvbW10dnV3eoWLiYeOjq6pmr21tAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AAZgKUYT6ZFTHBsnIMs0oVVjTAVBJWEADs=",
+        "width": 986,
+        "height": 879,
+        "alt_text": "A work made of cotton, plain weave; roller and engraved roller printed."
+    },
+    "main_reference_number": "1993.236",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1900,
+    "date_display": "1875/1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Probably United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "52.7 \u00d7 58.7 cm (20 3/4 \u00d7 23 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 58.7,
+            "width_in": 23.125,
+            "height_cm": 52.7,
+            "height_in": 20.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave; roller and engraved roller printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Judith Reget Fell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1993,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.5123,
+    "color": {
+        "h": 38,
+        "l": 62,
+        "s": 59,
+        "percentage": 0.005678806693420156,
+        "population": 36
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roller printing",
+        "textile",
+        "weaving - printed",
+        "engraved roller printing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10537",
+    "alt_technique_ids": [
+        "TM-10547"
+    ],
+    "technique_ids": [
+        "TM-10537",
+        "TM-10547"
+    ],
+    "technique_titles": [
+        "roller printing",
+        "engraved roller printing"
+    ],
+    "theme_titles": [],
+    "image_id": "0c26ad25-ea61-0f98-485b-45d1598aefef",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1993.236"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Handkerchief"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:00:35-05:00",
+    "timestamp": "2023-09-24T01:27:13-05:00"
+}

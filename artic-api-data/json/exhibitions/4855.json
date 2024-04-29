@@ -1,0 +1,38 @@
+{
+    "id": 4855,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4855",
+    "title": "Paintings by DeWitt Parshall",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1917-05-04T00:00:00-06:00",
+    "aic_end_at": "1917-06-10T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "38f912e3-58b0-8c58-2ca8-a0f841e30834"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by DeWitt Parshall"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:18-06:00",
+    "timestamp": "2023-09-24T02:01:28-05:00"
+}

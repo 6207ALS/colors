@@ -1,0 +1,192 @@
+{
+    "id": 262262,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/262262",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFlQRGFWR2NXR2ZaSnZnU35vV3doWnZqW3pqWntuX31tXXxvYH1wYYN3ZIR2ZYB2bIl6a4h6bZB9bpCAcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4GQoUiIASFMQCxMMx+NAUQgAOw==",
+        "width": 6664,
+        "height": 7918,
+        "alt_text": "A work made of woodcut in ocher, brown, and black on ivory laid paper."
+    },
+    "main_reference_number": "2022.62",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1966,
+    "date_end": 1966,
+    "date_display": "1966",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Georg Baselitz\nGerman, born 1938",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Image: 27.9 \u00d7 27.9 cm (11 \u00d7 11 in.); Sheet: 40.6 \u00d7 33.7 cm (16 \u00d7 13 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27.9,
+            "width_in": 10.9843,
+            "height_cm": 27.9,
+            "height_in": 10.9843,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33.7,
+            "width_in": 13.2678,
+            "height_cm": 40.6,
+            "height_in": 15.9843,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Woodcut in ocher, brown, and black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Margaret Fisher Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 40,
+        "l": 65,
+        "s": 45,
+        "percentage": 0.0020069912279132413,
+        "population": 1059
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42408,
+    "artist_title": "Georg Baselitz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42408
+    ],
+    "artist_titles": [
+        "Georg Baselitz"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "prints and drawing",
+        "ink",
+        "paper",
+        "woodcut",
+        "print",
+        "laid paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-148",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-148",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "paper",
+        "woodcut",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-3070"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-3070"
+    ],
+    "material_titles": [
+        "ink",
+        "laid paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "47f64f08-e2ba-fd9f-0ca2-f1a28620c74e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.62"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-22T14:29:05-06:00",
+    "updated_at": "2023-04-07T13:24:28-05:00",
+    "timestamp": "2023-09-24T01:58:05-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 19887,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/19887",
+    "title": "Filipo Pelagio Palagi",
+    "sort_title": "Palagi, Filipo Pelagio",
+    "alt_titles": [
+        "Pelagio Palagi"
+    ],
+    "is_artist": true,
+    "birth_date": 1775,
+    "death_date": 1860,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Filipo Pelagio Palagi",
+            "Palagi, Filipo Pelagio",
+            "Pelagio Palagi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:13:09-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

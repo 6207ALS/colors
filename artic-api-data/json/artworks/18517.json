@@ -1,0 +1,179 @@
+{
+    "id": 18517,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18517",
+    "is_boosted": false,
+    "title": "Siena Cathedral",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACQlHigpISorI0JEO0hKQVBSR1RUSmptYG90YXJzZ3F2ZHV5ZXR4Z4CFc4KFd4SGdIaKd5yijqOmk7K4pAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGI8UiEsEAEgzBAojXNEUwgAOw==",
+        "width": 2358,
+        "height": 3000,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "1963.765",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1950,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Copley\nEnglish, 1875-1950",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image: 55 \u00d7 40 cm (21 11/16 \u00d7 15 3/4 in.); Sheet: 58.5 \u00d7 46 cm (23 1/16 \u00d7 18 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40,
+            "width_in": 15.7481,
+            "height_cm": 55,
+            "height_in": 21.6536,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 46,
+            "width_in": 18.1103,
+            "height_cm": 58.5,
+            "height_in": 23.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Earle Ludgin",
+    "catalogue_display": "<p>Wright 55</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.7834,
+    "color": {
+        "h": 76,
+        "l": 52,
+        "s": 9,
+        "percentage": 0.08125686122986406,
+        "population": 735
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 52963,
+    "artist_title": "John Copley",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        52963
+    ],
+    "artist_titles": [
+        "John Copley"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "print",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dfe73d00-73c9-50ae-b21c-25276e7c4829",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1963.765"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Siena Cathedral"
+            ],
+            "weight": 142,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:48-05:00",
+    "updated_at": "2023-04-10T14:33:42-05:00",
+    "timestamp": "2023-09-24T00:27:40-05:00"
+}

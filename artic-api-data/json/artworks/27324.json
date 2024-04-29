@@ -1,0 +1,163 @@
+{
+    "id": 27324,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27324",
+    "is_boosted": false,
+    "title": "Sampler",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAALuqj66ikaukmqqkm7GmlrOol7Sol7ytk7Gomrarm7asm7KqnLasnL6xmr+xmrOtorWuoLKtpbavpL2yobmzpr20pr22qcC2ocC4pcO5pMC5p8a8p8m+p8O5qca9qse/q8m/qsvAqsjArQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMkkYSgoBJ0QiJP5UCwij+OieVQ2B0ADA4kwAgTEYhAEADs=",
+        "width": 3000,
+        "height": 2064,
+        "alt_text": "A work made of linen, plain weave; embroidered."
+    },
+    "main_reference_number": "1938.228",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Germany",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "67.3 \u00d7 43.8 cm (26 1/2 \u00d7 17 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 43.8,
+            "width_in": 17.25,
+            "height_cm": 67.3,
+            "height_in": 26.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; embroidered",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. C. Schweppe through the Needlework and Textile Guild",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.7416,
+    "color": {
+        "h": 276,
+        "l": 62,
+        "s": 2,
+        "percentage": 0.4348181780995623,
+        "population": 2126
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "sampler"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-10346"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-10346"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "sampler"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "032312ba-16c0-e633-2189-7a7ba2d5be39",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.228"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sampler"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:10:59-05:00",
+    "timestamp": "2023-09-24T00:32:29-05:00"
+}

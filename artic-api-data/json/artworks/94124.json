@@ -1,0 +1,167 @@
+{
+    "id": 94124,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/94124",
+    "is_boosted": false,
+    "title": "St. Cecilia",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADc3N1FRUVVVVVpaWmFhYWNjY2VlZWtra3d3d3t7e39/f42NjZWVlZmZmZ2dnaOjo6enp6+vrwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAUQYIEchhI9SwMxjpgQwSAAIQA7",
+        "width": 1602,
+        "height": 2250,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1977.484",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1845,
+    "date_end": 1855,
+    "date_display": "c. 1850",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Antoine Wiertz\nBelgian, 1806-1865",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "48.6 \u00d7 34.3 cm (19 1/4 \u00d7 13 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 34.3,
+            "width_in": 13.5,
+            "height_cm": 48.6,
+            "height_in": 19.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. John Marsh, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Mr. and Mrs. John Marsh, Jr., Delphos, Ohio by at least 1974 [according to John Marsh, Jr. letter dated May 31, 1977, in curatorial file]; given to the Art Institute, 1977.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.09137251130133692,
+        "population": 912
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 28531,
+    "artist_title": "Antoine Wiertz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28531
+    ],
+    "artist_titles": [
+        "Antoine Wiertz"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-80",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "25a7ba57-c5a0-7d73-1cf3-bbb531457d9b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.484"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "St. Cecilia"
+            ],
+            "weight": 598,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:12-05:00",
+    "timestamp": "2023-09-24T01:01:40-05:00"
+}

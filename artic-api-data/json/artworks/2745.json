@@ -1,0 +1,181 @@
+{
+    "id": 2745,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/2745",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAJeRf4eGhYqKio2MiY+OjJqZl5qamauhhq6lkMKxhNHGqNHHqdLJsd/XutPS0dPS0+3p3+7r5fXy6vPx9Pf19/n39vX0+Pn5+fv5+QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDAAhGAcCVI4jLI8U9RAFlVJ2BUCADs=",
+        "width": 2111,
+        "height": 2250,
+        "alt_text": "Simple vase of transparent glass with decorations of yellow leaf sprays."
+    },
+    "main_reference_number": "1929.452",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1910,
+    "date_end": 1930,
+    "date_display": "c. 1915/25",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "France, Paris\nJean Sala (b. Spain, 1895-1976)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "21.3 \u00d7 17.5 \u00d7 17.5 cm (8 3/8 \u00d7 6 7/8 \u00d7 6 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 17.5,
+            "depth_in": 6.875,
+            "width_cm": 17.5,
+            "width_in": 6.875,
+            "height_cm": 21.3,
+            "height_in": 8.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1930,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.8309,
+    "color": {
+        "h": 44,
+        "l": 40,
+        "s": 92,
+        "percentage": 0.007661681289910093,
+        "population": 58
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 57230,
+    "artist_title": "Jean Sala",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        57230
+    ],
+    "artist_titles": [
+        "Jean Sala"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "Art Deco",
+        "glass",
+        "vessel",
+        "european decorative arts"
+    ],
+    "style_id": "TM-5976",
+    "style_title": "Art Deco",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5976"
+    ],
+    "style_titles": [
+        "Art Deco"
+    ],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-27",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-85",
+        "TM-27",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "vase",
+        "glass",
+        "vessel",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ea38643f-b32c-488a-f03f-8266117e0963",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1929.452"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 321,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T10:02:45-05:00",
+    "timestamp": "2023-09-24T00:21:23-05:00"
+}

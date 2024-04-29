@@ -1,0 +1,188 @@
+{
+    "id": 20407,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/20407",
+    "is_boosted": false,
+    "title": "Margrave Christoph I of Baden",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJmVhJ+biqKfjaSgj6yol6+rm7Crmbayn7u3psfDssvGtdDKt9DMudTPvAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsK12ghKAGZRGIREAOw==",
+        "width": 1936,
+        "height": 3288,
+        "alt_text": "A work made of woodcut in black on cream laid paper."
+    },
+    "main_reference_number": "1964.50",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1511,
+    "date_end": 1511,
+    "date_display": "1511",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hans Baldung Grien\nGerman, 1484/85-1545",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Image/block: 17.3 \u00d7 10.2 cm (6 13/16 \u00d7 4 1/16 in.); Sheet: 18.2 \u00d7 10.8 cm (7 3/16 \u00d7 4 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.2,
+            "width_in": 4.0158,
+            "height_cm": 17.3,
+            "height_in": 6.8111,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/block"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.8,
+            "width_in": 4.252,
+            "height_cm": 18.2,
+            "height_in": 7.1654,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Woodcut in black on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "Clarence Buckingham Collection",
+    "catalogue_display": "<p>Bartsch VII.322.59</p><p>Hollstein 266</p><p>Geisberg 127</p><p>Curjel 25</p><p>Mende 28</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.9351,
+    "color": {
+        "h": 44,
+        "l": 63,
+        "s": 28,
+        "percentage": 0.008615148081141442,
+        "population": 104
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34739,
+    "artist_title": "Hans Baldung Grien",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34739
+    ],
+    "artist_titles": [
+        "Hans Baldung Grien"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "woodcut",
+        "paper (fiber product)",
+        "woodcut (process)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-148",
+    "classification_title": "woodcut",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-148",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "woodcut",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3862",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3862"
+    ],
+    "technique_titles": [
+        "woodcut (process)"
+    ],
+    "theme_titles": [],
+    "image_id": "a7b07920-d3c2-ed8c-894a-0e46d3332d01",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.50"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Margrave Christoph I of Baden"
+            ],
+            "weight": 97,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:48-05:00",
+    "updated_at": "2023-04-10T14:27:59-05:00",
+    "timestamp": "2023-09-24T00:28:44-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 64086,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/64086",
+    "is_boosted": false,
+    "title": "Portrait Bust of Miss Wilhelmina Cranmer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADUdFzchHD0kHnUsJ2s7LJVjXJ1maJaCbaeSeqWejrKakrSbnLaomKqkobKgp7Snpbqsrb+xpb2zsr60tcS8ur23wMS7wsK9xczHyQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4CRF2AU9CFUtCmM5xZE0BgEIwRACADs=",
+        "width": 2401,
+        "height": 2250,
+        "alt_text": "A work made of marble."
+    },
+    "main_reference_number": "1910.40",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1910,
+    "date_end": 1910,
+    "date_display": "c. 1910",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Mario J. Korbel\nAmerican, born Czechoslovakia, 1882\u20131954",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "45.1 \u00d7 47.6 \u00d7 40 cm (17 \u00d7 18 \u00d7 15 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 40,
+            "depth_in": 15,
+            "width_cm": 47.6,
+            "width_in": 18,
+            "height_cm": 45.1,
+            "height_in": 17,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Marble",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Josef Korbel",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.6705,
+    "color": {
+        "h": 8,
+        "l": 34,
+        "s": 69,
+        "percentage": 0.10901391954592549,
+        "population": 726
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35324,
+    "artist_title": "Mario J. Korbel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35324
+    ],
+    "artist_titles": [
+        "Mario J. Korbel"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "marble",
+        "sculpture",
+        "bust/head",
+        "modern and contemporary art",
+        "people",
+        "portraits"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-347",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-347",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "bust/head",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_titles": [
+        "people",
+        "portraits"
+    ],
+    "material_id": "TM-2435",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2435"
+    ],
+    "material_titles": [
+        "marble"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8733312e-4d7b-465e-4023-7108b9e0de31",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1910.40"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait Bust of Miss Wilhelmina Cranmer"
+            ],
+            "weight": 200,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-25T15:57:00-05:00",
+    "updated_at": "2023-08-25T16:00:58-05:00",
+    "timestamp": "2023-09-24T00:48:12-05:00"
+}

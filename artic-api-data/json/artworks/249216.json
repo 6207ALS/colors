@@ -1,0 +1,183 @@
+{
+    "id": 249216,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/249216",
+    "is_boosted": false,
+    "title": "Reading Silence",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAANHP0djW1t/c3OPg3+Ti4ebi4ufk4+jl4/Hu6/Lu7PPv7PPw7fTw7fXx7vby7/bz7yH5BAAAAAAALAAAAAAEAAUAAAQPUCGUGDGrgfDcEI1zFE0EADs=",
+        "width": 4612,
+        "height": 5954,
+        "alt_text": "A work made of inkjet print."
+    },
+    "main_reference_number": "2019.1550",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2017,
+    "date_end": 2017,
+    "date_display": "2017",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "David Yun",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "Image, approx: 29 \u00d7 14 cm (11 7/16 \u00d7 5 9/16 in.); Paper: 35.5 \u00d7 27.2 cm (14 \u00d7 10 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14,
+            "width_in": 5.5119,
+            "height_cm": 29,
+            "height_in": 11.4174,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image, approx"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27.2,
+            "width_in": 10.7087,
+            "height_cm": 35.5,
+            "height_in": 13.9764,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Inkjet print",
+    "inscriptions": null,
+    "credit_line": "Gift of The Faculty and Photography Graduate Students of the School of the Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": "32 of 40",
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.5286,
+    "color": {
+        "h": 238,
+        "l": 47,
+        "s": 3,
+        "percentage": 0.004688263205638127,
+        "population": 43
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "color photography",
+        "inkjet print",
+        "photograph",
+        "portfolio"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-13768",
+        "TM-240",
+        "TM-427"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-13768",
+        "TM-240",
+        "TM-427"
+    ],
+    "classification_titles": [
+        "photography",
+        "inkjet print",
+        "photograph",
+        "portfolio"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-13061",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-13061"
+    ],
+    "technique_titles": [
+        "color photography"
+    ],
+    "theme_titles": [],
+    "image_id": "406f644d-16d0-f932-e06f-13c55db804a1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.1550"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Reading Silence"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-28T09:47:39-06:00",
+    "updated_at": "2023-04-07T14:03:49-05:00",
+    "timestamp": "2023-09-24T01:55:32-05:00"
+}

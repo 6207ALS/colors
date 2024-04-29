@@ -1,0 +1,35 @@
+{
+    "id": 21226,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/21226",
+    "title": "Quentin-Claude Pitoin",
+    "sort_title": "Pitoin, Quentin-Claude",
+    "alt_titles": [
+        "Quentin C. Pitoin",
+        "Quentin-Claude Pithoin",
+        "Quentin Claude Pitoin"
+    ],
+    "is_artist": true,
+    "birth_date": 1720,
+    "death_date": 1777,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Quentin-Claude Pitoin",
+            "Pitoin, Quentin-Claude",
+            "Quentin C. Pitoin",
+            "Quentin-Claude Pithoin",
+            "Quentin Claude Pitoin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:48-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

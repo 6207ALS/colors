@@ -1,0 +1,167 @@
+{
+    "id": 102270,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102270",
+    "is_boosted": false,
+    "title": "United Church, Park Forest, Illinois, Perspective Sketch and Elevation",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAALK/qrrFqsTHrsXNt8TMvtTPttjTt9vVu9jTvtnUvNnVwt3Yx9Tay9fd1Njc0d7d0OHe0eHf0eTf0eLj1uXj1ebj1ujj1uPj2Ofl2enk2Orm2uvn2uvn3Ovo2+7p3O7p3vTv4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAskQqloQBnMxtPRfDKcCcPRuEgeg4AAQFgoEgdDAREEADs=",
+        "width": 3000,
+        "height": 2114,
+        "alt_text": "A work made of graphite, colored pencil, and watercolor on illustration board."
+    },
+    "main_reference_number": "1984.213",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1952,
+    "date_display": "1950/52",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Schweikher and Elting\nAmerican, 1945-1953",
+    "place_of_origin": "Park Forest",
+    "description": null,
+    "dimensions": "73.5 \u00d7 99.1 cm (28 15/16 \u00d7 39 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 99.1,
+            "width_in": 39,
+            "height_cm": 73.5,
+            "height_in": 28.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite, colored pencil, and watercolor on illustration board",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy and Paul Schweikher",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.0523,
+    "color": {
+        "h": 75,
+        "l": 49,
+        "s": 11,
+        "percentage": 0.0021967400377839287,
+        "population": 11
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 32751,
+    "artist_title": "Schweikher and Elting Architects",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32751
+    ],
+    "artist_titles": [
+        "Schweikher and Elting Architects"
+    ],
+    "category_ids": [
+        "PC-5",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Architecture and Design",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "605bdd1e-0787-96c6-a480-d7788f61aedd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.213"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "United Church, Park Forest, Illinois, Perspective Sketch and Elevation"
+            ],
+            "weight": 11,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:31:40-05:00",
+    "timestamp": "2023-09-24T01:06:06-05:00"
+}

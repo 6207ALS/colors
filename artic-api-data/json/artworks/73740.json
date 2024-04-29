@@ -1,0 +1,179 @@
+{
+    "id": 73740,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73740",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADs4Oz46PE5SW09TW1hXW11bX2BXbWFYb2JYb2NocWltdnVvhXdwhAAAAAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQKkBV1gDAWhbFIigA7",
+        "width": 1161,
+        "height": 2250,
+        "alt_text": "A work made of silk and cotton, stripes of warp-float faced satin weave; warp-printed (chine) and stripes of plain weave with supplementary pile warps forming cut solid velvet."
+    },
+    "main_reference_number": "1989.73",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1880,
+    "date_end": 1889,
+    "date_display": "1880s",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "129.1 \u00d7 58.2 cm (50 7/8 \u00d7 22 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 58.2,
+            "width_in": 22.875,
+            "height_cm": 129.1,
+            "height_in": 50.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk and cotton, stripes of warp-float faced satin weave; warp-printed (chine) and stripes of plain weave with supplementary pile warps forming cut solid velvet",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mildred Davison",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.2131,
+    "color": {
+        "h": 344,
+        "l": 39,
+        "s": 38,
+        "percentage": 0.008203493090916482,
+        "population": 113
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "satin weaving",
+        "silk (textile)",
+        "victorian",
+        "textile",
+        "weaving",
+        "cotton (textile)"
+    ],
+    "style_id": "TM-7577",
+    "style_title": "victorian",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7577"
+    ],
+    "style_titles": [
+        "victorian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [
+        "TM-2578"
+    ],
+    "material_ids": [
+        "TM-2579",
+        "TM-2578"
+    ],
+    "material_titles": [
+        "silk (textile)",
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-10501",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10501"
+    ],
+    "technique_titles": [
+        "satin weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "4770a969-9abb-a30a-afa0-43d13a1b0892",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.73"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:39:47-05:00",
+    "timestamp": "2023-09-24T00:52:14-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 16630,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16630",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGQmLGUoLGcrMG8+Q3E/Q3I/RXFARHVARXRER3NDSHVESH5UV35UWX1XWX1VWgAAACH5BAAAAAAALAAAAAADAAUAAAQLsCE3AklCFWDYWREAOw==",
+        "width": 4071,
+        "height": 6354,
+        "alt_text": "A work made of red silk woven with metal threads in geometric patterns."
+    },
+    "main_reference_number": "1963.85",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Asia or Pacific Islands",
+    "place_of_origin": "Pacific Islands",
+    "description": null,
+    "dimensions": "204.7 \u00d7 127 cm (80 5/8 \u00d7 50 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 127,
+            "width_in": 50,
+            "height_cm": 204.7,
+            "height_in": 80.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Red silk woven with metal threads in geometric patterns",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Tiffany Blake",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.0718,
+    "color": {
+        "h": 347,
+        "l": 31,
+        "s": 58,
+        "percentage": 0.0958914613299415,
+        "population": 1063
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "silk (fiber)",
+        "weaving",
+        "geometric",
+        "textile",
+        "weaving",
+        "metallic thread",
+        "sari (garment)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-11908"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-11908"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "sari (garment)"
+    ],
+    "subject_id": "TM-9124",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9124"
+    ],
+    "subject_titles": [
+        "geometric"
+    ],
+    "material_id": "TM-3688",
+    "alt_material_ids": [
+        "TM-3746"
+    ],
+    "material_ids": [
+        "TM-3688",
+        "TM-3746"
+    ],
+    "material_titles": [
+        "silk (fiber)",
+        "metallic thread"
+    ],
+    "technique_id": "TM-4292",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4292"
+    ],
+    "technique_titles": [
+        "weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "1511f510-a1af-bfe7-dc2e-cc150f1c0bad",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1963.85"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:36:37-05:00",
+    "timestamp": "2023-09-24T00:27:08-05:00"
+}

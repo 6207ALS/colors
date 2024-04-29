@@ -1,0 +1,33 @@
+{
+    "id": 64852,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/64852",
+    "title": "Daniel Lindtmayer, II",
+    "sort_title": "Lindtmayer, Daniel, II",
+    "alt_titles": [
+        "Daniel Lindmeyer, II",
+        "Daniel Lindtmeyer, (the Younger)"
+    ],
+    "is_artist": true,
+    "birth_date": 1552,
+    "death_date": 1611,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Daniel Lindtmayer, II",
+            "Lindtmayer, Daniel, II",
+            "Daniel Lindmeyer, II",
+            "Daniel Lindtmeyer, (the Younger)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:47-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

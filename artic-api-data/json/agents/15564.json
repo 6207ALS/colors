@@ -1,0 +1,33 @@
+{
+    "id": 15564,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15564",
+    "title": "Jan Looten",
+    "sort_title": "Looten, Jan",
+    "alt_titles": [
+        "Jan Loten",
+        "Jacob van Looten"
+    ],
+    "is_artist": true,
+    "birth_date": 1618,
+    "death_date": 1686,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Looten",
+            "Looten, Jan",
+            "Jan Loten",
+            "Jacob van Looten"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:01:03-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

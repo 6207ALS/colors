@@ -1,0 +1,177 @@
+{
+    "id": 178708,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/178708",
+    "is_boosted": false,
+    "title": "Console Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEA/P0BAQE9OT1FOTVFPTlBPT2NeX2lfXXFiXmJiYmNiY25jYXh2dnh3d4WFhYeHh4mJiYuLi6ako7a2tre3t7i4uLm5udfW1tvb29zc3N3d3QAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIDAQhRAkC3IYStQ4DwNVEmVJU3Zl2oWFADs=",
+        "width": 2552,
+        "height": 2250,
+        "alt_text": "A work made of wood."
+    },
+    "main_reference_number": "2002.541.8",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1910,
+    "date_end": 1920,
+    "date_display": "c. 1915",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bruno Paul\nGerman, 1874-1968",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "101.6 \u00d7 76.2 \u00d7 50.8 cm (40 \u00d7 30 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 50.8,
+            "depth_in": 20,
+            "width_cm": 76.2,
+            "width_in": 30,
+            "height_cm": 101.6,
+            "height_in": 40,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wood",
+    "inscriptions": null,
+    "credit_line": "Gift of Theo H. Leffmann",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2003,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.1439,
+    "color": {
+        "h": 9,
+        "l": 55,
+        "s": 0,
+        "percentage": 0.2046782225245031,
+        "population": 1282
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 43570,
+    "artist_title": "Bruno Paul",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43570
+    ],
+    "artist_titles": [
+        "Bruno Paul"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "table",
+        "wood (plant material)",
+        "furniture",
+        "furniture",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-2431",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2431"
+    ],
+    "material_titles": [
+        "wood (plant material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4a0d4a25-6fc2-6904-507a-197c950f1301",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2002.541.8"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Console Table"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-27T14:26:24-05:00",
+    "updated_at": "2023-06-27T14:27:48-05:00",
+    "timestamp": "2023-09-24T01:32:44-05:00"
+}

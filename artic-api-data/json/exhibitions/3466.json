@@ -1,0 +1,38 @@
+{
+    "id": 3466,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3466",
+    "title": "Paintings by George Inness",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1895-03-01T00:00:00-06:00",
+    "aic_end_at": "1895-03-17T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "73e37d5a-347b-6461-60bd-3d542607f9ff"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by George Inness"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:31-06:00",
+    "timestamp": "2023-09-24T02:01:12-05:00"
+}

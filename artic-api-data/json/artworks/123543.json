@@ -1,0 +1,167 @@
+{
+    "id": 123543,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/123543",
+    "is_boosted": false,
+    "title": "Nude Figure of a Man with Flaming Torch",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAH1uX4Z4Z6CSfquZga2dh6meirSnkr+vlsGxmMK3ose5otC/pM/BqdDAptPEqdTGrNzPtePYwOXawuXbwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBE0S5E8AzRJihAxxOEgQAgAOw==",
+        "width": 2277,
+        "height": 3000,
+        "alt_text": "A work made of graphite on paper."
+    },
+    "main_reference_number": "1993.256.18",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1757,
+    "date_end": 1827,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William Blake (English, 1757-1827) \nor William Young Ottley (English, 1771-1836)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "31.8 \u00d7 24.2 cm (12 1/2 \u00d7 9 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.2,
+            "width_in": 9.5,
+            "height_cm": 31.8,
+            "height_in": 12.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.0831,
+    "color": {
+        "h": 37,
+        "l": 55,
+        "s": 21,
+        "percentage": 0.01528218610069144,
+        "population": 143
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33657,
+    "artist_title": "William Blake",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33657
+    ],
+    "artist_titles": [
+        "William Blake"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3a1131d2-cb87-ee81-70ab-fe3a8acb5c2b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1993.256.18"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Nude Figure of a Man with Flaming Torch"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:11-05:00",
+    "updated_at": "2023-04-10T10:45:16-05:00",
+    "timestamp": "2023-09-24T01:15:34-05:00"
+}

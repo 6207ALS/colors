@@ -1,0 +1,44 @@
+{
+    "id": 6204,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6204",
+    "title": "Junior Museum: Just for Laughs",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1971-02-01T00:00:00-06:00",
+    "aic_end_at": "1971-07-01T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "b9023e26-ba74-8c90-7496-517848e81d02",
+    "alt_image_ids": [
+        "f4102baa-32c0-6813-b0bf-e8cb7f424be0",
+        "1cf4ea03-fc04-3967-b608-d52f6d097af5",
+        "353c35be-6347-abc6-1d83-cef0d07b86b1",
+        "8d7c2462-1278-4d6e-0fdc-e4c0456aef20",
+        "d6d1f3bb-180e-527a-77d4-2835d8ef29c4",
+        "98544a7a-eaea-1e71-f52e-76ca4168beeb",
+        "21cf0ad7-f2a2-8db0-45c1-aea541517139"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Junior Museum: Just for Laughs"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:18:01-06:00",
+    "timestamp": "2023-09-24T02:01:45-05:00"
+}

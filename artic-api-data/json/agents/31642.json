@@ -1,0 +1,31 @@
+{
+    "id": 31642,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31642",
+    "title": "Frances B. Johnston",
+    "sort_title": "Johnston, Frances B.",
+    "alt_titles": [
+        "Frances Benjamin Johnston"
+    ],
+    "is_artist": true,
+    "birth_date": 1864,
+    "death_date": 1952,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frances B. Johnston",
+            "Johnston, Frances B.",
+            "Frances Benjamin Johnston"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:07:37-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

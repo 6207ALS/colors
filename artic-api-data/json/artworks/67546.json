@@ -1,0 +1,172 @@
+{
+    "id": 67546,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/67546",
+    "is_boosted": false,
+    "title": "Flask",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "1949.1192",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "Unknown",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Roman",
+    "place_of_origin": "Mediterranean Region",
+    "description": null,
+    "dimensions": "5.5 \u00d7 3.8 cm (2 3/16 \u00d7 1 1/2 in.); Diam.: 3.8 cm (1 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 5.5,
+            "height_in": 2.1875,
+            "diameter_cm": 3.8,
+            "diameter_in": 1.5,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 3.8,
+            "diameter_in": 1.5,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Theodore W. and Frances S. Robinson",
+    "catalogue_display": null,
+    "publication_history": "Wanda Odell, \"Ancient Glass: The Mr. and Mrs. Theodore W. Robinson Collection, Gallery 5A, The Art Institute of Chicago,\" 1940, unpublished catalogue in curatorial object file, Art Institute of Chicago.",
+    "exhibition_history": "Art Institute of Chicago, Ancient Glass, Mr. and Mrs. Theodore W. Robinson Collection, June 28, 1940 \u2013January 1, 1941.",
+    "provenance_text": "Theodore W. and Frances S. Robinson, Chicago, by 1931; given to the Art Institute of Chicago, 1949.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 51349,
+    "artist_title": "Ancient Roman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51349
+    ],
+    "artist_titles": [
+        "Ancient Roman"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "glass",
+        "vessels",
+        "vessel",
+        "ancient art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "glass",
+        "vessel",
+        "ancient art"
+    ],
+    "subject_id": "TM-12879",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12879"
+    ],
+    "subject_titles": [
+        "vessels"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1949.1192"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flask"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T12:39:50-05:00",
+    "updated_at": "2023-09-23T23:19:22-05:00",
+    "timestamp": "2023-09-24T00:49:40-05:00"
+}

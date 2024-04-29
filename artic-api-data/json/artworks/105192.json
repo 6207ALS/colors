@@ -1,0 +1,163 @@
+{
+    "id": 105192,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/105192",
+    "is_boosted": false,
+    "title": "Photograph Album V",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABIREB0cGiEfHDAuK0pIRFZTT1pXVIqGgJCLgpCMhJmUjZqWk6Kdlqynn66po8C6sMO+ucbButHLwtjTzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MM00rQUDhQY0QEQSjIISAgAOw==",
+        "width": 6434,
+        "height": 7954,
+        "alt_text": "A work made of mixed media."
+    },
+    "main_reference_number": "1986.77",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1961,
+    "date_end": 1961,
+    "date_display": "1961",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Assembled by and previously the property of Dorothy Liebes (American, 1897-1972)\nUnited States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Mixed media",
+    "inscriptions": null,
+    "credit_line": "Gift of Jennette L. Young",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1986,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 41,
+        "l": 49,
+        "s": 5,
+        "percentage": 0.0010708136910017806,
+        "population": 548
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35485,
+    "artist_title": "Dorothy Liebes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35485
+    ],
+    "artist_titles": [
+        "Dorothy Liebes"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "book",
+        "accessories (object genre)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-11",
+        "TM-157"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-11",
+        "TM-157"
+    ],
+    "classification_titles": [
+        "textile",
+        "book",
+        "accessories (object genre)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "e2f81d4f-aa28-96b7-72fa-e72b46c15612",
+    "alt_image_ids": [
+        "d8f55175-7c8e-fe3a-d7c4-1ef5b0b9da3a",
+        "de49be63-6b9d-5ee3-0b88-5f48c9cd3cfa",
+        "7533eb61-aff0-6432-807c-4e51a366a726"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.77"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Photograph Album V"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T15:07:22-06:00",
+    "updated_at": "2023-04-07T11:48:33-05:00",
+    "timestamp": "2023-09-24T01:07:41-05:00"
+}

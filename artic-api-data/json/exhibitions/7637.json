@@ -1,0 +1,52 @@
+{
+    "id": 7637,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7637",
+    "title": "Anselm Kiefer",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1987-12-05T00:00:00-06:00",
+    "aic_end_at": "1988-01-31T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "eec25181-c5e3-17d4-729f-c448645002c1",
+    "alt_image_ids": [
+        "1367a27c-276e-a9bc-cf8d-e53a487f25e4",
+        "c0bae793-d6b1-1e18-cc8d-0694c594a193",
+        "3d33993e-e396-e245-9fcf-7b056dc6873d",
+        "985933b8-a83a-7a49-a573-6ca1091eeb14",
+        "efb5b5ba-0c47-8ad4-5570-16372f3b8439",
+        "a8844f95-f704-bd04-5922-d5237b85c810",
+        "c2592665-0bbc-245b-ab36-60cf9761fbcc",
+        "c39b54f1-8a1c-ec5d-946c-139840fcdbd2",
+        "52891792-e8b1-280c-5fdb-813d968b81df",
+        "dfb085ff-b359-34c9-347f-b3925509e362",
+        "5cdc076a-fc41-d8c6-437f-fd46c817efd5",
+        "0a6c239d-125b-1910-9c0d-486b4cc03cad",
+        "b6375a2e-ef77-a520-6716-84367a698bfa"
+    ],
+    "document_ids": [
+        "bb978335-7e96-e45b-2d02-a95ec697890d"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Anselm Kiefer"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-02T17:06:22-05:00",
+    "updated_at": "2020-04-02T17:10:46-05:00",
+    "timestamp": "2023-09-24T02:02:05-05:00"
+}

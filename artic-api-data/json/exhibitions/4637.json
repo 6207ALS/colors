@@ -1,0 +1,44 @@
+{
+    "id": 4637,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4637",
+    "title": "Chicago and Vicinity 68th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1965-04-30T00:00:00-05:00",
+    "aic_end_at": "1965-05-23T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "fd3834f6-8f85-d935-dd79-5cdbeb51c35a",
+    "alt_image_ids": [
+        "42fda49d-7945-9b20-fc33-d81e3ff8cf09",
+        "460cfc45-b05e-673f-507f-095f63810fd6",
+        "28f952c5-0a98-555f-2e09-45e24f9f35f7",
+        "82b7378b-42e7-ea5f-e968-1686a186f75c",
+        "ee3a4940-6a4f-aead-cba0-1f041672eecd"
+    ],
+    "document_ids": [
+        "2931da67-4dba-571b-68b8-6d0b2aedb056"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 68th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-24T14:33:02-05:00",
+    "updated_at": "2019-10-24T14:35:55-05:00",
+    "timestamp": "2023-09-24T02:01:26-05:00"
+}

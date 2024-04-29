@@ -1,0 +1,171 @@
+{
+    "id": 46704,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/46704",
+    "is_boosted": false,
+    "title": "Picture (Needlepoint)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADovIDwxIj40J0c7JUc7J0I5LE9CLVdIMVpMN2VYRmVZRmdbSGteS2xeS2teTHRoRnFkUnBkU3JlU3ZqWnxvXIJxUIh4V4t6W5OBXpSAXaSQb7CefqycgKydgbSjhLakhcOujcayksW0mAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAFDkVhICg3Qp8MJQSYeTOaicVBElkdlEwkgDAPCARAEADs=",
+        "width": 2980,
+        "height": 2250,
+        "alt_text": "A work made of silk, plain weave; embroidered with silk threads in satin and chain stitch."
+    },
+    "main_reference_number": "1974.101",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France or England",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "46 \u00d7 32.7 cm (18 1/8 \u00d7 12 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 32.7,
+            "width_in": 12.875,
+            "height_cm": 46,
+            "height_in": 18.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, plain weave; embroidered with silk threads in satin and chain stitch",
+    "inscriptions": null,
+    "credit_line": "Gift of Frances H. Hamill in memory of Cornelia Conger",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.5652,
+    "color": {
+        "h": 37,
+        "l": 46,
+        "s": 22,
+        "percentage": 0.3368472884352828,
+        "population": 1806
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "floral arrangements",
+        "textile",
+        "needlework (visual works)",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": "TM-9127",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9127"
+    ],
+    "subject_titles": [
+        "floral arrangements"
+    ],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "be1ef494-6bd9-367a-c0bc-c549902f1f14",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.101"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Picture (Needlepoint)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:29:32-05:00",
+    "timestamp": "2023-09-24T00:40:46-05:00"
+}

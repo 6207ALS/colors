@@ -1,0 +1,35 @@
+{
+    "id": 27571,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27571",
+    "title": "Pierre-Jacques Volaire",
+    "sort_title": "Volaire, Pierre-Jacques",
+    "alt_titles": [
+        "Pierre J. Volaire",
+        "Pierre Jacques Volaire",
+        "Jacques Antoine Volaire"
+    ],
+    "is_artist": true,
+    "birth_date": 1729,
+    "death_date": 1802,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre-Jacques Volaire",
+            "Volaire, Pierre-Jacques",
+            "Pierre J. Volaire",
+            "Pierre Jacques Volaire",
+            "Jacques Antoine Volaire"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:18-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

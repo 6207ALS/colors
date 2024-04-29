@@ -1,0 +1,31 @@
+{
+    "id": 44445,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44445",
+    "title": "Helen Lundeberg",
+    "sort_title": "Lundeberg, Helen",
+    "alt_titles": [
+        "Helen Lundeberg Feitelson"
+    ],
+    "is_artist": true,
+    "birth_date": 1908,
+    "death_date": 1999,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Helen Lundeberg",
+            "Lundeberg, Helen",
+            "Helen Lundeberg Feitelson"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:20-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

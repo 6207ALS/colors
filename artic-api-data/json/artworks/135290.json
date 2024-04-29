@@ -1,0 +1,180 @@
+{
+    "id": 135290,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/135290",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFheP2doRXqBXrO5scfJvsfIws7NxdDRytbW0NTY0trb29rc2+Lk4+Tm4Ofn5gAAACH5BAAAAAAALAAAAAADAAUAAAQL0Bl1QEGBNJHYWBEAOw==",
+        "width": 1400,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1988.355",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1903,
+    "date_end": 1932,
+    "date_display": "1903\u201332",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Frederick Carder (American, born England, 1863\u20131963)\nSteuben Division, Corning Glass Works (American, 1918\u20131933)\nCorning, New York",
+    "place_of_origin": "Corning",
+    "description": null,
+    "dimensions": "19.4 \u00d7 9.2 \u00d7 9.2 cm (7 11/16 \u00d7 3 5/8 \u00d7 3 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 9.2,
+            "depth_in": 3.6221,
+            "width_cm": 9.2,
+            "width_in": 3.6221,
+            "height_cm": 19.4,
+            "height_in": 7.6378,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Bequest of Pauline Seipp Armstrong",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.8201,
+    "color": {
+        "h": 49,
+        "l": 67,
+        "s": 40,
+        "percentage": 0.006653447317391323,
+        "population": 76
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 264",
+    "gallery_id": 2147475518,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 33865,
+    "artist_title": "Frederick Carder",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33865
+    ],
+    "artist_titles": [
+        "Frederick Carder"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vase",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "88da20b8-0c20-e1fe-5ace-46e3f25b93bc",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.355"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-02T15:20:34-05:00",
+    "updated_at": "2023-06-02T15:22:48-05:00",
+    "timestamp": "2023-09-24T01:20:55-05:00"
+}

@@ -1,0 +1,185 @@
+{
+    "id": 135427,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/135427",
+    "is_boosted": false,
+    "title": "Navy Pier Park, Jane Addams Memorial, Chicago, Illinois, Site Plan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAALK5sbW7sLm8sLfEt7vDtb7EtsHIt8HEucDGuMHGucbLvM/MwcjSwc/YytPYxtjey9vdzNvfzNzhztvk093m1d3n1uDi0OLm0gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4FRRVHNJFsREyHIMDyEEgGMUiRICADs=",
+        "width": 2238,
+        "height": 2250,
+        "alt_text": "A work made of colored pencil and ink on photocopy print on paper."
+    },
+    "main_reference_number": "1994.605.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1994,
+    "date_end": 1994,
+    "date_display": "1994",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Miriam Gusevich\nAmerican, born Cuba, 1953",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "67 \u00d7 61 cm (26 3/8 \u00d7 24 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 61,
+            "width_in": 24,
+            "height_cm": 67,
+            "height_in": 26.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Colored pencil and ink on photocopy print on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Miriam Gusevich",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.0831,
+    "color": {
+        "h": 133,
+        "l": 48,
+        "s": 4,
+        "percentage": 0.013429127778150808,
+        "population": 96
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 47354,
+    "artist_title": "Miriam Gusevich",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        47354
+    ],
+    "artist_titles": [
+        "Miriam Gusevich"
+    ],
+    "category_ids": [
+        "PC-5",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Architecture and Design",
+        "Women artists"
+    ],
+    "term_titles": [
+        "presentation drawing",
+        "Chicago",
+        "paper (fiber product)",
+        "architectural drawing",
+        "architecture",
+        "landscape drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-920",
+    "classification_title": "presentation drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103",
+        "TM-1271"
+    ],
+    "classification_ids": [
+        "TM-920",
+        "TM-126",
+        "TM-103",
+        "TM-1271"
+    ],
+    "classification_titles": [
+        "presentation drawing",
+        "architectural drawing",
+        "architecture",
+        "landscape drawing"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "a87deef5-feb0-497a-6c54-b73ac47c013b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1994.605.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Navy Pier Park, Jane Addams Memorial, Chicago, Illinois, Site Plan"
+            ],
+            "weight": 125,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T08:27:48-05:00",
+    "timestamp": "2023-09-24T01:20:58-05:00"
+}

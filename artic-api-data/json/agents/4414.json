@@ -1,0 +1,33 @@
+{
+    "id": 4414,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/4414",
+    "title": "Zhang Ruitu",
+    "sort_title": "Zhang Ruitu",
+    "alt_titles": [
+        "Chang Jui-t'u",
+        "Tchang Jouei-t'ou"
+    ],
+    "is_artist": true,
+    "birth_date": 1564,
+    "death_date": 1649,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zhang Ruitu",
+            "Zhang Ruitu",
+            "Chang Jui-t'u",
+            "Tchang Jouei-t'ou"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-01-17T16:19:38-06:00",
+    "updated_at": "2023-01-17T16:22:03-06:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 41440,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41440",
+    "title": "Wenceslaus Hollar",
+    "sort_title": "Hollar, Wenceslaus",
+    "alt_titles": [
+        "Wenzel Holar",
+        "Wenceslaus von Prachna",
+        "Wenzel Hollar von Prachna",
+        "Wenzel Hollar, (Wenceslaus von Pracha)",
+        "Vaclav Holar"
+    ],
+    "is_artist": true,
+    "birth_date": 1607,
+    "death_date": 1677,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Wenceslaus Hollar",
+            "Hollar, Wenceslaus",
+            "Wenzel Holar",
+            "Wenceslaus von Prachna",
+            "Wenzel Hollar von Prachna",
+            "Wenzel Hollar, (Wenceslaus von Pracha)",
+            "Vaclav Holar"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-10-19T14:48:02-05:00",
+    "updated_at": "2022-03-15T16:37:06-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

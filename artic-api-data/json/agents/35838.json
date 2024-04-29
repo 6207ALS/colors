@@ -1,0 +1,45 @@
+{
+    "id": 35838,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35838",
+    "title": "Giovanni Battista Moroni",
+    "sort_title": "Moroni, Giovanni Battista",
+    "alt_titles": [
+        "Giovanni B. Moroni",
+        "Giambattista Moroni",
+        "Giambattista Morone"
+    ],
+    "is_artist": true,
+    "birth_date": 1520,
+    "death_date": 1578,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Giovanni Battista Moroni",
+            "Moroni, Giovanni Battista",
+            "Giovanni B. Moroni",
+            "Giambattista Moroni",
+            "Giambattista Morone"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni Battista Moroni",
+            "Moroni, Giovanni Battista",
+            "Giovanni B. Moroni",
+            "Giambattista Moroni",
+            "Giambattista Morone"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:56:09-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,191 @@
+{
+    "id": 150879,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/150879",
+    "is_boosted": false,
+    "title": "Sample",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIlwY4V2cZaFfaCIe6SMfpSKip2OjJ6UkpyVmKGXlqmbl6mbma2joqyhpbSqrQAAACH5BAAAAAAALAAAAAADAAUAAAQLMInDiHJjNWBQKBEAOw==",
+        "width": 1197,
+        "height": 2250,
+        "alt_text": "A work made of wool, plain weave with supplementary patterning wefts."
+    },
+    "main_reference_number": "1998.549.19",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1998,
+    "date_display": "1951/1998",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Mary Evans Landis  (American, 1929-1998)\nUnited States, Illinois, Chicago",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "68.2 \u00d7 26.6 cm (26 7/8 \u00d7 10 1/2 in.); Weft repeat: H.: 2.6 cm (1 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.6,
+            "width_in": 10.5,
+            "height_cm": 68.2,
+            "height_in": 26.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 2.6,
+            "height_in": 1,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Weft repeat"
+        }
+    ],
+    "medium_display": "Wool, plain weave with supplementary patterning wefts",
+    "inscriptions": null,
+    "credit_line": "Gift of Julia Evans and Dana Evans in memory of Mary Evans Landis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.3534,
+    "color": {
+        "h": 353,
+        "l": 34,
+        "s": 64,
+        "percentage": 0.00014968323285846326,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 79737,
+    "artist_title": "Mary Evans Landis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        79737
+    ],
+    "artist_titles": [
+        "Mary Evans Landis"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "Chicago",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists",
+        "Chicago Artists"
+    ],
+    "image_id": "c15e128a-b1f2-6761-fac4-c938110d819d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1998.549.19"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-10T07:57:08-05:00",
+    "timestamp": "2023-09-24T01:27:52-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 36995,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36995",
+    "title": "Torii Kotondo",
+    "sort_title": "Torii Kotondo",
+    "alt_titles": [
+        "Torii Kotondo",
+        "Kotondo",
+        "Kiyotada V"
+    ],
+    "is_artist": true,
+    "birth_date": 1900,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Torii Kotondo",
+            "Torii Kotondo",
+            "Torii Kotondo",
+            "Kotondo",
+            "Kiyotada V"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:39:56-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

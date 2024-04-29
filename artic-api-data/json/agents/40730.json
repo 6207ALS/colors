@@ -1,0 +1,49 @@
+{
+    "id": 40730,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40730",
+    "title": "Jacopo Palma Il Giovane",
+    "sort_title": "Giovane, Jacopo Palma Il",
+    "alt_titles": [
+        "Jacopo Negretti",
+        "Jacopo Negretti, (Palma il Giovanne)",
+        "Jacopo Negretti Palma il Giovane",
+        "Palma il Giovane",
+        "Jacopo Negretti, called Palma il Giovane",
+        "Giovane",
+        "Jacopo Palma, called Il Giovane",
+        "Palma il Giovane (Jacopo Palma)",
+        "Jacopo Palma, il giovane",
+        "Palma, il Giovane"
+    ],
+    "is_artist": true,
+    "birth_date": 1548,
+    "death_date": 1628,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacopo Palma Il Giovane",
+            "Giovane, Jacopo Palma Il",
+            "Jacopo Negretti",
+            "Jacopo Negretti, (Palma il Giovanne)",
+            "Jacopo Negretti Palma il Giovane",
+            "Palma il Giovane",
+            "Jacopo Negretti, called Palma il Giovane",
+            "Giovane",
+            "Jacopo Palma, called Il Giovane",
+            "Palma il Giovane (Jacopo Palma)",
+            "Jacopo Palma, il giovane",
+            "Palma, il Giovane"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-26T08:46:10-06:00",
+    "updated_at": "2021-02-26T08:50:44-06:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 55300,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/55300",
+    "title": "N. Scott Momaday",
+    "sort_title": "Momaday, N. Scott",
+    "alt_titles": [
+        "Momadei, N. Skott",
+        "Momaday, Navarre Scott"
+    ],
+    "is_artist": true,
+    "birth_date": 1934,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "N. Scott Momaday",
+            "Momaday, N. Scott",
+            "Momadei, N. Skott",
+            "Momaday, Navarre Scott"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:27:10-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

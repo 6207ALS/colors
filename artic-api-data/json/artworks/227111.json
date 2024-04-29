@@ -1,0 +1,183 @@
+{
+    "id": 227111,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/227111",
+    "is_boosted": false,
+    "title": "Portrait of a Painter",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGtmWXFtXYiEcpSPfKCaiqmkj6qlk62nk7mzm8bAq8jBq8vEsM/JstXOt9LMuNPNuNTMuODXwuLcxOfeyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCM9DoMERlIIBwEMSgQtUwgAOw==",
+        "width": 2152,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on cream wove paper."
+    },
+    "main_reference_number": "2014.1316",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1928,
+    "date_end": 1928,
+    "date_display": "1928",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Theodore Roszak\nAmerican, born Poland, 1907-1981",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 42.5 \u00d7 31.3 cm (16 3/4 \u00d7 12 3/8 in.); Sheet: 58 \u00d7 40.6 cm (22 7/8 \u00d7 16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 31.3,
+            "width_in": 12.3229,
+            "height_cm": 42.5,
+            "height_in": 16.7323,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40.6,
+            "width_in": 15.9843,
+            "height_cm": 58,
+            "height_in": 22.8347,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Sara Roszak",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.2768,
+    "color": {
+        "h": 47,
+        "l": 51,
+        "s": 78,
+        "percentage": 0.0005047828171929027,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40786,
+    "artist_title": "Theodore Roszak",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40786
+    ],
+    "artist_titles": [
+        "Theodore Roszak"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "91fc4764-8369-8d91-ddf4-390a6ff0f6d8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.1316"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Painter"
+            ],
+            "weight": 9,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:12:35-05:00",
+    "timestamp": "2023-09-24T01:48:06-05:00"
+}

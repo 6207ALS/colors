@@ -1,0 +1,178 @@
+{
+    "id": 104656,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104656",
+    "is_boosted": false,
+    "title": "Map of the Middle West",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAJGIdZWMepeNfJmOeKCOe6WReKWSe6WTfKqWfa6XfaKNgqGRgKOWg6qXgqyXg6qYgqqZgqaWiqKVjKaVjKWXjqmViqyXiKWYjaWYjquYiqybjrKcgqKVkaOXlaqdkKqdk66dka+fk6iblauela+flbCekq2gmgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJGGgrlUFBxQwtAYAAqT0WPhEAQYH9IGcSBAEqVOxhORhCymIAA7",
+        "width": 3000,
+        "height": 1974,
+        "alt_text": "A work made of linen, plain weave, embroidered with wool and silk yarns in back, buttonhole, chain, detached chain, double knot, feather, individual satin, satin, and stem stitches; laid work and french knots."
+    },
+    "main_reference_number": "1985.758",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1931,
+    "date_end": 1931,
+    "date_display": "1931",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Europe or United States",
+    "place_of_origin": "Europe",
+    "description": null,
+    "dimensions": "52.2 \u00d7 87.8 cm (21 3/4 \u00d7 34 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 87.8,
+            "width_in": 34.5,
+            "height_cm": 52.2,
+            "height_in": 21.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave, embroidered with wool and silk yarns in back, buttonhole, chain, detached chain, double knot, feather, individual satin, satin, and stem stitches; laid work and French knots",
+    "inscriptions": null,
+    "credit_line": "Gift of Mary Libby Neiman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.1552,
+    "color": {
+        "h": 355,
+        "l": 33,
+        "s": 76,
+        "percentage": 0.014106633323715171,
+        "population": 66
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "plain weaving",
+        "linen (material)",
+        "textile",
+        "needlework (visual works)",
+        "map",
+        "embroidering"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-10438"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-10438"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "map"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3093",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3093"
+    ],
+    "material_titles": [
+        "linen (material)"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [
+        "TM-3914"
+    ],
+    "technique_ids": [
+        "TM-10513",
+        "TM-3914"
+    ],
+    "technique_titles": [
+        "plain weaving",
+        "embroidering"
+    ],
+    "theme_titles": [],
+    "image_id": "92a67358-af12-dc83-7a16-dcbadbf69b18",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.758"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Map of the Middle West"
+            ],
+            "weight": 145,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:25:19-05:00",
+    "timestamp": "2023-09-24T01:07:27-05:00"
+}

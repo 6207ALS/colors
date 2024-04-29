@@ -1,0 +1,31 @@
+{
+    "id": 15683,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15683",
+    "title": "Andrea Carlo Lucchesi",
+    "sort_title": "Lucchesi, Andrea Carlo",
+    "alt_titles": [
+        "Andrea C. Lucchesi"
+    ],
+    "is_artist": true,
+    "birth_date": 1860,
+    "death_date": 1924,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Andrea Carlo Lucchesi",
+            "Lucchesi, Andrea Carlo",
+            "Andrea C. Lucchesi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:23-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

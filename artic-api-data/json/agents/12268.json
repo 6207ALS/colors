@@ -1,0 +1,33 @@
+{
+    "id": 12268,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/12268",
+    "title": "Victoria Hutson Huntley",
+    "sort_title": "Huntley, Victoria Hutson",
+    "alt_titles": [
+        "Victoria Ebbels Hutson Huntley",
+        "Victoria Ebbels Hutson"
+    ],
+    "is_artist": true,
+    "birth_date": 1900,
+    "death_date": 1971,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Victoria Hutson Huntley",
+            "Huntley, Victoria Hutson",
+            "Victoria Ebbels Hutson Huntley",
+            "Victoria Ebbels Hutson"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:32-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

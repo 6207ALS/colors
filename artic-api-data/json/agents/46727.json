@@ -1,0 +1,31 @@
+{
+    "id": 46727,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46727",
+    "title": "Follower of Donato Creti",
+    "sort_title": "Creti, Donato, Follower of",
+    "alt_titles": [
+        "Follower of Donatino Creti"
+    ],
+    "is_artist": true,
+    "birth_date": 1671,
+    "death_date": 1749,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Follower of Donato Creti",
+            "Creti, Donato, Follower of",
+            "Follower of Donatino Creti"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-03T15:36:54-05:00",
+    "updated_at": "2020-06-03T15:40:33-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

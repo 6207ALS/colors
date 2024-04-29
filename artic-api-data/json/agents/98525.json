@@ -1,0 +1,28 @@
+{
+    "id": 98525,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/98525",
+    "title": "Josiah Boydell",
+    "sort_title": "Boydell, Josiah",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1752,
+    "death_date": 1817,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Josiah Boydell",
+            "Boydell, Josiah"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-09-13T15:34:42-05:00",
+    "updated_at": "2022-09-13T15:41:20-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

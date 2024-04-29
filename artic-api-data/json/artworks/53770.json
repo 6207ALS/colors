@@ -1,0 +1,180 @@
+{
+    "id": 53770,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/53770",
+    "is_boosted": false,
+    "title": "Soldier",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABkZGRsaGCkiHS4rKTAtK1JOSVVST3ZjUH9yYnt6fZmEapCEf4SCgqqmp6emqAAAACH5BAAAAAAALAAAAAADAAUAAAQLMAgwDjGqMJTachEAOw==",
+        "width": 1547,
+        "height": 2250,
+        "alt_text": "A work made of lead-glazed earthenware (creamware and redware)."
+    },
+    "main_reference_number": "1945.385",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1750,
+    "date_end": 1770,
+    "date_display": "1750/70",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England, Staffordshire",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": "H.: 17.8 cm (7 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 17.8,
+            "height_in": 7,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lead-glazed earthenware (creamware and redware)",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert J. Dunham",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.6029,
+    "color": {
+        "h": 37,
+        "l": 52,
+        "s": 27,
+        "percentage": 0.030768694884849613,
+        "population": 318
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "earthenware",
+        "earthenware",
+        "redware",
+        "creamware",
+        "european decorative arts",
+        "ceramics",
+        "lead-glazed earthenware"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-2375",
+        "TM-11135",
+        "TM-1394",
+        "TM-46",
+        "TM-11132"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-2375",
+        "TM-11135",
+        "TM-1394",
+        "TM-46",
+        "TM-11132"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "redware",
+        "creamware",
+        "european decorative arts",
+        "ceramics",
+        "lead-glazed earthenware"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "76ec642c-0b65-b382-032d-dbda56e95adf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1945.385"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Soldier"
+            ],
+            "weight": 25,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:52:05-05:00",
+    "timestamp": "2023-09-24T00:44:12-05:00"
+}

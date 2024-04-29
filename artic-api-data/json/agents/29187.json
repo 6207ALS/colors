@@ -1,0 +1,33 @@
+{
+    "id": 29187,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/29187",
+    "title": "Yamaguchi Gen",
+    "sort_title": "Yamaguchi Gen",
+    "alt_titles": [
+        "Gen Yamaguchi",
+        "Gen Yamguchi"
+    ],
+    "is_artist": true,
+    "birth_date": 1896,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Yamaguchi Gen",
+            "Yamaguchi Gen",
+            "Gen Yamaguchi",
+            "Gen Yamguchi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:33-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

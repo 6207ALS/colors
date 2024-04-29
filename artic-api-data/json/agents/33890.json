@@ -1,0 +1,39 @@
+{
+    "id": 33890,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33890",
+    "title": "Mary Cassatt",
+    "sort_title": "Cassatt, Mary",
+    "alt_titles": [
+        "Mary Stevenson Cassatt"
+    ],
+    "is_artist": true,
+    "birth_date": 1844,
+    "death_date": 1926,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Mary Cassatt",
+            "Cassatt, Mary",
+            "Mary Stevenson Cassatt"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mary Cassatt",
+            "Cassatt, Mary",
+            "Mary Stevenson Cassatt"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-17T09:30:58-06:00",
+    "updated_at": "2022-04-22T10:55:04-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

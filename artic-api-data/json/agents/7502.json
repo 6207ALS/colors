@@ -1,0 +1,35 @@
+{
+    "id": 7502,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/7502",
+    "title": "Maeble Perry Edwards",
+    "sort_title": "Edwards, Maeble Perry",
+    "alt_titles": [
+        "Maeble Claire Perry",
+        "Perry, Maeble Claire (Edwards)",
+        "Maeble  Claire Smith"
+    ],
+    "is_artist": true,
+    "birth_date": 1902,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maeble Perry Edwards",
+            "Edwards, Maeble Perry",
+            "Maeble Claire Perry",
+            "Perry, Maeble Claire (Edwards)",
+            "Maeble  Claire Smith"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:17:26-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

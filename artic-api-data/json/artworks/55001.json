@@ -1,0 +1,159 @@
+{
+    "id": 55001,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/55001",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAF05I2FEK2hAKm1JL2NGMGVGMGdPN2xPNWZQOHpZP31dQ39gR4RiSIZoT4lqUIprUYxvVI5uVI50W5BzV5JzW5V+YpeDZpqAZpqBZpuCZ6CGaqCJbqiPc6mRdaqSdauVea2UeK2Xe7Ccf7WfgbijiLqkiL6qi76qj8azlMe2msi3mNPDpNPDpwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQNJlg8loOilWZcDgRBKQz8kSMCwcBMRB4gEUFCHRQ0AxTRqjlQoFKgUBADs=",
+        "width": 3000,
+        "height": 1646,
+        "alt_text": "A work made of linen and wool, tapestry weave."
+    },
+    "main_reference_number": "1946.155",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 401,
+    "date_end": 600,
+    "date_display": "5th/6th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Egypt",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "16.8 \u00d7 8.3 cm (6 5/8 \u00d7 3 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 8.3,
+            "width_in": 3.25,
+            "height_cm": 16.8,
+            "height_in": 6.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and wool, tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Edward C. Sonnenschein",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.2867,
+    "color": {
+        "h": 37,
+        "l": 25,
+        "s": 29,
+        "percentage": 0.07071320415363212,
+        "population": 276
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6aa3c215-3047-844a-51aa-fdcbb492f0cf",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1946.155"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:10:38-05:00",
+    "timestamp": "2023-09-24T00:44:33-05:00"
+}

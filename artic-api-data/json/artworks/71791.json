@@ -1,0 +1,180 @@
+{
+    "id": 71791,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/71791",
+    "is_boosted": false,
+    "title": "Teapot",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADwzNzw0OD84OkE5PEhBQk1FRllRUWtgX25jYnpvbH10eH50eYh8eZaDd52Kf46Gi5OIiJqOjJiPlZ2RkaGYmrCjmrurpbCnqrCnq7ivs8e2rMu9rsq6s9HCswAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AAQRSAciMUlxqJ1W6VIkNMwT3ZNEYWFADs=",
+        "width": 2696,
+        "height": 2250,
+        "alt_text": "A work made of lead-glazed earthenware (creamware) and polychrome enamels."
+    },
+    "main_reference_number": "1916.132a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1765,
+    "date_end": 1775,
+    "date_display": "c. 1770",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England, Leeds",
+    "place_of_origin": "Leeds",
+    "description": null,
+    "dimensions": "13.7 \u00d7 18.5 \u00d7 11.2 cm (5 3/8 \u00d7 7 1/4 \u00d7 4 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 11.2,
+            "depth_in": 4.375,
+            "width_cm": 18.5,
+            "width_in": 7.25,
+            "height_cm": 13.7,
+            "height_in": 5.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lead-glazed earthenware (creamware) and polychrome enamels",
+    "inscriptions": null,
+    "credit_line": "The Amelia Blanxius Collection. Gift of Mrs. Emma B. Hodge and Mrs. Jene E. Bell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.3413,
+    "color": {
+        "h": 43,
+        "l": 40,
+        "s": 43,
+        "percentage": 0.0005054998382400518,
+        "population": 3
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "teapot",
+        "earthenware",
+        "creamware",
+        "earthenware",
+        "lead-glazed earthenware",
+        "ceramics",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11780",
+    "classification_title": "teapot",
+    "alt_classification_ids": [
+        "TM-11135",
+        "TM-74",
+        "TM-11132",
+        "TM-46",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11780",
+        "TM-11135",
+        "TM-74",
+        "TM-11132",
+        "TM-46",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "teapot",
+        "creamware",
+        "earthenware",
+        "lead-glazed earthenware",
+        "ceramics",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0b22416c-c09f-8e89-718e-27d04a6296b4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1916.132a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Teapot"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:46:20-05:00",
+    "timestamp": "2023-09-24T00:51:27-05:00"
+}

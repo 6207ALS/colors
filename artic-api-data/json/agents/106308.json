@@ -1,0 +1,31 @@
+{
+    "id": 106308,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/106308",
+    "title": "Helen Hughes Dulany",
+    "sort_title": "Dulany, Helen Hughes",
+    "alt_titles": [
+        "Helen Hughes Delany Studio"
+    ],
+    "is_artist": true,
+    "birth_date": 1895,
+    "death_date": 1991,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Helen Hughes Dulany",
+            "Dulany, Helen Hughes",
+            "Helen Hughes Delany Studio"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-05-04T16:40:13-05:00",
+    "updated_at": "2022-05-04T16:40:52-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

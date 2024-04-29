@@ -1,0 +1,177 @@
+{
+    "id": 51444,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/51444",
+    "is_boosted": false,
+    "title": "Theatre Toyal Drury Lane Programme",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMzFqtPLsNXNsuPYvOPavujewOrfwerhw+vgxO7jxe3kyO7lyPDmyfTnyfHoyvbqzvXu1fjv1vjv1/jx2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFEQSAIcTiAsysBMUPNIUQgAOw==",
+        "width": 2231,
+        "height": 3000,
+        "alt_text": "A work made of pen and black ink, over blue pencil, on buff wove board."
+    },
+    "main_reference_number": "1927.6179",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1900,
+    "date_display": "1900",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Philipp William May\nEnglish, 1864-1903",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "29.7 \u00d7 21.5 cm (11 3/4 \u00d7 8 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21.5,
+            "width_in": 8.4646,
+            "height_cm": 29.7,
+            "height_in": 11.693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink, over blue pencil, on buff wove board",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.573,
+    "color": {
+        "h": 45,
+        "l": 49,
+        "s": 17,
+        "percentage": 0.0030362708730535147,
+        "population": 29
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40697,
+    "artist_title": "Philip William May",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40697
+    ],
+    "artist_titles": [
+        "Philip William May"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "ink",
+        "coating (material)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-3238"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_titles": [
+        "ink",
+        "coating (material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "64207add-cce0-2096-bb1d-4304ee650f91",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.6179"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Theatre Toyal Drury Lane Programme"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:17:23-05:00",
+    "timestamp": "2023-09-24T00:43:14-05:00"
+}

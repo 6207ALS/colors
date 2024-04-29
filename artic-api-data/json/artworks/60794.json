@@ -1,0 +1,177 @@
+{
+    "id": 60794,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/60794",
+    "is_boosted": false,
+    "title": "The Bride",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAB0iHCAlHyEmICkuJy0yLDM4MkVKQ1JXUF5iWmRpYWdrY3d7c56hmAAAAAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsBwRDhhKGETSYhEAOw==",
+        "width": 1483,
+        "height": 2558,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1980.607a-d",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1970,
+    "date_display": "1970",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Barbara Hepworth\nEnglish, 1903\u20131975",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "240 \u00d7 55.9 \u00d7 30.5 cm (94 1/2 \u00d7 22 \u00d7 12 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 30.5,
+            "depth_in": 12,
+            "width_cm": 55.9,
+            "width_in": 22,
+            "height_cm": 240,
+            "height_in": 94.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Max Weinberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.0938,
+    "color": {
+        "h": 89,
+        "l": 46,
+        "s": 3,
+        "percentage": 0.06094367238248151,
+        "population": 747
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 34909,
+    "artist_title": "Barbara Hepworth",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34909
+    ],
+    "artist_titles": [
+        "Barbara Hepworth"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+    ],
+    "term_titles": [
+        "sculpture",
+        "geometric",
+        "modern and contemporary art",
+        "abstract figures"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-9124",
+    "alt_subject_ids": [
+        "TM-12688"
+    ],
+    "subject_ids": [
+        "TM-9124",
+        "TM-12688"
+    ],
+    "subject_titles": [
+        "geometric",
+        "abstract figures"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "9f0f348c-a85e-c70f-9776-ec2361e7789e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.607a-d"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Bride"
+            ],
+            "weight": 303,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-14T10:49:00-05:00",
+    "updated_at": "2023-07-14T10:50:51-05:00",
+    "timestamp": "2023-09-24T00:46:36-05:00"
+}

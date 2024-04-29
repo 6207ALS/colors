@@ -1,0 +1,45 @@
+{
+    "id": 40894,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40894",
+    "title": "Wols",
+    "sort_title": "Wols",
+    "alt_titles": [
+        "Alfred Otto Wolfgang Schulze",
+        "Otto Wols",
+        "Wols, (Alfred Otto Wolgang Schulze)",
+        "Alfred Otto Wolfgang Wols, (Schultze)",
+        "Wolfgang Schulze Wols",
+        "Otto Alfred Schulze Battman",
+        "Otto Alfred Wolfgang Schulze",
+        "Wolfgang Schulze"
+    ],
+    "is_artist": true,
+    "birth_date": 1913,
+    "death_date": 1951,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Wols",
+            "Wols",
+            "Alfred Otto Wolfgang Schulze",
+            "Otto Wols",
+            "Wols, (Alfred Otto Wolgang Schulze)",
+            "Alfred Otto Wolfgang Wols, (Schultze)",
+            "Wolfgang Schulze Wols",
+            "Otto Alfred Schulze Battman",
+            "Otto Alfred Wolfgang Schulze",
+            "Wolfgang Schulze"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:36-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

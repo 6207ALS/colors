@@ -1,0 +1,178 @@
+{
+    "id": 153654,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/153654",
+    "is_boosted": false,
+    "title": "Panel from a Curtain",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADgmHz8sJzQiK0MqJUMrKk43KlkzKFo8LUUtNlAqMlIvN00zNk9BJVZAIExEOWtPL2NGM3A/S19HQF1IQnBCR21iUnJjVIdxU6JjbgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoIA0BnFQVsUEzoUlS/RAxaBMEhACADs=",
+        "width": 4500,
+        "height": 4171,
+        "alt_text": "A work made of cotton, plain weave; roller printed."
+    },
+    "main_reference_number": "1999.528",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1925,
+    "date_display": "1920/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Probably designed by Minnie McLeish\nEnglish, 1876\u20131957\nProbably produced by W. Foxton Ltd.\nEngland, London",
+    "place_of_origin": "London",
+    "description": null,
+    "dimensions": "188 \u00d7 86.4 cm (74 \u00d7 34 in.); Warp repeat: H.: 43.9 cm (17 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 86.4,
+            "width_in": 34,
+            "height_cm": 188,
+            "height_in": 74,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 43.9,
+            "height_in": 17.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; roller printed",
+    "inscriptions": null,
+    "credit_line": "Louise Lutz Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 57.9536,
+    "color": {
+        "h": 49,
+        "l": 45,
+        "s": 79,
+        "percentage": 0.02764348411183156,
+        "population": 182
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 87161,
+    "artist_title": "Minnie McLeish",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        87161
+    ],
+    "artist_titles": [
+        "Minnie McLeish"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "3d9aa600-5c5d-9683-1959-db57c1f0dbaa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.528"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel from a Curtain"
+            ],
+            "weight": 50,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-20T16:46:09-05:00",
+    "updated_at": "2023-04-20T16:47:37-05:00",
+    "timestamp": "2023-09-24T01:29:11-05:00"
+}

@@ -1,0 +1,49 @@
+{
+    "id": 7977,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7977",
+    "title": "Video",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1989-09-30T00:00:00-05:00",
+    "aic_end_at": "1989-12-03T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "18ae472c-735e-c548-bd38-be5293bd7ce5",
+    "alt_image_ids": [
+        "5d7576f7-6256-9b1d-e064-a83c716c4daf",
+        "f50e5412-3fe5-91d9-93f2-206949046189",
+        "00a9cf32-cb67-d31f-0ac0-180b28c9f0f1",
+        "36d26561-0eb0-6f6b-1c7f-bdd4b63df21c",
+        "29e156d6-ecde-69d2-2385-cd0a3351a594",
+        "d2c6c51a-3cb3-52c4-9a06-b6204cbb2e03",
+        "b31f15e7-439e-d61b-cb78-fe4302881f58",
+        "8f6e41af-6a92-cd48-5cc3-c5687f102406",
+        "e8a32e1b-0f67-43af-695d-23b47544979c",
+        "b6bb8b52-73bd-71f8-ba11-e450f4c83e21",
+        "1889f5e1-aba7-3acb-ab2a-3a0677e37f50",
+        "78fc7f7b-0212-b440-c61b-fece05094765"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Video"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:14:09-06:00",
+    "timestamp": "2023-09-24T02:02:09-05:00"
+}

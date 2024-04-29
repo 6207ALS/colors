@@ -1,0 +1,177 @@
+{
+    "id": 14292,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/14292",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhJwAFAPYAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExUVFRYWFhcXFxgYGBsbGxwcHB8fHyIiIiMjIyQkJCYmJigoKC8vLzExMTU1NTs7Ozw8PEREREdHR0hISElJSUpKSkxMTE5OTlBQUFJSUlNTU1VVVVZWVlhYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmRkZGVlZWZmZmdnZ2hoaGpqamxsbG1tbW5ubm9vb3BwcHNzc3R0dHZ2dnd3d3h4eHl5eXt7e3x8fH5+fn9/f4CAgIKCgoWFhYqKiouLi46OjpCQkJGRkZSUlJWVlZaWlpeXl5mZmZubm5ycnJ2dnZ6enqCgoKSkpKampqenp6ysrK6urq+vr7CwsLGxsbKysrS0tLy8vL29vcDAwMLCwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAnAAUAAAfHgA4JHBwUggMBAwIBiRMLAAQBBZEBAosFCAYHDQoMEhEPExYZHy5HXGlGNjU5KzAzLC02NCkuPjQ1Oz4zMUAwMUI6JjlJKihGOCksGlZYYm9PRWxwUFdtWUdkaj87aFRCYmtGSmRQQWBVMkhSNUFITTxDBSFmNyJlYS5MbmFFWmFOloApckJLF1ZgpsCoMgYGiS1AMBwJI6JEmh8VIHSAMCDFCAEUvBABAORMhwlfhgDQ0YVTFBsANvSIQOAFBwAgcFzAMMNDIAA7",
+        "width": 3600,
+        "height": 456,
+        "alt_text": "A work made of linen, plain weave; cut work with silk and gold-gilt-metal-strip-wrapped silk in laid work and couching."
+    },
+    "main_reference_number": "1933.202",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1625,
+    "date_display": "1601/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Probably Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "6.1 \u00d7 210.7 cm (2 3/8 \u00d7 83 in.); Repeat: W.: 5.3 cm (4 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 210.7,
+            "width_in": 83,
+            "height_cm": 6.1,
+            "height_in": 2.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.3,
+            "width_in": 4.25,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Linen, plain weave; cut work with silk and gold-gilt-metal-strip-wrapped silk in laid work and couching",
+    "inscriptions": null,
+    "credit_line": "Gift of Arthur Heun through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1934,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 52,
+        "s": 0,
+        "percentage": 0.20842340994002284,
+        "population": 188
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "94bf23bb-7669-6f34-18f3-e82b4dd25239",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.202"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:41:23-05:00",
+    "timestamp": "2023-09-24T00:26:12-05:00"
+}

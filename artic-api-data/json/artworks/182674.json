@@ -1,0 +1,177 @@
+{
+    "id": 182674,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182674",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHItJ25FP2dlZZw9O6FFPJNOSpFRSodaW5ZZVp5zb4Z0dKxtbLFybquIhKyioAAAACH5BAAAAAAALAAAAAADAAUAAAQLsJXEBlrEHBCcEhEAOw==",
+        "width": 429,
+        "height": 768,
+        "alt_text": "A work made of silk, satin damask weave."
+    },
+    "main_reference_number": "2004.78",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1754,
+    "date_end": 1754,
+    "date_display": "1754",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Anna Maria Garthwaite\nEnglish, 1690\u20131763\nEngland, Spitalfields",
+    "place_of_origin": "Spitalfields",
+    "description": null,
+    "dimensions": "102.3 \u00d7 51 cm (40 1/4 \u00d7 20 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 51,
+            "width_in": 20.0625,
+            "height_cm": 102.3,
+            "height_in": 40.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, satin damask weave",
+    "inscriptions": null,
+    "credit_line": "Belle M. Borland Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 56.0421,
+    "color": {
+        "h": 3,
+        "l": 42,
+        "s": 38,
+        "percentage": 0.2971494874171342,
+        "population": 3780
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 31247,
+    "artist_title": "Anna Maria Garthwaite",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31247
+    ],
+    "artist_titles": [
+        "Anna Maria Garthwaite"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "weaving",
+        "silk (textile)",
+        "satin damask weaving",
+        "textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-159",
+    "classification_title": "weaving",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-159",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "weaving",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10602",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10602"
+    ],
+    "technique_titles": [
+        "satin damask weaving"
+    ],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "2d76e3b7-a683-6fbc-d8e5-86cc537f8b9b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.78"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 89,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:16:03-05:00",
+    "timestamp": "2023-09-24T01:33:56-05:00"
+}

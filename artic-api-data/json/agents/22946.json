@@ -1,0 +1,37 @@
+{
+    "id": 22946,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22946",
+    "title": "Jacopo Sansovino",
+    "sort_title": "Sansovino, Jacopo",
+    "alt_titles": [
+        "Jacopo d'Antonio Tatti",
+        "Jacopo Tatti, called Sansovino",
+        "Jacopo Tatti Sansovino",
+        "Jacopo Sansovino, (Jacopo d'Antonio Tatti)"
+    ],
+    "is_artist": true,
+    "birth_date": 1486,
+    "death_date": 1570,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacopo Sansovino",
+            "Sansovino, Jacopo",
+            "Jacopo d'Antonio Tatti",
+            "Jacopo Tatti, called Sansovino",
+            "Jacopo Tatti Sansovino",
+            "Jacopo Sansovino, (Jacopo d'Antonio Tatti)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:13-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

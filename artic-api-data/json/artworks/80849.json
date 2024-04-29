@@ -1,0 +1,173 @@
+{
+    "id": 80849,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80849",
+    "is_boosted": false,
+    "title": "Pair of Portrait Busts",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAICBgIKDgouNi5GSkZ6fnqChoKanp76/v8PExMbHx8jJyMvLy83Ozs/Q0NDQ0dbX19nZ2d7f3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALA8CLg8EAAUAAAURoNMwCxRFT3IgShEAhDEIRQgAOw==",
+        "width": 5751,
+        "height": 7287,
+        "alt_text": "A work made of wax."
+    },
+    "main_reference_number": "1954.447a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1805,
+    "date_end": 1815,
+    "date_display": "1810/15",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "T. Parker (School of) \nEnglish, early 19th century",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "34.4 \u00d7 34.9 cm (13 1/2 \u00d7 13 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 34.9,
+            "width_in": 13.75,
+            "height_cm": 34.4,
+            "height_in": 13.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wax",
+    "inscriptions": null,
+    "credit_line": "Bequest of Walter S. Brewster",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Walter S. Brewster, Chicago,  before 1954; bequeathed to the Art Instsitute, 1954.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1955,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 1.2729,
+    "color": {
+        "h": 159,
+        "l": 47,
+        "s": 0,
+        "percentage": 0.00433177389473123,
+        "population": 39
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 46383,
+    "artist_title": "School of T. Parker",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        46383
+    ],
+    "artist_titles": [
+        "School of T. Parker"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "bust/head",
+        "wax",
+        "organic material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-347",
+    "classification_title": "bust/head",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-347",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "bust/head",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2438",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2438",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "wax",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0a0b20df-0d7a-69e2-8725-9337b84552ac",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.447a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pair of Portrait Busts"
+            ],
+            "weight": 104,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:25:36-05:00",
+    "timestamp": "2023-09-24T00:54:55-05:00"
+}

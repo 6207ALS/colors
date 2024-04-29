@@ -1,0 +1,38 @@
+{
+    "id": 5109,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5109",
+    "title": "Paintings and Woodcuts by Weinold Reiss",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1921-09-22T00:00:00-05:00",
+    "aic_end_at": "1921-10-23T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "aa4a42be-de32-27ca-328a-b7b01b5824ed"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings and Woodcuts by Weinold Reiss"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:19:52-06:00",
+    "timestamp": "2023-09-24T02:01:31-05:00"
+}

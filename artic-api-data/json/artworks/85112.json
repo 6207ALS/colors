@@ -1,0 +1,172 @@
+{
+    "id": 85112,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/85112",
+    "is_boosted": false,
+    "title": "Screen of Abbot John's Chapel, Westminster Abbey",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAALqqh8O2k8W1k8CwlMm6kMi5lcm7lsu9mci9m8q9nM3Bnc3Cn8/Dn9HDntPGns3CpMzCps7CptLFodPHp9XJpNLHqNPJqdrPrtfPtgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4CQ1xfAoDgFUCxMIEEIZB2ZdSRQCADs=",
+        "width": 2834,
+        "height": 2828,
+        "alt_text": "A work made of graphite on tan wove card."
+    },
+    "main_reference_number": "1922.2515",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Unknown Artist\nEnglish, n.d.",
+    "place_of_origin": "United Kingdom",
+    "description": null,
+    "dimensions": "13.5 \u00d7 13.6 cm (5 3/8 \u00d7 5 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.6,
+            "width_in": 5.3544,
+            "height_cm": 13.5,
+            "height_in": 5.315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on tan wove card",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.3401,
+    "color": {
+        "h": 37,
+        "l": 58,
+        "s": 19,
+        "percentage": 0.016785079052080293,
+        "population": 119
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40399,
+    "artist_title": "Unknown artist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40399
+    ],
+    "artist_titles": [
+        "Unknown artist"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2410",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2410"
+    ],
+    "material_titles": [
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9afb8e67-a4c3-fc7b-66a7-dea695b1d8d3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.2515"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Screen of Abbot John's Chapel, Westminster Abbey"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:02-05:00",
+    "updated_at": "2023-04-10T12:11:03-05:00",
+    "timestamp": "2023-09-24T00:57:28-05:00"
+}

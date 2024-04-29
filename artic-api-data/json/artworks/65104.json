@@ -1,0 +1,174 @@
+{
+    "id": 65104,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/65104",
+    "is_boosted": false,
+    "title": "Vision-T",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALW0sra0s727ur+9vL++vMHAvsLAv8TDwcTDwsbFxMfFxMfGxc/OzM/PzNPS0QAAACH5BAAAAAAALAAAAAADAAUAAAQLUKyhXELMnFYCAREAOw==",
+        "width": 3701,
+        "height": 6703,
+        "alt_text": "A work made of cotton, plain weave; screen printed."
+    },
+    "main_reference_number": "1986.1026",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1979,
+    "date_end": 1979,
+    "date_display": "1979",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Nob (American, born Japan, 1945) and Non (American, born Japan, 1944) Utsumi\nProduced by Knoll International, Inc.\nUnited States, New York, New York",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "277.2 \u00d7 141.6 cm (109 1/8 \u00d7 55 3/4 in.); Warp repeat: H.: 82.2 cm (32 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 141.6,
+            "width_in": 55.75,
+            "height_cm": 277.2,
+            "height_in": 109.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 82.2,
+            "height_in": 32.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Nob Utsumi",
+    "catalogue_display": "<p>Unknown (VT01)</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1987,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.6338,
+    "color": {
+        "h": 346,
+        "l": 58,
+        "s": 1,
+        "percentage": 0.02936467429682093,
+        "population": 378
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 36032,
+    "artist_title": "Nob and Non",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36032
+    ],
+    "artist_titles": [
+        "Nob and Non"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8d9d22aa-d37f-e3f9-9f5a-37489d8fe63c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1026"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vision-T"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:58-05:00",
+    "updated_at": "2023-04-10T12:52:44-05:00",
+    "timestamp": "2023-09-24T00:48:37-05:00"
+}

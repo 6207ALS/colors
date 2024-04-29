@@ -1,0 +1,35 @@
+{
+    "id": 9584,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9584",
+    "title": "Antonio Gherardi, (Il Reatino)",
+    "sort_title": "Gherardi, Antonio, (Il Reatino)",
+    "alt_titles": [
+        "Antonio Gherardi",
+        "Antonio Gherardi, (Reatino)",
+        "Il Reatino"
+    ],
+    "is_artist": true,
+    "birth_date": 1644,
+    "death_date": 1702,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio Gherardi, (Il Reatino)",
+            "Gherardi, Antonio, (Il Reatino)",
+            "Antonio Gherardi",
+            "Antonio Gherardi, (Reatino)",
+            "Il Reatino"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:16:43-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

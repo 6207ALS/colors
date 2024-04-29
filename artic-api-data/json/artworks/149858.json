@@ -1,0 +1,177 @@
+{
+    "id": 149858,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/149858",
+    "is_boosted": false,
+    "title": "Graphics Suite #1",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALiMkb2Mkc6WjdCbj9qfj8uTlcOZk8yXmM+amNKdltmek9OlndennNapnuCmnOSqnuGsn+Osn+SsnuSwoQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYKIQASM9RzNFyAI5hTEIQAgAOw==",
+        "width": 2216,
+        "height": 3000,
+        "alt_text": "A work made of color screenprint in pink/blue with orange, tan and yellow on ivory wove paper."
+    },
+    "main_reference_number": "1978.611b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1970,
+    "date_display": "1970",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jules Olitski\nAmerican, 1922-2007",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Sheet: 88.5 \u00d7 66 cm (34 7/8 \u00d7 26 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 66,
+            "width_in": 25.9843,
+            "height_cm": 88.5,
+            "height_in": 34.8426,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color screenprint in pink/blue with orange, tan and yellow on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Maxine Kunstadter",
+    "catalogue_display": "<p>Wilkin & Long 45-49 I/I</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.3823,
+    "color": {
+        "h": 50,
+        "l": 49,
+        "s": 88,
+        "percentage": 0.001455508736691192,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36083,
+    "artist_title": "Jules Olitski",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36083
+    ],
+    "artist_titles": [
+        "Jules Olitski"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "screen printing",
+        "screenprint",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-214",
+    "classification_title": "screenprint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-214",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "screenprint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "1d6354fa-6969-3b46-59cf-a9d2f9089c8c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.611b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Graphics Suite #1"
+            ],
+            "weight": 48,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T07:59:59-05:00",
+    "timestamp": "2023-09-24T01:27:18-05:00"
+}

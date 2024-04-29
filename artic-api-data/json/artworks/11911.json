@@ -1,0 +1,183 @@
+{
+    "id": 11911,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11911",
+    "is_boosted": false,
+    "title": "Venetian Domes",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIB8bZCMfZeQf5qVh5yVhaGbiqeikq+qmbCqmbGsmrKtm7Svnrq1oru1pcvHtdHMutTPveLbyeTdyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoIQsEQMEz2FASrE4idAMRAgAOw==",
+        "width": 2408,
+        "height": 3000,
+        "alt_text": "Fine black lines create five transparent domes in the middle and and background with visible scaffolding, rooftops in the foreground."
+    },
+    "main_reference_number": "1960.202",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1955,
+    "date_end": 1955,
+    "date_display": "1955",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Rudy Pozzatti\nAmerican, born 1925",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Plate: 49.5 \u00d7 40 cm (19 1/2 \u00d7 15 3/4 in.); Sheet: 63.5 \u00d7 50.5 cm (25 \u00d7 19 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40,
+            "width_in": 15.7481,
+            "height_cm": 49.5,
+            "height_in": 19.4882,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.5,
+            "width_in": 19.8819,
+            "height_cm": 63.5,
+            "height_in": 25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving and drypoint on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Harold Joachim",
+    "catalogue_display": "<p>Geske 42 2/15</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.8877,
+    "color": {
+        "h": 83,
+        "l": 46,
+        "s": 4,
+        "percentage": 0.01457380105066938,
+        "population": 129
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36263,
+    "artist_title": "Rudy Pozzatti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36263
+    ],
+    "artist_titles": [
+        "Rudy Pozzatti"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5fb05fcb-5afb-d8c1-62a5-fdc673efa37d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1960.202"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Venetian Domes"
+            ],
+            "weight": 14927,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:46:12-05:00",
+    "timestamp": "2023-09-24T00:25:12-05:00"
+}

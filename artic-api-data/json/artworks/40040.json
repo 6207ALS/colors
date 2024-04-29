@@ -1,0 +1,183 @@
+{
+    "id": 40040,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/40040",
+    "is_boosted": false,
+    "title": "Portrait of a Child",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKurob2+tcfEvMjIvsjIv8jJwMvIwM3KwczKwsvMw83Nw83NxM7NxM/QydDRyAAAACH5BAAAAAAALAAAAAADAAUAAAQL8CAjABmhrJaYUxEAOw==",
+        "width": 2087,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on ivory wove paper."
+    },
+    "main_reference_number": "1940.1221",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1811,
+    "date_end": 1821,
+    "date_display": "c. 1816",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Comte de Charles Philibert Lasteyrie du Saillant (French, 1759-1849)\nafter Lameau (French, active 1803-1822)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 20.8 \u00d7 15.7 cm (8 1/4 \u00d7 6 3/16 in.); Sheet: 38.7 \u00d7 26.6 cm (15 1/4 \u00d7 10 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.7,
+            "width_in": 6.1812,
+            "height_cm": 20.8,
+            "height_in": 8.189,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.6,
+            "width_in": 10.4725,
+            "height_cm": 38.7,
+            "height_in": 15.2363,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "John H. Wrenn Memorial Collection",
+    "catalogue_display": "<p>Beraldi p. 54-55</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1941,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.1361,
+    "color": {
+        "h": 53,
+        "l": 52,
+        "s": 6,
+        "percentage": 0.00841721182794436,
+        "population": 86
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35403,
+    "artist_title": "comte de Charles Philibert Lasteyrie du Saillant",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35403
+    ],
+    "artist_titles": [
+        "comte de Charles Philibert Lasteyrie du Saillant"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bae1fb25-a28b-f897-1d9e-1a649a8fbd39",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1940.1221"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Child"
+            ],
+            "weight": 9,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:44:15-05:00",
+    "timestamp": "2023-09-24T00:37:52-05:00"
+}

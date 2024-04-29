@@ -1,0 +1,31 @@
+{
+    "id": 63530,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/63530",
+    "title": "Mary Lovelace O'Neal",
+    "sort_title": "O'Neal, Mary Lovelace",
+    "alt_titles": [
+        "Mary L. O'Neal"
+    ],
+    "is_artist": true,
+    "birth_date": 1942,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mary Lovelace O'Neal",
+            "O'Neal, Mary Lovelace",
+            "Mary L. O'Neal"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-10-14T10:08:56-05:00",
+    "updated_at": "2020-10-14T10:10:44-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

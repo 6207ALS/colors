@@ -1,0 +1,172 @@
+{
+    "id": 3690,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/3690",
+    "is_boosted": false,
+    "title": "Solomon's Idolatry",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEhJPVtbTHNyX3l3YX18Z359Z359aIOBaoeFb4mGboyJb5SRdpeUe5eUfJuXfaCcgqWhhaumi66qjQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYPQYB8QIw0IIgQIUiYM0UggAOw==",
+        "width": 2242,
+        "height": 2670,
+        "alt_text": "A work made of engraving in black on tan laid paper."
+    },
+    "main_reference_number": "1956.812",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1501,
+    "date_end": 1501,
+    "date_display": "1501",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Master M.Z.\nGerman, active 1500-1550",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Sheet trimmed within platemark: 18.3 \u00d7 15.3 cm (7 1/4 \u00d7 6 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.3,
+            "width_in": 6.0237,
+            "height_cm": 18.3,
+            "height_in": 7.2048,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet trimmed within platemark"
+        }
+    ],
+    "medium_display": "Engraving in black on tan laid paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Potter Palmer, Jr.",
+    "catalogue_display": "<p>Lehrs 1.347.VIII</p><p>Bartsch 1.371.VI</p><p>Bartsch, illustrated 0914.1(371)</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.0192,
+    "color": {
+        "h": 52,
+        "l": 51,
+        "s": 10,
+        "percentage": 0.10196462075777554,
+        "population": 863
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 16562,
+    "artist_title": "Master M.Z.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        16562
+    ],
+    "artist_titles": [
+        "Master M.Z."
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2ad20557-baf9-566e-12d1-527570ac6548",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.812"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Solomon's Idolatry"
+            ],
+            "weight": 120,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-04-10T15:01:26-05:00",
+    "timestamp": "2023-09-24T00:21:53-05:00"
+}

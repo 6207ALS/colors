@@ -1,0 +1,37 @@
+{
+    "id": 52584,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52584",
+    "title": "Charles Nicolas Cochin, I",
+    "sort_title": "Cochin, Charles Nicolas, I",
+    "alt_titles": [
+        "Charles N. Cochin, I",
+        "Charles-Nicolas Cochin, I",
+        "Charles Nicolas Cochin, the elder",
+        "Charles Nicolas Cochin, (the Elder)"
+    ],
+    "is_artist": true,
+    "birth_date": 1688,
+    "death_date": 1754,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Nicolas Cochin, I",
+            "Cochin, Charles Nicolas, I",
+            "Charles N. Cochin, I",
+            "Charles-Nicolas Cochin, I",
+            "Charles Nicolas Cochin, the elder",
+            "Charles Nicolas Cochin, (the Elder)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:05-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

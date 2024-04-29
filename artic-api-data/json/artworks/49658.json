@@ -1,0 +1,168 @@
+{
+    "id": 49658,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/49658",
+    "is_boosted": false,
+    "title": "Carpet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAGlfVnBhVXVmWnJnXHZoXXlqXYJwZoNza4V0aYh3bAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIUISEjiEFjAgAOw==",
+        "width": 364,
+        "height": 768,
+        "alt_text": "A work made of cotton and wool, plain weave with supplementary wrapping wefts forming cut pile through a technique known as \"persian\" (sehna) knots."
+    },
+    "main_reference_number": "1944.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1625,
+    "date_display": "1601/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Iran, Kerman",
+    "place_of_origin": "Iran",
+    "description": null,
+    "dimensions": "341.4 \u00d7 149.1 cm (134 3/4 \u00d7 58 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 149.1,
+            "width_in": 58.75,
+            "height_cm": 341.4,
+            "height_in": 134.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and wool, plain weave with supplementary wrapping wefts forming cut pile through a technique known as \"Persian\" (Sehna) knots",
+    "inscriptions": null,
+    "credit_line": "Gift of Lt. Col. William Deering Howe",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.0898,
+    "color": {
+        "h": 39,
+        "l": 54,
+        "s": 13,
+        "percentage": 0.08655081659828619,
+        "population": 1298
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 29882,
+    "artist_title": "Islamic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29882
+    ],
+    "artist_titles": [
+        "Islamic"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "kirman",
+        "textile",
+        "weaving - carpet"
+    ],
+    "style_id": "TM-4740",
+    "style_title": "kirman",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4740"
+    ],
+    "style_titles": [
+        "kirman"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1369"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1369"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - carpet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3005abe1-76a7-c615-f208-ce665b69de93",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1944.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Carpet"
+            ],
+            "weight": 183,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:21:52-05:00",
+    "timestamp": "2023-09-24T00:42:17-05:00"
+}

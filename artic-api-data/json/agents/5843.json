@@ -1,0 +1,28 @@
+{
+    "id": 5843,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5843",
+    "title": "Cornelis van Dalen, II",
+    "sort_title": "Dalen, Cornelis van, II",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1638,
+    "death_date": 1664,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cornelis van Dalen, II",
+            "Dalen, Cornelis van, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-10-19T14:48:56-05:00",
+    "updated_at": "2022-03-15T16:48:10-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

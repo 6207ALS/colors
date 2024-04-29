@@ -1,0 +1,33 @@
+{
+    "id": 4781,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/4781",
+    "title": "Zhu Lunhan",
+    "sort_title": "Zhu Lunhan",
+    "alt_titles": [
+        "Chu Lun-han",
+        "Tchou Louen-han"
+    ],
+    "is_artist": true,
+    "birth_date": 1680,
+    "death_date": 1780,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zhu Lunhan",
+            "Zhu Lunhan",
+            "Chu Lun-han",
+            "Tchou Louen-han"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:18:22-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

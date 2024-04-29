@@ -1,0 +1,176 @@
+{
+    "id": 92307,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/92307",
+    "is_boosted": false,
+    "title": "Indian Head",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAA0NDSUlJSoqKi8vL0REREtLS05OTlJSUldXV2NjY2VlZWZmZnFxcXJycnZ2dnl5eYGBgYODg4aGhpKSkpmZmZqamq2trbGxsbq6ur6+vsDAwPT09Pr6+vz8/P39/f7+/iH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAHAAUAAAUd4FcozxBAHiFZC9BwRuJEArMh1UQdS3ddmExFEwIAOw==",
+        "width": 3300,
+        "height": 2550,
+        "alt_text": "A work made of plaster."
+    },
+    "main_reference_number": "1926.2197",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1926,
+    "date_end": 1926,
+    "date_display": "1926",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ivan Mestrovic\nAmerican, born Croatia, 1883\u20131962",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "76.2 \u00d7 73.7 cm (30 \u00d7 29 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73.7,
+            "width_in": 29,
+            "height_cm": 76.2,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Plaster",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "South Bend, Indiana, Snite Museum of Art, University of Notre Dame, 1984\u20132000.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 52,
+        "s": 0,
+        "percentage": 0.09967328300470304,
+        "population": 547
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35751,
+    "artist_title": "Ivan Mestrovic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35751
+    ],
+    "artist_titles": [
+        "Ivan Mestrovic"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "plaster",
+        "sculpture",
+        "bust/head",
+        "plaster",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-347",
+        "TM-414",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-347",
+        "TM-414",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "bust/head",
+        "plaster",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2439",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2439"
+    ],
+    "material_titles": [
+        "plaster"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b8af7727-55ef-0870-4aba-3bef0a473c99",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.2197"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Indian Head"
+            ],
+            "weight": 187,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:55:56-05:00",
+    "timestamp": "2023-09-24T01:00:52-05:00"
+}

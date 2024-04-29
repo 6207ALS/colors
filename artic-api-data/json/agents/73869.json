@@ -1,0 +1,37 @@
+{
+    "id": 73869,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/73869",
+    "title": "Nicolas Delaunay",
+    "sort_title": "Delaunay, Nicolas",
+    "alt_titles": [
+        "Nicolas de Launay",
+        "De Valnay",
+        "N. de (Nicolas de) Launay",
+        "Nicolas De Launay"
+    ],
+    "is_artist": true,
+    "birth_date": 1739,
+    "death_date": 1792,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolas Delaunay",
+            "Delaunay, Nicolas",
+            "Nicolas de Launay",
+            "De Valnay",
+            "N. de (Nicolas de) Launay",
+            "Nicolas De Launay"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:21-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

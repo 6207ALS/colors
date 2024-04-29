@@ -1,0 +1,181 @@
+{
+    "id": 28086,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/28086",
+    "is_boosted": false,
+    "title": "James McNeill Whistler",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABgSAxsWBBsWBR0XCCcgDy0mFC8oGDElEzIpG0M2HkxBL1hJMF5NMmBSO2JSOgAAACH5BAAAAAAALAAAAAADAAUAAAQL0KHGjlrJlCAIGBEAOw==",
+        "width": 1547,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1926.259",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1869,
+    "date_end": 1869,
+    "date_display": "1869",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Walter Greaves\nEnglish, 1841-1930",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "83.6 \u00d7 58.2 cm (32 7/8 \u00d7 22 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 58.2,
+            "width_in": 22.875,
+            "height_cm": 83.6,
+            "height_in": 32.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "A. A. Munger Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.8574,
+    "color": {
+        "h": 42,
+        "l": 41,
+        "s": 54,
+        "percentage": 0.0007740552172289211,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 246",
+    "gallery_id": 2147479700,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 10213,
+    "artist_title": "Walter Greaves",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        10213
+    ],
+    "artist_titles": [
+        "Walter Greaves"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "Century of Progress",
+        "painting",
+        "european painting",
+        "world's fairs",
+        "Chicago World's Fairs"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": "TM-12169",
+    "alt_subject_ids": [
+        "TM-11299",
+        "TM-12176"
+    ],
+    "subject_ids": [
+        "TM-12169",
+        "TM-11299",
+        "TM-12176"
+    ],
+    "subject_titles": [
+        "Century of Progress",
+        "world's fairs",
+        "Chicago World's Fairs"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c65c4d31-4c8e-0135-1271-433a10c8350a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.259"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "James McNeill Whistler"
+            ],
+            "weight": 280,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-26T11:42:47-05:00",
+    "updated_at": "2023-05-26T11:48:13-05:00",
+    "timestamp": "2023-09-24T00:32:50-05:00"
+}

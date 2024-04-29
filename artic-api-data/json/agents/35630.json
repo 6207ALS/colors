@@ -1,0 +1,31 @@
+{
+    "id": 35630,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35630",
+    "title": "Pietro Antonio Martini",
+    "sort_title": "Martini, Pietro Antonio",
+    "alt_titles": [
+        "Pietro A. Martini"
+    ],
+    "is_artist": true,
+    "birth_date": 1738,
+    "death_date": 1797,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pietro Antonio Martini",
+            "Martini, Pietro Antonio",
+            "Pietro A. Martini"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:56:50-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

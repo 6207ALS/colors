@@ -1,0 +1,181 @@
+{
+    "id": 94473,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/94473",
+    "is_boosted": false,
+    "title": "Paperweight",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACcABFA0RlY3Rl8/TJhleJyUmKqdo76ztuPU0+/z7vL07/P39fn49/r5+fn6+Pr6+vv6+/r7+/v7+/z8/P3+/P7+/v///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4FNZlcQUhOEoAyAk1hEgVBMtExQCADs=",
+        "width": 2250,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1977.847",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1905,
+    "date_end": 1925,
+    "date_display": "c. 1910\u201320",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Barber Brothers, Millville NJ\nAmerican, act. 1912",
+    "place_of_origin": "Millville",
+    "description": null,
+    "dimensions": "Diam.: 9.2 cm (3 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 9.2,
+            "diameter_in": 3.625,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Arthur Rubloff",
+    "catalogue_display": "<p>Unknown 76.</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1978,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.9045,
+    "color": {
+        "h": 337,
+        "l": 48,
+        "s": 71,
+        "percentage": 0.001970030211820463,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 44044,
+    "artist_title": "Barber Brothers",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44044
+    ],
+    "artist_titles": [
+        "Barber Brothers"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "lampworking",
+        "glass",
+        "paperweight",
+        "lampwork",
+        "european decorative arts",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-858",
+    "classification_title": "paperweight",
+    "alt_classification_ids": [
+        "TM-287",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-858",
+        "TM-287",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "paperweight",
+        "lampwork",
+        "european decorative arts",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": "TM-4141",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4141"
+    ],
+    "technique_titles": [
+        "lampworking"
+    ],
+    "theme_titles": [],
+    "image_id": "9cc012cc-b70a-fa85-3e0f-e40d7110b367",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.847"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Paperweight"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-16T16:52:40-05:00",
+    "updated_at": "2023-08-16T16:55:54-05:00",
+    "timestamp": "2023-09-24T01:01:53-05:00"
+}

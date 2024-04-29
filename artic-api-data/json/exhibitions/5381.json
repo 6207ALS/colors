@@ -1,0 +1,38 @@
+{
+    "id": 5381,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5381",
+    "title": "Paintings by William S. Schwartz",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1926-07-15T00:00:00-05:00",
+    "aic_end_at": "1926-09-15T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "005de366-f2b7-cfea-beaa-75fdfa08f73b"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by William S. Schwartz"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:19:28-06:00",
+    "timestamp": "2023-09-24T02:01:35-05:00"
+}

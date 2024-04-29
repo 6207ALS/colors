@@ -1,0 +1,180 @@
+{
+    "id": 40520,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/40520",
+    "is_boosted": false,
+    "title": "Plate",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADdJizxLiz5QkD5TnTRPp251lm52nXF7onuEq6+vramqsbW0sbW1srq5t7Gxu7O0u7y7u728u8HCyszLy83NztLR0ODg3uHg4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVINMoSxIdQgE9ADE4FRIY1DVJkxUCADs=",
+        "width": 2483,
+        "height": 2250,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1972.906",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1827,
+    "date_end": 1836,
+    "date_display": "1827\u201336",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "James and Ralph Clews\nEnglish, active 1818\u201336\nMade for the American market\nWest Midlands, Stoke-on-Trent, England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Diam.: 22.5 cm (8 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 22.5,
+            "diameter_in": 8.875,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware",
+    "inscriptions": "Mark on bottom: crown circled by \"CLEWS WARRANTED STAFFORDSHIRE\"",
+    "credit_line": "Bequest of Mildred Hofeller for the Betje and Simon Straus Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.3811,
+    "color": {
+        "h": 224,
+        "l": 44,
+        "s": 65,
+        "percentage": 0.012576624247731549,
+        "population": 81
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 4929,
+    "artist_title": "James Clews",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        4929
+    ],
+    "artist_titles": [
+        "James Clews"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "plate (general, dish)",
+        "earthenware",
+        "earthenware",
+        "dish (vessel)",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11765",
+    "classification_title": "plate (general, dish)",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-11783",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11765",
+        "TM-74",
+        "TM-11783",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "plate (general, dish)",
+        "earthenware",
+        "dish (vessel)",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5878e691-dc87-5bd2-439e-2975faed188f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.906"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Plate"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:24:14-05:00",
+    "timestamp": "2023-09-24T00:38:01-05:00"
+}

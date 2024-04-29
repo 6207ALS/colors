@@ -1,0 +1,183 @@
+{
+    "id": 16590,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16590",
+    "is_boosted": false,
+    "title": "Andromeda",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFdMR3xdSmBWUWFiXnJgV39hVY1cRIRcS4tqWJuCbomCeamQdqeRenODimeCkpCbmaGPg7SfhJ6glp+hl7Clj7+1o7+3q8Sym9nRxAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoCNVF/VMycI0ioEcAhBExUBAmBUCADs=",
+        "width": 2157,
+        "height": 2250,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1933.1167",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1904,
+    "date_end": 1910,
+    "date_display": "1904/10",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Odilon Redon\nFrench, 1840\u20131916",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "56 \u00d7 54 cm (22 1/8 \u00d7 21 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 54,
+            "width_in": 21.25,
+            "height_cm": 56,
+            "height_in": 22.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.1496,
+    "color": {
+        "h": 197,
+        "l": 38,
+        "s": 51,
+        "percentage": 0.021727483377125684,
+        "population": 161
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 245",
+    "gallery_id": 2147479701,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 36336,
+    "artist_title": "Odilon Redon",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36336
+    ],
+    "artist_titles": [
+        "Odilon Redon"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "Post-Impressionism",
+        "water",
+        "oil paint (paint)",
+        "modern and contemporary art",
+        "mysteries/fantasies"
+    ],
+    "style_id": "TM-7547",
+    "style_title": "Post-Impressionism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7547"
+    ],
+    "style_titles": [
+        "Post-Impressionism"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-8681",
+    "alt_subject_ids": [
+        "TM-10184"
+    ],
+    "subject_ids": [
+        "TM-8681",
+        "TM-10184"
+    ],
+    "subject_titles": [
+        "water",
+        "mysteries/fantasies"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2451"
+    ],
+    "material_titles": [
+        "oil paint (paint)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2acf7c4c-d3a9-e4f6-0343-4dcb75ec8b34",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1167"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Andromeda"
+            ],
+            "weight": 4593,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-09T14:00:17-05:00",
+    "updated_at": "2023-08-09T14:01:06-05:00",
+    "timestamp": "2023-09-24T00:27:08-05:00"
+}

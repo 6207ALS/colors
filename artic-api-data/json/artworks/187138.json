@@ -1,0 +1,177 @@
+{
+    "id": 187138,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/187138",
+    "is_boosted": false,
+    "title": "Drawing for Haystacks",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPMAAOrkyuzmzO3nzu7ozu/pz/Dq0PHr0fLs0vPt0/Tu1PXv1ffx1wAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAQSMK2lSknpjGKOCAQ3BAWCGEAEADs=",
+        "width": 3000,
+        "height": 2779,
+        "alt_text": "A work made of graphite on cream wove paper."
+    },
+    "main_reference_number": "2006.146",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1969,
+    "date_end": 1969,
+    "date_display": "1969",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Roy Lichtenstein\nAmerican, 1923-1997",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "76.8 \u00d7 85.2 cm (30 1/4 \u00d7 33 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 85.2,
+            "width_in": 33.5434,
+            "height_cm": 76.8,
+            "height_in": 30.2363,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Roy Lichtenstein Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Estate of Roy Lichtenstein",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.3335,
+    "color": {
+        "h": 49,
+        "l": 47,
+        "s": 10,
+        "percentage": 0.0009113236520384032,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35480,
+    "artist_title": "Roy Lichtenstein",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35480
+    ],
+    "artist_titles": [
+        "Roy Lichtenstein"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "Pop Art",
+        "graphite",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": "TM-7221",
+    "style_title": "Pop Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7221"
+    ],
+    "style_titles": [
+        "Pop Art"
+    ],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "graphite",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0651a6b0-16ed-40f6-e2c1-5cb9a2737fc7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2006.146"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Drawing for Haystacks"
+            ],
+            "weight": 696,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-09-23T23:23:09-05:00",
+    "timestamp": "2023-09-24T01:35:50-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 29405,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/29405",
+    "title": "Jack Youngerman",
+    "sort_title": "Youngerman, Jack",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1926,
+    "death_date": 2020,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jack Youngerman",
+            "Youngerman, Jack"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-02-21T11:46:35-06:00",
+    "updated_at": "2022-03-15T16:53:34-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

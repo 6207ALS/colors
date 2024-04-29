@@ -1,0 +1,172 @@
+{
+    "id": 194707,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/194707",
+    "is_boosted": false,
+    "title": "Chinese Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKWRebCjmsK5scjAuc3Gw87KyM3Iys/NztjW1OPi5Ofn6Ono6erp6+rr7QAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLcCVFBgpAFHOYahEAOw==",
+        "width": 1522,
+        "height": 2250,
+        "alt_text": "A work made of stained cherry, jute, and leather."
+    },
+    "main_reference_number": "2008.620.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1944,
+    "date_end": 1944,
+    "date_display": "Designed 1944; Manufactured 1982",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Hans J. Wegner\nDanish, 1914-2007\nMade by Fritz Hansen\nCopenhagen, Denmark, founded 1872",
+    "place_of_origin": "Copenhagen",
+    "description": null,
+    "dimensions": "83.8 \u00d7 53.3 \u00d7 58.4 cm (33 \u00d7 21 \u00d7 23 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 58.4,
+            "depth_in": 23,
+            "width_cm": 53.3,
+            "width_in": 21,
+            "height_cm": 83.8,
+            "height_in": 33,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stained cherry, jute, and leather",
+    "inscriptions": null,
+    "credit_line": "Gift of Neville and John Bryan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.5887,
+    "color": {
+        "h": 41,
+        "l": 53,
+        "s": 21,
+        "percentage": 0.012376496842089227,
+        "population": 130
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 28191,
+    "artist_title": "Hans J. Wegner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28191
+    ],
+    "artist_titles": [
+        "Hans J. Wegner"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "chair",
+        "furniture",
+        "seating",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11745",
+    "classification_title": "chair",
+    "alt_classification_ids": [
+        "TM-466",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-11745",
+        "TM-466",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "chair",
+        "seating",
+        "furniture"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "75dec357-65b2-1f7c-9ac8-b8370ab3bd01",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.620.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Chinese Chair"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:22-05:00",
+    "updated_at": "2023-04-07T15:58:23-05:00",
+    "timestamp": "2023-09-24T01:38:03-05:00"
+}

@@ -1,0 +1,158 @@
+{
+    "id": 218903,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/218903",
+    "is_boosted": false,
+    "title": "Untitled (Kunstverein M\u00fcnchen, Germany, 1993)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAH5zZo58ZoV6a5KJcJKIcpqJcZ+SdqSYd6CVfKebeqqceLOlf9Gqequhg7GlgLGnhLeqgr+rg7+zjMO0iMW4jci6icu+kdHEkdTGk9bKkdrMlt3PmurBheXWm+PWn+TYm+fboOzhouzgpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQIgjsahkMBYCwKD5gCSIhmATEj0KjAjl4hkEOJ2DYhIEADs=",
+        "width": 3000,
+        "height": 2136,
+        "alt_text": "A work made of poster."
+    },
+    "main_reference_number": "2013.1457",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1993,
+    "date_end": 1993,
+    "date_display": "1993",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Christopher Williams \nAmerican, born 1956",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "59.5 \u00d7 84 cm (23 7/16 \u00d7 33 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 84,
+            "width_in": 33.0709,
+            "height_cm": 59.5,
+            "height_in": 23.4252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Poster",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.7167,
+    "color": {
+        "h": 4,
+        "l": 46,
+        "s": 95,
+        "percentage": 0.005733491498616054,
+        "population": 29
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 112559,
+    "artist_title": "Christopher Williams",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112559
+    ],
+    "artist_titles": [
+        "Christopher Williams"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-17"
+    ],
+    "classification_titles": [
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "700f2aae-8083-6db1-471f-49ba7c33b3e4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1457"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Kunstverein M\u00fcnchen, Germany, 1993)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:29-05:00",
+    "updated_at": "2023-04-07T15:24:19-05:00",
+    "timestamp": "2023-09-24T01:45:30-05:00"
+}

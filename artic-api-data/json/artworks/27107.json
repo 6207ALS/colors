@@ -1,0 +1,181 @@
+{
+    "id": 27107,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27107",
+    "is_boosted": false,
+    "title": "Vast Ocean",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAL+9ssK/tcXAtcbCt8XDu8jGvsrHvs/Kv87Kwc7MxM/Oxc7OxtPOxNLRydbUzNjUy9rXztvXztzZ0d/b0ODc0+Hf1uLg1+Th2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYFNZ0uJMF5UoUPQUBnMgRDAIAxACADs=",
+        "width": 2281,
+        "height": 2250,
+        "alt_text": "A work made of paint and nails on canvas over wood."
+    },
+    "main_reference_number": "1967.165",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1964,
+    "date_end": 1964,
+    "date_display": "1964",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "G\u00fcnther Uecker\nGerman, born 1930",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "175.3 \u00d7 175.3 \u00d7 12.7 cm (69 \u00d7 69 \u00d7 5 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 12.7,
+            "depth_in": 5,
+            "width_cm": 175.3,
+            "width_in": 69,
+            "height_cm": 175.3,
+            "height_in": 69,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Paint and nails on canvas over wood",
+    "inscriptions": null,
+    "credit_line": "Barbara Neff Smith and Solomon Byron Smith Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1967,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.4875,
+    "color": {
+        "h": 51,
+        "l": 48,
+        "s": 12,
+        "percentage": 0.022954877269823887,
+        "population": 161
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 26799,
+    "artist_title": "G\u00fcnther Uecker",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        26799
+    ],
+    "artist_titles": [
+        "G\u00fcnther Uecker"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "construction",
+        "abstract shapes",
+        "painting",
+        "modern and contemporary art",
+        "gray (color)",
+        "white (color)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-527",
+    "classification_title": "construction",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-527",
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "construction",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12708",
+    "alt_subject_ids": [
+        "TM-11840",
+        "TM-11841"
+    ],
+    "subject_ids": [
+        "TM-12708",
+        "TM-11840",
+        "TM-11841"
+    ],
+    "subject_titles": [
+        "abstract shapes",
+        "gray (color)",
+        "white (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a41938e3-8a4e-0fee-a916-458a0c73fca7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1967.165"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vast Ocean"
+            ],
+            "weight": 1248,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:11:23-05:00",
+    "timestamp": "2023-09-24T00:32:24-05:00"
+}

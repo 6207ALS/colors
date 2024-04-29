@@ -1,0 +1,41 @@
+{
+    "id": 4311,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/4311",
+    "title": "Chen Chun",
+    "sort_title": "Chen Chun",
+    "alt_titles": [
+        "Ch'\u00ean Ch'un",
+        "Chen Daofu",
+        "Ch'en Tao-fu",
+        "Chen Shun",
+        "Ch'\u00ean Shun",
+        "Tch'en Tao-fou"
+    ],
+    "is_artist": true,
+    "birth_date": 1483,
+    "death_date": 1544,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chen Chun",
+            "Chen Chun",
+            "Ch'\u00ean Ch'un",
+            "Chen Daofu",
+            "Ch'en Tao-fu",
+            "Chen Shun",
+            "Ch'\u00ean Shun",
+            "Tch'en Tao-fou"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:51-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

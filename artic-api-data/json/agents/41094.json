@@ -1,0 +1,31 @@
+{
+    "id": 41094,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41094",
+    "title": "Dominic Serres",
+    "sort_title": "Serres, Dominic",
+    "alt_titles": [
+        "Dominic Serres, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1722,
+    "death_date": 1793,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dominic Serres",
+            "Serres, Dominic",
+            "Dominic Serres, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:36-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

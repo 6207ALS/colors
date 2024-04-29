@@ -1,0 +1,169 @@
+{
+    "id": 236268,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/236268",
+    "is_boosted": false,
+    "title": "House House",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEA7OElEQUlFQlZPTXdfXYR9faWTk6+npLi6ubq6ubi7u922tsjMy87S0dbS0AAAACH5BAAAAAAALAAAAAADAAUAAAQLMDWG3FGLFDMECBEAOw==",
+        "width": 1500,
+        "height": 2250,
+        "alt_text": "A work made of photocollage."
+    },
+    "main_reference_number": "2016.184.5",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2013,
+    "date_end": 2013,
+    "date_display": "2013",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Johnston Marklee (American, founded 1998)\nSharon Johnston (American, born 1965)\nMark Lee (Chinese, born 1967)",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "90 \u00d7 60 cm (35 1/2 \u00d7 23 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60,
+            "width_in": 23.75,
+            "height_cm": 90,
+            "height_in": 35.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Photocollage",
+    "inscriptions": null,
+    "credit_line": "Funds provided by the Architecture & Design Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.0072,
+    "color": {
+        "h": 351,
+        "l": 40,
+        "s": 94,
+        "percentage": 0.02006761096966884,
+        "population": 214
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 38186,
+    "artist_title": "Johnston Marklee",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        38186
+    ],
+    "artist_titles": [
+        "Johnston Marklee"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "21st Century",
+        "photograph",
+        "photography"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8514c969-dcbd-4b4a-0f74-19c9dffa5852",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.184.5"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "House House"
+            ],
+            "weight": 8,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-25T15:21:31-05:00",
+    "updated_at": "2023-08-25T15:25:53-05:00",
+    "timestamp": "2023-09-24T01:51:58-05:00"
+}

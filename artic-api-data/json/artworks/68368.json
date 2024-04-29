@@ -1,0 +1,172 @@
+{
+    "id": 68368,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/68368",
+    "is_boosted": false,
+    "title": "Woman with Folded Hands",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAN3Nqd7Pqd/RrODSrODSreLTruLTr+DSsOLTs+PUs+PWsuPWs+TXtObXuebZugAAACH5BAAAAAAALAAAAAADAAUAAAQLEBwUxCJDFcOSaxEAOw==",
+        "width": 1854,
+        "height": 3000,
+        "alt_text": "A work made of graphite on cream laminate board (discolored)."
+    },
+    "main_reference_number": "1912.1615",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1855,
+    "date_end": 1910,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "John La Farge\nAmerican, 1835-1910",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "25.4 \u00d7 15.8 cm (10 \u00d7 6 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.8,
+            "width_in": 6.2205,
+            "height_cm": 25.4,
+            "height_in": 10,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on cream laminate board (discolored)",
+    "inscriptions": null,
+    "credit_line": "Prints and Drawings Purchase",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.0272,
+    "color": {
+        "h": 53,
+        "l": 54,
+        "s": 47,
+        "percentage": 0.0010436125692697845,
+        "population": 12
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35366,
+    "artist_title": "John La Farge",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35366
+    ],
+    "artist_titles": [
+        "John La Farge"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2410",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2410"
+    ],
+    "material_titles": [
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2f350f52-7f5f-548d-d914-7e3e01ddfd2e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1912.1615"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Woman with Folded Hands"
+            ],
+            "weight": 152,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:47:11-05:00",
+    "timestamp": "2023-09-24T00:50:05-05:00"
+}

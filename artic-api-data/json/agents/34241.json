@@ -1,0 +1,28 @@
+{
+    "id": 34241,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34241",
+    "title": "Andr\u00e9 Derain",
+    "sort_title": "Derain, Andr\u00e9",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1880,
+    "death_date": 1954,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Andr\u00e9 Derain",
+            "Derain, Andr\u00e9"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T15:08:07-05:00",
+    "updated_at": "2022-04-22T10:54:37-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

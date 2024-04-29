@@ -1,0 +1,173 @@
+{
+    "id": 22384,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22384",
+    "is_boosted": false,
+    "title": "Little Pensive One",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGd2d3F6eXB8fYGOjK3Cv6vGxLXOy7zSz77V0bjW1Mbc18ff2szj3svl4dDq5QAAACH5BAAAAAAALAAAAAADAAUAAAQL0JHDBFpBmdEKSBEAOw==",
+        "width": 1475,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1964.1137",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1911,
+    "date_end": 1911,
+    "date_display": "1911",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wilhelm Lehmbruck\nGerman, 1881-1919",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "52.7 \u00d7 14.6 \u00d7 15.2 cm (20 3/4 \u00d7 5 3/4 \u00d7 6 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 15.2,
+            "depth_in": 6,
+            "width_cm": 14.6,
+            "width_in": 5.75,
+            "height_cm": 52.7,
+            "height_in": 20.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": "Signed r. side of base: \"Lehmbruck\", foundry mark rear of base: Alexis. Rudier / Fondeur. Paris\"",
+    "credit_line": "Gift of Edgar Kaufmann, Jr.",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago, Annual Report 1964\u201365, p. 29.\nDietrich Schubert, Wilhelm Lehmbruck: Catalogue raisonn\u00e9 der Skulpturen, 1898-1919 (Worms: Werner, 2001), p. 216.",
+    "exhibition_history": "New York, Museum of Modern Art, Twelve Sculptors of the Twentieth Century, 1954.",
+    "provenance_text": "Edgar Kaufmann, Jr., New York, by 1954 [New York 1954].  Given to Art Institute, 1964.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.4676,
+    "color": {
+        "h": 202,
+        "l": 47,
+        "s": 14,
+        "percentage": 0.007656134408512884,
+        "population": 83
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 15075,
+    "artist_title": "Wilhelm Lehmbruck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        15075
+    ],
+    "artist_titles": [
+        "Wilhelm Lehmbruck"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "women",
+        "modern and contemporary art",
+        "nudes"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-8735",
+    "alt_subject_ids": [
+        "TM-8649"
+    ],
+    "subject_ids": [
+        "TM-8735",
+        "TM-8649"
+    ],
+    "subject_titles": [
+        "women",
+        "nudes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "96c63de0-a4d4-0452-cf4c-d89c26436f0d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.1137"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Little Pensive One"
+            ],
+            "weight": 512,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:22:46-05:00",
+    "timestamp": "2023-09-24T00:29:46-05:00"
+}

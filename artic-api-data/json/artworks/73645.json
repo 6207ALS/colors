@@ -1,0 +1,173 @@
+{
+    "id": 73645,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73645",
+    "is_boosted": false,
+    "title": "Still Life",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADQuGTQyGzM0Hjo5IT08JURBKEtGL0pIL0ZGMEtJNkhIOUpLPk5NPFBMNFJWTlVXTE9YVlZbVFFdXFhfWlhgW1pkX1ljYFpkY1xkYV5mY19oZGNrZmRrZmBra2NsaWduaWdua2pwawAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQI8HFPpwNpnJxUKpaDoYB+MRkSwSDcNBAQkACgTBABEEADs=",
+        "width": 3000,
+        "height": 2055,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1989.51.3",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1930,
+    "date_display": "1930",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean Lur\u00e7at\nFrench, 1892-1966",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "24 \u00d7 35 cm (9 3/8 \u00d7 13 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35,
+            "width_in": 13.75,
+            "height_cm": 24,
+            "height_in": 9.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": "Signed, l.r.: \"J Lurcat/30\"",
+    "credit_line": "Bequest of Mima de Manziarly Porter",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Valentine Gallery, New York, by Dec. 6, 1930 [this and the following according to Mrs. George F. (Mima de Manziarly) Porter Collection list, copy in curatorial file]; sold to Mima de Manziarly Porter, New York (later of Ojai, California), Dec. 6, 1930; bequeathed to the Art Institute of Chicago, 1989.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.5121,
+    "color": {
+        "h": 152,
+        "l": 40,
+        "s": 4,
+        "percentage": 1.0815956053625433,
+        "population": 5261
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 42395,
+    "artist_title": "Jean Lur\u00e7at",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42395
+    ],
+    "artist_titles": [
+        "Jean Lur\u00e7at"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting",
+        "still life",
+        "modern and contemporary art",
+        "abstract shapes"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-8937",
+    "alt_subject_ids": [
+        "TM-12708"
+    ],
+    "subject_ids": [
+        "TM-8937",
+        "TM-12708"
+    ],
+    "subject_titles": [
+        "still life",
+        "abstract shapes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0bbd74cc-32ab-ca1b-737f-16359e9f2ed7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.51.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Still Life"
+            ],
+            "weight": 423,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:40:00-05:00",
+    "timestamp": "2023-09-24T00:52:11-05:00"
+}

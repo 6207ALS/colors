@@ -1,0 +1,37 @@
+{
+    "id": 41225,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41225",
+    "title": "Jan Miel",
+    "sort_title": "Miel, Jan",
+    "alt_titles": [
+        "Jan Bicke",
+        "Jan Bike",
+        "Cavaliere Giovanni Miele",
+        "Cavaliere Giovanni Milo"
+    ],
+    "is_artist": true,
+    "birth_date": 1599,
+    "death_date": 1663,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Miel",
+            "Miel, Jan",
+            "Jan Bicke",
+            "Jan Bike",
+            "Cavaliere Giovanni Miele",
+            "Cavaliere Giovanni Milo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:07-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

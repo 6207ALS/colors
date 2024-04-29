@@ -1,0 +1,39 @@
+{
+    "id": 10278,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10278",
+    "title": "Simon Gribelin, II",
+    "sort_title": "Gribelin, Simon, II",
+    "alt_titles": [
+        "Simon Gribelin, the Younger",
+        "S. (Simon) Gribelin",
+        "Sim. (Simon) Gribelin",
+        "S. G. (Simon Gribelin)",
+        "S. G., (Simon Gribelin)"
+    ],
+    "is_artist": true,
+    "birth_date": 1661,
+    "death_date": 1733,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Simon Gribelin, II",
+            "Gribelin, Simon, II",
+            "Simon Gribelin, the Younger",
+            "S. (Simon) Gribelin",
+            "Sim. (Simon) Gribelin",
+            "S. G. (Simon Gribelin)",
+            "S. G., (Simon Gribelin)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:11-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

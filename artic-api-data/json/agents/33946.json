@@ -1,0 +1,33 @@
+{
+    "id": 33946,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33946",
+    "title": "Fran\u00e7ois Chereau, the elder",
+    "sort_title": "Chereau, Fran\u00e7ois, the elder",
+    "alt_titles": [
+        "Fran\u00e7ois Chereau, l'Ancien",
+        "Fran\u00e7ois Ch\u00e9reau, l'Ain\u00e9"
+    ],
+    "is_artist": true,
+    "birth_date": 1680,
+    "death_date": 1729,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fran\u00e7ois Chereau, the elder",
+            "Chereau, Fran\u00e7ois, the elder",
+            "Fran\u00e7ois Chereau, l'Ancien",
+            "Fran\u00e7ois Ch\u00e9reau, l'Ain\u00e9"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:56-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

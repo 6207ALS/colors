@@ -1,0 +1,187 @@
+{
+    "id": 187091,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/187091",
+    "is_boosted": false,
+    "title": "Early",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHl0N3d0PXl1O3p2O3h1PHp3P3Z1Q3t6R318R359RqWhhqWih6aiiqimjqmmkL+6tb+8uMG9t8G9u8LAu8jEw8jFw8nFxcrHxcrGxwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoAQ90YRZVHU5jLI0hwAMiREQBRICADs=",
+        "width": 2276,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2017.222",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1967,
+    "date_end": 1967,
+    "date_display": "1967",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "James Bishop\nAmerican, 1927-2021",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "194 \u00d7 194 cm (76 3/8 \u00d7 76 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 194,
+            "width_in": 76.375,
+            "height_cm": 194,
+            "height_in": 76.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Nancy Lauter McDougal and Alfred L. McDougal",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.4195,
+    "color": {
+        "h": 56,
+        "l": 38,
+        "s": 28,
+        "percentage": 0.2623113302260406,
+        "population": 1842
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 50097,
+    "artist_title": "James Bishop",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        50097
+    ],
+    "artist_titles": [
+        "James Bishop"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "oil paint (paint)",
+        "oil on canvas",
+        "Minimalism",
+        "green (color)",
+        "painting",
+        "colors",
+        "landscapes"
+    ],
+    "style_id": "TM-7208",
+    "style_title": "Minimalism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7208"
+    ],
+    "style_titles": [
+        "Minimalism"
+    ],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting"
+    ],
+    "subject_id": "TM-11849",
+    "alt_subject_ids": [
+        "TM-12479",
+        "TM-8657"
+    ],
+    "subject_ids": [
+        "TM-11849",
+        "TM-12479",
+        "TM-8657"
+    ],
+    "subject_titles": [
+        "green (color)",
+        "colors",
+        "landscapes"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2451"
+    ],
+    "material_titles": [
+        "oil paint (paint)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6d4571d7-3cb2-d0b4-4449-09c481da1475",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.222"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Early"
+            ],
+            "weight": 79,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-04-07T16:07:21-05:00",
+    "timestamp": "2023-09-24T01:35:49-05:00"
+}

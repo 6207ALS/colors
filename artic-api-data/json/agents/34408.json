@@ -1,0 +1,35 @@
+{
+    "id": 34408,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34408",
+    "title": "Enoch Wood and Sons",
+    "sort_title": "Enoch Wood and Sons",
+    "alt_titles": [
+        "Enoch Wood & Sons",
+        "Enoch Wood, & Sons",
+        "Enoch Wood & Sons"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Enoch Wood and Sons",
+            "Enoch Wood and Sons",
+            "Enoch Wood & Sons",
+            "Enoch Wood, & Sons",
+            "Enoch Wood & Sons"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:02:20-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

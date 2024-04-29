@@ -1,0 +1,37 @@
+{
+    "id": 6807,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6807",
+    "title": "Francisco Domingo y Marqu\u00e9s",
+    "sort_title": "Domingo y Marqu\u00e9s, Francisco",
+    "alt_titles": [
+        "Francisco (Jos\u00e9) Domingo y Marqu\u00e9s",
+        "Francisco Domingo",
+        "Francisco Marques",
+        "Jos\u00e9 Domingo"
+    ],
+    "is_artist": true,
+    "birth_date": 1842,
+    "death_date": 1920,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francisco Domingo y Marqu\u00e9s",
+            "Domingo y Marqu\u00e9s, Francisco",
+            "Francisco (Jos\u00e9) Domingo y Marqu\u00e9s",
+            "Francisco Domingo",
+            "Francisco Marques",
+            "Jos\u00e9 Domingo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:19-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

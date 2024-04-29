@@ -1,0 +1,28 @@
+{
+    "id": 118063,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/118063",
+    "title": "A Risdale",
+    "sort_title": "Risdale, A",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Risdale",
+            "Risdale, A"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-07-25T08:00:26-05:00",
+    "updated_at": "2022-07-25T08:05:59-05:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

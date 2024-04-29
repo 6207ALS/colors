@@ -1,0 +1,185 @@
+{
+    "id": 261659,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/261659",
+    "is_boosted": false,
+    "title": "Chairnoble",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAK2fhK6ghbaqk7aplLatm7eune/u7+/v7/Pz9vTz9PP09vT09PT09vX2+vj4/fn6/vv7/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIMoDEQUjxMAzTEIRpIsSwgAOw==",
+        "width": 6922,
+        "height": 8652,
+        "alt_text": "A work made of plywood and paint."
+    },
+    "main_reference_number": "2021.222",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1986,
+    "date_end": 1986,
+    "date_display": "1986",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Paul Ludick\nAmerican, born 1957",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "51.4 \u00d7 43.8 cm (20 1/4 \u00d7 17 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 43.8,
+            "width_in": 17.25,
+            "height_cm": 51.4,
+            "height_in": 20.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Plywood and paint",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist in honor of Laura and James McManis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 41,
+        "l": 53,
+        "s": 19,
+        "percentage": 0.0012072304790330614,
+        "population": 723
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 15709,
+    "artist_title": "Paul Ludick",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        15709
+    ],
+    "artist_titles": [
+        "Paul Ludick"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design",
+        "plywood",
+        "20th Century",
+        "chair",
+        "chair",
+        "paint"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-13174",
+    "classification_title": "design",
+    "alt_classification_ids": [
+        "TM-11745"
+    ],
+    "classification_ids": [
+        "TM-13174",
+        "TM-11745"
+    ],
+    "classification_titles": [
+        "design",
+        "chair"
+    ],
+    "subject_id": "TM-14682",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-14682"
+    ],
+    "subject_titles": [
+        "chair"
+    ],
+    "material_id": "TM-3847",
+    "alt_material_ids": [
+        "TM-2577"
+    ],
+    "material_ids": [
+        "TM-3847",
+        "TM-2577"
+    ],
+    "material_titles": [
+        "plywood",
+        "paint"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "faa1ec3c-553c-1308-9b59-66e5440cc366",
+    "alt_image_ids": [
+        "6eb36ca9-acc2-b2c9-1fed-fded53719c8f"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.222"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Chairnoble"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:38-05:00",
+    "updated_at": "2023-04-07T14:40:47-05:00",
+    "timestamp": "2023-09-24T01:57:54-05:00"
+}

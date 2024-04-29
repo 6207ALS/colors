@@ -1,0 +1,31 @@
+{
+    "id": 81195,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/81195",
+    "title": "Charles Louis Ling\u00e9e",
+    "sort_title": "Ling\u00e9e, Charles Louis",
+    "alt_titles": [
+        "Charles L. Ling\u00e9e"
+    ],
+    "is_artist": true,
+    "birth_date": 1748,
+    "death_date": 1819,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Louis Ling\u00e9e",
+            "Ling\u00e9e, Charles Louis",
+            "Charles L. Ling\u00e9e"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:48-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

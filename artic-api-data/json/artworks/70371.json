@@ -1,0 +1,167 @@
+{
+    "id": 70371,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/70371",
+    "is_boosted": false,
+    "title": "Lost Horizon",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAB4pBS4mAS8oAyguDjgmBDUtDCMtECUvEyYwEycwFicxFigwFCkxFiszGiw0GSw0GiszHy00HS01HTk9K00/JD5DNVRVSWRlU3N1Y5uPfKOYhaqch6mdibCllbCmlLewocO+ss7GvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMuD4ZBEKhMD49BIQDAAhGIxuGQIgYKAEtJsOB3PBxQEADs=",
+        "width": 6338,
+        "height": 4411,
+        "alt_text": "A work made of acrylic on wood."
+    },
+    "main_reference_number": "1987.317",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1980,
+    "date_end": 1980,
+    "date_display": "1980",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Robert Bourdon\nAmerican, born 1947",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "88.9 \u00d7 127 \u00d7 10.2 cm (35 \u00d7 50 \u00d7 4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.2,
+            "depth_in": 4,
+            "width_cm": 127,
+            "width_in": 50,
+            "height_cm": 88.9,
+            "height_in": 35,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on wood",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. David Levin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.1467,
+    "color": {
+        "h": 231,
+        "l": 51,
+        "s": 12,
+        "percentage": 0.011336078283717748,
+        "population": 56
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 3020,
+    "artist_title": "Robert Bourdon",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        3020
+    ],
+    "artist_titles": [
+        "Robert Bourdon"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "modern and contemporary art",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155",
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c4892b26-77bd-a38f-63b6-364dcb681c04",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.317"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lost Horizon"
+            ],
+            "weight": 104,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:45:09-05:00",
+    "timestamp": "2023-09-24T00:51:00-05:00"
+}

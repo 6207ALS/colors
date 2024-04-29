@@ -1,0 +1,35 @@
+{
+    "id": 41845,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41845",
+    "title": "Gabriel Metsu",
+    "sort_title": "Metsu, Gabriel",
+    "alt_titles": [
+        "Gabriel Metsue",
+        "Gabriel Metzu",
+        "Gabriel Metzue"
+    ],
+    "is_artist": true,
+    "birth_date": 1629,
+    "death_date": 1667,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gabriel Metsu",
+            "Metsu, Gabriel",
+            "Gabriel Metsue",
+            "Gabriel Metzu",
+            "Gabriel Metzue"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-07T11:38:03-05:00",
+    "updated_at": "2022-03-15T16:31:24-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 111587,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111587",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPQUAIGDh4OFhp+gnq2tq7Cxr7W0r7e3s+Xm5ubn5+zs7O3t7e/v7/Dw7/Hx8PDx8fr6+vv6+vz8+/39/P39/f///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAUYICWO4mNCkTRBQCAMhFEMB5I0DqMsJBkCADs=",
+        "width": 4267,
+        "height": 2813,
+        "alt_text": "A work made of gold-gilt-silver-strip-wrapped silk, bobbin straight lace."
+    },
+    "main_reference_number": "1900.3007",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1625,
+    "date_display": "1601/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "5.7 \u00d7 87 cm (2 1/4 \u00d7 34 1/4 in.); Repeat: W.: 3.8 cm (1 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 87,
+            "width_in": 34.25,
+            "height_cm": 5.7,
+            "height_in": 2.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 3.8,
+            "width_in": 1.5,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Gold-gilt-silver-strip-wrapped silk, bobbin straight lace",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.5973,
+    "color": {
+        "h": 175,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.01429461413075945,
+        "population": 67
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "lace making",
+        "gold-gilted-silver-strip-wrapped silk",
+        "textile",
+        "lace - bobbin"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1647"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1647"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-10599",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-10599"
+    ],
+    "material_titles": [
+        "gold-gilted-silver-strip-wrapped silk"
+    ],
+    "technique_id": "TM-4211",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4211"
+    ],
+    "technique_titles": [
+        "lace making"
+    ],
+    "theme_titles": [],
+    "image_id": "70d6ca21-3773-b2e3-6ec4-ac74b77317cb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1900.3007"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 25,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:13:59-05:00",
+    "timestamp": "2023-09-24T01:09:54-05:00"
+}

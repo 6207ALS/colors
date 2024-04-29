@@ -1,0 +1,189 @@
+{
+    "id": 81413,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/81413",
+    "is_boosted": false,
+    "title": "Sir William Portsman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJOHcZSLf6GTdqmhlbWpkb6vk7uxosO1m8W6p8m9pMu+p8vArszArdDFs9vQu+7k0/Ho2/Hq3vXs3vnw5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGQg0gAUTkAcypMIy9QwUAgAOw==",
+        "width": 1769,
+        "height": 2041,
+        "alt_text": "A work made of brush and black wash, with pen and black ink, on cream wove paper, edge mounted onto cream wove paper."
+    },
+    "main_reference_number": "1922.307",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1762,
+    "date_end": 1810,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "John Francis Rigaud (English, born France, 1742-1810)\nor Hyacinthe Rigaud (French, 1659-1743)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "20.4 \u00d7 17.6 cm (8 1/16 \u00d7 6 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.6,
+            "width_in": 6.9292,
+            "height_cm": 20.4,
+            "height_in": 8.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brush and black wash, with pen and black ink, on cream wove paper, edge mounted onto cream wove paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.7292,
+    "color": {
+        "h": 36,
+        "l": 94,
+        "s": 83,
+        "percentage": 0.5374043419052251,
+        "population": 4408
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 41796,
+    "artist_title": "John Francis Rigaud",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41796
+    ],
+    "artist_titles": [
+        "John Francis Rigaud"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "brush and wash",
+        "wash",
+        "paper",
+        "ink",
+        "wove paper",
+        "drawings (visual works)",
+        "prints and drawing",
+        "paper (fiber product)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10365",
+    "classification_title": "brush and wash",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-10365",
+        "TM-145",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "brush and wash",
+        "paper",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2399",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-3074",
+        "TM-2982"
+    ],
+    "material_ids": [
+        "TM-2399",
+        "TM-2398",
+        "TM-3074",
+        "TM-2982"
+    ],
+    "material_titles": [
+        "wash",
+        "ink",
+        "wove paper",
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "76079468-4a0c-5b9a-e3d4-9ea6a29ef472",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.307"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sir William Portsman"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:23:43-05:00",
+    "timestamp": "2023-09-24T00:55:16-05:00"
+}

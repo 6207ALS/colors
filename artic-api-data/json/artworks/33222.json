@@ -1,0 +1,172 @@
+{
+    "id": 33222,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/33222",
+    "is_boosted": false,
+    "title": "Enoshima",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAJaJX5GFYJ+RaJ+RaqOVbKKVbamfdLChdbOidrKkdLOkd7WmdrGiebeofLqsfLutgLytgLuuhcGxhMWzhMGyiMOziMKzi8S1isGzjMK1j8e4jcq6jc27jMe3kca6l8m5kcm7kcu6kcu8ls2+mM/AmdPClNHCm9fIoQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQBHJdBplMJ1QaVBoBACKz+ZhWFwQEYvEcWAICJ6KBsSZJCCUIAA7",
+        "width": 3000,
+        "height": 2012,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1939.1125",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1760,
+    "date_end": 1849,
+    "date_display": "Unknown",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Katsushika Hokusai \u845b\u98fe \u5317\u658e\nJapanese, 1760-1849",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "24.2 \u00d7 36.4 cm (9 9/16 \u00d7 14 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36.4,
+            "width_in": 14.3308,
+            "height_cm": 24.2,
+            "height_in": 9.5276,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Frederick W. Gookin Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1940,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.2477,
+    "color": {
+        "h": 49,
+        "l": 46,
+        "s": 38,
+        "percentage": 0.013227096652284822,
+        "population": 63
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 31492,
+    "artist_title": "Katsushika Hokusai",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31492
+    ],
+    "artist_titles": [
+        "Katsushika Hokusai"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "Japanese (culture or style)",
+        "print",
+        "asian art"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7255fb2b-8240-c773-6dc5-afcd1b43e494",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1939.1125"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Enoshima"
+            ],
+            "weight": 213,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-09-23T23:21:10-05:00",
+    "timestamp": "2023-09-24T00:35:10-05:00"
+}

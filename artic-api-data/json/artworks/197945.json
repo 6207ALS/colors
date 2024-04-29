@@ -1,0 +1,158 @@
+{
+    "id": 197945,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/197945",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAADpBO11CLVxCMl5MOkRIQExXQ1dVTlZZV25dUmR3VmRlZWhnY2NpZHVuaHdxbHRzbH1wbnZ1eHR3enp8e39+f4dvbZ96eqN7eqV7eaZ9e3OcW4OOfpCsfYOGhISKioGShYqejpGalZaki5S2g5qrmaCwo6HCkr3arAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwJDoZNKMOAlGp/QBkTaFg4TiaEw8CkAEIQgMHgsCxHLJYCqGIAA7",
+        "width": 3000,
+        "height": 2001,
+        "alt_text": "A work made of granite blue de vire."
+    },
+    "main_reference_number": "2008.673",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1987,
+    "date_end": 1987,
+    "date_display": "1987",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ulrich R\u00fcckriem \nGerman, born 1938",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "266.7 \u00d7 579.1 \u00d7 35.6 cm (105 \u00d7 228 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 35.6,
+            "depth_in": 14,
+            "width_cm": 579.1,
+            "width_in": 228,
+            "height_cm": 266.7,
+            "height_in": 105,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Granite blue de vire",
+    "inscriptions": null,
+    "credit_line": "Gift of Donald Young and Shirley Weese Young",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.4092,
+    "color": {
+        "h": 87,
+        "l": 52,
+        "s": 43,
+        "percentage": 0.012453405267579352,
+        "population": 59
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "North Garden",
+    "gallery_id": 2147477076,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 57081,
+    "artist_title": "Ulrich R\u00fcckriem",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        57081
+    ],
+    "artist_titles": [
+        "Ulrich R\u00fcckriem"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cc3cfa17-e489-6738-d7e3-5f4482aa4df3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.673"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 597,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-30T09:46:03-06:00",
+    "updated_at": "2023-04-07T12:37:12-05:00",
+    "timestamp": "2023-09-24T01:39:08-05:00"
+}

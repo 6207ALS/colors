@@ -1,0 +1,59 @@
+{
+    "id": 7168,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7168",
+    "title": "Navajo Blankets",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1985-06-01T00:00:00-05:00",
+    "aic_end_at": "1985-10-28T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        22380,
+        22379,
+        106537,
+        61009,
+        94152,
+        22371,
+        86812,
+        61003
+    ],
+    "artwork_titles": [
+        "Blanket",
+        "\"Eye-Dazzler\" Weaving",
+        "Man's Kilt and Flap, meant to be used in Buffalo Dance Ceremony",
+        "Rug or Wall Hanging in the \"Two Grey Hills\" Style",
+        "Blanket",
+        "Blanket",
+        "Dance Blanket with Diving Whale and Raven Motifs",
+        "Rug or Wall Hanging in the \"Two Grey Hills\" Style"
+    ],
+    "artist_ids": [
+        33295,
+        103101,
+        44143,
+        30020
+    ],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Navajo Blankets"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:15:44-06:00",
+    "timestamp": "2023-09-24T02:01:59-05:00"
+}

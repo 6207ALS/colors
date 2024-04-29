@@ -1,0 +1,187 @@
+{
+    "id": 93848,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/93848",
+    "is_boosted": false,
+    "title": "Strange Game",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANbNvNfOvdnQv9nRwNvTwdzVxN7VxN7Wxd/XxuDXxePayOPbyePbyuPby+TcyeTcyuTdy+ffzOfgzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYKQsznMMBIQURiIEgNQwTAgAOw==",
+        "width": 2246,
+        "height": 3000,
+        "alt_text": "A work made of etching on white wove paper."
+    },
+    "main_reference_number": "1977.71",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1966,
+    "date_end": 1966,
+    "date_display": "1966",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Adriena Simotov\u00e1\nCzech, born 1926",
+    "place_of_origin": "Czech Republic",
+    "description": null,
+    "dimensions": "Image/plate: 63.2 \u00d7 49.4 cm (24 15/16 \u00d7 19 1/2 in.); Sheet: 72.7 \u00d7 53.8 cm (28 5/8 \u00d7 21 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.4,
+            "width_in": 19.4489,
+            "height_cm": 63.2,
+            "height_in": 24.8819,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 53.8,
+            "width_in": 21.1812,
+            "height_cm": 72.7,
+            "height_in": 28.6221,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Jacques Baruch in honor of Harold Joachim",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.1617,
+    "color": {
+        "h": 38,
+        "l": 85,
+        "s": 40,
+        "percentage": 0.3709369186003637,
+        "population": 3521
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 24165,
+    "artist_title": "Adriena Simotov\u00e1",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        24165
+    ],
+    "artist_titles": [
+        "Adriena Simotov\u00e1"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "intaglio",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-309",
+    "classification_title": "intaglio",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-309",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "intaglio",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "55a56004-ecb3-9d59-3b7c-54b3edf8136e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.71"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Strange Game"
+            ],
+            "weight": 45,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:54:13-05:00",
+    "timestamp": "2023-09-24T01:01:29-05:00"
+}

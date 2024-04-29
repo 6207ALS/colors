@@ -1,0 +1,33 @@
+{
+    "id": 32756,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32756",
+    "title": "Scott Himmel, Darcy Bonner Associates",
+    "sort_title": "Scott Himmel, Darcy Bonner Associates",
+    "alt_titles": [
+        "Himmel Bonner Architects",
+        "Himmel/Bonner Associates"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Scott Himmel, Darcy Bonner Associates",
+            "Scott Himmel, Darcy Bonner Associates",
+            "Himmel Bonner Architects",
+            "Himmel/Bonner Associates"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:06:49-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

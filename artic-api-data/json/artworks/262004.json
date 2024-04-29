@@ -1,0 +1,167 @@
+{
+    "id": 262004,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/262004",
+    "is_boosted": false,
+    "title": "Blue, Green and Red",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAANMhANUlANclAa5KD7FND65SELtDJr9EKbtMKb9KLaxGMK5KMatON7tLMMRHJcdFLM5FKslHL8RKLMhJKMBJMsNNM8dNMsdNM81LMc1jS9FiS81rUNNuXmeNHV2eI2mVIV2MsmKLrk6dzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAzlAYkcOAaQAjDoSBoihqDgcSRCCwHhM9lULpgLQhMEADs=",
+        "width": 12879,
+        "height": 9795,
+        "alt_text": "A work made of opaque, matte, red, blue, and green paint on cream wove paper."
+    },
+    "main_reference_number": "2021.361",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1964,
+    "date_end": 1964,
+    "date_display": "1964",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ellsworth Kelly\nAmerican, 1923-2015",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "38.1 \u00d7 49.8 cm (15 \u00d7 19 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.8,
+            "width_in": 19.6063,
+            "height_cm": 38.1,
+            "height_in": 15,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Opaque, matte, red, blue, and green paint on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Ellsworth Kelly Studio and Jack Shear",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Ellsworth Kelly Foundation",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 11,
+        "l": 40,
+        "s": 90,
+        "percentage": 0.004551731173900744,
+        "population": 5742
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 124B",
+    "gallery_id": 25083,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35235,
+    "artist_title": "Ellsworth Kelly",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35235
+    ],
+    "artist_titles": [
+        "Ellsworth Kelly"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "prints and drawing",
+        "paper",
+        "drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-14658"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-14658"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "paper",
+        "drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "68b679a9-c9e3-d47f-0568-535be7b67537",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.361"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Blue, Green and Red"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-23T11:41:50-05:00",
+    "updated_at": "2023-08-23T11:45:51-05:00",
+    "timestamp": "2023-09-24T01:57:58-05:00"
+}

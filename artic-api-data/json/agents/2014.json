@@ -1,0 +1,33 @@
+{
+    "id": 2014,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2014",
+    "title": "Joseph Louis Hippolyte Bellang\u00e9",
+    "sort_title": "Bellang\u00e9, Joseph Louis Hippolyte",
+    "alt_titles": [
+        "Hippolyte Bellang\u00e9",
+        "Joseph-Louis-Hippolyte Bellang\u00e9"
+    ],
+    "is_artist": true,
+    "birth_date": 1800,
+    "death_date": 1866,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joseph Louis Hippolyte Bellang\u00e9",
+            "Bellang\u00e9, Joseph Louis Hippolyte",
+            "Hippolyte Bellang\u00e9",
+            "Joseph-Louis-Hippolyte Bellang\u00e9"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:51-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

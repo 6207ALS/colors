@@ -1,0 +1,35 @@
+{
+    "id": 56528,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/56528",
+    "title": "Henri Monnier",
+    "sort_title": "Monnier, Henri",
+    "alt_titles": [
+        "Henri B. Monnier",
+        "Henri Bonaventure Monnier",
+        "Henry Bonaventure Monnier"
+    ],
+    "is_artist": true,
+    "birth_date": 1799,
+    "death_date": 1877,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henri Monnier",
+            "Monnier, Henri",
+            "Henri B. Monnier",
+            "Henri Bonaventure Monnier",
+            "Henry Bonaventure Monnier"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:36-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

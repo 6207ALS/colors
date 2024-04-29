@@ -1,0 +1,182 @@
+{
+    "id": 64171,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/64171",
+    "is_boosted": false,
+    "title": "Their Lawyer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIN8bJOLd7yxmryzn7+1nr+2oszCqM3Bqs7CrM/Gr9HDqtTGq9LIrtLKstnOsdnOs9jPtNnRueDXvuXbwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDNJj9FEUAAkjDAUxHIgSggAOw==",
+        "width": 2350,
+        "height": 3000,
+        "alt_text": "A work made of pen and black ink, with scraping, over traces of graphite, on cream wove card."
+    },
+    "main_reference_number": "1948.617",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1919,
+    "date_end": 1919,
+    "date_display": "1919",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Tinney McCutcheon\nAmerican, 1870-1949",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "47.4 \u00d7 36.7 cm (18 11/16 \u00d7 14 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36.7,
+            "width_in": 14.4489,
+            "height_cm": 47.4,
+            "height_in": 18.6615,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink, with scraping, over traces of graphite, on cream wove card",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. John T. McCutcheon",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1949,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.748,
+    "color": {
+        "h": 41,
+        "l": 54,
+        "s": 18,
+        "percentage": 0.004409812715253983,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42521,
+    "artist_title": "John Tinney McCutcheon",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42521
+    ],
+    "artist_titles": [
+        "John Tinney McCutcheon"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "ink",
+        "scraping",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "ink",
+        "graphite"
+    ],
+    "technique_id": "TM-3852",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3852"
+    ],
+    "technique_titles": [
+        "scraping"
+    ],
+    "theme_titles": [],
+    "image_id": "0c6660aa-cc42-012c-f464-dd6f6e67972f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1948.617"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Their Lawyer"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:58-05:00",
+    "updated_at": "2023-04-10T12:54:41-05:00",
+    "timestamp": "2023-09-24T00:48:15-05:00"
+}

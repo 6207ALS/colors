@@ -1,0 +1,172 @@
+{
+    "id": 196135,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/196135",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKOmlKaql6qrmautmrGyoLKzoLS0orW2o7W3pMDBrcLBrMPCrcPDrsbCrcPEr8bFsMfHssrIssrIs83Is8zMt87Mt9DOt9LQutTRudXRvNnSuwAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoCY9zIJNRiEgV0MQq1UdQwAoGQU5SRQCADs=",
+        "width": 3000,
+        "height": 2395,
+        "alt_text": "A work made of pen and black ink on commercially manufactured graph paper laminated onto board."
+    },
+    "main_reference_number": "2014.1382",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1963,
+    "date_end": 1973,
+    "date_display": "c. 1968",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Lawrence Weiner\nAmerican, 1942-2021",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "20.1 \u00d7 25.3 cm (7 15/16 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.3,
+            "width_in": 9.9607,
+            "height_cm": 20.1,
+            "height_in": 7.9134,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink on commercially manufactured graph paper laminated onto board",
+    "inscriptions": null,
+    "credit_line": "Gift of the Irving Stenn Jr. Drawings Collection in memory of Marcia Stenn",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Lawrence Weiner / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.3406,
+    "color": {
+        "h": 160,
+        "l": 33,
+        "s": 41,
+        "percentage": 0.02009380634858524,
+        "population": 114
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33089,
+    "artist_title": "Lawrence Weiner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33089
+    ],
+    "artist_titles": [
+        "Lawrence Weiner"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c3b27410-b593-fc10-d3c9-78646690a95b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.1382"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 82,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:57:27-05:00",
+    "timestamp": "2023-09-24T01:38:17-05:00"
+}

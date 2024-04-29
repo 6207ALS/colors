@@ -1,0 +1,186 @@
+{
+    "id": 104358,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104358",
+    "is_boosted": false,
+    "title": "Center Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHRuanhxboWAfISBf4mBeo2GgZSMhJGOipCOjpORjpqXlaSin6qopq+vra6urrW1s7a2tLu8ury8uL28ub2+vcDAu8DCwsHDw8PExAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVICRV07MQRsEkATAgzSEoDhZR1hUCADs=",
+        "width": 2331,
+        "height": 2250,
+        "alt_text": "A work made of cast iron and marble."
+    },
+    "main_reference_number": "1985.521",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1852,
+    "date_end": 1852,
+    "date_display": "1852",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Walter Bryent (American, 1807\u20131870)\nCast by Chase Brothers & Co. (American)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "77.5 \u00d7 77.5 \u00d7 77.5 cm (30 1/2 \u00d7 30 1/2 \u00d7 30 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 77.5,
+            "depth_in": 30.5,
+            "width_cm": 77.5,
+            "width_in": 30.5,
+            "height_cm": 77.5,
+            "height_in": 30.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cast iron and marble",
+    "inscriptions": null,
+    "credit_line": "Wesley M. Dixon Jr. Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.2682,
+    "color": {
+        "h": 48,
+        "l": 67,
+        "s": 1,
+        "percentage": 0.1595740029903731,
+        "population": 1095
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 30651,
+    "artist_title": "Bryent, Walter",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30651
+    ],
+    "artist_titles": [
+        "Bryent, Walter"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "cast iron",
+        "table",
+        "furniture",
+        "marble",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-2679",
+    "alt_material_ids": [
+        "TM-2435"
+    ],
+    "material_ids": [
+        "TM-2679",
+        "TM-2435"
+    ],
+    "material_titles": [
+        "cast iron",
+        "marble"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f4e9aaf2-5c50-2630-3abf-5a0b3c7bcc2c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.521"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Center Table"
+            ],
+            "weight": 81,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-20T13:10:15-05:00",
+    "updated_at": "2023-06-20T13:12:42-05:00",
+    "timestamp": "2023-09-24T01:07:19-05:00"
+}

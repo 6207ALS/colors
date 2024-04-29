@@ -1,0 +1,179 @@
+{
+    "id": 62226,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62226",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJB5XZF6X5N7X5V+YpaAY5aAZJeBZJeAZZqGaZ6JbJ6KbqGNcaeRc6mTdayYe62afa2bfbKegLWihbekhQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIPQ4EgEEClIciyEMScQ0UwgAOw==",
+        "width": 1933,
+        "height": 2250,
+        "alt_text": "A work made of linen and wool, plain weave, tied and free double cloth."
+    },
+    "main_reference_number": "1907.556",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1625,
+    "date_display": "1601/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Netherlands",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "23.1 \u00d7 20 cm (9 1/8 \u00d7 7 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20,
+            "width_in": 7.875,
+            "height_cm": 23.1,
+            "height_in": 9.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and wool, plain weave, tied and free double cloth",
+    "inscriptions": null,
+    "credit_line": "Art Institute of Chicago Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.1083,
+    "color": {
+        "h": 40,
+        "l": 31,
+        "s": 28,
+        "percentage": 0.06396745761400174,
+        "population": 529
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "linen (material)",
+        "plain weaving",
+        "textile",
+        "weaving",
+        "double cloth",
+        "wool (textile)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3093",
+    "alt_material_ids": [
+        "TM-2581"
+    ],
+    "material_ids": [
+        "TM-3093",
+        "TM-2581"
+    ],
+    "material_titles": [
+        "linen (material)",
+        "wool (textile)"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [
+        "TM-10556"
+    ],
+    "technique_ids": [
+        "TM-10513",
+        "TM-10556"
+    ],
+    "technique_titles": [
+        "plain weaving",
+        "double cloth"
+    ],
+    "theme_titles": [],
+    "image_id": "ef447ee4-3f24-434e-12df-503398e19739",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1907.556"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-10T13:25:39-06:00",
+    "updated_at": "2023-04-07T12:49:49-05:00",
+    "timestamp": "2023-09-24T00:47:18-05:00"
+}

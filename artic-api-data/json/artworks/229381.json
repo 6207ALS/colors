@@ -1,0 +1,167 @@
+{
+    "id": 229381,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/229381",
+    "is_boosted": false,
+    "title": "Untitled (cowboy)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACsaGy4aGjAdHTIeHjgfHzciIDghITkiITkjIj4mJDglKEAnJkImJkMsKkIsK00uLE0xLUw0MFY3NGVAO3JEM3xJNIJRO4RQOJhePZtePrZqPr9yPL5yP8J3P5VcQb1tQch8RsN4SAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwEjiIBgUEBDJAhAwNBwKwoHxmFgolYsng9F8QqBNhxMEADs=",
+        "width": 3000,
+        "height": 2032,
+        "alt_text": "A work made of chromogenic print; edition number two of two, with one artist's proof."
+    },
+    "main_reference_number": "2015.149",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1986,
+    "date_end": 1986,
+    "date_display": "1986",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Prince\nAmerican, born 1949",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "67.3 \u00d7 100.3 cm (26 1/2 \u00d7 39 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 100.3,
+            "width_in": 39.5,
+            "height_cm": 67.3,
+            "height_in": 26.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Chromogenic print; edition number two of two, with one artist's proof",
+    "inscriptions": null,
+    "credit_line": "Gift of Edlis Neeson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 56.7188,
+    "color": {
+        "h": 359,
+        "l": 58,
+        "s": 17,
+        "percentage": 0.00270072067692525,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 292",
+    "gallery_id": 25469,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 43769,
+    "artist_title": "Richard Prince",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43769
+    ],
+    "artist_titles": [
+        "Richard Prince"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-558",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "60d4c0b0-d60e-8a43-65ca-19ac157e632b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.149"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (cowboy)"
+            ],
+            "weight": 643,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-24T15:08:25-06:00",
+    "updated_at": "2023-04-07T12:22:44-05:00",
+    "timestamp": "2023-09-24T01:48:50-05:00"
+}

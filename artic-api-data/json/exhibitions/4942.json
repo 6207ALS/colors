@@ -1,0 +1,38 @@
+{
+    "id": 4942,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4942",
+    "title": "Paintings by Louis Kronberg",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1919-01-07T00:00:00-06:00",
+    "aic_end_at": "1919-02-06T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "18ae23c6-4e57-411d-d4fd-016d04bd8ee5"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Louis Kronberg"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:10-06:00",
+    "timestamp": "2023-09-24T02:01:29-05:00"
+}

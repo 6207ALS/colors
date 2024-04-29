@@ -1,0 +1,177 @@
+{
+    "id": 103275,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/103275",
+    "is_boosted": false,
+    "title": "Male Head",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEc9Lk1DNV1cV2JgXXZrWXZ1c4xyUpd9WYN7bpR/ZYeCeqqTdIyJh5mVkp6en7KgiKempa6srLWxrLWxrQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAQABQAABREgJE1RszyOYiQMchCFAARDCAA7",
+        "width": 768,
+        "height": 1024,
+        "alt_text": "A work made of stucco."
+    },
+    "main_reference_number": "1984.1305",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 101,
+    "date_end": 300,
+    "date_display": "2nd/3rd century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Afghanistan or Pakistan\nAncient region of Gandhara",
+    "place_of_origin": "Gandhara",
+    "description": null,
+    "dimensions": "22.3 \u00d7 12.5 \u00d7 10.5 cm (8 3/4 \u00d7 4 15/16 \u00d7 4 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.5,
+            "depth_in": 4.125,
+            "width_cm": 12.5,
+            "width_in": 4.9375,
+            "height_cm": 22.3,
+            "height_in": 8.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stucco",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Mark Phillips",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.0895,
+    "color": {
+        "h": 41,
+        "l": 44,
+        "s": 2,
+        "percentage": 0.12358421668080868,
+        "population": 1171
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "bust/head",
+        "stucco",
+        "South Asian",
+        "stuccowork",
+        "sculpture",
+        "asian art"
+    ],
+    "style_id": "TM-5344",
+    "style_title": "South Asian",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5344"
+    ],
+    "style_titles": [
+        "South Asian"
+    ],
+    "classification_id": "TM-347",
+    "classification_title": "bust/head",
+    "alt_classification_ids": [
+        "TM-271",
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-347",
+        "TM-271",
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "bust/head",
+        "stuccowork",
+        "sculpture",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2437",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2437"
+    ],
+    "material_titles": [
+        "stucco"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b56c30a0-9967-6862-6020-c286d73dd0d1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.1305"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Male Head"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:29:30-05:00",
+    "timestamp": "2023-09-24T01:06:36-05:00"
+}

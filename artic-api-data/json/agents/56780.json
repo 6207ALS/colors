@@ -1,0 +1,31 @@
+{
+    "id": 56780,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/56780",
+    "title": "Samuel Anderson Robb",
+    "sort_title": "Robb, Samuel Anderson",
+    "alt_titles": [
+        "Samuel A. Robb"
+    ],
+    "is_artist": true,
+    "birth_date": 1851,
+    "death_date": 1928,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Samuel Anderson Robb",
+            "Robb, Samuel Anderson",
+            "Samuel A. Robb"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:26:53-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

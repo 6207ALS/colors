@@ -1,0 +1,178 @@
+{
+    "id": 11318,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11318",
+    "is_boosted": false,
+    "title": "Portrait of a Gentleman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHJcP4NoRpB2T4JvVYx1VpZ7U5eAXJ+HZJ2IZ5OAaJeDaJ2IbqWObaSPbqWOb6WQcqWRcqiTdKuVdrCWdgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIBQ5jZQozLNMyEEMRhEAQggAOw==",
+        "width": 6328,
+        "height": 7901,
+        "alt_text": "A work made of album leaf; ink and colors on silk."
+    },
+    "main_reference_number": "1924.3",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1260,
+    "date_end": 1644,
+    "date_display": "Yuan dynasty (1260\u20131368) or Ming dynasty (1368\u20131644)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Artist unknown (Chinese)",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "29.5 \u00d7 24.5 cm (11 5/8 \u00d7 9 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.5,
+            "width_in": 9.6457,
+            "height_cm": 29.5,
+            "height_in": 11.6142,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Album leaf; ink and colors on silk",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Allerton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 8,
+    "fiscal_year": 1924,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.2495,
+    "color": {
+        "h": 220,
+        "l": 31,
+        "s": 8,
+        "percentage": 0.000563802100952149,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "album leaf",
+        "silk (textile)",
+        "Chinese (culture or style)",
+        "ink",
+        "painting",
+        "asian art"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-280",
+    "classification_title": "album leaf",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-280",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "album leaf",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2579",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "silk (textile)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c7adaf02-ce59-d7da-4110-8ffb97543c5b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1924.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Gentleman"
+            ],
+            "weight": 277,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-31T10:39:08-05:00",
+    "updated_at": "2023-07-31T10:40:54-05:00",
+    "timestamp": "2023-09-24T00:24:55-05:00"
+}

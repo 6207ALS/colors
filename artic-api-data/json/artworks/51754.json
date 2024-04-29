@@ -1,0 +1,168 @@
+{
+    "id": 51754,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/51754",
+    "is_boosted": false,
+    "title": "Box: Admiral Lord St. Vincent",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAERKXWxmd2Rqd5WLjpKVl5ucnpycnZ+iprS1tbq7uru7u72+vb6/v8S9tb/Av83Ev8DAwcHBwcDCwsLCwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOQw09I8UhEMiAEIiUIcUQgAOw==",
+        "width": 1900,
+        "height": 2250,
+        "alt_text": "A work made of polychrome enamel on copper with metal mounts."
+    },
+    "main_reference_number": "1976.512",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1805,
+    "date_end": 1815,
+    "date_display": "c. 1810",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "South Staffordshire, England",
+    "place_of_origin": "South Staffordshire",
+    "description": null,
+    "dimensions": "2.7 \u00d7 3.5 \u00d7 4.9 cm (1 1/16 \u00d7 1 3/8 \u00d7 1 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 4.9,
+            "depth_in": 1.9375,
+            "width_cm": 3.5,
+            "width_in": 1.375,
+            "height_cm": 2.7,
+            "height_in": 1.0625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Polychrome enamel on copper with metal mounts",
+    "inscriptions": null,
+    "credit_line": "Kelvyn G. Lilley gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.2035,
+    "color": {
+        "h": 213,
+        "l": 55,
+        "s": 28,
+        "percentage": 0.00986551988912582,
+        "population": 83
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "snuff box",
+        "copper",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-862",
+    "classification_title": "snuff box",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-862",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "snuff box",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2458",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2458"
+    ],
+    "material_titles": [
+        "copper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "77b797dc-1073-b497-bc5d-125ee1f797e5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.512"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Box: Admiral Lord St. Vincent"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:52:35-05:00",
+    "timestamp": "2023-09-24T00:43:24-05:00"
+}

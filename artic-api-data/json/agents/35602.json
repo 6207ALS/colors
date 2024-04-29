@@ -1,0 +1,31 @@
+{
+    "id": 35602,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35602",
+    "title": "Michele Giovanni Marieschi",
+    "sort_title": "Marieschi, Michele Giovanni",
+    "alt_titles": [
+        "Michele G. Marieschi"
+    ],
+    "is_artist": true,
+    "birth_date": 1696,
+    "death_date": 1743,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Michele Giovanni Marieschi",
+            "Marieschi, Michele Giovanni",
+            "Michele G. Marieschi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-26T08:50:21-06:00",
+    "updated_at": "2022-04-22T10:56:55-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

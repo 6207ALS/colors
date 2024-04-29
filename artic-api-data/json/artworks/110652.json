@@ -1,0 +1,178 @@
+{
+    "id": 110652,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/110652",
+    "is_boosted": false,
+    "title": "Panel (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHJTN3NTN3RSNXRTNntcQHxdQo5xWJR2W5B1XJR4XZV7Ypt/ZZyDbJyEba2Vfq6XgK6Yg7Sdh7umj7umkQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQ0UAIEyEIUyiEMhvQ4UwgAOw==",
+        "width": 1723,
+        "height": 2250,
+        "alt_text": "A work made of cotton, plain weave; roller printed."
+    },
+    "main_reference_number": "1949.395",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1866,
+    "date_end": 1886,
+    "date_display": "c. 1876",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Manufactured by Cocheco Cotton Manufacturing Company (American, founded 1812)\nUnited States, New Hampshire, East Rochester",
+    "place_of_origin": "New Hampshire",
+    "description": null,
+    "dimensions": "72.1 \u00d7 60.1 cm (28 3/8 \u00d7 23 3/4 in.); Repeat: 8.9 \u00d7 19 cm (3 1/2 \u00d7 7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60.1,
+            "width_in": 23.75,
+            "height_cm": 72.1,
+            "height_in": 28.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19,
+            "width_in": 7.5,
+            "height_cm": 8.9,
+            "height_in": 3.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; roller printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Allerton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.4505,
+    "color": {
+        "h": 45,
+        "l": 40,
+        "s": 11,
+        "percentage": 0.009481297601770418,
+        "population": 88
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 4992,
+    "artist_title": "Cocheco Manufacturing Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        4992
+    ],
+    "artist_titles": [
+        "Cocheco Manufacturing Company"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d5456ec4-0868-2771-5ea5-16cf8e050fa1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1949.395"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel (Furnishing Fabric)"
+            ],
+            "weight": 44,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:42:25-05:00",
+    "timestamp": "2023-09-24T01:09:32-05:00"
+}

@@ -1,0 +1,196 @@
+{
+    "id": 77586,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/77586",
+    "is_boosted": false,
+    "title": "Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE5OTFhYV19fWF9eWmRjXWloY3BuZHFvZHVzZ3x5b398b4SBc4mGd42JeY+Le5OPfZSQgJ6ahJ6ahwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURICQtDvMgRhMJhHIAQxIERQgAOw==",
+        "width": 2287,
+        "height": 3000,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "1952.498",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1927,
+    "date_end": 1937,
+    "date_display": "c. 1932",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Arnold Genthe\nAmerican, born Germany, 1869\u20131942",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "34.2 \u00d7 25.2 cm (image/paper); 45.7 \u00d7 35 (mount)",
+    "dimensions_detail": [],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Reciprocal gift of the Library of Congress",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.0954,
+    "color": {
+        "h": 46,
+        "l": 51,
+        "s": 9,
+        "percentage": 0.08312257737907543,
+        "population": 775
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 34626,
+    "artist_title": "Arnold Genthe",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34626
+    ],
+    "artist_titles": [
+        "Arnold Genthe"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "portraits",
+        "photographic paper",
+        "black-and-white photography",
+        "portraits: female subject",
+        "photography",
+        "photographic process",
+        "photography",
+        "photograph",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-213",
+    "classification_title": "gelatin silver (developing-out-paper) pr",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-213",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": "TM-8658",
+    "alt_subject_ids": [
+        "TM-8582",
+        "TM-8578"
+    ],
+    "subject_ids": [
+        "TM-8658",
+        "TM-8582",
+        "TM-8578"
+    ],
+    "subject_titles": [
+        "portraits",
+        "portraits: female subject",
+        "photography"
+    ],
+    "material_id": "TM-3046",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3046"
+    ],
+    "material_titles": [
+        "photographic paper"
+    ],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "6b9bd628-ff82-7485-972d-91fb22e9d601",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1952.498"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait"
+            ],
+            "weight": 39,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:09-05:00",
+    "updated_at": "2023-04-10T15:25:09-05:00",
+    "timestamp": "2023-09-24T00:53:38-05:00"
+}

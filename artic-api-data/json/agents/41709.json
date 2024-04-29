@@ -1,0 +1,37 @@
+{
+    "id": 41709,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41709",
+    "title": "John Frederick Herring, I",
+    "sort_title": "Herring, John Frederick, I",
+    "alt_titles": [
+        "John F. Herring, I",
+        "John Frederick Herring, Sr.",
+        "John Frederick Herring",
+        "John Herring"
+    ],
+    "is_artist": true,
+    "birth_date": 1795,
+    "death_date": 1865,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Frederick Herring, I",
+            "Herring, John Frederick, I",
+            "John F. Herring, I",
+            "John Frederick Herring, Sr.",
+            "John Frederick Herring",
+            "John Herring"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2022-03-15T16:42:19-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

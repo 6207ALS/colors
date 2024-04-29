@@ -1,0 +1,28 @@
+{
+    "id": 87237,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/87237",
+    "title": "Reginald Pollack",
+    "sort_title": "Pollack, Reginald",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1924,
+    "death_date": 2001,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Reginald Pollack",
+            "Pollack, Reginald"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:23:12-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

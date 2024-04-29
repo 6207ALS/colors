@@ -1,0 +1,176 @@
+{
+    "id": 75646,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/75646",
+    "is_boosted": false,
+    "title": "Three Men Walking II",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFRQUWdiYnh3eYeFhq+vr7SxsLSzsra1tbu7u727ub+9vMfFxdLS0tTV1dfX197e3urq6uvr6/f39wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGIcRKMsjFMkzwMEUCQMUggAOw==",
+        "width": 4443,
+        "height": 5596,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1951.256",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1948,
+    "date_end": 1949,
+    "date_display": "1948/49",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alberto Giacometti\nSwiss, 1901\u20131966",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "75 \u00d7 33.1 \u00d7 31.8 cm (29 1/2 \u00d7 13 \u00d7 12 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 31.8,
+            "depth_in": 12.5,
+            "width_cm": 33.1,
+            "width_in": 13,
+            "height_cm": 75,
+            "height_in": 29.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Edward E. Ayer Endowment in memory of Charles L. Hutchinson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Succession Giacometti / Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.4284,
+    "color": {
+        "h": 340,
+        "l": 68,
+        "s": 0,
+        "percentage": 0.08533776553560618,
+        "population": 764
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 34643,
+    "artist_title": "Alberto Giacometti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34643
+    ],
+    "artist_titles": [
+        "Alberto Giacometti"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "bronze",
+        "abstract figures",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12688",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12688"
+    ],
+    "subject_titles": [
+        "abstract figures"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4676a52a-78b3-2271-fd6a-8b82dd46088f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1951.256"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Three Men Walking II"
+            ],
+            "weight": 3876,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:36:28-05:00",
+    "timestamp": "2023-09-24T00:52:54-05:00"
+}

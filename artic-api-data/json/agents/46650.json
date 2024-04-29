@@ -1,0 +1,37 @@
+{
+    "id": 46650,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46650",
+    "title": "Style of Raphael",
+    "sort_title": "Raphael, Style of",
+    "alt_titles": [
+        "Style of Raffaello Santi",
+        "Style of Raffaello Sanzio",
+        "Style of Raffaello Sanzio",
+        "Style of Raffaele Sanzio"
+    ],
+    "is_artist": true,
+    "birth_date": 1483,
+    "death_date": 1520,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Style of Raphael",
+            "Raphael, Style of",
+            "Style of Raffaello Santi",
+            "Style of Raffaello Sanzio",
+            "Style of Raffaello Sanzio",
+            "Style of Raffaele Sanzio"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-29T11:48:18-05:00",
+    "updated_at": "2020-05-29T11:50:41-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

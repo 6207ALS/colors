@@ -1,0 +1,33 @@
+{
+    "id": 40691,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40691",
+    "title": "Karel Vitezslav Masek",
+    "sort_title": "Masek, Karel Vitezslav",
+    "alt_titles": [
+        "Karel V. Masek",
+        "Vitezlav Karel Masek"
+    ],
+    "is_artist": true,
+    "birth_date": 1865,
+    "death_date": 1927,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Karel Vitezslav Masek",
+            "Masek, Karel Vitezslav",
+            "Karel V. Masek",
+            "Vitezlav Karel Masek"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:35:45-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

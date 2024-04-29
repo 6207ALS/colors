@@ -1,0 +1,160 @@
+{
+    "id": 41505,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/41505",
+    "is_boosted": false,
+    "title": "Portrait of Alexander Hamilton",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADYzKkhEOFVQRGdhUmlhUmtjVJSTi6CelKSjmqWkmaWlnKilm7+6rsC8sNTRxNvZzeTh1+7q4PLv5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4IMkjgIExiIMB1MQTQRBUggAOw==",
+        "width": 2430,
+        "height": 3000,
+        "alt_text": "A work made of mezzotint with engraving in black on ivory wove paper, laid down on ivory wove paper (chine coll\u00e9)."
+    },
+    "main_reference_number": "1941.366",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1895,
+    "date_display": "published 1895",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William Sartain (American, 1843-1924)\nafter John Trumbull (American, 1756-1843)\npublished by Charles Barmore (American, 19th century)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Mezzotint with engraving in black on ivory wove paper, laid down on ivory wove paper (chine coll\u00e9)",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Robert Sonnenschein",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1941,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.4784,
+    "color": {
+        "h": 37,
+        "l": 47,
+        "s": 13,
+        "percentage": 0.02347409815591587,
+        "population": 206
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 114980,
+    "artist_title": "William Sartain",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114980
+    ],
+    "artist_titles": [
+        "William Sartain"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "aquatint",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-147",
+    "classification_title": "aquatint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-147",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "aquatint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5d729989-e5c9-10e9-fef9-ffe920b3e28e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1941.366"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Alexander Hamilton"
+            ],
+            "weight": 248,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-07-20T10:35:46-05:00",
+    "updated_at": "2023-04-10T15:15:59-05:00",
+    "timestamp": "2023-09-24T00:38:23-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 5819,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5819",
+    "title": "Dado",
+    "sort_title": "Dado",
+    "alt_titles": [
+        "Dado, (Mirodrag Djuric)",
+        "Mirodrag Djuric",
+        "Miodrag Djuric"
+    ],
+    "is_artist": true,
+    "birth_date": 1933,
+    "death_date": 2010,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dado",
+            "Dado",
+            "Dado, (Mirodrag Djuric)",
+            "Mirodrag Djuric",
+            "Miodrag Djuric"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-04-30T09:35:16-05:00",
+    "updated_at": "2022-03-15T16:48:10-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

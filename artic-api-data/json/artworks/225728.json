@@ -1,0 +1,187 @@
+{
+    "id": 225728,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/225728",
+    "is_boosted": false,
+    "title": "Portfolio Cover, from Constellations",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKJZVJlpbWKc5dC4p5TPl5vQneHKt+HJusfhv4q23rjK383PyMDdwcHdweTd0czhxd3p1t3p1+vo2vPx2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoGQMzhIAhyIk01MQSMQ0UAgAOw==",
+        "width": 2459,
+        "height": 3000,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "1975.168.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1959,
+    "date_end": 1959,
+    "date_display": "1959",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Joan Mir\u00f3 (Spanish, 1893-1983)\npublished by Pierre Matisse Gallery (American, 20th century)",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "Front panel: 44.8 \u00d7 36 cm (17 11/16 \u00d7 14 3/16 in.); Sheet, folded: 44.8 \u00d7 104 cm (17 11/16 \u00d7 41 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36,
+            "width_in": 14.1733,
+            "height_cm": 44.8,
+            "height_in": 17.6378,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Front panel"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 104,
+            "width_in": 40.9449,
+            "height_cm": 44.8,
+            "height_in": 17.6378,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, folded"
+        }
+    ],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Walter P. Paepcke",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 68.8659,
+    "color": {
+        "h": 209,
+        "l": 46,
+        "s": 98,
+        "percentage": 0.06323534163239496,
+        "population": 548
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 32048,
+    "artist_title": "Joan Mir\u00f3",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32048
+    ],
+    "artist_titles": [
+        "Joan Mir\u00f3"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "portfolio cover",
+        "paper (fiber product)",
+        "portfolio",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-2304",
+    "classification_title": "portfolio cover",
+    "alt_classification_ids": [
+        "TM-427",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-2304",
+        "TM-427",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "portfolio cover",
+        "portfolio",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "08eeacc6-d5be-cd27-6ada-107eeda8ff8b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1975.168.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portfolio Cover, from Constellations"
+            ],
+            "weight": 146,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:30-05:00",
+    "updated_at": "2023-09-23T23:23:49-05:00",
+    "timestamp": "2023-09-24T01:47:49-05:00"
+}

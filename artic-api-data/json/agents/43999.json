@@ -1,0 +1,33 @@
+{
+    "id": 43999,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43999",
+    "title": "A. H. Davenport & Company",
+    "sort_title": "A. H. Davenport & Company",
+    "alt_titles": [
+        "A. H. Davenport and Company",
+        "A.H. Davenport & Co."
+    ],
+    "is_artist": true,
+    "birth_date": 1875,
+    "death_date": 1910,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "A. H. Davenport & Company",
+            "A. H. Davenport & Company",
+            "A. H. Davenport and Company",
+            "A.H. Davenport & Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:55:58-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

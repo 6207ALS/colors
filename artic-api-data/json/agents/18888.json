@@ -1,0 +1,37 @@
+{
+    "id": 18888,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/18888",
+    "title": "Mrs. E. W. H. Myers",
+    "sort_title": "Myers, E. W. H., Mrs.",
+    "alt_titles": [
+        "Eveleen Myers",
+        "Eveleen Tennant",
+        "Mrs. Eveleen W. H. Myers",
+        "Eveleen Myers, (n\u00e9e Tennant)"
+    ],
+    "is_artist": true,
+    "birth_date": 1856,
+    "death_date": 1937,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mrs. E. W. H. Myers",
+            "Myers, E. W. H., Mrs.",
+            "Eveleen Myers",
+            "Eveleen Tennant",
+            "Mrs. Eveleen W. H. Myers",
+            "Eveleen Myers, (n\u00e9e Tennant)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:13:26-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

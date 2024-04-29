@@ -1,0 +1,42 @@
+{
+    "id": 50668,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/50668",
+    "title": "Daniel Hudson Burnham",
+    "sort_title": "Burnham, Daniel Hudson",
+    "alt_titles": [
+        "Daniel H. Burnham",
+        "D. H. Burnham"
+    ],
+    "is_artist": true,
+    "birth_date": 1846,
+    "death_date": 1912,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Daniel Hudson Burnham",
+            "Burnham, Daniel Hudson",
+            "Daniel H. Burnham",
+            "D. H. Burnham"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Daniel Hudson Burnham",
+            "Burnham, Daniel Hudson",
+            "Daniel H. Burnham",
+            "D. H. Burnham"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:23-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

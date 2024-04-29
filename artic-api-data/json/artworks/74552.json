@@ -1,0 +1,181 @@
+{
+    "id": 74552,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/74552",
+    "is_boosted": false,
+    "title": "Round Box",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAEZAOmViYYt7a4KAf5yUhJ6ViIqNkLitmq26srC2sLKytbW3urq5ub3Avrq9wMfFxsTGycbGyMjIycvOz83O0M7P0dDS1NDS1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoCU10xUVSPIowkEwUAAMFbUYDhUCADs=",
+        "width": 2250,
+        "height": 2250,
+        "alt_text": "A work made of tortoiseshell, watercolor, glass, and metal."
+    },
+    "main_reference_number": "1950.2018",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1775,
+    "date_end": 1800,
+    "date_display": "1775/1800",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "2.9 \u00d7 6.2 cm (1 1/8 \u00d7 2 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 6.2,
+            "width_in": 2.4375,
+            "height_cm": 2.9,
+            "height_in": 1.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Tortoiseshell, watercolor, glass, and metal",
+    "inscriptions": null,
+    "credit_line": "Bequest of Elizabeth R. Vaughan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1950,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.0403,
+    "color": {
+        "h": 39,
+        "l": 61,
+        "s": 19,
+        "percentage": 0.0260325420847704,
+        "population": 185
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "tortoise shell",
+        "accessories (object genre)",
+        "glass",
+        "metal",
+        "watercolor",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-157",
+    "classification_title": "accessories (object genre)",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-157",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "accessories (object genre)",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3695",
+    "alt_material_ids": [
+        "TM-2453",
+        "TM-2568",
+        "TM-2403"
+    ],
+    "material_ids": [
+        "TM-3695",
+        "TM-2453",
+        "TM-2568",
+        "TM-2403"
+    ],
+    "material_titles": [
+        "tortoise shell",
+        "glass",
+        "metal",
+        "watercolor"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "14a3c2dc-72df-ec78-61e8-2bd0f391177e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.2018"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Round Box"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:46:01-05:00",
+    "timestamp": "2023-09-24T00:52:31-05:00"
+}

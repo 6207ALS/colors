@@ -1,0 +1,37 @@
+{
+    "id": 59646,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/59646",
+    "title": "Bram van Velde",
+    "sort_title": "Velde, Bram van",
+    "alt_titles": [
+        "Abraham Gerardus (Bram) van Velde",
+        "Bram Van Velde",
+        "Abraham Gerardus van Velde",
+        "Abraham van Velde"
+    ],
+    "is_artist": true,
+    "birth_date": 1895,
+    "death_date": 1981,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bram van Velde",
+            "Velde, Bram van",
+            "Abraham Gerardus (Bram) van Velde",
+            "Bram Van Velde",
+            "Abraham Gerardus van Velde",
+            "Abraham van Velde"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:08-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

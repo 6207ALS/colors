@@ -1,0 +1,168 @@
+{
+    "id": 71517,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/71517",
+    "is_boosted": false,
+    "title": "Book of Hours",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "1915.535",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1375,
+    "date_end": 1399,
+    "date_display": "1375/99 (14th century binding; spine c. 1500)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "French (Paris)\nFrench binding, Italian spine",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Images, average: 8.5 \u00d7 6 cm (3 3/8 \u00d7 2 3/8 in.); Sheets, average: 17 \u00d7 12 cm (6 3/4 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 6,
+            "width_in": 2.3623,
+            "height_cm": 8.5,
+            "height_in": 3.3465,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Images, average"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12,
+            "width_in": 4.7245,
+            "height_cm": 17,
+            "height_in": 6.693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheets, average"
+        }
+    ],
+    "medium_display": "Manuscript, unfoliated, with 11 full-page miniatures and other decorations in colored inks and gold leaf, with littera textualis inscriptions in Latin and French, in black ink, ruled in red, on parchment, bound in brown calf over boards, and with black calf on spine with interlace design added",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "manuscript",
+        "medieval",
+        "prints and drawing",
+        "book"
+    ],
+    "style_id": "TM-5813",
+    "style_title": "medieval",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5813"
+    ],
+    "style_titles": [
+        "medieval"
+    ],
+    "classification_id": "TM-116",
+    "classification_title": "manuscript",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-11"
+    ],
+    "classification_ids": [
+        "TM-116",
+        "TM-4",
+        "TM-11"
+    ],
+    "classification_titles": [
+        "manuscript",
+        "prints and drawing",
+        "book"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1915.535"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Book of Hours"
+            ],
+            "weight": 31,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:44:08-05:00",
+    "timestamp": "2023-09-24T00:51:19-05:00"
+}

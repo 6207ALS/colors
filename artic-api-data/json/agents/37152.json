@@ -1,0 +1,33 @@
+{
+    "id": 37152,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37152",
+    "title": "Jehan Georges Vibert",
+    "sort_title": "Vibert, Jehan Georges",
+    "alt_titles": [
+        "Jean G. Vibert",
+        "Jean Georges Vibert"
+    ],
+    "is_artist": true,
+    "birth_date": 1840,
+    "death_date": 1902,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jehan Georges Vibert",
+            "Vibert, Jehan Georges",
+            "Jean G. Vibert",
+            "Jean Georges Vibert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:32:33-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

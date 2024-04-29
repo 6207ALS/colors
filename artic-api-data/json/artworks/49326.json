@@ -1,0 +1,164 @@
+{
+    "id": 49326,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/49326",
+    "is_boosted": false,
+    "title": "Flower Blossom",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACsiDzEnEDYqFzgtGj43Fj43Fz04Fzw3GUM+IUdBJEhCJkpFJUpFJ0pFKVBKKVJLKlVNK1ZOL1dSNVlTNgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMQgjVMYjHIAQ1IEwuRAUQgAOw==",
+        "width": 2202,
+        "height": 3000,
+        "alt_text": "A work made of album leaf, inks and color on paper.."
+    },
+    "main_reference_number": "1975.554f",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1807,
+    "date_end": 1891,
+    "date_display": "Miji period (1868\u20131912)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Shibata Zeshin (Japanese, 1807-1891)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Album leaf, inks and color on paper.",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Richard Barancik",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 47,
+        "l": 47,
+        "s": 13,
+        "percentage": 0.0009082652134423252,
+        "population": 60
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 37416,
+    "artist_title": "Shibata Zeshin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37416
+    ],
+    "artist_titles": [
+        "Shibata Zeshin"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "album leaf",
+        "paper (fiber product)",
+        "album/sketchbook",
+        "asian art",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-280",
+    "classification_title": "album leaf",
+    "alt_classification_ids": [
+        "TM-401",
+        "TM-26",
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-280",
+        "TM-401",
+        "TM-26",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "album leaf",
+        "album/sketchbook",
+        "asian art",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f25e4192-d3fc-63d8-d673-0ee4cc24a66c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1975.554f"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flower Blossom"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-16T09:17:08-05:00",
+    "updated_at": "2023-06-29T18:02:50-05:00",
+    "timestamp": "2023-09-24T00:42:06-05:00"
+}

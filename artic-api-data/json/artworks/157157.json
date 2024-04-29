@@ -1,0 +1,178 @@
+{
+    "id": 157157,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/157157",
+    "is_boosted": false,
+    "title": "Still Life",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAIR5apSDc5WLdKCVf6yUf6aZf5GNg5eRh6eZgqqehaCXiK+hia6iiKmgjbKjh7Skh7OkibOkirWkiLSki7OjjLOljLioi72skL2skb6ukb2skr2tk7+ukr+vlMCvlcW1k8KwlcSzmcW1mcm+p8i+q8rAqNTFoNLJtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwIfl0gl5NBhJBDGhLDacTEJACABAogHDdCIpDpWC4zMqNQyQIAA7",
+        "width": 3000,
+        "height": 2004,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2001.158",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1955,
+    "date_end": 1955,
+    "date_display": "1955",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Giorgio Morandi\nItalian, 1890-1964",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "Unframed: 43.2 \u00d7 61.6 cm (17 1/16 \u00d7 24 5/16 in.); 43.2 \u00d7 61.6 cm (17 \u00d7 24 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 61.6,
+            "width_in": 24.252,
+            "height_cm": 43.2,
+            "height_in": 17.0079,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Unframed"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 61.6,
+            "width_in": 24.25,
+            "height_cm": 43.2,
+            "height_in": 17,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Harold L. Stuart Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2001,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / SIAE, Rome",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.9723,
+    "color": {
+        "h": 37,
+        "l": 66,
+        "s": 25,
+        "percentage": 0.7513553261737557,
+        "population": 3566
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 35822,
+    "artist_title": "Giorgio Morandi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35822
+    ],
+    "artist_titles": [
+        "Giorgio Morandi"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5bfc7cef-3c8c-4239-65ac-826c735643f5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2001.158"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Still Life"
+            ],
+            "weight": 2742,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:18-05:00",
+    "updated_at": "2023-04-07T16:28:03-05:00",
+    "timestamp": "2023-09-24T01:31:12-05:00"
+}

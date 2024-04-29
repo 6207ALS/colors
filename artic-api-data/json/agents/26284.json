@@ -1,0 +1,33 @@
+{
+    "id": 26284,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/26284",
+    "title": "James Tissot",
+    "sort_title": "Tissot, James",
+    "alt_titles": [
+        "James Joseph Jacques Tissot",
+        "James Jacques Joseph Tissot"
+    ],
+    "is_artist": true,
+    "birth_date": 1836,
+    "death_date": 1902,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Tissot",
+            "Tissot, James",
+            "James Joseph Jacques Tissot",
+            "James Jacques Joseph Tissot"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:55-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

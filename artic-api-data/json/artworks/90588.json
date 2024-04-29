@@ -1,0 +1,186 @@
+{
+    "id": 90588,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/90588",
+    "is_boosted": false,
+    "title": "Music Stand",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALWyqsDAusrFwM/NydnSzt7Y2ODb3ePe3OXi4+jk4ujl5u3s5+vq6e/s6u3r7e/u7Pf38/T09fj59fj49wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NIkjBQAEzQI0XMQDmIUSggAOw==",
+        "width": 1758,
+        "height": 2250,
+        "alt_text": "A work made of oak and rosewood."
+    },
+    "main_reference_number": "1989.437",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1964,
+    "date_end": 1964,
+    "date_display": "1964",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wendell Castle\nAmerican, 1932\u20132018\nScottsville, New York",
+    "place_of_origin": "Scottsville",
+    "description": null,
+    "dimensions": "135.9 \u00d7 68.5 cm (53 1/2 \u00d7 27 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68.5,
+            "width_in": 27,
+            "height_cm": 135.9,
+            "height_in": 53.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oak and rosewood",
+    "inscriptions": "Marked on bottom of shelf in incised script: \"W.C.  No. 4/12  64\"",
+    "credit_line": "Gift of Mr. and Mrs. David H. Barnow",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.8745,
+    "color": {
+        "h": 9,
+        "l": 49,
+        "s": 10,
+        "percentage": 0.001209326767788372,
+        "population": 11
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 43554,
+    "artist_title": "Wendell Castle",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43554
+    ],
+    "artist_titles": [
+        "Wendell Castle"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "furniture accessory",
+        "oak",
+        "Modernism",
+        "rosewood",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-559",
+    "classification_title": "furniture accessory",
+    "alt_classification_ids": [
+        "TM-2190",
+        "TM-2191",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-559",
+        "TM-2190",
+        "TM-2191",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "furniture accessory",
+        "american decorative arts",
+        "american arts",
+        "furniture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3587",
+    "alt_material_ids": [
+        "TM-3600"
+    ],
+    "material_ids": [
+        "TM-3587",
+        "TM-3600"
+    ],
+    "material_titles": [
+        "oak",
+        "rosewood"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "da5fcc4c-8273-27ae-6491-7f6c1ae9dae1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.437"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Music Stand"
+            ],
+            "weight": 1030,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:46:10-06:00",
+    "updated_at": "2023-04-07T12:18:38-05:00",
+    "timestamp": "2023-09-24T00:59:55-05:00"
+}

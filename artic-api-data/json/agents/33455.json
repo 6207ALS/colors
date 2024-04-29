@@ -1,0 +1,28 @@
+{
+    "id": 33455,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33455",
+    "title": "Fran\u00e7ois Arnal",
+    "sort_title": "Arnal, Fran\u00e7ois",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1924,
+    "death_date": 2012,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fran\u00e7ois Arnal",
+            "Arnal, Fran\u00e7ois"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-09-23T11:03:57-05:00",
+    "updated_at": "2022-04-22T10:51:52-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

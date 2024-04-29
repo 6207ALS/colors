@@ -1,0 +1,168 @@
+{
+    "id": 216449,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/216449",
+    "is_boosted": false,
+    "title": "Mineral and Mining Museum, Broken Hill, New South Wales, Australia",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAANvZ1N/d2OTj3uXk3+fm4ejn4urp5Ozr5u3s5+7t6O/u6fDv6fDu6vDv6vDw6vHw6/Lx7PLx7fPy7fTz7vTz7/X07/X17/b28QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdYLI4zvM0kGRd1SQRQgAMB5UkRsE4EKJAkUdCEQIAOw==",
+        "width": 4502,
+        "height": 3293,
+        "alt_text": "A work made of ink on tracing paper."
+    },
+    "main_reference_number": "2002.387",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1988,
+    "date_end": 1988,
+    "date_display": "1988",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Glenn Murcutt\nAustralian, born 1936",
+    "place_of_origin": "Australia",
+    "description": null,
+    "dimensions": "45 \u00d7 62.4 cm (17 3/4 \u00d7 24 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 62.4,
+            "width_in": 24.567,
+            "height_cm": 45,
+            "height_in": 17.7166,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on tracing paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Glenn Murcutt",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.0641,
+    "color": {
+        "h": 38,
+        "l": 43,
+        "s": 1,
+        "percentage": 0.004037444413042099,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 105076,
+    "artist_title": "Glenn Murcutt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        105076
+    ],
+    "artist_titles": [
+        "Glenn Murcutt"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "ink",
+        "paper (fiber product)",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1627",
+    "classification_title": "ink",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-1627",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "ink",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1e856997-b4c2-6c19-39ba-bd2de5e8fe79",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2002.387"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mineral and Mining Museum, Broken Hill, New South Wales, Australia"
+            ],
+            "weight": 173,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:28-05:00",
+    "updated_at": "2023-05-12T10:22:26-05:00",
+    "timestamp": "2023-09-24T01:44:42-05:00"
+}

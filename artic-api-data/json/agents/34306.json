@@ -1,0 +1,35 @@
+{
+    "id": 34306,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34306",
+    "title": "Willem Drost",
+    "sort_title": "Drost, Willem",
+    "alt_titles": [
+        "Willem Droste",
+        "Wilhelm (?) Drost",
+        "Willem Dorst"
+    ],
+    "is_artist": true,
+    "birth_date": 1630,
+    "death_date": 1680,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Willem Drost",
+            "Drost, Willem",
+            "Willem Droste",
+            "Wilhelm (?) Drost",
+            "Willem Dorst"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:24-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

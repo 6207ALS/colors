@@ -1,0 +1,189 @@
+{
+    "id": 59906,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59906",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEQ/K0U/LUlEMV1HN2BHOGpCOWhHPWNMOnBGO3tGQX5LR4FNRo1OUI5QUZJQUwAAACH5BAAAAAAALAAAAAADAAUAAAQLsDG3kkKmnEEECBEAOw==",
+        "width": 512,
+        "height": 768,
+        "alt_text": "A work made of silk and gilt strip wound around a silk fiber core, warp-float faced satin weave with supplementary brocading wefts."
+    },
+    "main_reference_number": "1980.127",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1501,
+    "date_end": 1700,
+    "date_display": "16th/17th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy or Spain",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "101 \u00d7 51.4 cm (39 3/4 \u00d7 20 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 51.4,
+            "width_in": 20.25,
+            "height_cm": 101,
+            "height_in": 39.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk and gilt strip wound around a silk fiber core, warp-float faced satin weave with supplementary brocading wefts",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mildred Davison and Textile Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 52.5062,
+    "color": {
+        "h": 343,
+        "l": 44,
+        "s": 60,
+        "percentage": 0.012378152560730313,
+        "population": 132
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "satin weaving",
+        "silk (textile)",
+        "coat of arms",
+        "textile",
+        "gilt-metal-strip-wrapped silk",
+        "weaving",
+        "brocading",
+        "royalty"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-10481",
+    "alt_subject_ids": [
+        "TM-12150"
+    ],
+    "subject_ids": [
+        "TM-10481",
+        "TM-12150"
+    ],
+    "subject_titles": [
+        "coat of arms",
+        "royalty"
+    ],
+    "material_id": "TM-2579",
+    "alt_material_ids": [
+        "TM-10457"
+    ],
+    "material_ids": [
+        "TM-2579",
+        "TM-10457"
+    ],
+    "material_titles": [
+        "silk (textile)",
+        "gilt-metal-strip-wrapped silk"
+    ],
+    "technique_id": "TM-10501",
+    "alt_technique_ids": [
+        "TM-4228"
+    ],
+    "technique_ids": [
+        "TM-10501",
+        "TM-4228"
+    ],
+    "technique_titles": [
+        "satin weaving",
+        "brocading"
+    ],
+    "theme_titles": [],
+    "image_id": "4e16b0c1-b99a-ffab-2ec8-b0cc92a47969",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.127"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:03:53-05:00",
+    "timestamp": "2023-09-24T00:46:11-05:00"
+}

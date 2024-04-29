@@ -1,0 +1,182 @@
+{
+    "id": 158462,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/158462",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABYfGxkiHTA2MjE4Nz5CPj9WZUxOR01OR1NdXlFgaVVgaE9hcEdlfW53fFhwhmJ0imh5i2B6lXaJp3+OpnyQrH+Sr4yPk4mPl6euuq2vuaGuwrW6ydrf7e/x/wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoHEQQgAgzZVZQ7J1HKYUkDY9CxNJFeWEADs=",
+        "width": 2857,
+        "height": 2250,
+        "alt_text": "A work made of bronze and paint, edition number one of two, with one artist's proof."
+    },
+    "main_reference_number": "2001.487",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2000,
+    "date_end": 2001,
+    "date_display": "2000/2001",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Robert Gober\nAmerican, born 1954",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "18 \u00d7 63.5 \u00d7 120 cm (7 \u00d7 25 \u00d7 47 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 120,
+            "depth_in": 47.25,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 18,
+            "height_in": 7,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze and paint, edition number one of two, with one artist's proof",
+    "inscriptions": null,
+    "credit_line": "Gift of Judith Neisser; Modern and Contemporary Art Purchase Fund in honor of The Art Institute of Chicago, United States Pavilion, Venice Biennale, 2001",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Robert Gober.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.2962,
+    "color": {
+        "h": 211,
+        "l": 46,
+        "s": 17,
+        "percentage": 0.12148237076419556,
+        "population": 680
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 55184,
+    "artist_title": "Robert Gober",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        55184
+    ],
+    "artist_titles": [
+        "Robert Gober"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "bronze",
+        "rectangles",
+        "21st Century",
+        "white (color)",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "bronze",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12656",
+    "alt_subject_ids": [
+        "TM-11841"
+    ],
+    "subject_ids": [
+        "TM-12656",
+        "TM-11841"
+    ],
+    "subject_titles": [
+        "rectangles",
+        "white (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e013298f-10c0-e814-c7f0-38743ef7000e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2001.487"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 400,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-05T14:28:19-05:00",
+    "updated_at": "2023-09-23T23:16:39-05:00",
+    "timestamp": "2023-09-24T01:31:55-05:00"
+}

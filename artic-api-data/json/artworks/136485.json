@@ -1,0 +1,171 @@
+{
+    "id": 136485,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/136485",
+    "is_boosted": false,
+    "title": "Sample (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE5OTlpaWl5eXmBgYGJiYmVlZWZmZmhoaGlpaWxsbG5ubm9vb3BwcHNzc3V1dXd3d4GBgYaGhpOTkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURoDMsyoNEkGQMDRMUhwAkRAgAOw==",
+        "width": 1357,
+        "height": 1627,
+        "alt_text": "A work made of cotton."
+    },
+    "main_reference_number": "1956.111b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1951,
+    "date_display": "1951",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Produced by Scalamandr\u00e9\nUnited States, San Francisco",
+    "place_of_origin": "California",
+    "description": null,
+    "dimensions": "63.5 \u00d7 67.3 cm (25 \u00d7 26 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 67.3,
+            "width_in": 26.5,
+            "height_cm": 63.5,
+            "height_in": 25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Eugene Maier",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 40,
+        "s": 0,
+        "percentage": 0.23572259123543748,
+        "population": 2009
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 106073,
+    "artist_title": "Scalamandr\u00e9",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        106073
+    ],
+    "artist_titles": [
+        "Scalamandr\u00e9"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed",
+        "weaving",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "weaving",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dbf51f38-6d09-83d1-fb31-cc0a712cc289",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.111b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Furnishing Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:41:39-05:00",
+    "timestamp": "2023-09-24T01:21:27-05:00"
+}

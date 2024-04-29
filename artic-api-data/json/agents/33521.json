@@ -1,0 +1,28 @@
+{
+    "id": 33521,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33521",
+    "title": "Lewis Baltz",
+    "sort_title": "Baltz, Lewis",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1945,
+    "death_date": 2014,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lewis Baltz",
+            "Baltz, Lewis"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-05-16T15:48:57-05:00",
+    "updated_at": "2023-05-16T15:52:29-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

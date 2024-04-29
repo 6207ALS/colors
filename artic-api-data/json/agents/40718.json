@@ -1,0 +1,33 @@
+{
+    "id": 40718,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40718",
+    "title": "William Nicholson",
+    "sort_title": "Nicholson, William",
+    "alt_titles": [
+        "Sir William Newzam Prior Nicholson",
+        "Sir William Nicholson"
+    ],
+    "is_artist": true,
+    "birth_date": 1872,
+    "death_date": 1949,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Nicholson",
+            "Nicholson, William",
+            "Sir William Newzam Prior Nicholson",
+            "Sir William Nicholson"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:50-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 199118,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/199118",
+    "is_boosted": false,
+    "title": "Small Triton Fountain",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAC8vL0ZGRk1NTWdnZ3BwcHFxcXx8fH5+foGBgYeHh4qKiouLi4+Pj5KSkpOTk5SUlJeXl5qampubm52dnZ6enqKioqampqenp6urq6+vr7Kysrm5ub29vcPDwwAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAHAAUAAAUdoEFtHWdBhSEUSMI41xAci9JMBKBIkZZRlccEEwIAOw==",
+        "width": 2706,
+        "height": 1954,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1959.8",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1916,
+    "date_end": 1916,
+    "date_display": "1916",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Carl Milles\nAmerican, born Sweden, 1875\u20131955",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "109.5 \u00d7 55.9 cm (43 1/8 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.9,
+            "width_in": 22,
+            "height_cm": 109.5,
+            "height_in": 43.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Duncan Hodges and Mr. Edward L. Brewster in memory of Walter S. Brewster",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1959,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.2816588655341877,
+        "population": 1446
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35786,
+    "artist_title": "Carl Milles",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35786
+    ],
+    "artist_titles": [
+        "Carl Milles"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "fountain",
+        "bronze",
+        "triton (mythical or legendary being)",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11790",
+    "classification_title": "fountain",
+    "alt_classification_ids": [
+        "TM-11791",
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-11790",
+        "TM-11791",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "fountain",
+        "triton (mythical or legendary being)",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "de4cb556-29de-2e14-f8da-da1be103792a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1959.8"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Small Triton Fountain"
+            ],
+            "weight": 126,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-08T18:45:18-05:00",
+    "updated_at": "2023-05-08T18:47:34-05:00",
+    "timestamp": "2023-09-24T01:39:36-05:00"
+}

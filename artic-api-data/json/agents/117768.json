@@ -1,0 +1,28 @@
+{
+    "id": 117768,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/117768",
+    "title": "Jean Mohr",
+    "sort_title": "Mohr, Jean",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1925,
+    "death_date": 2018,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Mohr",
+            "Mohr, Jean"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-23T15:59:13-06:00",
+    "updated_at": "2022-02-23T16:00:55-06:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

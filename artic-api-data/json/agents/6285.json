@@ -1,0 +1,39 @@
+{
+    "id": 6285,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6285",
+    "title": "Bernardin de Saint-Pierre",
+    "sort_title": "Saint-Pierre, Bernardin de",
+    "alt_titles": [
+        "Jacques Henri Bernardin De Saint Pierre",
+        "Jacques Henri Bernardin de Saint-Pierre",
+        "Saint-Pierre, Jacques Henri Bernardin de",
+        "Saint-Pierre, Jacobo Bernardino Henrique de",
+        "Bernardin de Saint-Pierre"
+    ],
+    "is_artist": true,
+    "birth_date": 1737,
+    "death_date": 1814,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bernardin de Saint-Pierre",
+            "Saint-Pierre, Bernardin de",
+            "Jacques Henri Bernardin De Saint Pierre",
+            "Jacques Henri Bernardin de Saint-Pierre",
+            "Saint-Pierre, Jacques Henri Bernardin de",
+            "Saint-Pierre, Jacobo Bernardino Henrique de",
+            "Bernardin de Saint-Pierre"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-30T11:55:59-05:00",
+    "updated_at": "2020-06-30T12:00:35-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

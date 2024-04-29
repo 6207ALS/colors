@@ -1,0 +1,158 @@
+{
+    "id": 224681,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/224681",
+    "is_boosted": false,
+    "title": "Bookshelf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMu4rcO6t8O8usi/u8rCv9fIv+DJvM3IxdLLytLMzNXR0NzT0dzX1t/e3unb0+bl5fHx8fn5+fv7+/7+/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIMsyVA4QgAYxNMohzRFUAgAOw==",
+        "width": 1818,
+        "height": 2250,
+        "alt_text": "A work made of lacquered mahogany, walnut, and brass."
+    },
+    "main_reference_number": "2014.1185",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1945,
+    "date_end": 1955,
+    "date_display": "c. 1950",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Ico (Italian, 1916-1996) and Luisa Parisi (Italian, 1914-1990)",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "125 \u00d7 114 \u00d7 25.4 cm (49 1/4 \u00d7 44 3/4 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 25.4,
+            "depth_in": 10,
+            "width_cm": 114,
+            "width_in": 44.75,
+            "height_cm": 125,
+            "height_in": 49.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lacquered mahogany, walnut, and brass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Martin Bovill",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.6368,
+    "color": {
+        "h": 1,
+        "l": 39,
+        "s": 7,
+        "percentage": 0.03901056469782735,
+        "population": 343
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 113778,
+    "artist_title": "Ico and Luisa Parisi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        113778
+    ],
+    "artist_titles": [
+        "Ico and Luisa Parisi"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13174",
+    "classification_title": "design",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3a143873-7c48-4fb1-23a8-215d57d18f58",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.1185"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bookshelf"
+            ],
+            "weight": 16,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:30-05:00",
+    "updated_at": "2023-04-07T15:16:31-05:00",
+    "timestamp": "2023-09-24T01:47:15-05:00"
+}

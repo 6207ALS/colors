@@ -1,0 +1,184 @@
+{
+    "id": 119094,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/119094",
+    "is_boosted": false,
+    "title": "Aztec",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE1NTW5tbXV1dHh3d31+fYKCgYiHhYmIhoqJh5GQjpSUkpaWlJqZl5qamqKhn6inpcXEwsnIxsvLydLR0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURILIoCUM0jwEEjlAMRwRJUwgAOw==",
+        "width": 403,
+        "height": 504,
+        "alt_text": "A work made of terracotta, glazed."
+    },
+    "main_reference_number": "1943.1417",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1937,
+    "date_end": 1937,
+    "date_display": "c. 1937",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Donal Hord\nAmerican, 1902\u20131966",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "50.8 \u00d7 48.3 \u00d7 52.1 cm (20 \u00d7 19 \u00d7 20 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 52.1,
+            "depth_in": 20.5,
+            "width_cm": 48.3,
+            "width_in": 19,
+            "height_cm": 50.8,
+            "height_in": 20,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Terracotta, glazed",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago, Works Progress Administration Allocation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1944,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 1.8357,
+    "color": {
+        "h": 39,
+        "l": 59,
+        "s": 1,
+        "percentage": 0.22014086314126155,
+        "population": 1956
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 100182,
+    "artist_title": "Donal Hord",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        100182
+    ],
+    "artist_titles": [
+        "Donal Hord"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "terracotta",
+        "sculpture",
+        "Modernism",
+        "modern and contemporary art",
+        "people",
+        "portraits"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_titles": [
+        "people",
+        "portraits"
+    ],
+    "material_id": "TM-2433",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2433"
+    ],
+    "material_titles": [
+        "terracotta"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3855a09c-6cb9-1c9b-b32b-d8d8093af1ef",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.1417"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Aztec"
+            ],
+            "weight": 444,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T13:56:41-05:00",
+    "updated_at": "2023-08-29T14:00:56-05:00",
+    "timestamp": "2023-09-24T01:12:47-05:00"
+}

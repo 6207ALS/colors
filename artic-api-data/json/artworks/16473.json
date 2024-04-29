@@ -1,0 +1,163 @@
+{
+    "id": 16473,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16473",
+    "is_boosted": false,
+    "title": "Cigar Making in Seville",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADImJDsrIjkvK0AyKkU5MUQ+M0g5M0k+OFA9NUVCN0hCOXRhOVlPQVlWRGFbQ2NaQmleQXNmQXtxUn17YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PJIEdRMjlIMBHMEBiAkSAgAOw==",
+        "width": 1831,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1933.1113",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1899,
+    "date_end": 1899,
+    "date_display": "1899",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ricardo Canals y Llamb\u00ed\nSpanish, 1876-1931",
+    "place_of_origin": "Seville",
+    "description": null,
+    "dimensions": "61.2 \u00d7 50.5 cm (24 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.5,
+            "width_in": 20,
+            "height_cm": 61.2,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.4425,
+    "color": {
+        "h": 42,
+        "l": 42,
+        "s": 49,
+        "percentage": 0.005038083329898277,
+        "population": 44
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 3970,
+    "artist_title": "Ricardo Canals y Llamb\u00ed",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        3970
+    ],
+    "artist_titles": [
+        "Ricardo Canals y Llamb\u00ed"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5965fe15-d8fa-3f39-031d-bb4a231560e0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1113"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cigar Making in Seville"
+            ],
+            "weight": 1453,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:36:51-05:00",
+    "timestamp": "2023-09-24T00:27:05-05:00"
+}

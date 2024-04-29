@@ -1,0 +1,33 @@
+{
+    "id": 116480,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116480",
+    "title": "Webster & Brother",
+    "sort_title": "Webster & Brother",
+    "alt_titles": [
+        "Edward Z. Webster",
+        "Israel B. Webster"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Webster & Brother",
+            "Webster & Brother",
+            "Edward Z. Webster",
+            "Israel B. Webster"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-05T16:06:33-05:00",
+    "updated_at": "2020-05-05T16:10:42-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

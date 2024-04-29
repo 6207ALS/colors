@@ -1,0 +1,35 @@
+{
+    "id": 63845,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/63845",
+    "title": "Blinky Palermo",
+    "sort_title": "Palermo, Blinky",
+    "alt_titles": [
+        "Peter Heisterkamp",
+        "Blinky Palermo, (Peter Heisterkamp)",
+        "Peter Schwarze"
+    ],
+    "is_artist": true,
+    "birth_date": 1943,
+    "death_date": 1977,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Blinky Palermo",
+            "Palermo, Blinky",
+            "Peter Heisterkamp",
+            "Blinky Palermo, (Peter Heisterkamp)",
+            "Peter Schwarze"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T10:17:04-05:00",
+    "updated_at": "2020-06-15T10:20:33-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

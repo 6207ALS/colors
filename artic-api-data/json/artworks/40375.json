@@ -1,0 +1,172 @@
+{
+    "id": 40375,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/40375",
+    "is_boosted": false,
+    "title": "Creamer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGZeVYNSMpp6ZZ2KfpaNiZaRjLWahLOelbWonbewrLi1s7y6t7e5ub67ucK9ucC+vMS/vsPBv8XHxsXGx8nJyM3OzszOz9DOzdfW1tna3d/f39/h4+Hi4+Lj4+Pj4+Tk5OXm5ubn5gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAnlwVhEJhbFICBwVDKQgwGxwXBACUDBowmBLoRG5xMEADs=",
+        "width": 3000,
+        "height": 2214,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1972.857",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1825,
+    "date_end": 1830,
+    "date_display": "1825\u201330",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "English for the American market\nStaffordshire, England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "H.: 9.8 cm (3 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 9.8,
+            "height_in": 3.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mildred Hofeller for the Betje and Simon Straus Collection",
+    "catalogue_display": null,
+    "publication_history": "Louise Smith Bross, \"The Simon and Betje Straus Collection of 18th and 19th Century English Ceramics,\" <em>Antiques</em> 60, 2 (August 1976) 329 (ill.).",
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.038,
+    "color": {
+        "h": 29,
+        "l": 70,
+        "s": 87,
+        "percentage": 0.001334996357367082,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "creamer",
+        "earthenware",
+        "earthenware",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11776",
+    "classification_title": "creamer",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11776",
+        "TM-74",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "creamer",
+        "earthenware",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b35761d6-340b-faa1-f2d4-8e929389e84b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.857"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Creamer"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:24:14-05:00",
+    "timestamp": "2023-09-24T00:37:59-05:00"
+}

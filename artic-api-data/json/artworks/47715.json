@@ -1,0 +1,176 @@
+{
+    "id": 47715,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47715",
+    "is_boosted": false,
+    "title": "Creamer",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACkpKC4uLjcyLzU1NDc3Njw8O0VCQVlTT1BRUVFSUl5VUGdkYWFjZHdybIuMjYyMjpybm5qcnZ+enqOio6anqaipqr/AwcDBw8jJyQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4FAQAcA0C5JEyuE8kmBQFQZNlxUCADs=",
+        "width": 2281,
+        "height": 2250,
+        "alt_text": "A work made of glazed stoneware."
+    },
+    "main_reference_number": "1974.436",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1975,
+    "date_display": "1925/75",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Lucie Rie\nEnglish, born Austria, 1902-1995",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "9.8 \u00d7 10.8 \u00d7 6.4 cm (3 7/8 \u00d7 4 1/4 \u00d7 2 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 6.4,
+            "depth_in": 2.5,
+            "width_cm": 10.8,
+            "width_in": 4.25,
+            "height_cm": 9.8,
+            "height_in": 3.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glazed stoneware",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. William G. Swartchild, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1975,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.4642,
+    "color": {
+        "h": 217,
+        "l": 63,
+        "s": 1,
+        "percentage": 0.224273428232503,
+        "population": 1573
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 21797,
+    "artist_title": "Lucie Rie",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21797
+    ],
+    "artist_titles": [
+        "Lucie Rie"
+    ],
+    "category_ids": [
+        "PC-9",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe",
+        "Women artists"
+    ],
+    "term_titles": [
+        "stoneware",
+        "stoneware",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-279",
+    "classification_title": "stoneware",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-279",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "stoneware",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2484",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2484"
+    ],
+    "material_titles": [
+        "stoneware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "4fa6bbe3-8b15-6cbf-7084-1690a4612412",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.436"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Creamer"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:53:19-05:00",
+    "timestamp": "2023-09-24T00:41:16-05:00"
+}

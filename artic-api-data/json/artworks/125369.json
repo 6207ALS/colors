@@ -1,0 +1,176 @@
+{
+    "id": 125369,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/125369",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEZCPUtIQU9KQ1JPSVtWTl5aU19bVGNdVWRgWGdkXGhjW2hlXG1pX3ZyaXl0bIWAdoaCeIeEeqOek8bAsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBRBU7Awj5EgQ+EQCiA0RwgAOw==",
+        "width": 2566,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in light gray and black on white nacre paper."
+    },
+    "main_reference_number": "1963.1430",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1961,
+    "date_end": 1961,
+    "date_display": "1961",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Louis Demott Bunce (American, 1907-1983)\nprinted by Garo Antreasian (American, born 1922)\npublished by Tamarind Lithography Workshop (American, founded 1960)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Sheet: 47.2 \u00d7 38.8 cm (18 5/8 \u00d7 15 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38.8,
+            "width_in": 15.2756,
+            "height_cm": 47.2,
+            "height_in": 18.5827,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in light gray and black on white Nacre paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Burt Kleiner",
+    "catalogue_display": "<p>Tamarind (1960-1970) 250</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.9869,
+    "color": {
+        "h": 213,
+        "l": 47,
+        "s": 3,
+        "percentage": 0.0032483235041470262,
+        "population": 27
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 3610,
+    "artist_title": "Louis Demott Bunce",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        3610
+    ],
+    "artist_titles": [
+        "Louis Demott Bunce"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "311a7080-82f3-9499-e1a4-58d8363c69f8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1963.1430"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:11-05:00",
+    "updated_at": "2023-04-10T10:39:54-05:00",
+    "timestamp": "2023-09-24T01:16:30-05:00"
+}

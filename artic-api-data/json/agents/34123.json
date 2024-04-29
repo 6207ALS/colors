@@ -1,0 +1,54 @@
+{
+    "id": 34123,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34123",
+    "title": "Salvador Dal\u00ed",
+    "sort_title": "Dal\u00ed, Salvador",
+    "alt_titles": [
+        "Salvador Dal\u00ed i Dom\u00e8nech",
+        "Salvador Dal\u00ed y Dom\u00e8nech",
+        "Salvador Felipe Jacinto Dal\u00ed y Dom\u00e8nech",
+        "Salvador Felipe Jacinto Dal\u00ed",
+        "Salvador Felipe Jacinto Dal\u00ed Dom\u00e8nech",
+        "\u8428\u5c14\u74e6\u591a\u00b7\u8fbe\u5229"
+    ],
+    "is_artist": true,
+    "birth_date": 1904,
+    "death_date": 1989,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Salvador Dal\u00ed",
+            "Dal\u00ed, Salvador",
+            "Salvador Dal\u00ed i Dom\u00e8nech",
+            "Salvador Dal\u00ed y Dom\u00e8nech",
+            "Salvador Felipe Jacinto Dal\u00ed y Dom\u00e8nech",
+            "Salvador Felipe Jacinto Dal\u00ed",
+            "Salvador Felipe Jacinto Dal\u00ed Dom\u00e8nech",
+            "\u8428\u5c14\u74e6\u591a\u00b7\u8fbe\u5229"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Salvador Dal\u00ed",
+            "Dal\u00ed, Salvador",
+            "Salvador Dal\u00ed i Dom\u00e8nech",
+            "Salvador Dal\u00ed y Dom\u00e8nech",
+            "Salvador Felipe Jacinto Dal\u00ed y Dom\u00e8nech",
+            "Salvador Felipe Jacinto Dal\u00ed",
+            "Salvador Felipe Jacinto Dal\u00ed Dom\u00e8nech",
+            "\u8428\u5c14\u74e6\u591a\u00b7\u8fbe\u5229"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-14T14:44:12-05:00",
+    "updated_at": "2023-09-23T23:16:30-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

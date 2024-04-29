@@ -1,0 +1,52 @@
+{
+    "id": 4548,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4548",
+    "title": "American Oil Paintings and Sculpture 25th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1912-11-05T00:00:00-06:00",
+    "aic_end_at": "1912-12-08T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "a33b2c0e-e479-f96f-9f23-7695f83d1792",
+    "alt_image_ids": [
+        "7c3cdea5-3ed1-212c-d4cd-2bc723d3a74d",
+        "b6c16bae-5e50-744e-12dd-e068d71f19bc",
+        "cab86863-b2fa-71b7-435c-cc0148004b2d",
+        "49d2593e-0c70-a77e-4c0a-c51625e94001",
+        "803f8eee-3fc9-9a39-0846-c8c8d0f3ce83",
+        "c9bd493d-b6c5-f327-a71c-acb015a137d5",
+        "adb23a9d-0b1a-e9bf-6732-6e54b696e7b5",
+        "3e1173df-4ccd-29cc-7abd-569b152c0b35",
+        "11643abe-5cb4-174a-368f-a10b484c4a50",
+        "5539b2a0-9d55-3ef9-d4e5-699688d63f50",
+        "19aa299c-b832-58c9-ba3a-b520b91b2652",
+        "383f29e5-eaff-3f3e-a512-0d9b54b2f1c7",
+        "30a217d7-4522-551b-05c0-898784918d62"
+    ],
+    "document_ids": [
+        "4cec7212-87b1-560a-4fff-401c5aa4cca7"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Oil Paintings and Sculpture 25th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:49-06:00",
+    "timestamp": "2023-09-24T02:01:25-05:00"
+}

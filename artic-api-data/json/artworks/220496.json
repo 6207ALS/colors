@@ -1,0 +1,172 @@
+{
+    "id": 220496,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/220496",
+    "is_boosted": false,
+    "title": "Untitled (Cowboy)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOjUte/Yt+vXuezXuO/auu/au/Dbu/LcuvDavfDcvfLdvfPdvfDcvvHdvvLdvvPdvvTfv/LewQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOE8gWJAxwAIS5E0C8JERQgAOw==",
+        "width": 1768,
+        "height": 2250,
+        "alt_text": "A work made of pen and black ink on cream wove paper."
+    },
+    "main_reference_number": "2013.1507",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1952,
+    "date_display": "1951/52",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Saul Steinberg\nAmerican, born Romania, 1914-1999",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "63.8 \u00d7 50 cm (25 1/8 \u00d7 19 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50,
+            "width_in": 19.6851,
+            "height_cm": 63.8,
+            "height_in": 25.1182,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of The Saul Steinberg Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 The Saul Steinberg Foundation",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.5778,
+    "color": {
+        "h": 38,
+        "l": 52,
+        "s": 14,
+        "percentage": 0.0030954994754233923,
+        "population": 28
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36786,
+    "artist_title": "Saul Steinberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36786
+    ],
+    "artist_titles": [
+        "Saul Steinberg"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e799c72f-467c-b3da-b68f-00adc9492e1f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1507"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Cowboy)"
+            ],
+            "weight": 73,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:29-05:00",
+    "updated_at": "2023-04-07T15:22:00-05:00",
+    "timestamp": "2023-09-24T01:46:00-05:00"
+}

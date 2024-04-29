@@ -1,0 +1,31 @@
+{
+    "id": 96161,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/96161",
+    "title": "Jonathan De Pas",
+    "sort_title": "De Pas, Jonathan",
+    "alt_titles": [
+        "Jonathan de Pas"
+    ],
+    "is_artist": true,
+    "birth_date": 1932,
+    "death_date": 1991,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jonathan De Pas",
+            "De Pas, Jonathan",
+            "Jonathan de Pas"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:22:32-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

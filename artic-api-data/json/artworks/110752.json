@@ -1,0 +1,165 @@
+{
+    "id": 110752,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/110752",
+    "is_boosted": false,
+    "title": "Saint Salvi Church, Albi",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGVLNG1SMXVaOGxbRXdiRH5jQHhjRHplSH1nSHpoT4BmRYVvUINxV4lzUo12U454V5F7WZaBY4+DdZCGeLaxori8tsjHvL7EwMPJwsLIw8XIwcXJws7OxM3SygAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIJZd1TR02iYBCGVxTPAIS5QohtNAR0GEADs=",
+        "width": 5483,
+        "height": 4469,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1931.718",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1830,
+    "date_end": 1840,
+    "date_display": "1830/40",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Pierre Achille Poirot\nFrench, 1797-after 1852\nCorot, Jean Baptiste Camille\nFrench, 1796-1875",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "29.7 \u00d7 36.3 cm (11 11/16 \u00d7 14 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36.3,
+            "width_in": 14.25,
+            "height_cm": 29.7,
+            "height_in": 11.6875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles V. Hickox",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1932,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.8588,
+    "color": {
+        "h": 40,
+        "l": 74,
+        "s": 35,
+        "percentage": 0.013468222764404522,
+        "population": 78
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 20743,
+    "artist_title": "Pierre Achille Poirot",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        20743
+    ],
+    "artist_titles": [
+        "Pierre Achille Poirot"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bbeaec43-6e1b-5c12-b0ea-9706784506be",
+    "alt_image_ids": [
+        "eee61396-6517-54cb-1deb-dfebfbe2235f"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1931.718"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Saint Salvi Church, Albi"
+            ],
+            "weight": 165,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:22:57-05:00",
+    "timestamp": "2023-09-24T01:09:35-05:00"
+}

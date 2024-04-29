@@ -1,0 +1,227 @@
+{
+    "id": 156019,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/156019",
+    "is_boosted": false,
+    "title": "Cadillac, Chicago",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAAAAAAkJBQoKBRMTEBISEhoZEhobFh0cFhwcFyAgHCIiHSMiHiQkHyEhICkqJisrKiwsKDg3Mzs7ODw7ODw8O0RDQEVFRE1MSU9PS1RUUl5dW2pqa25tbG9wcXFwcXNzcnNzc3Z2dnd3eHt7eH59ent7fZWVk9va2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQBHoQzGRCofOJtR4YASDkodjIVwCgIxkMdJMEBVDwgFhKCKnIAA7",
+        "width": 3000,
+        "height": 2001,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "2000.356",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1954,
+    "date_end": 1964,
+    "date_display": "c. 1959",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Robert Frank\nAmerican, born Switzerland, 1924\u20132019",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 33 \u00d7 49.3 cm (13 \u00d7 19 7/16 in.); Paper: 40.5 \u00d7 50.4 cm (16 \u00d7 19 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.3,
+            "width_in": 19.4095,
+            "height_cm": 33,
+            "height_in": 12.9922,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.4,
+            "width_in": 19.8426,
+            "height_cm": 40.5,
+            "height_in": 15.9449,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Frank",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2001,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Robert Frank",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.9454,
+    "color": {
+        "h": 255,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.189756124331421,
+        "population": 899
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 34544,
+    "artist_title": "Robert Frank",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34544
+    ],
+    "artist_titles": [
+        "Robert Frank"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "Chicago",
+        "photographic paper",
+        "black-and-white photography",
+        "photography",
+        "street scenes",
+        "photographic process",
+        "photography",
+        "cityscapes",
+        "landscapes",
+        "photograph",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-213",
+    "classification_title": "gelatin silver (developing-out-paper) pr",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-213",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [
+        "TM-8578",
+        "TM-8645",
+        "TM-8762",
+        "TM-8657"
+    ],
+    "subject_ids": [
+        "TM-12075",
+        "TM-8578",
+        "TM-8645",
+        "TM-8762",
+        "TM-8657"
+    ],
+    "subject_titles": [
+        "Chicago",
+        "photography",
+        "street scenes",
+        "cityscapes",
+        "landscapes"
+    ],
+    "material_id": "TM-3046",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3046"
+    ],
+    "material_titles": [
+        "photographic paper"
+    ],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "93953ca1-f040-c89f-66db-108fe1233680",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2000.356"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cadillac, Chicago"
+            ],
+            "weight": 633,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:18-05:00",
+    "updated_at": "2023-09-23T23:17:26-05:00",
+    "timestamp": "2023-09-24T01:30:28-05:00"
+}

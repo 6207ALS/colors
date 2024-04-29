@@ -1,0 +1,187 @@
+{
+    "id": 54341,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/54341",
+    "is_boosted": false,
+    "title": "Singer Building, New York City",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADAuLjg2Nzk2N04/MU5EO1hHNl9NOmZUQWdYRmtcSX9lR35lSINqTIZtUIZtUQAAACH5BAAAAAAALAAAAAADAAUAAAQL0DWFWElrkGOCABEAOw==",
+        "width": 1968,
+        "height": 3713,
+        "alt_text": "A work made of gum bichromate over platinum print."
+    },
+    "main_reference_number": "1978.1061",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1912,
+    "date_end": 1912,
+    "date_display": "1912",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alvin Langdon Coburn\nEnglish, born United States, 1882\u20131966",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image/paper: 42.4 \u00d7 22.5 cm (16 3/4 \u00d7 8 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.5,
+            "width_in": 8.8583,
+            "height_cm": 42.4,
+            "height_in": 16.693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/paper"
+        }
+    ],
+    "medium_display": "Gum bichromate over platinum print",
+    "inscriptions": null,
+    "credit_line": "Julien Levy Collection, Gift of Jean and Julien Levy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "New York, New York, The Whitney Museum of American Art, \"The American Century: Art and Culture\" April 22- August 22, 1999.  \n\nArt Institute of Chicago, \"Alfred Stieglitz and the 19th Century,\" October 31, 2015-March 27, 2016.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.6986,
+    "color": {
+        "h": 0,
+        "l": 9,
+        "s": 72,
+        "percentage": 7.460626543417117e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 33997,
+    "artist_title": "Alvin Langdon Coburn",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33997
+    ],
+    "artist_titles": [
+        "Alvin Langdon Coburn"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "gum bichromate over platinum print",
+        "Pictorialism",
+        "pigment process",
+        "photographic process",
+        "photography",
+        "photograph",
+        "cityscapes"
+    ],
+    "style_id": "TM-7546",
+    "style_title": "Pictorialism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7546"
+    ],
+    "style_titles": [
+        "Pictorialism"
+    ],
+    "classification_id": "TM-824",
+    "classification_title": "gum bichromate over platinum print",
+    "alt_classification_ids": [
+        "TM-638",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-824",
+        "TM-638",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "gum bichromate over platinum print",
+        "pigment process",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-8762"
+    ],
+    "subject_ids": [
+        "TM-8762"
+    ],
+    "subject_titles": [
+        "cityscapes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c89f6a4e-3a09-e125-51e3-b48501f83ec4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.1061"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Singer Building, New York City"
+            ],
+            "weight": 187,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:11:48-05:00",
+    "timestamp": "2023-09-24T00:44:18-05:00"
+}

@@ -1,0 +1,178 @@
+{
+    "id": 215445,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/215445",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAG9tb3RydHl4eYJ/gIWDhYmHiJCOj5OSk5SSk5WTk5eVlpqZmqOio6WkpMfHxQAAACH5BAAAAAAALAAAAAADAAUAAAQLELVRjgBspUCcMhEAOw==",
+        "width": 1462,
+        "height": 2086,
+        "alt_text": "A work made of collotype, from the portfolio \"are you rea\" (1968)."
+    },
+    "main_reference_number": "2012.327.22",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1964,
+    "date_end": 1968,
+    "date_display": "1964/68",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Robert Heinecken\nAmerican, 1931\u20132006",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 24.4 \u00d7 17.3 cm (9 5/8 \u00d7 6 13/16 in.); Paper: 32.4 \u00d7 25.4 cm (12 13/16 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.3,
+            "width_in": 6.8111,
+            "height_cm": 24.4,
+            "height_in": 9.6063,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 32.4,
+            "height_in": 12.756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Collotype, from the portfolio \"Are You Rea\" (1968)",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert A. Taub",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": "193 of 500",
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2012,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.6039,
+    "color": {
+        "h": 327,
+        "l": 39,
+        "s": 1,
+        "percentage": 0.28349450612298827,
+        "population": 2875
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 34886,
+    "artist_title": "Robert Heinecken",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34886
+    ],
+    "artist_titles": [
+        "Robert Heinecken"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "photograph",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "dc52850f-0b18-864a-4574-3176328a7830",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.327.22"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-01T14:24:50-06:00",
+    "updated_at": "2023-04-07T13:21:27-05:00",
+    "timestamp": "2023-09-24T01:44:28-05:00"
+}

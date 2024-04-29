@@ -1,0 +1,37 @@
+{
+    "id": 36271,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36271",
+    "title": "Francesco Primaticcio",
+    "sort_title": "Primaticcio, Francesco",
+    "alt_titles": [
+        "Francesco Primatice",
+        "Francesco Primaticcio, (Bologna)",
+        "Francesco Primadizzi, (Bologna)",
+        "Francesco Bologna, called Primaticcio"
+    ],
+    "is_artist": true,
+    "birth_date": 1504,
+    "death_date": 1570,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francesco Primaticcio",
+            "Primaticcio, Francesco",
+            "Francesco Primatice",
+            "Francesco Primaticcio, (Bologna)",
+            "Francesco Primadizzi, (Bologna)",
+            "Francesco Bologna, called Primaticcio"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:34:26-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

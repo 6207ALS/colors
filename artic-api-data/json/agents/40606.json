@@ -1,0 +1,41 @@
+{
+    "id": 40606,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40606",
+    "title": "Girolamo da Carpi",
+    "sort_title": "Girolamo da Carpi",
+    "alt_titles": [
+        "Girolamo da Carpi",
+        "Girolamo Da Carpi",
+        "Girolamo Sellari",
+        "Girolamo da Sellari",
+        "Girolamo da Grassi",
+        "Girolamo de'Rivizzani"
+    ],
+    "is_artist": true,
+    "birth_date": 1501,
+    "death_date": 1556,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Girolamo da Carpi",
+            "Girolamo da Carpi",
+            "Girolamo da Carpi",
+            "Girolamo Da Carpi",
+            "Girolamo Sellari",
+            "Girolamo da Sellari",
+            "Girolamo da Grassi",
+            "Girolamo de'Rivizzani"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:29-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

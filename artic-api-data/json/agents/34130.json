@@ -1,0 +1,28 @@
+{
+    "id": 34130,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34130",
+    "title": "Thomas Danforth, III",
+    "sort_title": "Danforth, Thomas, III",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1756,
+    "death_date": 1840,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thomas Danforth, III",
+            "Danforth, Thomas, III"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:03:13-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

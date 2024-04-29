@@ -1,0 +1,184 @@
+{
+    "id": 99321,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99321",
+    "is_boosted": false,
+    "title": "Finger bowl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHx+g4KDiIKEiIWGioaHi4eIjJGSl5KTmZiYnJiZnZucoJycoKKjpqenqKanqqinqKurraurrqqrsKuus7KytLOztbCytrCyt7G0t7K1urO2urO2u7W4vLW4vQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIBAQxSAciLIkxhRRFSRtTvMwV8dhlpaFADs=",
+        "width": 2871,
+        "height": 2250,
+        "alt_text": "A work made of cut glass."
+    },
+    "main_reference_number": "1982.1267",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1885,
+    "date_end": 1900,
+    "date_display": "1885\u20131900",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 19th\u201320th century)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "6.7 \u00d7 11.7 cm (2 5/8 \u00d7 4 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11.7,
+            "width_in": 4.625,
+            "height_cm": 6.7,
+            "height_in": 2.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cut glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Miss Louise Lutz",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1983,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.6281,
+    "color": {
+        "h": 227,
+        "l": 54,
+        "s": 2,
+        "percentage": 0.3372079041963451,
+        "population": 1879
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "finger bowl",
+        "glass",
+        "glass",
+        "container",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11807",
+    "classification_title": "finger bowl",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-297",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11807",
+        "TM-85",
+        "TM-297",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "finger bowl",
+        "glass",
+        "container",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1cbba11e-fc83-66c0-3e78-f4c96fae117e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1267"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Finger bowl"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:18:35-05:00",
+    "timestamp": "2023-09-24T01:04:00-05:00"
+}

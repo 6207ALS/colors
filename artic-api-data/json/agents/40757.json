@@ -1,0 +1,39 @@
+{
+    "id": 40757,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40757",
+    "title": "Mattia Preti",
+    "sort_title": "Preti, Mattia",
+    "alt_titles": [
+        "il Cavalier Calabrese",
+        "Il Cavalier Calabrese",
+        "Cavaliere Mattia Preti",
+        "Mattia Preti, (Cavalier Calabrese)",
+        "Mattia Preti, (Il Cavalier Calabrese)"
+    ],
+    "is_artist": true,
+    "birth_date": 1613,
+    "death_date": 1699,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mattia Preti",
+            "Preti, Mattia",
+            "il Cavalier Calabrese",
+            "Il Cavalier Calabrese",
+            "Cavaliere Mattia Preti",
+            "Mattia Preti, (Cavalier Calabrese)",
+            "Mattia Preti, (Il Cavalier Calabrese)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:35:54-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

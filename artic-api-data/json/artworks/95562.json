@@ -1,0 +1,191 @@
+{
+    "id": 95562,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/95562",
+    "is_boosted": false,
+    "title": "Frank G. Logan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADw5NkxHRFFOS1tZVmlmZmloa3FvcXx5eHx6fISCg42Nj5GQj46OkailpbOxsri4t7+/wcTExt/d3uDf4wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIMYRXQQyiMECTQAy+Q0UggAOw==",
+        "width": 1796,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1920.36",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1879,
+    "date_end": 1920,
+    "date_display": "before 1920",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Albin Polasek\nAmerican, born Czech Republic, 1879\u20131965",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "H.: 66 cm (26 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 66,
+            "height_in": 26,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.6465,
+    "color": {
+        "h": 264,
+        "l": 47,
+        "s": 1,
+        "percentage": 0.14030428843596102,
+        "population": 1249
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Ryerson Library Reading Room",
+    "gallery_id": 2147472240,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36224,
+    "artist_title": "Albin Polasek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36224
+    ],
+    "artist_titles": [
+        "Albin Polasek"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-3"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "bronze",
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art",
+        "people",
+        "portraits"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_titles": [
+        "people",
+        "portraits"
+    ],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "695d9b8e-8e27-956b-9944-a1f56d362cc2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1920.36"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Frank G. Logan"
+            ],
+            "weight": 342,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-01T18:19:48-06:00",
+    "updated_at": "2023-04-07T14:01:41-05:00",
+    "timestamp": "2023-09-24T01:02:04-05:00"
+}

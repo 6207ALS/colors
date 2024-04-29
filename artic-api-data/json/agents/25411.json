@@ -1,0 +1,37 @@
+{
+    "id": 25411,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/25411",
+    "title": "Taddeo Zuccaro",
+    "sort_title": "Taddeo Zuccaro",
+    "alt_titles": [
+        "Taddeo Zuccari",
+        "Taddeo Sucari",
+        "Taddeo Zuccaro",
+        "Taddeo Zuccheri"
+    ],
+    "is_artist": true,
+    "birth_date": 1529,
+    "death_date": 1566,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Taddeo Zuccaro",
+            "Taddeo Zuccaro",
+            "Taddeo Zuccari",
+            "Taddeo Sucari",
+            "Taddeo Zuccaro",
+            "Taddeo Zuccheri"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:49-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

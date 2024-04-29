@@ -1,0 +1,177 @@
+{
+    "id": 22543,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22543",
+    "is_boosted": false,
+    "title": "Lobed Dish",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGEmAGkzCm5FJm5GKXpKJXZNKX1MKHxWNq2cj7OhjLWklLqupdzZ1N3b2d7b3N7e3uHg4uHi4ujo5+Xn6ejq7Ons7uvt7+zs7+rt8fHx8/Hz9vL09/P19/H0+AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYGQxTfVQiUEok1QEwIFxyCAsWrY5UHeFADs=",
+        "width": 2616,
+        "height": 2250,
+        "alt_text": "A work made of stoneware with brown glaze."
+    },
+    "main_reference_number": "1964.1221",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 960,
+    "date_end": 1279,
+    "date_display": "Song dynasty (960\u20131279)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China, Henan Province",
+    "place_of_origin": "Henan",
+    "description": null,
+    "dimensions": "2 \u00d7 10.7 cm (13/16 \u00d7 4 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.7,
+            "width_in": 4.1875,
+            "height_cm": 2,
+            "height_in": 0.8125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stoneware with brown glaze",
+    "inscriptions": null,
+    "credit_line": "Bequest of Russell Tyson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.4385,
+    "color": {
+        "h": 35,
+        "l": 66,
+        "s": 87,
+        "percentage": 0.0022906696118133105,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "stoneware",
+        "dish (vessel)",
+        "Chinese (culture or style)",
+        "asian art",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-11783",
+    "classification_title": "dish (vessel)",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11783",
+        "TM-26",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "dish (vessel)",
+        "asian art",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2484",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2484"
+    ],
+    "material_titles": [
+        "stoneware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3e77ea3f-dadc-b760-7ff2-709e5aaac23c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.1221"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lobed Dish"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:22:26-05:00",
+    "timestamp": "2023-09-24T00:29:51-05:00"
+}

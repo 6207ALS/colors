@@ -1,0 +1,28 @@
+{
+    "id": 15383,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15383",
+    "title": "Adolf Lins",
+    "sort_title": "Lins, Adolf",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1856,
+    "death_date": 1927,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adolf Lins",
+            "Lins, Adolf"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:37-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

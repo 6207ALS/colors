@@ -1,0 +1,38 @@
+{
+    "id": 3503,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3503",
+    "title": "Art Students' League Annual Exhibition",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1896-12-14T00:00:00-06:00",
+    "aic_end_at": "1896-12-27T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "5b7bccd4-e791-3f28-d97f-771360f09bb1"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art Students' League Annual Exhibition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:28-06:00",
+    "timestamp": "2023-09-24T02:01:12-05:00"
+}

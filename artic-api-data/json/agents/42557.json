@@ -1,0 +1,31 @@
+{
+    "id": 42557,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42557",
+    "title": "K. H. H\u00f6dicke",
+    "sort_title": "H\u00f6dicke, K. H.",
+    "alt_titles": [
+        "Karl Horst H\u00f6dicke"
+    ],
+    "is_artist": true,
+    "birth_date": 1938,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "K. H. H\u00f6dicke",
+            "H\u00f6dicke, K. H.",
+            "Karl Horst H\u00f6dicke"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:47-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

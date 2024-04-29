@@ -1,0 +1,42 @@
+{
+    "id": 3929,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3929",
+    "title": "Toulouse-Lautrec",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1956-01-10T00:00:00-06:00",
+    "aic_end_at": "1956-02-15T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "08dff14b-ab22-30e5-f726-326235487d53",
+    "alt_image_ids": [
+        "1e910654-5385-71bb-9e22-d7b1822d9ec6",
+        "f6592873-4231-5840-b117-0991aa639cc9",
+        "72620ad4-4435-411e-c810-3e7e11b37a50"
+    ],
+    "document_ids": [
+        "4ffffe92-9395-4173-072f-585fa6b05a4c"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Toulouse-Lautrec"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:46-06:00",
+    "timestamp": "2023-09-24T02:01:17-05:00"
+}

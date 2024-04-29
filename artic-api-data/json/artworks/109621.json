@@ -1,0 +1,181 @@
+{
+    "id": 109621,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109621",
+    "is_boosted": false,
+    "title": "Library Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKyPe7WPc7KOdbWRd6qgm62loLKnobKposWun8GwpMS0q8O6s8a5sMa9uL7AwsDAwcPBwcTBwMTCwsXDwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoNREz4IkDhEIhTEAx6QwUAgAOw==",
+        "width": 1729,
+        "height": 2250,
+        "alt_text": "A work made of elm."
+    },
+    "main_reference_number": "1988.452",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1984,
+    "date_end": 1984,
+    "date_display": "1984",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Donald Judd\nAmerican, 1928\u20131994\nMade by Cooper/Kato\nUnknown, after 1946",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "75.3 \u00d7 40 \u00d7 40 cm (29 5/8 \u00d7 15 3/4 \u00d7 15 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 40,
+            "depth_in": 15.75,
+            "width_cm": 40,
+            "width_in": 15.75,
+            "height_cm": 75.3,
+            "height_in": 29.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Elm",
+    "inscriptions": null,
+    "credit_line": "Raymond W. Garbe Fund in honor of Carl A. Erikson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Judd Foundation / Artists Rights Society (ARS), New York.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 45.5843,
+    "color": {
+        "h": 269,
+        "l": 51,
+        "s": 1,
+        "percentage": 0.0008650790303761687,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 13529,
+    "artist_title": "Cooper/Kato",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        13529
+    ],
+    "artist_titles": [
+        "Cooper/Kato"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "seating",
+        "elm",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3560",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3560"
+    ],
+    "material_titles": [
+        "elm"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "533d8ad8-3222-f1f0-b7cb-0b3fe18460aa",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.452"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Library Chair"
+            ],
+            "weight": 115,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-15T13:24:37-06:00",
+    "updated_at": "2023-04-07T12:26:23-05:00",
+    "timestamp": "2023-09-24T01:09:18-05:00"
+}

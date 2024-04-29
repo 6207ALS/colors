@@ -1,0 +1,28 @@
+{
+    "id": 118487,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/118487",
+    "title": "Michael and Maureen Banner",
+    "sort_title": "Banner, Michael and Maureen",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Michael and Maureen Banner",
+            "Banner, Michael and Maureen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-05-08T14:06:53-05:00",
+    "updated_at": "2023-05-08T14:07:24-05:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

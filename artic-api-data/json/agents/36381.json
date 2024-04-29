@@ -1,0 +1,28 @@
+{
+    "id": 36381,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36381",
+    "title": "Germaine Richier",
+    "sort_title": "Richier, Germaine",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1902,
+    "death_date": 1959,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Germaine Richier",
+            "Richier, Germaine"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-09-20T11:27:11-05:00",
+    "updated_at": "2022-09-20T11:30:59-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

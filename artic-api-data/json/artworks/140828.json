@@ -1,0 +1,180 @@
+{
+    "id": 140828,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/140828",
+    "is_boosted": false,
+    "title": "Amulet of a Cross",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAENMO5OVf4mTgp+jkKWpltHPwNjWxdvYxd7byOLezeLfzuPfzuTgzuThz+bi0QAAACH5BAAAAAAALAAAAAADAAUAAAQLsKllRCFgoJDYcREAOw==",
+        "width": 1986,
+        "height": 3000,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1894.865",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 300,
+    "date_end": 400,
+    "date_display": "Byzantine, 4th century or later",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Byzantine",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "2 \u00d7 1.5 \u00d7 0.5 cm (7 \u00d7 9/16 \u00d7 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0.5,
+            "depth_in": 0.1875,
+            "width_cm": 1.5,
+            "width_in": 0.5625,
+            "height_cm": 2,
+            "height_in": 7,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Henry H. Getty and Charles L. Hutchinson",
+    "catalogue_display": null,
+    "publication_history": "Thomas George Allen, A Handbook of The Egyptian Collection (The Art Institute of Chicago, 1923), p. 115.",
+    "exhibition_history": null,
+    "provenance_text": "Reverend Chauncey Murch (1859-1907), Luxor, Egypt; sold to the Art Institute of Chicago, 1894; price reimbursed by Henry H. Getty and Charles L. Hutchinson, 1894.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.7209,
+    "color": {
+        "h": 65,
+        "l": 47,
+        "s": 11,
+        "percentage": 0.002702352630926655,
+        "population": 29
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 37902,
+    "artist_title": "Byzantine",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37902
+    ],
+    "artist_titles": [
+        "Byzantine"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "ceramics",
+        "glass",
+        "jewelry",
+        "bead",
+        "ancient art",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-46",
+    "classification_title": "ceramics",
+    "alt_classification_ids": [
+        "TM-115",
+        "TM-806",
+        "TM-1392",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-46",
+        "TM-115",
+        "TM-806",
+        "TM-1392",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "ceramics",
+        "jewelry",
+        "bead",
+        "ancient art",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "94b184fc-6c4b-4e62-2001-2e69d49fe014",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1894.865"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Amulet of a Cross"
+            ],
+            "weight": 10,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-14T12:47:05-05:00",
+    "updated_at": "2023-09-23T23:19:19-05:00",
+    "timestamp": "2023-09-24T01:22:18-05:00"
+}

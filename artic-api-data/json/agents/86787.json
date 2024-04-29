@@ -1,0 +1,35 @@
+{
+    "id": 86787,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/86787",
+    "title": "Shomei Tomatsu",
+    "sort_title": "Tomatsu, Shomei",
+    "alt_titles": [
+        "Shomei Tomatsu",
+        "Sh\u014dmei Tomatsu",
+        "Sh\u014dmei T\u014dmatsu"
+    ],
+    "is_artist": true,
+    "birth_date": 1930,
+    "death_date": 2012,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Shomei Tomatsu",
+            "Tomatsu, Shomei",
+            "Shomei Tomatsu",
+            "Sh\u014dmei Tomatsu",
+            "Sh\u014dmei T\u014dmatsu"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-09-28T16:42:13-05:00",
+    "updated_at": "2022-03-15T17:01:03-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

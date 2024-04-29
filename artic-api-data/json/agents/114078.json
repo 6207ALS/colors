@@ -1,0 +1,35 @@
+{
+    "id": 114078,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/114078",
+    "title": "A. & D. H. Chambers (firm)",
+    "sort_title": "A. & D. H. Chambers (firm)",
+    "alt_titles": [
+        "A. & D. H. Chambers",
+        "Alexander Chambers",
+        "David H. Chambers"
+    ],
+    "is_artist": true,
+    "birth_date": 1841,
+    "death_date": 1889,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "A. & D. H. Chambers (firm)",
+            "A. & D. H. Chambers (firm)",
+            "A. & D. H. Chambers",
+            "Alexander Chambers",
+            "David H. Chambers"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-06-06T14:11:50-05:00",
+    "updated_at": "2023-06-06T14:12:38-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

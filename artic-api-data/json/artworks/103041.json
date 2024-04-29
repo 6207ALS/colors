@@ -1,0 +1,183 @@
+{
+    "id": 103041,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/103041",
+    "is_boosted": false,
+    "title": "Sample (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAKugjqukl62mnLOolLSolLWsm7aun7WuobauobevorivoLmwoLiwormypbqzpbqzpru0pru0p7q1qcS9rcS9rsS+rsW+r8a/rsa/r8O+sMW+sMW/sMS+scW/sca/sAAAACH5BAAAAAAALAAAAAAHAAUAAAUdIEAMRcIITaZh1hZBGjV1nOR41UV5T7AoBsRBEAIAOw==",
+        "width": 5978,
+        "height": 4355,
+        "alt_text": "A work made of cellophane, plain weave."
+    },
+    "main_reference_number": "1984.1049",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1919,
+    "date_end": 1933,
+    "date_display": "1919/33",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Possibly designed by Otti Berger (Yugoslav, 1898\u20131944)\nProduced by the Bauhaus Workshop (1919-1933)\nGermany, Weimar, Dessau, or Berlin",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "35.5 \u00d7 45.8 cm (14 \u00d7 18 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 45.8,
+            "width_in": 18,
+            "height_cm": 35.5,
+            "height_in": 14,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cellophane, plain weave",
+    "inscriptions": null,
+    "credit_line": "Gift of George E. Danforth",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.1339,
+    "color": {
+        "h": 37,
+        "l": 33,
+        "s": 42,
+        "percentage": 0.0030911781639174503,
+        "population": 16
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 30567,
+    "artist_title": "Otti Berger",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30567
+    ],
+    "artist_titles": [
+        "Otti Berger"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving",
+        "bauhaus",
+        "furnishing textile"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [
+        "TM-7634"
+    ],
+    "style_ids": [
+        "TM-5981",
+        "TM-7634"
+    ],
+    "style_titles": [
+        "Modernism",
+        "bauhaus"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "98759744-4bf9-0587-a7a1-46c720a72bb1",
+    "alt_image_ids": [
+        "fe4b15ea-9435-e9d2-4cdb-b7609a2db23f"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.1049"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Furnishing Fabric)"
+            ],
+            "weight": 118,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:43:27-05:00",
+    "timestamp": "2023-09-24T01:06:27-05:00"
+}

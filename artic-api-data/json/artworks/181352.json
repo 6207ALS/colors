@@ -1,0 +1,183 @@
+{
+    "id": 181352,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/181352",
+    "is_boosted": false,
+    "title": "The Net Menders",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAHVvYnhzZXp2Z4F8bYeCcoiCc4uFd42IeJCMe5KNfZSOf5WPgL23or63osK7o8G6p8S+pcW+p8O9qMjBqdTNs9TLtNTLtdTNtNnTutjQvNnRvNrTvtvVvd3WvgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIDVBTlRhiEAsWncAgbJxyVAY2SUxzWOFADs=",
+        "width": 988,
+        "height": 768,
+        "alt_text": "A work made of drypoint on cream vellum paper."
+    },
+    "main_reference_number": "2003.261",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1899,
+    "date_end": 1899,
+    "date_display": "1899",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jan Toorop\nDutch, 1858-1928",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "Plate: 15.7 \u00d7 18.7 cm (6 3/16 \u00d7 7 3/8 in.); Sheet: 23.2 \u00d7 29.7 cm (9 3/16 \u00d7 11 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.7,
+            "width_in": 7.3623,
+            "height_cm": 15.7,
+            "height_in": 6.1812,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 29.7,
+            "width_in": 11.693,
+            "height_cm": 23.2,
+            "height_in": 9.1339,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Drypoint on cream vellum paper",
+    "inscriptions": null,
+    "credit_line": "Francey and Martin Gecht Fund",
+    "catalogue_display": "<p>Rijksmuseum 45 b/b</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.8676,
+    "color": {
+        "h": 45,
+        "l": 51,
+        "s": 8,
+        "percentage": 0.1025055916256916,
+        "population": 566
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 32942,
+    "artist_title": "Jan Toorop",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32942
+    ],
+    "artist_titles": [
+        "Jan Toorop"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drypoint",
+        "paper (fiber product)",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-154",
+    "classification_title": "drypoint",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-154",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "drypoint",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c4513cc5-19f3-afc4-cde5-505220cc214c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2003.261"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Net Menders"
+            ],
+            "weight": 235,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:18:16-05:00",
+    "timestamp": "2023-09-24T01:33:28-05:00"
+}

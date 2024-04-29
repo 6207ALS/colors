@@ -1,0 +1,179 @@
+{
+    "id": 154729,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/154729",
+    "is_boosted": false,
+    "title": "Lunette from the Springer Block, Chicago, Illinois",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAKmZg6CWiaCXiqCYjKugkqSinqqppL2xormwpbu0qr63rcCzo8K0osa3pMy6pc29qcK/t8fDuc/HuszFvNLJvtXKvNfMvNrNvNzPvtDJwNTNxNvQwN7RwdjRxNfRytjSzNvVztvU0NzV0d3W0d/Y1d7a1uLUw+XYxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQNPFUqFoPKHTRpJQZD4iTAdSMERAIweAEBgIECTOo8FYHCalIAA7",
+        "width": 3000,
+        "height": 1882,
+        "alt_text": "A work made of limestone."
+    },
+    "main_reference_number": "1991.12.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1872,
+    "date_end": 1872,
+    "date_display": "1872",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Peter Bonnett Wight\nAmerican, 1838-1925\nSculptor: James Legge\nAmerican, 1830-1890",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "Unknown",
+    "dimensions_detail": [],
+    "medium_display": "Limestone",
+    "inscriptions": null,
+    "credit_line": "Through prior gift of the Three Oaks Wrecking Company",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.4721,
+    "color": {
+        "h": 39,
+        "l": 71,
+        "s": 9,
+        "percentage": 0.3874899932054706,
+        "population": 1728
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 37293,
+    "artist_title": "Peter Bonnett Wight",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37293
+    ],
+    "artist_titles": [
+        "Peter Bonnett Wight"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "limestone",
+        "carving",
+        "Chicago",
+        "carbonate rock",
+        "sedimentary rock",
+        "rock",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-2444",
+    "alt_material_ids": [
+        "TM-2828",
+        "TM-2820",
+        "TM-2796"
+    ],
+    "material_ids": [
+        "TM-2444",
+        "TM-2828",
+        "TM-2820",
+        "TM-2796"
+    ],
+    "material_titles": [
+        "limestone",
+        "carbonate rock",
+        "sedimentary rock",
+        "rock"
+    ],
+    "technique_id": "TM-3863",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3863"
+    ],
+    "technique_titles": [
+        "carving"
+    ],
+    "theme_titles": [],
+    "image_id": "4d232ddd-26cc-0b77-6426-18ee25ee6aa4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.12.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lunette from the Springer Block, Chicago, Illinois"
+            ],
+            "weight": 60,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-05-18T14:21:50-05:00",
+    "updated_at": "2023-04-10T15:09:44-05:00",
+    "timestamp": "2023-09-24T01:29:45-05:00"
+}

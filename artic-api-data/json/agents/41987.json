@@ -1,0 +1,37 @@
+{
+    "id": 41987,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41987",
+    "title": "Louis Michel Eilshemius",
+    "sort_title": "Eilshemius, Louis Michel",
+    "alt_titles": [
+        "Louis Eilshemius",
+        "Louis M. Eilshemius",
+        "Louis Michel Eilshemus",
+        "Louis Michel Eilshemus"
+    ],
+    "is_artist": true,
+    "birth_date": 1864,
+    "death_date": 1941,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Michel Eilshemius",
+            "Eilshemius, Louis Michel",
+            "Louis Eilshemius",
+            "Louis M. Eilshemius",
+            "Louis Michel Eilshemus",
+            "Louis Michel Eilshemus"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-03-16T13:11:00-05:00",
+    "updated_at": "2023-03-16T13:13:37-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

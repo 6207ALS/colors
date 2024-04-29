@@ -1,0 +1,48 @@
+{
+    "id": 4758,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4758",
+    "title": "Junior Museum: Manet's Mirror",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1967-01-14T00:00:00-06:00",
+    "aic_end_at": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "b320542f-8c83-e549-59a8-65665b792092",
+    "alt_image_ids": [
+        "4a679fd1-9727-57df-0aee-fd47a1307790",
+        "2c0850d0-03a4-3f5a-3732-b8d3cf220a1c",
+        "c6d98b38-6f54-d423-28ee-dba4b23573d0",
+        "3733181c-10ae-475c-6a5f-8e861ae88039",
+        "3edc91ce-c636-1f27-5573-e962b9e108a6",
+        "0a46b5d6-b5c9-97dc-dbe9-72c27cbcf7ad",
+        "2b826964-a00f-09ff-269b-b1e900d2de24",
+        "0e39c023-49d0-2aff-dd57-281d64afcc93",
+        "e31bdc74-99bf-2740-1f48-3d4c3d12ce7d",
+        "57cd713c-0c46-82ba-603e-b8740956aa5f",
+        "496bac8f-0198-e983-84c4-21fceea197ee"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Junior Museum: Manet's Mirror"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:28-06:00",
+    "timestamp": "2023-09-24T02:01:27-05:00"
+}

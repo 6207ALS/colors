@@ -1,0 +1,37 @@
+{
+    "id": 35652,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35652",
+    "title": "Frans Masereel",
+    "sort_title": "Masereel, Frans",
+    "alt_titles": [
+        "Mai-sui-lai-le",
+        "Fa-lang-shih Mai-sui-lai-le",
+        "Frants Maserel",
+        "F. Mazerel'"
+    ],
+    "is_artist": true,
+    "birth_date": 1889,
+    "death_date": 1972,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frans Masereel",
+            "Masereel, Frans",
+            "Mai-sui-lai-le",
+            "Fa-lang-shih Mai-sui-lai-le",
+            "Frants Maserel",
+            "F. Mazerel'"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:56:49-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

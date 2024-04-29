@@ -1,0 +1,31 @@
+{
+    "id": 2746,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2746",
+    "title": "Giacinto Boccanera",
+    "sort_title": "Boccanera, Giacinto",
+    "alt_titles": [
+        "Giacinto da Leonessa Boccanera"
+    ],
+    "is_artist": true,
+    "birth_date": 1666,
+    "death_date": 1746,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giacinto Boccanera",
+            "Boccanera, Giacinto",
+            "Giacinto da Leonessa Boccanera"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:01:04-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

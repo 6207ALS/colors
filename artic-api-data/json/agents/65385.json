@@ -1,0 +1,28 @@
+{
+    "id": 65385,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65385",
+    "title": "May Morris",
+    "sort_title": "Morris, May",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1862,
+    "death_date": 1938,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "May Morris",
+            "Morris, May"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T10:22:17-05:00",
+    "updated_at": "2023-09-23T23:16:47-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

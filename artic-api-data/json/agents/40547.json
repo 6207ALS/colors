@@ -1,0 +1,41 @@
+{
+    "id": 40547,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40547",
+    "title": "Louis Jean Desprez",
+    "sort_title": "Desprez, Louis Jean",
+    "alt_titles": [
+        "Jean Louis Desprez",
+        "Louis J. Desprez",
+        "Louis Jean Despr\u00e8s",
+        "Louis Jean Despree",
+        "Jean Louis Despr\u00e8s",
+        "Jean Louis Despree"
+    ],
+    "is_artist": true,
+    "birth_date": 1743,
+    "death_date": 1804,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Jean Desprez",
+            "Desprez, Louis Jean",
+            "Jean Louis Desprez",
+            "Louis J. Desprez",
+            "Louis Jean Despr\u00e8s",
+            "Louis Jean Despree",
+            "Jean Louis Despr\u00e8s",
+            "Jean Louis Despree"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:12-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

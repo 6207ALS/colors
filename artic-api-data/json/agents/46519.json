@@ -1,0 +1,31 @@
+{
+    "id": 46519,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46519",
+    "title": "Imitator of Sir Edward Burne-Jones",
+    "sort_title": "Burne-Jones, Edward, Sir, imitator of",
+    "alt_titles": [
+        "Imitator of Sir Edward Coley"
+    ],
+    "is_artist": true,
+    "birth_date": 1833,
+    "death_date": 1898,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Imitator of Sir Edward Burne-Jones",
+            "Burne-Jones, Edward, Sir, imitator of",
+            "Imitator of Sir Edward Coley"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:55-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

@@ -1,0 +1,185 @@
+{
+    "id": 249353,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/249353",
+    "is_boosted": false,
+    "title": "Panel of English Elizabethan Embroidery",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGNYR2VaR2dbRmdbR2hbRmhcRmlcRmZbSGpdSHFkUHBlUXNmUHJmUXNnU3RnUXFmVHRoVXVpVXZpVHZqVHZrWXptWHtwXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoAU9ChUJR8FEATA0k0EgUrUkThUCADs=",
+        "width": 7880,
+        "height": 8552,
+        "alt_text": "A work made of linen ground, silver and metal threads, spangles."
+    },
+    "main_reference_number": "2018.775",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1590,
+    "date_end": 1600,
+    "date_display": "1590-1600",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "English",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "106.4 \u00d7 97.8 cm (41 7/8 \u00d7 38 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 97.8,
+            "width_in": 38.5,
+            "height_cm": 106.4,
+            "height_in": 41.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen ground, silver and metal threads, spangles",
+    "inscriptions": null,
+    "credit_line": "Gift of Neville and John Bryan in honor of Melinda Watt",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "S. Franses, London, by 2001; sold to John H. Bryan (1936-2018), Chicago, IL, March 12, 2001 [From Crab Tree Farm Foundation catalog records in curatorial file]; given to the Art Institute of Chicago, 2018.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 41,
+        "l": 49,
+        "s": 20,
+        "percentage": 0.0013829994349289865,
+        "population": 932
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "embroidering",
+        "embroidery",
+        "elizabethan",
+        "linen (material)",
+        "textile",
+        "spangles",
+        "metallic thread"
+    ],
+    "style_id": "TM-5932",
+    "style_title": "elizabethan",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5932"
+    ],
+    "style_titles": [
+        "elizabethan"
+    ],
+    "classification_id": "TM-158",
+    "classification_title": "embroidery",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-158",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "embroidery",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3093",
+    "alt_material_ids": [
+        "TM-11336",
+        "TM-3746"
+    ],
+    "material_ids": [
+        "TM-3093",
+        "TM-11336",
+        "TM-3746"
+    ],
+    "material_titles": [
+        "linen (material)",
+        "spangles",
+        "metallic thread"
+    ],
+    "technique_id": "TM-3914",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3914"
+    ],
+    "technique_titles": [
+        "embroidering"
+    ],
+    "theme_titles": [],
+    "image_id": "f58b4bf1-793a-e2a5-576e-5db5215609c1",
+    "alt_image_ids": [
+        "11489a13-d376-a32f-76d1-1a0a84359170"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.775"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel of English Elizabethan Embroidery"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:46:19-05:00",
+    "timestamp": "2023-09-24T01:55:35-05:00"
+}

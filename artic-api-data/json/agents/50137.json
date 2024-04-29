@@ -1,0 +1,31 @@
+{
+    "id": 50137,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/50137",
+    "title": "Mar\u00eda Blanchard",
+    "sort_title": "Blanchard, Mar\u00eda",
+    "alt_titles": [
+        "Maria Gutierriez-Blanchard"
+    ],
+    "is_artist": true,
+    "birth_date": 1881,
+    "death_date": 1932,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mar\u00eda Blanchard",
+            "Blanchard, Mar\u00eda",
+            "Maria Gutierriez-Blanchard"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-01-20T17:32:19-06:00",
+    "updated_at": "2023-01-20T17:37:04-06:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

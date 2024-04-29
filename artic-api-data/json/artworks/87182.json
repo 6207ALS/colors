@@ -1,0 +1,170 @@
+{
+    "id": 87182,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/87182",
+    "is_boosted": false,
+    "title": "Flounce",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAC8sKjAtKzAuLDUyLzQyMDc0Mjg1NDg2NTo4Njs4Njs5N7CpqLCqqrWtqb20r761sL22sL63tMC4s8K5tMC5tsS7tsi9s8W+usa/u8fAvMnBvczEwM7GwgAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIKIYiXJwWrZZzRVR2MRAj1NJixAMBQGEADs=",
+        "width": 2980,
+        "height": 2547,
+        "alt_text": "A work made of linen, bobbin part lace."
+    },
+    "main_reference_number": "1933.1551",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1750,
+    "date_display": "1701/50",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy, Milan",
+    "place_of_origin": "Milan",
+    "description": null,
+    "dimensions": "25.2 \u00d7 348.8 cm (9 7/8 \u00d7 137 1/4 in.); Repeat: W.: 35.7 cm (14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 348.8,
+            "width_in": 137.25,
+            "height_cm": 25.2,
+            "height_in": 9.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.7,
+            "width_in": 14,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Linen, bobbin part lace",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Edward E. Ayer in memory of Edward E. Ayer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.761,
+    "color": {
+        "h": 42,
+        "l": 54,
+        "s": 13,
+        "percentage": 0.001977066034005536,
+        "population": 12
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1647"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1647"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7712817f-558c-ff0e-2583-2d1e9aedbf4d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1551"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flounce"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:04:27-05:00",
+    "timestamp": "2023-09-24T00:58:37-05:00"
+}

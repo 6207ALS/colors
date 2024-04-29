@@ -1,0 +1,182 @@
+{
+    "id": 63569,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/63569",
+    "is_boosted": false,
+    "title": "Old Faithful",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAId+co6FeJiLepiPf6KVgraokMK1nMW5oczApdXIrAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIEIRxUCpGkAgAOw==",
+        "width": 1154,
+        "height": 3000,
+        "alt_text": "A work made of hand-colored photogravure."
+    },
+    "main_reference_number": "1981.653",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1915,
+    "date_end": 1925,
+    "date_display": "c. 1920",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "F. Jay Haynes\nAmerican, 1853\u20131921",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/paper: 22.7 \u00d7 7.5 cm (8 15/16 \u00d7 3 in.); Hinged matter: 34.2 \u00d7 14.6 cm (13 1/2 \u00d7 5 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 7.5,
+            "width_in": 2.9528,
+            "height_cm": 22.7,
+            "height_in": 8.9371,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/paper"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14.6,
+            "width_in": 5.7481,
+            "height_cm": 34.2,
+            "height_in": 13.4646,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Hinged matter"
+        }
+    ],
+    "medium_display": "Hand-colored photogravure",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Jesmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.5608,
+    "color": {
+        "h": 46,
+        "l": 42,
+        "s": 60,
+        "percentage": 0.0018940869851330408,
+        "population": 35
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 34874,
+    "artist_title": "F. Jay Haynes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34874
+    ],
+    "artist_titles": [
+        "F. Jay Haynes"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photogravure",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-275",
+    "classification_title": "photogravure",
+    "alt_classification_ids": [
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-275",
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photogravure",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a48fda41-9738-27e6-1edb-eb03afa39a47",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.653"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Old Faithful"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:58-05:00",
+    "updated_at": "2023-04-10T12:56:32-05:00",
+    "timestamp": "2023-09-24T00:47:53-05:00"
+}

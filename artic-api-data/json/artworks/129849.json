@@ -1,0 +1,163 @@
+{
+    "id": 129849,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/129849",
+    "is_boosted": false,
+    "title": "Houses at Murnau",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADkwOjg6Ojo/PT49PUZBN0VOO1ZINlxBPU5WN3pbLm1NO2tXP3FaOXNdPX1oLm9sOXFkMjQ3QGZcWWljUIFqLp9yLoZ4Nqd9I7GEJbqWJ6OMMauNPc+nH8SQKwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoPUUQDQsDGFMEuQICLc1R6BlnZJQ2FWFADs=",
+        "width": 2920,
+        "height": 2250,
+        "alt_text": "A work made of oil on cardboard."
+    },
+    "main_reference_number": "1994.33",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1909,
+    "date_end": 1909,
+    "date_display": "1909",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Vasily Kandinsky\nBorn Moscow (formerly Russian Empire, now Russia), 1866; died Neuilly-sur-Seine, France, 1944",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "49 \u00d7 64 cm (19 1/4 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64,
+            "width_in": 25,
+            "height_cm": 49,
+            "height_in": 19.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on cardboard",
+    "inscriptions": null,
+    "credit_line": "Bequest of Katharine Kuh",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1994,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 86.9554,
+    "color": {
+        "h": 44,
+        "l": 46,
+        "s": 73,
+        "percentage": 0.24783283146272472,
+        "population": 1358
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 392",
+    "gallery_id": 23990,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 35188,
+    "artist_title": "Vasily Kandinsky",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35188
+    ],
+    "artist_titles": [
+        "Vasily Kandinsky"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3f732b69-0ae7-7d1e-ad53-e20b0cc2de72",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1994.33"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Houses at Murnau"
+            ],
+            "weight": 7198,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-09T14:40:53-05:00",
+    "updated_at": "2023-06-09T14:42:50-05:00",
+    "timestamp": "2023-09-24T01:18:47-05:00"
+}

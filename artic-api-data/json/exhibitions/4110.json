@@ -1,0 +1,41 @@
+{
+    "id": 4110,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4110",
+    "title": "Photographs by Yosuhiro Ishimoto",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1960-10-21T00:00:00-05:00",
+    "aic_end_at": "1960-12-04T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "2aea2198-ee23-531b-a865-8c83c535ee7b",
+        "c6986dbd-610e-3455-de00-720be73530f8",
+        "4e392f8d-284f-88f6-40de-18eed2da5f95",
+        "55ef1978-68a7-4f30-02af-5b9f1b3fc444"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photographs by Yosuhiro Ishimoto"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:31-06:00",
+    "timestamp": "2023-09-24T02:01:19-05:00"
+}

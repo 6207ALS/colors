@@ -1,0 +1,193 @@
+{
+    "id": 66541,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/66541",
+    "is_boosted": false,
+    "title": "Young Girl with Blue Ribbons",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAK2ee66eeq6ee66ffK6jhK6lhrKmhbGlh7WohbWoh7aqh7GniLOpiraoiLeqiLeqiberi7esjgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYAAMQnMQyVMsCsREDmQYSAgAOw==",
+        "width": 2216,
+        "height": 3000,
+        "alt_text": "A work made of graphite with watercolor on cream wove paper, laid down on cream wood-pulp laminate board."
+    },
+    "main_reference_number": "1986.1532",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1866,
+    "date_end": 1901,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Kate Greenaway\nEnglish, 1846-1901",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "8 \u00d7 5.8 cm (3 3/16 \u00d7 2 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.8,
+            "width_in": 2.2835,
+            "height_cm": 8,
+            "height_in": 3.1497,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite with watercolor on cream wove paper, laid down on cream wood-pulp laminate board",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. John W. Taylor, Mrs. Winthrop M. Robinson, Jr. and Mrs. Fred D. Sauter from the Estate of Frances Hooper",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1987,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.5888,
+    "color": {
+        "h": 40,
+        "l": 32,
+        "s": 72,
+        "percentage": 0.006237894585819394,
+        "population": 60
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34735,
+    "artist_title": "Kate Greenaway",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34735
+    ],
+    "artist_titles": [
+        "Kate Greenaway"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "f9929fb6-f8d1-4caf-7145-a50b43162473",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.1532"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Young Girl with Blue Ribbons"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:50:08-05:00",
+    "timestamp": "2023-09-24T00:49:17-05:00"
+}

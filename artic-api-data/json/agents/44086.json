@@ -1,0 +1,31 @@
+{
+    "id": 44086,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44086",
+    "title": "E. Norton & Company",
+    "sort_title": "E. Norton & Co.",
+    "alt_titles": [
+        "E. Norton & Co."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "E. Norton & Company",
+            "E. Norton & Co.",
+            "E. Norton & Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:31:22-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 15033,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15033",
+    "title": "Doris Lee",
+    "sort_title": "Lee, Doris",
+    "alt_titles": [
+        "Doris Emerick Lee"
+    ],
+    "is_artist": true,
+    "birth_date": 1905,
+    "death_date": 1983,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Doris Lee",
+            "Lee, Doris",
+            "Doris Emerick Lee"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:03-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

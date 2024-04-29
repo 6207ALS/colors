@@ -1,0 +1,189 @@
+{
+    "id": 85762,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/85762",
+    "is_boosted": false,
+    "title": "Diana and the Endymion",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAANXKr9jMstrRud7Wv9/Xv9/YweDXwOHZwuDZw+Law+HZxOLcx+PcyeTcyOXfyubfyubhzufh0erm0uvn1Ozp2O7q2+7s2vDt3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYERB0lJZiPNck3IcBlEAQZMIAxMCADs=",
+        "width": 3000,
+        "height": 2710,
+        "alt_text": "A work made of pen and brown ink, with brush and brown wash, over traces of black chalk, on ivory laid paper."
+    },
+    "main_reference_number": "1922.2969",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1600,
+    "date_end": 1699,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Style of Francesco Monti (Italian, 1685-1768)\nor circle of Raymond de Lafage (French, 1656-1690)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "18.9 \u00d7 20.8 cm (7 1/2 \u00d7 8 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.8,
+            "width_in": 8.189,
+            "height_cm": 18.9,
+            "height_in": 7.441,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and brown ink, with brush and brown wash, over traces of black chalk, on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.4804,
+    "color": {
+        "h": 45,
+        "l": 67,
+        "s": 74,
+        "percentage": 0.0007783724543328881,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 46810,
+    "artist_title": "Style of Francesco Monti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        46810
+    ],
+    "artist_titles": [
+        "Style of Francesco Monti"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "black chalk",
+        "chalk",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-2399",
+        "TM-2414",
+        "TM-3782"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-2399",
+        "TM-2414",
+        "TM-3782"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "black chalk",
+        "chalk"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "af323f3e-6329-4ab5-3d83-4c71eac92645",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.2969"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Diana and the Endymion"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:09:01-05:00",
+    "timestamp": "2023-09-24T00:57:54-05:00"
+}

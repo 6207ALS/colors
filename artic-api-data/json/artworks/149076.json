@@ -1,0 +1,167 @@
+{
+    "id": 149076,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/149076",
+    "is_boosted": false,
+    "title": "Mount Ishizuchi",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGA+H0I1J1k7KktDNlNEMl1NOV5PPmNAKypde0FGQ1ZWTVxXTWpXQWlbR3pWQn1WQ2ZfUWxrYm54dYZUPYtrSI5pUxxehyBZgE12jU52jVZzg1h5jE58lFF8kld/kVJ+lFyEl3CKlHuSlgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQJEH9OlgQhwLQrO5ZCSJQQOiiDAAAYLg4FgUKIbHpBIEADs=",
+        "width": 3000,
+        "height": 2095,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1997.703",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1936,
+    "date_end": 1936,
+    "date_display": "1936",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Azechi Umetaro\nJapanese, 1902-1999",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "33.4 \u00d7 48.1 cm (13 1/8 \u00d7 18 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.1,
+            "width_in": 18.9375,
+            "height_cm": 33.4,
+            "height_in": 13.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Harold Allen in memory of Margaret Gentles",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1998,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 44.611,
+    "color": {
+        "h": 189,
+        "l": 41,
+        "s": 51,
+        "percentage": 0.001008707160206906,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 33488,
+    "artist_title": "Azechi Umetaro",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33488
+    ],
+    "artist_titles": [
+        "Azechi Umetaro"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "412892ad-f0dc-d8f2-e088-1c102c85149b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.703"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mount Ishizuchi"
+            ],
+            "weight": 14,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:01:57-05:00",
+    "timestamp": "2023-09-24T01:26:53-05:00"
+}

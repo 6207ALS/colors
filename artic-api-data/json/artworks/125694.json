@@ -1,0 +1,182 @@
+{
+    "id": 125694,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/125694",
+    "is_boosted": false,
+    "title": "Bear in the Suburbs, Santa Maria, California",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACw7NDc4ODw8OkdSPE9OQ0ZJSEhQS1FbUllYUF5wW2RgVGdmV2JoYGFtYmtuZ2Z0aXZ3b319bG1vcWx1cn6FfoeNhpCbi7yzrMC4rgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4IUpQoAsRCE1R2RVDzAklAMxxhQCADs=",
+        "width": 3000,
+        "height": 2919,
+        "alt_text": "A work made of silver dye-bleach print."
+    },
+    "main_reference_number": "1990.371.4",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1988,
+    "date_end": 1988,
+    "date_display": "1988",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Arthur Tress\nAmerican, born 1940",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 39.2 \u00d7 39.4 cm (15 7/16 \u00d7 15 9/16 in.); Paper: 40.6 \u00d7 50.8 cm (16 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 39.4,
+            "width_in": 15.5119,
+            "height_cm": 39.2,
+            "height_in": 15.4331,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.8,
+            "width_in": 20,
+            "height_cm": 40.6,
+            "height_in": 15.9843,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Silver dye-bleach print",
+    "inscriptions": null,
+    "credit_line": "Gift of David C. and Sarajean Ruttenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.3218,
+    "color": {
+        "h": 37,
+        "l": 50,
+        "s": 78,
+        "percentage": 0.00188062378844429,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 32956,
+    "artist_title": "Arthur Tress",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32956
+    ],
+    "artist_titles": [
+        "Arthur Tress"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "silver-dye bleach print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-812",
+    "classification_title": "silver-dye bleach print",
+    "alt_classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-812",
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "silver-dye bleach print",
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "725ef9bc-bed4-8d4c-bba6-b1c6c74ef841",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.371.4"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bear in the Suburbs, Santa Maria, California"
+            ],
+            "weight": 50,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:11-05:00",
+    "updated_at": "2023-04-10T10:38:53-05:00",
+    "timestamp": "2023-09-24T01:16:43-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 24789,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/24789",
+    "title": "Hendrick van Steenwijck, the Younger",
+    "sort_title": "Steenwijck, Hendrick van, the Younger",
+    "alt_titles": [
+        "Hendrik van Steenwyck, II",
+        "Hendrik van Steinweck, II",
+        "Hendrik van Steinweyk, II",
+        "Hendrik van Steenwijck, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1575,
+    "death_date": 1654,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hendrick van Steenwijck, the Younger",
+            "Steenwijck, Hendrick van, the Younger",
+            "Hendrik van Steenwyck, II",
+            "Hendrik van Steinweck, II",
+            "Hendrik van Steinweyk, II",
+            "Hendrik van Steenwijck, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:40-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

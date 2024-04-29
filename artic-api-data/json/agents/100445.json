@@ -1,0 +1,33 @@
+{
+    "id": 100445,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/100445",
+    "title": "T. C. Cannon",
+    "sort_title": "Cannon, T. C.",
+    "alt_titles": [
+        "Tommy Wayne Cannon",
+        "Pai-doung-u-day"
+    ],
+    "is_artist": true,
+    "birth_date": 1946,
+    "death_date": 1978,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "T. C. Cannon",
+            "Cannon, T. C.",
+            "Tommy Wayne Cannon",
+            "Pai-doung-u-day"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-15T16:42:27-05:00",
+    "updated_at": "2021-07-15T16:45:44-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

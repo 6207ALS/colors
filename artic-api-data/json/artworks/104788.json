@@ -1,0 +1,167 @@
+{
+    "id": 104788,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104788",
+    "is_boosted": false,
+    "title": "IBM Building \"TOPS\" Design Competition Entry, Elevation",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAGljX3JsaIqLhY6OiJqalZucl5ycmJ+fnKGhmaeopAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMJ1iEBEjgAgAOw==",
+        "width": 2356,
+        "height": 4839,
+        "alt_text": "A work made of collage on foam board."
+    },
+    "main_reference_number": "1985.820",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1983,
+    "date_end": 1983,
+    "date_display": "1983",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Robert Fugman\nAmerican, born 1946",
+    "place_of_origin": "Illinois",
+    "description": null,
+    "dimensions": "77.6 \u00d7 38 cm (30 9/16 \u00d7 15 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 38,
+            "width_in": 15,
+            "height_cm": 77.6,
+            "height_in": 30.5625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Collage on foam board",
+    "inscriptions": null,
+    "credit_line": "Robert Fugman gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.2914,
+    "color": {
+        "h": 63,
+        "l": 60,
+        "s": 2,
+        "percentage": 0.15288853801963087,
+        "population": 2231
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 34576,
+    "artist_title": "Robert Fugman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34576
+    ],
+    "artist_titles": [
+        "Robert Fugman"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "architecture",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d5cb41ed-a547-3014-ba00-91907a06df24",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.820"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "IBM Building \"TOPS\" Design Competition Entry, Elevation"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:25:13-05:00",
+    "timestamp": "2023-09-24T01:07:29-05:00"
+}

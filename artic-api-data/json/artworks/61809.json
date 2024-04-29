@@ -1,0 +1,181 @@
+{
+    "id": 61809,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/61809",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALSznLW0nbW0nra1nre2nra1oLi3oLm4orm4o7q5pLu6pLy7pry8pwAAAAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQL8CQERCAjmDIWUxEAOw==",
+        "width": 2336,
+        "height": 3504,
+        "alt_text": "A work made of pen and blue ink on cream wove paper."
+    },
+    "main_reference_number": "1947.856",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1911,
+    "date_end": 1915,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Henri Gaudier-Brzeska\nFrench, 1891-1915",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "25.7 \u00d7 18.7 cm (10 1/8 \u00d7 7 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.7,
+            "width_in": 7.3623,
+            "height_cm": 25.7,
+            "height_in": 10.1182,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and blue ink on cream wove paper",
+    "inscriptions": "Signed recto, lower left, in pen and blue ink: \"H Gaudier Brezeska\"",
+    "credit_line": "Given in memory of Charles Barnett Goodspeed by Mrs. Charles B. Goodspeed",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.2291,
+    "color": {
+        "h": 52,
+        "l": 49,
+        "s": 13,
+        "percentage": 0.0008439649473225212,
+        "population": 9
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40594,
+    "artist_title": "Henri Gaudier-Brzeska",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40594
+    ],
+    "artist_titles": [
+        "Henri Gaudier-Brzeska"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "ink",
+        "coating (material)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "coating (material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ee4c622b-2ac6-8696-be66-dc1b60f60525",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1947.856"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 84,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:59:31-05:00",
+    "timestamp": "2023-09-24T00:47:04-05:00"
+}

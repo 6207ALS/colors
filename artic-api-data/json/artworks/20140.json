@@ -1,0 +1,177 @@
+{
+    "id": 20140,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/20140",
+    "is_boosted": false,
+    "title": "Brent Goose",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAI+IepSLe5yUhK6nmbWun7+6r8W9rsW/tcbAtMfCt83IvM/KvtrUyNrVytvWy9zWy9zXzd3Yzd/Zzd3Yzt3Zz+Daz+Lbz+Dc0eHc0eLd0+Pf1OTf1Obf1ebg1eXg1ubh1yH5BAAAAAAALAAAAAAHAAUAAAUdYANd2kU501ckm1dlixAACJcphDEcXYRJDMvnEQIAOw==",
+        "width": 3000,
+        "height": 2267,
+        "alt_text": "A work made of woodcut on ivory wove paper."
+    },
+    "main_reference_number": "1935.27",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1773,
+    "date_end": 1828,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Thomas Bewick\nEnglish, 1753-1828",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Image/sheet: 10.1 \u00d7 13.6 cm (4 \u00d7 5 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.6,
+            "width_in": 5.3544,
+            "height_cm": 10.1,
+            "height_in": 3.9764,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/sheet"
+        }
+    ],
+    "medium_display": "Woodcut on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Prints and Drawings Special Account",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1935,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.4409,
+    "color": {
+        "h": 42,
+        "l": 47,
+        "s": 14,
+        "percentage": 0.014525383106979447,
+        "population": 78
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33631,
+    "artist_title": "Thomas Bewick",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33631
+    ],
+    "artist_titles": [
+        "Thomas Bewick"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "relief etching",
+        "paper (fiber product)",
+        "woodcut (process)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-410",
+    "classification_title": "relief etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-410",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "relief etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3862",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3862"
+    ],
+    "technique_titles": [
+        "woodcut (process)"
+    ],
+    "theme_titles": [],
+    "image_id": "54f87b60-ae39-b550-b848-92c8a3777048",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1935.27"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Brent Goose"
+            ],
+            "weight": 44,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:48-05:00",
+    "updated_at": "2023-04-10T14:28:37-05:00",
+    "timestamp": "2023-09-24T00:28:36-05:00"
+}

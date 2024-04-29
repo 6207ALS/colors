@@ -1,0 +1,165 @@
+{
+    "id": 179571,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/179571",
+    "is_boosted": false,
+    "title": "Orchestra Hall, Chicago, Illinois, Section",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAL+wjL+wj8Gtg8CwjMKyjcSzj8Cxksi4ksu5k827ksy7l8y8lc++lc++l8u8mc6/mc6/m829nM6/ns6/odHBmNHBmtHAm9DBm9DAnNDBnNLDn9TCnNXFnNTEntbFntfGntPDoNTFodbHoNfHoNjIo9nIo9rLpdnKp9zNp93Mqt3OqwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwJTqFFqITKiSJADBHCoUgmViAGEAl9FAEXFoMg9S54AoNDaeD4eREAQBADs=",
+        "width": 3000,
+        "height": 1659,
+        "alt_text": "A work made of ink and colored pencil on linen."
+    },
+    "main_reference_number": "1987.178.19",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1904,
+    "date_end": 1904,
+    "date_display": "1904",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "D.H. Burnham & Company\nAmerican, 1891-1912",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "40.5 \u00d7 73.5 cm (15 15/16 \u00d7 28 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73.5,
+            "width_in": 28.9375,
+            "height_cm": 40.5,
+            "height_in": 15.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink and colored pencil on linen",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Frank E. and Seba B. Payne Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.9339,
+    "color": {
+        "h": 59,
+        "l": 68,
+        "s": 0,
+        "percentage": 0.0002545578584556484,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 34109,
+    "artist_title": "D.H. Burnham & Co.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34109
+    ],
+    "artist_titles": [
+        "D.H. Burnham & Co."
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design drawing",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-914",
+    "classification_title": "design drawing",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-914",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "design drawing",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "80ee4fda-28f0-1142-d527-6c8ec7934ca4",
+    "alt_image_ids": [
+        "fe23e7f6-d7aa-d61f-0479-0096daca808f"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.178.19"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Orchestra Hall, Chicago, Illinois, Section"
+            ],
+            "weight": 8,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:45:52-05:00",
+    "timestamp": "2023-09-24T01:32:50-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 35575,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35575",
+    "title": "Hans Maler zu Schwaz",
+    "sort_title": "Maler zu Schwaz, Hans",
+    "alt_titles": [
+        "Hans Maler",
+        "Maler von Ulm Maler von Ulm",
+        "Johan Maler zu Schwaz"
+    ],
+    "is_artist": true,
+    "birth_date": 1474,
+    "death_date": 1535,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hans Maler zu Schwaz",
+            "Maler zu Schwaz, Hans",
+            "Hans Maler",
+            "Maler von Ulm Maler von Ulm",
+            "Johan Maler zu Schwaz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:57:03-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

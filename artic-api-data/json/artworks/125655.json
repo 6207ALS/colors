@@ -1,0 +1,185 @@
+{
+    "id": 125655,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/125655",
+    "is_boosted": false,
+    "title": "Bowl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAB4bGx4dIB0fIiMhISIiIyMjJiQkJj80Ljs4PEooEHQ+ElQ3I1I8LUc8NEs8M11BMFxCN0NBRH5tZHZzdnt4foNTOYxbOYlzY5KKiI6NlJyXlpyZm6Cbna6pqrWxsbe0tsC+wMvHx9LQ0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIGhQBAEAJEGA/I4IDIXRcUioXw2i4RjwhGFOhiNBxQEADs=",
+        "width": 3000,
+        "height": 2109,
+        "alt_text": "A work made of maple."
+    },
+    "main_reference_number": "1993.262.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1939,
+    "date_end": 1939,
+    "date_display": "1939",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "James Prestini\nAmerican, 1908\u20131993\nChicago",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "7 \u00d7 14 cm (2 3/4 \u00d7 5 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14,
+            "width_in": 5.5,
+            "height_cm": 7,
+            "height_in": 2.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Maple",
+    "inscriptions": null,
+    "credit_line": "Gift of George E. Danforth",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, Chicago Architecture and Design, 1923\u20131993: Reconfiguration of an American Metropolis, June 12\u2013Aug. 29, 1993.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1994,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.2276,
+    "color": {
+        "h": 338,
+        "l": 46,
+        "s": 2,
+        "percentage": 0.13104741752428584,
+        "population": 654
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36267,
+    "artist_title": "James Prestini",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36267
+    ],
+    "artist_titles": [
+        "James Prestini"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "maple",
+        "bowl",
+        "Chicago",
+        "wood",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11712",
+    "classification_title": "bowl",
+    "alt_classification_ids": [
+        "TM-84",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11712",
+        "TM-84",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "bowl",
+        "wood",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-3584",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3584"
+    ],
+    "material_titles": [
+        "maple"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "710e1af1-dab9-19ed-9e98-4a9fc793fb49",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1993.262.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bowl"
+            ],
+            "weight": 12,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:01:12-05:00",
+    "timestamp": "2023-09-24T01:16:41-05:00"
+}

@@ -1,0 +1,181 @@
+{
+    "id": 244182,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/244182",
+    "is_boosted": false,
+    "title": "White Moon Jar",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQYADEyMjIzMzo5OTs7O0NDQ0RDQUNEREhISEhISU1NS01NTU5OTVBQUFpYVlhYWFpaWVxdXIJ/epeXlLe2sMDAvMHBvsPDvsXGwf///wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIPJI0KFYWMUs00U5QBElgSE0AxECADs=",
+        "width": 5486,
+        "height": 5486,
+        "alt_text": "A work made of glazed porcelain."
+    },
+    "main_reference_number": "2018.128",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2015,
+    "date_end": 2015,
+    "date_display": "2015",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Kwon Dae-sup (born 1952)\nKorean",
+    "place_of_origin": "Korea",
+    "description": null,
+    "dimensions": "59 \u00d7 52 cm (23 1/4 \u00d7 20 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52,
+            "width_in": 20.5,
+            "height_cm": 59,
+            "height_in": 23.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glazed porcelain",
+    "inscriptions": null,
+    "credit_line": "Gift of Kwon Dae-Sup",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.5269,
+    "color": {
+        "h": 40,
+        "l": 46,
+        "s": 3,
+        "percentage": 0.05656801036798757,
+        "population": 402
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 130",
+    "gallery_id": 2147478121,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 115993,
+    "artist_title": "Dae-sup Kwon",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115993
+    ],
+    "artist_titles": [
+        "Dae-sup Kwon"
+    ],
+    "category_ids": [
+        "PC-7",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Arts of Asia",
+        "Women artists"
+    ],
+    "term_titles": [
+        "ceramics",
+        "porcelain",
+        "vessel",
+        "glaze",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-46",
+    "classification_title": "ceramics",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-46",
+        "TM-27",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "ceramics",
+        "vessel",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2448",
+    "alt_material_ids": [
+        "TM-3368"
+    ],
+    "material_ids": [
+        "TM-2448",
+        "TM-3368"
+    ],
+    "material_titles": [
+        "porcelain",
+        "glaze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "8881e097-725d-4dce-1e92-5c7a7c450f63",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.128"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "White Moon Jar"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-11T13:17:07-06:00",
+    "updated_at": "2023-09-23T23:18:40-05:00",
+    "timestamp": "2023-09-24T01:54:26-05:00"
+}

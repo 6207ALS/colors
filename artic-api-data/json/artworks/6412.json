@@ -1,0 +1,167 @@
+{
+    "id": 6412,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/6412",
+    "is_boosted": false,
+    "title": "Fragment (Border)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAE9PT1BQUFVVVVpaWltbW2RkZG5ubnFxcXNzc3R0dHV1dXZ2dnd3d3x8fH9/f4CAgIGBgYWFhYaGhomJiYuLi5KSkpOTk5WVlZaWlpiYmKCgoKKiorKysrW1tb29vb6+vr+/v8DAwMHBwcLCwsbGxsfHxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAJAAUAAAYqwE7lcsFcLJMP5WBINBCGhSaicDwYigQkIwEUAALCIMAYcUAkUcizKQUBADs=",
+        "width": 4256,
+        "height": 2400,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1957.432",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1000,
+    "date_end": 1532,
+    "date_display": "A.D. 1000/1532",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Probably Ica\nPeru, south coast, Ica Valley, Samaca, Ica Valley",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": "17.8 \u00d7 12.2 cm (7 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.2,
+            "width_in": 4.75,
+            "height_cm": 17.8,
+            "height_in": 7,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Alan R. Sawyer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Alan R. Sawyer, Park Forest, Ill., by Nov. 1957 [Incoming receipt RX2387 dated 11/11//1957 in curatorial file]; given to the Art Institute of Chicago, 1957.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.1440968970468877,
+        "population": 577
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 30023,
+    "artist_title": "Ica",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30023
+    ],
+    "artist_titles": [
+        "Ica"
+    ],
+    "category_ids": [
+        "PC-829",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "a659b68c-1c0f-98ad-43f4-301d13ab024d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1957.432"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment (Border)"
+            ],
+            "weight": 101,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-10T14:32:11-05:00",
+    "updated_at": "2023-05-10T14:32:57-05:00",
+    "timestamp": "2023-09-24T00:23:02-05:00"
+}

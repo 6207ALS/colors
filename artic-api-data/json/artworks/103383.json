@@ -1,0 +1,179 @@
+{
+    "id": 103383,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/103383",
+    "is_boosted": false,
+    "title": "Side Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAM+mfdyqd92xgcq5psS8tMLCwsLFycTGyM3Nz9XNxdTNx8vQ1NPT1dbV1tnY2QAAACH5BAAAAAAALAAAAAADAAUAAAQLMCkkwhqAHFNcYxEAOw==",
+        "width": 1500,
+        "height": 2250,
+        "alt_text": "A work made of plywood and steel."
+    },
+    "main_reference_number": "1984.1484",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1955,
+    "date_display": "1950/55",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Hans Bellmann\nSwiss, 1911-1990\nZurich, Switzerland",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "79.4 \u00d7 42.9 \u00d7 44.5 cm (31 1/4 \u00d7 16 7/8 \u00d7 17 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 44.5,
+            "depth_in": 17.5,
+            "width_cm": 42.9,
+            "width_in": 16.875,
+            "height_cm": 79.4,
+            "height_in": 31.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Plywood and steel",
+    "inscriptions": null,
+    "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1985,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.8302,
+    "color": {
+        "h": 40,
+        "l": 77,
+        "s": 35,
+        "percentage": 0.0015003821285733709,
+        "population": 16
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 30555,
+    "artist_title": "Hans Bellmann",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30555
+    ],
+    "artist_titles": [
+        "Hans Bellmann"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "chair",
+        "furniture",
+        "steel",
+        "seating",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11745",
+    "classification_title": "chair",
+    "alt_classification_ids": [
+        "TM-466",
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-11745",
+        "TM-466",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "chair",
+        "seating",
+        "furniture"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-2538"
+    ],
+    "material_ids": [
+        "TM-2538"
+    ],
+    "material_titles": [
+        "steel"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "741eebfc-6a5d-2b3d-b704-839c9f1692b1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.1484"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Side Chair"
+            ],
+            "weight": 8,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:29:19-05:00",
+    "timestamp": "2023-09-24T01:06:39-05:00"
+}

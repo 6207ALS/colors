@@ -1,0 +1,31 @@
+{
+    "id": 61298,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/61298",
+    "title": "Nathanial C. Jaquith",
+    "sort_title": "Jaquith, Nathanial C.",
+    "alt_titles": [
+        "Jaquith"
+    ],
+    "is_artist": true,
+    "birth_date": 1834,
+    "death_date": 1865,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nathanial C. Jaquith",
+            "Jaquith, Nathanial C.",
+            "Jaquith"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:57-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

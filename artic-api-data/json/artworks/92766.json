@@ -1,0 +1,176 @@
+{
+    "id": 92766,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/92766",
+    "is_boosted": false,
+    "title": "Platter",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFtcU1xdVGtsZm1tZG5vZXNzaoSDe4iJgoyNh5GSjJ2emZ+fmr6/vsHDwMPEw8TGw9fZ2tvc3Onq6+vs6+zu7+7v8PDx8/Dy8/Hy9Pf4+vj5+vj5+/j6+wAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4EY5jMRhSQAgVmQIxQFhy0AoV1Y9zaSFADs=",
+        "width": 2880,
+        "height": 2250,
+        "alt_text": "A work made of pewter."
+    },
+    "main_reference_number": "1938.837",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1750,
+    "date_end": 1780,
+    "date_display": "1750/80",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "43.2 \u00d7 55.6 \u00d7 4.6 cm (17 \u00d7 21 7/8 \u00d7 1 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 4.6,
+            "depth_in": 1.8125,
+            "width_cm": 55.6,
+            "width_in": 21.875,
+            "height_cm": 43.2,
+            "height_in": 17,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pewter",
+    "inscriptions": null,
+    "credit_line": "The William Owen Goodman and Erna Sawyer Goodman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.039,
+    "color": {
+        "h": 60,
+        "l": 46,
+        "s": 3,
+        "percentage": 0.1411247135654331,
+        "population": 784
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "pewter",
+        "vessel for serving food",
+        "dish (vessel)",
+        "pewter",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11798",
+    "classification_title": "vessel for serving food",
+    "alt_classification_ids": [
+        "TM-11783",
+        "TM-41",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11798",
+        "TM-11783",
+        "TM-41",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "vessel for serving food",
+        "dish (vessel)",
+        "pewter",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2513",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2513"
+    ],
+    "material_titles": [
+        "pewter"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7cd4d06a-b565-fe1e-bb1f-1527759c85a5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.837"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Platter"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:43:17-05:00",
+    "timestamp": "2023-09-24T01:00:57-05:00"
+}

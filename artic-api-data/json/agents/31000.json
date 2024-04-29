@@ -1,0 +1,28 @@
+{
+    "id": 31000,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31000",
+    "title": "Eames and Young, Architects",
+    "sort_title": "Eames & Young, Architects",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Eames and Young, Architects",
+            "Eames & Young, Architects"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:08:22-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

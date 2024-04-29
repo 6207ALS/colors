@@ -1,0 +1,31 @@
+{
+    "id": 35456,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35456",
+    "title": "Henri Lerolle",
+    "sort_title": "Lerolle, Henri",
+    "alt_titles": [
+        "Henry Lerolle"
+    ],
+    "is_artist": true,
+    "birth_date": 1848,
+    "death_date": 1929,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henri Lerolle",
+            "Lerolle, Henri",
+            "Henry Lerolle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-03-01T12:01:08-06:00",
+    "updated_at": "2021-03-01T12:05:46-06:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

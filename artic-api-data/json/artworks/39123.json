@@ -1,0 +1,163 @@
+{
+    "id": 39123,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/39123",
+    "is_boosted": false,
+    "title": "Border",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhDwAFAPUAAEREREpKSk1NTVVVVVZWVlhYWFlZWVxcXF5eXmJiYmNjY2RkZGZmZmdnZ2tra3JycnR0dHV1dXZ2dnp6en5+foaGho+Pj5aWlp2dnZ+fn6CgoKGhoaOjo6enp6ioqKmpqaurq66urq+vr7GxsbS0tLW1tbe3t7m5uby8vL29vb6+vsHBwcPDw8XFxcbGxsfHx8jIyMrKys7OztPT0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAPAAUAAAZCwMTCgBAEEAyFQ/I4QCyTDCZm0oBcHdAqleGUKKiLrOUJzVah1ysLc5A2p89nhLKqRJkQ61BpRBQEAwUBAoMAChFBADs=",
+        "width": 4500,
+        "height": 1545,
+        "alt_text": "A work made of linen, darned netting."
+    },
+    "main_reference_number": "1900.3147",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1700,
+    "date_display": "17th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "76.2 \u00d7 22.2 cm (30 \u00d7 8 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.2,
+            "width_in": 8.75,
+            "height_cm": 76.2,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, darned netting",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.09276475924261268,
+        "population": 226
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework - lace",
+        "needlework (visual works)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-2321",
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-2321",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework - lace",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7454b3b6-0a7a-7f14-b666-537e9559fb91",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1900.3147"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:46:25-05:00",
+    "timestamp": "2023-09-24T00:37:31-05:00"
+}

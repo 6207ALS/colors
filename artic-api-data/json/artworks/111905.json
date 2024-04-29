@@ -1,0 +1,183 @@
+{
+    "id": 111905,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111905",
+    "is_boosted": false,
+    "title": "Steep Street",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAF5jXnB6e4eHfpSTkJqdnauhjqqrobW1srq5ssW/s8C8tMW+t8PEw9rUyuLf1+vd0uvm3vDj1vTt5/Xu5wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoNREEyMUD0IESjIABrQcTggAOw==",
+        "width": 2353,
+        "height": 3000,
+        "alt_text": "A work made of drypoint and spit bite aquatint printed in color on white wove paper."
+    },
+    "main_reference_number": "1990.460",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Wayne Thiebaud\nAmerican, 1920-2021",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 55.5 \u00d7 75.6 cm (21 7/8 \u00d7 29 13/16 in.); Sheet: 77 \u00d7 98.5 cm (30 3/8 \u00d7 38 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 75.6,
+            "width_in": 29.7638,
+            "height_cm": 55.5,
+            "height_in": 21.8504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 98.5,
+            "width_in": 38.7796,
+            "height_cm": 77,
+            "height_in": 30.315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Drypoint and spit bite aquatint printed in color on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Phil Shorr and the Wayne Thiebaud Family to honor the memory of Ruth L. Shorr",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Wayne Thiebaud / Licensed by VAGA at ARS, New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.0543,
+    "color": {
+        "h": 45,
+        "l": 49,
+        "s": 72,
+        "percentage": 0.002206957433308505,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 25999,
+    "artist_title": "Wayne Thiebaud",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        25999
+    ],
+    "artist_titles": [
+        "Wayne Thiebaud"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "aquatint",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-147",
+    "classification_title": "aquatint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-147",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "aquatint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c5c5ed1b-7c43-61b8-88b8-efe408495f9b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.460"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Steep Street"
+            ],
+            "weight": 332,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:13:23-05:00",
+    "timestamp": "2023-09-24T01:10:03-05:00"
+}

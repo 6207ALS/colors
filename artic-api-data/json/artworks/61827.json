@@ -1,0 +1,188 @@
+{
+    "id": 61827,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/61827",
+    "is_boosted": false,
+    "title": "Study in White (Etude en Blanc)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAENLOkVOPEdRPU1WQ1FTQFxgTV5jTl5mUmFpVGNpVmVqVmhuWGluW25zXpCIcaKjjKeokqmrkq+qkrKwmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEAYQeFIjPJMTQJFy3AgQggAOw==",
+        "width": 2304,
+        "height": 3000,
+        "alt_text": "A work made of oil monotype from a glass matrix on paper."
+    },
+    "main_reference_number": "1947.862",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1930,
+    "date_display": "1930",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Pedro Pruna\nSpanish, 1904-1977",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "Image: 18 \u00d7 13 cm (7 1/8 \u00d7 5 1/8 in.); Sheet: 22.5 \u00d7 17.5 cm (8 7/8 \u00d7 6 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13,
+            "width_in": 5.1182,
+            "height_cm": 18,
+            "height_in": 7.0867,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.5,
+            "width_in": 6.8898,
+            "height_cm": 22.5,
+            "height_in": 8.8583,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Oil monotype from a glass matrix on paper",
+    "inscriptions": null,
+    "credit_line": "Given in memory of Charles Barnett Goodspeed by Mrs. Charles B. Goodspeed",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.296,
+    "color": {
+        "h": 67,
+        "l": 51,
+        "s": 20,
+        "percentage": 0.005942001741546692,
+        "population": 55
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 21143,
+    "artist_title": "Pedro Pruna",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21143
+    ],
+    "artist_titles": [
+        "Pedro Pruna"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "monotype",
+        "paper (fiber product)",
+        "organic material",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-227",
+    "classification_title": "monotype",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-227",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "monotype",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "27ee8bcc-89d7-9be6-2e19-a62fc8ba6d36",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1947.862"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Study in White (Etude en Blanc)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:59:28-05:00",
+    "timestamp": "2023-09-24T00:47:04-05:00"
+}

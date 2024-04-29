@@ -1,0 +1,31 @@
+{
+    "id": 110800,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/110800",
+    "title": "Paul H. Shramm",
+    "sort_title": "Shramm, Paul H.",
+    "alt_titles": [
+        "Paul H. Schramm"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul H. Shramm",
+            "Shramm, Paul H.",
+            "Paul H. Schramm"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:18:57-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

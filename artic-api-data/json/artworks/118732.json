@@ -1,0 +1,163 @@
+{
+    "id": 118732,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/118732",
+    "is_boosted": false,
+    "title": "Untitled (Head)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHRvbJ2RiZ6Ylq2oqbSwstHIxNvRztnR0NvW19/Z2OHa1+Te3evk4e3n5e/o5vHp5/Pr6fbt6/vz8QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4FE4ixE0zyMpESQADEIMSQgAOw==",
+        "width": 1763,
+        "height": 2250,
+        "alt_text": "A work made of glazed and fired ceramic, and iron."
+    },
+    "main_reference_number": "2018.299",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1956,
+    "date_end": 1956,
+    "date_display": "1956",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Joan Mir\u00f3 (Spanish, 1893\u20131983)\nJosep Llorens Artigas (Spanish, 1892\u20131980)",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "45.1 \u00d7 16.5 \u00d7 27.9 cm (17 3/4 \u00d7 6 1/2 \u00d7 11 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 27.9,
+            "depth_in": 11,
+            "width_cm": 16.5,
+            "width_in": 6.5,
+            "height_cm": 45.1,
+            "height_in": 17.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glazed and fired ceramic, and iron",
+    "inscriptions": null,
+    "credit_line": "Lindy and Edwin Bergman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Successi\u00f3 Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.9183,
+    "color": {
+        "h": 340,
+        "l": 54,
+        "s": 1,
+        "percentage": 0.002315151675508341,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 397",
+    "gallery_id": 23995,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 32048,
+    "artist_title": "Joan Mir\u00f3",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32048
+    ],
+    "artist_titles": [
+        "Joan Mir\u00f3"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f9e76d00-a4f0-cafd-d2d0-8c7a49ea94fd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.299"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (Head)"
+            ],
+            "weight": 884,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-06T11:26:09-06:00",
+    "updated_at": "2023-09-23T23:23:49-05:00",
+    "timestamp": "2023-09-24T01:12:39-05:00"
+}

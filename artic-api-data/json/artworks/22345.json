@@ -1,0 +1,185 @@
+{
+    "id": 22345,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22345",
+    "is_boosted": false,
+    "title": "Fragment (Band)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHtZTmlTVXRbWXVdXGtiaHtjYnliZntwdntwd350fIplVYlmWo5pWY9rXoB4hAAAACH5BAAAAAAALAAAAAADAAUAAAQL0DWTWEFKnDUICBEAOw==",
+        "width": 471,
+        "height": 768,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1964.1124",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1000,
+    "date_end": 1532,
+    "date_display": "A.D. 1000/1532",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Ica\nPeru",
+    "place_of_origin": "Peru",
+    "description": null,
+    "dimensions": "19.7 \u00d7 130.8 cm (7 3/4 \u00d7 51 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 130.8,
+            "width_in": 51.5,
+            "height_cm": 19.7,
+            "height_in": 7.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Bruce J. Graham",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Bruce J. Graham, Chicago, by Dec. 30, 1964 [Incoming permanent receitp RX4982, Dec. 30, 1964; copy in curatorial object file]; given to the Art Institute of Chicago, 1964.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": 1965,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 39.3443,
+    "color": {
+        "h": 225,
+        "l": 44,
+        "s": 25,
+        "percentage": 0.08825622775800712,
+        "population": 1023
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 30023,
+    "artist_title": "Ica",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30023
+    ],
+    "artist_titles": [
+        "Ica"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Latin American"
+    ],
+    "term_titles": [
+        "ica",
+        "textile",
+        "weaving",
+        "late intermediate period",
+        "Pre-Columbian",
+        "americas"
+    ],
+    "style_id": "TM-6785",
+    "style_title": "ica",
+    "alt_style_ids": [
+        "TM-6757",
+        "TM-6516",
+        "TM-6515"
+    ],
+    "style_ids": [
+        "TM-6785",
+        "TM-6757",
+        "TM-6516",
+        "TM-6515"
+    ],
+    "style_titles": [
+        "ica",
+        "late intermediate period",
+        "Pre-Columbian",
+        "americas"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "a46c9f16-1fcf-e4ba-fd72-8cfc6bb9899d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.1124"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment (Band)"
+            ],
+            "weight": 89,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-21T16:41:40-05:00",
+    "updated_at": "2023-08-21T16:45:50-05:00",
+    "timestamp": "2023-09-24T00:29:45-05:00"
+}

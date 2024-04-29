@@ -1,0 +1,33 @@
+{
+    "id": 65097,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65097",
+    "title": "Antonio Maria Viani",
+    "sort_title": "Viani, Antonio Maria",
+    "alt_titles": [
+        "Antonio M. Viani",
+        "Antonio Maria Viani, (Vianino)"
+    ],
+    "is_artist": true,
+    "birth_date": 1550,
+    "death_date": 1635,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio Maria Viani",
+            "Viani, Antonio Maria",
+            "Antonio M. Viani",
+            "Antonio Maria Viani, (Vianino)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:49-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

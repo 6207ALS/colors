@@ -1,0 +1,185 @@
+{
+    "id": 84828,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/84828",
+    "is_boosted": false,
+    "title": "Pepper Caster",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMzKyM3Lyc7Nys7Ny9LPzNTT0drb2tzc29vc3Nvd3N7g3+Di4ePj4+Pk4+bm5+bn5+np6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUQYPM4DBQMIwEwSyEcSmIgIQA7",
+        "width": 1932,
+        "height": 2250,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1955.1264a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1731,
+    "date_end": 1732,
+    "date_display": "1731/32",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William Fordham\nEnglish, active 1725\nLondon, England",
+    "place_of_origin": "London",
+    "description": null,
+    "dimensions": "7.1 \u00d7 6.4 \u00d7 5.1 cm (2 13/16 \u00d7 2 1/2 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 5.1,
+            "depth_in": 2,
+            "width_cm": 6.4,
+            "width_in": 2.5,
+            "height_cm": 7.1,
+            "height_in": 2.8125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": null,
+    "credit_line": "Bequest of Garrard B. Winston",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.9758,
+    "color": {
+        "h": 41,
+        "l": 44,
+        "s": 0,
+        "percentage": 0.0036239499604989456,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 8551,
+    "artist_title": "William Fordham",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        8551
+    ],
+    "artist_titles": [
+        "William Fordham"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "silver",
+        "silver",
+        "nonferrous metal",
+        "metal",
+        "inorganic material",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-161",
+    "classification_title": "silver",
+    "alt_classification_ids": [
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-161",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "silver",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2436",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "silver",
+        "nonferrous metal",
+        "metal",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1d27d870-8390-6555-3a89-9c173ee57912",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1955.1264a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pepper Caster"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:44:46-05:00",
+    "timestamp": "2023-09-24T00:57:16-05:00"
+}

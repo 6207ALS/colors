@@ -1,0 +1,169 @@
+{
+    "id": 39652,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/39652",
+    "is_boosted": false,
+    "title": "Maria Sheldon Scammon",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABcXGBkaGx0cHBwcHh0dHiEhICAgIyUkJSopJz03MUc/N01EPlZRSGVfWYF7cYV/dJGJepOMgJmShKKaiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BQ5kNQsD2MIyDEEQKIQRQgAOw==",
+        "width": 5110,
+        "height": 6419,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1902.39",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1895,
+    "date_display": "1895",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Anders Leonard Zorn\nSwedish, 1860-1920",
+    "place_of_origin": "Sweden",
+    "description": null,
+    "dimensions": "81.3 \u00d7 65.5 cm (32 \u00d7 25 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 65.5,
+            "width_in": 25.75,
+            "height_cm": 81.3,
+            "height_in": 32,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Jonathan Y. Scammon.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.8025,
+    "color": {
+        "h": 357,
+        "l": 13,
+        "s": 1,
+        "percentage": 0.26099511950328036,
+        "population": 2330
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 37424,
+    "artist_title": "Anders Zorn",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37424
+    ],
+    "artist_titles": [
+        "Anders Zorn"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil paintings (visual works)",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-78",
+    "classification_title": "oil paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-78",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil paintings (visual works)",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8b49881c-2e3d-be54-bf70-c131d60c1c93",
+    "alt_image_ids": [
+        "20a249c8-fd4c-76e0-e9cd-e5bbd96244f7"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1902.39"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Maria Sheldon Scammon"
+            ],
+            "weight": 520,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:24:22-05:00",
+    "timestamp": "2023-09-24T00:37:43-05:00"
+}

@@ -1,0 +1,168 @@
+{
+    "id": 118694,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/118694",
+    "is_boosted": false,
+    "title": "Landscape",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAABcLECwZEisfFiIfGDUXETQcEjEeFCgkFCciGSQiGyUiGzEjFjohEjwmFzIrFTsvFDwpGDoqHTMwGj83GzsyHDoyHTAtIT00ITw2Iz82JT85KUIoEUMoFkcqGE83FE40F0EyGEA0G0k2GU01G0k3H083HE42HUc7IUg4Ik07I0w8JUU+Kkc+KgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwAxrdbFQUBhN5aQihR6fVGQiGpU2HgYhIAFxDIBCpyE4OBCKxGBhggQBADs=",
+        "width": 3000,
+        "height": 1604,
+        "alt_text": "A work made of oil on glass."
+    },
+    "main_reference_number": "2018.292",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Max Ernst\nFrench, born Germany, 1891\u20131976",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "11.1 \u00d7 20.6 cm (4 3/8 \u00d7 8 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.6,
+            "width_in": 8.25,
+            "height_cm": 11.1,
+            "height_in": 4.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on glass",
+    "inscriptions": null,
+    "credit_line": "Lindy and Edwin Bergman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.823,
+    "color": {
+        "h": 47,
+        "l": 41,
+        "s": 61,
+        "percentage": 0.006049559039750864,
+        "population": 23
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 397",
+    "gallery_id": 23995,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 34418,
+    "artist_title": "Max Ernst",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34418
+    ],
+    "artist_titles": [
+        "Max Ernst"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting",
+        "glass",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dbb43155-d06d-be4f-e583-647becae064e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.292"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Landscape"
+            ],
+            "weight": 2186,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-06T11:17:27-06:00",
+    "updated_at": "2023-04-07T12:53:13-05:00",
+    "timestamp": "2023-09-24T01:12:38-05:00"
+}

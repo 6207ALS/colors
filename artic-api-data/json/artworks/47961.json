@@ -1,0 +1,173 @@
+{
+    "id": 47961,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47961",
+    "is_boosted": false,
+    "title": "Head of Luohan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAAEAAAEAAQUEBwcHCRQRDxwYFRkZHRscHy4uMDYzMjMzND44ND47PFVJPlhLPVBPT05OUGNWSWVYSW9kVmNkZGRlZYVtVsyrhPnYrwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIFBMRDBImCMY0dUcyGIlSvUwEBUCADs=",
+        "width": 3001,
+        "height": 3000,
+        "alt_text": "A work made of hollow dry lacquer."
+    },
+    "main_reference_number": "1974.529",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 999,
+    "date_end": 1099,
+    "date_display": "Northern Song, Liao, or Jin dynasty, c. 11th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "30.5 \u00d7 26 \u00d7 20.4 cm (11 13/16 \u00d7 10 1/4 \u00d7 8 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 20.4,
+            "depth_in": 8.0625,
+            "width_cm": 26,
+            "width_in": 10.25,
+            "height_cm": 30.5,
+            "height_in": 11.8125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Hollow dry lacquer",
+    "inscriptions": null,
+    "credit_line": "Gift of Janis H. Palmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1975,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.6816,
+    "color": {
+        "h": 214,
+        "l": 45,
+        "s": 0,
+        "percentage": 0.08696276220750329,
+        "population": 618
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 101A",
+    "gallery_id": 2147478134,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "lacquer",
+        "Chinese (culture or style)",
+        "sculpture",
+        "asian art"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-35",
+    "classification_title": "lacquer",
+    "alt_classification_ids": [
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-35",
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "lacquer",
+        "sculpture",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "56af1dd7-fbbe-5198-f2e5-d92c397b6e22",
+    "alt_image_ids": [
+        "1da12dc4-de99-7d1e-a419-39606d57a41b",
+        "0bee53e3-7fdc-ed0a-f1eb-cfd3ee6d8a1a",
+        "b6775996-93ea-354e-81b3-be6f2de8b672",
+        "7e383ae8-65a9-5d6a-8006-be7477521d85"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.529"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Head of Luohan"
+            ],
+            "weight": 374,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-28T10:53:30-05:00",
+    "updated_at": "2023-07-28T10:55:59-05:00",
+    "timestamp": "2023-09-24T00:41:24-05:00"
+}

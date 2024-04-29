@@ -1,0 +1,190 @@
+{
+    "id": 33259,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/33259",
+    "is_boosted": false,
+    "title": "Platter",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADg1Ojk5P2FIOHhdPn1fPkA7QEQ/QkhERkhGSG1bUp9nNbR0MOCKKuuSK/aZPN+NROKQQe+dSN6qeuaqaf2yYPy3bJeSkqynqrawq724tsCjhMquk9HT2dbY3QAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYHAQAwIYS8MoheBE0JNYE1VJF4dpW9aFADs=",
+        "width": 2536,
+        "height": 2250,
+        "alt_text": "A work made of curly birch."
+    },
+    "main_reference_number": "1970.20",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1933,
+    "date_end": 1953,
+    "date_display": "1933\u201353",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "James Prestini\nAmerican, 1908\u20131993\nChicago",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "2.2 \u00d7 8.3 \u00d7 26.2 cm (7/8 \u00d7 3 1/4 \u00d7 10 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 26.2,
+            "depth_in": 10.375,
+            "width_cm": 8.3,
+            "width_in": 3.25,
+            "height_cm": 2.2,
+            "height_in": 0.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Curly birch",
+    "inscriptions": "stamped on bottom: \"PRESTINI\"",
+    "credit_line": "Gift of James Prestini",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 89.5365,
+    "color": {
+        "h": 30,
+        "l": 63,
+        "s": 82,
+        "percentage": 0.35936082618100623,
+        "population": 2266
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36267,
+    "artist_title": "James Prestini",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36267
+    ],
+    "artist_titles": [
+        "James Prestini"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "birch",
+        "wood",
+        "Chicago",
+        "plate (general, dish)",
+        "wood (plant material)",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-84",
+    "classification_title": "wood",
+    "alt_classification_ids": [
+        "TM-11765",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-84",
+        "TM-11765",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "wood",
+        "plate (general, dish)",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-3553",
+    "alt_material_ids": [
+        "TM-2431"
+    ],
+    "material_ids": [
+        "TM-3553",
+        "TM-2431"
+    ],
+    "material_titles": [
+        "birch",
+        "wood (plant material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b30abb68-4e3a-1844-dcaf-5a5bc382437d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.20"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Platter"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:24:31-05:00",
+    "timestamp": "2023-09-24T00:35:11-05:00"
+}

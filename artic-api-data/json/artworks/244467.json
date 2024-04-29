@@ -1,0 +1,167 @@
+{
+    "id": 244467,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/244467",
+    "is_boosted": false,
+    "title": "Maison de sant\u00e9",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAALuxjr2ykryylLi2ubq5u7+9vMW7mcW6nMW8nsa9nsG7qcO9qsG7rMzBnsvCosjAptfOrMrFs8PBvcTCv8XCv87JuM3JvtLMtcC/xMbDwMHBxcLCx8TEycfHzMrKz9jVz9bW19nX0tjX1tvZ1Nva2dra297d2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwEFhkqFICgRMBNIQIBQaTsVhACQWG4/l8ggcGJ0SyTT6hESgIAA7",
+        "width": 8043,
+        "height": 5363,
+        "alt_text": "A work made of book of illustrations."
+    },
+    "main_reference_number": "2019.174",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1926,
+    "date_end": 1926,
+    "date_display": "Paris: \u00c9ditions Briant-Robert, 1926",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mary Reynolds\nAmerican, 1891-1950",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "28.8 \u00d7 22.1 \u00d7 1.5 cm (11 3/8 \u00d7 8 3/4 \u00d7 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.5,
+            "depth_in": 0.5906,
+            "width_cm": 22.1,
+            "width_in": 8.7008,
+            "height_cm": 28.8,
+            "height_in": 11.3386,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book of illustrations",
+    "inscriptions": "Signed by Cocteau on half title page.",
+    "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 86,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.647,
+    "color": {
+        "h": 43,
+        "l": 49,
+        "s": 43,
+        "percentage": 0.001899671989969732,
+        "population": 9
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Ryerson and Burnham Libraries Special Collections",
+    "department_id": "PC-824",
+    "artist_id": 21655,
+    "artist_title": "Mary Reynolds",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21655
+    ],
+    "artist_titles": [
+        "Mary Reynolds"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-824"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Ryerson and Burnham Libraries Special Collections"
+    ],
+    "term_titles": [
+        "book",
+        "20th Century"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-11"
+    ],
+    "classification_titles": [
+        "book"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "8ccf0c1e-1824-bf71-98e9-9e25e5251f0c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.174"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Maison de sant\u00e9"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:35-05:00",
+    "updated_at": "2023-09-23T23:18:21-05:00",
+    "timestamp": "2023-09-24T01:54:28-05:00"
+}

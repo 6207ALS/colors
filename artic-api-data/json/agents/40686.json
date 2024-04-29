@@ -1,0 +1,35 @@
+{
+    "id": 40686,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40686",
+    "title": "William Hoare",
+    "sort_title": "Hoare, William",
+    "alt_titles": [
+        "Hoare of Bath",
+        "William Hoare, (Hoare of Bath)",
+        "William Hoare, (of Bath)"
+    ],
+    "is_artist": true,
+    "birth_date": 1697,
+    "death_date": 1792,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Hoare",
+            "Hoare, William",
+            "Hoare of Bath",
+            "William Hoare, (Hoare of Bath)",
+            "William Hoare, (of Bath)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:46-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

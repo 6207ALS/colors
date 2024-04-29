@@ -1,0 +1,33 @@
+{
+    "id": 59857,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/59857",
+    "title": "Heinrich Vogeler",
+    "sort_title": "Vogeler, Heinrich",
+    "alt_titles": [
+        "Heinrich J. Vogeler",
+        "Heinrich Johann Vogeler"
+    ],
+    "is_artist": true,
+    "birth_date": 1872,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Heinrich Vogeler",
+            "Vogeler, Heinrich",
+            "Heinrich J. Vogeler",
+            "Heinrich Johann Vogeler"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-02T09:18:02-06:00",
+    "updated_at": "2022-03-15T16:59:09-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

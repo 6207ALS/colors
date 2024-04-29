@@ -1,0 +1,176 @@
+{
+    "id": 21659,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/21659",
+    "is_boosted": false,
+    "title": "Sleep",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKKbjqegkqihlL21p7uzqcC5q8S9r8jAtdDJvNHJvNDIvdHKvdXOwN7XzeLZzuLaz+Hb0Obf1Oni1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoKMQTzIER2IUDCIAiwQ1UQgAOw==",
+        "width": 1682,
+        "height": 2250,
+        "alt_text": "A work made of lithograph in black on paper."
+    },
+    "main_reference_number": "1935.229",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1932,
+    "date_end": 1932,
+    "date_display": "1932",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Diego Rivera\nMexican, 1886-1957",
+    "place_of_origin": "Mexico",
+    "description": null,
+    "dimensions": "41.5 \u00d7 30.2 cm (16 3/8 \u00d7 11 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30.2,
+            "width_in": 11.8898,
+            "height_cm": 41.5,
+            "height_in": 16.3386,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph in black on paper",
+    "inscriptions": null,
+    "credit_line": "Print Sales Miscellaneous Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1936,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Banco de M\u00e9xico Diego Rivera Frida Kahlo Museums Trust, Mexico, D.F. / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.3189,
+    "color": {
+        "h": 42,
+        "l": 51,
+        "s": 9,
+        "percentage": 0.02849919655401597,
+        "population": 271
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36397,
+    "artist_title": "Diego Rivera",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36397
+    ],
+    "artist_titles": [
+        "Diego Rivera"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Latin American"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "bb9f6562-3d8e-c337-cbe8-8c406b7d78a4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1935.229"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sleep"
+            ],
+            "weight": 2476,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-09-23T23:19:09-05:00",
+    "timestamp": "2023-09-24T00:29:23-05:00"
+}

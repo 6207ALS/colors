@@ -1,0 +1,180 @@
+{
+    "id": 216917,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/216917",
+    "is_boosted": false,
+    "title": "Plate",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACAfISMhIVxYUltZV15aVFxaWW56f3t6foSBfoaFgoWEiJuUhpGRlZ2bkamlna2roqiqpamsp6akqKywq724q7u4rcTBtszIutLOwgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVICAsRDBQUVUgkwElyoVZh+Q8DRMCADs=",
+        "width": 2476,
+        "height": 2250,
+        "alt_text": "A work made of earthenware (creamware)."
+    },
+    "main_reference_number": "2012.1111",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1792,
+    "date_end": 1792,
+    "date_display": "1792",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Staffordshire, England",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": "1.8 \u00d7 24.8 \u00d7 24.1 cm (7/8 \u00d7 9 3/4 \u00d7 9 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 24.1,
+            "depth_in": 9.5,
+            "width_cm": 24.8,
+            "width_in": 9.75,
+            "height_cm": 1.8,
+            "height_in": 0.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware (creamware)",
+    "inscriptions": null,
+    "credit_line": "Gift of Harry A. Root, Jr. in memory of Curtis Chapin Palmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.4703,
+    "color": {
+        "h": 205,
+        "l": 57,
+        "s": 42,
+        "percentage": 0.0015486156924325344,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "earthenware",
+        "plate (general, dish)",
+        "dish (vessel)",
+        "earthenware",
+        "european decorative arts",
+        "creamware",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11765",
+    "classification_title": "plate (general, dish)",
+    "alt_classification_ids": [
+        "TM-11783",
+        "TM-74",
+        "TM-1394",
+        "TM-11135",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-11765",
+        "TM-11783",
+        "TM-74",
+        "TM-1394",
+        "TM-11135",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "plate (general, dish)",
+        "dish (vessel)",
+        "earthenware",
+        "european decorative arts",
+        "creamware",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8f056712-ae26-02ad-199d-522cadd4536c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.1111"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Plate"
+            ],
+            "weight": 5,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:26:24-05:00",
+    "timestamp": "2023-09-24T01:44:54-05:00"
+}

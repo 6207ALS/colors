@@ -1,0 +1,28 @@
+{
+    "id": 110905,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/110905",
+    "title": "An-My L\u00ea",
+    "sort_title": "L\u00ea, An-My",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1960,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "An-My L\u00ea",
+            "L\u00ea, An-My"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:17:13-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

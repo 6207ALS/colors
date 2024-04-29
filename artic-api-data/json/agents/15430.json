@@ -1,0 +1,37 @@
+{
+    "id": 15430,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15430",
+    "title": "Privat-Livemont",
+    "sort_title": "Privat-Livemont",
+    "alt_titles": [
+        "T.(?) Privat Livemont",
+        "Privat Livemont",
+        "Henri Privat-Livemont",
+        "Georges Privat-Livemont"
+    ],
+    "is_artist": true,
+    "birth_date": 1861,
+    "death_date": 1936,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Privat-Livemont",
+            "Privat-Livemont",
+            "T.(?) Privat Livemont",
+            "Privat Livemont",
+            "Henri Privat-Livemont",
+            "Georges Privat-Livemont"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:15-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

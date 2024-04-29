@@ -1,0 +1,171 @@
+{
+    "id": 34015,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/34015",
+    "is_boosted": false,
+    "title": "Mola",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIMrKJAsJ5UmLJQsLp4yKJszL5Y6L5IpMIw2NZIyMZszNJw5MKZDOpBEQ41eTKVfYpdjY51iZ5xoaZ5obatpZ6JnaqZoaqJpbahtaqttbattdKd0c65ycahzd6t3eK6Hh7KQkbOWlrOXmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwBAFM7lYRBvA4lAQaDwJR4Oh6GQCiIGBwPlAIg9JBRQEADs=",
+        "width": 3000,
+        "height": 2142,
+        "alt_text": "A work made of cotton, plain weave, reverse applique with applique and chain stitch embroidery."
+    },
+    "main_reference_number": "1970.366",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1969,
+    "date_display": "1960/69",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Kuna\nPanama, Mansucum",
+    "place_of_origin": "San Blas",
+    "description": null,
+    "dimensions": "40.5 \u00d7 59 cm (16 \u00d7 23 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 59,
+            "width_in": 23.25,
+            "height_cm": 40.5,
+            "height_in": 16,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave, reverse applique with applique and chain stitch embroidery",
+    "inscriptions": null,
+    "credit_line": "Gift of F. Louis Hoover",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 82.7498,
+    "color": {
+        "h": 355,
+        "l": 38,
+        "s": 64,
+        "percentage": 0.7893813819494527,
+        "population": 4006
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 51518,
+    "artist_title": "Kuna",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51518
+    ],
+    "artist_titles": [
+        "Kuna"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Latin American"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "fcc1019d-2295-b1e2-2610-0d4297e68948",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.366"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mola"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T13:55:37-05:00",
+    "timestamp": "2023-09-24T00:35:31-05:00"
+}

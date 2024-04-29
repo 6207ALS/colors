@@ -1,0 +1,167 @@
+{
+    "id": 876,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/876",
+    "is_boosted": false,
+    "title": "October Day",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAF1TNmhXN3NaM21gP3FiPnxgO3VhQXhiQHlmQHtpQXtqRIdiRYFtR4doT556XqKBZqOBZ6iGabqTdr2Vdr2Vd7uVe7+WeMCXdsCZe8KcfsGger+dgcOjgcSgggAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoMZtknV1GVZRU9QsDvQAgVAcBjEwSoKEADs=",
+        "width": 2733,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1894.1039",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1890,
+    "date_end": 1893,
+    "date_display": "1890/93",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean Charles Cazin\nFrench, 1841-1901",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "38.4 \u00d7 46.7 cm (15 1/8 \u00d7 18 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 46.7,
+            "width_in": 18.375,
+            "height_cm": 38.4,
+            "height_in": 15.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Henry Field Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.1112,
+    "color": {
+        "h": 40,
+        "l": 35,
+        "s": 27,
+        "percentage": 0.1993019304596935,
+        "population": 1166
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 33896,
+    "artist_title": "Jean Charles Cazin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33896
+    ],
+    "artist_titles": [
+        "Jean Charles Cazin"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3ef69544-a84c-dfa4-df6a-346b4b59c351",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1894.1039"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "October Day"
+            ],
+            "weight": 19392,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:25:45-05:00",
+    "timestamp": "2023-09-24T00:20:58-05:00"
+}

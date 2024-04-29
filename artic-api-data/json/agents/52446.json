@@ -1,0 +1,31 @@
+{
+    "id": 52446,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52446",
+    "title": "N. W. Pease",
+    "sort_title": "Pease, Nathan W.",
+    "alt_titles": [
+        "Nathan W. Pease"
+    ],
+    "is_artist": true,
+    "birth_date": 4713,
+    "death_date": 4713,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "N. W. Pease",
+            "Pease, Nathan W.",
+            "Nathan W. Pease"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:27:38-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

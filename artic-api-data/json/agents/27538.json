@@ -1,0 +1,45 @@
+{
+    "id": 27538,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27538",
+    "title": "Alessandro Vittoria",
+    "sort_title": "Vittoria, Alessandro",
+    "alt_titles": [
+        "Alessandro Vitorio",
+        "Alessandro Vittoria",
+        "Vittoria del Volpe"
+    ],
+    "is_artist": true,
+    "birth_date": 1525,
+    "death_date": 1608,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Alessandro Vittoria",
+            "Vittoria, Alessandro",
+            "Alessandro Vitorio",
+            "Alessandro Vittoria",
+            "Vittoria del Volpe"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alessandro Vittoria",
+            "Vittoria, Alessandro",
+            "Alessandro Vitorio",
+            "Alessandro Vittoria",
+            "Vittoria del Volpe"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:18-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

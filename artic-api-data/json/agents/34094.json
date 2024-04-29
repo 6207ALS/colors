@@ -1,0 +1,31 @@
+{
+    "id": 34094,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34094",
+    "title": "Robert Cumming",
+    "sort_title": "Cumming, Robert",
+    "alt_titles": [
+        "Robert H. Cumming"
+    ],
+    "is_artist": true,
+    "birth_date": 1943,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Robert Cumming",
+            "Cumming, Robert",
+            "Robert H. Cumming"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-01-27T16:59:30-06:00",
+    "updated_at": "2022-03-15T16:39:15-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

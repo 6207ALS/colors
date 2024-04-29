@@ -1,0 +1,46 @@
+{
+    "id": 4187,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4187",
+    "title": "Chicago and Vicinity 65th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1962-05-04T00:00:00-05:00",
+    "aic_end_at": "1962-06-03T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "ea44e699-1db4-0716-5c39-c8d066188f06",
+    "alt_image_ids": [
+        "f37883c6-9653-2c89-d93d-fcba32626c4f",
+        "8e503dd0-7d94-28dc-89b6-55c19f0fef51",
+        "6a16f34c-f633-85ff-aac4-c3167f2bf59d",
+        "6d9eb15b-50c4-6937-f5b7-682a550013aa",
+        "b7db81b8-4042-3666-0dca-cd29b130b222",
+        "fa7e8baa-6fbb-156a-94b0-4f6afcf70f4c",
+        "beecf4fc-71a9-7c12-c800-ef7b72c811cb"
+    ],
+    "document_ids": [
+        "d08eefe7-a3fc-563c-ba8c-a7d4c990eb3a"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 65th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:25-06:00",
+    "timestamp": "2023-09-24T02:01:20-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 35428,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35428",
+    "title": "Jean Baptiste Le Prince",
+    "sort_title": "Le Prince, Jean Baptiste",
+    "alt_titles": [
+        "Jean-Baptiste Le Prince",
+        "Jean B. Leprince",
+        "Jean Baptiste Leprince",
+        "Jean Babtiste Le Prince"
+    ],
+    "is_artist": true,
+    "birth_date": 1734,
+    "death_date": 1781,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Baptiste Le Prince",
+            "Le Prince, Jean Baptiste",
+            "Jean-Baptiste Le Prince",
+            "Jean B. Leprince",
+            "Jean Baptiste Leprince",
+            "Jean Babtiste Le Prince"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:57:27-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

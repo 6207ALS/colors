@@ -1,0 +1,31 @@
+{
+    "id": 916,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/916",
+    "title": "Edward Anthony",
+    "sort_title": "Anthony, Edward",
+    "alt_titles": [
+        "E. D. Anthony"
+    ],
+    "is_artist": true,
+    "birth_date": 1818,
+    "death_date": 1888,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edward Anthony",
+            "Anthony, Edward",
+            "E. D. Anthony"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-09-19T11:16:13-05:00",
+    "updated_at": "2022-03-15T16:46:38-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

@@ -1,0 +1,40 @@
+{
+    "id": 4940,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4940",
+    "title": "Paintings by Henri Caro-Delvaille",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1919-01-07T00:00:00-06:00",
+    "aic_end_at": "1919-02-06T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "3187d3f3-d139-f155-6d3b-364154a7277f",
+    "alt_image_ids": [
+        "9a74a5dc-68c9-b41a-c41d-539a346a3687"
+    ],
+    "document_ids": [
+        "301b7fb4-c893-f61f-b0f9-11e96192f1bf"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Henri Caro-Delvaille"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:11-06:00",
+    "timestamp": "2023-09-24T02:01:29-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 78108,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/78108",
+    "is_boosted": false,
+    "title": "Jug",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAC0sKz0tIDAuLDQxMTU0NDc0NDY3Nzg4OF4zE0gtIVg4IVM9LVZJQXlYQGptb29zdol6coGBg6uvsrW0tr7CxcDCxMfLzcjJzNHS0wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIDAUxCEEymI4DNI8UpRAlFVNFxYCADs=",
+        "width": 2194,
+        "height": 2250,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1920.211",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1830,
+    "date_display": "1800\u201330",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 19th century)\nNew England",
+    "place_of_origin": "New England",
+    "description": null,
+    "dimensions": "H.: 13.4 cm (5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 13.4,
+            "height_in": 5.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware",
+    "inscriptions": null,
+    "credit_line": "Gift of Emma B. Hodge",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.0573,
+    "color": {
+        "h": 213,
+        "l": 57,
+        "s": 1,
+        "percentage": 0.1120413606785565,
+        "population": 817
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "vessel",
+        "earthenware",
+        "american decorative arts",
+        "american arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-27",
+    "classification_title": "vessel",
+    "alt_classification_ids": [
+        "TM-2190",
+        "TM-2191",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-27",
+        "TM-2190",
+        "TM-2191",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vessel",
+        "american decorative arts",
+        "american arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9f220093-5d9b-c95a-53c3-ece0a0b509d6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1920.211"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jug"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:20:46-05:00",
+    "timestamp": "2023-09-24T00:53:50-05:00"
+}

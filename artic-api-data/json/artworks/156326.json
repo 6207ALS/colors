@@ -1,0 +1,188 @@
+{
+    "id": 156326,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/156326",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAQAFAPIAAE1NT05OTk5PUF1dX19eXwAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEOAJBCQA7",
+        "width": 583,
+        "height": 2250,
+        "alt_text": "A work made of cotton, plain weave; resist printed."
+    },
+    "main_reference_number": "1978.392",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1925,
+    "date_display": "Meiji period (1868\u20131912)/ Taish\u00f4 period (1912\u20131926), 1875/1925",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Japan",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "174.1 \u00d7 33.3 cm (68 1/2 \u00d7 13 1/8 in.); Repeat: H.: 29.4 cm (11 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33.3,
+            "width_in": 13.125,
+            "height_cm": 174.1,
+            "height_in": 68.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 29.4,
+            "height_in": 11.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; resist printed",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Brooks McCormick",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.7533,
+    "color": {
+        "h": 343,
+        "l": 63,
+        "s": 2,
+        "percentage": 0.14167048648222885,
+        "population": 3885
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "meiji",
+        "textile",
+        "asian",
+        "Japanism",
+        "weaving - printed",
+        "weaving"
+    ],
+    "style_id": "TM-5223",
+    "style_title": "meiji",
+    "alt_style_ids": [
+        "TM-4694",
+        "TM-5181"
+    ],
+    "style_ids": [
+        "TM-5223",
+        "TM-4694",
+        "TM-5181"
+    ],
+    "style_titles": [
+        "meiji",
+        "asian",
+        "Japanism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "00633219-0a18-1b42-4fbb-e6697c18a422",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.392"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-01T13:51:10-05:00",
+    "updated_at": "2023-08-01T13:55:56-05:00",
+    "timestamp": "2023-09-24T01:30:39-05:00"
+}

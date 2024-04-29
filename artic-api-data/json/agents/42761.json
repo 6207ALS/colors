@@ -1,0 +1,31 @@
+{
+    "id": 42761,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42761",
+    "title": "Frank Charles Peyraud",
+    "sort_title": "Peyraud, Frank Charles",
+    "alt_titles": [
+        "Frank C. Peyraud"
+    ],
+    "is_artist": true,
+    "birth_date": 1856,
+    "death_date": 1948,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frank Charles Peyraud",
+            "Peyraud, Frank Charles",
+            "Frank C. Peyraud"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:53-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

@@ -1,0 +1,173 @@
+{
+    "id": 109620,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109620",
+    "is_boosted": false,
+    "title": "Portrait of Daniel Hudson Burnham",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADwsH0AzI00/KVA+JE9CKVlLNGBRNoNvQIZxTYB2T4V1T4x8Uo9+VIh9WKmRY72vdcGwecWxe8q5f8u9hwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEAIweA8yRFNDQNJSoEsRggAOw==",
+        "width": 1920,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1987.251",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1930,
+    "date_display": "1920\u201330",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Arvid Frederik Nyholm\nAmerican, born Sweden, 1866\u20131927\nCopy after Anders Leonard Zorn\nSwedish, 1860\u20131920",
+    "place_of_origin": "Sweden",
+    "description": null,
+    "dimensions": "76.2 \u00d7 63.5 cm (30 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 76.2,
+            "height_in": 30,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.611,
+    "color": {
+        "h": 45,
+        "l": 44,
+        "s": 52,
+        "percentage": 0.009485114373670283,
+        "population": 79
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Ryerson Library Reading Room",
+    "gallery_id": 2147472240,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 19493,
+    "artist_title": "Arvid Frederik Nyholm",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        19493
+    ],
+    "artist_titles": [
+        "Arvid Frederik Nyholm"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "oil paint (paint)",
+        "painting",
+        "canvas",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3124"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3124"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "000a60f9-baa8-3f20-3357-690f6ca0803a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.251"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Daniel Hudson Burnham"
+            ],
+            "weight": 873,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:17:22-05:00",
+    "timestamp": "2023-09-24T01:09:18-05:00"
+}

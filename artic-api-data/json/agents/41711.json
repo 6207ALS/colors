@@ -1,0 +1,33 @@
+{
+    "id": 41711,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41711",
+    "title": "Ernest Bonnencontre",
+    "sort_title": "Bonnencontre, Ernest",
+    "alt_titles": [
+        "Ernest Courtois",
+        "Ernest de Bonnencontre"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ernest Bonnencontre",
+            "Bonnencontre, Ernest",
+            "Ernest Courtois",
+            "Ernest de Bonnencontre"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:19-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 42278,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42278",
+    "title": "Friedrich Nerly",
+    "sort_title": "Nerly, Friedrich",
+    "alt_titles": [
+        "Christian Friedrich Nerly",
+        "Christian Friedrich (Friedrich) Nehrlich",
+        "Fritz (Friedrich) Nerly",
+        "Federico (Friedrich) Nerly",
+        "Friedrich Nerly, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1807,
+    "death_date": 1878,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Friedrich Nerly",
+            "Nerly, Friedrich",
+            "Christian Friedrich Nerly",
+            "Christian Friedrich (Friedrich) Nehrlich",
+            "Fritz (Friedrich) Nerly",
+            "Federico (Friedrich) Nerly",
+            "Friedrich Nerly, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:48-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

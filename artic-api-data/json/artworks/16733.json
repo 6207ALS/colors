@@ -1,0 +1,194 @@
+{
+    "id": 16733,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16733",
+    "is_boosted": false,
+    "title": "Road in Provence",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAALqqlLyslb+slL+tlcGqk8y1mcu0nsu3ns23nMu5n8+7n9G7ndC4n9K6oNO9oNK9otW+pNi/pNfAotbApdfApdfBpdjCp9rDp9rDqQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoHVREVRJijAkyAEET9EwhLNMmBECADs=",
+        "width": 8004,
+        "height": 7941,
+        "alt_text": "A work made of watercolor and graphite on tan wove paper."
+    },
+    "main_reference_number": "1933.1221",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1880,
+    "date_end": 1890,
+    "date_display": "c. 1885",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Paul C\u00e9zanne\nFrench, 1839-1906",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "50.2 \u00d7 50.4 cm (19 13/16 \u00d7 19 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.4,
+            "width_in": 19.8426,
+            "height_cm": 50.2,
+            "height_in": 19.7638,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor and graphite on tan wove paper",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 229,
+        "l": 40,
+        "s": 45,
+        "percentage": 1.5733223930787409e-6,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40482,
+    "artist_title": "Paul Cezanne",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40482
+    ],
+    "artist_titles": [
+        "Paul Cezanne"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "watercolor",
+        "landscapes",
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-39",
+    "classification_title": "watercolor",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-39",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "watercolor",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": "TM-8657",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8657"
+    ],
+    "subject_titles": [
+        "landscapes"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6867d847-c67c-28eb-8ca5-420c168c28f7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.1221"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Road in Provence"
+            ],
+            "weight": 1024,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:36:29-05:00",
+    "timestamp": "2023-09-24T00:27:10-05:00"
+}

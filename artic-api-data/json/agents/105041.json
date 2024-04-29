@@ -1,0 +1,28 @@
+{
+    "id": 105041,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/105041",
+    "title": "Sara Fina Tafoya",
+    "sort_title": "Tafoya, Sara Fina",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1863,
+    "death_date": 1949,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sara Fina Tafoya",
+            "Tafoya, Sara Fina"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-20T16:13:33-05:00",
+    "updated_at": "2022-03-15T16:43:59-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

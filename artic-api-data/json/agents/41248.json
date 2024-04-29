@@ -1,0 +1,31 @@
+{
+    "id": 41248,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41248",
+    "title": "George Hayter",
+    "sort_title": "Hayter, George",
+    "alt_titles": [
+        "Sir George Hayter"
+    ],
+    "is_artist": true,
+    "birth_date": 1792,
+    "death_date": 1871,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Hayter",
+            "Hayter, George",
+            "Sir George Hayter"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-27T14:44:17-05:00",
+    "updated_at": "2022-03-15T16:42:10-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

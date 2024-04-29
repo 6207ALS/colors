@@ -1,0 +1,179 @@
+{
+    "id": 22216,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22216",
+    "is_boosted": false,
+    "title": "Penitence of Saint Jerome",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHp6WYmHapCEaaWbf6mmi62rk6+vlrSxmsC+qMXEsNHQv9XTwNnYxt7cyt/dywAAACH5BAAAAAAALAAAAAADAAUAAAQLsC1XgCHhDIFUYhEAOw==",
+        "width": 2336,
+        "height": 3504,
+        "alt_text": "A work made of metalcut with hand-coloring on paper."
+    },
+    "main_reference_number": "1936.19",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1480,
+    "date_end": 1480,
+    "date_display": "c. 1480",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Unknown artist\nGerman, active c. 1480",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Plate: 12 \u00d7 8.2 cm (4 3/4 \u00d7 3 1/4 in.); Sheet: 14 \u00d7 10.4 cm (5 9/16 \u00d7 4 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 8.2,
+            "width_in": 3.2284,
+            "height_cm": 12,
+            "height_in": 4.7245,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.4,
+            "width_in": 4.0945,
+            "height_cm": 14,
+            "height_in": 5.5119,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Metalcut with hand-coloring on paper",
+    "inscriptions": null,
+    "credit_line": "The Joseph Brooks Fair Collection",
+    "catalogue_display": "<p>Schreiber 2682</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.6187,
+    "color": {
+        "h": 48,
+        "l": 46,
+        "s": 51,
+        "percentage": 0.0008439649473225212,
+        "population": 9
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "dotted/metal cut",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-237",
+    "classification_title": "dotted/metal cut",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-237",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "dotted/metal cut",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7b2a6d88-1449-1716-e457-7a7c3c36c28c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1936.19"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Penitence of Saint Jerome"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:23:11-05:00",
+    "timestamp": "2023-09-24T00:29:42-05:00"
+}

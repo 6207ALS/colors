@@ -1,0 +1,28 @@
+{
+    "id": 3185,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3185",
+    "title": "Pierre Brebiette",
+    "sort_title": "Brebiette, Pierre",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1598,
+    "death_date": 1660,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre Brebiette",
+            "Brebiette, Pierre"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:32-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

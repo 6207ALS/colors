@@ -1,0 +1,170 @@
+{
+    "id": 68922,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/68922",
+    "is_boosted": false,
+    "title": "Pendant, curved with two rabbits.",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAGBdTG9qV3FuXHV3dnN2eHZ4eYWGhoaHh4eIhIeIhYmLi4qMjIuNjYuNjouMj4yNjoyNj4yOjoyOj5WThouMkI2OkI6PkYyOko+RkI+QkY+Qko+RkpCRkZCSkZeXkZeYlCH5BAAAAAAALAAAAAAHAAUAAAUdoFU5FwU92fZNXhZpiQAESFMdA1EYyyNxHQxDEQIAOw==",
+        "width": 3000,
+        "height": 2173,
+        "alt_text": "A work made of jade."
+    },
+    "main_reference_number": "1950.290",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -1600,
+    "date_end": -1050,
+    "date_display": "Shang dynasty (c.1600\u20131050 BC)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "5.9 \u00d7 1.3 \u00d7 1 cm (2 5/16 \u00d7 1/2 \u00d7 3/8 in.); 1 \u00d7 1.3 \u00d7 5.9 cm (3/8 \u00d7 1/2 \u00d7 2 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1,
+            "depth_in": 0.375,
+            "width_cm": 1.3,
+            "width_in": 0.5,
+            "height_cm": 5.9,
+            "height_in": 2.3125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 1.3,
+            "width_in": 0.5,
+            "height_cm": 1,
+            "height_in": 0.375,
+            "diameter_cm": 5.9,
+            "diameter_in": 2.3125,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Jade",
+    "inscriptions": null,
+    "credit_line": "Edward and Louise B. Sonnenschein Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 193,
+        "l": 54,
+        "s": 0,
+        "percentage": 0.10165669581224115,
+        "population": 6627
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "jade",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-461",
+    "classification_title": "jade",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-461",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "jade",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2115f427-5975-17cf-dc59-38e1acf7a26c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.290"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pendant, curved with two rabbits."
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-02T08:47:58-05:00",
+    "updated_at": "2023-04-07T14:19:23-05:00",
+    "timestamp": "2023-09-24T00:50:21-05:00"
+}

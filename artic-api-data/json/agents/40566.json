@@ -1,0 +1,33 @@
+{
+    "id": 40566,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40566",
+    "title": "James Ensor",
+    "sort_title": "Ensor, James",
+    "alt_titles": [
+        "Baron James Ensor",
+        "Sidney Edouard Ensor"
+    ],
+    "is_artist": true,
+    "birth_date": 1860,
+    "death_date": 1949,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Ensor",
+            "Ensor, James",
+            "Baron James Ensor",
+            "Sidney Edouard Ensor"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:20-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

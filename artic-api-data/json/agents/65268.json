@@ -1,0 +1,28 @@
+{
+    "id": 65268,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65268",
+    "title": "Maren Hassinger",
+    "sort_title": "Hassinger, Maren",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1947,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maren Hassinger",
+            "Hassinger, Maren"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-30T14:17:28-05:00",
+    "updated_at": "2020-06-30T14:20:33-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

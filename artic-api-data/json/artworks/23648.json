@@ -1,0 +1,183 @@
+{
+    "id": 23648,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/23648",
+    "is_boosted": false,
+    "title": "Two Magicians and a Child, from Scherzi",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKCbjq+qnLm0qb+7r8fDtsjEus7KvtHOwtTRxNXRxtnVy+bi1+bj1+fj1+fj2Ofk2Ofk2ejl2ejl2unl2unm2+rm2+vn3Ovo3O3q4QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYBNNkQNJiKFglBUAQwJNhUAc1HJVDPWEADs=",
+        "width": 2313,
+        "height": 2053,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1965.456",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1735,
+    "date_end": 1740,
+    "date_display": "1735\u201340",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Giambattista Tiepolo\nItalian, 1696-1770",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "Image/plate: 14 \u00d7 18.7 cm (5 9/16 \u00d7 7 3/8 in.); Sheet: 24.9 \u00d7 28 cm (9 13/16 \u00d7 11 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.7,
+            "width_in": 7.3623,
+            "height_cm": 14,
+            "height_in": 5.5119,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 28,
+            "width_in": 11.0237,
+            "height_cm": 24.9,
+            "height_in": 9.8032,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": "<p>Rizzi 25</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1966,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.2945,
+    "color": {
+        "h": 48,
+        "l": 54,
+        "s": 23,
+        "percentage": 0.001903058214550783,
+        "population": 12
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36972,
+    "artist_title": "Giambattista Tiepolo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36972
+    ],
+    "artist_titles": [
+        "Giambattista Tiepolo"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8cd24268-6cc4-9c4d-a5dc-549f55c8ac1c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1965.456"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Two Magicians and a Child, from Scherzi"
+            ],
+            "weight": 126,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-09-23T23:17:48-05:00",
+    "timestamp": "2023-09-24T00:30:36-05:00"
+}

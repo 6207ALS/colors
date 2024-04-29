@@ -1,0 +1,177 @@
+{
+    "id": 113985,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/113985",
+    "is_boosted": false,
+    "title": "Brooke",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAMLEt8vNwdLTx9jaztrc0N7g1ODi1uDi1+Pl2uTm2+Xn2+bo3ejq3+nr4Ovs4uvt4u7w5fHz6PHy6fP16vT26/X26/f57fb47vf57/j67/n68fz99f7/9f3+9gAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdIOYARaVJ2xIQyhV11DEwE8RlSwJBj9UMAgPCEAIAOw==",
+        "width": 3000,
+        "height": 2063,
+        "alt_text": "A work made of graphite on white wove paper."
+    },
+    "main_reference_number": "1990.511.4",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1975,
+    "date_end": 1975,
+    "date_display": "1975",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Alex Katz\nAmerican, born 1927",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "36.9 \u00d7 55.9 cm (14 9/16 \u00d7 22 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.9,
+            "width_in": 22.0079,
+            "height_cm": 36.9,
+            "height_in": 14.5276,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Jalane and Richard Davidson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "Art \u00a9 Alex Katz / Licensed by VAGA, New York, NY",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.8406,
+    "color": {
+        "h": 68,
+        "l": 52,
+        "s": 8,
+        "percentage": 0.009629233533498463,
+        "population": 47
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35214,
+    "artist_title": "Alex Katz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35214
+    ],
+    "artist_titles": [
+        "Alex Katz"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "eb89c2fe-6323-2886-aaad-f64f04cca39a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.511.4"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Brooke"
+            ],
+            "weight": 71,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:09-05:00",
+    "updated_at": "2023-04-10T11:07:14-05:00",
+    "timestamp": "2023-09-24T01:11:02-05:00"
+}

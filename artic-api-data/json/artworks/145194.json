@@ -1,0 +1,185 @@
+{
+    "id": 145194,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145194",
+    "is_boosted": false,
+    "title": "Portfolio Box",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHh6bHp8bn5/cIOEdoWGdpCRgZCSgpeYh5iZiZmbipyci5+hjp+hj6CikKGikqmqmKqrmaqqm6usmqutm7KyorO0o7S1ob+/qgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoIQcDhUAjxEl0NQMS8UUwmUpxBACADs=",
+        "width": 2360,
+        "height": 2280,
+        "alt_text": "A work made of offset print on card."
+    },
+    "main_reference_number": "1996.340.12",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1976,
+    "date_end": 1976,
+    "date_display": "1976",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Terry Allen\nAmerican, born 1943",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "23.4 \u00d7 23.4 \u00d7 3.9 cm (9 1/4 \u00d7 9 1/4 \u00d7 1 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 3.9,
+            "depth_in": 1.5355,
+            "width_cm": 23.4,
+            "width_in": 9.2126,
+            "height_cm": 23.4,
+            "height_in": 9.2126,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Offset print on card",
+    "inscriptions": null,
+    "credit_line": "Gift of Jeanette Pasin Sloan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.2149,
+    "color": {
+        "h": 60,
+        "l": 48,
+        "s": 10,
+        "percentage": 0.046633498590793965,
+        "population": 320
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 541,
+    "artist_title": "Terry Allen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        541
+    ],
+    "artist_titles": [
+        "Terry Allen"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "offset lithograph",
+        "offset lithography",
+        "lithography",
+        "printing",
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-689",
+    "classification_title": "offset lithograph",
+    "alt_classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-689",
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "offset lithograph",
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-3872",
+    "alt_technique_ids": [
+        "TM-3859",
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3872",
+        "TM-3859",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "offset lithography",
+        "lithography",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "cba5d575-05bd-b326-ea6c-85c8a1939aa6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.340.12"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portfolio Box"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:15-05:00",
+    "updated_at": "2023-04-10T08:10:44-05:00",
+    "timestamp": "2023-09-24T01:24:52-05:00"
+}

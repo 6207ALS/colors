@@ -1,0 +1,37 @@
+{
+    "id": 42485,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42485",
+    "title": "Johan van der Hagen",
+    "sort_title": "Hagen, Johan van der",
+    "alt_titles": [
+        "J. C. van der Hagen",
+        "Joris Cornelisz. van der Hagen",
+        "Joris Cornelisz. van der Haagen",
+        "Joris van der Haagen"
+    ],
+    "is_artist": true,
+    "birth_date": 1676,
+    "death_date": 1750,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johan van der Hagen",
+            "Hagen, Johan van der",
+            "J. C. van der Hagen",
+            "Joris Cornelisz. van der Hagen",
+            "Joris Cornelisz. van der Haagen",
+            "Joris van der Haagen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:33:04-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

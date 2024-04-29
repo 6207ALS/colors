@@ -1,0 +1,42 @@
+{
+    "id": 6516,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6516",
+    "title": "The Artist Looks at the Landscape",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1974-06-22T00:00:00-05:00",
+    "aic_end_at": "1974-08-25T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        31321,
+        6792
+    ],
+    "artwork_titles": [
+        "Picture Depicting Adam and Eve (Needlework)",
+        "A Falconer with Two Ladies and a Foot Soldier"
+    ],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "233efb7a-386f-7d1b-d635-b4142620033a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Artist Looks at the Landscape"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:17:27-06:00",
+    "timestamp": "2023-09-24T02:01:49-05:00"
+}

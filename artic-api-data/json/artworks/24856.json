@@ -1,0 +1,181 @@
+{
+    "id": 24856,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/24856",
+    "is_boosted": false,
+    "title": "Untitled, from the Europa Series",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJGPi5OQi5aUj5iWkZiXkauporSyq7q2rri2sMnFv83KxM/NxtbUzNjW0eDe1unm3Orn3uro3+vo3+3r4e/s5PHv5PPv5vf06vj17Pn27f778v/78//+9QAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4KZQmoYlwrAQ0RE0gDFxTIE4l5VB0lOFADs=",
+        "width": 3000,
+        "height": 2543,
+        "alt_text": "A work made of brush and black ink on ivory wove paper."
+    },
+    "main_reference_number": "1966.7",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1956,
+    "date_end": 1960,
+    "date_display": "1956/60",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Reuben Nakian\nAmerican, 1897-1986",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "35.7 \u00d7 42.1 cm (14 1/16 \u00d7 16 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 42.1,
+            "width_in": 16.5749,
+            "height_cm": 35.7,
+            "height_in": 14.0552,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brush and black ink on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of B. C. Holland Gallery",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.5646,
+    "color": {
+        "h": 39,
+        "l": 51,
+        "s": 4,
+        "percentage": 0.004153500071440202,
+        "population": 25
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35954,
+    "artist_title": "Reuben Nakian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35954
+    ],
+    "artist_titles": [
+        "Reuben Nakian"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "ink",
+        "coating (material)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3238"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "coating (material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b0c18855-a102-7f0d-9738-524b5383da38",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1966.7"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled, from the Europa Series"
+            ],
+            "weight": 107,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:16:37-05:00",
+    "timestamp": "2023-09-24T00:31:14-05:00"
+}

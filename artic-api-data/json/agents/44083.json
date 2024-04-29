@@ -1,0 +1,33 @@
+{
+    "id": 44083,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44083",
+    "title": "D. and J. Henderson Company",
+    "sort_title": "D. and J. Henderson Company",
+    "alt_titles": [
+        "D. & J. Henderson Company",
+        "Henderson (D. & J.) Co."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "D. and J. Henderson Company",
+            "D. and J. Henderson Company",
+            "D. & J. Henderson Company",
+            "Henderson (D. & J.) Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:31:22-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 31435,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31435",
+    "title": "Martin Johnson Heade",
+    "sort_title": "Heade, Martin Johnson",
+    "alt_titles": [
+        "Martin J. Heade"
+    ],
+    "is_artist": true,
+    "birth_date": 1819,
+    "death_date": 1904,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Martin Johnson Heade",
+            "Heade, Martin Johnson",
+            "Martin J. Heade"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Martin Johnson Heade",
+            "Heade, Martin Johnson",
+            "Martin J. Heade"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-05T15:43:48-05:00",
+    "updated_at": "2023-07-05T15:45:49-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

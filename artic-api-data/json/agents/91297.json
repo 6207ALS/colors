@@ -1,0 +1,31 @@
+{
+    "id": 91297,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/91297",
+    "title": "Effie Hegermann-Lindencrone",
+    "sort_title": "Hegermann-Lindencrone, Effie",
+    "alt_titles": [
+        "Effie Hegermann-Lindencrone"
+    ],
+    "is_artist": true,
+    "birth_date": 1860,
+    "death_date": 1945,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Effie Hegermann-Lindencrone",
+            "Hegermann-Lindencrone, Effie",
+            "Effie Hegermann-Lindencrone"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:22:40-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 227588,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/227588",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGNkY21saYSCfouLh5+blJycl5ucnKCfm6Ogl6+so6yrpLe2r7q1rb+7sMjFu9DLv9zYzd7b0uPe0uTh1e3m2e3r3vPt4fbw4/Tx5gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4JNU0+UEhdIggDFAjHAskkVEGBUCADs=",
+        "width": 3000,
+        "height": 2989,
+        "alt_text": "A work made of brush and black ink and white opaque watercolor  with thin wove paper collaged elements on cream wove paper."
+    },
+    "main_reference_number": "2015.225",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1950,
+    "date_display": "1950",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "James Brooks\nAmerican, 1906-1992",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "57.2 \u00d7 57.3 cm (22 9/16 \u00d7 22 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 57.3,
+            "width_in": 22.5591,
+            "height_cm": 57.2,
+            "height_in": 22.5197,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brush and black ink and white opaque watercolor  with thin wove paper collaged elements on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the James and Charlotte Brooks Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2015,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.4034,
+    "color": {
+        "h": 213,
+        "l": 48,
+        "s": 2,
+        "percentage": 0.0032480370558662375,
+        "population": 23
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 3352,
+    "artist_title": "James Brooks",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        3352
+    ],
+    "artist_titles": [
+        "James Brooks"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "watercolor",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-39",
+    "classification_title": "watercolor",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-39",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "watercolor",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e97dd4b6-4bfa-b367-6fda-eb98ae90bd98",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.225"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:11:32-05:00",
+    "timestamp": "2023-09-24T01:48:18-05:00"
+}

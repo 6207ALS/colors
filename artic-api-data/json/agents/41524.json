@@ -1,0 +1,33 @@
+{
+    "id": 41524,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41524",
+    "title": "Johann Friedrich August Tischbein",
+    "sort_title": "Tischbein, Johann Friedrich August",
+    "alt_titles": [
+        "Johann Friedrich A. Tischbein",
+        "Friedrich Tischbein"
+    ],
+    "is_artist": true,
+    "birth_date": 1750,
+    "death_date": 1812,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Friedrich August Tischbein",
+            "Tischbein, Johann Friedrich August",
+            "Johann Friedrich A. Tischbein",
+            "Friedrich Tischbein"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:21-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

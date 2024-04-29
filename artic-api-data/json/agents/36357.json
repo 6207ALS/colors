@@ -1,0 +1,33 @@
+{
+    "id": 36357,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36357",
+    "title": "Paul Revere Jr.",
+    "sort_title": "Revere, Paul, Jr.",
+    "alt_titles": [
+        "Paul Revere, II",
+        "Paul Revere"
+    ],
+    "is_artist": true,
+    "birth_date": 1734,
+    "death_date": 1818,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul Revere Jr.",
+            "Revere, Paul, Jr.",
+            "Paul Revere, II",
+            "Paul Revere"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-17T17:18:22-05:00",
+    "updated_at": "2020-08-17T17:20:44-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

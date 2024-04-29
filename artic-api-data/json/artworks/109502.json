@@ -1,0 +1,180 @@
+{
+    "id": 109502,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109502",
+    "is_boosted": false,
+    "title": "Marrow Scoop",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAGdlZ2poam1rbG1rbW5tbm9tbn18fH9+foGAgYaDgISDg4WFhYaFhY6MipaUkZiXlpiYl5mZmJuamKKjo6SjoaajoKWnpaiqqKqsqaqsqqutqqutq6yuq62vrLCyr7O1sbO1srS2s7W3tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQEBAQCgQBgEAQrFgMBaKg0FSoUAeEUeiselwMJnMxTIRiUIg0MfT0QQBADs=",
+        "width": 3000,
+        "height": 1723,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1989.449",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1859,
+    "date_end": 1862,
+    "date_display": "1859\u201362",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Gale & Willis\nAmerican, 1859\u20131862\nNew York",
+    "place_of_origin": "New York City",
+    "description": null,
+    "dimensions": "H.: 26.4 cm (10 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 26.4,
+            "height_in": 10.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver",
+    "inscriptions": null,
+    "credit_line": "Mrs. C. Phillip Miller and the Winnetka Associates of the Woman's Board funds; Joan Monroe Wendell fund in memory of J. Hampton Monroe",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.788,
+    "color": {
+        "h": 316,
+        "l": 44,
+        "s": 0,
+        "percentage": 0.5539052772957658,
+        "population": 2260
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 113438,
+    "artist_title": "Gale & Willis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        113438
+    ],
+    "artist_titles": [
+        "Gale & Willis"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "utensil",
+        "silver",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-51",
+    "classification_title": "utensil",
+    "alt_classification_ids": [
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-51",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "utensil",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2436"
+    ],
+    "material_titles": [
+        "silver"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "49927d78-d9d2-1fa3-906a-b0ea68846086",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.449"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Marrow Scoop"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:17:23-05:00",
+    "timestamp": "2023-09-24T01:09:15-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 10359,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/10359",
+    "title": "Earl Gross",
+    "sort_title": "Gross, Earl",
+    "alt_titles": [
+        "Earl Clifford Gross"
+    ],
+    "is_artist": true,
+    "birth_date": 1903,
+    "death_date": 1993,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Earl Gross",
+            "Gross, Earl",
+            "Earl Clifford Gross"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:16:17-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

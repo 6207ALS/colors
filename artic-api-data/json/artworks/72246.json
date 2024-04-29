@@ -1,0 +1,180 @@
+{
+    "id": 72246,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72246",
+    "is_boosted": false,
+    "title": "Red-Blue Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAF1RTmddWnFWUXpeWYBaVJKRkKusrL6tqsC2tMzLy8zOzdPU1NbZ2djZ2ePj4+Xk5OXl5Obl5ebm5ufm5unn5ujo6Onp6enr6urq6urq6+zr6+zs7Ozt7e3t7e/v7/Ly8yH5BAAAAAAALAAAAAAHAAUAAAUdIEcd3tdZWUQglyZVjDAok/M0AVAkloUthgRkEwIAOw==",
+        "width": 6668,
+        "height": 4992,
+        "alt_text": "A work made of painted plywood."
+    },
+    "main_reference_number": "1988.274",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1921,
+    "date_display": "Designed 1918, made 1920/21",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Gerrit Rietveld\nDutch, 1888-1964",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "85.7 \u00d7 66 \u00d7 81.3 cm (33 3/4 \u00d7 26 \u00d7 32 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 81.3,
+            "depth_in": 32,
+            "width_cm": 66,
+            "width_in": 26,
+            "height_cm": 85.7,
+            "height_in": 33.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Painted plywood",
+    "inscriptions": null,
+    "credit_line": "Through prior gifts of Mrs. Albert J. Beveridge, Florene May Schoenborn and Samuel A. Marx; through prior acquisition of the Richard T. Crane Jr. Memorial, and the Mary Waller Langhorne funds; Richard T. Crane Jr. Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / c/o Pictoright Amsterdam",
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.6454,
+    "color": {
+        "h": 43,
+        "l": 41,
+        "s": 54,
+        "percentage": 0.0007519744027913289,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 21814,
+    "artist_title": "Gerrit Thomas Rietveld",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21814
+    ],
+    "artist_titles": [
+        "Gerrit Thomas Rietveld"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "chair",
+        "furniture",
+        "seating",
+        "furniture",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11745",
+    "classification_title": "chair",
+    "alt_classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11745",
+        "TM-466",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "chair",
+        "seating",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "043a1561-580e-5f26-80be-c387b1f3bc6a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [
+        848
+    ],
+    "section_titles": [
+        "48 \u00a0Gerrit Rietveld, Red-Blue Chair, designed 1918, manufactured 1920/21"
+    ],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.274"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Red-Blue Chair"
+            ],
+            "weight": 146,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:46:17-05:00",
+    "timestamp": "2023-09-24T00:51:35-05:00"
+}

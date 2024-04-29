@@ -1,0 +1,41 @@
+{
+    "id": 2623,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2623",
+    "title": "Cristallerie Daum",
+    "sort_title": "Cristallerie Daum",
+    "alt_titles": [
+        "Daum Glassworks",
+        "Daum Fr\u00e8res",
+        "Galeries Daum",
+        "Manufaktur Daum in Nancy",
+        "Verrerie Daum",
+        "Verrerie de Nancy"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cristallerie Daum",
+            "Cristallerie Daum",
+            "Daum Glassworks",
+            "Daum Fr\u00e8res",
+            "Galeries Daum",
+            "Manufaktur Daum in Nancy",
+            "Verrerie Daum",
+            "Verrerie de Nancy"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:19:19-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

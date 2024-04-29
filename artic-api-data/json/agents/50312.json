@@ -1,0 +1,31 @@
+{
+    "id": 50312,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/50312",
+    "title": "Bill Bollinger",
+    "sort_title": "Bollinger, Bill",
+    "alt_titles": [
+        "William Bollinger"
+    ],
+    "is_artist": true,
+    "birth_date": 1939,
+    "death_date": 1988,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bill Bollinger",
+            "Bollinger, Bill",
+            "William Bollinger"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-14T10:54:49-05:00",
+    "updated_at": "2022-10-14T10:55:53-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

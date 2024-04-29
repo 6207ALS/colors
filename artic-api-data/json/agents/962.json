@@ -1,0 +1,31 @@
+{
+    "id": 962,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/962",
+    "title": "Karel Appel",
+    "sort_title": "Appel, Karel",
+    "alt_titles": [
+        "Christiaan Karel Appel"
+    ],
+    "is_artist": true,
+    "birth_date": 1921,
+    "death_date": 2006,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Karel Appel",
+            "Appel, Karel",
+            "Christiaan Karel Appel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-02-21T10:01:28-06:00",
+    "updated_at": "2022-03-15T16:46:38-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

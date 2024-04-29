@@ -1,0 +1,31 @@
+{
+    "id": 51537,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51537",
+    "title": "Jean-Marc Bustamante",
+    "sort_title": "Bustamante, Jean-Marc",
+    "alt_titles": [
+        "Jean Marc Bustamante"
+    ],
+    "is_artist": true,
+    "birth_date": 1952,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean-Marc Bustamante",
+            "Bustamante, Jean-Marc",
+            "Jean Marc Bustamante"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-01-26T09:11:15-06:00",
+    "updated_at": "2021-01-26T09:15:53-06:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

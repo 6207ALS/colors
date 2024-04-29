@@ -1,0 +1,39 @@
+{
+    "id": 17492,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/17492",
+    "title": "Francesco Mochi",
+    "sort_title": "Mochi, Francesco",
+    "alt_titles": [
+        "Francesco Mocchi"
+    ],
+    "is_artist": true,
+    "birth_date": 1580,
+    "death_date": 1654,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Francesco Mochi",
+            "Mochi, Francesco",
+            "Francesco Mocchi"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francesco Mochi",
+            "Mochi, Francesco",
+            "Francesco Mocchi"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:57-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

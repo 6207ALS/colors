@@ -1,0 +1,33 @@
+{
+    "id": 6483,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6483",
+    "title": "Peter de Lory",
+    "sort_title": "Lory, Peter de",
+    "alt_titles": [
+        "Peter DeLory",
+        "Peter Delory"
+    ],
+    "is_artist": true,
+    "birth_date": 1948,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Peter de Lory",
+            "Lory, Peter de",
+            "Peter DeLory",
+            "Peter Delory"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:16-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

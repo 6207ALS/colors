@@ -1,0 +1,35 @@
+{
+    "id": 51998,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51998",
+    "title": "Abastenia St. Leger Eberle",
+    "sort_title": "Eberle, Abastenia St. Leger",
+    "alt_titles": [
+        "Abastenia S. Eberle",
+        "Abastenia Saint Leger Eberle",
+        "Mary Abastenia St. Leger Eberle"
+    ],
+    "is_artist": true,
+    "birth_date": 1878,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Abastenia St. Leger Eberle",
+            "Eberle, Abastenia St. Leger",
+            "Abastenia S. Eberle",
+            "Abastenia Saint Leger Eberle",
+            "Mary Abastenia St. Leger Eberle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-08-04T16:59:05-05:00",
+    "updated_at": "2023-08-04T17:00:58-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

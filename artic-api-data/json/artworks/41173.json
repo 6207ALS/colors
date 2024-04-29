@@ -1,0 +1,189 @@
+{
+    "id": 41173,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/41173",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGJhXmRjX2dmY2hnZHRzb3x8eISDgIyMiY+Oi5mYlZ+emp+fm5+enKWkoaiopbGwrcfHxMvLyM3MyuHg3gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MNMUiJAETAgR1AYDaEsTggAOw==",
+        "width": 2260,
+        "height": 2913,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "1972.1124",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1959,
+    "date_end": 1959,
+    "date_display": "March 31, 1959",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Francis Haar\nAmerican, born Hungary, 1908\u20131997",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/paper: 50.5 \u00d7 39.1 cm (19 15/16 \u00d7 15 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 39.1,
+            "width_in": 15.3937,
+            "height_cm": 50.5,
+            "height_in": 19.8819,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/paper"
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Gift of Francis Haar",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.7032,
+    "color": {
+        "h": 44,
+        "l": 51,
+        "s": 2,
+        "percentage": 0.033642891628381494,
+        "population": 308
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 34788,
+    "artist_title": "Francis Haar",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34788
+    ],
+    "artist_titles": [
+        "Francis Haar"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "black-and-white photography",
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photograph",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-213",
+        "TM-68",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-213",
+        "TM-68",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photography",
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "d5762e16-5b6e-5607-22f2-6184a01f1ba4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.1124"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:53-05:00",
+    "updated_at": "2023-04-10T13:42:10-05:00",
+    "timestamp": "2023-09-24T00:38:17-05:00"
+}

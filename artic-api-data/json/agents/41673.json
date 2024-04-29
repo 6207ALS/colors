@@ -1,0 +1,39 @@
+{
+    "id": 41673,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41673",
+    "title": "William Merritt Chase",
+    "sort_title": "Chase, William Merritt",
+    "alt_titles": [
+        "William M. Chase"
+    ],
+    "is_artist": true,
+    "birth_date": 1849,
+    "death_date": 1916,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "William Merritt Chase",
+            "Chase, William Merritt",
+            "William M. Chase"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Merritt Chase",
+            "Chase, William Merritt",
+            "William M. Chase"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:18-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

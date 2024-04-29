@@ -1,0 +1,43 @@
+{
+    "id": 3672,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3672",
+    "title": "Vincent van Gogh",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1950-02-01T00:00:00-06:00",
+    "aic_end_at": "1950-04-16T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "65dba9ca-2246-d51c-acae-dcef0f628e1f",
+    "alt_image_ids": [
+        "ab3f4300-8c8b-1377-5acb-0208472ae110",
+        "d6584d48-bb09-f874-e356-f93e51fe7db9",
+        "009b5c7d-09cb-dd5d-c6d4-fc4888a28c08",
+        "08ae8e87-95b8-0bfa-e36a-b1856b8c6cfc"
+    ],
+    "document_ids": [
+        "12f1f401-78e2-f181-3b0b-ba0d4d479c32"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Vincent van Gogh"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:10-06:00",
+    "timestamp": "2023-09-24T02:01:14-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 99590,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99590",
+    "is_boosted": false,
+    "title": "Alone",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHl6aYiCYImJcpCKcpWOdZ2UgJ6ZgJ6YgaCag6WfiKafiqiggqujh7Kqjq2nkQAAACH5BAAAAAAALAAAAAADAAUAAAQLsCAngDKksbDSOBEAOw==",
+        "width": 2098,
+        "height": 3000,
+        "alt_text": "A work made of monotype on ivory wove paper."
+    },
+    "main_reference_number": "1982.1564",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1980,
+    "date_end": 1980,
+    "date_display": "1980",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Matt Phillips\nAmerican, born 1927",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 34.9 \u00d7 22 cm (13 3/4 \u00d7 8 11/16 in.); Sheet: 38.7 \u00d7 27 cm (15 1/4 \u00d7 10 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22,
+            "width_in": 8.6615,
+            "height_cm": 34.9,
+            "height_in": 13.7402,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27,
+            "width_in": 10.63,
+            "height_cm": 38.7,
+            "height_in": 15.2363,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Monotype on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Ivo Kirschen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.8397,
+    "color": {
+        "h": 51,
+        "l": 37,
+        "s": 48,
+        "percentage": 0.0024610780506292974,
+        "population": 25
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 32464,
+    "artist_title": "Matt Phillips",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32464
+    ],
+    "artist_titles": [
+        "Matt Phillips"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "monotype",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-227",
+    "classification_title": "monotype",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-227",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "monotype",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5de792ae-0fa4-29ee-b0a9-9a93d2075606",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1564"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Alone"
+            ],
+            "weight": 61,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:40:41-05:00",
+    "timestamp": "2023-09-24T01:04:11-05:00"
+}

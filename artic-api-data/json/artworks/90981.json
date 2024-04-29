@@ -1,0 +1,178 @@
+{
+    "id": 90981,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/90981",
+    "is_boosted": false,
+    "title": "3-D Squares",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPIAADUzNjY0Nzk3OkJAQ0RCRUZER0dFSAAAACH5BAAAAAAALAAAAAACAAUAAAMHWAYgAmGQBAA7",
+        "width": 2565,
+        "height": 6376,
+        "alt_text": "A work made of wool, plain weave; double cloth."
+    },
+    "main_reference_number": "1989.532",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Bobbi Shortlidge (American, born 1944)\nUnited States, Illinois, Evanston",
+    "place_of_origin": "Illinois",
+    "description": null,
+    "dimensions": "168.9 \u00d7 96 cm (105 7/8 \u00d7 37 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 96,
+            "width_in": 37.75,
+            "height_cm": 168.9,
+            "height_in": 105.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wool, plain weave; double cloth",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Bobbi Shortlidge",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.999,
+    "color": {
+        "h": 317,
+        "l": 60,
+        "s": 2,
+        "percentage": 0.13384812510753125,
+        "population": 2365
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 23910,
+    "artist_title": "Bobbi Shortlidge",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        23910
+    ],
+    "artist_titles": [
+        "Bobbi Shortlidge"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "textile",
+        "weaving",
+        "fiber art",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-10653",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-10653",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "fiber art",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a2eb6847-f90c-06d0-46dd-1f5b8e7c7813",
+    "alt_image_ids": [
+        "e28c5c37-e054-94d4-7af9-cd2899c6a650"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.532"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "3-D Squares"
+            ],
+            "weight": 29,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:43:43-05:00",
+    "timestamp": "2023-09-24T01:00:11-05:00"
+}

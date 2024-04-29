@@ -1,0 +1,177 @@
+{
+    "id": 242800,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/242800",
+    "is_boosted": false,
+    "title": "Maya",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGBxSmBzTWF0T3N+Y3J/ZHWAZHSAZXWAZ3aCZ3eDaXeEaoGJdYOKdoOLeISMeAAAACH5BAAAAAAALAAAAAADAAUAAAQL0BWGwFDipECaWREAOw==",
+        "width": 3637,
+        "height": 6759,
+        "alt_text": "A work made of linen, plain weave; screen printed."
+    },
+    "main_reference_number": "2018.209",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1931,
+    "date_end": 1931,
+    "date_display": "Designed 1931, printed 1948",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Designed by Ruth Reeves (American, 1892-1966)\nManufactured by Morley-Fletcher Ltd (American, mid-20th century)",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "235 \u00d7 121 cm (92 1/2 \u00d7 47 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 121,
+            "width_in": 47.625,
+            "height_cm": 235,
+            "height_in": 92.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; screen printed",
+    "inscriptions": "Designed by Ruth Reeves for Morley-Fletcher Ltd Peruvian Linen\nSigned in the selvage: \u201cMaya by Ruth Reeves\u201d",
+    "credit_line": "Barbara Howard Estate Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Golyester, Los Angeles, Calif, about 2000; consigned to Cora Ginsburg, New York, 2017; sold to the Art Institute of Chicago, 2018.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.8552,
+    "color": {
+        "h": 48,
+        "l": 46,
+        "s": 18,
+        "percentage": 0.008862709807611023,
+        "population": 117
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 56061,
+    "artist_title": "Ruth Reeves",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        56061
+    ],
+    "artist_titles": [
+        "Ruth Reeves"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Textiles"
+    ],
+    "term_titles": [
+        "printed textile",
+        "screenprint",
+        "abstract motifs",
+        "textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-2352",
+    "classification_title": "printed textile",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-2352",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "printed textile",
+        "textile"
+    ],
+    "subject_id": "TM-13074",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-13074"
+    ],
+    "subject_titles": [
+        "abstract motifs"
+    ],
+    "material_id": "TM-13172",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-13172"
+    ],
+    "material_titles": [
+        "screenprint"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "719c18f1-7e14-88d5-f008-2f32a96eb170",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.209"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Maya"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-02T10:39:35-05:00",
+    "updated_at": "2023-08-02T10:40:53-05:00",
+    "timestamp": "2023-09-24T01:53:53-05:00"
+}

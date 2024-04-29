@@ -1,0 +1,33 @@
+{
+    "id": 40431,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40431",
+    "title": "Thomas Miles Richardson, the younger",
+    "sort_title": "Richardson, Thomas Miles, the younger",
+    "alt_titles": [
+        "Thomas Miles Richardson, le jeune",
+        "Thomas Miles Richardson, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1813,
+    "death_date": 1890,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thomas Miles Richardson, the younger",
+            "Richardson, Thomas Miles, the younger",
+            "Thomas Miles Richardson, le jeune",
+            "Thomas Miles Richardson, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:37:08-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

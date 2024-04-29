@@ -1,0 +1,174 @@
+{
+    "id": 27385,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27385",
+    "is_boosted": false,
+    "title": "Ballet Girl at Window",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJl4VKB4UqaLbauWetKufIKFg6megaOjjraondGxhsu/nsC4rtTGstLJsdLMtgAAACH5BAAAAAAALAAAAAADAAUAAAQLkBnl2lmoiABIGhEAOw==",
+        "width": 1914,
+        "height": 3000,
+        "alt_text": "A work made of oil paint, over graphite, on off-white wove card."
+    },
+    "main_reference_number": "1938.246",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1899,
+    "date_end": 1938,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Robert Bartholow Harshe\nAmerican, 1879-1938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "58.2 \u00d7 37.2 cm (22 15/16 \u00d7 14 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37.2,
+            "width_in": 14.6457,
+            "height_cm": 58.2,
+            "height_in": 22.9134,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil paint, over graphite, on off-white wove card",
+    "inscriptions": null,
+    "credit_line": "Gift of the Art Institute Employees",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.3122,
+    "color": {
+        "h": 49,
+        "l": 45,
+        "s": 71,
+        "percentage": 0.010057444169960033,
+        "population": 112
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42329,
+    "artist_title": "Robert Bartholow Harshe",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42329
+    ],
+    "artist_titles": [
+        "Robert Bartholow Harshe"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "organic material",
+        "graphite",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-2601",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2601",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "organic material",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7d0f2a6c-1744-ab62-401d-a75d4a5b927c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.246"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Ballet Girl at Window"
+            ],
+            "weight": 150,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:10:47-05:00",
+    "timestamp": "2023-09-24T00:32:31-05:00"
+}

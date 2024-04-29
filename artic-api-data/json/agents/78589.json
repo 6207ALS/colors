@@ -1,0 +1,43 @@
+{
+    "id": 78589,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/78589",
+    "title": "Darmstadt K\u00fcnstler-Kolonie",
+    "sort_title": "Darmstadt K\u00fcnstler-Kolonie",
+    "alt_titles": [
+        "Darmstadt Artists' Colony",
+        "Umelecka kolonie Darmstadt",
+        "Darmst\u00e4dter K\u00fcnstlerkolonie",
+        "K\u00fcnstlerkolonie in Darmstadt",
+        "K\u00fc\u00b0nstlerkolonie Darmstadt",
+        "K\u00fc\u00b0nstler-Kolonie Darmstadt",
+        "K\u00fcnstler-Kolonie Darmstadt"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Darmstadt K\u00fcnstler-Kolonie",
+            "Darmstadt K\u00fcnstler-Kolonie",
+            "Darmstadt Artists' Colony",
+            "Umelecka kolonie Darmstadt",
+            "Darmst\u00e4dter K\u00fcnstlerkolonie",
+            "K\u00fcnstlerkolonie in Darmstadt",
+            "K\u00fc\u00b0nstlerkolonie Darmstadt",
+            "K\u00fc\u00b0nstler-Kolonie Darmstadt",
+            "K\u00fcnstler-Kolonie Darmstadt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:23:55-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

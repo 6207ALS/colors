@@ -1,0 +1,41 @@
+{
+    "id": 34237,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34237",
+    "title": "Dominique-Vivant Denon",
+    "sort_title": "Denon, Dominique-Vivant",
+    "alt_titles": [
+        "Dominique Denon Vivant",
+        "Dominique Vivant-Denon",
+        "Denon Vivant",
+        "Dominique V. Denon",
+        "Baron Dominque Vivant Denon",
+        "Dominique Vivant Denon"
+    ],
+    "is_artist": true,
+    "birth_date": 1747,
+    "death_date": 1825,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dominique-Vivant Denon",
+            "Denon, Dominique-Vivant",
+            "Dominique Denon Vivant",
+            "Dominique Vivant-Denon",
+            "Denon Vivant",
+            "Dominique V. Denon",
+            "Baron Dominque Vivant Denon",
+            "Dominique Vivant Denon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:38-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

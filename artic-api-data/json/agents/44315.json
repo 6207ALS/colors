@@ -1,0 +1,31 @@
+{
+    "id": 44315,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44315",
+    "title": "Christopher John Chamales",
+    "sort_title": "Chamales, Christopher John",
+    "alt_titles": [
+        "Christopher J. Chamales"
+    ],
+    "is_artist": true,
+    "birth_date": 1907,
+    "death_date": 1993,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Christopher John Chamales",
+            "Chamales, Christopher John",
+            "Christopher J. Chamales"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:31:05-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

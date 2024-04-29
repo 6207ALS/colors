@@ -1,0 +1,37 @@
+{
+    "id": 40620,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40620",
+    "title": "Giovanni Francesco Grimaldi",
+    "sort_title": "Grimaldi, Giovanni Francesco",
+    "alt_titles": [
+        "Il Bolognese",
+        "Giovanni Francesco Grimaldi, (Il Bolognese)",
+        "Il Bolognese",
+        "Giovanni F. Grimaldi"
+    ],
+    "is_artist": true,
+    "birth_date": 1606,
+    "death_date": 1680,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni Francesco Grimaldi",
+            "Grimaldi, Giovanni Francesco",
+            "Il Bolognese",
+            "Giovanni Francesco Grimaldi, (Il Bolognese)",
+            "Il Bolognese",
+            "Giovanni F. Grimaldi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:36-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

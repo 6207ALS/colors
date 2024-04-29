@@ -1,0 +1,35 @@
+{
+    "id": 37001,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37001",
+    "title": "John Townsend",
+    "sort_title": "Townsend, John",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1732,
+    "death_date": 1809,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "John Townsend",
+            "Townsend, John"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Townsend",
+            "Townsend, John"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-08-04T14:12:19-05:00",
+    "updated_at": "2023-08-04T14:15:52-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

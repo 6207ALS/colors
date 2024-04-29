@@ -1,0 +1,165 @@
+{
+    "id": 184374,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/184374",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAADorGjooHTcxJzg7PWAzEkExKEE3Kkg2KUY5LVE3KztBMXxTHU9FNUpOM3RMIXJVLXlOMipETD5ORUtORklRSG9cQ2ZaS3VdRHVeUFJrX3VsTG9iVWxrUG1oX3RqWlttZ3B1Z3F6b4ZABoZsV1KCbo2BZE2flaSwoQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwFOJZFJoJh2PhfIhLCSZEKgwglwMh8ZDUGFsMAmHaBBBADiBIAA7",
+        "width": 3000,
+        "height": 1977,
+        "alt_text": "A work made of sixteen silver dye bleach prints; edition number three of three."
+    },
+    "main_reference_number": "2005.22",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1978,
+    "date_end": 1995,
+    "date_display": "1978/95",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Nan Goldin\nAmerican, born 1953",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "92 \u00d7 138 cm (36 1/4 \u00d7 54 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 138,
+            "width_in": 54.5,
+            "height_cm": 92,
+            "height_in": 36.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Sixteen silver dye bleach prints; edition number three of three",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorie Sternberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 47.4624,
+    "color": {
+        "h": 18,
+        "l": 31,
+        "s": 84,
+        "percentage": 0.03141931967554743,
+        "population": 147
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": null,
+    "department_id": null,
+    "artist_id": 43762,
+    "artist_title": "Nan Goldin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43762
+    ],
+    "artist_titles": [
+        "Nan Goldin"
+    ],
+    "category_ids": [
+        "PC-825"
+    ],
+    "category_titles": [
+        "Women artists"
+    ],
+    "term_titles": [
+        "photograph",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "1d3f011a-fff8-0353-3d10-a6abc319c152",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2005.22"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 900,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:13:10-05:00",
+    "timestamp": "2023-09-24T01:34:32-05:00"
+}

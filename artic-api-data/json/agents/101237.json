@@ -1,0 +1,31 @@
+{
+    "id": 101237,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/101237",
+    "title": "Frederick Gutekunst",
+    "sort_title": "Gutekunst, Frederick",
+    "alt_titles": [
+        "Frederic Gutekunst"
+    ],
+    "is_artist": true,
+    "birth_date": 1831,
+    "death_date": 1917,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frederick Gutekunst",
+            "Gutekunst, Frederick",
+            "Frederic Gutekunst"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-03-11T16:51:12-05:00",
+    "updated_at": "2022-03-15T16:43:37-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

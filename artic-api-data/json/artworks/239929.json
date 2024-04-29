@@ -1,0 +1,183 @@
+{
+    "id": 239929,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/239929",
+    "is_boosted": false,
+    "title": "Workspirit 1: Vitra Design Journal",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKRvZaGMhJ6TpJuYq4yatKqeq5qiu6uvuLCvuaqyt6+zvL+ytbezvYyhwK21w6y4yrK6yLK8zs/GytLMxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4OQgi9IwQvJIBUAYQ3BEUAgAOw==",
+        "width": 5036,
+        "height": 6514,
+        "alt_text": "A work made of newsprint."
+    },
+    "main_reference_number": "2017.512",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "n.d",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jeffrey Keyton\nAmerican, born 20th Century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "37 \u00d7 29 cm (14 1/2 \u00d7 11 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 29,
+            "width_in": 11.375,
+            "height_cm": 37,
+            "height_in": 14.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Newsprint",
+    "inscriptions": null,
+    "credit_line": "Gift of Rick Valicenti",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.4521,
+    "color": {
+        "h": 12,
+        "l": 59,
+        "s": 96,
+        "percentage": 0.02796913600400492,
+        "population": 257
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 115437,
+    "artist_title": "Jeffrey Keyton",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115437
+    ],
+    "artist_titles": [
+        "Jeffrey Keyton"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "graphic design",
+        "newsprint",
+        "20th Century",
+        "graphic design",
+        "newsprint",
+        "publication"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-12308",
+    "classification_title": "graphic design",
+    "alt_classification_ids": [
+        "TM-10613"
+    ],
+    "classification_ids": [
+        "TM-12308",
+        "TM-10613"
+    ],
+    "classification_titles": [
+        "graphic design",
+        "newsprint"
+    ],
+    "subject_id": "TM-13337",
+    "alt_subject_ids": [
+        "TM-13709"
+    ],
+    "subject_ids": [
+        "TM-13337",
+        "TM-13709"
+    ],
+    "subject_titles": [
+        "graphic design",
+        "publication"
+    ],
+    "material_id": "TM-2992",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2992"
+    ],
+    "material_titles": [
+        "newsprint"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1f318193-b0bd-039b-43bb-5b421cb9f5c0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.512"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Workspirit 1: Vitra Design Journal"
+            ],
+            "weight": 2,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:34-05:00",
+    "updated_at": "2023-04-07T14:57:36-05:00",
+    "timestamp": "2023-09-24T01:53:07-05:00"
+}

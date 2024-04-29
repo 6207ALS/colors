@@ -1,0 +1,164 @@
+{
+    "id": 139113,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/139113",
+    "is_boosted": false,
+    "title": "Queen Adelaide's Album",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFJST2toXnRvZHx4bH97b4GAeIqIgJWQg5qUhpuXi5uZjp2claejlqennLKrmbCvqb+6qry8s8y6l82+n8G/ttjGotHIr9zLqMHCvsjGutTJsdTMteDNpuTSr8LEwdLRxdzXxN7Yx+LawubexeXhy+ngyOvn0uzl0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwIdmA/o0MgZP5zJSBBgJTElECkFOCAqnYooAFgWHZGI5EASDIAA7",
+        "width": 3000,
+        "height": 1814,
+        "alt_text": "A work made of album with 66 drawings and 2 cut-out images, some mounted in ornate relief paper frames."
+    },
+    "main_reference_number": "Obj: 139113",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1823,
+    "date_end": 1837,
+    "date_display": "1823/37",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "European Artists (19th century)\ncompiled by Queen Adelaide of England (German, 1792-1849)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Cover: 26.1 \u00d7 19.9 \u00d7 4 cm (10 5/16 \u00d7 7 7/8 \u00d7 1 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 4,
+            "depth_in": 1.5749,
+            "width_cm": 19.9,
+            "width_in": 7.8347,
+            "height_cm": 26.1,
+            "height_in": 10.2756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Cover"
+        }
+    ],
+    "medium_display": "Album with 66 drawings and 2 cut-out images, some mounted in ornate relief paper frames",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.2239,
+    "color": {
+        "h": 53,
+        "l": 66,
+        "s": 88,
+        "percentage": 0.0004651920080013025,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "book",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "book",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5c072c92-3f0c-63a8-30ad-564f4f58f956",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "Obj: 139113"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Queen Adelaide's Album"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:24:31-05:00",
+    "timestamp": "2023-09-24T01:21:49-05:00"
+}

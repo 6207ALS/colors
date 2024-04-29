@@ -1,0 +1,167 @@
+{
+    "id": 235038,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/235038",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAL91bo+SeKuXfs2Zf7KNgr2ggreslM6TicakhcOnicmqisyqi8upjsyuj9Kng9KnhdKlitetiNWojdWzj9q4jcCklcarkMmpl9KukM6wkdO2lNe3l9Wyn9a4ms6+qNKxod3CouvPqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQISioQFNCgsGQBLaZB6Qw4DSwUQMn0mCY3EEKhcPQRAEADs=",
+        "width": 3000,
+        "height": 2152,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2016.70",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2012,
+    "date_end": 2012,
+    "date_display": "2012",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Cathy Wilkes\nBritish, born Ireland, 1966",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "65 \u00d7 90.1 \u00d7 1.5 cm (25 5/8 \u00d7 35 1/2 \u00d7 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.5,
+            "depth_in": 0.6,
+            "width_cm": 90.1,
+            "width_in": 35.5,
+            "height_cm": 65,
+            "height_in": 25.6,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Contemporary Art Discretionary Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.0746,
+    "color": {
+        "h": 349,
+        "l": 49,
+        "s": 48,
+        "percentage": 0.009999705891003206,
+        "population": 51
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 114765,
+    "artist_title": "Cathy Wilkes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114765
+    ],
+    "artist_titles": [
+        "Cathy Wilkes"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+    ],
+    "term_titles": [
+        "painting",
+        "21st Century"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "ea487328-0600-2cb2-7fc8-fde9c8ef5fc8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.70"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 39,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-14T12:47:05-05:00",
+    "updated_at": "2023-04-07T14:24:27-05:00",
+    "timestamp": "2023-09-24T01:51:32-05:00"
+}

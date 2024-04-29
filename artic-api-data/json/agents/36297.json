@@ -1,0 +1,33 @@
+{
+    "id": 36297,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36297",
+    "title": "William Henry Pyne",
+    "sort_title": "Pyne, William Henry",
+    "alt_titles": [
+        "W. H. Pyne",
+        "Ephraim Hardcastle"
+    ],
+    "is_artist": true,
+    "birth_date": 1769,
+    "death_date": 1843,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Henry Pyne",
+            "Pyne, William Henry",
+            "W. H. Pyne",
+            "Ephraim Hardcastle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:38-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

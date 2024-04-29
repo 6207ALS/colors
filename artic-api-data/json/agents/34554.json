@@ -1,0 +1,31 @@
+{
+    "id": 34554,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34554",
+    "title": "Frederick Warren Freer",
+    "sort_title": "Freer, Frederick Warren",
+    "alt_titles": [
+        "Frederick W. Freer"
+    ],
+    "is_artist": true,
+    "birth_date": 1849,
+    "death_date": 1908,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frederick Warren Freer",
+            "Freer, Frederick Warren",
+            "Frederick W. Freer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-05-18T12:52:35-05:00",
+    "updated_at": "2023-05-18T12:52:39-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

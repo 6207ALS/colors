@@ -1,0 +1,164 @@
+{
+    "id": 106019,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/106019",
+    "is_boosted": false,
+    "title": "Bowl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAD1GWzxIbE9UZVFXZEJQc0pVcklZgk9fiE9hi3V9k3mAk42QkY+Sk5GTk5CSlJCTlZGUlJKUlJ6gqZ2gq6SmqaipqamqqaiprLu7vMPExcTExsbHx8fKzMjJysnKzMvMzs3P0dTV19PX2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAXD8YBEGhXFAWFIWDqSAiEw2XAoA4Dg4hGBNJjMJxQEADs=",
+        "width": 3000,
+        "height": 2154,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1912.103",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1825,
+    "date_end": 1830,
+    "date_display": "1825\u201330",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Enoch Wood & Sons\nEnglish, active 1818\u20131846\nMade for the American market\nStaffordshire",
+    "place_of_origin": "Burslem",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Earthenware",
+    "inscriptions": "stamped on bottom: \"Wood\"",
+    "credit_line": "Amelia Blanxius Collection, gift of Emma B. Hodge and Jene E. Bell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.1868,
+    "color": {
+        "h": 214,
+        "l": 47,
+        "s": 40,
+        "percentage": 0.015489740497828496,
+        "population": 79
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 37342,
+    "artist_title": "Enoch Wood",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37342
+    ],
+    "artist_titles": [
+        "Enoch Wood"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "earthenware",
+        "bowl",
+        "earthenware",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11712",
+    "classification_title": "bowl",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11712",
+        "TM-74",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "bowl",
+        "earthenware",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6da769fd-cb4f-2485-d2a6-d55ef6031361",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1912.103"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bowl"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:17:43-05:00",
+    "timestamp": "2023-09-24T01:08:02-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 34864,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34864",
+    "title": "Childe Hassam",
+    "sort_title": "Hassam, Childe",
+    "alt_titles": [
+        "Frederick Childe Hassam"
+    ],
+    "is_artist": true,
+    "birth_date": 1859,
+    "death_date": 1935,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Childe Hassam",
+            "Hassam, Childe",
+            "Frederick Childe Hassam"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T11:00:23-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

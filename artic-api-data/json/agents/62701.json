@@ -1,0 +1,31 @@
+{
+    "id": 62701,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/62701",
+    "title": "Mary Nimmo Moran",
+    "sort_title": "Moran, Mary Nimmo",
+    "alt_titles": [
+        "Mary N. Moran"
+    ],
+    "is_artist": true,
+    "birth_date": 1842,
+    "death_date": 1929,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mary Nimmo Moran",
+            "Moran, Mary Nimmo",
+            "Mary N. Moran"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:34-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

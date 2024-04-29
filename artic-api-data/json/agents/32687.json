@@ -1,0 +1,31 @@
+{
+    "id": 32687,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32687",
+    "title": "Fukui Ryonosuke",
+    "sort_title": "Ryonosuke, Fukui",
+    "alt_titles": [
+        "Fukui Ryonosuke"
+    ],
+    "is_artist": true,
+    "birth_date": 1923,
+    "death_date": 1986,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fukui Ryonosuke",
+            "Ryonosuke, Fukui",
+            "Fukui Ryonosuke"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-04-20T13:57:37-05:00",
+    "updated_at": "2023-04-20T14:02:33-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

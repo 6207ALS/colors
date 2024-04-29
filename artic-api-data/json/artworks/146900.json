@@ -1,0 +1,172 @@
+{
+    "id": 146900,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146900",
+    "is_boosted": false,
+    "title": "Word Poem",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIN/foeDgqOdma+pqbCrq8K+vcrAt87BtMTAv8XAv8rBvMXAwMjExMrGx9LJwQAAACH5BAAAAAAALAAAAAADAAUAAAQLEIgwDCkHJceWahEAOw==",
+        "width": 1133,
+        "height": 2250,
+        "alt_text": "A work made of ink, paper, and paint on cardboard tube."
+    },
+    "main_reference_number": "1997.132",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1967,
+    "date_end": 1967,
+    "date_display": "1967",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Carl Andre\nAmerican, born 1935",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "49.8 \u00d7 1.9 \u00d7 1.9 cm (19 5/8 \u00d7 3/4 \u00d7 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.9,
+            "depth_in": 0.75,
+            "width_cm": 1.9,
+            "width_in": 0.75,
+            "height_cm": 49.8,
+            "height_in": 19.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink, paper, and paint on cardboard tube",
+    "inscriptions": null,
+    "credit_line": "Gift of Lannan Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "Art \u00a9 Carl Andre / Licensed by VAGA, New York, NY",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.9847,
+    "color": {
+        "h": 38,
+        "l": 49,
+        "s": 40,
+        "percentage": 0.000496038073047984,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 719,
+    "artist_title": "Carl Andr\u00e9",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        719
+    ],
+    "artist_titles": [
+        "Carl Andr\u00e9"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "sculpture",
+        "paper (fiber product)",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "e85a3666-b335-24bf-7709-5e3a6d09fece",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.132"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Word Poem"
+            ],
+            "weight": 303,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-14T12:47:05-05:00",
+    "updated_at": "2023-04-07T14:25:32-05:00",
+    "timestamp": "2023-09-24T01:25:45-05:00"
+}

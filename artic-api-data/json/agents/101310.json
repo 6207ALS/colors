@@ -1,0 +1,39 @@
+{
+    "id": 101310,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/101310",
+    "title": "Hans Ludwig Kienle",
+    "sort_title": "Kienle, Hans Ludwig",
+    "alt_titles": [
+        "Hans Ludwig Kienlin"
+    ],
+    "is_artist": true,
+    "birth_date": 1591,
+    "death_date": 1653,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Hans Ludwig Kienle",
+            "Kienle, Hans Ludwig",
+            "Hans Ludwig Kienlin"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hans Ludwig Kienle",
+            "Kienle, Hans Ludwig",
+            "Hans Ludwig Kienlin"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:21:27-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

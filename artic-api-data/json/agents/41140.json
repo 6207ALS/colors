@@ -1,0 +1,31 @@
+{
+    "id": 41140,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41140",
+    "title": "Alexandre Calame",
+    "sort_title": "Calame, Alexandre",
+    "alt_titles": [
+        "Alexander Calame"
+    ],
+    "is_artist": true,
+    "birth_date": 1810,
+    "death_date": 1864,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alexandre Calame",
+            "Calame, Alexandre",
+            "Alexander Calame"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T12:07:17-05:00",
+    "updated_at": "2022-03-15T16:42:04-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

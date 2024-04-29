@@ -1,0 +1,28 @@
+{
+    "id": 49516,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/49516",
+    "title": "Jordon Belson",
+    "sort_title": "Belson, Jordon",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1926,
+    "death_date": 2011,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jordon Belson",
+            "Belson, Jordon"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-02-21T10:19:48-06:00",
+    "updated_at": "2020-02-21T10:20:49-06:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

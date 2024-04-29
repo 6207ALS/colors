@@ -1,0 +1,158 @@
+{
+    "id": 251099,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/251099",
+    "is_boosted": false,
+    "title": "Rock",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACUrJDcwJTw+Mj0/PEBDOkREOkZIRUxMSElSR1pSQ1VSUV1XUmBaUV1gWGVnW2dpZ2dnbm1raG5wY4J2Z3uDc6iQcq2YfoSEiIqOjpGSl7yunKynpaqnqba2sbe2uc/Iv7u9w87L0+Lf4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAIgUbEwAgjBRPPZLCiOBygk6kgahgvHgykMDpEMRBEEADs=",
+        "width": 3055,
+        "height": 2240,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "2022.248",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Yang Yanping \u6768\u71d5\u5c4f\nChinese, born 1934",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "61 \u00d7 82 cm (24 \u00d7 32 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 82,
+            "width_in": 32.3125,
+            "height_cm": 61,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Yang Yanping in memory of Zeng Shanqing",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 49,
+        "l": 47,
+        "s": 7,
+        "percentage": 0.011748889408463876,
+        "population": 804
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 116564,
+    "artist_title": "Zeng Shanqing",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        116564
+    ],
+    "artist_titles": [
+        "Zeng Shanqing"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "ink on paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [],
+    "classification_ids": [],
+    "classification_titles": [],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-13951",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-13951"
+    ],
+    "material_titles": [
+        "ink on paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "730e3bfb-da47-25f7-02e6-e9d410d13cfe",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.248"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rock"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-20T12:13:27-06:00",
+    "updated_at": "2023-04-07T13:24:51-05:00",
+    "timestamp": "2023-09-24T01:56:19-05:00"
+}

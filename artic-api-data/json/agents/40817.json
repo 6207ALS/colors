@@ -1,0 +1,35 @@
+{
+    "id": 40817,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40817",
+    "title": "Charles Simonneau",
+    "sort_title": "Simonneau, Charles",
+    "alt_titles": [
+        "Charles Simonneau, I",
+        "Charles Simoneau, I",
+        "Charles Simmoneu, the elder"
+    ],
+    "is_artist": true,
+    "birth_date": 1645,
+    "death_date": 1728,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Simonneau",
+            "Simonneau, Charles",
+            "Charles Simonneau, I",
+            "Charles Simoneau, I",
+            "Charles Simmoneu, the elder"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-04-21T12:18:41-05:00",
+    "updated_at": "2022-03-15T16:36:15-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

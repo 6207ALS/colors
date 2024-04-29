@@ -1,0 +1,165 @@
+{
+    "id": 205464,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/205464",
+    "is_boosted": false,
+    "title": "View-Master Model G",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAFsAAWxgUHRqW5xUXplYX59dZKNmcLR4fYqBdpyUi56Wi7iXnLy2rri1scS9tMu1uM26vdPRy9TQy+De2uPn6O3s7O3t7e7u7e/u7ezt7u3v7u7v7u/v7+/y7+/w8fPx8PLy8fPz8/P39/T09Pb19fX29/b39/f4+fb6+fj6+fv8/fj+/vz8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwIpJxSJ9UpjNReJggA4EAyWkEAQiBcCgM2ogEhPI4qHheDKnEmolsgQBADs=",
+        "width": 6718,
+        "height": 3779,
+        "alt_text": "A work made of plastic."
+    },
+    "main_reference_number": "2010.558",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1958,
+    "date_end": 1977,
+    "date_display": "1958\u20131977",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Charles Harrison (American, 1931-2018)\nManufactured by Sawyer's, Inc. (American, 1914-1966)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "10 \u00d7 13 \u00d7 8 cm (3 1/4 \u00d7 5 \u00d7 3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 8,
+            "depth_in": 3,
+            "width_cm": 13,
+            "width_in": 5,
+            "height_cm": 10,
+            "height_in": 3.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Plastic",
+    "inscriptions": null,
+    "credit_line": "Gift of Charles Harrison",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2011,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.4665,
+    "color": {
+        "h": 193,
+        "l": 33,
+        "s": 89,
+        "percentage": 0.0030031382795020797,
+        "population": 12
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 111196,
+    "artist_title": "Charles Harrison",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111196
+    ],
+    "artist_titles": [
+        "Charles Harrison"
+    ],
+    "category_ids": [
+        "PC-142",
+        "PC-830",
+        "PC-5"
+    ],
+    "category_titles": [
+        "African American artists",
+        "African Diaspora",
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13174",
+    "classification_title": "design",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "African American artists",
+        "African Diaspora"
+    ],
+    "image_id": "ded4281b-607b-4ea5-0736-6d12e3cf01b4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.558"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "View-Master Model G"
+            ],
+            "weight": 26,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-20T13:47:05-05:00",
+    "updated_at": "2023-09-23T23:16:29-05:00",
+    "timestamp": "2023-09-24T01:41:09-05:00"
+}

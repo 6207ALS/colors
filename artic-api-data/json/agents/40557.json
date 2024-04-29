@@ -1,0 +1,37 @@
+{
+    "id": 40557,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40557",
+    "title": "Gustave Dor\u00e9",
+    "sort_title": "Dor\u00e9, Gustave",
+    "alt_titles": [
+        "Paul Gustave Louis Christophe Dor\u00e9",
+        "L. C. P. G. Dor\u00e9",
+        "Louis Christophe Paul Gustave Dor\u00e9",
+        "Louis Auguste Gustave Dor\u00e9"
+    ],
+    "is_artist": true,
+    "birth_date": 1832,
+    "death_date": 1883,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gustave Dor\u00e9",
+            "Dor\u00e9, Gustave",
+            "Paul Gustave Louis Christophe Dor\u00e9",
+            "L. C. P. G. Dor\u00e9",
+            "Louis Christophe Paul Gustave Dor\u00e9",
+            "Louis Auguste Gustave Dor\u00e9"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:13-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

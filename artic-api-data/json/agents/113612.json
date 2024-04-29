@@ -1,0 +1,31 @@
+{
+    "id": 113612,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/113612",
+    "title": "Lou Beach",
+    "sort_title": "Beach, Lou",
+    "alt_titles": [
+        "Andrzej Lubicz-Led\u00f3chowski"
+    ],
+    "is_artist": true,
+    "birth_date": 1947,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lou Beach",
+            "Beach, Lou",
+            "Andrzej Lubicz-Led\u00f3chowski"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:17:26-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

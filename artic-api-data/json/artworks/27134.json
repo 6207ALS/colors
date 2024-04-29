@@ -1,0 +1,173 @@
+{
+    "id": 27134,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27134",
+    "is_boosted": false,
+    "title": "Mrs. Thomas Sprigg",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACEeGCYhGC8rJS4vKzczKjU0LDgyKD41KUM8L0E7MUI+OUlDOT1DR09SUl9cVWFXTGJhXHFrYXJtYnl0awAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4GAcQbE8AOJMQiJFCgE1TAgAOw==",
+        "width": 13592,
+        "height": 11602,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1967.173",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1764,
+    "date_end": 1764,
+    "date_display": "1764",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Hesselius\nAmerican, 1728\u20131778",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "125.3 \u00d7 96.5 cm (49 5/16 \u00d7 38 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 96.5,
+            "width_in": 38,
+            "height_cm": 125.3,
+            "height_in": 49.3125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Goodman Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1967,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 51,
+        "l": 49,
+        "s": 3,
+        "percentage": 0.00024218658686443132,
+        "population": 253
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 11466,
+    "artist_title": "John Hesselius",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        11466
+    ],
+    "artist_titles": [
+        "John Hesselius"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "organic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "437e10f3-f9e0-06fb-0e2e-bf6fa69d6c24",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1967.173"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mrs. Thomas Sprigg"
+            ],
+            "weight": 299,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-22T13:50:46-05:00",
+    "updated_at": "2023-05-22T13:57:28-05:00",
+    "timestamp": "2023-09-24T00:32:25-05:00"
+}

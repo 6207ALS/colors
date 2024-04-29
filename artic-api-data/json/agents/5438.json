@@ -1,0 +1,31 @@
+{
+    "id": 5438,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5438",
+    "title": "Nicolas Andr\u00e9 Courtois",
+    "sort_title": "Courtois, Nicolas Andr\u00e9",
+    "alt_titles": [
+        "Nicolas A. Courtois"
+    ],
+    "is_artist": true,
+    "birth_date": 1734,
+    "death_date": 1806,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolas Andr\u00e9 Courtois",
+            "Courtois, Nicolas Andr\u00e9",
+            "Nicolas A. Courtois"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:06-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

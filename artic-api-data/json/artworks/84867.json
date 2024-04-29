@@ -1,0 +1,181 @@
+{
+    "id": 84867,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/84867",
+    "is_boosted": false,
+    "title": "Jonathan Henderson (1772-1833)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADQrKIR9eIB9fYiFhaKenaSfnaqjn6aioaajoaynpKuopqypqK6tq62trbWsprmxq7e1tba2tt3WzfXy6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHQQzPI4iCFNRQIESjQITQgAOw==",
+        "width": 1800,
+        "height": 2250,
+        "alt_text": "A work made of watercolor on ivory."
+    },
+    "main_reference_number": "1955.1337",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1798,
+    "date_end": 1798,
+    "date_display": "1798",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Robert Field\nAmerican, c. 1769\u20131819",
+    "place_of_origin": "Philadelphia",
+    "description": null,
+    "dimensions": "7.3 \u00d7 5.7 cm (2 7/8 \u00d7 2 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.7,
+            "width_in": 2.25,
+            "height_cm": 7.3,
+            "height_in": 2.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor on ivory",
+    "inscriptions": null,
+    "credit_line": "Gift of Mary Louise Stevenson to the Colonel Alexander F. and Jeannie C. Stevenson Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1956,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.1728,
+    "color": {
+        "h": 40,
+        "l": 51,
+        "s": 59,
+        "percentage": 0.0005627322677435111,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Miniature Painting",
+    "artwork_type_id": 30,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 53256,
+    "artist_title": "Robert Field",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        53256
+    ],
+    "artist_titles": [
+        "Robert Field"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "miniature painting",
+        "watercolor",
+        "ivory",
+        "american arts",
+        "miniature",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-340",
+    "classification_title": "miniature painting",
+    "alt_classification_ids": [
+        "TM-2191",
+        "TM-591",
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-340",
+        "TM-2191",
+        "TM-591",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "miniature painting",
+        "american arts",
+        "miniature",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2403",
+    "alt_material_ids": [
+        "TM-2442"
+    ],
+    "material_ids": [
+        "TM-2403",
+        "TM-2442"
+    ],
+    "material_titles": [
+        "watercolor",
+        "ivory"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ea34f29b-f463-76a7-b6b3-5765e3e64a95",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1955.1337"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jonathan Henderson (1772-1833)"
+            ],
+            "weight": 199,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:55:18-05:00",
+    "timestamp": "2023-09-24T00:57:18-05:00"
+}

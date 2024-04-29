@@ -1,0 +1,181 @@
+{
+    "id": 86705,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/86705",
+    "is_boosted": false,
+    "title": "Paperweight",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAEygfWKfhmaYjHyOmVWjhIy9ppG/qZG+qo7Aqcvh1NLg1trm3drm3u7t6u7v6+7v7PDu6/Pw7/Lx7/Pw8PPx8PXy8vbz8/b08wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4CUxUeUggQElxAAozyEUjUUtUxUCADs=",
+        "width": 2396,
+        "height": 2396,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1961.519",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1900,
+    "date_display": "late 19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "New England Glass Company\nCambridge, Massachusetts, 1818-1888",
+    "place_of_origin": "Toledo",
+    "description": null,
+    "dimensions": "Diam.: 6.6 cm (2 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 6.6,
+            "diameter_in": 2.625,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift from the estate of Mrs. Ella B. Burdick",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.0549,
+    "color": {
+        "h": 165,
+        "l": 33,
+        "s": 96,
+        "percentage": 0.2468166422523637,
+        "population": 1754
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 35997,
+    "artist_title": "New England Glass Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35997
+    ],
+    "artist_titles": [
+        "New England Glass Company"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "sulphide (glass)",
+        "paperweight",
+        "glass",
+        "sulphide (glass)",
+        "european decorative arts",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-858",
+    "classification_title": "paperweight",
+    "alt_classification_ids": [
+        "TM-372",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-858",
+        "TM-372",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "paperweight",
+        "sulphide (glass)",
+        "european decorative arts",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2674",
+    "alt_material_ids": [
+        "TM-2453"
+    ],
+    "material_ids": [
+        "TM-2674",
+        "TM-2453"
+    ],
+    "material_titles": [
+        "sulphide (glass)",
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c68e9930-95f7-ecbf-a758-78e206ab0b96",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1961.519"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Paperweight"
+            ],
+            "weight": 109,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:44:35-05:00",
+    "timestamp": "2023-09-24T00:58:24-05:00"
+}

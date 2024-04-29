@@ -1,0 +1,151 @@
+{
+    "id": 23821,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/23821",
+    "is_boosted": false,
+    "title": "Memorial Portrait of the Actor Ichikawa Danjuro IX",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJqTdqGPYKKRZquffberib+zjb60l763mr+5m8C5m8S8m8G5nMrAnsfAodDIqgAAACH5BAAAAAAALAAAAAADAAUAAAQLULl2CkthIAEMWREAOw==",
+        "width": 2058,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print; oban."
+    },
+    "main_reference_number": "1937.228",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1903,
+    "date_end": 1903,
+    "date_display": "1903",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Utagawa Kunisada III (Kunimasa IV, Toyokuni V)\nJapanese, 1848\u20131920",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Color woodblock print; oban",
+    "inscriptions": null,
+    "credit_line": "Judson D. Metzger Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.9056,
+    "color": {
+        "h": 59,
+        "l": 48,
+        "s": 61,
+        "percentage": 0.0014478107653417267,
+        "population": 15
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 12042,
+    "artist_title": "Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        12042
+    ],
+    "artist_titles": [
+        "Utagawa Kunisada III (Kunimasa IV, Toyokuni V)"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b97c5628-94e1-a78b-8840-ee65b7093e6e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1937.228"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Memorial Portrait of the Actor Ichikawa Danjuro IX"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:53-05:00",
+    "updated_at": "2023-04-10T15:29:16-05:00",
+    "timestamp": "2023-09-24T00:30:43-05:00"
+}

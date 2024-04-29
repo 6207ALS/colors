@@ -1,0 +1,174 @@
+{
+    "id": 150767,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/150767",
+    "is_boosted": false,
+    "title": "Landscape with Bridge, Perspective",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFxSTV1bTmNfWWNcWl9kZnJua3B1aoWAfpGQi5aaiZualrCuqLOxqre3r7e2sry9tby8t8TIt8zLxc3NyM3Oyc/OyM7PytXVyNPSzNLSz9PTz9XUzdTVztnXztbW0trZ09ra0t7d2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQNCnMsFsOppH5KKAhCQFgiGA8FgAgsTgkOE0GI4FhRMEADs=",
+        "width": 4015,
+        "height": 2957,
+        "alt_text": "A work made of watercolor on paper."
+    },
+    "main_reference_number": "1996.655.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1938,
+    "date_end": 1938,
+    "date_display": "1938",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "George Fred Keck\nAmerican, 1895\u20131980",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "50.2 \u00d7 68.4 cm (19 3/4 \u00d7 26 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68.4,
+            "width_in": 26.9375,
+            "height_cm": 50.2,
+            "height_in": 19.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Karen and Jeffry S. Wineman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.0879,
+    "color": {
+        "h": 65,
+        "l": 37,
+        "s": 91,
+        "percentage": 0.000955104364253882,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 35226,
+    "artist_title": "George Fred Keck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35226
+    ],
+    "artist_titles": [
+        "George Fred Keck"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "painting",
+        "paper (fiber product)",
+        "architecture",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "painting",
+        "architecture",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a5248ec9-6539-7827-f02c-b2dc564d0e05",
+    "alt_image_ids": [
+        "dae12d5b-2229-b80d-0bdb-c8cdcd4c18e5"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.655.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Landscape with Bridge, Perspective"
+            ],
+            "weight": 3,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-10T07:57:32-05:00",
+    "timestamp": "2023-09-24T01:27:47-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 69693,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/69693",
+    "title": "Workshop of Domenico Tintoretto",
+    "sort_title": "Tintoretto, Domenico, Workshop of",
+    "alt_titles": [
+        "Workshop of Domenico Robusti"
+    ],
+    "is_artist": true,
+    "birth_date": 1560,
+    "death_date": 1635,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Workshop of Domenico Tintoretto",
+            "Tintoretto, Domenico, Workshop of",
+            "Workshop of Domenico Robusti"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:24:51-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

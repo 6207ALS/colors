@@ -1,0 +1,185 @@
+{
+    "id": 13572,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/13572",
+    "is_boosted": false,
+    "title": "Three-Quarter Length Portrait of a Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAG1bS29bSmtbTWxbTHBeTn5uXX5uXoJyYYNyYYR2ZYV3Z4p4ZZKCb52LdQAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsCSFGlvHkCECABEAOw==",
+        "width": 1482,
+        "height": 2250,
+        "alt_text": "A work made of pen and brown ink, with brush and gray wash, over graphite, on ivory wove paper."
+    },
+    "main_reference_number": "1924.802",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1860,
+    "date_end": 1870,
+    "date_display": "1865/70",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Constantin Guys\nFrench, 1802-1892",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "28.8 \u00d7 19.6 cm (11 3/8 \u00d7 7 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19.6,
+            "width_in": 7.7166,
+            "height_cm": 28.8,
+            "height_in": 11.3386,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and brown ink, with brush and gray wash, over graphite, on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Allerton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.5074,
+    "color": {
+        "h": 38,
+        "l": 83,
+        "s": 65,
+        "percentage": 0.000556049822064057,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34778,
+    "artist_title": "Constantin Guys",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34778
+    ],
+    "artist_titles": [
+        "Constantin Guys"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "ink or chalk wash",
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-217",
+    "classification_title": "ink or chalk wash",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-217",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "ink or chalk wash",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e1722e55-ab1e-1c31-05c7-7e30bd681d00",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1924.802"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Three-Quarter Length Portrait of a Woman"
+            ],
+            "weight": 1399,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:42:41-05:00",
+    "timestamp": "2023-09-24T00:25:56-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 30920,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/30920",
+    "is_boosted": false,
+    "title": "White Nurse",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGlaN2dWP3tfO31iKH1gV5ZBEpNVHINbM5ZYP4RyMIBXU5VvR4dmWYp+VYF/X5BzW5p2ZaN0YJiCRbOFfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYEAwgjJBzRMh0uIAQ5EcRggAOw==",
+        "width": 1659,
+        "height": 2250,
+        "alt_text": "A work made of oil pastel and colored crayons, and fiber-tipped and ball point pens, with graphite, on ivory wood pulp board."
+    },
+    "main_reference_number": "1969.8",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Peter Saul\nAmerican, born 1934",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "137.4 \u00d7 102 cm (54 1/8 \u00d7 40 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 102,
+            "width_in": 40.1575,
+            "height_cm": 137.4,
+            "height_in": 54.0945,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil pastel and colored crayons, and fiber-tipped and ball point pens, with graphite, on ivory wood pulp board",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Lewis Manilow",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 89.5171,
+    "color": {
+        "h": 52,
+        "l": 52,
+        "s": 79,
+        "percentage": 0.024492786563008212,
+        "population": 236
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36545,
+    "artist_title": "Peter Saul",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36545
+    ],
+    "artist_titles": [
+        "Peter Saul"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "crayon",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-23",
+    "classification_title": "crayon",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-23",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "crayon",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c9be087b-8e06-60ef-0b0e-90aad24c057b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1969.8"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "White Nurse"
+            ],
+            "weight": 214,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:02:27-05:00",
+    "timestamp": "2023-09-24T00:34:07-05:00"
+}

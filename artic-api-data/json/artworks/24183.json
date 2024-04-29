@@ -1,0 +1,164 @@
+{
+    "id": 24183,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/24183",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAH5qR25mUYVoPZB4VZB8XpF8X49/aZF+YpSBZpiCY5KCa5SEbpWFb5iKd5qLdwAAACH5BAAAAAAALAAAAAADAAUAAAQLsCV3ADJBEVHWYBEAOw==",
+        "width": 3391,
+        "height": 5129,
+        "alt_text": "A work made of example of the method used in chinese embroidery.."
+    },
+    "main_reference_number": "1937.367",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1900,
+    "date_display": "1900, Qing dynasty(1644\u20131911)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "28.5 \u00d7 17.1 cm (11 1/4 \u00d7 6 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.1,
+            "width_in": 6.75,
+            "height_cm": 28.5,
+            "height_in": 11.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Example of the method used in Chinese embroidery.",
+    "inscriptions": null,
+    "credit_line": "Gift of Miss Carolyn Wicker",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 40.2925,
+    "color": {
+        "h": 39,
+        "l": 41,
+        "s": 68,
+        "percentage": 0.0015816528272044285,
+        "population": 17
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "qing",
+        "textile",
+        "needlework (visual works)"
+    ],
+    "style_id": "TM-5086",
+    "style_title": "qing",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5086"
+    ],
+    "style_titles": [
+        "qing"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "07d874f7-4b8b-e4af-63cb-037a933c64ae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1937.367"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:17:53-05:00",
+    "timestamp": "2023-09-24T00:30:56-05:00"
+}

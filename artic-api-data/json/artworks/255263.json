@@ -1,0 +1,166 @@
+{
+    "id": 255263,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/255263",
+    "is_boosted": false,
+    "title": "Sculpture",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAH1dTXtgU4BgUIhxZ5p8aa2ZjcS5tsi9uO3s7u/s7u/v8fPx8vTz9fX09vT0+fT1+fb3+/r6/f39//7+/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIJMsTUQUEwQM0iMEjnIYSAgAOw==",
+        "width": 5146,
+        "height": 7205,
+        "alt_text": "A work made of wood."
+    },
+    "main_reference_number": "2020.245",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1951,
+    "date_display": "1951",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ernest Mancoba\nSouth African, 1904-2002",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "31 \u00d7 10.7 \u00d7 13.2 cm (12 1/4 \u00d7 4 1/4 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 13.2,
+            "depth_in": 5.2,
+            "width_cm": 10.7,
+            "width_in": 4.2,
+            "height_cm": 31,
+            "height_in": 12.2,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wood",
+    "inscriptions": null,
+    "credit_line": "Ada Turnbull Hertle endowment and Barry Sullivan funds",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.2853,
+    "color": {
+        "h": 274,
+        "l": 94,
+        "s": 9,
+        "percentage": 0.7550349895488372,
+        "population": 7517
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 116739,
+    "artist_title": "Ernest Mancoba",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        116739
+    ],
+    "artist_titles": [
+        "Ernest Mancoba"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-835"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "2020\u201321 acquisitions by BIPOC artists"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "2020\u201321 acquisitions by BIPOC artists"
+    ],
+    "image_id": "b6c60369-f3c6-3361-372a-4be8b391beea",
+    "alt_image_ids": [
+        "1ef0c2e4-990a-f59d-67ac-e9309d31548d",
+        "06a2b7b9-e6e7-b970-8507-7f5ac5123cd0",
+        "4f4d66c8-3056-63ec-4f4e-7473db29de6d"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.245"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sculpture"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:37-05:00",
+    "updated_at": "2023-04-07T14:43:19-05:00",
+    "timestamp": "2023-09-24T01:56:55-05:00"
+}

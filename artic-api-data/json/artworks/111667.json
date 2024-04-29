@@ -1,0 +1,167 @@
+{
+    "id": 111667,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111667",
+    "is_boosted": false,
+    "title": "Festival in Piazza Navona",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAACweFykeGTQjFzIhGTMjGDUjGTQkGjQnGzsoGUQrGkQvHEMxH0YxHkgzH0UzI0k2I1Q1IWE/JWdBH1ZAJV1EKlxFLGpDKGZKLGxJKmpOLWpOLm9SLnJTL3tbMINcNIBgNoBhOYNhOIdnO4pnOotpPo5uQohsRZByRZFyRZhzRJZ6TqGBT6qIVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwJOJtVKhRqLORlMipTwh0CcA4SwwlkvFMUhIKJmI4QAoIBSPxoRBEAQBADs=",
+        "width": 3000,
+        "height": 1746,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1933.914",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1729,
+    "date_end": 1729,
+    "date_display": "1729",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Giovanni Paolo Panini\nItalian, 1691-1765",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "26.8 \u00d7 45 cm (10 9/16 \u00d7 17 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 45,
+            "width_in": 17.75,
+            "height_cm": 26.8,
+            "height_in": 10.5625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Simeon B. Williams Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1934,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.5506,
+    "color": {
+        "h": 41,
+        "l": 61,
+        "s": 48,
+        "percentage": 0.01691176648232841,
+        "population": 70
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 216",
+    "gallery_id": 2147483618,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 40732,
+    "artist_title": "Giovanni Paolo Panini",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40732
+    ],
+    "artist_titles": [
+        "Giovanni Paolo Panini"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "64e61ae0-3d2a-8348-c9b8-c1c30e6942c3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1933.914"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Festival in Piazza Navona"
+            ],
+            "weight": 694,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-30T13:57:32-05:00",
+    "updated_at": "2023-06-30T13:57:45-05:00",
+    "timestamp": "2023-09-24T01:09:57-05:00"
+}

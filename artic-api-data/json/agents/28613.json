@@ -1,0 +1,41 @@
+{
+    "id": 28613,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/28613",
+    "title": "Johann Georg Wille",
+    "sort_title": "Wille, Johann Georg",
+    "alt_titles": [
+        "Jan Georg Will",
+        "Jean Georges Will",
+        "Johann G. Wille",
+        "Johann Georg Will",
+        "Jan Georges Wille",
+        "Jan Georges Will"
+    ],
+    "is_artist": true,
+    "birth_date": 1715,
+    "death_date": 1808,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Georg Wille",
+            "Wille, Johann Georg",
+            "Jan Georg Will",
+            "Jean Georges Will",
+            "Johann G. Wille",
+            "Johann Georg Will",
+            "Jan Georges Wille",
+            "Jan Georges Will"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:29-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

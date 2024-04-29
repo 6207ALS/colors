@@ -1,0 +1,170 @@
+{
+    "id": 140614,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/140614",
+    "is_boosted": false,
+    "title": "Reposoir",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGE/M1NBNldRQn9gVXhtZ5yCbJWPjpGcg5uqiq+mo6qspbq4ub+9vsO8tsC+v8LAvs3Bu8jAvcK/wcfDwcjHxsjHyszJy9HOz9rX1gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4GJRjyMpyMFUhBAYTQEMyRRB2BUCADs=",
+        "width": 2251,
+        "height": 2250,
+        "alt_text": "A work made of wood and bone."
+    },
+    "main_reference_number": "1995.235",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1983,
+    "date_end": 1983,
+    "date_display": "1983",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Don Baum\nAmerican, 1922\u20132008",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "35.6 \u00d7 29.2 \u00d7 40 cm (14 \u00d7 11 1/2 \u00d7 15 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 40,
+            "depth_in": 15.75,
+            "width_cm": 29.2,
+            "width_in": 11.5,
+            "height_cm": 35.6,
+            "height_in": 14,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Wood and bone",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1996,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.6187,
+    "color": {
+        "h": 67,
+        "l": 45,
+        "s": 15,
+        "percentage": 0.01632310746936955,
+        "population": 116
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 30536,
+    "artist_title": "Don Baum",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30536
+    ],
+    "artist_titles": [
+        "Don Baum"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "8cac9d03-ca07-0617-7517-e7c26c213124",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1995.235"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Reposoir"
+            ],
+            "weight": 745,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:22:34-05:00",
+    "timestamp": "2023-09-24T01:22:13-05:00"
+}

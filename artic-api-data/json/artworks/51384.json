@@ -1,0 +1,179 @@
+{
+    "id": 51384,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/51384",
+    "is_boosted": false,
+    "title": "Scarf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAJCIfaeMcbGWe7aZe7GafYuEgZqVkZSUma2hj6uknbOklLywlpyboa+moLqyp76wpsW6nsu9o828osK7qsK/v8bCucTExc7JweTm1wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIGMAxdEIS5AoEhYhzwARDnVNlRUCADs=",
+        "width": 4364,
+        "height": 4500,
+        "alt_text": "A work made of silk, plain weave (creped wefts); screen printed."
+    },
+    "main_reference_number": "1976.389",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1915,
+    "date_end": 1935,
+    "date_display": "c. 1925",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "148.9 \u00d7 148.7 cm (58 5/8 \u00d7 58 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 148.7,
+            "width_in": 58.5,
+            "height_cm": 148.9,
+            "height_in": 58.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, plain weave (creped wefts); screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Fred Thulin, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.5657,
+    "color": {
+        "h": 38,
+        "l": 45,
+        "s": 54,
+        "percentage": 0.008872908553074326,
+        "population": 65
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "screen printing",
+        "textile",
+        "weaving - printed",
+        "costume",
+        "costume accessory",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-81",
+        "TM-91"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-81",
+        "TM-91"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "costume",
+        "costume accessory"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "e147a283-4e91-5a78-9c8a-530f7ea2c655",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.389"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Scarf"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:17:33-05:00",
+    "timestamp": "2023-09-24T00:43:12-05:00"
+}

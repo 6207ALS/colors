@@ -1,0 +1,176 @@
+{
+    "id": 132515,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/132515",
+    "is_boosted": false,
+    "title": "Saul and the Witch of Endor",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFtST19VVWdfW2ZeXG5lYXNsZ3lva3lwa3pxbn11cIV8d4d/eo+Ig5aPh5ePiZqSiZuUjpyVj5yVkKCakaaflqihlqihmKymm7GqobKrobWvpbu1qs/Kvu7q3QAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAYABQAABRjgU13NYh0UNwmKkXUagQTJVgCDBGEOE4UAOw==",
+        "width": 989,
+        "height": 768,
+        "alt_text": "A work made of engraving on paper."
+    },
+    "main_reference_number": "1898.333",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1788,
+    "date_end": 1788,
+    "date_display": "1788",
+    "date_qualifier_title": "Published",
+    "date_qualifier_id": 10,
+    "artist_display": "William Sharp (English, 1749-1824)\nafter Benjamin West (American, 1738-1820)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "49 \u00d7 51.5 cm (19 5/16 \u00d7 20 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 51.5,
+            "width_in": 20.2756,
+            "height_cm": 49,
+            "height_in": 19.2914,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Dr. John Bartlett",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.9342,
+    "color": {
+        "h": 8,
+        "l": 31,
+        "s": 6,
+        "percentage": 0.3460922007008775,
+        "population": 1911
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36625,
+    "artist_title": "William Sharp",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36625
+    ],
+    "artist_titles": [
+        "William Sharp"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-834"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Halloween"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Halloween"
+    ],
+    "image_id": "8883eecd-bff2-df0c-f4fc-dc157560cee8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1898.333"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Saul and the Witch of Endor"
+            ],
+            "weight": 556,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T10:22:29-05:00",
+    "timestamp": "2023-09-24T01:20:02-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 148048,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/148048",
+    "is_boosted": false,
+    "title": "Spalted Bowl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAKpsMKR6Us6IOrKBU76RaryXcsyVUtCaW+WeTcCVbdilZdupasylf6ChpKepraioq6+ws7KztbS1uLi5vcW6sL/CxcHBw8PDw8TCwcTHycrJycjJysrLy8nMzcrNz8rP08zR1cjR2MvU2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQJDIY8mEPhXGQnEoTBwEhEEwaEggCUDgEeFoMJTLphMEADs=",
+        "width": 3000,
+        "height": 2117,
+        "alt_text": "A work made of yellow birch."
+    },
+    "main_reference_number": "1997.480",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1987,
+    "date_end": 1987,
+    "date_display": "1987",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mark Lindquist\nAmerican, born 1949",
+    "place_of_origin": "Quincy",
+    "description": null,
+    "dimensions": "41 \u00d7 18.1 cm (16 1/8 \u00d7 7 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.1,
+            "width_in": 7.125,
+            "height_cm": 41,
+            "height_in": 16.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Yellow birch",
+    "inscriptions": null,
+    "credit_line": "Gift of Arthur and Jane Mason",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1998,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 64.016,
+    "color": {
+        "h": 303,
+        "l": 65,
+        "s": 0,
+        "percentage": 0.32616605361005613,
+        "population": 1636
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 74531,
+    "artist_title": "Mark Lindquist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        74531
+    ],
+    "artist_titles": [
+        "Mark Lindquist"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "birch",
+        "bowl",
+        "wood",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11712",
+    "classification_title": "bowl",
+    "alt_classification_ids": [
+        "TM-84",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11712",
+        "TM-84",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "bowl",
+        "wood",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3553",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3553"
+    ],
+    "material_titles": [
+        "birch"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "45d5a793-ba36-6e2b-9ea8-01f91fb40e92",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.480"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Spalted Bowl"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:46:10-06:00",
+    "updated_at": "2023-09-15T13:00:58-05:00",
+    "timestamp": "2023-09-24T01:26:24-05:00"
+}

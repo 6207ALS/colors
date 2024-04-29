@@ -1,0 +1,33 @@
+{
+    "id": 68321,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/68321",
+    "title": "Ilya Salishchev",
+    "sort_title": "Salishchev, Ilya",
+    "alt_titles": [
+        "\u0418\u043b\u044c\u044f \u0421\u0430\u043b\u0438\u0449\u0435\u0432",
+        "Il'ia Salishchev"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ilya Salishchev",
+            "Salishchev, Ilya",
+            "\u0418\u043b\u044c\u044f \u0421\u0430\u043b\u0438\u0449\u0435\u0432",
+            "Il'ia Salishchev"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:24:58-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

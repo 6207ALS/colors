@@ -1,0 +1,183 @@
+{
+    "id": 93879,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/93879",
+    "is_boosted": false,
+    "title": "Dwan Gallery Poster",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAIV8eYqBfZqMhbeon76zq8m+ucjAuMrBuM/GvdDIvdvQxd7RyuXbz+ne0ebg1uri1+/k2+vj3fDn2vDo2/Pq4fPt5PXu5vXv5/r06wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYHVZEIURxRI1QoA4ygAczJQYjxQCADs=",
+        "width": 3000,
+        "height": 2772,
+        "alt_text": "A work made of color offset lithograph on off-white wove paper."
+    },
+    "main_reference_number": "1977.102",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Robert Rauschenberg\nAmerican, 1925-2008",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 56 \u00d7 62 cm (22 1/16 \u00d7 24 7/16 in.); Sheet: 58.1 \u00d7 63.2 cm (22 7/8 \u00d7 24 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 62,
+            "width_in": 24.4095,
+            "height_cm": 56,
+            "height_in": 22.0473,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.2,
+            "width_in": 24.8819,
+            "height_cm": 58.1,
+            "height_in": 22.8741,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Color offset lithograph on off-white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Joseph R. Shapiro",
+    "catalogue_display": "<p>Foster 34</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Robert Rauschenberg Foundation.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.2251,
+    "color": {
+        "h": 5,
+        "l": 34,
+        "s": 8,
+        "percentage": 0.014923168523687485,
+        "population": 98
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36326,
+    "artist_title": "Robert Rauschenberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36326
+    ],
+    "artist_titles": [
+        "Robert Rauschenberg"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5e1a705a-912a-f0e7-395b-cf287a2b2457",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.102"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dwan Gallery Poster"
+            ],
+            "weight": 1121,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:54:06-05:00",
+    "timestamp": "2023-09-24T01:01:30-05:00"
+}

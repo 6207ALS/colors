@@ -1,0 +1,28 @@
+{
+    "id": 15660,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15660",
+    "title": "Dennis J. Loy",
+    "sort_title": "Loy, Dennis J.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1939,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dennis J. Loy",
+            "Loy, Dennis J."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:20-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

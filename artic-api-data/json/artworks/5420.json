@@ -1,0 +1,167 @@
+{
+    "id": 5420,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/5420",
+    "is_boosted": false,
+    "title": "Headdress",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAA4ODiMjIzMzMzs7O0FBQUZGRk5OTlZWVldXV1hYWFlZWV5eXl9fX2BgYGVlZWhoaGpqaoKCgoSEhJGRkZOTk6SkpLGxsbi4uOPj4+vr6/Pz8wAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUYoGYlyLVhBtMUFRQIk3QQwBApD3U4C5WFADs=",
+        "width": 1508,
+        "height": 1345,
+        "alt_text": "A work made of silver."
+    },
+    "main_reference_number": "1930.369",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Austria",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Silver",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Potter Palmer II",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1931,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.05158249413189975,
+        "population": 327
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "headdress - misc",
+        "costume accessory - headdress",
+        "costume accessory",
+        "costume",
+        "dress (garment)",
+        "clothing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-2332",
+        "TM-1656",
+        "TM-91",
+        "TM-81",
+        "TM-11897",
+        "TM-12173"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-2332",
+        "TM-1656",
+        "TM-91",
+        "TM-81",
+        "TM-11897",
+        "TM-12173"
+    ],
+    "classification_titles": [
+        "textile",
+        "headdress - misc",
+        "costume accessory - headdress",
+        "costume accessory",
+        "costume",
+        "dress (garment)",
+        "clothing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3243edb4-4612-891b-f1d9-4546b99f9351",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1930.369"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Headdress"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:01-05:00",
+    "updated_at": "2023-04-10T15:30:32-05:00",
+    "timestamp": "2023-09-24T00:22:37-05:00"
+}

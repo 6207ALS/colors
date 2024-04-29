@@ -1,0 +1,176 @@
+{
+    "id": 105691,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/105691",
+    "is_boosted": false,
+    "title": "Egypt",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHlzZ354aYqEc4+IdpGKeJWOfaSdjamkla2oma6pma2pmrixnL63oszFstzZyeDcyufl1uzq3e3r3/b05wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBRBzoQkjyIAR0AMhbEwTQgAOw==",
+        "width": 2399,
+        "height": 3000,
+        "alt_text": "A work made of book containing photogravures (25)."
+    },
+    "main_reference_number": "1976.654a-y",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1888,
+    "date_end": 1898,
+    "date_display": "c. 1893",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "R. M. Junghaendel (German, active 19th century) and C. G. Rawlinson (German, 19th Century)\npublished by Cosmos Art Publishing Company (German, 19th century)",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "54.3 \u00d7 44.5 cm (21 7/16 \u00d7 17 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 44.5,
+            "width_in": 17.5197,
+            "height_cm": 54.3,
+            "height_in": 21.378,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book containing photogravures (25)",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mr. and Mrs. George Ranney",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.3161,
+    "color": {
+        "h": 47,
+        "l": 54,
+        "s": 27,
+        "percentage": 0.0012380109890357243,
+        "population": 11
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 13262,
+    "artist_title": "R. M. Junghaendel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        13262
+    ],
+    "artist_titles": [
+        "R. M. Junghaendel"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photogravure",
+        "19th century",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-275",
+    "classification_title": "photogravure",
+    "alt_classification_ids": [
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-275",
+        "TM-1597",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photogravure",
+        "photomechanical process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "33f9b78e-2c97-cddc-745a-ba3e4ed6273c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.654a-y"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Egypt"
+            ],
+            "weight": 304,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:23:01-05:00",
+    "timestamp": "2023-09-24T01:07:56-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 31799,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/31799",
+    "is_boosted": false,
+    "title": "Pueblo Country",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIB0YYR3ZIZ6Zod+a4l+bY+CbI+DcpOHcJGGdJOLd5mPdpmMeZuOepuTfJ+XfKGTcqOVdKOUdaWWdqOWeKWXfqWZfKecf5+YhJ6YhaCbh6qdhKGdiKKdiaWhjQAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAYABQAABRhghl1bYnAN1Q2E5VSagEiTcgBL9EBFwIQAOw==",
+        "width": 949,
+        "height": 768,
+        "alt_text": "A work made of watercolor, over graphite, on gray wove laminate illustration board."
+    },
+    "main_reference_number": "1926.1554",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1882,
+    "date_end": 1926,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Arthur B. Davies\nAmerican, 1862-1928",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "25.1 \u00d7 30.2 cm (9 15/16 \u00d7 11 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30.2,
+            "width_in": 11.8898,
+            "height_cm": 25.1,
+            "height_in": 9.8819,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor, over graphite, on gray wove laminate illustration board",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1927,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.3182,
+    "color": {
+        "h": 41,
+        "l": 53,
+        "s": 18,
+        "percentage": 0.3842233609194922,
+        "population": 2209
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34151,
+    "artist_title": "Arthur B. Davies",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34151
+    ],
+    "artist_titles": [
+        "Arthur B. Davies"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "watercolor",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-39",
+    "classification_title": "watercolor",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-39",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "watercolor",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "94906989-2dd6-a4be-74f8-bed12cee17e9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.1554"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pueblo Country"
+            ],
+            "weight": 76,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T13:59:54-05:00",
+    "timestamp": "2023-09-24T00:34:33-05:00"
+}

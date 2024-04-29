@@ -1,0 +1,184 @@
+{
+    "id": 58472,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/58472",
+    "is_boosted": false,
+    "title": "Child's Bedcover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAK+qpbCrqLGsq7Ouqrqyq7q0rL+4sL+5ssG6tMC7tsG7tsG8ucW/uMS+ucO+vcbBvcfBv9zTx93VyuLYy+LazePa0ePb0eHa1OTd1eXd1+ff2ujg1+ji2wAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoKAQxQE42URtzHJFEpZAWmVxT9AgBjOEADs=",
+        "width": 5775,
+        "height": 4562,
+        "alt_text": "A work made of cotton, plain weave; quilted; areas filled with cotton thread; braid and tassels along all four sides."
+    },
+    "main_reference_number": "1979.564",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1715,
+    "date_end": 1725,
+    "date_display": "c. 1720",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England or France",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "106.8 \u00d7 141.2 cm (42 \u00d7 55 5/8 in.); Including braid and tassels: 113.1 \u00d7 148.3 cm (58 3/8 \u00d7 44 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 141.2,
+            "width_in": 55.625,
+            "height_cm": 106.8,
+            "height_in": 42,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 148.3,
+            "width_in": 44.5,
+            "height_cm": 113.1,
+            "height_in": 58.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Including braid and tassels"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; quilted; areas filled with cotton thread; braid and tassels along all four sides",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Needlework and Textile Guild",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.5461,
+    "color": {
+        "h": 3,
+        "l": 57,
+        "s": 2,
+        "percentage": 0.4183899201692795,
+        "population": 2349
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "cotton (fiber)",
+        "plain weaving",
+        "textile",
+        "needlework - quilt",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1016",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1016",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework - quilt",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3081",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3081"
+    ],
+    "material_titles": [
+        "cotton (fiber)"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10513"
+    ],
+    "technique_titles": [
+        "plain weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "694e2d1d-0d72-33b9-428a-5790adc66126",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1979.564"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Child's Bedcover"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-11T11:46:23-05:00",
+    "updated_at": "2023-07-11T11:50:52-05:00",
+    "timestamp": "2023-09-24T00:45:30-05:00"
+}

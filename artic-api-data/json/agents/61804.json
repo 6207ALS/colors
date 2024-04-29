@@ -1,0 +1,43 @@
+{
+    "id": 61804,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/61804",
+    "title": "Monogrammist b. g.",
+    "sort_title": "Monogrammist b. g.",
+    "alt_titles": [
+        "Master b x g",
+        "Monogrammist B.G. Monogrammist B.G.",
+        "Monogrammist B.X.G. Monogrammist B.X.G.",
+        "Monogrammist bg Monogrammist bg",
+        "(Schongauer) Barthel Schon",
+        "B X G, Master",
+        "Master bxg"
+    ],
+    "is_artist": true,
+    "birth_date": 1466,
+    "death_date": 1490,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Monogrammist b. g.",
+            "Monogrammist b. g.",
+            "Master b x g",
+            "Monogrammist B.G. Monogrammist B.G.",
+            "Monogrammist B.X.G. Monogrammist B.X.G.",
+            "Monogrammist bg Monogrammist bg",
+            "(Schongauer) Barthel Schon",
+            "B X G, Master",
+            "Master bxg"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-09T12:25:41-05:00",
+    "updated_at": "2022-03-15T16:59:30-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

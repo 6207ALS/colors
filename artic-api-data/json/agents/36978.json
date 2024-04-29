@@ -1,0 +1,31 @@
+{
+    "id": 36978,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36978",
+    "title": "Louis Comfort Tiffany",
+    "sort_title": "Tiffany, Louis Comfort",
+    "alt_titles": [
+        "Louis C. Tiffany"
+    ],
+    "is_artist": true,
+    "birth_date": 1848,
+    "death_date": 1933,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Comfort Tiffany",
+            "Tiffany, Louis Comfort",
+            "Louis C. Tiffany"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-09-23T09:51:33-05:00",
+    "updated_at": "2022-09-23T11:51:03-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

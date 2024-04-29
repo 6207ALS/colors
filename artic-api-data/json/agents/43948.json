@@ -1,0 +1,37 @@
+{
+    "id": 43948,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43948",
+    "title": "Hieronymus Cock",
+    "sort_title": "Cock, Hieronymus",
+    "alt_titles": [
+        "Hieronymus Wellens Kock",
+        "Jeronimus Cock",
+        "Jeronimus Koch",
+        "Hieronymus Wellens de Cock"
+    ],
+    "is_artist": true,
+    "birth_date": 1505,
+    "death_date": 1570,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hieronymus Cock",
+            "Cock, Hieronymus",
+            "Hieronymus Wellens Kock",
+            "Jeronimus Cock",
+            "Jeronimus Koch",
+            "Hieronymus Wellens de Cock"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T10:01:49-06:00",
+    "updated_at": "2023-02-15T10:02:23-06:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

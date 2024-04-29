@@ -1,0 +1,31 @@
+{
+    "id": 46837,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46837",
+    "title": "Circle of Fran\u00e7ois Verdier",
+    "sort_title": "Verdier, Fran\u00e7ois, Circle of",
+    "alt_titles": [
+        "Circle of Fran\u00e7ois van Hamken"
+    ],
+    "is_artist": true,
+    "birth_date": 1651,
+    "death_date": 1730,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Fran\u00e7ois Verdier",
+            "Verdier, Fran\u00e7ois, Circle of",
+            "Circle of Fran\u00e7ois van Hamken"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:44-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

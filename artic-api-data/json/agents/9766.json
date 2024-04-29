@@ -1,0 +1,39 @@
+{
+    "id": 9766,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9766",
+    "title": "Apollonio di Giovanni",
+    "sort_title": "Apollonio di Giovanni",
+    "alt_titles": [
+        "Master of the Jarves Cassoni",
+        "Apollonio di Giovanni di Tomaso",
+        "Apollonia di Giovanni",
+        "Apollonio di Giovanni di Tommaso",
+        "Dido Master"
+    ],
+    "is_artist": true,
+    "birth_date": 1415,
+    "death_date": 1465,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Apollonio di Giovanni",
+            "Apollonio di Giovanni",
+            "Master of the Jarves Cassoni",
+            "Apollonio di Giovanni di Tomaso",
+            "Apollonia di Giovanni",
+            "Apollonio di Giovanni di Tommaso",
+            "Dido Master"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:02-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

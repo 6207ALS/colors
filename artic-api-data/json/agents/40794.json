@@ -1,0 +1,35 @@
+{
+    "id": 40794,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40794",
+    "title": "Gabriel Jacques de Saint-Aubin",
+    "sort_title": "Saint-Aubin, Gabriel Jacques de",
+    "alt_titles": [
+        "Gabriel Jacques de Saint Aubin",
+        "Gabriel de Saint-Aubin",
+        "Gabriel Jacques Saint-Aubin"
+    ],
+    "is_artist": true,
+    "birth_date": 1724,
+    "death_date": 1780,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gabriel Jacques de Saint-Aubin",
+            "Saint-Aubin, Gabriel Jacques de",
+            "Gabriel Jacques de Saint Aubin",
+            "Gabriel de Saint-Aubin",
+            "Gabriel Jacques Saint-Aubin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:11-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

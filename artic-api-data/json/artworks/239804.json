@@ -1,0 +1,177 @@
+{
+    "id": 239804,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/239804",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANTPytXRy9jTztjTz9vX0tzX0tzX097Z1N7Z1eHb1+Db2OHc2OLd2eTf3Obi3ujj4erl4+3o5gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYOMwyREABGMIyFIMChRFTwgAOw==",
+        "width": 2406,
+        "height": 3000,
+        "alt_text": "A work made of pen and black ink, with traces of graphite, on white wove paper."
+    },
+    "main_reference_number": "2017.209",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2013,
+    "date_end": 2013,
+    "date_display": "2013",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jo Margolis\nAmerican, born 1944",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "25.7 \u00d7 20.8 cm (10 1/8 \u00d7 8 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.8,
+            "width_in": 8.189,
+            "height_cm": 25.7,
+            "height_in": 10.1182,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink, with traces of graphite, on white wove paper",
+    "inscriptions": "Signed and dated lower right, in graphite: \u201cJo Margolis 2013\u201d",
+    "credit_line": "Gift of G. Daniel Massad and Scott H. Eggert",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "The artist to Daniel Massad; given to the Art Institute of Chicago, 2017.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.9067,
+    "color": {
+        "h": 356,
+        "l": 88,
+        "s": 2,
+        "percentage": 0.01930037821969248,
+        "population": 171
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 115408,
+    "artist_title": "Jo Margolis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115408
+    ],
+    "artist_titles": [
+        "Jo Margolis"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-13"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "21st Century",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "5905338a-7ddd-17d6-da16-7c4607917633",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.209"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 24,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:34-05:00",
+    "updated_at": "2023-04-07T14:57:42-05:00",
+    "timestamp": "2023-09-24T01:53:05-05:00"
+}

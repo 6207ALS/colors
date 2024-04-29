@@ -1,0 +1,184 @@
+{
+    "id": 286,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/286",
+    "is_boosted": false,
+    "title": "Portrait Head of a Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAAAAABoaGh4eHigoKC0tLTw8PEBAQEdHR1BQUIaGhpubm52dnaysrMrKytHR0QAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAQPEKADhmOBNCXASgBgFEAEADs=",
+        "width": 4466,
+        "height": 5847,
+        "alt_text": "A work made of marble."
+    },
+    "main_reference_number": "1889.123",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 140,
+    "date_end": 140,
+    "date_display": "about 140",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Roman",
+    "place_of_origin": "Rome",
+    "description": null,
+    "dimensions": "35.6 \u00d7 16.5 \u00d7 22.2 cm (14 \u00d7 6 1/2 \u00d7 8 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 22.2,
+            "depth_in": 8.75,
+            "width_cm": 16.5,
+            "width_in": 6.5,
+            "height_cm": 35.6,
+            "height_in": 14,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "marble",
+    "inscriptions": null,
+    "credit_line": "Museum Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Said to be from Rome [Old Register at the Art Institute of Chicago]. Pio Marinangeli, Rome; sold to the Art Institute of Chicago, 1889.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.03234222153454708,
+        "population": 301
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 51349,
+    "artist_title": "Ancient Roman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        51349
+    ],
+    "artist_titles": [
+        "Ancient Roman"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "marble",
+        "heads",
+        "stone",
+        "sculpture",
+        "ancient art",
+        "females"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-199",
+    "classification_title": "marble",
+    "alt_classification_ids": [
+        "TM-96",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-199",
+        "TM-96",
+        "TM-13",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "marble",
+        "stone",
+        "sculpture",
+        "ancient art"
+    ],
+    "subject_id": "TM-12196",
+    "alt_subject_ids": [
+        "TM-12199"
+    ],
+    "subject_ids": [
+        "TM-12196",
+        "TM-12199"
+    ],
+    "subject_titles": [
+        "heads",
+        "females"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "95d7115d-3f78-ce6a-d174-d8f3581c9aa4",
+    "alt_image_ids": [
+        "8cded22e-afb8-e471-7605-8b256246e738",
+        "2a737d21-0ce5-81e3-6f65-22d292a3e144"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1889.123"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait Head of a Woman"
+            ],
+            "weight": 11136,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2023-09-23T23:19:22-05:00",
+    "timestamp": "2023-09-24T00:20:47-05:00"
+}

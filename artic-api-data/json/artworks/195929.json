@@ -1,0 +1,163 @@
+{
+    "id": 195929,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/195929",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAABhKZxBJahpOax9XdTFlhFF3jU17l1V7kGyLm26On3+Tn4KVo4GaqoqdqJWkr5+vuKusrK2urqKzv6ixurOxsre8vbu7u729vL69vcC+vMC+v8DAv77FyMTDwsHExsTGxsnIx8DGycjIycvKyszLysrJzMrKzM3NzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQArm85BwRhdIRgEgIECWiKYgGBw8G9HJEGAkQiRTabJwNCqdIAA7",
+        "width": 640,
+        "height": 427,
+        "alt_text": "A work made of papier-m\u00e2ch\u00e9 and acrylic paint."
+    },
+    "main_reference_number": "2017.223",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2008,
+    "date_end": 2008,
+    "date_display": "2008",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Vincent Fecteau\nAmerican, born 1969",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "65.4 \u00d7 83.2 \u00d7 31.8 cm (25 3/4 \u00d7 32 3/4 \u00d7 12 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 31.8,
+            "depth_in": 12.5,
+            "width_cm": 83.2,
+            "width_in": 32.75,
+            "height_cm": 65.4,
+            "height_in": 25.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Papier-m\u00e2ch\u00e9 and acrylic paint",
+    "inscriptions": null,
+    "credit_line": "Gift of Nancy Lauter McDougal and Alfred L. McDougal",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "The Art Institute of Chicago, focus: Vincent Fecteau New Work, Sept. 11\u2013Nov. 30, 2008.",
+    "provenance_text": "Nancy Lauter McDougal and Alfred L. McDougal, purchased from greengrassi, London, 2008.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.587,
+    "color": {
+        "h": 195,
+        "l": 36,
+        "s": 70,
+        "percentage": 0.051713293060287144,
+        "population": 245
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 108427,
+    "artist_title": "Vincent Fecteau",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        108427
+    ],
+    "artist_titles": [
+        "Vincent Fecteau"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "21st Century"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cd0a315d-c9a6-b488-2986-045bd26bfe37",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.223"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:57:38-05:00",
+    "timestamp": "2023-09-24T01:38:14-05:00"
+}

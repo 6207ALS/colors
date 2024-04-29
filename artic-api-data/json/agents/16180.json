@@ -1,0 +1,28 @@
+{
+    "id": 16180,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16180",
+    "title": "Peter Marcus",
+    "sort_title": "Marcus, Peter",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1889,
+    "death_date": 1934,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Peter Marcus",
+            "Marcus, Peter"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:04-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

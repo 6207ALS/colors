@@ -1,0 +1,39 @@
+{
+    "id": 5697,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5697",
+    "title": "Sculpture by Peterpaul Ott and Robert Jay Wolff",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1935-07-25T00:00:00-05:00",
+    "aic_end_at": "1935-10-13T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "e6d228ca-7166-509a-ee03-c37ea110ee90",
+        "4d2eda80-4a1d-1ae1-a039-32b25af4ef86"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sculpture by Peterpaul Ott and Robert Jay Wolff"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:18:57-06:00",
+    "timestamp": "2023-09-24T02:01:38-05:00"
+}

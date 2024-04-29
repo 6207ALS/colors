@@ -1,0 +1,48 @@
+{
+    "id": 15615,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15615",
+    "title": "Tiffany Studios (Firm)",
+    "sort_title": "Tiffany Studios (Firm)",
+    "alt_titles": [
+        "Louis Comfort Tiffany Studios",
+        "Tiffany Studios",
+        "Tiffany Studios, New York",
+        "Allied Arts Co. (NY)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Tiffany Studios (Firm)",
+            "Tiffany Studios (Firm)",
+            "Louis Comfort Tiffany Studios",
+            "Tiffany Studios",
+            "Tiffany Studios, New York",
+            "Allied Arts Co. (NY)"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tiffany Studios (Firm)",
+            "Tiffany Studios (Firm)",
+            "Louis Comfort Tiffany Studios",
+            "Tiffany Studios",
+            "Tiffany Studios, New York",
+            "Allied Arts Co. (NY)"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-09-23T09:53:17-05:00",
+    "updated_at": "2022-09-23T11:51:03-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

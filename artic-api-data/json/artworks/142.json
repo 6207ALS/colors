@@ -1,0 +1,160 @@
+{
+    "id": 142,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/142",
+    "is_boosted": false,
+    "title": "Portrait of Philibert Orrey",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC4rJzMwKz07NERBOkxIQU9MQ1VRSF1YUF9aUmFcU2JeU2JeVG9pXnBqYXZyZXdzZnhxZoJ8boN+b4eAdQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIQ0E2MQxxIMSQEISuQ8UggAOw==",
+        "width": 2267,
+        "height": 3000,
+        "alt_text": "A work made of engraving on paper."
+    },
+    "main_reference_number": "1888.181",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1737,
+    "date_end": 1737,
+    "date_display": "1737",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fran\u00e7ois Bernard L\u00e9pici\u00e9 (French, 1698-1755)\nafter Hyacinthe Rigaud (French, 1659-1743)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Elizabeth Hammond Stickney Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.8103,
+    "color": {
+        "h": 38,
+        "l": 50,
+        "s": 8,
+        "percentage": 0.07755772944161626,
+        "population": 729
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42367,
+    "artist_title": "Fran\u00e7ois Bernard L\u00e9pici\u00e9",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42367
+    ],
+    "artist_titles": [
+        "Fran\u00e7ois Bernard L\u00e9pici\u00e9"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "14fc8342-1018-c621-82c3-f9ee60e6f81c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1888.181"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Philibert Orrey"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:44:47-05:00",
+    "updated_at": "2023-04-10T15:30:54-05:00",
+    "timestamp": "2023-09-24T00:20:44-05:00"
+}

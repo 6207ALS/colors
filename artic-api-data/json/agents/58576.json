@@ -1,0 +1,28 @@
+{
+    "id": 58576,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/58576",
+    "title": "Tobias Stimmer",
+    "sort_title": "Stimmer, Tobias",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1539,
+    "death_date": 1584,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tobias Stimmer",
+            "Stimmer, Tobias"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:59-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

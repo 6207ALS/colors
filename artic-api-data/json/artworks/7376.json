@@ -1,0 +1,163 @@
+{
+    "id": 7376,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/7376",
+    "is_boosted": false,
+    "title": "Portrait of a Man",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACosLCouLzYzJTY0Kjk2Ljs3Li8wM1ROOlhQNh8zSSI2TjtGTi5AUGhpX3VyYXNzapGMfJyUiKSimwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoCEMBuA0QSJFCvNAC4EcRQgAOw==",
+        "width": 2139,
+        "height": 3000,
+        "alt_text": "A work made of opaque watercolor on parchment (est.)."
+    },
+    "main_reference_number": "1958.84",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1635,
+    "date_end": 1645,
+    "date_display": "late 16th/early 17th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Isaac Oliver, Attributed to \nEnglish, b. France,  c.1560-1617",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "4.8 \u00d7 3.8 cm (1 7/8 \u00d7 1 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 3.8,
+            "width_in": 1.5,
+            "height_cm": 4.8,
+            "height_in": 1.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Opaque watercolor on parchment (est.)",
+    "inscriptions": null,
+    "credit_line": "Colonel Alexander F. and Jeannie C. Stevenson Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.7623,
+    "color": {
+        "h": 47,
+        "l": 45,
+        "s": 59,
+        "percentage": 0.0027096844120888053,
+        "population": 27
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Miniature Painting",
+    "artwork_type_id": 30,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 41138,
+    "artist_title": "Isaac Oliver, the elder",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41138
+    ],
+    "artist_titles": [
+        "Isaac Oliver, the elder"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "miniature painting",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-340",
+    "classification_title": "miniature painting",
+    "alt_classification_ids": [
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-340",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "miniature painting",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "841bc0ea-f514-51ca-bbf8-6ff7c38f11c8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1958.84"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Man"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-03T14:43:34-05:00",
+    "updated_at": "2023-08-03T14:45:54-05:00",
+    "timestamp": "2023-09-24T00:23:19-05:00"
+}

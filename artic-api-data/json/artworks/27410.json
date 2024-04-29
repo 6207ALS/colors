@@ -1,0 +1,168 @@
+{
+    "id": 27410,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27410",
+    "is_boosted": false,
+    "title": "Group",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADk6PXBTPXJVP0tEQUtIR0ZHSklISk9PUllYXHxeSGVcWGBcXGdmbWlobo9nSJJoSIt8cqF9Y4yMkJKTmaOZkqigmq+km7/AwsTGyAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIDAQhXEIwYI00aMwUuJA01VRFhYCADs=",
+        "width": 2389,
+        "height": 2250,
+        "alt_text": "A work made of terracotta."
+    },
+    "main_reference_number": "1938.252",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1925,
+    "date_display": "1900\u201325",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "George Grey Barnard\nAmerican, 1863\u20131938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "H.: 16.8 cm (6 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 16.8,
+            "height_in": 6.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Terracotta",
+    "inscriptions": null,
+    "credit_line": "Gift of Miss Caroline D. Wade",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Kankakee County Museum, <em>George Barnard</em>, Oct. 1, 1991\u2013Oct. 1, 1992.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.1135,
+    "color": {
+        "h": 261,
+        "l": 42,
+        "s": 2,
+        "percentage": 0.15911148560825408,
+        "population": 1065
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 44976,
+    "artist_title": "George Grey Barnard",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44976
+    ],
+    "artist_titles": [
+        "George Grey Barnard"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "terracotta",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2433",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2433"
+    ],
+    "material_titles": [
+        "terracotta"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "50a3785f-dc57-9206-7a02-adc6e9e1a121",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.252"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Group"
+            ],
+            "weight": 111,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:24:57-05:00",
+    "timestamp": "2023-09-24T00:32:32-05:00"
+}

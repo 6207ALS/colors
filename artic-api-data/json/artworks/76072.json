@@ -1,0 +1,159 @@
+{
+    "id": 76072,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/76072",
+    "is_boosted": false,
+    "title": "Bedcover (Sunburst or Feathered Edged Star Quilt)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGFMP21VR3hhVntlW4VsXoVsX4BrY4VtYoRtZYhuYYhvY410a5R6c5yFfqCGfZ+GgLGdkLaglbehlbShmLmmncavp8OwqcixqwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIEAUSTBAkKQY1BQdzGVVC/I0jhACADs=",
+        "width": 744,
+        "height": 768,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1919.554",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1825,
+    "date_end": 1835,
+    "date_display": "c. 1830",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "226.1 \u00d7 233.7 cm (89 \u00d7 92 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 233.7,
+            "width_in": 92,
+            "height_cm": 226.1,
+            "height_in": 89,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Gift of Emma B. Hodge",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 58.2577,
+    "color": {
+        "h": 23,
+        "l": 45,
+        "s": 88,
+        "percentage": 0.0061357221744999385,
+        "population": 45
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework - quilt"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1016"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1016"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework - quilt"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2a49889d-45b5-4631-71a9-8674861abdc1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1919.554"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bedcover (Sunburst or Feathered Edged Star Quilt)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:35:39-05:00",
+    "timestamp": "2023-09-24T00:53:04-05:00"
+}

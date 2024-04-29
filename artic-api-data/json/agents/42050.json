@@ -1,0 +1,43 @@
+{
+    "id": 42050,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42050",
+    "title": "Giovanni Battista Caracciolo",
+    "sort_title": "Caracciolo, Giovanni Battista",
+    "alt_titles": [
+        "Giovanni Battista Caracciuolo",
+        "Battistella",
+        "Battistello Battistello",
+        "Giovanni B. Caracciolo",
+        "Giovanni Battista Caracciolo, (Battistello)",
+        "Giovanni Battista Carracciulo, (Il Battistella)",
+        "Il Battistella"
+    ],
+    "is_artist": true,
+    "birth_date": 1578,
+    "death_date": 1635,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni Battista Caracciolo",
+            "Caracciolo, Giovanni Battista",
+            "Giovanni Battista Caracciuolo",
+            "Battistella",
+            "Battistello Battistello",
+            "Giovanni B. Caracciolo",
+            "Giovanni Battista Caracciolo, (Battistello)",
+            "Giovanni Battista Carracciulo, (Il Battistella)",
+            "Il Battistella"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-12-05T12:55:50-06:00",
+    "updated_at": "2022-03-15T16:33:36-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

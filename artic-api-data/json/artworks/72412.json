@@ -1,0 +1,169 @@
+{
+    "id": 72412,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/72412",
+    "is_boosted": false,
+    "title": "Armchair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHNaT4ZvZY2FgJSHgJeLhpKNiZyPiaenpqerraurqq2wsLCysbC1tbO2tr3FxgAAACH5BAAAAAAALAAAAAADAAUAAAQL8KRGhjNhCVAUYhEAOw==",
+        "width": 1439,
+        "height": 2250,
+        "alt_text": "A work made of oak."
+    },
+    "main_reference_number": "1988.320",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1840,
+    "date_end": 1860,
+    "date_display": "1840\u201360",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 19th century)\nNew York",
+    "place_of_origin": "New York",
+    "description": null,
+    "dimensions": "157.5 \u00d7 66.7 \u00d7 56.2 cm (62 \u00d7 26 1/4 \u00d7 22 1/8 (seat) in.); Overall d. 62.2 cm (24 1/2 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Oak",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Jeffrey Shedd",
+    "catalogue_display": null,
+    "publication_history": "Milo M. Naeve, <em>Identifying American Furniture</em>, 2nd ed. (Nashville, American Association for State and Local History, 1989), no. 61, (ill. 22).\n\nMilo M. Naeve, <em>Identifying American Furniture, Colonial to Contemporary</em>, 3rd ed. (AltaMira Press/American Association for State and Local History, 1997), ill.\n\nJudith A. Barter et al., <em>American Arts at The Art Institute of Chicago: From Colonial Times to World War I</em> (Chicago: The Art Institute of Chicago, 1998), 180\u2013181, no. 81.",
+    "exhibition_history": null,
+    "provenance_text": "Peter Hill, Inc., East Lempster, New Hampshire, by 1988; sold to the Art Institute of Chicago, 1988.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.7691,
+    "color": {
+        "h": 156,
+        "l": 62,
+        "s": 0,
+        "percentage": 0.15993534184041747,
+        "population": 1777
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 173",
+    "gallery_id": 2147476007,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "seating",
+        "oak",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3587",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3587"
+    ],
+    "material_titles": [
+        "oak"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7dda3303-91af-7131-3363-54b227a42763",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.320"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Armchair"
+            ],
+            "weight": 170,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:21:33-05:00",
+    "timestamp": "2023-09-24T00:51:39-05:00"
+}

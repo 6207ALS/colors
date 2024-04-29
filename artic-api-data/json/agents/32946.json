@@ -1,0 +1,31 @@
+{
+    "id": 32946,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32946",
+    "title": "Carl Toth",
+    "sort_title": "Toth, Carl",
+    "alt_titles": [
+        "Carl Wayne Toth"
+    ],
+    "is_artist": true,
+    "birth_date": 1947,
+    "death_date": 2022,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Carl Toth",
+            "Toth, Carl",
+            "Carl Wayne Toth"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-09-19T13:59:34-05:00",
+    "updated_at": "2022-09-19T14:01:07-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

@@ -1,0 +1,33 @@
+{
+    "id": 26001,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/26001",
+    "title": "Johann Alexander Thiele",
+    "sort_title": "Thiele, Johann Alexander",
+    "alt_titles": [
+        "Johann A. Thiele",
+        "Alexander Thiele"
+    ],
+    "is_artist": true,
+    "birth_date": 1685,
+    "death_date": 1752,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Alexander Thiele",
+            "Thiele, Johann Alexander",
+            "Johann A. Thiele",
+            "Alexander Thiele"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:53-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

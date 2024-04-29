@@ -1,0 +1,173 @@
+{
+    "id": 70666,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/70666",
+    "is_boosted": false,
+    "title": "Pig",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAKqsj7uzhbq9qMS/lNXLm8zNq9XMoMTDtc7Mt9DOutvWvNLSxt3dy9na0tra0t7d0dze09na2tra2trb29vc3Nvd3+Ph2dze4N7f4d3e4t7e4uHh4eTj4+Pk5uTk5ejn6Onq6Ozr7O3t7e3t7+7u7u/w7/Dw7+7v8fLy8vT09vX29vb29wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwEklo8FcKJJI56FgQCwcz+aECAwMhELjYwI5FgkB4DAqoVSrFCokIgUBADs=",
+        "width": 4781,
+        "height": 2807,
+        "alt_text": "A work made of jade."
+    },
+    "main_reference_number": "1950.803",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -206,
+    "date_end": 220,
+    "date_display": "Han dynasty (206 B.C.\u2013A.D. 220)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "9.5 \u00d7 2.5 \u00d7 2.1 cm (3 3/4 \u00d7 1 \u00d7 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 2.1,
+            "depth_in": 0.8125,
+            "width_cm": 2.5,
+            "width_in": 1,
+            "height_cm": 9.5,
+            "height_in": 3.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Jade",
+    "inscriptions": null,
+    "credit_line": "Edward and Louise B. Sonnenschein Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.5887,
+    "color": {
+        "h": 44,
+        "l": 59,
+        "s": 74,
+        "percentage": 0.0014378662065494803,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 132",
+    "gallery_id": 2147478118,
+    "nomisma_id": null,
+    "artwork_type_title": "Religious/Ritual Object",
+    "artwork_type_id": 24,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "jade",
+        "jade",
+        "Chinese (culture or style)",
+        "asian art",
+        "ritual objects"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-461",
+    "classification_title": "jade",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-12318"
+    ],
+    "classification_ids": [
+        "TM-461",
+        "TM-26",
+        "TM-12318"
+    ],
+    "classification_titles": [
+        "jade",
+        "asian art",
+        "ritual objects"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2800",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2800"
+    ],
+    "material_titles": [
+        "jade"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "52ba9d70-6ce5-714e-a773-a2f015cf5022",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.803"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pig"
+            ],
+            "weight": 72,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-16T14:20:53-06:00",
+    "updated_at": "2023-04-07T13:27:43-05:00",
+    "timestamp": "2023-09-24T00:51:09-05:00"
+}

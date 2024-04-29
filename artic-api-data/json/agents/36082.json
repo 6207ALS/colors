@@ -1,0 +1,33 @@
+{
+    "id": 36082,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36082",
+    "title": "Claes Oldenburg",
+    "sort_title": "Oldenburg, Claes",
+    "alt_titles": [
+        "Claes Thure Oldenburg",
+        "Kla'es Oldenberg"
+    ],
+    "is_artist": true,
+    "birth_date": 1929,
+    "death_date": 2022,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Claes Oldenburg",
+            "Oldenburg, Claes",
+            "Claes Thure Oldenburg",
+            "Kla'es Oldenberg"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-07-18T12:04:43-05:00",
+    "updated_at": "2022-07-18T12:05:57-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

@@ -1,0 +1,181 @@
+{
+    "id": 22760,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22760",
+    "is_boosted": false,
+    "title": "Portrait of Samuel Armitage",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADc4Ny86Q25jWmpjX2ppaXFoYHVva3BtbHlzbYeAeo2FfYeEg4uJh46LipSSkKCWjKSjo6Sko6ipqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoLQwUiMUzvAoBhIACUQcUQgAOw==",
+        "width": 3058,
+        "height": 3870,
+        "alt_text": "A work made of oil on ivory."
+    },
+    "main_reference_number": "1965.105",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1840,
+    "date_end": 1840,
+    "date_display": "c. 1840",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Thomas Birch\nAmerican, 1779\u20131851",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "H.: 6.7 cm (2 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 6.7,
+            "height_in": 2.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on ivory",
+    "inscriptions": null,
+    "credit_line": "Mary Louise Stevenson Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.616,
+    "color": {
+        "h": 97,
+        "l": 64,
+        "s": 0,
+        "percentage": 0.6160219059657736,
+        "population": 5541
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Miniature Painting",
+    "artwork_type_id": 30,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 2437,
+    "artist_title": "Thomas Birch",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2437
+    ],
+    "artist_titles": [
+        "Thomas Birch"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "miniature painting",
+        "oil paint (paint)",
+        "ivory",
+        "european decorative arts",
+        "miniature",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-340",
+    "classification_title": "miniature painting",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-591",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-340",
+        "TM-1394",
+        "TM-591",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "miniature painting",
+        "european decorative arts",
+        "miniature",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2442"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2442"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "ivory"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a6622073-3c5e-8f5f-2feb-71a81b623833",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1965.105"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Samuel Armitage"
+            ],
+            "weight": 41,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:55:20-05:00",
+    "timestamp": "2023-09-24T00:29:59-05:00"
+}

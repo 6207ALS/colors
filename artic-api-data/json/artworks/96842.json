@@ -1,0 +1,172 @@
+{
+    "id": 96842,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/96842",
+    "is_boosted": false,
+    "title": "Office Building, Chicago, Illinois, Perspective",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHh1aIqGeZOOfpWQf5SRf6ynlK2plre0nrixnbq1nsfCq8fFrMjCrNLOtuLbwgAAACH5BAAAAAAALAAAAAADAAUAAAQL0KHExAiAFHNUWxEAOw==",
+        "width": 2877,
+        "height": 4193,
+        "alt_text": "A work made of ink on polyester film."
+    },
+    "main_reference_number": "1982.88",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fujikawa, Conterato, Lohan, and Associates (American, 1975\u20131982)\nDirk Lohan (American, born 1938)\nDick Gorman (American, 20th century)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "75.1 \u00d7 67.8 cm (29 9/16 \u00d7 26 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 67.8,
+            "width_in": 26.6875,
+            "height_cm": 75.1,
+            "height_in": 29.5625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on polyester film",
+    "inscriptions": null,
+    "credit_line": "Gift of Fujikawa, Conterato, Lohan, and Associates",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.1407,
+    "color": {
+        "h": 39,
+        "l": 46,
+        "s": 15,
+        "percentage": 0.013223338323454438,
+        "population": 137
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 35504,
+    "artist_title": "Dirk Lohan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35504
+    ],
+    "artist_titles": [
+        "Dirk Lohan"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "presentation drawing",
+        "Chicago",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-920",
+    "classification_title": "presentation drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-920",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "presentation drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8f785955-abc1-ce6c-d7b3-6f5cd68c9c31",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.88"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Office Building, Chicago, Illinois, Perspective"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:49:21-05:00",
+    "timestamp": "2023-09-24T01:02:27-05:00"
+}

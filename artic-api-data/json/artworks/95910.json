@@ -1,0 +1,189 @@
+{
+    "id": 95910,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/95910",
+    "is_boosted": false,
+    "title": "Female Bust",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAN6hfN+lgd6rhd2ykOCtiOGwjuG2leO3l+LDo+TBoeDEouLHpOLGpuTNrejSsQAAACH5BAAAAAAALAAAAAADAAUAAAQLcJgjQmmAoOQUWxEAOw==",
+        "width": 1871,
+        "height": 3000,
+        "alt_text": "A work made of red chalk on ivory laid paper, laid down on board."
+    },
+    "main_reference_number": "1922.3807",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1666,
+    "date_end": 1712,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Attributed to Pietro Dandini\nItalian, 1646-1712",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "26.9 \u00d7 16.6 cm (10 5/8 \u00d7 6 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16.6,
+            "width_in": 6.5355,
+            "height_cm": 26.9,
+            "height_in": 10.5906,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Red chalk on ivory laid paper, laid down on board",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.4917,
+    "color": {
+        "h": 12,
+        "l": 33,
+        "s": 82,
+        "percentage": 0.01289772368337931,
+        "population": 147
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34128,
+    "artist_title": "Pietro Dandini",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34128
+    ],
+    "artist_titles": [
+        "Pietro Dandini"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "chalk",
+        "paper (fiber product)",
+        "chalk sticks",
+        "red chalk",
+        "chalk",
+        "inorganic material",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-209",
+    "classification_title": "chalk",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-209",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "chalk",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2413",
+        "TM-2415",
+        "TM-3782",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2413",
+        "TM-2415",
+        "TM-3782",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "chalk sticks",
+        "red chalk",
+        "chalk",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5a969738-49bc-0a5f-8e81-00fdc1d3fa99",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.3807"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Female Bust"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:50:21-05:00",
+    "timestamp": "2023-09-24T01:02:15-05:00"
+}

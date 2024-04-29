@@ -1,0 +1,172 @@
+{
+    "id": 90315,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/90315",
+    "is_boosted": false,
+    "title": "Vase of Shell Flowers",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGhmbGxrc3ZydH18goaDg4eEi5GGhJ+NhaGNg6OhoKmnq8XAv8TEx9fX1ujo6gAAACH5BAAAAAAALAAAAAADAAUAAAQLMAxQkFCHMJPcahEAOw==",
+        "width": 1500,
+        "height": 2250,
+        "alt_text": "A work made of shells."
+    },
+    "main_reference_number": "1928.1622",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1899,
+    "date_display": "18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "47.6 \u00d7 22.2 cm (18 3/4 \u00d7 8 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22.2,
+            "width_in": 8.75,
+            "height_cm": 47.6,
+            "height_in": 18.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Shells",
+    "inscriptions": null,
+    "credit_line": "Bought from Burley & Co. Robert Allerton Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.0154,
+    "color": {
+        "h": 269,
+        "l": 43,
+        "s": 2,
+        "percentage": 0.25600270068783143,
+        "population": 2730
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "shell (animal material)",
+        "decorative object/ornament",
+        "shell",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-30",
+    "classification_title": "decorative object/ornament",
+    "alt_classification_ids": [
+        "TM-239",
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-30",
+        "TM-239",
+        "TM-1394",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "decorative object/ornament",
+        "shell",
+        "european decorative arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2585",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2585"
+    ],
+    "material_titles": [
+        "shell (animal material)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d772d850-1a65-e0c4-a162-6eb987d0ad0a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1928.1622"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase of Shell Flowers"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:43:36-05:00",
+    "timestamp": "2023-09-24T00:59:51-05:00"
+}

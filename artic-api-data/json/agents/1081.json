@@ -1,0 +1,49 @@
+{
+    "id": 1081,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1081",
+    "title": "Bertall",
+    "sort_title": "Bertall",
+    "alt_titles": [
+        "Charles Albert Arnoux, Pseudonym Bertall",
+        "Bertall (Charles Albert d'Arnoux)",
+        "Charles Albert d'Bertall",
+        "Vicomte Charles Albert d'Arnoux, (Bertall)",
+        "Vicomte Charles-Albert d'Arnoux Bertall",
+        "Charles A. d'Bertall",
+        "Charles Albert d'Arnould, called Bertall",
+        "Charles Albert d'Arnould",
+        "Charles Albert d'Arnoux",
+        "Albert d'Arnoux"
+    ],
+    "is_artist": true,
+    "birth_date": 1820,
+    "death_date": 1882,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bertall",
+            "Bertall",
+            "Charles Albert Arnoux, Pseudonym Bertall",
+            "Bertall (Charles Albert d'Arnoux)",
+            "Charles Albert d'Bertall",
+            "Vicomte Charles Albert d'Arnoux, (Bertall)",
+            "Vicomte Charles-Albert d'Arnoux Bertall",
+            "Charles A. d'Bertall",
+            "Charles Albert d'Arnould, called Bertall",
+            "Charles Albert d'Arnould",
+            "Charles Albert d'Arnoux",
+            "Albert d'Arnoux"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:39-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

@@ -1,0 +1,176 @@
+{
+    "id": 221679,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/221679",
+    "is_boosted": false,
+    "title": "Winter",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHt4aIWCcY6Le5yZhZ2aiKikkqqmkq2plrSwnbazn7ezoLy4psvGtNXRvwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQL8JiAEihpKEEaWxEAOw==",
+        "width": 2089,
+        "height": 3000,
+        "alt_text": "A work made of etching and drypoint in black, with plate tone, on ivory wove paper."
+    },
+    "main_reference_number": "2013.1487",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1940,
+    "date_end": 1940,
+    "date_display": "1940",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "James Swann\nAmerican, 1905-1985",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/plate/sheet, sight: 10.6 \u00d7 7.3 cm (4 3/16 \u00d7 2 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 7.3,
+            "width_in": 2.8741,
+            "height_cm": 10.6,
+            "height_in": 4.1733,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate/sheet, sight"
+        }
+    ],
+    "medium_display": "Etching and drypoint in black, with plate tone, on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Bernard Friedman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.7825,
+    "color": {
+        "h": 44,
+        "l": 53,
+        "s": 10,
+        "percentage": 0.056959109045812376,
+        "population": 581
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36851,
+    "artist_title": "James Swann",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36851
+    ],
+    "artist_titles": [
+        "James Swann"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "paper",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-145",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "paper",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3617bcf9-67dd-551a-02bd-2d96bba86948",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1487"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Winter"
+            ],
+            "weight": 80,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:29-05:00",
+    "updated_at": "2023-04-07T15:20:09-05:00",
+    "timestamp": "2023-09-24T01:46:26-05:00"
+}

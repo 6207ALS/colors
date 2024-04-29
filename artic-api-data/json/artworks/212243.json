@@ -1,0 +1,174 @@
+{
+    "id": 212243,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/212243",
+    "is_boosted": false,
+    "title": "The Steerage",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADEuKjUwKjczLjo1MDw3MD04Mj45M0A6MklCOEpEOkxHQFBKQVFLQ1JLQlVORFlTS2JbUGFbU3BpX4R7bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYAI5SMMsxyQ9RKQAhTEIQQgAOw==",
+        "width": 3810,
+        "height": 4797,
+        "alt_text": "A work made of photogravure."
+    },
+    "main_reference_number": "2013.1556",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1907,
+    "date_end": 1907,
+    "date_display": "1907, printed in or before 1913",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Alfred Stieglitz\nAmerican, 1864-1946",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 32 \u00d7 25.8 cm (12 5/8 \u00d7 10 3/16 in.); Paper: 46.5 \u00d7 32.2 cm (18 5/16 \u00d7 12 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.8,
+            "width_in": 10.1575,
+            "height_cm": 32,
+            "height_in": 12.5985,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 32.2,
+            "width_in": 12.6772,
+            "height_cm": 46.5,
+            "height_in": 18.3071,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Photogravure",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert A. Taub",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.4941,
+    "color": {
+        "h": 39,
+        "l": 93,
+        "s": 74,
+        "percentage": 0.004021151255604479,
+        "population": 36
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36809,
+    "artist_title": "Alfred Stieglitz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36809
+    ],
+    "artist_titles": [
+        "Alfred Stieglitz"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "07c86cd2-545d-29e4-11a9-ec152fd34b4d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1556"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Steerage"
+            ],
+            "weight": 128,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:27-05:00",
+    "updated_at": "2023-09-23T23:17:36-05:00",
+    "timestamp": "2023-09-24T01:43:34-05:00"
+}

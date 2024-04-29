@@ -1,0 +1,31 @@
+{
+    "id": 36548,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36548",
+    "title": "Naomi Savage",
+    "sort_title": "Savage, Naomi",
+    "alt_titles": [
+        "Naomi Siegler"
+    ],
+    "is_artist": true,
+    "birth_date": 1927,
+    "death_date": 2005,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Naomi Savage",
+            "Savage, Naomi",
+            "Naomi Siegler"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-12-14T12:53:24-06:00",
+    "updated_at": "2022-12-14T12:55:55-06:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

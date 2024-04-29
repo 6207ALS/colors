@@ -1,0 +1,43 @@
+{
+    "id": 54110,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/54110",
+    "title": "Evelyn De Morgan",
+    "sort_title": "De Morgan, Evelyn",
+    "alt_titles": [
+        "Mary Evelyn De Morgan",
+        "Evelyn de Morgan",
+        "Evelyn de Morgan, (n\u00e9e Pickering)",
+        "Evelyn Pickering",
+        "Mrs. (Evelyn) De Morgan",
+        "Mrs. Evelyn Pickering De Morgan",
+        "Mrs. (Evelyn) de Morgan"
+    ],
+    "is_artist": true,
+    "birth_date": 1855,
+    "death_date": 1919,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Evelyn De Morgan",
+            "De Morgan, Evelyn",
+            "Mary Evelyn De Morgan",
+            "Evelyn de Morgan",
+            "Evelyn de Morgan, (n\u00e9e Pickering)",
+            "Evelyn Pickering",
+            "Mrs. (Evelyn) De Morgan",
+            "Mrs. Evelyn Pickering De Morgan",
+            "Mrs. (Evelyn) de Morgan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-04T11:19:42-06:00",
+    "updated_at": "2022-03-15T16:58:14-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

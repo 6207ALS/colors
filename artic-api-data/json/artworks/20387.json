@@ -1,0 +1,189 @@
+{
+    "id": 20387,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/20387",
+    "is_boosted": false,
+    "title": "Coffee Pot",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAAAAAEBAg8NCyAfHSQjIiooJzY0M0A+PHx6dXp7fY2LiJuUjZWUlJyYlKyhm6yrpqamqbOys8S/td7b1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYHAQgCAhQzE9BuMsSdQoUAgAOw==",
+        "width": 1746,
+        "height": 2250,
+        "alt_text": "Two rectangular canvases, one in yellow the other in grey, joined horizontally."
+    },
+    "main_reference_number": "1964.31a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1755,
+    "date_end": 1765,
+    "date_display": "c. 1760",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Meissen Porcelain Manufactory\nGerman, founded 1710",
+    "place_of_origin": "Meissen",
+    "description": null,
+    "dimensions": "23.5 \u00d7 16.5 \u00d7 12.1 cm (9 1/4 \u00d7 6 1/2 \u00d7 4 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 12.1,
+            "depth_in": 4.75,
+            "width_cm": 16.5,
+            "width_in": 6.5,
+            "height_cm": 23.5,
+            "height_in": 9.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Hard-paste porcelain, polychrome enamels, and gilding",
+    "inscriptions": null,
+    "credit_line": "Gift of Dr. and Mrs. Andrew G. Bustin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.6411,
+    "color": {
+        "h": 357,
+        "l": 48,
+        "s": 15,
+        "percentage": 0.004915357543107685,
+        "population": 45
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 35729,
+    "artist_title": "Meissen Porcelain Manufactory",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35729
+    ],
+    "artist_titles": [
+        "Meissen Porcelain Manufactory"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "teaware",
+        "hard-paste porcelain",
+        "porcelain",
+        "ceramic",
+        "inorganic material",
+        "porcelain",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1376",
+    "classification_title": "teaware",
+    "alt_classification_ids": [
+        "TM-38",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-1376",
+        "TM-38",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "teaware",
+        "porcelain",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2457",
+    "alt_material_ids": [
+        "TM-2448",
+        "TM-2432",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2457",
+        "TM-2448",
+        "TM-2432",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "hard-paste porcelain",
+        "porcelain",
+        "ceramic",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "044c4ee4-d275-431b-0d72-27672ba0da5f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.31a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Coffee Pot"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:59:37-05:00",
+    "timestamp": "2023-09-24T00:28:43-05:00"
+}

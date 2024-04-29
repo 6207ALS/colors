@@ -1,0 +1,31 @@
+{
+    "id": 3257,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3257",
+    "title": "Bob Brewer",
+    "sort_title": "Brewer, Bob",
+    "alt_titles": [
+        "Robert Brewer"
+    ],
+    "is_artist": true,
+    "birth_date": 1950,
+    "death_date": 1980,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bob Brewer",
+            "Brewer, Bob",
+            "Robert Brewer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:18:58-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

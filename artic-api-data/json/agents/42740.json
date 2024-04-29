@@ -1,0 +1,28 @@
+{
+    "id": 42740,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42740",
+    "title": "John Wesley",
+    "sort_title": "Wesley, John",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1928,
+    "death_date": 2022,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Wesley",
+            "Wesley, John"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-02-11T09:06:51-06:00",
+    "updated_at": "2022-03-15T16:42:53-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

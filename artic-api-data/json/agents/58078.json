@@ -1,0 +1,39 @@
+{
+    "id": 58078,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/58078",
+    "title": "S.I.T.E., Inc.",
+    "sort_title": "S.I.T.E., Inc.",
+    "alt_titles": [
+        "SITE, Inc.",
+        "SITE Projects, Inc.",
+        "S.I.T.E.",
+        "Sculpture in the Environment (Organization)",
+        "Site (Organization)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "S.I.T.E., Inc.",
+            "S.I.T.E., Inc.",
+            "SITE, Inc.",
+            "SITE Projects, Inc.",
+            "S.I.T.E.",
+            "Sculpture in the Environment (Organization)",
+            "Site (Organization)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:26:29-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

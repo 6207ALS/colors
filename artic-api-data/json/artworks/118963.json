@@ -1,0 +1,173 @@
+{
+    "id": 118963,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/118963",
+    "is_boosted": false,
+    "title": "The Village Houses",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABQSBScsCDMzJDg1JD0/Jzc2KktTIU9RNUxQOWddPVxjNXN7LmZhQ2RkRHBkQHFyVYB5Tn6EfJeacomVjaGnlqe3rKi4rrC0p7bFupy60bfT2sjf2tTs39/v2wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYINVxm5Zd0YRVVhEASSMcC+JAhKFIDzOEADs=",
+        "width": 2752,
+        "height": 2250,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "24.9.1989",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1920,
+    "date_display": "c. 1920",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "George Wesley Bellows\nAmerican, 1882\u20131925",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "45.7 \u00d7 55.9 cm (18 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.9,
+            "width_in": 22,
+            "height_cm": 45.7,
+            "height_in": 18,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Anonymous loan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.0853,
+    "color": {
+        "h": 61,
+        "l": 44,
+        "s": 67,
+        "percentage": 0.0030990294872655713,
+        "population": 18
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 33591,
+    "artist_title": "George Wesley Bellows",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33591
+    ],
+    "artist_titles": [
+        "George Wesley Bellows"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "oil paint (paint)",
+        "painting",
+        "panel (wood)",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3644"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3644"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "panel (wood)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f0eb5ebc-696a-24fe-be73-142415aa2c10",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "24.9.1989"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Village Houses"
+            ],
+            "weight": 553,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-10T14:30:04-06:00",
+    "updated_at": "2023-04-07T11:45:31-05:00",
+    "timestamp": "2023-09-24T01:12:45-05:00"
+}

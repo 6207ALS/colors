@@ -1,0 +1,170 @@
+{
+    "id": 201921,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/201921",
+    "is_boosted": false,
+    "title": "Gray",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACkyNy03PDE5PjI7QDM8QTM+QzU9QTU+QjpCRThDSDpDST1FST9ITEBJTUVMT0FKUEFLUENOU0dRVkxSVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIDMo0iIUUEMk0QEEj2MgUwgAOw==",
+        "width": 2473,
+        "height": 3069,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2019.893",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1972,
+    "date_end": 1973,
+    "date_display": "1972\u201373",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Gerhard Richter\nGerman, born 1932",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "250.2 \u00d7 200 cm (98 1/2 \u00d7 78 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 200,
+            "width_in": 78.75,
+            "height_cm": 250.2,
+            "height_in": 98.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.7367,
+    "color": {
+        "h": 39,
+        "l": 58,
+        "s": 29,
+        "percentage": 0.0011340722948406515,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 21775,
+    "artist_title": "Gerhard Richter",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21775
+    ],
+    "artist_titles": [
+        "Gerhard Richter"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "21st Century",
+        "oil painting",
+        "painting"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-4273",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4273"
+    ],
+    "technique_titles": [
+        "oil painting"
+    ],
+    "theme_titles": [],
+    "image_id": "bac5a352-8b96-db9d-1ee0-e490832f46e4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.893"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Gray"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-30T09:44:10-05:00",
+    "updated_at": "2023-05-30T09:47:45-05:00",
+    "timestamp": "2023-09-24T01:40:24-05:00"
+}

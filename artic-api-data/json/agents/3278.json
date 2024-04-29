@@ -1,0 +1,31 @@
+{
+    "id": 3278,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3278",
+    "title": "Alfred Thompson Bricher",
+    "sort_title": "Bricher, Alfred Thompson",
+    "alt_titles": [
+        "Alfred T. Bricher"
+    ],
+    "is_artist": true,
+    "birth_date": 1837,
+    "death_date": 1908,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alfred Thompson Bricher",
+            "Bricher, Alfred Thompson",
+            "Alfred T. Bricher"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:32-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

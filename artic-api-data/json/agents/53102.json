@@ -1,0 +1,31 @@
+{
+    "id": 53102,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/53102",
+    "title": "Hans Peter Feldmann",
+    "sort_title": "Feldmann, Hans Peter",
+    "alt_titles": [
+        "Hans P. Feldmann"
+    ],
+    "is_artist": true,
+    "birth_date": 1941,
+    "death_date": 2023,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hans Peter Feldmann",
+            "Feldmann, Hans Peter",
+            "Hans P. Feldmann"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-06-05T09:45:21-05:00",
+    "updated_at": "2023-06-05T09:47:42-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

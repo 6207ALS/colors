@@ -1,0 +1,167 @@
+{
+    "id": 254336,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/254336",
+    "is_boosted": false,
+    "title": "My Empire",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFJEMV9MNlZJPGVTSH9yb5+RgLqvqLi1r722rMK/wM7NyNXPwdzX1t/g3+zo3ebk4ubn6unp6Onp6enq7QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoNRAU0QUjjIEywEIyYMYTAgAOw==",
+        "width": 8400,
+        "height": 11759,
+        "alt_text": "A work made of found objects, mixed media."
+    },
+    "main_reference_number": "2020.76",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "2011",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tony Tasset \nAmerican, born 1960",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "187 \u00d7 132.1 \u00d7 152.4 cm (74 \u00d7 52 \u00d7 60 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 152.4,
+            "depth_in": 60,
+            "width_cm": 132.1,
+            "width_in": 52,
+            "height_cm": 187,
+            "height_in": 74,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Found objects, mixed media",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": "None to date.",
+    "exhibition_history": "Rochester Art Center, Tony Tasset: Life During Wartime, May 14\u2013Sept. 4, 2011, no cat.",
+    "provenance_text": "The artist; given to the Art Institute of Chicago, Apr. 14, 2020.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.75,
+    "color": {
+        "h": 49,
+        "l": 57,
+        "s": 85,
+        "percentage": 0.004628246186476063,
+        "population": 46
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 37470,
+    "artist_title": "Tony Tasset",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37470
+    ],
+    "artist_titles": [
+        "Tony Tasset"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-8"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "found objects"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": "TM-14170",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-14170"
+    ],
+    "subject_titles": [
+        "found objects"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "dea213a7-c3b1-fa97-e5bf-96a9ce939b25",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.76"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "My Empire"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-07T11:41:22-06:00",
+    "updated_at": "2023-04-07T11:46:49-05:00",
+    "timestamp": "2023-09-24T01:56:47-05:00"
+}

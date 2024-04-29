@@ -1,0 +1,33 @@
+{
+    "id": 33098,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33098",
+    "title": "Henry Wessel, Jr.",
+    "sort_title": "Wessel, Henry, Jr.",
+    "alt_titles": [
+        "J. Henry Wessel",
+        "Henry Wessel"
+    ],
+    "is_artist": true,
+    "birth_date": 1942,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henry Wessel, Jr.",
+            "Wessel, Henry, Jr.",
+            "J. Henry Wessel",
+            "Henry Wessel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:52:13-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

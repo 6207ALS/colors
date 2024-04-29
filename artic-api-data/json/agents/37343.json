@@ -1,0 +1,42 @@
+{
+    "id": 37343,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37343",
+    "title": "Grant Wood",
+    "sort_title": "Wood, Grant",
+    "alt_titles": [
+        "Grant DeVolson Wood",
+        "\u683c\u5170\u7279\u00b7\u4f0d\u5fb7"
+    ],
+    "is_artist": true,
+    "birth_date": 1891,
+    "death_date": 1942,
+    "description": "<p>Grant Wood is known for his stylized and subtly humorous scenes of rural people, Iowa cornfields, and mythic subjects from American history\u2014such as the Art Institute\u2019s iconic painting <a href=\"https://www.artic.edu/artworks/6565/american-gothic\" target=\"_blank\"><em>American Gothic</em></a> (1930). Along with other Midwestern Regionalist painters like <a href=\"https://www.artic.edu/artists/40511\" target=\"_blank\">John Steuart Curry</a> and <a href=\"https://www.artic.edu/artists/2137\" target=\"_blank\">Thomas Hart Benton</a>, Wood advocated for a realistic style and recognizable subjects that showed local places and common people, a radically different approach from European modernism and its push toward abstraction. </p><p>Living most of his life in Cedar Rapids, Iowa, Wood studied metalsmithing with Arts and Crafts movement designer Ernest A. Batchelder before moving to Chicago in 1913. There he worked at <a href=\"https://www.artic.edu/artists/35185\" target=\"_blank\">Kalo Silversmiths Shop</a> while taking fine arts classes in the evenings at the School of the Art Institute of Chicago. Inspired by the Northern Renaissance art he saw on a trip to Munich, Germany in 1928, Wood shifted from the free, impressionistic style evident in the Art Institute\u2019s </p><p><a href=\"https://www.artic.edu/artworks/156075/loch-vale\" target=\"_blank\"><em>Loch Vale</em></a><em> </em>(1927) to the highly detailed, tightly painted forms that characterize <em>American Gothic</em>. Exhibited publicly for the first time at the Art Institute in 1930, <em>American Gothic</em> won Wood a $300 prize and instant fame. </p><p>Wood galvanized his success by co-founding the Stone City Colony and Art School in Iowa and also teaching in the art department at the University of Iowa, heralding the message of Regionalism in the face of a move towards increasing abstraction in American art. His later works continued to celebrate, and sometimes satirize, Midwestern values and people. The iconic imagery he created in <em>American Gothic </em>and subsequent works has been adapted and parodied regularly, serving as a reflection of changing American values and ways.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Grant Wood",
+            "Wood, Grant",
+            "Grant DeVolson Wood",
+            "\u683c\u5170\u7279\u00b7\u4f0d\u5fb7"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Grant Wood",
+            "Wood, Grant",
+            "Grant DeVolson Wood",
+            "\u683c\u5170\u7279\u00b7\u4f0d\u5fb7"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-09-12T11:11:34-05:00",
+    "updated_at": "2023-09-23T23:23:52-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

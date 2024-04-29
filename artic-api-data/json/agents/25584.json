@@ -1,0 +1,31 @@
+{
+    "id": 25584,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/25584",
+    "title": "Prentice Taylor",
+    "sort_title": "Taylor, Prentice",
+    "alt_titles": [
+        "Prentiss Hottel Taylor"
+    ],
+    "is_artist": true,
+    "birth_date": 1907,
+    "death_date": 1991,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Prentice Taylor",
+            "Taylor, Prentice",
+            "Prentiss Hottel Taylor"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:11:04-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

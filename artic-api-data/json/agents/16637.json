@@ -1,0 +1,28 @@
+{
+    "id": 16637,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16637",
+    "title": "Georges Mathieu",
+    "sort_title": "Mathieu, Georges",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1921,
+    "death_date": 2012,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Georges Mathieu",
+            "Mathieu, Georges"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-03-04T17:16:08-06:00",
+    "updated_at": "2022-03-15T16:50:43-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

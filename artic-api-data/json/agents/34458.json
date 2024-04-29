@@ -1,0 +1,31 @@
+{
+    "id": 34458,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34458",
+    "title": "Daniel Farber",
+    "sort_title": "Farber, Daniel",
+    "alt_titles": [
+        "Daniel L. Farber"
+    ],
+    "is_artist": true,
+    "birth_date": 1906,
+    "death_date": 1998,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Daniel Farber",
+            "Farber, Daniel",
+            "Daniel L. Farber"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:50:35-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

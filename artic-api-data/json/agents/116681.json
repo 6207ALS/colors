@@ -1,0 +1,28 @@
+{
+    "id": 116681,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116681",
+    "title": "Richard Schultz",
+    "sort_title": "Schultz, Richard",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1926,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Richard Schultz",
+            "Schultz, Richard"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-12T08:36:04-05:00",
+    "updated_at": "2021-10-12T08:37:19-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

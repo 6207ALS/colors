@@ -1,0 +1,195 @@
+{
+    "id": 102174,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102174",
+    "is_boosted": false,
+    "title": "Coverlet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEpLTFhYWFpZWWprbG5vb21vcHN0dHh3d39+fX1+fn5/fn9/f4GCgoGDgoWGhQAAACH5BAAAAAAALAAAAAADAAUAAAQLkBxUFjPNDZWACBEAOw==",
+        "width": 528,
+        "height": 768,
+        "alt_text": "A work made of wool and cotton, plain weave double cloth with main warp fringe."
+    },
+    "main_reference_number": "1984.119",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1849,
+    "date_end": 1849,
+    "date_display": "1849",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Charles Adolph (American, born French, 1815- after 1870)\nUnited States, Indiana, Wayne County, Williamsburg",
+    "place_of_origin": "Indiana",
+    "description": null,
+    "dimensions": "225.8 \u00d7 103.3 cm (88 7/8 \u00d7 40 5/8 in.); Repeat: 40.6 \u00d7 40 cm (16 \u00d7 15 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 103.3,
+            "width_in": 40.625,
+            "height_cm": 225.8,
+            "height_in": 88.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40,
+            "width_in": 15.75,
+            "height_cm": 40.6,
+            "height_in": 16,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Wool and cotton, plain weave double cloth with main warp fringe",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Henry Bruner",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.5231,
+    "color": {
+        "h": 3,
+        "l": 50,
+        "s": 3,
+        "percentage": 0.005418386520602447,
+        "population": 56
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 30395,
+    "artist_title": "Charles Adolph",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30395
+    ],
+    "artist_titles": [
+        "Charles Adolph"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "double cloth",
+        "wool (textile)",
+        "textile",
+        "weaving - coverlet",
+        "coverlet",
+        "coverlet"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-262",
+        "TM-1217"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-262",
+        "TM-1217"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - coverlet",
+        "coverlet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-14513"
+    ],
+    "subject_ids": [
+        "TM-14513"
+    ],
+    "subject_titles": [
+        "coverlet"
+    ],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": "TM-10556",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10556"
+    ],
+    "technique_titles": [
+        "double cloth"
+    ],
+    "theme_titles": [],
+    "image_id": "00505276-cd3f-d2ec-26fa-861df283de86",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.119"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Coverlet"
+            ],
+            "weight": 156,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:31:54-05:00",
+    "timestamp": "2023-09-24T01:06:03-05:00"
+}

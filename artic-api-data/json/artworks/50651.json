@@ -1,0 +1,172 @@
+{
+    "id": 50651,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50651",
+    "is_boosted": false,
+    "title": "Flask",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKCen6GhoaWkpKelpaSop6WqqK+trbGvr7a6ubK+vLO+vLm8vL69vb69vr3Gxr/HxtDPz9HQ0NbV19fW1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4CAEwFEQRoMsTKQk0PQ4UggAOw==",
+        "width": 1568,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1944.331",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1850,
+    "date_end": 1859,
+    "date_display": "1850\u201359",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Spring Garden Glass Works\nAmerican, 1851\u20131856\nBaltimore",
+    "place_of_origin": "Baltimore",
+    "description": null,
+    "dimensions": "H.: 19.3 cm (7 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 19.3,
+            "height_in": 7.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Everett L. Millard in memory of her mother, Mrs. Charles T. Boynton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1945,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.3724,
+    "color": {
+        "h": 173,
+        "l": 36,
+        "s": 50,
+        "percentage": 0.0019607266452947463,
+        "population": 20
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114041,
+    "artist_title": "Spring Garden Glass Works",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114041
+    ],
+    "artist_titles": [
+        "Spring Garden Glass Works"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "flask (bottle)",
+        "glass (object genre)",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11794",
+    "classification_title": "flask (bottle)",
+    "alt_classification_ids": [
+        "TM-1752",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11794",
+        "TM-1752",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "flask (bottle)",
+        "glass (object genre)",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c35df6af-12e6-fa9f-7188-4ca8ebcf2031",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1944.331"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flask"
+            ],
+            "weight": 29,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:23:44-05:00",
+    "timestamp": "2023-09-24T00:42:50-05:00"
+}

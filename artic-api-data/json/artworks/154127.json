@@ -1,0 +1,174 @@
+{
+    "id": 154127,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/154127",
+    "is_boosted": false,
+    "title": "The Descension",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAEQ3K1I3JVc1J1AxKUI8NEc9NGU3JF9HKFxHK09AMExGNkFDP19ANmJAKmZVLX5LOn5LPn1fPX9oI2lwM0g/UUtKRUBMSmNaRWpfQWNPU2llRJBlHJp5K4FgMJBvSpZuS4B7QoR2WZJzXI1sY6uSSbOGUauSVrOdVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwJMIAho0LhaSiVHqfDSTEGb0CBQqB08kY9goKIKEYwGQcAiIIAA7",
+        "width": 8738,
+        "height": 5467,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1999.938",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1961,
+    "date_end": 1961,
+    "date_display": "1961",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bob Thompson\nAmerican, 1937-1966",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "21.8 \u00d7 33 cm (8 5/8 \u00d7 13 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 33,
+            "width_in": 13,
+            "height_cm": 21.8,
+            "height_in": 8.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Dr. James and Jetta Jones",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 68.3059,
+    "color": {
+        "h": 42,
+        "l": 46,
+        "s": 90,
+        "percentage": 0.21721465534899528,
+        "population": 965
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 295",
+    "gallery_id": 25471,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 26040,
+    "artist_title": "Bob Thompson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        26040
+    ],
+    "artist_titles": [
+        "Bob Thompson"
+    ],
+    "category_ids": [
+        "PC-142",
+        "PC-830",
+        "PC-8"
+    ],
+    "category_titles": [
+        "African American artists",
+        "African Diaspora",
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "African American artists",
+        "African Diaspora"
+    ],
+    "image_id": "5c5bffa9-e877-b7c3-1504-67030888a0ff",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.938"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Descension"
+            ],
+            "weight": 753,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-24T15:08:25-06:00",
+    "updated_at": "2023-04-07T12:22:56-05:00",
+    "timestamp": "2023-09-24T01:29:26-05:00"
+}

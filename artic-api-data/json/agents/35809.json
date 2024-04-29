@@ -1,0 +1,45 @@
+{
+    "id": 35809,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35809",
+    "title": "Claude Monet",
+    "sort_title": "Monet, Claude",
+    "alt_titles": [
+        "Claude Oscar Monet",
+        "Klod Mone",
+        "\u514b\u52b3\u5fb7\u00b7\u83ab\u5948"
+    ],
+    "is_artist": true,
+    "birth_date": 1840,
+    "death_date": 1926,
+    "description": "<p>Claude Monet was a pioneer of the French artistic movement known as Impressionism. Throughout his long career, Monet portrayed the people closest to him and the places he knew best. He favored family and friends as models, often working and exhibiting alongside fellow artists. In the early years he painted the forests of Fountainbleau, Parisian boulevards, suburban villages along the Seine, seaside towns, and flowering fields, and later, after buying a house at Giverny northwest of Paris, stacks of wheat and water lilies.&nbsp;Monet was a proponent of <em>plein air </em>painting, working directly out-of-doors on compositions he would later revise and sometimes complete in his studio. He painted his beloved water lilies in Giverny, where he tended to a water garden and a small pond spanned by a Japanese footbridge. Another favorite subject, <em>meules</em> (stacks of wheat sometimes referred to as \u201chaystacks\u201d), were for Monet a resonant symbol of sustenance and survival\u2014constructed by humans but created by nature.</p><p>While Monet\u2019s series paintings appear compositionally simple, the artist adapted his palette and brushwork to each temporal situation, conveying the complexity of color, light, and texture on each canvas.&nbsp;As he described, \u201cOne instant, one aspect of nature contains it all.\u201d Only by working in series could Monet truly render, as he put it, \u201cwhat I experience\u201d\u2014in other words, how he perceived and responded to these subjects, which were defined by light and air as time passed and the seasons changed.</p><p>The Art Institute has the largest group of Monet\u2019s stacks of wheat in the world. An <a href=\"https://publications.artic.edu/monet/reader/paintingsanddrawings\" target=\"_blank\">online scholarly publication</a> delves into the museum\u2019s collection of Monet\u2019s paintings and drawings.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Claude Monet",
+            "Monet, Claude",
+            "Claude Oscar Monet",
+            "Klod Mone",
+            "\u514b\u52b3\u5fb7\u00b7\u83ab\u5948"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Claude Monet",
+            "Monet, Claude",
+            "Claude Oscar Monet",
+            "Klod Mone",
+            "\u514b\u52b3\u5fb7\u00b7\u83ab\u5948"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-13T14:18:51-05:00",
+    "updated_at": "2023-09-23T23:23:06-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

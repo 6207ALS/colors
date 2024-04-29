@@ -1,0 +1,33 @@
+{
+    "id": 47776,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47776",
+    "title": "J.S. Ford, Johnson and Company",
+    "sort_title": "J.S. Ford, Johnson and Company",
+    "alt_titles": [
+        "Ford (J. S.), Johnson & Co.",
+        "J.S. Ford, Johnson & Company"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "J.S. Ford, Johnson and Company",
+            "J.S. Ford, Johnson and Company",
+            "Ford (J. S.), Johnson & Co.",
+            "J.S. Ford, Johnson & Company"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:19-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 33948,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33948",
+    "title": "Louis Ch\u00e9ron",
+    "sort_title": "Ch\u00e9ron, Louis",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1660,
+    "death_date": 1735,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Ch\u00e9ron",
+            "Ch\u00e9ron, Louis"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:56-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

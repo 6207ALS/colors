@@ -1,0 +1,33 @@
+{
+    "id": 51837,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51837",
+    "title": "Jean-Joseph Carri\u00e8s",
+    "sort_title": "Carri\u00e8s, Jean-Joseph",
+    "alt_titles": [
+        "Jean J. M. Carri\u00e8s",
+        "Jean Joseph Marie Carri\u00e8s"
+    ],
+    "is_artist": true,
+    "birth_date": 1855,
+    "death_date": 1894,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean-Joseph Carri\u00e8s",
+            "Carri\u00e8s, Jean-Joseph",
+            "Jean J. M. Carri\u00e8s",
+            "Jean Joseph Marie Carri\u00e8s"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:55-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

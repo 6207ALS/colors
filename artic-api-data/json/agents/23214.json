@@ -1,0 +1,31 @@
+{
+    "id": 23214,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/23214",
+    "title": "Fran\u00e7ois Louis Schmied",
+    "sort_title": "Schmied, Fran\u00e7ois Louis",
+    "alt_titles": [
+        "Fran\u00e7ois L. Schmied"
+    ],
+    "is_artist": true,
+    "birth_date": 1873,
+    "death_date": 1941,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fran\u00e7ois Louis Schmied",
+            "Schmied, Fran\u00e7ois Louis",
+            "Fran\u00e7ois L. Schmied"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:16-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

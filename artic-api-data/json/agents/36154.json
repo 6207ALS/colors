@@ -1,0 +1,33 @@
+{
+    "id": 36154,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36154",
+    "title": "James Peale",
+    "sort_title": "Peale, James",
+    "alt_titles": [
+        "James Peale, I",
+        "James Peale, the elder"
+    ],
+    "is_artist": true,
+    "birth_date": 1749,
+    "death_date": 1831,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Peale",
+            "Peale, James",
+            "James Peale, I",
+            "James Peale, the elder"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:35:07-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

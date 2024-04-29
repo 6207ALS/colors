@@ -1,0 +1,31 @@
+{
+    "id": 13566,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/13566",
+    "title": "Glen Kaufman",
+    "sort_title": "Kaufman, Glen",
+    "alt_titles": [
+        "Glenn Kaufman"
+    ],
+    "is_artist": true,
+    "birth_date": 1932,
+    "death_date": 2020,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Glen Kaufman",
+            "Kaufman, Glen",
+            "Glenn Kaufman"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-04-01T16:16:14-05:00",
+    "updated_at": "2022-04-01T16:16:28-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

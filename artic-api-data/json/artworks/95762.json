@@ -1,0 +1,181 @@
+{
+    "id": 95762,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/95762",
+    "is_boosted": false,
+    "title": "Wolf and Lamb",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAALaskbitkrqvlLmxlruxl7uyl72yl721mr22mr63m7+3nL+5nL+4ncC4nMC5ncC5nsG5n8G6n8K6n8K7n8C5ocG6oMG6ocK7oMK7ocO8oMO9ocS+osW+ogAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdIGVVkEIEUsZpyCBg05YhR/EkjnY1hrMwkQsBEAIAOw==",
+        "width": 3000,
+        "height": 2118,
+        "alt_text": "A work made of graphite on cream wove paper."
+    },
+    "main_reference_number": "1922.2836",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1899,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Unknown Artist\nEuropean, 17th/19th century",
+    "place_of_origin": "Europe",
+    "description": null,
+    "dimensions": "14.9 \u00d7 20.9 cm (5 7/8 \u00d7 8 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.9,
+            "width_in": 8.2284,
+            "height_cm": 14.9,
+            "height_in": 5.8662,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.5281,
+    "color": {
+        "h": 43,
+        "l": 69,
+        "s": 25,
+        "percentage": 1.5722160750421166,
+        "population": 7886
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 39182,
+    "artist_title": "Unknown artist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        39182
+    ],
+    "artist_titles": [
+        "Unknown artist"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "wove paper",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-3074",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-3074",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "wove paper",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "46e572a6-96a8-cdd7-c181-0f16f31e4e13",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.2836"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Wolf and Lamb"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:50:53-05:00",
+    "timestamp": "2023-09-24T01:02:11-05:00"
+}

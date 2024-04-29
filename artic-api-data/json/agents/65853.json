@@ -1,0 +1,33 @@
+{
+    "id": 65853,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65853",
+    "title": "Imprimerie Berger-Levrault",
+    "sort_title": "Imprimerie Berger-Levrault",
+    "alt_titles": [
+        "Imprimerie Berger-Levrault",
+        "Berger-Levrault"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Imprimerie Berger-Levrault",
+            "Imprimerie Berger-Levrault",
+            "Imprimerie Berger-Levrault",
+            "Berger-Levrault"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:13-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

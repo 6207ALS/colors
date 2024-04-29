@@ -1,0 +1,168 @@
+{
+    "id": 103328,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/103328",
+    "is_boosted": false,
+    "title": "View of the Takatsu Shrine",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAMS9pNDCqdbLtdLPud7Xw97axODaxOTcx+LfzOjizujj0erk0Orl0evm0uzm0+zn0+3n1Ozo1e3o1u3p1u3p1+7q1+7q2O7r2O/r2O/r2fDs2vHs2vHt2/Hu2wAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUYYBNlWdQ1zmgOBDR2BYCkWScEiUgehhICADs=",
+        "width": 3000,
+        "height": 2205,
+        "alt_text": "A work made of color woodblock print; surimono."
+    },
+    "main_reference_number": "1984.1365",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1870,
+    "date_end": 1880,
+    "date_display": "c.1875",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sato Gyodai (Japanese, late 18th to mid-19th century)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "25 \u00d7 18.5 cm (9 7/8 \u00d7 7 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.5,
+            "width_in": 7.2835,
+            "height_cm": 25,
+            "height_in": 9.8426,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; surimono",
+    "inscriptions": null,
+    "credit_line": "Purchased from Robert G. Sawers London. Nathalie Gookin Fund in memory of Frederick Gookin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 52,
+        "s": 38,
+        "percentage": 7.558578987150416e-5,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 10535,
+    "artist_title": "Gyodai",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        10535
+    ],
+    "artist_titles": [
+        "Gyodai"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "print",
+        "paper (fiber product)",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9d9bc98e-1798-d6f0-2378-2971c9c4ca4e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.1365"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "View of the Takatsu Shrine"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-16T09:18:18-05:00",
+    "updated_at": "2023-06-29T18:02:51-05:00",
+    "timestamp": "2023-09-24T01:06:37-05:00"
+}

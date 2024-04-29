@@ -1,0 +1,173 @@
+{
+    "id": 145843,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145843",
+    "is_boosted": false,
+    "title": "Wine Jug with Cover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALm1r7i1sc7HvMfIycrKy9TNwtLNxNnSxt3c3N7e3+Hg3uHh4ODi4uPj4uLk5OTk5OXl5ubm5uXm6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYJQgTyMEBHQAg1QYjqQsTAgAOw==",
+        "width": 1918,
+        "height": 2250,
+        "alt_text": "A work made of alpaca and ebony."
+    },
+    "main_reference_number": "1996.605a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1922,
+    "date_end": 1922,
+    "date_display": "1922",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Christian Dell\nGerman, 1893-1974\nMetallwerkstatt Bauhaus\nWeimar, Germany, 1919-1925",
+    "place_of_origin": "Weimar",
+    "description": null,
+    "dimensions": "H.: 20 cm (7 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 20,
+            "height_in": 7.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Alpaca and ebony",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mr. and Mrs. Robert Hixon Glore and Quinn E. Delaney; Gladys N. Anderson, Harry and Maribel G. Blum Foundation, Mr. and Mrs. Henry Buchbinder, Richard T. Crane, Jr., and Elizabeth R. Vaughan endowments.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.3203,
+    "color": {
+        "h": 38,
+        "l": 53,
+        "s": 13,
+        "percentage": 0.005157563566970964,
+        "population": 43
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 62071,
+    "artist_title": "Christian Dell",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        62071
+    ],
+    "artist_titles": [
+        "Christian Dell"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "metalwork",
+        "bauhaus",
+        "european decorative arts",
+        "Art Deco"
+    ],
+    "style_id": "TM-7634",
+    "style_title": "bauhaus",
+    "alt_style_ids": [
+        "TM-5976"
+    ],
+    "style_ids": [
+        "TM-7634",
+        "TM-5976"
+    ],
+    "style_titles": [
+        "bauhaus",
+        "Art Deco"
+    ],
+    "classification_id": "TM-29",
+    "classification_title": "metalwork",
+    "alt_classification_ids": [
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "10f8eb69-0e41-3b00-be16-3b28dee936c8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.605a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Wine Jug with Cover"
+            ],
+            "weight": 94,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:32:12-05:00",
+    "timestamp": "2023-09-24T01:25:17-05:00"
+}

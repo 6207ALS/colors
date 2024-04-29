@@ -1,0 +1,151 @@
+{
+    "id": 234596,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/234596",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAEtNUU1PU09QU09RVVdWUlBRVVBSVlNUVVNUV1ZXV1RVWFVWWVpbXGRjX2ZmZnRzcXl4dHp5dXp6dX17doWCe4uJgp2clKGdkaahk6Wkmaqlmbm1psG+r8/NvdvWwwAAACH5BAAAAAAALAAAAAAHAAUAAAUdIHVNxaIoGlYFQ6E0RGJ1XCQcQOZtD4IYDgmEEQIAOw==",
+        "width": 3000,
+        "height": 2264,
+        "alt_text": "A work made of platinum prints (2)."
+    },
+    "main_reference_number": "1981.660.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1910,
+    "date_display": "1900/10",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Artist unknown\nAmerican, early 20th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "11.7 \u00d7 9.1 (left image/paper); 8.9 \u00d7 11 cm (right image/paper); 25.4 \u00d7 30.1 cm (album page)",
+    "dimensions_detail": [],
+    "medium_display": "Platinum prints (2)",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Jesmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.6962,
+    "color": {
+        "h": 225,
+        "l": 31,
+        "s": 2,
+        "percentage": 0.6278117236285503,
+        "population": 3366
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 38187,
+    "artist_title": "Unknown artist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        38187
+    ],
+    "artist_titles": [
+        "Unknown artist"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photograph",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-240",
+    "classification_title": "photograph",
+    "alt_classification_ids": [
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "photograph",
+        "photography"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "30e48bc3-8194-366b-2d44-874d15807ec8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.660.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2020-09-12T16:10:00-05:00",
+    "updated_at": "2023-04-10T15:31:10-05:00",
+    "timestamp": "2023-09-24T01:51:16-05:00"
+}

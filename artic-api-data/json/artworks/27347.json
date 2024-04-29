@@ -1,0 +1,167 @@
+{
+    "id": 27347,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/27347",
+    "is_boosted": false,
+    "title": "Puck's Souvenir Performance, from Puck",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHJhO4l3SI53TYx4TpaMXKqHXZ6OYauRbreUabSWdL2eeq+idb2tgc26jNzImAAAACH5BAAAAAAALAAAAAADAAUAAAQL8CQlCgKBDLNYcxEAOw==",
+        "width": 2109,
+        "height": 3000,
+        "alt_text": "A work made of color lithograph on newsprint."
+    },
+    "main_reference_number": "1938.235.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1887,
+    "date_end": 1887,
+    "date_display": "published March 2, 1887",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "C. Jay Taylor\nAmerican, 1855-1929",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "30 \u00d7 21 cm (11 13/16 \u00d7 8 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21,
+            "width_in": 8.2678,
+            "height_cm": 30,
+            "height_in": 11.8111,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on newsprint",
+    "inscriptions": null,
+    "credit_line": "Gift of Miss Nathalie Gookin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1938,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 40.4451,
+    "color": {
+        "h": 48,
+        "l": 68,
+        "s": 79,
+        "percentage": 0.004452108667068346,
+        "population": 45
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 44560,
+    "artist_title": "C. Jay Taylor",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        44560
+    ],
+    "artist_titles": [
+        "C. Jay Taylor"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "022aab6c-bedf-9cd6-ff88-920fdb33ee65",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1938.235.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Puck's Souvenir Performance, from Puck"
+            ],
+            "weight": 8,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:10:54-05:00",
+    "timestamp": "2023-09-24T00:32:30-05:00"
+}

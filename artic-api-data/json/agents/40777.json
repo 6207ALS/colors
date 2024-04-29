@@ -1,0 +1,28 @@
+{
+    "id": 40777,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40777",
+    "title": "Henry James Richter",
+    "sort_title": "Richter, Henry James",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1772,
+    "death_date": 1857,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henry James Richter",
+            "Richter, Henry James"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-10T13:23:22-05:00",
+    "updated_at": "2020-07-10T13:25:32-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

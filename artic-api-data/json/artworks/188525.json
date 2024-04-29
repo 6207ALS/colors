@@ -1,0 +1,172 @@
+{
+    "id": 188525,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/188525",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACAgITUyMTo4OUlDPTw9QUJBQUJCQ0dGRUdHRUtJR0dJTElKS1FMR1lTRFdSSVVRS2NdT2BeVWFiZXt2Z3NxbYB/d5uQeJmWjcC8qwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIBJNSkFcWPUYEmUlB+Q0wMIMgRACADs=",
+        "width": 2251,
+        "height": 2250,
+        "alt_text": "A work made of salt-fired stoneware."
+    },
+    "main_reference_number": "2006.250",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1979,
+    "date_display": "1970\u201379",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Toshiko Takaezu (American, 1922\u20132011)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "25.4 \u00d7 24.1 cm (10 \u00d7 9 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.1,
+            "width_in": 9.5,
+            "height_cm": 25.4,
+            "height_in": 10,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Salt-fired stoneware",
+    "inscriptions": null,
+    "credit_line": "Gift of Toshiko Takaezu",
+    "catalogue_display": null,
+    "publication_history": "Annual Report (Art Institute of Chicago, 2006\u20132007), p. 19.",
+    "exhibition_history": null,
+    "provenance_text": "The artist; given to the Art Institute of Chicago, 2006.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.3501,
+    "color": {
+        "h": 221,
+        "l": 32,
+        "s": 74,
+        "percentage": 0.00605080707916285,
+        "population": 43
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 58808,
+    "artist_title": "Toshiko Takaezu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        58808
+    ],
+    "artist_titles": [
+        "Toshiko Takaezu"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-3"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "stoneware",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2484",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2484"
+    ],
+    "material_titles": [
+        "stoneware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "fd24d172-0d70-c93b-55d5-19414e3e3256",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2006.250"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 117,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-26T14:32:02-05:00",
+    "updated_at": "2023-04-26T14:32:39-05:00",
+    "timestamp": "2023-09-24T01:36:19-05:00"
+}

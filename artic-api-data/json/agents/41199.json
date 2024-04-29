@@ -1,0 +1,35 @@
+{
+    "id": 41199,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41199",
+    "title": "Jan Claudius de Cock",
+    "sort_title": "Cock, Jan Claudius de",
+    "alt_titles": [
+        "Jan Claudius de Cocq",
+        "Jan Claudius de Kock",
+        "Jan Claudius de Cocx"
+    ],
+    "is_artist": true,
+    "birth_date": 1668,
+    "death_date": 1736,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Claudius de Cock",
+            "Cock, Jan Claudius de",
+            "Jan Claudius de Cocq",
+            "Jan Claudius de Kock",
+            "Jan Claudius de Cocx"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-12T12:01:03-05:00",
+    "updated_at": "2020-06-12T12:05:34-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 77071,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/77071",
+    "title": "Ojerinde",
+    "sort_title": "Ojerinde",
+    "alt_titles": [
+        "Ojerinde Adugbologe",
+        "Adigbologe",
+        "Adigbologe (Ojerinde)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ojerinde",
+            "Ojerinde",
+            "Ojerinde Adugbologe",
+            "Adigbologe",
+            "Adigbologe (Ojerinde)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-05-22T10:34:35-05:00",
+    "updated_at": "2019-05-22T10:35:13-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

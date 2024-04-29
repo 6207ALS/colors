@@ -1,0 +1,181 @@
+{
+    "id": 69307,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/69307",
+    "is_boosted": false,
+    "title": "Whispering Zephyr",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAABAQEBEREV5eXl9fX2BgYGNjY2VlZWZmZoqKipSUlJeXl5iYmK2trbS0tLa2try8vL+/v8LCwsbGxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAFAAUAAAUVYCAgQ0A4DVQoDvMsR/RIBFAkBhACADs=",
+        "width": 1945,
+        "height": 1924,
+        "alt_text": "A work made of marble."
+    },
+    "main_reference_number": "1987.116",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1881,
+    "date_end": 1885,
+    "date_display": "1881\u201385",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Thomas Ball\nAmerican, 1819\u20131911",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Diam.: 50.8 cm (20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 50.8,
+            "diameter_in": 20,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Marble",
+    "inscriptions": "Signature: \"T BALL\" incised in capitals at right of rondel",
+    "credit_line": "Roger McCormick Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 66,
+        "s": 0,
+        "percentage": 0.3863101689466932,
+        "population": 2716
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 1498,
+    "artist_title": "Thomas Ball",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1498
+    ],
+    "artist_titles": [
+        "Thomas Ball"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "marble",
+        "metamorphic rock",
+        "rock",
+        "inorganic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "american arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2435",
+    "alt_material_ids": [
+        "TM-2798",
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2435",
+        "TM-2798",
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "marble",
+        "metamorphic rock",
+        "rock",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cee68e63-6046-5081-0a72-85892aa0b483",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.116"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Whispering Zephyr"
+            ],
+            "weight": 44,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:21:59-05:00",
+    "timestamp": "2023-09-24T00:50:31-05:00"
+}

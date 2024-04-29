@@ -1,0 +1,190 @@
+{
+    "id": 56254,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/56254",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJNaVJVgV6R1bap/c7qTh76Viu/h0fLh0fHi0vPk1Pbm1/bp2fjp2fnr2/jt3fzx4f3y4v704/715f/56AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHMgiSQMzwQEEVQQjtIsRggAOw==",
+        "width": 1747,
+        "height": 2250,
+        "alt_text": "A work made of silk, warp-float 5:1 faced satin weave with supplementary pile warps forming cut and uncut voided velvet."
+    },
+    "main_reference_number": "1895.856",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1775,
+    "date_end": 1800,
+    "date_display": "1775/1800",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "23.2 \u00d7 10.4 cm (9 1/8 \u00d7 4 1/16 in.); Warp repeat: H.: 9.5 cm (3 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.4,
+            "width_in": 4.0625,
+            "height_cm": 23.2,
+            "height_in": 9.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 9.5,
+            "height_in": 3.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Silk, warp-float 5:1 faced satin weave with supplementary pile warps forming cut and uncut voided velvet",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.8246,
+    "color": {
+        "h": 351,
+        "l": 32,
+        "s": 49,
+        "percentage": 0.012135723305508637,
+        "population": 111
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "silk (textile)",
+        "satin weaving",
+        "textile",
+        "weaving - velvet",
+        "velvet",
+        "cut and voided"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-608"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-608"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - velvet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [
+        "TM-2582"
+    ],
+    "material_ids": [
+        "TM-2579",
+        "TM-2582"
+    ],
+    "material_titles": [
+        "silk (textile)",
+        "velvet"
+    ],
+    "technique_id": "TM-10501",
+    "alt_technique_ids": [
+        "TM-10588"
+    ],
+    "technique_ids": [
+        "TM-10501",
+        "TM-10588"
+    ],
+    "technique_titles": [
+        "satin weaving",
+        "cut and voided"
+    ],
+    "theme_titles": [],
+    "image_id": "ccc47e0f-f915-8632-c003-055f5394d7e6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1895.856"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:07:58-05:00",
+    "timestamp": "2023-09-24T00:45:06-05:00"
+}

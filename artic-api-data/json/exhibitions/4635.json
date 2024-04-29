@@ -1,0 +1,50 @@
+{
+    "id": 4635,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4635",
+    "title": "Max Beckmann",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1965-03-12T00:00:00-06:00",
+    "aic_end_at": "1965-04-11T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "6cf3323a-3685-be95-8d19-e752863fc342",
+    "alt_image_ids": [
+        "e9199382-7a71-c4ce-6222-5fc02f92f5ca",
+        "2995b821-8a4d-46dc-c9d5-1069f80dfff3",
+        "c9d7e324-0e49-42ac-f11f-8209bbe064be",
+        "3faa904f-db09-f556-de5a-6eb0d25c8d1a",
+        "62746207-8b22-efdc-9bc8-5a0b4460ba63",
+        "478570c9-6825-7463-9c19-c60d4fbfb42a",
+        "77764c00-f28d-8472-0273-b58dc3d66eda",
+        "ef74ead9-d523-d6f2-c139-5e1f5a6a301d",
+        "3f3c75ea-b340-0c09-aa5a-dfb84a01ba96",
+        "abd2b5e5-cd69-358f-ad7c-0f78ae643725",
+        "947c37ad-beb8-5227-fd73-5d7b95381a80",
+        "1cfa6100-2c21-f35f-96ff-4beb4943a3c7",
+        "6bc8ab4b-15ac-1f05-1d64-34467f52fd35"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Beckmann"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-24T14:29:18-05:00",
+    "updated_at": "2019-10-24T14:30:54-05:00",
+    "timestamp": "2023-09-24T02:01:26-05:00"
+}

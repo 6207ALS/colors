@@ -1,0 +1,165 @@
+{
+    "id": 83394,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/83394",
+    "is_boosted": false,
+    "title": "Paul Before Festus and Agrippa",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKaWfKqYeaqaf7Oli7SkibWlibWnjbmnirusk8S0lsKzmMa1mc28oNvNtAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsC12QkJmiERAUREAOw==",
+        "width": 1298,
+        "height": 2004,
+        "alt_text": "A work made of pen and wash on paper."
+    },
+    "main_reference_number": "1922.1535",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1772,
+    "date_end": 1798,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Charles Reuben Ryley\nEnglish, c. 1752-1798",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Pen and wash on paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.0506,
+    "color": {
+        "h": 37,
+        "l": 83,
+        "s": 54,
+        "percentage": 0.105504261169512,
+        "population": 1158
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 22645,
+    "artist_title": "Charles Reuben Ryley",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        22645
+    ],
+    "artist_titles": [
+        "Charles Reuben Ryley"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "wash",
+        "drawings (visual works)",
+        "prints and drawing",
+        "paper (fiber product)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2399",
+    "alt_material_ids": [
+        "TM-2982"
+    ],
+    "material_ids": [
+        "TM-2399",
+        "TM-2982"
+    ],
+    "material_titles": [
+        "wash",
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "31ecff92-6d4c-4f6e-fd82-c60ad18ea7d7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.1535"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Paul Before Festus and Agrippa"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:11-05:00",
+    "updated_at": "2023-04-10T15:25:00-05:00",
+    "timestamp": "2023-09-24T00:56:22-05:00"
+}

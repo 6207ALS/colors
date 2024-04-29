@@ -1,0 +1,160 @@
+{
+    "id": 50664,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50664",
+    "is_boosted": false,
+    "title": "Flask",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAD0uIYFjHJ+Qarm4ub+8uMi+rNDHuNDO0djU0NnV09rW0tnX2drZ2ujn6O7u7gAAACH5BAAAAAAALAAAAAADAAUAAAQLkJ2lBCrBEJDacBEAOw==",
+        "width": 1557,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1944.335",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1846,
+    "date_end": 1862,
+    "date_display": "1846\u201362",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Granite Glass Works\nAmerican, 1846\u20131862\nStoddard, New Hampshire",
+    "place_of_origin": "New Hampshire",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Everett L. Millard in memory of her mother, Mrs. Charles T. Boynton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1945,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.5507,
+    "color": {
+        "h": 42,
+        "l": 41,
+        "s": 59,
+        "percentage": 0.02697769908470608,
+        "population": 277
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114069,
+    "artist_title": "Granite Glass Works",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114069
+    ],
+    "artist_titles": [
+        "Granite Glass Works"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "flask (bottle)",
+        "glass (object genre)",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11794",
+    "classification_title": "flask (bottle)",
+    "alt_classification_ids": [
+        "TM-1752",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11794",
+        "TM-1752",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "flask (bottle)",
+        "glass (object genre)",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6a919d52-d8cc-f46e-7e4d-489996462c2f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1944.335"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flask"
+            ],
+            "weight": 12,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:23:43-05:00",
+    "timestamp": "2023-09-24T00:42:50-05:00"
+}

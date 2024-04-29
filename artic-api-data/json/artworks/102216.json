@@ -1,0 +1,163 @@
+{
+    "id": 102216,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102216",
+    "is_boosted": false,
+    "title": "Stray Horse",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAD4+PkBAQGFhYWJiYmxsbG5ubnBwcH5+fomJiZOTk5SUlJaWlpqamp6enqCgoLS0tLe3t729vcjIyNHR0dPT09jY2Nvb2+Li4urq6uzs7AAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUYoPUwBEI5xwAESHVJidNgk9IsUQYVhsCEADs=",
+        "width": 2893,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1984.164",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1906,
+    "date_end": 1906,
+    "date_display": "1906",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Emile Drappier\nFrench, active c. 1900-20",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "30.2 \u00d7 41.3 \u00d7 13.4 cm (11 15/16 \u00d7 16 1/4 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 13.4,
+            "depth_in": 5.25,
+            "width_cm": 41.3,
+            "width_in": 16.25,
+            "height_cm": 30.2,
+            "height_in": 11.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": "Signed: verso base: \"E. Drappier. 1906\"",
+    "credit_line": "George F. Harding Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "George F. Harding, Jr. (d. 1939), Chicago; bequeathed to the George F. Harding Museum, Chicago, 1939; transferred to the Art Institute of Chicago, 1982 [receipt 13788, Nov. 9, 1982, copy in curatorial file]; accessioned by the Art Institute of Chicago, 1984.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 52,
+        "s": 0,
+        "percentage": 0.03508086682290311,
+        "population": 194
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 30976,
+    "artist_title": "E. Drappier",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30976
+    ],
+    "artist_titles": [
+        "E. Drappier"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2de06ffa-f5c9-e395-1423-be0e95d07b96",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.164"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Stray Horse"
+            ],
+            "weight": 328,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-01T10:24:45-05:00",
+    "updated_at": "2023-05-01T10:27:40-05:00",
+    "timestamp": "2023-09-24T01:06:04-05:00"
+}

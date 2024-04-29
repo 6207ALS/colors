@@ -1,0 +1,28 @@
+{
+    "id": 35468,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35468",
+    "title": "Arthur Allen Lewis",
+    "sort_title": "Lewis, Arthur Allen",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1873,
+    "death_date": 1957,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arthur Allen Lewis",
+            "Lewis, Arthur Allen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:57:19-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

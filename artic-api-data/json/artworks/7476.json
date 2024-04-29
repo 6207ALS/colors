@@ -1,0 +1,168 @@
+{
+    "id": 7476,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/7476",
+    "is_boosted": false,
+    "title": "Ships at Sea",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAE5LOU1LOlFOPFdUQGNfR2NiV3JtUXRuUXp1Wnp5bYV9W4N9YYuDXo2FYJGJY5mQa5iQbZqSb5yUb6CWaqOadqqhe6yieKqifpGThqmigaukhKulha2niLGqh7Oqh7Otj7Wuj7KyptrazgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQJCns+F8RBDGoTGRhBCCgMFRwSwGAIKCktBcIpZHphAEADs=",
+        "width": 3360,
+        "height": 2308,
+        "alt_text": "A work made of black crayon on cream card."
+    },
+    "main_reference_number": "1922.5645",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1908,
+    "date_end": 1908,
+    "date_display": "1908",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hendrik Willem Mesdag\nDutch, 1831-1915",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "9.4 \u00d7 13.5 cm (3 3/4 \u00d7 5 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.5,
+            "width_in": 5.315,
+            "height_cm": 9.4,
+            "height_in": 3.7008,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Black crayon on cream card",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. J. A. Edwards",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.0385,
+    "color": {
+        "h": 49,
+        "l": 49,
+        "s": 15,
+        "percentage": 0.13030196866606433,
+        "population": 636
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35749,
+    "artist_title": "Hendrik Willem Mesdag",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35749
+    ],
+    "artist_titles": [
+        "Hendrik Willem Mesdag"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "crayons",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2418",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2418"
+    ],
+    "material_titles": [
+        "crayons"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b53af8ed-4b02-defa-2919-0d96b821c406",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.5645"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Ships at Sea"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-13T14:32:10-06:00",
+    "updated_at": "2023-04-07T12:28:58-05:00",
+    "timestamp": "2023-09-24T00:23:20-05:00"
+}

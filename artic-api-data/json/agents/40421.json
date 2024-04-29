@@ -1,0 +1,31 @@
+{
+    "id": 40421,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40421",
+    "title": "John Bacon, the younger",
+    "sort_title": "Bacon, John, the younger",
+    "alt_titles": [
+        "John Bacon, II"
+    ],
+    "is_artist": true,
+    "birth_date": 1777,
+    "death_date": 1859,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Bacon, the younger",
+            "Bacon, John, the younger",
+            "John Bacon, II"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T09:10:06-05:00",
+    "updated_at": "2019-07-10T09:10:38-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

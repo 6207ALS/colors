@@ -1,0 +1,168 @@
+{
+    "id": 205223,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/205223",
+    "is_boosted": false,
+    "title": "Auditorium Building, Chicago, Illinois, Lobby Details",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIlySYlyS455S5R8T5Z7UJV/UJl/VJaAUJiBUZuFW56FWJ2GWaSIV6OJWaSMX6qRXqqSYK2WYa6VZa+YZK6WaLCXZbOaZbGaZrOcZrSfbbSecbagbLukcL2ncL2mc8SvfcWxfcOvg8i0hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQI2n0mAQDKEPZ/JQOESgDsYioWQ2lwhkkRAcCogBIBAEADs=",
+        "width": 4293,
+        "height": 2885,
+        "alt_text": "A work made of hectograph print on paper mounted on board."
+    },
+    "main_reference_number": "1988.236.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1886,
+    "date_end": 1889,
+    "date_display": "c. 1887",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Adler and Sullivan\nAmerican, 1883\u20131895",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "55.1 \u00d7 83 cm (21 11/16 \u00d7 32 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 83,
+            "width_in": 32.6875,
+            "height_cm": 55.1,
+            "height_in": 21.6875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Hectograph print on paper mounted on board",
+    "inscriptions": null,
+    "credit_line": "Gift of George Grant Elmslie",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.8441,
+    "color": {
+        "h": 42,
+        "l": 59,
+        "s": 36,
+        "percentage": 0.2940449094391979,
+        "population": 1403
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 30393,
+    "artist_title": "Adler & Sullivan, Architects",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30393
+    ],
+    "artist_titles": [
+        "Adler & Sullivan, Architects"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural drawing",
+        "paper (fiber product)",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "818fe07e-0834-cf6f-cdbe-b2b9c6e93d2b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.236.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Auditorium Building, Chicago, Illinois, Lobby Details"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:45:02-05:00",
+    "timestamp": "2023-09-24T01:41:06-05:00"
+}

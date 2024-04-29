@@ -1,0 +1,48 @@
+{
+    "id": 4260,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4260",
+    "title": "Francis Bacon (1964)",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1964-01-24T00:00:00-06:00",
+    "aic_end_at": "1964-02-23T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "4de13aab-0b92-ab53-50fb-e8c295f80958",
+    "alt_image_ids": [
+        "d083734a-9037-bc5c-caf8-7840b3d777ea",
+        "848d23b3-a798-e580-7d95-c46aa5cede04",
+        "591d967b-50ab-38d9-d7da-037036ed03af",
+        "8a88163b-14be-f2d3-5c50-d069e18e5eed",
+        "3eee5d75-d234-834f-f33c-7fa9f8bf5117",
+        "ff2f91d9-3f3a-9fd5-278a-bfcf592dfce2",
+        "b114ddbb-7dea-ca9e-6c20-3009612fbf0b",
+        "dd75dd29-6cad-f602-6b1c-d8f20b4557f7",
+        "6493ac6a-7750-6e1f-48c1-471d01639a25"
+    ],
+    "document_ids": [
+        "5acdd70a-8324-851b-0902-acada039d355"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francis Bacon (1964)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-14T14:36:57-05:00",
+    "updated_at": "2019-10-14T14:41:20-05:00",
+    "timestamp": "2023-09-24T02:01:21-05:00"
+}

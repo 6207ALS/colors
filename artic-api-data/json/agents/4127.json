@@ -1,0 +1,28 @@
+{
+    "id": 4127,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/4127",
+    "title": "Manuel Carrillo",
+    "sort_title": "Carrillo, Manuel",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1906,
+    "death_date": 1989,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Manuel Carrillo",
+            "Carrillo, Manuel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:47-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

@@ -1,0 +1,159 @@
+{
+    "id": 48069,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/48069",
+    "is_boosted": false,
+    "title": "Handkerchief",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFdfXFphXlxlYWBmY2ZtaWduaWpybm1zb210cW51cW94c3F4dHV7d3N8eHV8eXaAe3mAfHqBfnuCf4SNiIeQi4uUj4yVkY+XkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYCAAxlAoT0McE2UlznRVEgMtERICADs=",
+        "width": 3000,
+        "height": 3091,
+        "alt_text": "A work made of linen, plain weave, edged with cotton, needle lace of a type known as \"point de gaze\"."
+    },
+    "main_reference_number": "1943.778",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1925,
+    "date_display": "1900/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Belgium",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "35.5 \u00d7 35.3 cm (14 \u00d7 13 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.3,
+            "width_in": 13.875,
+            "height_cm": 35.5,
+            "height_in": 14,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave, edged with cotton, needle lace of a type known as \"Point de Gaze\"",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles Albert Winston",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1944,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.892,
+    "color": {
+        "h": 147,
+        "l": 47,
+        "s": 4,
+        "percentage": 0.10632424247393826,
+        "population": 778
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - needle"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1293"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1293"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - needle"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "56a0b0d7-d56a-b56c-3248-a22ab6fb0c15",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.778"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Handkerchief"
+            ],
+            "weight": 110,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:26:17-05:00",
+    "timestamp": "2023-09-24T00:41:27-05:00"
+}

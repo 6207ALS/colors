@@ -1,0 +1,31 @@
+{
+    "id": 46741,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46741",
+    "title": "Style of Cornelis Pronck",
+    "sort_title": "Pronck, Cornelis, Style of",
+    "alt_titles": [
+        "Style of Cornelis Pronk"
+    ],
+    "is_artist": true,
+    "birth_date": 1691,
+    "death_date": 1759,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Style of Cornelis Pronck",
+            "Pronck, Cornelis, Style of",
+            "Style of Cornelis Pronk"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:35-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

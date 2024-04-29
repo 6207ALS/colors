@@ -1,0 +1,167 @@
+{
+    "id": 74234,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/74234",
+    "is_boosted": false,
+    "title": "Beaker",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAG5eTIl2WpJ+YZWLgZmSjKOaj6abjqWdlKiflKSfmK6kmbiyrre3t7y1sLm4ub67uMLAv8LAwcTBwcbExMfFxcjFx87Ky8/O0NLP0gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAUABQAABRUgtSiNdR2BgUUEMFRMIhTOBCGPFAIAOw==",
+        "width": 728,
+        "height": 744,
+        "alt_text": "A work made of ceramic."
+    },
+    "main_reference_number": "1989.205.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -3500,
+    "date_end": -3000,
+    "date_display": "2nd half of the 4th millenium BCE",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Persian; Tepe Siyalk",
+    "place_of_origin": "Dahestan",
+    "description": null,
+    "dimensions": "17.1 \u00d7 10.8 \u00d7 10.8 cm (6 3/4 \u00d7 4 1/4 \u00d7 4 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.8,
+            "depth_in": 4.25,
+            "width_cm": 10.8,
+            "width_in": 4.25,
+            "height_cm": 17.1,
+            "height_in": 6.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ceramic",
+    "inscriptions": null,
+    "credit_line": "Everett and Ann McNear Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 941,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.3373,
+    "color": {
+        "h": 38,
+        "l": 63,
+        "s": 5,
+        "percentage": 0.04775233738746549,
+        "population": 347
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 37565,
+    "artist_title": "Iranian",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37565
+    ],
+    "artist_titles": [
+        "Iranian"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "ceramics",
+        "asian art",
+        "vessel"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-46",
+    "classification_title": "ceramics",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-27"
+    ],
+    "classification_ids": [
+        "TM-46",
+        "TM-26",
+        "TM-27"
+    ],
+    "classification_titles": [
+        "ceramics",
+        "asian art",
+        "vessel"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a5e7c49b-d6af-ff2e-b738-dbc95bf64b49",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.205.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Beaker"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-14T16:02:37-05:00",
+    "updated_at": "2023-07-14T16:05:55-05:00",
+    "timestamp": "2023-09-24T00:52:27-05:00"
+}

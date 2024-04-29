@@ -1,0 +1,187 @@
+{
+    "id": 182137,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182137",
+    "is_boosted": false,
+    "title": "Flores Imaginarias (Imaginary Flowers)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJaXiqChk6Oklqanmaipm62un7CxorOxo7OypLKzpLO0pbW1pre3qrq6rLy8r8bDtsjIusvJvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURINQ0jqEUxMIQyRAIABI9RwgAOw==",
+        "width": 2278,
+        "height": 3018,
+        "alt_text": "A work made of lithograph on white wove paper."
+    },
+    "main_reference_number": "1980.1100",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1982,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Juan O'Gorman\nMexican, 1905-1982",
+    "place_of_origin": "Mexico",
+    "description": null,
+    "dimensions": "Image: 57.2 \u00d7 46.4 cm (22 9/16 \u00d7 18 5/16 in.); Sheet: 63.5 \u00d7 48.9 cm (25 \u00d7 19 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 46.4,
+            "width_in": 18.2678,
+            "height_cm": 57.2,
+            "height_in": 22.5197,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.9,
+            "width_in": 19.252,
+            "height_cm": 63.5,
+            "height_in": 25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Ruth S. Geiger",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.056,
+    "color": {
+        "h": 7,
+        "l": 50,
+        "s": 63,
+        "percentage": 0.00010619871265920516,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 63524,
+    "artist_title": "Juan O'Gorman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        63524
+    ],
+    "artist_titles": [
+        "Juan O'Gorman"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Latin American"
+    ],
+    "term_titles": [
+        "prints and drawing",
+        "paper (fiber product)",
+        "lithograph",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-71",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-71",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "lithograph",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "fd6e6bd6-8dde-2dd8-e53e-4322d87ab6a8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.1100"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Flores Imaginarias (Imaginary Flowers)"
+            ],
+            "weight": 403,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:17:03-05:00",
+    "timestamp": "2023-09-24T01:33:43-05:00"
+}

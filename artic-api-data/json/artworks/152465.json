@@ -1,0 +1,172 @@
+{
+    "id": 152465,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/152465",
+    "is_boosted": false,
+    "title": "Unknown, from On the Bowery",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFkwAFssUmAuTAREfSFQezlddLNeFgdHg5CeusK0k8e/kurrnpmvx+7xxu3s0uro5Orp5e3t6e/t6u3s7O/u7/Ds5e/t8u/t+Pb39gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIGRd1CM1izMpBpBghRAgEXEMTBUCADs=",
+        "width": 3000,
+        "height": 2989,
+        "alt_text": "A work made of screenprint in color on white wove card."
+    },
+    "main_reference_number": "1998.912.20",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1964,
+    "date_end": 1964,
+    "date_display": "1964, published 1971",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Richard Smith (English, 1931\u20132016)\npublished and printed by Edition Domberger KG (German, act. 1971-1992)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Sheet: 64.8 \u00d7 64.9 cm (25 9/16 \u00d7 25 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64.9,
+            "width_in": 25.5512,
+            "height_cm": 64.8,
+            "height_in": 25.5119,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Screenprint in color on white wove card",
+    "inscriptions": null,
+    "credit_line": "Gift of David C. and Sarajean Ruttenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 90.3371,
+    "color": {
+        "h": 51,
+        "l": 50,
+        "s": 98,
+        "percentage": 0.0762582613116421,
+        "population": 540
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 58198,
+    "artist_title": "Richard Smith",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        58198
+    ],
+    "artist_titles": [
+        "Richard Smith"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "screen printing",
+        "screenprint",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-214",
+    "classification_title": "screenprint",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-214",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "screenprint",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10604",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10604"
+    ],
+    "technique_titles": [
+        "screen printing"
+    ],
+    "theme_titles": [],
+    "image_id": "80238566-9edd-132a-915b-7d0a051d2a4b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1998.912.20"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Unknown, from On the Bowery"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-08T10:55:46-05:00",
+    "timestamp": "2023-09-24T01:28:33-05:00"
+}

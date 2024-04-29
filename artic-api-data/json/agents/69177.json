@@ -1,0 +1,31 @@
+{
+    "id": 69177,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/69177",
+    "title": "James Jefferys",
+    "sort_title": "Jefferys, James",
+    "alt_titles": [
+        "Master of the Giants"
+    ],
+    "is_artist": true,
+    "birth_date": 1751,
+    "death_date": 1784,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Jefferys",
+            "Jefferys, James",
+            "Master of the Giants"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:58-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

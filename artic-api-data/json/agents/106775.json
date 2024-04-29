@@ -1,0 +1,43 @@
+{
+    "id": 106775,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/106775",
+    "title": "Master of the Unicorn Hunt",
+    "sort_title": "Master of the Unicorn Hunt",
+    "alt_titles": [
+        "Ma\u00eere de la Chasse \u00e0 la Licorne",
+        "Master of the Cloisters Unicorn",
+        "Master of Anne of Brittany",
+        "Master of the Book of Hours of Anne of Brittany",
+        "Ma\u00eetre des tr\u00e8s petites heures d'Anne de Bretagne",
+        "Jean d' Ypres",
+        "Jean d'Ypres"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Master of the Unicorn Hunt",
+            "Master of the Unicorn Hunt",
+            "Ma\u00eere de la Chasse \u00e0 la Licorne",
+            "Master of the Cloisters Unicorn",
+            "Master of Anne of Brittany",
+            "Master of the Book of Hours of Anne of Brittany",
+            "Ma\u00eetre des tr\u00e8s petites heures d'Anne de Bretagne",
+            "Jean d' Ypres",
+            "Jean d'Ypres"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:44:10-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

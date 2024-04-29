@@ -1,0 +1,37 @@
+{
+    "id": 23217,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/23217",
+    "title": "Jacob Matthias Schmutzer",
+    "sort_title": "Schmutzer, Jacob Matthias",
+    "alt_titles": [
+        "Jakob Matthias Schmutzer",
+        "Jakob Mathias Schmuzer",
+        "Jakob Mathias Schmutzer, II",
+        "Jacob M. Schmutzer"
+    ],
+    "is_artist": true,
+    "birth_date": 1733,
+    "death_date": 1811,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacob Matthias Schmutzer",
+            "Schmutzer, Jacob Matthias",
+            "Jakob Matthias Schmutzer",
+            "Jakob Mathias Schmuzer",
+            "Jakob Mathias Schmutzer, II",
+            "Jacob M. Schmutzer"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-16T15:29:39-06:00",
+    "updated_at": "2021-02-16T15:30:50-06:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

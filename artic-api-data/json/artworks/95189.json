@@ -1,0 +1,173 @@
+{
+    "id": 95189,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/95189",
+    "is_boosted": false,
+    "title": "Capital",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADo6Oj09PkRFRkZGRkdISE5NTE5PT09QUVlYVmloZXVtZnpxZ3RzcXt2cX13c395c3Z3eHd3eIR2bId+doh6cIh/dIJ9eIuIhJubnJ6enp+fnqeoqKysrAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYEAchgAkVuM8BTJJlDJEV7UwELdpWJaFADs=",
+        "width": 2835,
+        "height": 2250,
+        "alt_text": "A work made of limestone."
+    },
+    "main_reference_number": "1911.174",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1170,
+    "date_end": 1205,
+    "date_display": "1170/1200",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "French, Champagne",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "33 \u00d7 52.1 cm (13 \u00d7 20 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52.1,
+            "width_in": 20.5,
+            "height_cm": 33,
+            "height_in": 13,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Limestone",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago, Bulletin of the Art Institute of Chicago, 5 (January 1912), p. 38, no. 3.\n\nDorothy Gillerman, ed., Gothic Sculpture in America, vol. 2: The Museums of the Midwest (Turnhout, Belgium, 2001), pp. 8-9, no. 6.",
+    "exhibition_history": null,
+    "provenance_text": "Sheldon & Co; purchased by Martin A. Ryerson and presented to the museum by the Antiquarian Society, 1911 [according to incoming receipt in Registrar's files].",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.5767,
+    "color": {
+        "h": 56,
+        "l": 82,
+        "s": 6,
+        "percentage": 0.006383352217416976,
+        "population": 36
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 236",
+    "gallery_id": 2147480055,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "architectural sculpture",
+        "stone",
+        "rock",
+        "inorganic material",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-423",
+    "classification_title": "architectural sculpture",
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-423",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "architectural sculpture",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2434",
+    "alt_material_ids": [
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2434",
+        "TM-2796",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "stone",
+        "rock",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5cf2765d-5490-192b-2575-5e5ed95ed398",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1911.174"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Capital"
+            ],
+            "weight": 265,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:51:47-05:00",
+    "timestamp": "2023-09-24T01:02:01-05:00"
+}

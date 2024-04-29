@@ -1,0 +1,31 @@
+{
+    "id": 30524,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30524",
+    "title": "John Baldessari",
+    "sort_title": "Baldessari, John",
+    "alt_titles": [
+        "John Anthony Baldessari"
+    ],
+    "is_artist": true,
+    "birth_date": 1931,
+    "death_date": 2020,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Baldessari",
+            "Baldessari, John",
+            "John Anthony Baldessari"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-01-08T12:36:22-06:00",
+    "updated_at": "2022-03-15T16:54:17-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

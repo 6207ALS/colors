@@ -1,0 +1,31 @@
+{
+    "id": 109413,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/109413",
+    "title": "Francisco G\u00f3mez Paz",
+    "sort_title": "Paz, Francisco G\u00f3mez",
+    "alt_titles": [
+        "Francesco Gomez Paz"
+    ],
+    "is_artist": true,
+    "birth_date": 1975,
+    "death_date": 1975,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francisco G\u00f3mez Paz",
+            "Paz, Francisco G\u00f3mez",
+            "Francesco Gomez Paz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:44:27-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

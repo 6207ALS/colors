@@ -1,0 +1,174 @@
+{
+    "id": 1953,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/1953",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJRRRZZSR5ZSSJdTSJhWSplYTZtZTptZT5paTptaTp5gU59gVK15aKx7aa57aax7aq99a69/bbF9a7SCb7SDcLWEcbaHc7eJdbmNebqNeL+Wf8KfiMaiiQAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGdl2LU5AFEMD4QoSxIxgnEEjSZNVLWFADs=",
+        "width": 2651,
+        "height": 2250,
+        "alt_text": "A work made of silk, plain compound cloth."
+    },
+    "main_reference_number": "1895.731",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1650,
+    "date_end": 1700,
+    "date_display": "1650/1700",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "17 \u00d7 20.9 cm (6 11/16 \u00d7 8 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.9,
+            "width_in": 8.25,
+            "height_cm": 17,
+            "height_in": 6.6875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, plain compound cloth",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 43.4991,
+    "color": {
+        "h": 9,
+        "l": 40,
+        "s": 42,
+        "percentage": 0.4584252834715071,
+        "population": 2767
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "flowers",
+        "silk (textile)",
+        "compound weaving",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-10482",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-10482"
+    ],
+    "subject_titles": [
+        "flowers"
+    ],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10542",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10542"
+    ],
+    "technique_titles": [
+        "compound weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "ca8e243f-dc44-d5f6-2a1a-26dd195457f0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1895.731"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2023-04-10T15:05:23-05:00",
+    "timestamp": "2023-09-24T00:21:05-05:00"
+}

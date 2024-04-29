@@ -1,0 +1,162 @@
+{
+    "id": 69016,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/69016",
+    "is_boosted": false,
+    "title": "Scepter",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE5NTU9PT1JRUG5sant6eoKBgZKRkZaUk5WVlZiXl5qZmZybm6KhoKKhoaKioqOjo6Wko6WkpKinp7W0tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIAM9yTE4zUQESCQBwqIYRQgAOw==",
+        "width": 6462,
+        "height": 8617,
+        "alt_text": "A work made of jade."
+    },
+    "main_reference_number": "1950.318",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -2000,
+    "date_end": -1500,
+    "date_display": "Late Neolithic period (2000-1500 BC)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "28 \u00d7 8.3 \u00d7 0.8 cm (11 \u00d7 3 1/4 \u00d7 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0.8,
+            "depth_in": 0.3125,
+            "width_cm": 8.3,
+            "width_in": 3.25,
+            "height_cm": 28,
+            "height_in": 11,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Jade",
+    "inscriptions": null,
+    "credit_line": "Edward and Louise B. Sonnenschein Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 7,
+        "l": 55,
+        "s": 0,
+        "percentage": 0.0008027576935704712,
+        "population": 447
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "jade",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-461",
+    "classification_title": "jade",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-461",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "jade",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ff8919b0-f108-d2c4-2136-79086c603ca2",
+    "alt_image_ids": [
+        "4f70895d-4b99-7fbf-9246-d64dd3abfee0",
+        "b505e149-2789-190f-9ca6-13e7340d1103"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.318"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Scepter"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-18T15:24:35-06:00",
+    "updated_at": "2023-04-07T14:05:06-05:00",
+    "timestamp": "2023-09-24T00:50:24-05:00"
+}

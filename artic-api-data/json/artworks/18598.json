@@ -1,0 +1,173 @@
+{
+    "id": 18598,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18598",
+    "is_boosted": false,
+    "title": "Myself",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE1DPjg/QkdEQUxGQ1FNSEpQTFdSSlpWTkxQVGNPRGJVTWFbVWliWHJlVXJlWl1gYF5lYnJqYnV4aYGNiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoEEIweE0BTNBkhI9yJIMQAgAOw==",
+        "width": 1756,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1925.1509",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1925,
+    "date_end": 1925,
+    "date_display": "1925",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Leopold Gould Seyffert\nAmerican, 1887/88\u20131956",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "95.3 \u00d7 74.9 cm (37 1/2 \u00d7 29 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 74.9,
+            "width_in": 29.5,
+            "height_cm": 95.3,
+            "height_in": 37.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Percy B. Eckhart",
+    "catalogue_display": "<p>Unknown No. book 22</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.124,
+    "color": {
+        "h": 37,
+        "l": 48,
+        "s": 16,
+        "percentage": 0.013400114230481965,
+        "population": 122
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Ryerson Library Reading Room",
+    "gallery_id": 2147472240,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36616,
+    "artist_title": "Leopold Gould Seyffert",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36616
+    ],
+    "artist_titles": [
+        "Leopold Gould Seyffert"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "canvas",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3124"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3124"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b970a668-de03-945f-cb42-31b2ad8ed05c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1925.1509"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Myself"
+            ],
+            "weight": 486,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-01T18:19:48-06:00",
+    "updated_at": "2023-04-07T14:01:43-05:00",
+    "timestamp": "2023-09-24T00:27:43-05:00"
+}

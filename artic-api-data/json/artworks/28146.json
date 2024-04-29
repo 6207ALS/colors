@@ -1,0 +1,167 @@
+{
+    "id": 28146,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/28146",
+    "is_boosted": false,
+    "title": "Alpine Scene",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACILBi4ZBysXCS8cCCodETAfEjchCz4oDy8hEUg1FEo/K0xFLVdHI354UZGNagAAACH5BAAAAAAALAAAAAADAAUAAAQLsCDC2kpOmSPACBEAOw==",
+        "width": 1504,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1967.588",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1865,
+    "date_end": 1865,
+    "date_display": "1865",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Gustave Dor\u00e9\nFrench, 1832-1883",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "195.5 \u00d7 130 cm (77 \u00d7 51 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 130,
+            "width_in": 51.125,
+            "height_cm": 195.5,
+            "height_in": 77,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Inscribed at lower right: G. Dor\u00e9/ 1865 and at lower left: [Do]r\u00e9",
+    "credit_line": "Gift of Julius H. Weitzner, Inc.",
+    "catalogue_display": null,
+    "publication_history": "The Art Institute of Chicago: Annual Report 1967-68 (Chicago, 1968), p. 20.\n\nAnnie Renonciat, La vie et l\u2019\u0153uvre de Gustave Dor\u00e9 (Paris, 1983), pp. 78-9.\n\nRichard R. Brettell, French Salon Artists 1800-1900 (Chicago and New York, 1987), pp. 72-73, 118.",
+    "exhibition_history": "The Art Institute of Chicago, The Artist Looks at the Landscape, June 22-August 25, 1974, no cat.",
+    "provenance_text": "Dor\u00e9 Gallery, London, before 1892 [according to a label on the stretcher; the Dor\u00e9 Gallery operated from 1867 to 1892].  Julius H. Weitzner, London by 1967; given by Weitzner to the Art Institute, 1967.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.9778,
+    "color": {
+        "h": 47,
+        "l": 51,
+        "s": 59,
+        "percentage": 0.0007525707345937012,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 40557,
+    "artist_title": "Gustave Dor\u00e9",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40557
+    ],
+    "artist_titles": [
+        "Gustave Dor\u00e9"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "07bdc94a-7d44-fde8-c0e1-f19fefce359d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1967.588"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Alpine Scene"
+            ],
+            "weight": 6089,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:08:54-05:00",
+    "timestamp": "2023-09-24T00:32:52-05:00"
+}

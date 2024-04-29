@@ -1,0 +1,169 @@
+{
+    "id": 81077,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/81077",
+    "is_boosted": false,
+    "title": "Parnassus",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEhEO0lGPE9MQVNORFJPRVhUSVpVSVtYTV5bUGBbT2NfU2plV2xoXG5qXXBsX5KNgJeQg5aRg5eShJaShZuWiJqWiZuXipyWiqCcj6mjl6ukl6ymmbComrCpnbSwo7Wxo7axpLeypLm0pgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwBBF8ohAOKBFw6EwaD4MxIGQ2HgKAYBgkBFhLJPKpRMEADs=",
+        "width": 3000,
+        "height": 2098,
+        "alt_text": "A work made of engraving in black on paper."
+    },
+    "main_reference_number": "1922.105a",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "After Raffaello Sanzio, called Raphael\nItalian, 1483-1520",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Engraving in black on paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.6487,
+    "color": {
+        "h": 40,
+        "l": 47,
+        "s": 10,
+        "percentage": 0.07137543478697951,
+        "population": 355
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36321,
+    "artist_title": "Raphael",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36321
+    ],
+    "artist_titles": [
+        "Raphael"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "ink",
+        "paper (fiber product)",
+        "paper",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-145",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "paper",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-2982"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-2982"
+    ],
+    "material_titles": [
+        "ink",
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0f82826c-8d04-d883-4f3c-2c174a2f0038",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.105a"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Parnassus"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:11-05:00",
+    "updated_at": "2023-04-10T15:25:04-05:00",
+    "timestamp": "2023-09-24T00:55:03-05:00"
+}

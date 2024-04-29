@@ -1,0 +1,181 @@
+{
+    "id": 262572,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/262572",
+    "is_boosted": false,
+    "title": "Church in Field, Standart, Wisconsin",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAABMQDh8cGiMhHiUiICckIjg2M01MSVBOS1NRT1dWU1xaV2JfXGZkYGlnZGppZW9saW9taXFvbHNxbnZ1cXd1cn17d4B+eoOCfoyKho2Lh46MiI+NiZiWkpyalbCtqru4tMnFwdbTzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwEkF0nBILJdMJ7JRFBiYjycTAAgWoNBjQDhQOJoEwhAEADs=",
+        "width": 7287,
+        "height": 5062,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "2021.522",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1977,
+    "date_end": 1977,
+    "date_display": "1977",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Lewis Koch\nAmerican, born 1949",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 12.7 \u00d7 17.8 cm (5 \u00d7 7 in.); Paper: 20.4 \u00d7 25.4 cm (8 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.8,
+            "width_in": 7,
+            "height_cm": 12.7,
+            "height_in": 5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 20.4,
+            "height_in": 8,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Paper"
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 42,
+        "l": 42,
+        "s": 2,
+        "percentage": 0.003928235129352798,
+        "population": 1449
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117763,
+    "artist_title": "Lewis Koch",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117763
+    ],
+    "artist_titles": [
+        "Lewis Koch"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7ce60bcb-399f-7f8a-258f-a911a9a1aae9",
+    "alt_image_ids": [
+        "7e645664-1545-bc2f-10eb-4394949f6911",
+        "74332035-8738-be7f-b869-686e73b8c715"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.522"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Church in Field, Standart, Wisconsin"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-15T16:21:32-05:00",
+    "updated_at": "2023-09-15T16:26:54-05:00",
+    "timestamp": "2023-09-24T01:58:11-05:00"
+}

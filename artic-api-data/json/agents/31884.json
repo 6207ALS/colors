@@ -1,0 +1,31 @@
+{
+    "id": 31884,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31884",
+    "title": "Richard Maris Loving",
+    "sort_title": "Loving, Richard Maris",
+    "alt_titles": [
+        "Richard Loving"
+    ],
+    "is_artist": true,
+    "birth_date": 1924,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Richard Maris Loving",
+            "Loving, Richard Maris",
+            "Richard Loving"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-08-22T10:46:45-05:00",
+    "updated_at": "2022-08-22T10:51:01-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

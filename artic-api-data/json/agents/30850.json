@@ -1,0 +1,31 @@
+{
+    "id": 30850,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30850",
+    "title": "Aim\u00e9-Jules Dalou",
+    "sort_title": "Dalou, Aim\u00e9-Jules",
+    "alt_titles": [
+        "Aim\u00e9 Jules Dalou"
+    ],
+    "is_artist": true,
+    "birth_date": 1838,
+    "death_date": 1902,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Aim\u00e9-Jules Dalou",
+            "Dalou, Aim\u00e9-Jules",
+            "Aim\u00e9 Jules Dalou"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T16:35:48-05:00",
+    "updated_at": "2022-03-15T16:54:32-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 238739,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/238739",
+    "is_boosted": false,
+    "title": "Calligraphy",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHBxanZzan53bHx4b4F8c4B8dIh/dYSBe4qEfI2GfZGHfJGIfJSJf4yKgJCMgpaNgZmSipuYj6CTiaSWjamglrSkmLWmm7uqnbSrobysob2tob+zqcOypsi3q8S5r8u8sMq8ssvBt9bHvQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAhlAxJ9Qo6FJdO5eBqPiYZTwQwEBoZEAQEECogE4RAEADs=",
+        "width": 2369,
+        "height": 1800,
+        "alt_text": "A work made of album leaf; ink on paper."
+    },
+    "main_reference_number": "1956.1221.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1369,
+    "date_end": 1620,
+    "date_display": "Ming Dynasty (1369\u20131620)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Chen Chun\nChinese, 1483-1544",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "30.2 \u00d7 40.3 cm (11 5/16 \u00d7 15 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40.3,
+            "width_in": 15.875,
+            "height_cm": 30.2,
+            "height_in": 11.3125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Album leaf; ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. Chiang Er-Shih",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 39,
+        "l": 55,
+        "s": 5,
+        "percentage": 0.05703297218704564,
+        "population": 2432
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 4311,
+    "artist_title": "Chen Chun",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        4311
+    ],
+    "artist_titles": [
+        "Chen Chun"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "album leaf",
+        "asian art",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-280",
+    "classification_title": "album leaf",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-280",
+        "TM-26",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "album leaf",
+        "asian art",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "60ade080-7995-e05d-4fc9-fd2fa303ae48",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.1221.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Calligraphy"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-18T14:30:28-06:00",
+    "updated_at": "2023-04-07T14:05:54-05:00",
+    "timestamp": "2023-09-24T01:52:44-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 24163,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/24163",
+    "title": "Jean Baptiste Blaise Simonet",
+    "sort_title": "Simonet, Jean Baptiste Blaise",
+    "alt_titles": [
+        "Jean B. B. Simonet"
+    ],
+    "is_artist": true,
+    "birth_date": 1742,
+    "death_date": 1813,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Baptiste Blaise Simonet",
+            "Simonet, Jean Baptiste Blaise",
+            "Jean B. B. Simonet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:28-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

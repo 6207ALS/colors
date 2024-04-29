@@ -1,0 +1,28 @@
+{
+    "id": 113085,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/113085",
+    "title": "Antoine Alexandre Morel",
+    "sort_title": "Morel, Antoine Alexandre",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1740,
+    "death_date": 1822,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antoine Alexandre Morel",
+            "Morel, Antoine Alexandre"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-07-21T11:14:17-05:00",
+    "updated_at": "2020-07-21T11:15:49-05:00",
+    "timestamp": "2023-09-24T02:00:36-05:00"
+}

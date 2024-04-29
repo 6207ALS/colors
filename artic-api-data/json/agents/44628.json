@@ -1,0 +1,31 @@
+{
+    "id": 44628,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44628",
+    "title": "Roelant Roghman",
+    "sort_title": "Roghman, Roelant",
+    "alt_titles": [
+        "Roeland Roghman"
+    ],
+    "is_artist": true,
+    "birth_date": 1627,
+    "death_date": 1692,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Roelant Roghman",
+            "Roghman, Roelant",
+            "Roeland Roghman"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T10:29:06-06:00",
+    "updated_at": "2023-02-15T10:32:26-06:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

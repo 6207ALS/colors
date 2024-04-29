@@ -1,0 +1,168 @@
+{
+    "id": 120067,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/120067",
+    "is_boosted": false,
+    "title": "Jazz Lamp",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHZ3eX+BhYaIi42NkpKTl52dnZ2dnp2en6ytrbGxr7Cxsba1tL29u8C+vMnJydTT0dPU1Nzd3erq6vT09AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoEAMgYIYB1M0iQMszxRBUggAOw==",
+        "width": 1852,
+        "height": 2250,
+        "alt_text": "A work made of technopolimeris."
+    },
+    "main_reference_number": "1991.316",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1989,
+    "date_display": "1989",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Porsche Design GmbH\nAustria, founded 1972\nManufactured by PAF\nItaly, 20th century",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": "30 \u00d7 4.5 \u00d7 13.5 cm (11 13/16 \u00d7 1 3/4 \u00d7 5 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 13.5,
+            "depth_in": 5.3125,
+            "width_cm": 4.5,
+            "width_in": 1.75,
+            "height_cm": 30,
+            "height_in": 11.8125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Technopolimeris",
+    "inscriptions": null,
+    "credit_line": "Gift of PAF, Italy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.0734,
+    "color": {
+        "h": 227,
+        "l": 55,
+        "s": 2,
+        "percentage": 0.1846548784104389,
+        "population": 1594
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 43074,
+    "artist_title": "Porsche Design GmbH.",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        43074
+    ],
+    "artist_titles": [
+        "Porsche Design GmbH."
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "lighting device",
+        "furniture",
+        "furniture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-169",
+    "classification_title": "lighting device",
+    "alt_classification_ids": [
+        "TM-76"
+    ],
+    "classification_ids": [
+        "TM-169",
+        "TM-76"
+    ],
+    "classification_titles": [
+        "lighting device",
+        "furniture"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4428d93a-2798-3e5e-aa79-37ff4fdf8377",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.316"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jazz Lamp"
+            ],
+            "weight": 63,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:10-05:00",
+    "updated_at": "2023-04-10T10:54:48-05:00",
+    "timestamp": "2023-09-24T01:13:27-05:00"
+}

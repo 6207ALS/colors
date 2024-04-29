@@ -1,0 +1,173 @@
+{
+    "id": 188445,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/188445",
+    "is_boosted": false,
+    "title": "It's Spring Again",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADdCOUZPRk5WQUVRSlZhVl5mUmJqXm91aHN3ZnZ6aXR7bqSikNrc2+Pl5Obn5gAAACH5BAAAAAAALAAAAAADAAUAAAQLUKFVRCLAjHAcaxEAOw==",
+        "width": 2100,
+        "height": 3300,
+        "alt_text": "A work made of oil on paper (framed)."
+    },
+    "main_reference_number": "2006.299",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 2000,
+    "date_end": 2010,
+    "date_display": "2005",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Kong Baiji\nChinese, born 1932",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "122 \u00d7 91.5 cm (48 \u00d7 36 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 91.5,
+            "width_in": 36,
+            "height_cm": 122,
+            "height_in": 48,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on paper (framed)",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. Baiji Kong",
+    "catalogue_display": null,
+    "publication_history": "Art Institute of Chicago, Annual Report 2006- 2007 (Art Institute of Chicago, 2007), pp. 21-22.",
+    "exhibition_history": "The Art Institute of Chicago, Infinite Shades: Contemporary Chinese Ink, September 22- November 7, 2007, gallery 109.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 8,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.2618,
+    "color": {
+        "h": 53,
+        "l": 46,
+        "s": 18,
+        "percentage": 0.010027082074352604,
+        "population": 112
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 103946,
+    "artist_title": "Kong Baiji",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        103946
+    ],
+    "artist_titles": [
+        "Kong Baiji"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "painting",
+        "Chinese (culture or style)",
+        "21st Century"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [
+        "TM-12913"
+    ],
+    "style_ids": [
+        "TM-4303",
+        "TM-12913"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)",
+        "21st Century"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7361d158-3833-149c-734d-d38324721659",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2006.299"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "It's Spring Again"
+            ],
+            "weight": 244,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-04-07T16:06:33-05:00",
+    "timestamp": "2023-09-24T01:36:19-05:00"
+}

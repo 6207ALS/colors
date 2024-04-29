@@ -1,0 +1,172 @@
+{
+    "id": 9856,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/9856",
+    "is_boosted": false,
+    "title": "Omori, from the series \"Famous Places in the Eastern Capital (Toto meisho)\"",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHhjTUhecFBqe3drZ5GAZ5CBaomMdpqKcpSVfZSXfaiYfV55hnaIjI6TgIaUkIWYl4qjn5Cjl5all52jkJ6mlJ2mlpenm5OnnqGljqy1orS1obe3ocOzlcfHr8jDqdPGpsnNtsvNttPWvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMdCwHgEBhtNRwQKeQ4AguLDKUwSCEOG0qhYJBHIBRMEADs=",
+        "width": 3000,
+        "height": 2030,
+        "alt_text": "A work made of color woodblock print; oban."
+    },
+    "main_reference_number": "1959.118",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1827,
+    "date_end": 1838,
+    "date_display": "c. 1832/33",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Utagawa Kuniyoshi\nJapanese, 1797-1861",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "25.1 \u00d7 37.5 cm (9 7/8 \u00d7 14 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37.5,
+            "width_in": 14.75,
+            "height_cm": 25.1,
+            "height_in": 9.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; oban",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. James A. Michener",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.0383,
+    "color": {
+        "h": 9,
+        "l": 57,
+        "s": 56,
+        "percentage": 0.012486732846350752,
+        "population": 60
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 14488,
+    "artist_title": "Utagawa Kuniyoshi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        14488
+    ],
+    "artist_titles": [
+        "Utagawa Kuniyoshi"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "Japanese (culture or style)",
+        "print",
+        "asian art"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3c2ae034-a566-d016-9c50-a11885ccc309",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1959.118"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Omori, from the series \"Famous Places in the Eastern Capital (Toto meisho)\""
+            ],
+            "weight": 42,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:50:10-05:00",
+    "timestamp": "2023-09-24T00:24:22-05:00"
+}

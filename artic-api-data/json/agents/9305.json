@@ -1,0 +1,39 @@
+{
+    "id": 9305,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9305",
+    "title": "Jan Anton Garemyn",
+    "sort_title": "Garemyn, Jan Anton",
+    "alt_titles": [
+        "Jan Antoon Garemijn",
+        "Jean-Antoine Gaermyn",
+        "Jan Antoine Gaeremyn",
+        "Jan A. Garemyn",
+        "Jan Anton Gaeremyn"
+    ],
+    "is_artist": true,
+    "birth_date": 1712,
+    "death_date": 1799,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Anton Garemyn",
+            "Garemyn, Jan Anton",
+            "Jan Antoon Garemijn",
+            "Jean-Antoine Gaermyn",
+            "Jan Antoine Gaeremyn",
+            "Jan A. Garemyn",
+            "Jan Anton Gaeremyn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:52-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

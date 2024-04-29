@@ -1,0 +1,31 @@
+{
+    "id": 39638,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/39638",
+    "title": "Esther Sparks",
+    "sort_title": "Sparks, Esther",
+    "alt_titles": [
+        "Esther Sparks Sprague"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Esther Sparks",
+            "Sparks, Esther",
+            "Esther Sparks Sprague"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-22T10:59:27-05:00",
+    "updated_at": "2021-10-22T11:00:51-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

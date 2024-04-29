@@ -1,0 +1,33 @@
+{
+    "id": 57780,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57780",
+    "title": "Arkadii Samoilovich Shaikhet",
+    "sort_title": "Shaikhet, Arkadii Samoilovich",
+    "alt_titles": [
+        "Arkadii S. Shaikhet",
+        "Arkadii Chaikhet"
+    ],
+    "is_artist": true,
+    "birth_date": 1898,
+    "death_date": 1959,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arkadii Samoilovich Shaikhet",
+            "Shaikhet, Arkadii Samoilovich",
+            "Arkadii S. Shaikhet",
+            "Arkadii Chaikhet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T17:06:49-05:00",
+    "updated_at": "2022-03-15T16:58:50-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

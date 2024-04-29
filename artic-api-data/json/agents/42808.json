@@ -1,0 +1,28 @@
+{
+    "id": 42808,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42808",
+    "title": "Rosemarie Trockel",
+    "sort_title": "Trockel, Rosemarie",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1952,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rosemarie Trockel",
+            "Trockel, Rosemarie"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-10-19T14:59:43-05:00",
+    "updated_at": "2022-03-15T16:39:04-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

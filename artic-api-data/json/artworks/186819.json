@@ -1,0 +1,179 @@
+{
+    "id": 186819,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/186819",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGlgWHJpYHVrYXhuZId7b4d8cJaKfpeLfpuPg5yQhZ+ThqOWib2un72vn8Ozosi3p828q9HCstPEtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQw0lMQkBMAjjEIRrIkSAgAOw==",
+        "width": 8070,
+        "height": 9870,
+        "alt_text": "A work made of charcoal on gray wove paper."
+    },
+    "main_reference_number": "2022.1768",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1983,
+    "date_end": 1983,
+    "date_display": "1983",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William Beckman\nAmerican, born 1942",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "74.3 \u00d7 63.5 cm (29 5/16 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.5,
+            "width_in": 25,
+            "height_cm": 74.3,
+            "height_in": 29.252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Charcoal on gray wove paper",
+    "inscriptions": "Signed and dated lower left, in charcoal: \u201cWB 83\u201d",
+    "credit_line": "Jalane and Richard Davidson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, Contemporary American Realist Drawings: The Jalane and Richard Davidson Collection at the Art Institute of Chicago, Nov. 6, 1999\u2013Jan. 2, 2000, pp. 30 and 130, cat. 5, pl. 5.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 1938,
+    "artist_title": "William Beckman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1938
+    ],
+    "artist_titles": [
+        "William Beckman"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "prints and drawing",
+        "charcoal",
+        "drawing",
+        "paper",
+        "charcoal",
+        "wove paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-218",
+        "TM-14658",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-218",
+        "TM-14658",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "charcoal",
+        "drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2411",
+        "TM-3074"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2411",
+        "TM-3074"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "charcoal",
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6ea42faf-56f8-c35d-b483-440eefa4fdde",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.1768"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-14T10:16:45-05:00",
+    "updated_at": "2023-08-14T10:25:50-05:00",
+    "timestamp": "2023-09-24T01:35:37-05:00"
+}

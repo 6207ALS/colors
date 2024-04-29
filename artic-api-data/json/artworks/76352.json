@@ -1,0 +1,170 @@
+{
+    "id": 76352,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/76352",
+    "is_boosted": false,
+    "title": "Cover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIpuYoxwYo1zZotyaI90ao51a5B0aZB2aJB2a5R3a5R5a5Z7bJd9b5qCcp6EcwAAACH5BAAAAAAALAAAAAADAAUAAAQLcJhyGgNBLKdIQhEAOw==",
+        "width": 1395,
+        "height": 2250,
+        "alt_text": "A work made of silk; embroidered in ladder, buttonhole stitched interlaced on herringbone and inset with tiny mirrors."
+    },
+    "main_reference_number": "1919.659",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Eastern India",
+    "place_of_origin": "India",
+    "description": null,
+    "dimensions": "249.6 \u00d7 151.2 cm (98 1/4 \u00d7 59 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 151.2,
+            "width_in": 59.5,
+            "height_cm": 249.6,
+            "height_in": 98.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk; embroidered in ladder, buttonhole stitched interlaced on herringbone and inset with tiny mirrors",
+    "inscriptions": null,
+    "credit_line": "Gift of Emma B. Hodge",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.3348,
+    "color": {
+        "h": 349,
+        "l": 32,
+        "s": 77,
+        "percentage": 0.04108226920661503,
+        "population": 471
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "41a6aae4-0829-b0b3-4e08-1966cfbc2050",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1919.659"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cover"
+            ],
+            "weight": 6,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:35:13-05:00",
+    "timestamp": "2023-09-24T00:53:09-05:00"
+}

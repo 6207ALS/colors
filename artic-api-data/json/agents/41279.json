@@ -1,0 +1,37 @@
+{
+    "id": 41279,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41279",
+    "title": "Jan Asselijn",
+    "sort_title": "Asselijn, Jan",
+    "alt_titles": [
+        "Jan Asselyn",
+        "Jan Asselin",
+        "Jan Asselyn, (Crabbetje)",
+        "Crabbetje"
+    ],
+    "is_artist": true,
+    "birth_date": 1605,
+    "death_date": 1652,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Asselijn",
+            "Asselijn, Jan",
+            "Jan Asselyn",
+            "Jan Asselin",
+            "Jan Asselyn, (Crabbetje)",
+            "Crabbetje"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:18-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

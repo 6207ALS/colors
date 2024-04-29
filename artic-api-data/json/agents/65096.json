@@ -1,0 +1,41 @@
+{
+    "id": 65096,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65096",
+    "title": "Simone Peterzano",
+    "sort_title": "Peterzano, Simone",
+    "alt_titles": [
+        "Simone Peterzano, (Simone Veneziano)",
+        "Simone Petarzano, (Simone Veneziano)",
+        "Simone Petrazzano, (Simone Veneziano)",
+        "Simone Pretezzano, (Simone Veneziano)",
+        "Simone Veneziano",
+        "Simone Veneziano"
+    ],
+    "is_artist": true,
+    "birth_date": 1535,
+    "death_date": 1644,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Simone Peterzano",
+            "Peterzano, Simone",
+            "Simone Peterzano, (Simone Veneziano)",
+            "Simone Petarzano, (Simone Veneziano)",
+            "Simone Petrazzano, (Simone Veneziano)",
+            "Simone Pretezzano, (Simone Veneziano)",
+            "Simone Veneziano",
+            "Simone Veneziano"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:49-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

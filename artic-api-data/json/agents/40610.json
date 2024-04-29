@@ -1,0 +1,57 @@
+{
+    "id": 40610,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40610",
+    "title": "Vincent van Gogh",
+    "sort_title": "Gogh, Vincent van",
+    "alt_titles": [
+        "Vincent Van Gogh",
+        "Vincent-Willem van Gogh",
+        "Fan'gao",
+        "Fan-kao",
+        "Fan'gu",
+        "Fan-ku",
+        "\u6587\u68ee\u7279\u00b7\u68b5\u9ad8"
+    ],
+    "is_artist": true,
+    "birth_date": 1853,
+    "death_date": 1890,
+    "description": "<p>During Vincent van Gogh\u2019s tumultuous career as a painter, he created a revolutionary style characterized by exaggerated forms, a vivid color palette, and loose, spontaneous handling of paint. Although he only actively pursued his art for five years before his death in 1890, his impact has lived on through his works.</p><p>In 1886 Van Gogh left his native Holland and settled in Paris, where his beloved brother, Theo, was a paintings dealer. In the two years he spent in Paris, Van Gogh painted no fewer than two dozen self-portraits. The Art Institute\u2019s <a href=\"https://www.artic.edu/artworks/80607/self-portrait\" target=\"_blank\">early, modestly sized example</a> displays the bright palette he adopted with an overlay of small, even brushstrokes, a response to the Pointillist technique Georges Seurat used, most notably in<a href=\"https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884\" target=\"_blank\"> <em>A Sunday on La Grande Jatte\u20141884</em></a>. Works such as<a href=\"https://www.artic.edu/artworks/109314/fishing-in-spring-the-pont-de-clichy-asnieres\" target=\"_blank\"> <em>Fishing in Spring, the Pont de Clichy (Asni\u00e8res)</em></a>; <a href=\"https://www.artic.edu/artworks/64957/grapes-lemons-pears-and-apples\" target=\"_blank\"><em>Grapes, Lemons, Pears, and Apples</em></a><em>; </em>and<a href=\"https://www.artic.edu/artworks/87327/cypresses\" target=\"_blank\"> <em>Cypresses</em></a> show the influence of the Impressionists.</p><p>Exhausted with the Parisian city life, Van Gogh moved on to the town of Arles in 1888. It was here that he created compositions of such personal importance that he repeated them several times, such as<a href=\"https://www.artic.edu/artworks/28560/the-bedroom\" target=\"_blank\"> <em>The Bedroom</em></a> and<a href=\"https://www.artic.edu/artworks/27949/madame-roulin-rocking-the-cradle-la-berceuse\" target=\"_blank\"> <em>Madame Roulin Rocking the Cradle (La berceuse)</em></a>, with slight variations on each repetition.</p><p>After experiencing several bouts of mental illness, at the time diagnosed as epilepsy, Van Gogh was admitted to the Asylum of Saint Paul in Saint-R\u00e9my. There he sketched and painted the grounds of the asylum and the town around him. On days when he was unable to go out, he copied works by other artists, such as <a href=\"https://www.artic.edu/artworks/79349/the-drinkers\" target=\"_blank\"><em>The Drinkers</em></a>, after a wood engraving of the same title by Honor\u00e9 Daumier.&nbsp;</p><p>Van Gogh spent the last few months of his life in Auvers-sur-Oise, a small town to the north of Paris. Here, he continued<a href=\"https://www.artic.edu/artworks/87327/cypresses\" target=\"_blank\"> drawing</a> and painting the town and those around him, capturing people, landscapes, houses, and flowers in his work until his untimely death. The Art Institute of Chicago has celebrated van Gogh\u2019s path-breaking work in the exhibitions <a href=\"https://archive.artic.edu/vangogh/slide_intro.html\" target=\"_blank\"><em>Van Gogh and Gauguin: The Studio of the South</em></a><em> </em>(2001\u20132002)<em> </em>and <a href=\"https://www.artic.edu/exhibitions/1865/van-gogh-s-bedrooms\" target=\"_blank\"><em>Van Gogh\u2019s Bedrooms</em></a><em> </em>(2016).  </p>",
+    "ulan_id": 500115588,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Vincent van Gogh",
+            "Gogh, Vincent van",
+            "Vincent Van Gogh",
+            "Vincent-Willem van Gogh",
+            "Fan'gao",
+            "Fan-kao",
+            "Fan'gu",
+            "Fan-ku",
+            "\u6587\u68ee\u7279\u00b7\u68b5\u9ad8"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Vincent van Gogh",
+            "Gogh, Vincent van",
+            "Vincent Van Gogh",
+            "Vincent-Willem van Gogh",
+            "Fan'gao",
+            "Fan-kao",
+            "Fan'gu",
+            "Fan-ku",
+            "\u6587\u68ee\u7279\u00b7\u68b5\u9ad8"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-13T14:20:39-05:00",
+    "updated_at": "2023-09-23T23:19:17-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

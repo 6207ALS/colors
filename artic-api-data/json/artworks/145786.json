@@ -1,0 +1,188 @@
+{
+    "id": 145786,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/145786",
+    "is_boosted": false,
+    "title": "Sample (Dr #131)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACopJyspJy0rKS0sKjQyMTU0MjY1Mzc1Mz49PGtranJxcXZ1dXd2dnd3dnh3d318e4SEhYiIiIqJiY+OjpuZmJycnZ6fn6ioqba2twAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYKU0DgYBhEBFBlJMT3AMkrUwyRUCADs=",
+        "width": 2066,
+        "height": 2250,
+        "alt_text": "A work made of wool, cotton, rabbit hair, and rayon, broken twill weave."
+    },
+    "main_reference_number": "1987.257.113",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1941,
+    "date_end": 1944,
+    "date_display": "1941/44",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Robert D. Sailors (American, 1913\u20131995)\nUnited States, Michigan, Bloomfield Hills",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "16.7 \u00d7 14 cm (6 1/2 \u00d7 5 1/2 in.); Repeat: 7 \u00d7 5.3 cm (2 3/4 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14,
+            "width_in": 5.5,
+            "height_cm": 16.7,
+            "height_in": 6.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.3,
+            "width_in": 2,
+            "height_cm": 7,
+            "height_in": 2.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Wool, cotton, rabbit hair, and rayon, broken twill weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert D. Sailors",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.7268,
+    "color": {
+        "h": 46,
+        "l": 45,
+        "s": 0,
+        "percentage": 0.04005820068900105,
+        "population": 310
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 36516,
+    "artist_title": "Robert D. Sailors",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36516
+    ],
+    "artist_titles": [
+        "Robert D. Sailors"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Textiles",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "wool (textile)",
+        "Modernism",
+        "textile",
+        "weaving"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "40045b9f-3b6b-6028-1d95-88830bfa763e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.257.113"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Dr #131)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:15-05:00",
+    "updated_at": "2023-04-10T08:09:32-05:00",
+    "timestamp": "2023-09-24T01:25:14-05:00"
+}

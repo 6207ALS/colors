@@ -1,0 +1,40 @@
+{
+    "id": 4586,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4586",
+    "title": "Society of Western Artists 18th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1913-12-31T00:00:00-06:00",
+    "aic_end_at": "1914-01-25T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        83
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "79ae41cc-3257-3f5e-8d0e-c45a163a1498"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Society of Western Artists 18th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:44-06:00",
+    "timestamp": "2023-09-24T02:01:25-05:00"
+}

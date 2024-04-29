@@ -1,0 +1,35 @@
+{
+    "id": 57162,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57162",
+    "title": "Julian Martinez",
+    "sort_title": "Martinez, Julian",
+    "alt_titles": [
+        "Pho ka neh Pho ka neh",
+        "Po-ca-no Po-ca-no",
+        "Pocano"
+    ],
+    "is_artist": true,
+    "birth_date": 1885,
+    "death_date": 1943,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Julian Martinez",
+            "Martinez, Julian",
+            "Pho ka neh Pho ka neh",
+            "Po-ca-no Po-ca-no",
+            "Pocano"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-11-05T17:50:54-05:00",
+    "updated_at": "2021-11-05T17:50:58-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

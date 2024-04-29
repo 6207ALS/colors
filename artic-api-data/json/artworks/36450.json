@@ -1,0 +1,164 @@
+{
+    "id": 36450,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/36450",
+    "is_boosted": false,
+    "title": "Bottle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJJISrliSJR5frCtrL6+vr6/vsHAwMLBwNnPztrQ0ObIxuza1e3g3fn09Pr3+AAAACH5BAAAAAAALAAAAAADAAUAAAQLkIxyhEkAsbCcahEAOw==",
+        "width": 1216,
+        "height": 2250,
+        "alt_text": "A work made of ruby glass, cased in colorless glass; blown, tooled and, gilded."
+    },
+    "main_reference_number": "1927.1117",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1899,
+    "date_display": "Late 19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Bohemia, Czech Republic",
+    "place_of_origin": "Bohemia",
+    "description": null,
+    "dimensions": "20.3 \u00d7 7.6 \u00d7 7.6 cm (8 \u00d7 3 \u00d7 3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 7.6,
+            "depth_in": 3,
+            "width_cm": 7.6,
+            "width_in": 3,
+            "height_cm": 20.3,
+            "height_in": 8,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ruby glass, cased in colorless glass; blown, tooled and, gilded",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Julius Rosenwald",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.7005,
+    "color": {
+        "h": 358,
+        "l": 50,
+        "s": 74,
+        "percentage": 0.007299936125558901,
+        "population": 96
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "glass",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "glass",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "67f51eed-a1d0-d8b4-13ec-e7582079239d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.1117"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bottle"
+            ],
+            "weight": 6,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-09T09:46:40-05:00",
+    "updated_at": "2023-06-09T09:49:07-05:00",
+    "timestamp": "2023-09-24T00:36:41-05:00"
+}

@@ -1,0 +1,48 @@
+{
+    "id": 6637,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6637",
+    "title": "Polish Constructivism",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1976-11-27T00:00:00-06:00",
+    "aic_end_at": "1977-01-09T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "fe66c1e0-1d1b-e73e-1b88-baea492034ec",
+    "alt_image_ids": [
+        "8def0f05-61f2-5261-06bb-4140c8affbe9",
+        "f77f2a74-04dc-b10a-66ea-273ea5f15ed1",
+        "ccb7c60d-e106-9fc1-a106-95e8fdd75c49",
+        "24fed2fd-9114-e387-5bcc-89cc418e8f71",
+        "f6e885f1-b818-4fda-d4d9-93163f55b3a7",
+        "5d3f62b1-811c-d0f3-e132-760597a07344",
+        "de9f8b64-edcc-108c-b48e-288b50853bbf",
+        "df562555-a3a4-8801-b167-3250599c51b7",
+        "221c6b27-e76a-f58c-26b0-07ae1da6f339"
+    ],
+    "document_ids": [
+        "4380e748-fe00-da1c-92ab-1d7e2457bfb2"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Polish Constructivism"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:17:07-06:00",
+    "timestamp": "2023-09-24T02:01:51-05:00"
+}

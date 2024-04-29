@@ -1,0 +1,167 @@
+{
+    "id": 159069,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/159069",
+    "is_boosted": false,
+    "title": "Portrait of the Artist\u2019s Mother (Eve)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKl1WpN6Z8p/c8ODdcuHfW5wgn2GhVyRqEyLtGeevp2AhbCSlLm5qqy2tMuag8qRjcebkszIuJu6ysTLyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIDQQjwMEwlIYSnIwyNREUggAOw==",
+        "width": 1726,
+        "height": 2250,
+        "alt_text": "A work made of gouache, over a white ground, on gray millboard."
+    },
+    "main_reference_number": "2002.224",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1889,
+    "date_end": 1890,
+    "date_display": "1889/90",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Paul Gauguin\nFrench, 1848-1903",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "17 \u00d7 13 cm (6 3/4 \u00d7 5 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13,
+            "width_in": 5.1182,
+            "height_cm": 17,
+            "height_in": 6.693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gouache, over a white ground, on gray millboard",
+    "inscriptions": null,
+    "credit_line": "Gift of Edward McCormick Blair",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 68.9878,
+    "color": {
+        "h": 203,
+        "l": 38,
+        "s": 82,
+        "percentage": 0.1078301529374812,
+        "population": 999
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34611,
+    "artist_title": "Paul Gauguin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34611
+    ],
+    "artist_titles": [
+        "Paul Gauguin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "gouache",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-221",
+    "classification_title": "gouache",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-221",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "gouache",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6a1494fe-ed5e-c3a4-7758-a23779bb6fde",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2002.224"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of the Artist\u2019s Mother (Eve)"
+            ],
+            "weight": 879,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-09-23T23:27:53-05:00",
+    "timestamp": "2023-09-24T01:32:12-05:00"
+}

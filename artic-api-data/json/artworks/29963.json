@@ -1,0 +1,163 @@
+{
+    "id": 29963,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/29963",
+    "is_boosted": false,
+    "title": "Sample (Dress Trimming)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAALN9TLV/ULmFULuFULmGV7yIW72JW7yJXL+NXMCNW8GQZMOSZ8akh8ipjs6sj8yrkMysks2tk8uwmM2xm82ym8+ym8+znNS7q9a9qtXCttfGu9fJw9/PyAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4NZIFKVVApIMjkUoi4FNQHEEV8ZA0cOFADs=",
+        "width": 2509,
+        "height": 2250,
+        "alt_text": "A work made of cotton, twill weave; edged with cotton, plain weave; appliqu\u00e9d with cotton, twill weaves; edged with cotton, plain weaves."
+    },
+    "main_reference_number": "1926.885",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1815,
+    "date_end": 1835,
+    "date_display": "1815/1835",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England or France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "36.9 \u00d7 35.6 cm (14 1/2 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.6,
+            "width_in": 14,
+            "height_cm": 36.9,
+            "height_in": 14.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, twill weave; edged with cotton, plain weave; appliqu\u00e9d with cotton, twill weaves; edged with cotton, plain weaves",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1930,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 53.9644,
+    "color": {
+        "h": 247,
+        "l": 94,
+        "s": 24,
+        "percentage": 0.4482918777106203,
+        "population": 2857
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework - costume",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-2309",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-2309",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework - costume",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "50bb6ab7-798b-8dee-f773-7078d1f67d3c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.885"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Dress Trimming)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:04:22-05:00",
+    "timestamp": "2023-09-24T00:33:45-05:00"
+}

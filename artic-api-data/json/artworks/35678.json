@@ -1,0 +1,174 @@
+{
+    "id": 35678,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/35678",
+    "is_boosted": false,
+    "title": "Coat",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAAAAAQQFBgsMDx0eHkJBP0VEQkhHREtJRU9NSGxpYnVyaHd2cHp3cYB8cYJ+c4KAeomGfo2KgZCOh5WQhZuWiZ2ZjZ6aj5qXkKCdlKOflqmlmwAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYFBEEgIYU7ZZyQFh16MAjVY5wsBIC0WEADs=",
+        "width": 4500,
+        "height": 3822,
+        "alt_text": "A work made of linen, plain weave; embroidered in silk and metal threads."
+    },
+    "main_reference_number": "1927.870",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1901,
+    "date_end": 1925,
+    "date_display": "1901/25",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Made by E. Von Weisen (Austrian, active c. 1901\u20131925)\nAustria",
+    "place_of_origin": "Austria",
+    "description": null,
+    "dimensions": "H.: 54 cm (27 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 54,
+            "height_in": 27.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; embroidered in silk and metal threads",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.6229,
+    "color": {
+        "h": 43,
+        "l": 54,
+        "s": 8,
+        "percentage": 0.052850619959309994,
+        "population": 319
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 28224,
+    "artist_title": "Mrs. E. von Weisen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28224
+    ],
+    "artist_titles": [
+        "Mrs. E. von Weisen"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "8dbc8a06-9f72-1b97-6bcf-649424bde004",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.870"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Coat"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:52:44-05:00",
+    "timestamp": "2023-09-24T00:36:14-05:00"
+}

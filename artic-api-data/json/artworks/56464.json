@@ -1,0 +1,155 @@
+{
+    "id": 56464,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/56464",
+    "is_boosted": false,
+    "title": "Portrait of Henry Field",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABwZHCEdHiQfHikfGikjHzUpIjIoJDYtJz8zKEA2K0k/NEo/NVBEOFpNQG9iUwAAACH5BAAAAAAALAAAAAADAAUAAAQLcBQkTiJArdCcYREAOw==",
+        "width": 6524,
+        "height": 9614,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1898.6",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1896,
+    "date_end": 1896,
+    "date_display": "1896",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "L\u00e9on Joseph Florentin Bonnat\nFrench, 1833/34-1923",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "3/4 length; 51 1/2 \u00d7 35 1/4 in.",
+    "dimensions_detail": [],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Henry Field Memorial Collection\nMarshall Field Gift, 1897",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.9603,
+    "color": {
+        "h": 356,
+        "l": 8,
+        "s": 14,
+        "percentage": 0.20343722958607685,
+        "population": 2130
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 33693,
+    "artist_title": "L\u00e9on Joseph Florentin Bonnat",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33693
+    ],
+    "artist_titles": [
+        "L\u00e9on Joseph Florentin Bonnat"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "95ad6bb3-00e0-cb37-fae0-915f5ebacf84",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1898.6"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Henry Field"
+            ],
+            "weight": 311,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:03-05:00",
+    "updated_at": "2023-04-10T15:26:06-05:00",
+    "timestamp": "2023-09-24T00:45:06-05:00"
+}

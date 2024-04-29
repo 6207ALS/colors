@@ -1,0 +1,187 @@
+{
+    "id": 74134,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/74134",
+    "is_boosted": false,
+    "title": "Charles W. Hawthorne",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADoyLkVAPldPS19XU2BbWmRcWW9tcHJwc3J0eX+BhpeYmJaYmpmbn6yvs66wtLe2tby7vM/S1evs7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGIcSDMQjFMICxMASgQ9UggAOw==",
+        "width": 1597,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1918.30",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1917,
+    "date_end": 1917,
+    "date_display": "1917",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Albin Polasek\nAmerican, born Czech Republic, 1879\u20131965",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "55.9 \u00d7 30 \u00d7 21.6 cm (22 \u00d7 11 3/4 \u00d7 8 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 21.6,
+            "depth_in": 8.5,
+            "width_cm": 30,
+            "width_in": 11.75,
+            "height_cm": 55.9,
+            "height_in": 22,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.4485,
+    "color": {
+        "h": 229,
+        "l": 46,
+        "s": 2,
+        "percentage": 0.13030662496854667,
+        "population": 1305
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Ryerson Library Reading Room",
+    "gallery_id": 2147472240,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36224,
+    "artist_title": "Albin Polasek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36224
+    ],
+    "artist_titles": [
+        "Albin Polasek"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-3"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "bronze",
+        "modern and contemporary art",
+        "people",
+        "portraits",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155",
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_ids": [
+        "TM-8810",
+        "TM-8658"
+    ],
+    "subject_titles": [
+        "people",
+        "portraits"
+    ],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "a4cacb64-32ab-4600-4dda-5d7f223345ae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1918.30"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Charles W. Hawthorne"
+            ],
+            "weight": 167,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-01T18:19:48-06:00",
+    "updated_at": "2023-04-07T14:01:43-05:00",
+    "timestamp": "2023-09-24T00:52:26-05:00"
+}

@@ -1,0 +1,48 @@
+{
+    "id": 42269,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42269",
+    "title": "Jean-Demosthene Dugourc",
+    "sort_title": "Dugourc, Jean-Demosthene",
+    "alt_titles": [
+        "Jean-D. Dugourc",
+        "Jean D\u00e9mosth\u00e8ne Dugourc",
+        "Jean D\u00e9mosth\u00e8ne du Gour",
+        "Jean D\u00e9mosth\u00e9ne du Gour"
+    ],
+    "is_artist": true,
+    "birth_date": 1749,
+    "death_date": 1825,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Jean-Demosthene Dugourc",
+            "Dugourc, Jean-Demosthene",
+            "Jean-D. Dugourc",
+            "Jean D\u00e9mosth\u00e8ne Dugourc",
+            "Jean D\u00e9mosth\u00e8ne du Gour",
+            "Jean D\u00e9mosth\u00e9ne du Gour"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean-Demosthene Dugourc",
+            "Dugourc, Jean-Demosthene",
+            "Jean-D. Dugourc",
+            "Jean D\u00e9mosth\u00e8ne Dugourc",
+            "Jean D\u00e9mosth\u00e8ne du Gour",
+            "Jean D\u00e9mosth\u00e9ne du Gour"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:35:18-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

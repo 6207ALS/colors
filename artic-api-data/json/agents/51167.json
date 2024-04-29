@@ -1,0 +1,35 @@
+{
+    "id": 51167,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51167",
+    "title": "J\u00f6rg Breu, the elder",
+    "sort_title": "Breu, J\u00f6rg, the elder",
+    "alt_titles": [
+        "J\u00f6rg Breu, I",
+        "Jorg Preu, I",
+        "Jorg Prew, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1475,
+    "death_date": 1537,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "J\u00f6rg Breu, the elder",
+            "Breu, J\u00f6rg, the elder",
+            "J\u00f6rg Breu, I",
+            "Jorg Preu, I",
+            "Jorg Prew, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-07T11:41:16-06:00",
+    "updated_at": "2022-03-15T16:57:27-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

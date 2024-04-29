@@ -1,0 +1,167 @@
+{
+    "id": 80058,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80058",
+    "is_boosted": false,
+    "title": "Muro",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGJ3X25/eXuMcaesl6yylLC1n66xobS3orq6rrzAm8DAq8vHtcvIss3Jt9HNuAAAACH5BAAAAAAALAAAAAADAAUAAAQL0Ck2ACkinWAaWhEAOw==",
+        "width": 2090,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1953.618",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1953,
+    "date_end": 1953,
+    "date_display": "1953",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Yoshida Chizuko\nJapanese, 1924-2017",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "27.7 \u00d7 19.2 cm (10 7/8 \u00d7 7 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19.2,
+            "width_in": 7.5625,
+            "height_cm": 27.7,
+            "height_in": 10.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Yoshida Toshi",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1954,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.6036,
+    "color": {
+        "h": 80,
+        "l": 49,
+        "s": 25,
+        "percentage": 0.006764506926266874,
+        "population": 69
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 37392,
+    "artist_title": "Yoshida Chizuko",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37392
+    ],
+    "artist_titles": [
+        "Yoshida Chizuko"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "226d7e48-a8bd-c750-8e71-db1cb128c151",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1953.618"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Muro"
+            ],
+            "weight": 45,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:27:27-05:00",
+    "timestamp": "2023-09-24T00:54:36-05:00"
+}

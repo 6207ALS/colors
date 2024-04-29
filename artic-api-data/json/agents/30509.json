@@ -1,0 +1,31 @@
+{
+    "id": 30509,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30509",
+    "title": "Hans Bol",
+    "sort_title": "Bol, Hans",
+    "alt_titles": [
+        "Johannes Bol"
+    ],
+    "is_artist": true,
+    "birth_date": 1534,
+    "death_date": 1593,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hans Bol",
+            "Bol, Hans",
+            "Johannes Bol"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T15:16:13-05:00",
+    "updated_at": "2022-03-15T16:54:16-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

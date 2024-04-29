@@ -1,0 +1,28 @@
+{
+    "id": 34749,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34749",
+    "title": "Marcel Gromaire",
+    "sort_title": "Gromaire, Marcel",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1892,
+    "death_date": 1971,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Marcel Gromaire",
+            "Gromaire, Marcel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:53:03-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

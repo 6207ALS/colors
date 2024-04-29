@@ -1,0 +1,172 @@
+{
+    "id": 42899,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/42899",
+    "is_boosted": false,
+    "title": "Cupid Bringing and Honeycomb to Venus",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHBwWXd3X3x7Y4KAZ4OBaIWEaoeFa4uKcIyLcZ+cgKKghKmmiK2qi7OvjwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsCXBDlgqFBQMGREAOw==",
+        "width": 2044,
+        "height": 3426,
+        "alt_text": "A work made of engraving in black on cream laid paper."
+    },
+    "main_reference_number": "1927.2383",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1541,
+    "date_end": 1541,
+    "date_display": "1541",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hans Brosamer\nGerman, c. 1500-1554",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Sheet: 9.2 \u00d7 5.6 cm (3 5/8 \u00d7 2 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.6,
+            "width_in": 2.2048,
+            "height_cm": 9.2,
+            "height_in": 3.6221,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving in black on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": "<p>Bartsch 13</p><p>Hollstein 18</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.3686,
+    "color": {
+        "h": 55,
+        "l": 59,
+        "s": 16,
+        "percentage": 0.15262446071431268,
+        "population": 1818
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33768,
+    "artist_title": "Hans Brosamer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33768
+    ],
+    "artist_titles": [
+        "Hans Brosamer"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "23be3caf-7cb6-4cb2-ed26-298ed6fb4b87",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.2383"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cupid Bringing and Honeycomb to Venus"
+            ],
+            "weight": 48,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:53-05:00",
+    "updated_at": "2023-04-10T13:38:32-05:00",
+    "timestamp": "2023-09-24T00:38:54-05:00"
+}

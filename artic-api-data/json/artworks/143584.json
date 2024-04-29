@@ -1,0 +1,180 @@
+{
+    "id": 143584,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/143584",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACYmJy0tLTIyNTo6PD8/P1RVUlBUVm5wcHV3dXt7dpKTfoSFh4SDiJWTk6OghwAAACH5BAAAAAAALAAAAAADAAUAAAQLMBAwkCjKJHdYWxEAOw==",
+        "width": 1431,
+        "height": 2250,
+        "alt_text": "A work made of porcelain with polychrome enamels."
+    },
+    "main_reference_number": "1996.11",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1904,
+    "date_end": 1904,
+    "date_display": "1904",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "S\u00e8vres Porcelain Manufactory\nFrench, founded 1740",
+    "place_of_origin": "S\u00e8vres",
+    "description": null,
+    "dimensions": "22.2 \u00d7 10.5 cm (8 3/4 \u00d7 4 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.5,
+            "width_in": 4.125,
+            "height_cm": 22.2,
+            "height_in": 8.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Porcelain with polychrome enamels",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Quinn E. Delaney",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1996,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.6879,
+    "color": {
+        "h": 42,
+        "l": 53,
+        "s": 72,
+        "percentage": 0.0028648805926721724,
+        "population": 32
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 36507,
+    "artist_title": "Manufacture nationale de S\u00e8vres",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36507
+    ],
+    "artist_titles": [
+        "Manufacture nationale de S\u00e8vres"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "porcelain",
+        "vase",
+        "vessel",
+        "porcelain",
+        "ceramics",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-38",
+        "TM-46",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-27",
+        "TM-38",
+        "TM-46",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "vase",
+        "vessel",
+        "porcelain",
+        "ceramics",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2448",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2448"
+    ],
+    "material_titles": [
+        "porcelain"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "da59b256-db7b-7b18-e0e2-6b06dae5dedd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.11"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 51,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:32:22-05:00",
+    "timestamp": "2023-09-24T01:24:11-05:00"
+}

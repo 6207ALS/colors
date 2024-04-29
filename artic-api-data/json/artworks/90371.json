@@ -1,0 +1,182 @@
+{
+    "id": 90371,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/90371",
+    "is_boosted": false,
+    "title": "Eagle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAG9LLH5jRXpnT2ljWnVxaoJbOoFmVYZxY42AdZ+Qhq+WjbSakbKsor21q7i5uMW6ucTFxMjKy9POydbNzNHQzdLR0tTT0NfX1djY19ja2dra2dza2Nvc3OTi3t3f4ODh4uDi4uHl5Ojk4ujo6Ojp6Ozs6uzt7O/v8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQAqGo7l4IhALgSHZNAaO0gEQEBQMldNkkUAoHp+RiSTqhECZIAA7",
+        "width": 3000,
+        "height": 1970,
+        "alt_text": "A work made of white pine."
+    },
+    "main_reference_number": "1950.1981",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1890,
+    "date_end": 1890,
+    "date_display": "c. 1890",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "John Haley Bellamy\nAmerican, 1836\u20131914",
+    "place_of_origin": "Kittery Point",
+    "description": null,
+    "dimensions": "43.2 \u00d7 74.3 cm (17 \u00d7 29 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 74.3,
+            "width_in": 29.25,
+            "height_cm": 43.2,
+            "height_in": 17,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "White pine",
+    "inscriptions": null,
+    "credit_line": "Bequest of Elizabeth R. Vaughan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1950,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.8028,
+    "color": {
+        "h": 4,
+        "l": 36,
+        "s": 69,
+        "percentage": 0.014346219235924646,
+        "population": 67
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 2013,
+    "artist_title": "John Haley Bellamy",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2013
+    ],
+    "artist_titles": [
+        "John Haley Bellamy"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "wood (plant material)",
+        "Folk Art",
+        "plant material",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": "TM-12125",
+    "style_title": "Folk Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12125"
+    ],
+    "style_titles": [
+        "Folk Art"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2431",
+    "alt_material_ids": [
+        "TM-3478"
+    ],
+    "material_ids": [
+        "TM-2431",
+        "TM-3478"
+    ],
+    "material_titles": [
+        "wood (plant material)",
+        "plant material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "008fd711-9ea4-0f1d-b2c7-ae96d44a889d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.1981"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Eagle"
+            ],
+            "weight": 77,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-03T17:18:55-05:00",
+    "updated_at": "2023-04-07T11:35:53-05:00",
+    "timestamp": "2023-09-24T00:59:52-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 217422,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/217422",
+    "is_boosted": false,
+    "title": "New York City Dec 8 2011",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": null,
+        "width": 9210,
+        "height": 7758,
+        "alt_text": "A work made of collage of colored and hand-colored papers on white mat board (estimated)."
+    },
+    "main_reference_number": "2022.1775",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2011,
+    "date_end": 2011,
+    "date_display": "2011",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mark Strand \nAmerican, born Canada, 1934",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Sight: 14 \u00d7 17 cm (5 9/16 \u00d7 6 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17,
+            "width_in": 6.693,
+            "height_cm": 14,
+            "height_in": 5.5119,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sight"
+        }
+    ],
+    "medium_display": "Collage of colored and hand-colored papers on white mat board (estimated)",
+    "inscriptions": null,
+    "credit_line": "Gift of The Ruttenberg '52 Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 112542,
+    "artist_title": "Mark Strand",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112542
+    ],
+    "artist_titles": [
+        "Mark Strand"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "prints and drawing",
+        "paper (fiber product)",
+        "paper",
+        "collage",
+        "drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-391",
+        "TM-14658"
+    ],
+    "classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-391",
+        "TM-14658"
+    ],
+    "classification_titles": [
+        "prints and drawing",
+        "paper",
+        "collage",
+        "drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8d7ff451-911b-cf76-0941-602c84327aca",
+    "alt_image_ids": [
+        "211c589e-857d-9fec-698a-d794b0becf86"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.1775"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "New York City Dec 8 2011"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-06T17:10:14-05:00",
+    "updated_at": "2023-06-06T17:27:35-05:00",
+    "timestamp": "2023-09-24T01:45:08-05:00"
+}

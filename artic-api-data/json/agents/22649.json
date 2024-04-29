@@ -1,0 +1,43 @@
+{
+    "id": 22649,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22649",
+    "title": "Dr. Paul-Ferdinand Gachet",
+    "sort_title": "Gachet, Paul-Ferdinand, Dr.",
+    "alt_titles": [
+        "Dr. Ryssel Paul van Gachet",
+        "Paul Gachet",
+        "Paul van Ryssel",
+        "Paul Ferdinand Gachet",
+        "Paul Van Ryssel, (Docteur Gachet)",
+        "Doctor Gachet",
+        "docteur (Paul Ferdinand) Gachet"
+    ],
+    "is_artist": true,
+    "birth_date": 1828,
+    "death_date": 1909,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dr. Paul-Ferdinand Gachet",
+            "Gachet, Paul-Ferdinand, Dr.",
+            "Dr. Ryssel Paul van Gachet",
+            "Paul Gachet",
+            "Paul van Ryssel",
+            "Paul Ferdinand Gachet",
+            "Paul Van Ryssel, (Docteur Gachet)",
+            "Doctor Gachet",
+            "docteur (Paul Ferdinand) Gachet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:09-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

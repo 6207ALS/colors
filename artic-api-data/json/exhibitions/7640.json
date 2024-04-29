@@ -1,0 +1,40 @@
+{
+    "id": 7640,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7640",
+    "title": "Sean Scully",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1987-12-15T00:00:00-06:00",
+    "aic_end_at": "1988-02-07T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "a6f303fe-feca-5379-60f6-49827b04c174",
+    "alt_image_ids": [
+        "8519c5e0-2087-27c6-1494-6e5c9d1a056f"
+    ],
+    "document_ids": [
+        "790b1f17-2a07-9e1e-d08a-1994c5c7fa40"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sean Scully"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-12-31T11:52:21-06:00",
+    "updated_at": "2020-01-08T01:43:08-06:00",
+    "timestamp": "2023-09-24T02:02:05-05:00"
+}

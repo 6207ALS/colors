@@ -1,0 +1,168 @@
+{
+    "id": 236530,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/236530",
+    "is_boosted": false,
+    "title": "William Borden Residence, Chicago, Illinois, East Elevation",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAK+dZrinbrqobbemcr+rcL2scr+sdcCvdMGudcCuecS0gsCyhcKzhMS2hsm3gcm6hsW3jMq7ici4isu8iMm6j829jdO/h9fDjNDBkQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoOBcFnE80YQUjNQYwUJBCaBg1RACADs=",
+        "width": 2395,
+        "height": 2250,
+        "alt_text": "A work made of watercolor on hectographic print, mounted on linen."
+    },
+    "main_reference_number": "1982.611",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1886,
+    "date_end": 1886,
+    "date_display": "1886",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Morris Hunt\nAmerican, 1827-1895",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "64.5 \u00d7 67.5 cm (25 3/8 \u00d7 26 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 67.5,
+            "width_in": 26.5625,
+            "height_cm": 64.5,
+            "height_in": 25.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor on hectographic print, mounted on linen",
+    "inscriptions": null,
+    "credit_line": "Gift of Fugard, Orth & Associates",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.4303,
+    "color": {
+        "h": 46,
+        "l": 67,
+        "s": 43,
+        "percentage": 0.6290664653653978,
+        "population": 4200
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 62795,
+    "artist_title": "Richard Morris Hunt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        62795
+    ],
+    "artist_titles": [
+        "Richard Morris Hunt"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "working drawing",
+        "Chicago",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11705",
+    "classification_title": "working drawing",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-11705",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "working drawing",
+        "architectural drawing"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cd5744fe-e90a-7c65-0d32-29f1f705c934",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.611"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "William Borden Residence, Chicago, Illinois, East Elevation"
+            ],
+            "weight": 20,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:02:10-05:00",
+    "timestamp": "2023-09-24T01:52:07-05:00"
+}

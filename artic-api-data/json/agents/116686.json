@@ -1,0 +1,28 @@
+{
+    "id": 116686,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116686",
+    "title": "Sumner Fineberg",
+    "sort_title": "Fineberg, Sumner",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1922,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sumner Fineberg",
+            "Fineberg, Sumner"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-11-08T13:59:14-06:00",
+    "updated_at": "2022-11-08T14:00:59-06:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

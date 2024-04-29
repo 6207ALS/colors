@@ -1,0 +1,28 @@
+{
+    "id": 7449,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/7449",
+    "title": "Henry Edridge",
+    "sort_title": "Edridge, Henry",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1769,
+    "death_date": 1821,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henry Edridge",
+            "Edridge, Henry"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-05-28T10:29:55-05:00",
+    "updated_at": "2022-03-15T16:48:30-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 236917,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/236917",
+    "is_boosted": false,
+    "title": "David Lewinsohn House, Chicago, Illinois, First Floor Plan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAAKylm7OtpLWvpLezqby3rL+7r7i1srm2sr23sr+6sb+7sby5s7y5tL6+usK+ssC8t8C9uMO9ucC+ucG/ucG+u8TAtsTBtsHAu8PAu8LBu8PBu8bDuMfDuMDAvMDAvcPAvMLCvMLCvcTBvMXDvcfCvMTDvsTEv8bFwsjHwcjHwsjIwMnJwsvLxMjJxsrKxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuwEHJpGKtVqhRQNTqXC6hhuf0ILkkEIzmYKBEEilQZrJYMD4IQcWy4TgKCgIgCAA7",
+        "width": 3000,
+        "height": 1546,
+        "alt_text": "A work made of ink on linen."
+    },
+    "main_reference_number": "1988.153.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1898,
+    "date_end": 1898,
+    "date_display": "1898",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Fritz Frederick L. Foltz\nAmerican, born Germany, 1843\u20131915",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "46.5 \u00d7 91 cm (18 5/16 \u00d7 35 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 91,
+            "width_in": 35.8125,
+            "height_cm": 46.5,
+            "height_in": 18.3125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on linen",
+    "inscriptions": null,
+    "credit_line": "Gift of J. Arthur Scott",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.0814,
+    "color": {
+        "h": 347,
+        "l": 50,
+        "s": 35,
+        "percentage": 0.0002733271014754197,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 8507,
+    "artist_title": "Fritz Frederick L. Foltz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        8507
+    ],
+    "artist_titles": [
+        "Fritz Frederick L. Foltz"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "working drawing",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11705",
+    "classification_title": "working drawing",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-11705",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "working drawing",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e99265e2-7aa7-698f-e36f-1f759d5c4f5a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1988.153.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "David Lewinsohn House, Chicago, Illinois, First Floor Plan"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:01:27-05:00",
+    "timestamp": "2023-09-24T01:52:17-05:00"
+}

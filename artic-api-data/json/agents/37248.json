@@ -1,0 +1,33 @@
+{
+    "id": 37248,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/37248",
+    "title": "Max Weber",
+    "sort_title": "Weber, Max",
+    "alt_titles": [
+        "\u041c\u0430\u043a\u0441 \u0412\u0435\u0431\u0435\u0440",
+        "Maks Veber"
+    ],
+    "is_artist": true,
+    "birth_date": 1881,
+    "death_date": 1961,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Weber",
+            "Weber, Max",
+            "\u041c\u0430\u043a\u0441 \u0412\u0435\u0431\u0435\u0440",
+            "Maks Veber"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-18T15:36:02-05:00",
+    "updated_at": "2023-07-18T15:40:45-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

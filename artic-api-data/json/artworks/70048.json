@@ -1,0 +1,185 @@
+{
+    "id": 70048,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/70048",
+    "is_boosted": false,
+    "title": "Views of Mount Fuji",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIyKjZWTlqOhpamnq6qoqauprKyqrK+trbCurrWxr7Oxs7i1sr25tra0uL27ur68u8fGy8vKztLR1dPS1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBJNDyIMCwEEyVE0jAFJTggAOw==",
+        "width": 4130,
+        "height": 5682,
+        "alt_text": "A work made of silk, plain weave; screen printed."
+    },
+    "main_reference_number": "1987.253",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1975,
+    "date_end": 1995,
+    "date_display": "c. 1980s",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Toinette Christmas (English, born Netherlands, 1947)\nEngland, Sussex",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "29.7 \u00d7 20.6 cm (11 5/8 \u00d7 8 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.6,
+            "width_in": 8.125,
+            "height_cm": 29.7,
+            "height_in": 11.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, plain weave; screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Gordon Ewing in memory of Robert Nixon Glore, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.8879,
+    "color": {
+        "h": 279,
+        "l": 55,
+        "s": 1,
+        "percentage": 0.12128277498261546,
+        "population": 1186
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 4767,
+    "artist_title": "Toinette Christmas",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        4767
+    ],
+    "artist_titles": [
+        "Toinette Christmas"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "21st Century",
+        "textile",
+        "weaving - printed",
+        "fiber art",
+        "silk (fiber)"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-10653"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-10653"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "fiber art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "43f616ae-e141-b390-565c-dabf27f4cd48",
+    "alt_image_ids": [
+        "79aba844-3041-d7e6-ed7c-177404e36ade"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1987.253"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Views of Mount Fuji"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:59-05:00",
+    "updated_at": "2023-04-10T12:45:31-05:00",
+    "timestamp": "2023-09-24T00:50:51-05:00"
+}

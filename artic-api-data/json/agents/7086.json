@@ -1,0 +1,37 @@
+{
+    "id": 7086,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/7086",
+    "title": "Guy P\u00e8ne du Bois",
+    "sort_title": "P\u00e8ne du Bois, Guy",
+    "alt_titles": [
+        "Guy P\u00e8ne Du Bois",
+        "Guy P. Du Bois",
+        "Guy P\u00e8ne du Bois",
+        "Guylene Du Bois"
+    ],
+    "is_artist": true,
+    "birth_date": 1884,
+    "death_date": 1958,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Guy P\u00e8ne du Bois",
+            "P\u00e8ne du Bois, Guy",
+            "Guy P\u00e8ne Du Bois",
+            "Guy P. Du Bois",
+            "Guy P\u00e8ne du Bois",
+            "Guylene Du Bois"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:22-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

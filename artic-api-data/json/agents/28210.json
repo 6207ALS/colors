@@ -1,0 +1,33 @@
+{
+    "id": 28210,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/28210",
+    "title": "Johann Wilhelm Weinmann",
+    "sort_title": "Weinmann, Johann Wilhelm",
+    "alt_titles": [
+        "Joannes Guilielmus Weinmannus",
+        "Johannes Guilielm.  Weinmann, (Johannes Guilielmus)"
+    ],
+    "is_artist": true,
+    "birth_date": 1683,
+    "death_date": 1741,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Wilhelm Weinmann",
+            "Weinmann, Johann Wilhelm",
+            "Joannes Guilielmus Weinmannus",
+            "Johannes Guilielm.  Weinmann, (Johannes Guilielmus)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:25-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

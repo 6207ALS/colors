@@ -1,0 +1,181 @@
+{
+    "id": 80233,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80233",
+    "is_boosted": false,
+    "title": "The Fledgling",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMatgcivhM+0htG2h9K2h9O2h9W4ite6itm6itq7i9m8i9q8itu9jNy/jt6/kd7CkeTGlOTHl+XIlOfJlwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURINQciRQIywMMRaQQyMQYTggAOw==",
+        "width": 2536,
+        "height": 3000,
+        "alt_text": "A work made of graphite, with touches of brush and gray wash, on cream wove paper, prepared with yellow wash."
+    },
+    "main_reference_number": "1954.118",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1954,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Morris Graves\nAmerican, 1910-2001",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "77.7 \u00d7 65.6 cm (30 5/8 \u00d7 25 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 65.6,
+            "width_in": 25.8268,
+            "height_cm": 77.7,
+            "height_in": 30.5906,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite, with touches of brush and gray wash, on cream wove paper, prepared with yellow wash",
+    "inscriptions": null,
+    "credit_line": "Harriott A. Fox Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.1115,
+    "color": {
+        "h": 43,
+        "l": 85,
+        "s": 90,
+        "percentage": 0.008685606047085502,
+        "population": 73
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 10203,
+    "artist_title": "Morris Graves",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        10203
+    ],
+    "artist_titles": [
+        "Morris Graves"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "charcoal",
+        "paper (fiber product)",
+        "wash",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-218",
+    "classification_title": "charcoal",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-218",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "charcoal",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "wash",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f354b12b-fc3e-b47e-3ee5-5cc877907ad9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.118"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Fledgling"
+            ],
+            "weight": 124,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:26:57-05:00",
+    "timestamp": "2023-09-24T00:54:41-05:00"
+}

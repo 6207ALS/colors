@@ -1,0 +1,28 @@
+{
+    "id": 23081,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/23081",
+    "title": "Jean Frederic Schall",
+    "sort_title": "Schall, Jean Frederic",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1752,
+    "death_date": 1825,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Frederic Schall",
+            "Schall, Jean Frederic"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-29T13:35:14-05:00",
+    "updated_at": "2020-06-30T00:25:30-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

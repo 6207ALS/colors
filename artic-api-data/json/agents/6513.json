@@ -1,0 +1,33 @@
+{
+    "id": 6513,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6513",
+    "title": "DENA (Dinah Rubenstein)",
+    "sort_title": "DENA (Dinah Rubenstein)",
+    "alt_titles": [
+        "Dena",
+        "Dinah Rubinstein"
+    ],
+    "is_artist": true,
+    "birth_date": 1910,
+    "death_date": 1987,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "DENA (Dinah Rubenstein)",
+            "DENA (Dinah Rubenstein)",
+            "Dena",
+            "Dinah Rubinstein"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:17:47-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

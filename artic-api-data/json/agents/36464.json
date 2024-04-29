@@ -1,0 +1,31 @@
+{
+    "id": 36464,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36464",
+    "title": "Sanford H. Roth",
+    "sort_title": "Roth, Sanford H.",
+    "alt_titles": [
+        "Sanford Roth"
+    ],
+    "is_artist": true,
+    "birth_date": 1906,
+    "death_date": 1962,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sanford H. Roth",
+            "Roth, Sanford H.",
+            "Sanford Roth"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:49-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

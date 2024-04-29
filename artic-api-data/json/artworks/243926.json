@@ -1,0 +1,172 @@
+{
+    "id": 243926,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/243926",
+    "is_boosted": false,
+    "title": "Frost",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAI+ksZGmtZOos5aptpeptpeqtpiruJqruJ6vu5+wuqCwu6GxvaOyvaOzvqWzvqazv6W0v6a1wKi1wKi1wau2wau3wq66xa+7xbG8xgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoGAMBJBIzlMw1UQdEWZdCgI1SxACADs=",
+        "width": 5338,
+        "height": 5529,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2018.275",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1992,
+    "date_end": 1992,
+    "date_display": "1992",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Julia Fish\nAmerican, born 1950",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "71.1 \u00d7 68.6 cm (28 \u00d7 27 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68.6,
+            "width_in": 27,
+            "height_cm": 71.1,
+            "height_in": 28,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Eloise W. Martin Legacy Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.3179,
+    "color": {
+        "h": 200,
+        "l": 58,
+        "s": 26,
+        "percentage": 0.13194028309411512,
+        "population": 971
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 8364,
+    "artist_title": "Julia Fish",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        8364
+    ],
+    "artist_titles": [
+        "Julia Fish"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-825",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Women artists",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "canvas",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3124",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3124"
+    ],
+    "material_titles": [
+        "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists",
+        "Chicago Artists"
+    ],
+    "image_id": "a0e8b317-fb72-be0c-25bf-0790673e8b0a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.275"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Frost"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-08T10:18:26-05:00",
+    "updated_at": "2023-07-08T10:20:49-05:00",
+    "timestamp": "2023-09-24T01:54:19-05:00"
+}

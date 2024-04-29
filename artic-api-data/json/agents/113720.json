@@ -1,0 +1,31 @@
+{
+    "id": 113720,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/113720",
+    "title": "Katsukawa Shuntei",
+    "sort_title": "Katsukawa Shuntei",
+    "alt_titles": [
+        "Shokosai"
+    ],
+    "is_artist": true,
+    "birth_date": 1770,
+    "death_date": 1824,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Katsukawa Shuntei",
+            "Katsukawa Shuntei",
+            "Shokosai"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:45:39-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

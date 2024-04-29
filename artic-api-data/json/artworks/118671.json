@@ -1,0 +1,171 @@
+{
+    "id": 118671,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/118671",
+    "is_boosted": false,
+    "title": "The Lamps",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABURDS8qJjAqJjMtJTguJzUxKTs0LCoyPzs4MTE4P0E7M0A7Nko/Mk9CNUtCOlBHPC42RTA3RjM7RTM7R0xGQUVHTE9MT1BMREtQV2JWSXVlV3N0fXp/jJyhsQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AFFk5RYXLdVGGEUTAMIjoJoQ7BQV/aEADs=",
+        "width": 2881,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2018.286",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1937,
+    "date_end": 1937,
+    "date_display": "May 1937",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Paul Delvaux\nBelgian, 1897\u20131994",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "102.9 \u00d7 129.5 cm (40 1/2 \u00d7 51 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 129.5,
+            "width_in": 51,
+            "height_cm": 102.9,
+            "height_in": 40.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Lindy and Edwin Bergman Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / SABAM, Brussels",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.1913,
+    "color": {
+        "h": 216,
+        "l": 49,
+        "s": 14,
+        "percentage": 0.06732224856310201,
+        "population": 374
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 397",
+    "gallery_id": 23995,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 34230,
+    "artist_title": "Paul Delvaux",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34230
+    ],
+    "artist_titles": [
+        "Paul Delvaux"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "graphite",
+        "painting",
+        "landscapes",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "graphite",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-8657",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8657"
+    ],
+    "subject_titles": [
+        "landscapes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9984b376-0012-8ef1-9a2c-6928b7ee2ffc",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.286"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Lamps"
+            ],
+            "weight": 3896,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-06T11:17:27-06:00",
+    "updated_at": "2023-04-07T12:53:15-05:00",
+    "timestamp": "2023-09-24T01:12:37-05:00"
+}

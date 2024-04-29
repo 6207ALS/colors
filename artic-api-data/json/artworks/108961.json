@@ -1,0 +1,183 @@
+{
+    "id": 108961,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/108961",
+    "is_boosted": false,
+    "title": "Gerard van Schoonhoven",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGNjVG5tYHJxYXV1ZXx6a39+bYOBb4mHdZiVgpuYhJ2bh6Kfiq+tnMvJudXTwwAAACH5BAAAAAAALAAAAAADAAUAAAQLEJFVjhFgqJBYcxEAOw==",
+        "width": 2182,
+        "height": 3456,
+        "alt_text": "A work made of engraving in black on ivory paper."
+    },
+    "main_reference_number": "1920.2127",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1628,
+    "date_end": 1628,
+    "date_display": "1628",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "William Jacobszoon Delff\nDutch, 1580-1638",
+    "place_of_origin": "Netherlands",
+    "description": "<p>The son of a portrait painter, Willem Jacobsz Delff experimented with various media until his success with engraving led him to abandon painting.</p>\n",
+    "dimensions": "Image: 16.9 \u00d7 13.4 cm (6 11/16 \u00d7 5 5/16 in.); Sheet, trimmed within platemark: 20.2 \u00d7 13.8 cm (8 \u00d7 5 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.4,
+            "width_in": 5.2756,
+            "height_cm": 16.9,
+            "height_in": 6.6536,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.8,
+            "width_in": 5.4331,
+            "height_cm": 20.2,
+            "height_in": 7.9528,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, trimmed within platemark"
+        }
+    ],
+    "medium_display": "Engraving in black on ivory paper",
+    "inscriptions": null,
+    "credit_line": "The Wallace L. DeWolf and Joseph Brooks Fair Collections",
+    "catalogue_display": "<p>Hollstein 79 I/I</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.7445,
+    "color": {
+        "h": 43,
+        "l": 45,
+        "s": 19,
+        "percentage": 0.009329974542498034,
+        "population": 105
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 6464,
+    "artist_title": "Willem Jacobsz. Delff",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        6464
+    ],
+    "artist_titles": [
+        "Willem Jacobsz. Delff"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1b2f6c6a-d606-5bd5-d817-41cb4d0093cb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1920.2127"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Gerard van Schoonhoven"
+            ],
+            "weight": 85,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:18:39-05:00",
+    "timestamp": "2023-09-24T01:08:54-05:00"
+}

@@ -1,0 +1,181 @@
+{
+    "id": 11648,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11648",
+    "is_boosted": false,
+    "title": "View of the Pont Neuf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHRrTnZwVYqAYJyTb6KXcqOZd6Wcdqmgea+kfLKngrisiL6zib+zi8G0jsG2jsO3jsS3kcW3ksO4kczBmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDNJyXIYBDIEAPMUAqQ0UQgAOw==",
+        "width": 2316,
+        "height": 3000,
+        "alt_text": "A work made of graphite with brush and gray and brown wash, on cream wove paper, hinged onto blue wove card."
+    },
+    "main_reference_number": "1932.615",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1906,
+    "date_end": 1906,
+    "date_display": "1906",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Donald Shaw MacLaughlan\nAmerican, 1876-1938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "24.7 \u00d7 18.9 cm (9 3/4 \u00d7 7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.9,
+            "width_in": 7.441,
+            "height_cm": 24.7,
+            "height_in": 9.7245,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite with brush and gray and brown wash, on cream wove paper, hinged onto blue wove card",
+    "inscriptions": null,
+    "credit_line": "Gift of Walter S. Brewster",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1932,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.0704,
+    "color": {
+        "h": 44,
+        "l": 61,
+        "s": 31,
+        "percentage": 0.24745914425629728,
+        "population": 2278
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 41757,
+    "artist_title": "Donald Shaw MacLaughlan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41757
+    ],
+    "artist_titles": [
+        "Donald Shaw MacLaughlan"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "wash",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "wash",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "92bdee00-5b24-1b33-6390-0afe3614fc46",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1932.615"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "View of the Pont Neuf"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:46:49-05:00",
+    "timestamp": "2023-09-24T00:25:04-05:00"
+}

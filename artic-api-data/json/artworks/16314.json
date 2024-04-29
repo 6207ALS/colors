@@ -1,0 +1,167 @@
+{
+    "id": 16314,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16314",
+    "is_boosted": false,
+    "title": "Magic",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABMTFSAjIyQkIysrKS4wLjMyMDg4NTs6OD09O0FBPkREQExGQ0tKRklJSFBPS1FQTF9eXF9fXGhdW4J/fgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BMlzhBMzbFASCEBgkIYTAgAOw==",
+        "width": 2151,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print; edition 6/50."
+    },
+    "main_reference_number": "1962.1174",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Nakao Yoshitaka\nJapanese, 1911-1994",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "49.9 \u00d7 36.1 cm (19 5/8 \u00d7 14 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36.1,
+            "width_in": 14.1875,
+            "height_cm": 49.9,
+            "height_in": 19.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; edition 6/50",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Albert L. Arenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.303,
+    "color": {
+        "h": 208,
+        "l": 45,
+        "s": 5,
+        "percentage": 0.002221044395648772,
+        "population": 22
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 18963,
+    "artist_title": "Nakao Yoshitaka",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        18963
+    ],
+    "artist_titles": [
+        "Nakao Yoshitaka"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6398b08f-f708-0a45-e421-109e012e8756",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.1174"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Magic"
+            ],
+            "weight": 16,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:37:10-05:00",
+    "timestamp": "2023-09-24T00:27:02-05:00"
+}

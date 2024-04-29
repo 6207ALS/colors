@@ -1,0 +1,31 @@
+{
+    "id": 47197,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47197",
+    "title": "School of Thomas Monro",
+    "sort_title": "Monro, Thomas, School of",
+    "alt_titles": [
+        "School of Thomas Munro"
+    ],
+    "is_artist": true,
+    "birth_date": 1759,
+    "death_date": 1833,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "School of Thomas Monro",
+            "Monro, Thomas, School of",
+            "School of Thomas Munro"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:37-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

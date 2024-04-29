@@ -1,0 +1,163 @@
+{
+    "id": 52697,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/52697",
+    "is_boosted": false,
+    "title": "Nude",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABkNAR4RCxgWDBsaEyATCiEaDCobDiocDCcfFDImF1RLOm5aQo1vUY2AYKeJaLmZer6xhcesise8k9jEmdbIntfLn9HNotXPodzQoeDSouLRpPLSo/Hkr/TnrwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4CAUh4EoSwIQwfQ4DNRYUrR13KVRWFaFADs=",
+        "width": 2941,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1945.18",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1911,
+    "date_end": 1911,
+    "date_display": "1911",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "F\u00e9lix Edouard Vallotton\nFrench, born Switzerland, 1865-1925",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "88.9 \u00d7 116.9 cm (35 \u00d7 46 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 116.9,
+            "width_in": 46,
+            "height_cm": 88.9,
+            "height_in": 35,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Chester Dale",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1945,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.7802,
+    "color": {
+        "h": 7,
+        "l": 58,
+        "s": 42,
+        "percentage": 0.0009195655972118772,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 26998,
+    "artist_title": "F\u00e9lix Edouard Vallotton",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        26998
+    ],
+    "artist_titles": [
+        "F\u00e9lix Edouard Vallotton"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ff5ad798-0635-329c-4969-856886f97f31",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1945.18"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Nude"
+            ],
+            "weight": 1231,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:24:05-05:00",
+    "timestamp": "2023-09-24T00:43:47-05:00"
+}

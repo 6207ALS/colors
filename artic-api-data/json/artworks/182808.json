@@ -1,0 +1,187 @@
+{
+    "id": 182808,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182808",
+    "is_boosted": false,
+    "title": "Composition II",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEE0MEpQPHp5dYqLgpKMh6GfkaWjmrKvpLi2rLm2rMC+ssPAs9HOwtHOw9zZzQAAACH5BAAAAAAALAAAAAADAAUAAAQLcJ1UghiAKIOaYxEAOw==",
+        "width": 1964,
+        "height": 3000,
+        "alt_text": "A work made of color aquatint and etching on ivory wove paper."
+    },
+    "main_reference_number": "2004.682",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1958,
+    "date_end": 1958,
+    "date_display": "1958",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hans Arp\nFrench, born Germany, 1886\u20131966",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image, sight: 25 \u00d7 19.3 cm (9 7/8 \u00d7 7 5/8 in.); Sheet, sight: 28 \u00d7 22 cm (11 1/16 \u00d7 8 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19.3,
+            "width_in": 7.5985,
+            "height_cm": 25,
+            "height_in": 9.8426,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image, sight"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 22,
+            "width_in": 8.6615,
+            "height_cm": 28,
+            "height_in": 11.0237,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, sight"
+        }
+    ],
+    "medium_display": "Color aquatint and etching on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Paul Gerstley",
+    "catalogue_display": "<p>Arntz 425 I/I</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.2003,
+    "color": {
+        "h": 8,
+        "l": 46,
+        "s": 64,
+        "percentage": 0.009670431688070556,
+        "population": 105
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40418,
+    "artist_title": "Jean (Hans) Arp",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40418
+    ],
+    "artist_titles": [
+        "Jean (Hans) Arp"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "aquatint",
+        "paper (fiber product)",
+        "prints and drawing",
+        "print",
+        "etching"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-147",
+    "classification_title": "aquatint",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-17",
+        "TM-18"
+    ],
+    "classification_ids": [
+        "TM-147",
+        "TM-4",
+        "TM-17",
+        "TM-18"
+    ],
+    "classification_titles": [
+        "aquatint",
+        "prints and drawing",
+        "print",
+        "etching"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3e985dc7-8d29-0399-3cdf-358bea0fc98c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.682"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Composition II"
+            ],
+            "weight": 484,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:15:46-05:00",
+    "timestamp": "2023-09-24T01:34:01-05:00"
+}

@@ -1,0 +1,191 @@
+{
+    "id": 182680,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182680",
+    "is_boosted": false,
+    "title": "Bedcover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPIAAOO8jOO9jOS+juW+kAAAAAAAAAAAAAAAACH5BAEAAAQALAAAAAAEAAUAAAMISKoTKmBJlQAAOw==",
+        "width": 4590,
+        "height": 5271,
+        "alt_text": "A work made of cotton, satin weaves; embroidered with cotton in bullion, fly, satin, padded satin, single satin, and stem stitches; french knots; pieced; backed with cotton, satin weave; quilted with cotton thread; edges bound with cotton, satin weave; machine stitches with cotton thread."
+    },
+    "main_reference_number": "2004.83",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1923,
+    "date_end": 1923,
+    "date_display": "1923",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States, probably Illinois",
+    "place_of_origin": "Illinois",
+    "description": null,
+    "dimensions": "217 \u00d7 183.2 cm (85 1/2 \u00d7 72 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 183.2,
+            "width_in": 72.125,
+            "height_cm": 217,
+            "height_in": 85.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, satin weaves; embroidered with cotton in bullion, fly, satin, padded satin, single satin, and stem stitches; French knots; pieced; backed with cotton, satin weave; quilted with cotton thread; edges bound with cotton, satin weave; machine stitches with cotton thread",
+    "inscriptions": null,
+    "credit_line": "Gift of Margaret I. McCurry",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 59.6459,
+    "color": {
+        "h": 355,
+        "l": 65,
+        "s": 50,
+        "percentage": 0.3199660794290364,
+        "population": 2611
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "needlework - quilt",
+        "cotton (textile)",
+        "quilting",
+        "amish",
+        "textile",
+        "embroidering",
+        "satin weaving",
+        "knotting",
+        "piecing (needleworking)"
+    ],
+    "style_id": "TM-10663",
+    "style_title": "amish",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-10663"
+    ],
+    "style_titles": [
+        "amish"
+    ],
+    "classification_id": "TM-1016",
+    "classification_title": "needlework - quilt",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-1016",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "needlework - quilt",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2578",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2578"
+    ],
+    "material_titles": [
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-4239",
+    "alt_technique_ids": [
+        "TM-3914",
+        "TM-10501",
+        "TM-4210",
+        "TM-4238"
+    ],
+    "technique_ids": [
+        "TM-4239",
+        "TM-3914",
+        "TM-10501",
+        "TM-4210",
+        "TM-4238"
+    ],
+    "technique_titles": [
+        "quilting",
+        "embroidering",
+        "satin weaving",
+        "knotting",
+        "piecing (needleworking)"
+    ],
+    "theme_titles": [],
+    "image_id": "49975ab3-be64-9fdb-bed8-3bac9b469e71",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.83"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bedcover"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:16:03-05:00",
+    "timestamp": "2023-09-24T01:33:56-05:00"
+}

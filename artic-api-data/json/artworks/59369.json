@@ -1,0 +1,167 @@
+{
+    "id": 59369,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59369",
+    "is_boosted": false,
+    "title": "12 War Drawing Facisimiles",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFZRPX5yT3VuVX5zUI6DXoyBYY6DYJCGY5+Xdaabe6uhe6yifq6kgrGnhbKnhrKphLSpiLWqibaqirWsibatibSsjLmvjLiujbiujrqvj7mxkbuwkLuxkbqwkruzkruylL21mcG5nMK6nQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAymwYBEJAkEQGC5bDgLw2EQcIgqDwWh0Al5KBPNBxQEADs=",
+        "width": 3000,
+        "height": 2136,
+        "alt_text": "A work made of reproductions of drawings."
+    },
+    "main_reference_number": "1946.894.1-12",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1871,
+    "date_end": 1931,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean Louis Forain\nFrench, 1852-1931",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "31.1 \u00d7 44.1 cm (12 1/4 \u00d7 17 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 44.1,
+            "width_in": 17.3623,
+            "height_cm": 31.1,
+            "height_in": 12.2441,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Reproductions of drawings",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. Frank B. Hubachek",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.6564,
+    "color": {
+        "h": 46,
+        "l": 42,
+        "s": 41,
+        "percentage": 0.004151838671411626,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34505,
+    "artist_title": "Jean Louis Forain",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34505
+    ],
+    "artist_titles": [
+        "Jean Louis Forain"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "reproduction",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-270",
+    "classification_title": "reproduction",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-270",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "reproduction",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7683291c-df10-950a-54d0-630aebbe43d9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1946.894.1-12"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "12 War Drawing Facisimiles"
+            ],
+            "weight": 375,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:04:54-05:00",
+    "timestamp": "2023-09-24T00:45:57-05:00"
+}

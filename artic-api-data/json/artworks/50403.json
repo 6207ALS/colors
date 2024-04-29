@@ -1,0 +1,175 @@
+{
+    "id": 50403,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50403",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHhfQnhgQ3xiRHxkR4BnS4FoSoFqTIJqTIRsTYRsTodwU411WI93Wo95Wo95XJJ6WpJ6W5B5XJB7XgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NM4jDEIhREgyQEQCrRIUQgAOw==",
+        "width": 1609,
+        "height": 2250,
+        "alt_text": "A work made of silk, tapestry weave."
+    },
+    "main_reference_number": "1976.60",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1001,
+    "date_end": 1200,
+    "date_display": "Fatimid period (969\u20131171), late 11th/early 12th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Egypt",
+    "place_of_origin": "Egypt",
+    "description": "<p>In early and medieval times (from the late 7th century to about 1200), throughout the Islamic world, state-owned factories produced textiles both for use at court and for commercial sale. Known as tiraz (after the word for embroidery, suggesting the original technique), these textiles were intended as furnishing fabrics or robes, to be conferred as royal gifts. early examples were decorated with narrow bands of ornament and inscriptions that often included the name of the patron and the location of the factory. Later examples tend to be more decorative.</p>\n",
+    "dimensions": "50.8 \u00d7 35.6 cm (20 \u00d7 14 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.6,
+            "width_in": 14,
+            "height_cm": 50.8,
+            "height_in": 20,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Grace R. Smith Textile Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1977,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.091,
+    "color": {
+        "h": 134,
+        "l": 32,
+        "s": 8,
+        "percentage": 0.001509210712981325,
+        "population": 15
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 29882,
+    "artist_title": "Islamic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29882
+    ],
+    "artist_titles": [
+        "Islamic"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "fatimid",
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": "TM-4698",
+    "style_title": "fatimid",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4698"
+    ],
+    "style_titles": [
+        "fatimid"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a6573fbc-caf4-ade7-d9bc-985a62df33be",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.60"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 218,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-14T15:48:00-05:00",
+    "updated_at": "2023-07-14T15:50:51-05:00",
+    "timestamp": "2023-09-24T00:42:42-05:00"
+}

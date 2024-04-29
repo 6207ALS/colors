@@ -1,0 +1,45 @@
+{
+    "id": 34611,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34611",
+    "title": "Paul Gauguin",
+    "sort_title": "Gauguin, Paul",
+    "alt_titles": [
+        "Eugene-Henri-Paul Gauguin",
+        "Paul Gaugin",
+        "\u4fdd\u7f57\u00b7\u9ad8\u66f4"
+    ],
+    "is_artist": true,
+    "birth_date": 1848,
+    "death_date": 1903,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Paul Gauguin",
+            "Gauguin, Paul",
+            "Eugene-Henri-Paul Gauguin",
+            "Paul Gaugin",
+            "\u4fdd\u7f57\u00b7\u9ad8\u66f4"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul Gauguin",
+            "Gauguin, Paul",
+            "Eugene-Henri-Paul Gauguin",
+            "Paul Gaugin",
+            "\u4fdd\u7f57\u00b7\u9ad8\u66f4"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-14T14:49:02-05:00",
+    "updated_at": "2023-09-23T23:23:38-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

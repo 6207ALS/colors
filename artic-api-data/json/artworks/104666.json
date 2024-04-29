@@ -1,0 +1,176 @@
+{
+    "id": 104666,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104666",
+    "is_boosted": false,
+    "title": "Apple Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAICDhoiJi4qOkYyRlJCSlJKWmJOYm5abn5qeoJyhpJ2ipZ6jp6Choqapq66vsLGys7/AwcHDw9PT1d3d3dzd3uDg4OHi4uLj4+Tm5+3u7u7v7/Dx8fPz9PT09AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4HAki2IABRQhQsA4T0NIU2VdFKZtXJeFADs=",
+        "width": 2496,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "1985.770",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Designed by Ingeborg Lundin\nSwedish, 1921-1992\nMade by Orrefors Glassworks (Glasbruk)\nSm\u00e5land, Sweden, founded 1898",
+    "place_of_origin": "Orrefors",
+    "description": null,
+    "dimensions": "34 \u00d7 35.9 cm (13 3/8 \u00d7 14 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.9,
+            "width_in": 14.125,
+            "height_cm": 34,
+            "height_in": 13.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Harry Niemiec gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1986,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.8634,
+    "color": {
+        "h": 205,
+        "l": 56,
+        "s": 3,
+        "percentage": 0.1676343884622589,
+        "population": 1074
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 66675,
+    "artist_title": "Ingeborg Lundin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        66675
+    ],
+    "artist_titles": [
+        "Ingeborg Lundin"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-5"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "glass",
+        "vase",
+        "vessel",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-27",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "vase",
+        "vessel",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "99b2139d-c4f8-f77f-f816-42b89d1f152d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.770"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Apple Vase"
+            ],
+            "weight": 16,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:25:18-05:00",
+    "timestamp": "2023-09-24T01:07:28-05:00"
+}

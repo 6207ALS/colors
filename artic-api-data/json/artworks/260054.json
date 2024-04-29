@@ -1,0 +1,183 @@
+{
+    "id": 260054,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/260054",
+    "is_boosted": false,
+    "title": "Calligraphy",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAH5tVoNwWYFwW4FzXYZ4ZYp8Z5OEdJ6NeamRd6WSeaqSfaiThKyagcWumNW3oQAAACH5BAAAAAAALAAAAAADAAUAAAQLcDll2iGsiDQCAhEAOw==",
+        "width": 2302,
+        "height": 3743,
+        "alt_text": "A work made of hanging scroll, ink on paper."
+    },
+    "main_reference_number": "2020.560",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1850,
+    "date_display": "Early\u2013mid-19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Nukina Suo (Japanese, 1778\u20131863)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "Painting: 109.9 \u00d7 52.1 cm (43 1/4 \u00d7 20 1/2 in.); W mount: 198.2 \u00d7 68 cm (78 \u00d7 26 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52.1,
+            "width_in": 20.5,
+            "height_cm": 109.9,
+            "height_in": 43.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Painting"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 68,
+            "width_in": 26.75,
+            "height_cm": 198.2,
+            "height_in": 78,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "W mount"
+        }
+    ],
+    "medium_display": "Hanging scroll, ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Richard and Sylvia Kaufman",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 16,
+        "s": 13,
+        "percentage": 0.016758766378386483,
+        "population": 1444
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 117442,
+    "artist_title": "Nukina Suo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117442
+    ],
+    "artist_titles": [
+        "Nukina Suo"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "calligraphy",
+        "hanging scroll",
+        "ink on paper",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-335",
+    "classification_title": "hanging scroll",
+    "alt_classification_ids": [
+        "TM-731",
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-335",
+        "TM-731",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "hanging scroll",
+        "ink on paper",
+        "painting"
+    ],
+    "subject_id": "TM-12444",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12444"
+    ],
+    "subject_titles": [
+        "calligraphy"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "49dcd33c-4523-1bf5-60d1-f90fc36ea6b4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.560"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Calligraphy"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-15T11:13:13-05:00",
+    "updated_at": "2023-09-15T11:16:06-05:00",
+    "timestamp": "2023-09-24T01:57:36-05:00"
+}

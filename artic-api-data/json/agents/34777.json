@@ -1,0 +1,31 @@
+{
+    "id": 34777,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34777",
+    "title": "Seymour Joseph Guy",
+    "sort_title": "Guy, Seymour Joseph",
+    "alt_titles": [
+        "Seymour J. Guy"
+    ],
+    "is_artist": true,
+    "birth_date": 1824,
+    "death_date": 1910,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Seymour Joseph Guy",
+            "Guy, Seymour Joseph",
+            "Seymour J. Guy"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T11:00:32-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

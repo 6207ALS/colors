@@ -1,0 +1,28 @@
+{
+    "id": 57597,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57597",
+    "title": "Jules Michelin",
+    "sort_title": "Michelin, Jules",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1815,
+    "death_date": 1870,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jules Michelin",
+            "Michelin, Jules"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-16T15:37:07-06:00",
+    "updated_at": "2021-02-16T15:40:47-06:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

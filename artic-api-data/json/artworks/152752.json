@@ -1,0 +1,163 @@
+{
+    "id": 152752,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/152752",
+    "is_boosted": false,
+    "title": "The Chicago Panels",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAAAAAAQEBA0MDTg4OEZFRmFgYXJxcn9/f4iIiJubm6enp8bGxtHQ0dPT097e3uLi4uTk5Ovr6+3t7fHx8fT09Pb29gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYCQdTfUUwLAYgAAgDhEk1MQoFRQCADs=",
+        "width": 5095,
+        "height": 5352,
+        "alt_text": "A work made of acrylic on fiberglass and plywood."
+    },
+    "main_reference_number": "1999.237.1",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1989,
+    "date_end": 1999,
+    "date_display": "1989/99",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ellsworth Kelly\nAmerican, 1923-2015",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "230.6 \u00d7 232.6 cm (90 7/8 \u00d7 91 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 232.6,
+            "width_in": 91.55,
+            "height_cm": 230.6,
+            "height_in": 90.83,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on fiberglass and plywood",
+    "inscriptions": null,
+    "credit_line": "Harold L. Stuart Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Ellsworth Kelly Foundation",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0.8257,
+    "color": {
+        "h": 0,
+        "l": 45,
+        "s": 0,
+        "percentage": 0.0005361535007472639,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 261",
+    "gallery_id": 2147478061,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 35235,
+    "artist_title": "Ellsworth Kelly",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35235
+    ],
+    "artist_titles": [
+        "Ellsworth Kelly"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e763fafc-fc52-6f6b-a12e-5772dda7d12a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.237.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Chicago Panels"
+            ],
+            "weight": 1359,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-12-01T09:59:49-06:00",
+    "updated_at": "2023-09-23T23:28:45-05:00",
+    "timestamp": "2023-09-24T01:28:40-05:00"
+}

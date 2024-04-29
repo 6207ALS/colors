@@ -1,0 +1,35 @@
+{
+    "id": 41517,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41517",
+    "title": "Johann Martin von Rohden",
+    "sort_title": "Rohden, Johann Martin von",
+    "alt_titles": [
+        "Johann M. von Rohden",
+        "Johann Martin von Roden",
+        "Johann Martin von Rhoden"
+    ],
+    "is_artist": true,
+    "birth_date": 1778,
+    "death_date": 1868,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Martin von Rohden",
+            "Rohden, Johann Martin von",
+            "Johann M. von Rohden",
+            "Johann Martin von Roden",
+            "Johann Martin von Rhoden"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:14-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

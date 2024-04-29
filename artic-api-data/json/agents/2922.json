@@ -1,0 +1,33 @@
+{
+    "id": 2922,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2922",
+    "title": "Mrs. Chauncey B. Borland",
+    "sort_title": "Borland, Chauncey B., Mrs.",
+    "alt_titles": [
+        "Miss Belle McCullough",
+        "Mrs. Chauncy [Belle Borland, born McCullough] Borland"
+    ],
+    "is_artist": true,
+    "birth_date": 1881,
+    "death_date": 1978,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mrs. Chauncey B. Borland",
+            "Borland, Chauncey B., Mrs.",
+            "Miss Belle McCullough",
+            "Mrs. Chauncy [Belle Borland, born McCullough] Borland"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-03-27T10:14:50-05:00",
+    "updated_at": "2023-03-27T10:17:21-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

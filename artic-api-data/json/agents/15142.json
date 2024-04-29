@@ -1,0 +1,35 @@
+{
+    "id": 15142,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15142",
+    "title": "Ottavio Mario Leoni",
+    "sort_title": "Leoni, Ottavio Mario",
+    "alt_titles": [
+        "Ottavio Mario Leoni de'Narsari",
+        "Ottavio Leoni",
+        "Ottavio Maria Leoni"
+    ],
+    "is_artist": true,
+    "birth_date": 1578,
+    "death_date": 1630,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ottavio Mario Leoni",
+            "Leoni, Ottavio Mario",
+            "Ottavio Mario Leoni de'Narsari",
+            "Ottavio Leoni",
+            "Ottavio Maria Leoni"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:06-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

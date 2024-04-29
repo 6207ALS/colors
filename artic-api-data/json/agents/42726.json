@@ -1,0 +1,33 @@
+{
+    "id": 42726,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42726",
+    "title": "Camille Roqueplan",
+    "sort_title": "Roqueplan, Camille",
+    "alt_titles": [
+        "Camille Joseph Etienne Roqueplan",
+        "Camille Joseph Etienne Rocoplan"
+    ],
+    "is_artist": true,
+    "birth_date": 1803,
+    "death_date": 1855,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Camille Roqueplan",
+            "Roqueplan, Camille",
+            "Camille Joseph Etienne Roqueplan",
+            "Camille Joseph Etienne Rocoplan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:52-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

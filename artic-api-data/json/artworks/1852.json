@@ -1,0 +1,183 @@
+{
+    "id": 1852,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/1852",
+    "is_boosted": false,
+    "title": "Border (from a Tunic)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAKiVe6yaf62af6+cgbWhgbahgrmojb+rjcGtj8GvlAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI0CQgwiDloAgAOw==",
+        "width": 958,
+        "height": 2250,
+        "alt_text": "A work made of linen and wool, slit tapestry weave."
+    },
+    "main_reference_number": "1895.610",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 301,
+    "date_end": 400,
+    "date_display": "Roman period (30 B.C.\u2013 641 A.D.), 4th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Coptic\nEgypt",
+    "place_of_origin": "Egypt",
+    "description": null,
+    "dimensions": "13.3 \u00d7 2.5 cm (5 1/4 \u00d7 1 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 2.5,
+            "width_in": 1,
+            "height_cm": 13.3,
+            "height_in": 5.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and wool, slit tapestry weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.2786,
+    "color": {
+        "h": 39,
+        "l": 93,
+        "s": 67,
+        "percentage": 0.06757971170782559,
+        "population": 1128
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 29840,
+    "artist_title": "Coptic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29840
+    ],
+    "artist_titles": [
+        "Coptic"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "roman period (egyptian)",
+        "linen (material)",
+        "slit tapestry weaving",
+        "textile",
+        "weaving",
+        "wool (textile)"
+    ],
+    "style_id": "TM-4315",
+    "style_title": "roman period (egyptian)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4315"
+    ],
+    "style_titles": [
+        "roman period (egyptian)"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3093",
+    "alt_material_ids": [
+        "TM-2581"
+    ],
+    "material_ids": [
+        "TM-3093",
+        "TM-2581"
+    ],
+    "material_titles": [
+        "linen (material)",
+        "wool (textile)"
+    ],
+    "technique_id": "TM-10609",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10609"
+    ],
+    "technique_titles": [
+        "slit tapestry weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "3c90cf71-6a8a-02e3-a39f-77e7684c32e2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1895.610"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Border (from a Tunic)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-31T11:13:14-05:00",
+    "updated_at": "2023-08-31T11:15:55-05:00",
+    "timestamp": "2023-09-24T00:21:02-05:00"
+}

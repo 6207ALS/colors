@@ -1,0 +1,176 @@
+{
+    "id": 50333,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50333",
+    "is_boosted": false,
+    "title": "Gold Box",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGlTNm5kUH1rV3R4bWl5dLeANrSHTLOIT46UidjWztfW0NnY0u7k0+/l0+bj3+bk3/Hm1Onm4ejn5Orn5Ofo5evo4+jp5+zr6Ozr6QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoJUoC1UNBPJMASBIjlEc0cU0EBYCADs=",
+        "width": 2186,
+        "height": 2250,
+        "alt_text": "A work made of gold and painted metal."
+    },
+    "main_reference_number": "1976.40",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1727,
+    "date_end": 1760,
+    "date_display": "1727/60",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "2 \u00d7 7 \u00d7 5.6 cm (3/4 \u00d7 2 3/4 \u00d7 2 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 5.6,
+            "depth_in": 2.1875,
+            "width_cm": 7,
+            "width_in": 2.75,
+            "height_cm": 2,
+            "height_in": 0.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gold and painted metal",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Clive Runnells",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.8868,
+    "color": {
+        "h": 37,
+        "l": 54,
+        "s": 69,
+        "percentage": 0.004783224275819844,
+        "population": 35
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "gold",
+        "gold",
+        "metal",
+        "miniature",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-98",
+    "classification_title": "gold",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-591",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-98",
+        "TM-33",
+        "TM-591",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "gold",
+        "metal",
+        "miniature",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2452",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2452"
+    ],
+    "material_titles": [
+        "gold"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2ee11d36-012f-1737-cef6-caf3716d2712",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.40"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Gold Box"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:52:58-05:00",
+    "timestamp": "2023-09-24T00:42:41-05:00"
+}

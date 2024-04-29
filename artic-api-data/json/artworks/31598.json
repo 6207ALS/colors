@@ -1,0 +1,177 @@
+{
+    "id": 31598,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/31598",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAKGKcaqVfZuXlZmanqGWi6CXj6yfk6OdmLekj7qljr6oj6yimK2imL2qkL+rlqenrLqvpa+1u7G3vbO4vLO4vre7v8OvlbK5wLi+xLm+xLi/xrjByb/EybnEz73GzrzGz77Hzr7K18LJ0MHK1MDL1s3O0MPN2MXP2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwE8nctlgKqWTKQPyiDgDUkgy0YwoD8GhQGAsDJCGRYFwJAKAIAA7",
+        "width": 4842,
+        "height": 3228,
+        "alt_text": "A work made of stainless steel; edition number one of four."
+    },
+    "main_reference_number": "1969.245",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1968,
+    "date_end": 1968,
+    "date_display": "1968",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Kenneth Snelson\nAmerican, 1927-2016",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "243.9 \u00d7 325.2 \u00d7 122 cm (96 \u00d7 128 \u00d7 48 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 122,
+            "depth_in": 48,
+            "width_cm": 325.2,
+            "width_in": 128,
+            "height_cm": 243.9,
+            "height_in": 96,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stainless steel; edition number one of four",
+    "inscriptions": null,
+    "credit_line": "Barbara Neff Smith and Solomon Byron Smith Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 1969,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.2529,
+    "color": {
+        "h": 338,
+        "l": 34,
+        "s": 3,
+        "percentage": 0.01308662926423593,
+        "population": 62
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 36735,
+    "artist_title": "Kenneth Snelson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36735
+    ],
+    "artist_titles": [
+        "Kenneth Snelson"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "abstract shapes",
+        "modern and contemporary art",
+        "balance"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12708",
+    "alt_subject_ids": [
+        "TM-12753"
+    ],
+    "subject_ids": [
+        "TM-12708",
+        "TM-12753"
+    ],
+    "subject_titles": [
+        "abstract shapes",
+        "balance"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "720d0e2d-20c7-0537-3fce-4ed8e935abde",
+    "alt_image_ids": [
+        "f28a4928-9682-8693-2f0d-aa8429358e9c",
+        "a499d91c-1e79-3d4b-11a1-ac7f3f3b2c55",
+        "7c43f87c-a968-c7cb-5849-825212046b3f"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1969.245"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 110,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-26T12:16:31-05:00",
+    "updated_at": "2023-05-26T12:17:43-05:00",
+    "timestamp": "2023-09-24T00:34:25-05:00"
+}

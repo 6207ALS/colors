@@ -1,0 +1,31 @@
+{
+    "id": 47504,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47504",
+    "title": "James Morton",
+    "sort_title": "Morton, James",
+    "alt_titles": [
+        "Morton Sundour"
+    ],
+    "is_artist": true,
+    "birth_date": 1867,
+    "death_date": 1943,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Morton",
+            "Morton, James",
+            "Morton Sundour"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-05T14:21:01-05:00",
+    "updated_at": "2022-03-15T16:56:48-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

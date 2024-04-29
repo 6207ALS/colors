@@ -1,0 +1,28 @@
+{
+    "id": 118422,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/118422",
+    "title": "Unknown ceramist",
+    "sort_title": "Unknown ceramist",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Unknown ceramist",
+            "Unknown ceramist"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-03-16T12:10:50-05:00",
+    "updated_at": "2023-03-16T12:12:26-05:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

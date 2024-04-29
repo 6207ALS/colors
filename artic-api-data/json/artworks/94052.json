@@ -1,0 +1,181 @@
+{
+    "id": 94052,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/94052",
+    "is_boosted": false,
+    "title": "Two Border Fragments",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAAEBAQcGBgkJCAkICQoKCg0MDBAQEBIREWxnYm9pY3RuY3RvaXdwZXdxZ3lya3p0bXx2bn13cHx2cXx3coR9dYqDd4mCeIqDeY6GepGKgQAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIFEUxoEkTARRU3VlFqYpT7M4UjAEgACEADs=",
+        "width": 2992,
+        "height": 2539,
+        "alt_text": "A work made of cotton, bobbin part lace of a type known as \"duchesse de bruges\"."
+    },
+    "main_reference_number": "1977.282a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1860,
+    "date_end": 1889,
+    "date_display": "1860s/80s",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Belgium, probably Bruges",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "a: 11.3 \u00d7 48.8 cm (4 1/2 \u00d7 19 1/4 in.); b: 11 \u00d7 48.7 cm (4 3/8 \u00d7 19 1/4 in.); Repeat: W.: 11.8 cm (4 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.8,
+            "width_in": 19.25,
+            "height_cm": 11.3,
+            "height_in": 4.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "a"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.7,
+            "width_in": 19.25,
+            "height_cm": 11,
+            "height_in": 4.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "b"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11.8,
+            "width_in": 4.625,
+            "height_cm": 0,
+            "height_in": 0,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Cotton, bobbin part lace of a type known as \"Duchesse de Bruges\"",
+    "inscriptions": null,
+    "credit_line": "Gift of Mary Hulbert Gaylord",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.6244,
+    "color": {
+        "h": 37,
+        "l": 44,
+        "s": 4,
+        "percentage": 0.03284971256501506,
+        "population": 198
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1647"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1647"
+    ],
+    "classification_titles": [
+        "textile",
+        "lace - bobbin"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ff69d050-f95a-ea8f-fac8-d67b972b5556",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.282a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Two Border Fragments"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:53:25-05:00",
+    "timestamp": "2023-09-24T01:01:37-05:00"
+}

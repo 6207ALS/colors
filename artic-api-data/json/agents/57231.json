@@ -1,0 +1,39 @@
+{
+    "id": 57231,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57231",
+    "title": "Ibrahim El-Salahi",
+    "sort_title": "El-Salahi, Ibrahim",
+    "alt_titles": [
+        "Ibrahim Al-Salahi"
+    ],
+    "is_artist": true,
+    "birth_date": 1930,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Ibrahim El-Salahi",
+            "El-Salahi, Ibrahim",
+            "Ibrahim Al-Salahi"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ibrahim El-Salahi",
+            "El-Salahi, Ibrahim",
+            "Ibrahim Al-Salahi"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-05-24T14:59:13-05:00",
+    "updated_at": "2023-05-24T15:02:37-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

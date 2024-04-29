@@ -1,0 +1,39 @@
+{
+    "id": 40771,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40771",
+    "title": "Sir Joshua Reynolds",
+    "sort_title": "Reynolds, Joshua, Sir",
+    "alt_titles": [
+        "Joshua Reynolds"
+    ],
+    "is_artist": true,
+    "birth_date": 1723,
+    "death_date": 1792,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Sir Joshua Reynolds",
+            "Reynolds, Joshua, Sir",
+            "Joshua Reynolds"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sir Joshua Reynolds",
+            "Reynolds, Joshua, Sir",
+            "Joshua Reynolds"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:07-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

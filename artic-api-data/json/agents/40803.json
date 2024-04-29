@@ -1,0 +1,33 @@
+{
+    "id": 40803,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40803",
+    "title": "Julius Schnorr von Carolsfeld",
+    "sort_title": "Schnorr von Carolsfeld, Julius",
+    "alt_titles": [
+        "Julius Schnorr von Carolsfeld",
+        "Julius Schnorr Von Carolsfeld"
+    ],
+    "is_artist": true,
+    "birth_date": 1794,
+    "death_date": 1872,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Julius Schnorr von Carolsfeld",
+            "Schnorr von Carolsfeld, Julius",
+            "Julius Schnorr von Carolsfeld",
+            "Julius Schnorr Von Carolsfeld"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:13-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

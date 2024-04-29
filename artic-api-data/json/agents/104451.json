@@ -1,0 +1,28 @@
+{
+    "id": 104451,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/104451",
+    "title": "Thompson Studio",
+    "sort_title": "Thompson Studio",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thompson Studio",
+            "Thompson Studio"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-01T14:35:47-05:00",
+    "updated_at": "2019-07-01T14:40:49-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

@@ -1,0 +1,173 @@
+{
+    "id": 73734,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73734",
+    "is_boosted": false,
+    "title": "Handkerchief",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGA9O2dDQGlFQ29NSnBKR3RMSXRPS2xTU21XVnFVVHJWVXtUUnRYVn9ZV3BcW35aWXheXH9jYH1nZH9pZ4BlY4BoZYBta4NsaohtaItxbIhwbod0cohzcIpzcAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYIAkjGQUVpV1DXFFGLcIE6VtD3AokDOEADs=",
+        "width": 1245,
+        "height": 1080,
+        "alt_text": "A work made of cotton, plain weave; engraved roller printed."
+    },
+    "main_reference_number": "1989.72",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1830,
+    "date_end": 1848,
+    "date_display": "1830/48",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Engraved by Raimond Laverdin (French, active 1830) after Francois Seraphin Delpech (French, 1778-1825)\nManufactured Claude Arnaud Tizon (French, founded 1810)\nFrance, Rouen",
+    "place_of_origin": "Rouen",
+    "description": null,
+    "dimensions": "73.9 \u00d7 84.8 cm (29 1/8 \u00d7 33 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 84.8,
+            "width_in": 33.375,
+            "height_cm": 73.9,
+            "height_in": 29.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave; engraved roller printed",
+    "inscriptions": null,
+    "credit_line": "Mary Ann Judy Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.5463,
+    "color": {
+        "h": 2,
+        "l": 52,
+        "s": 62,
+        "percentage": 0.03634988713684597,
+        "population": 224
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 106609,
+    "artist_title": "Raimond Laverdin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        106609
+    ],
+    "artist_titles": [
+        "Raimond Laverdin"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "engraved roller printing",
+        "propaganda",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": "TM-8731",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8731"
+    ],
+    "subject_titles": [
+        "propaganda"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10547",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10547"
+    ],
+    "technique_titles": [
+        "engraved roller printing"
+    ],
+    "theme_titles": [],
+    "image_id": "70d8c807-ba38-296a-1256-6d145d5697c5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1989.72"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Handkerchief"
+            ],
+            "weight": 69,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:39:48-05:00",
+    "timestamp": "2023-09-24T00:52:14-05:00"
+}

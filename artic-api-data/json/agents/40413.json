@@ -1,0 +1,35 @@
+{
+    "id": 40413,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40413",
+    "title": "Alessandro Allori",
+    "sort_title": "Allori, Alessandro",
+    "alt_titles": [
+        "Alessandro Allori del Bronzino",
+        "Alessandro di Cristofano di Lorenzo Alessandro di Cristofano di Lorenzo",
+        "Cristofano di Lorenzo"
+    ],
+    "is_artist": true,
+    "birth_date": 1535,
+    "death_date": 1607,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alessandro Allori",
+            "Allori, Alessandro",
+            "Alessandro Allori del Bronzino",
+            "Alessandro di Cristofano di Lorenzo Alessandro di Cristofano di Lorenzo",
+            "Cristofano di Lorenzo"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:27-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

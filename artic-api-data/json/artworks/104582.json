@@ -1,0 +1,181 @@
+{
+    "id": 104582,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104582",
+    "is_boosted": false,
+    "title": "Iris (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACEnJiMpKSYsLDc7PUBERUBFRkJGSERISEVJSkZKS0dLTFBSU1VYWllcXlxfYQAAACH5BAAAAAAALAAAAAADAAUAAAQL0JV2AFECpWDYWBEAOw==",
+        "width": 1173,
+        "height": 2250,
+        "alt_text": "A work made of linen, plain weave; screen printed."
+    },
+    "main_reference_number": "1985.709",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1966,
+    "date_end": 1966,
+    "date_display": "1966",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Eleanor Kluck (American, 1919-2016) and Henry Kluck (American, 1922-2007)\nProduced by Elenhank Designers, Inc.\nUnited States, Illinois, Riverside",
+    "place_of_origin": "Riverside",
+    "description": null,
+    "dimensions": "248.9 \u00d7 127.6 cm (97 7/8 \u00d7 50 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 127.6,
+            "width_in": 50.25,
+            "height_cm": 248.9,
+            "height_in": 97.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; screen printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Eleanor and Henry Kluck",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.3027,
+    "color": {
+        "h": 199,
+        "l": 60,
+        "s": 46,
+        "percentage": 0.0013938498941040885,
+        "population": 19
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 31729,
+    "artist_title": "Eleanor Kluck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31729
+    ],
+    "artist_titles": [
+        "Eleanor Kluck"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed",
+        "printing",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "printing"
+    ],
+    "theme_titles": [
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "c62e14db-e13b-8657-a8a7-1f144fb8491e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.709"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Iris (Furnishing Fabric)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:42:59-05:00",
+    "timestamp": "2023-09-24T01:07:25-05:00"
+}

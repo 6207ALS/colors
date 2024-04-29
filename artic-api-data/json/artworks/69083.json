@@ -1,0 +1,170 @@
+{
+    "id": 69083,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/69083",
+    "is_boosted": false,
+    "title": "Bead",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJ+FQpuER6SNS6WNTrqzmbu1nb62n7+4oMfCs8bBtMfDtsrFt83JvM7NyNbV0dnZ2d3c293e3+Di4+Lj5ePj5ufn6eXo7OXo7ejq7+jr8Onr8Onr8QAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4IRtmVZFCrIwUBMAwpA8B1EYjmRdPBUCADs=",
+        "width": 3000,
+        "height": 2395,
+        "alt_text": "A work made of jade."
+    },
+    "main_reference_number": "1950.341",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": -1047,
+    "date_end": -772,
+    "date_display": "Early Western Zhou dynasty (1047BC-772BC)",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "3.2 \u00d7 1.5 cm (1 1/4 \u00d7 9/16 in.); 3.2 \u00d7 1.5 cm (1 1/4 \u00d7 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 3.2,
+            "height_in": 1.25,
+            "diameter_cm": 1.5,
+            "diameter_in": 0.5625,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 3.2,
+            "height_in": 1.25,
+            "diameter_cm": 1.5,
+            "diameter_in": 0.5625,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Jade",
+    "inscriptions": null,
+    "credit_line": "Edward and Louise B. Sonnenschein Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 49,
+        "s": 32,
+        "percentage": 0.00975643702157272,
+        "population": 701
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "jade",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-461",
+    "classification_title": "jade",
+    "alt_classification_ids": [
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-461",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "jade",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "92b83ad5-390d-7d9d-1f0a-b4858df2c1bd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1950.341"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bead"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-18T15:24:35-06:00",
+    "updated_at": "2023-04-07T14:05:02-05:00",
+    "timestamp": "2023-09-24T00:50:26-05:00"
+}

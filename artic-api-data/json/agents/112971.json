@@ -1,0 +1,35 @@
+{
+    "id": 112971,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/112971",
+    "title": "Kazuo Shiraga",
+    "sort_title": "Shiraga, Kazuo",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1924,
+    "death_date": 2008,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Kazuo Shiraga",
+            "Shiraga, Kazuo"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kazuo Shiraga",
+            "Shiraga, Kazuo"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:45:25-05:00",
+    "timestamp": "2023-09-24T02:00:36-05:00"
+}

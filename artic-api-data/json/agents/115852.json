@@ -1,0 +1,28 @@
+{
+    "id": 115852,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/115852",
+    "title": "Agnes F. Northrop",
+    "sort_title": "Northrop, Agnes F.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1857,
+    "death_date": 1953,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Agnes F. Northrop",
+            "Northrop, Agnes F."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-02-12T11:30:34-06:00",
+    "updated_at": "2020-02-12T11:31:43-06:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

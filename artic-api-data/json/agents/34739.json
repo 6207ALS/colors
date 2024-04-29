@@ -1,0 +1,41 @@
+{
+    "id": 34739,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34739",
+    "title": "Hans Baldung Grien",
+    "sort_title": "Grien, Hans Baldung",
+    "alt_titles": [
+        "Hans Grien Baldung",
+        "Hans Baldung",
+        "Hans Baldung, (Hans Baldung Grien)",
+        "Hans Baldung Grien",
+        "Hans Baldung, (Gr\u00fcn)",
+        "Hans Baldung Gr\u00fcn"
+    ],
+    "is_artist": true,
+    "birth_date": 1475,
+    "death_date": 1545,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hans Baldung Grien",
+            "Grien, Hans Baldung",
+            "Hans Grien Baldung",
+            "Hans Baldung",
+            "Hans Baldung, (Hans Baldung Grien)",
+            "Hans Baldung Grien",
+            "Hans Baldung, (Gr\u00fcn)",
+            "Hans Baldung Gr\u00fcn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-17T14:01:54-05:00",
+    "updated_at": "2022-04-22T10:53:06-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

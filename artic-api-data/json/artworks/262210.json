@@ -1,0 +1,170 @@
+{
+    "id": 262210,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/262210",
+    "is_boosted": false,
+    "title": "Shinjuku at Night",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAB4bGR8cGB4cGx8dHCEeGyIfGyIfHSMgHCQhHSUiHiUiHyYjIDYxKTczKk1HPE5JPmRdT2lhUnhwXnpxYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFIERtIwwPE4CDFJyxBBQggAOw==",
+        "width": 7641,
+        "height": 9214,
+        "alt_text": "A work made of gelatin silver print."
+    },
+    "main_reference_number": "2022.132",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1952,
+    "date_end": 1952,
+    "date_display": "1952",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Kiyoji Otsuji\nJapanese, 1923-2001",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "30.7 \u00d7 25.5 cm (12 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.5,
+            "width_in": 10,
+            "height_cm": 30.7,
+            "height_in": 12,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gelatin silver print",
+    "inscriptions": null,
+    "credit_line": "Grant J. Pick Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 39,
+        "l": 48,
+        "s": 12,
+        "percentage": 0.00024572406743952424,
+        "population": 173
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117999,
+    "artist_title": "Kiyoji Otsuji",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117999
+    ],
+    "artist_titles": [
+        "Kiyoji Otsuji"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1806e08a-c04c-7d54-cbd6-a1c6f69d3c19",
+    "alt_image_ids": [
+        "a4c0fdf4-f423-573f-728e-d4a5ffa1a6c4",
+        "5738b6cf-541b-2f64-e393-fab762d23b92"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.132"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Shinjuku at Night"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-21T11:16:57-05:00",
+    "updated_at": "2023-09-21T11:20:50-05:00",
+    "timestamp": "2023-09-24T01:58:03-05:00"
+}

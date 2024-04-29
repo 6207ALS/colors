@@ -1,0 +1,185 @@
+{
+    "id": 250766,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/250766",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIuCcp6HfqCGe6iGfKyQdq+Vep6OiaGSiLCRi7ehkrmnlMafm8KqhMKrmsuwkta6ltG5nNzLp9HAqdPDqdXHrdvBqN3Nt+PEqOPNsePOsuTVu+PQveLWwOnbwAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYCclQWNtWQEo0wIRBhNx1SA4D3YhB6WFADs=",
+        "width": 7071,
+        "height": 5510,
+        "alt_text": "A work made of color fiber-tipped pens, with blue ballpoint pen (recto), and graphite (verso) on cream wove paper."
+    },
+    "main_reference_number": "2019.764",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Art Green\nAmerican, born 1941",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "43.2 \u00d7 55.6 cm (17 1/16 \u00d7 21 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.6,
+            "width_in": 21.8898,
+            "height_cm": 43.2,
+            "height_in": 17.0079,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color fiber-tipped pens, with blue ballpoint pen (recto), and graphite (verso) on cream wove paper",
+    "inscriptions": "Inscribed verso, upper left, in graphite: \u201c$75.00\u201d",
+    "credit_line": "Margaret Fisher Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "The artist, sold through Garth Greenan Gallery, New York, to the Art Institute of Chicago, 2019.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 39.0316,
+    "color": {
+        "h": 39,
+        "l": 59,
+        "s": 69,
+        "percentage": 0.04856901946552412,
+        "population": 269
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34732,
+    "artist_title": "Art Green",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34732
+    ],
+    "artist_titles": [
+        "Art Green"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-13"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "fiber-tip pens",
+        "drawings (visual works)",
+        "wove paper",
+        "fiber-tipped pen",
+        "paper",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-611",
+        "TM-145",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-611",
+        "TM-145",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "fiber-tipped pen",
+        "paper",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2402",
+    "alt_material_ids": [
+        "TM-3074"
+    ],
+    "material_ids": [
+        "TM-2402",
+        "TM-3074"
+    ],
+    "material_titles": [
+        "fiber-tip pens",
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "f3a268b8-add9-a7c8-0aca-8704372adb56",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.764"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-09-23T23:18:38-05:00",
+    "timestamp": "2023-09-24T01:56:16-05:00"
+}

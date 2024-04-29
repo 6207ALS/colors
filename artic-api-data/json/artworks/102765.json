@@ -1,0 +1,181 @@
+{
+    "id": 102765,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102765",
+    "is_boosted": false,
+    "title": "Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAHc2B29LPVpIQoxJGZxREaJgKohpVZ2LfZmbnKGUi6qgmq+ppKyppq6wsba3tLm6u7m+vr/CxMDCwcHEw9TRzNbY19/h4d7k5+Lo6QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoLM8E6QQRcAgAyA0UmIckYVR1RUCADs=",
+        "width": 2455,
+        "height": 2250,
+        "alt_text": "A work made of maple."
+    },
+    "main_reference_number": "1984.712",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1690,
+    "date_end": 1730,
+    "date_display": "1690\u20131730",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 17th\u201318th century)\nNew England",
+    "place_of_origin": "New England",
+    "description": null,
+    "dimensions": "72.7 \u00d7 135.6 \u00d7 72.7 cm (28 5/8 \u00d7 53 3/8 \u00d7 28 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 72.7,
+            "depth_in": 28.625,
+            "width_cm": 135.6,
+            "width_in": 53.375,
+            "height_cm": 72.7,
+            "height_in": 28.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Maple",
+    "inscriptions": null,
+    "credit_line": "Gift of William McCormick Blair",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 54.8754,
+    "color": {
+        "h": 26,
+        "l": 31,
+        "s": 87,
+        "percentage": 0.15806297658672977,
+        "population": 1030
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "table",
+        "maple",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3584",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3584"
+    ],
+    "material_titles": [
+        "maple"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5218a3c2-bd59-c20a-c510-e0a2f241ac7e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.712"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Table"
+            ],
+            "weight": 51,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:18:08-05:00",
+    "timestamp": "2023-09-24T01:06:22-05:00"
+}

@@ -1,0 +1,159 @@
+{
+    "id": 238973,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/238973",
+    "is_boosted": false,
+    "title": "Scholar's Rock",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEQ7N1ZOSFlRS21hW2tiXHBlXnlwan5za4B3b4B3cYV6cod/d5WNhp6PhqGWjqibjreqn7uvpMK1qNjHtNXHutHIv9/Ovt7Rwt/XzOLUxeHWyuTXyOnd0uzj2AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoCU92TVpTIB1G2csFQI5AJEIUTMUykGFADs=",
+        "width": 2935,
+        "height": 2250,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "2017.92",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1999,
+    "date_end": 1999,
+    "date_display": "1999",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Chao Lin\nChinese, born 1954",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "143.2 \u00d7 186.4 cm (56 3/8 \u00d7 73 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 186.4,
+            "width_in": 73.375,
+            "height_cm": 143.2,
+            "height_in": 56.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Jeffrey D. Moy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.4919,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 61090,
+    "artist_title": "Zhao Lin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        61090
+    ],
+    "artist_titles": [
+        "Zhao Lin"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a1b95950-0bd0-3b9c-b59c-04325904267f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.92"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Scholar's Rock"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-25T13:00:37-05:00",
+    "updated_at": "2023-04-25T13:02:43-05:00",
+    "timestamp": "2023-09-24T01:52:46-05:00"
+}

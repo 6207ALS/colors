@@ -1,0 +1,173 @@
+{
+    "id": 102481,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102481",
+    "is_boosted": false,
+    "title": "Miroir-Tiroir",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAADQyMD8+PEA+PE1MSVZVUltaV11cWV9eW2ZlYmdnY3V1cnZ2cnl4dXp5dnx7eHx8eH9/e4WFgpSTkJiYlJqalqKinqamoa6vqbS0r7e4sr2+uMzOyM3OyNTW0NfZ09vd1yH5BAAAAAAALAAAAAAHAAUAAAUdYEUMSSQp0xBAX7VIwqFlj9EAyMVZjFNgG0+HEgIAOw==",
+        "width": 3000,
+        "height": 2167,
+        "alt_text": "A work made of gelatin silver prints (4)."
+    },
+    "main_reference_number": "1984.425a-1984.425d",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Alain Fleischer\nFrench, born 1942",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Variable, see individual object records",
+    "dimensions_detail": [],
+    "medium_display": "Gelatin silver prints (4)",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by David C. and Sarajean Ruttenberg",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": "3 of 10",
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.14,
+    "color": {
+        "h": 54,
+        "l": 51,
+        "s": 2,
+        "percentage": 0.05453975266222168,
+        "population": 280
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 31130,
+    "artist_title": "Alain Fleischer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31130
+    ],
+    "artist_titles": [
+        "Alain Fleischer"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photographic process",
+        "black-and-white photography",
+        "photography",
+        "photograph",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-68",
+    "classification_title": "photographic process",
+    "alt_classification_ids": [
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-12089",
+    "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+    ],
+    "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+    ],
+    "theme_titles": [],
+    "image_id": "d73ee558-1241-28da-bdf0-9476b5ba88b5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.425a-1984.425d"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Miroir-Tiroir"
+            ],
+            "weight": 142,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-11-10T14:08:36-06:00",
+    "updated_at": "2023-04-07T14:12:35-05:00",
+    "timestamp": "2023-09-24T01:06:13-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 48105,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/48105",
+    "title": "Pierre-Georges Jeanniot",
+    "sort_title": "Jeanniot, Pierre-Georges",
+    "alt_titles": [
+        "Georges Jeanniot",
+        "Pierre Georges Jeanniot",
+        "Georges (Pierre Georges) Jeanniot"
+    ],
+    "is_artist": true,
+    "birth_date": 1848,
+    "death_date": 1934,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre-Georges Jeanniot",
+            "Jeanniot, Pierre-Georges",
+            "Georges Jeanniot",
+            "Pierre Georges Jeanniot",
+            "Georges (Pierre Georges) Jeanniot"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:56:57-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

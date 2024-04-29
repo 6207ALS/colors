@@ -1,0 +1,160 @@
+{
+    "id": 126014,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/126014",
+    "is_boosted": false,
+    "title": "Girl with a Spade",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACAeFjo2LUZCNVlURGReUHJrV3hyXYB5Zo2FbJCIcJWNcaKZfKujhc3CoNTKqwAAACH5BAAAAAAALAAAAAADAAUAAAQLcLGmkCviGBDSIBEAOw==",
+        "width": 1948,
+        "height": 3000,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1887.328",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1873,
+    "date_end": 1873,
+    "date_display": "1873",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jozef Isra\u00ebls\nDutch, 1824-1911",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "Elizabeth Hammond Stickney Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.5089,
+    "color": {
+        "h": 43,
+        "l": 58,
+        "s": 45,
+        "percentage": 0.003472812448022051,
+        "population": 38
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40639,
+    "artist_title": "Jozef Isra\u00ebls",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40639
+    ],
+    "artist_titles": [
+        "Jozef Isra\u00ebls"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1dae2eeb-f7e4-ea7a-d175-715bbd0201a5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.328"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Girl with a Spade"
+            ],
+            "weight": 103,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:25-05:00",
+    "updated_at": "2023-04-10T15:23:16-05:00",
+    "timestamp": "2023-09-24T01:16:52-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 22837,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22837",
+    "title": "Johannes Sambucus",
+    "sort_title": "Sambucus, Johannes",
+    "alt_titles": [
+        "Janos Zsamboki"
+    ],
+    "is_artist": true,
+    "birth_date": 1531,
+    "death_date": 1584,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johannes Sambucus",
+            "Sambucus, Johannes",
+            "Janos Zsamboki"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:06-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

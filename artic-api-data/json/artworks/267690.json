@@ -1,0 +1,173 @@
+{
+    "id": 267690,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/267690",
+    "is_boosted": false,
+    "title": "Mars, from The Seven Planetary Gods",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHVuZnRuZ3VvZ4B4boJ7c4V9c4Z+dZWMgZaNgpiPg6KYjK2hk62ilK6ila+klgAAACH5BAAAAAAALAAAAAADAAUAAAQKsKm2jEOCYJFGiQA7",
+        "width": 4145,
+        "height": 6112,
+        "alt_text": "A work made of engraving on paper."
+    },
+    "main_reference_number": "2023.50",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1533,
+    "date_end": 1533,
+    "date_display": "1533",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Heinrich Aldegrever \nGerman, 1502\u2013c. 1561",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Sheet (trimmed): 9.8 \u00d7 6.5 cm (3 7/8 \u00d7 2 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 6.5,
+            "width_in": 2.5591,
+            "height_cm": 9.8,
+            "height_in": 3.8583,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet (trimmed)"
+        }
+    ],
+    "medium_display": "Engraving on paper",
+    "inscriptions": "Lettered upper right: \"Mars 1 AG\"",
+    "credit_line": "Charles Hack and the Hearn Family Trust Collection, purchased with funds provided by the Harry B. and Bessie K. Braude Memorial, Amanda S. Johnson and Marion J. Livingston, anonymous, and Suzanne Searle Dixon endowment funds",
+    "catalogue_display": "<p>Hollstein, The New 76</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 38,
+        "l": 57,
+        "s": 10,
+        "percentage": 0.003141992812888802,
+        "population": 796
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33378,
+    "artist_title": "Heinrich Aldegrever",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33378
+    ],
+    "artist_titles": [
+        "Heinrich Aldegrever"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-145",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "paper",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "983767e3-c546-2897-bddc-5fbc761307d9",
+    "alt_image_ids": [
+        "5efaf79f-4482-4dab-f199-ab303620b6f4"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2023.50"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mars, from The Seven Planetary Gods"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-20T16:16:45-05:00",
+    "updated_at": "2023-09-20T16:25:21-05:00",
+    "timestamp": "2023-09-24T01:59:06-05:00"
+}

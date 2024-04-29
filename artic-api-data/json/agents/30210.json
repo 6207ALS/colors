@@ -1,0 +1,35 @@
+{
+    "id": 30210,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/30210",
+    "title": "Rukai",
+    "sort_title": "Rukai",
+    "alt_titles": [
+        "Lu-k`ai (Taiwan people)",
+        "Tsarisen (Taiwan people)",
+        "Rukai (Taiwan people)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rukai",
+            "Rukai",
+            "Lu-k`ai (Taiwan people)",
+            "Tsarisen (Taiwan people)",
+            "Rukai (Taiwan people)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:08:46-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

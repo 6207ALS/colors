@@ -1,0 +1,33 @@
+{
+    "id": 8569,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/8569",
+    "title": "Alfred Henry Forrester",
+    "sort_title": "Forrester, Alfred Henry",
+    "alt_titles": [
+        "Alfred Crowquill",
+        "Alfred Crowquill, (Alfred Henry Forrester)"
+    ],
+    "is_artist": true,
+    "birth_date": 1804,
+    "death_date": 1872,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alfred Henry Forrester",
+            "Forrester, Alfred Henry",
+            "Alfred Crowquill",
+            "Alfred Crowquill, (Alfred Henry Forrester)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:39-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

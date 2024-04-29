@@ -1,0 +1,158 @@
+{
+    "id": 202488,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202488",
+    "is_boosted": false,
+    "title": "Dent de Lion",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACEhIjEyMjc4OTo9PEhJSUpKS0tOUVRVU1NUV1VXVldYWlhZWlpaWmlpampsaWtsaXJxbH9+eYKAeoaFgIeFg42KhZmXkJ6bk6GelAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVICAURDA8U3Q41oVBSUVJjKE0CxICADs=",
+        "width": 2251,
+        "height": 2250,
+        "alt_text": "A work made of fabric disks, iron wire, and floral tape."
+    },
+    "main_reference_number": "2010.270",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1998,
+    "date_end": 1998,
+    "date_display": "1998",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Gabriel Orozco\nMexican, born 1962",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "74.9 \u00d7 100 cm (29 1/2 \u00d7 39 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 100,
+            "width_in": 39.375,
+            "height_cm": 74.9,
+            "height_in": 29.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Fabric disks, iron wire, and floral tape",
+    "inscriptions": null,
+    "credit_line": "Gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.9448,
+    "color": {
+        "h": 46,
+        "l": 46,
+        "s": 18,
+        "percentage": 0.004643642642148233,
+        "population": 33
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 63714,
+    "artist_title": "Gabriel Orozco",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        63714
+    ],
+    "artist_titles": [
+        "Gabriel Orozco"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5c1208a5-94f3-bc72-89ea-be2735eb85f4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.270"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dent de Lion"
+            ],
+            "weight": 752,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-03T11:32:42-05:00",
+    "updated_at": "2023-07-03T11:32:50-05:00",
+    "timestamp": "2023-09-24T01:40:41-05:00"
+}

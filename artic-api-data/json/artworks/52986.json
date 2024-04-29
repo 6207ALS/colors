@@ -1,0 +1,187 @@
+{
+    "id": 52986,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/52986",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEpBO05GP2BZUGJbUWReU2VeVGVfVGxgU21hU2hhVnNrXnVrXXdvYXhuYIqHeIuIeZGPf5KQfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURILE0RoIgRhQAUCQI0cMoTggAOw==",
+        "width": 7089,
+        "height": 9253,
+        "alt_text": "A work made of acrylic on masonite."
+    },
+    "main_reference_number": "1978.399",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1974,
+    "date_end": 1974,
+    "date_display": "1974",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Christina Ramberg\nAmerican, 1946-1995",
+    "place_of_origin": "Kentucky",
+    "description": null,
+    "dimensions": "121.9 \u00d7 94 cm (48 \u00d7 37 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 94,
+            "width_in": 37,
+            "height_cm": 121.9,
+            "height_in": 48,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic on Masonite",
+    "inscriptions": null,
+    "credit_line": "Gift of Baxter Travenol Laboratories",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 The estate of Christina Ramberg.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 52,
+        "l": 54,
+        "s": 8,
+        "percentage": 0.006471577494807989,
+        "population": 4245
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 297",
+    "gallery_id": 25473,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 36316,
+    "artist_title": "Christina Ramberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36316
+    ],
+    "artist_titles": [
+        "Christina Ramberg"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154",
+        "PC-825",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "painting",
+        "abstract shapes",
+        "modern and contemporary art",
+        "beige (color)",
+        "brown (color)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12708",
+    "alt_subject_ids": [
+        "TM-12748",
+        "TM-11844"
+    ],
+    "subject_ids": [
+        "TM-12708",
+        "TM-12748",
+        "TM-11844"
+    ],
+    "subject_titles": [
+        "abstract shapes",
+        "beige (color)",
+        "brown (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "75c854f5-92b6-2e95-c026-25e472dae980",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.399"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 419,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-05T09:16:55-05:00",
+    "updated_at": "2023-09-23T23:16:48-05:00",
+    "timestamp": "2023-09-24T00:43:53-05:00"
+}

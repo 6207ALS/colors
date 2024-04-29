@@ -1,0 +1,176 @@
+{
+    "id": 216772,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/216772",
+    "is_boosted": false,
+    "title": "Teapot",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACMiIyQkJCcoKCsrLD49O0JAPkVDQUdFQ0VER0lJRlBRVldVVFZUVVpeYFxcYWdnY31/gnt+hHmBhXSEj4aIjYeKjoeRlZGVk5uXkZSYmJ2dmI+hsq24vcDBuwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4BAQByAUidY9BoJxm7Q4jDU1ClVlFxSFADs=",
+        "width": 2902,
+        "height": 2250,
+        "alt_text": "A work made of salt-glazed stoneware, cobalt blue decoration."
+    },
+    "main_reference_number": "2012.1043a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1745,
+    "date_end": 1755,
+    "date_display": "c. 1750",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Staffordshire, England",
+    "place_of_origin": "Staffordshire",
+    "description": null,
+    "dimensions": "14.3 \u00d7 17 \u00d7 8.9 cm (5 5/8 \u00d7 6 11/16 \u00d7 3 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 8.9,
+            "depth_in": 3.5,
+            "width_cm": 17,
+            "width_in": 6.6875,
+            "height_cm": 14.3,
+            "height_in": 5.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Salt-glazed stoneware, cobalt blue decoration",
+    "inscriptions": null,
+    "credit_line": "Gift of Harry A. Root, Jr. in memory of Curtis Chapin Palmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.4223,
+    "color": {
+        "h": 209,
+        "l": 54,
+        "s": 30,
+        "percentage": 0.01178984332205136,
+        "population": 65
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "stoneware",
+        "teapot",
+        "salt-glazed stoneware",
+        "european decorative arts",
+        "pottery",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11780",
+    "classification_title": "teapot",
+    "alt_classification_ids": [
+        "TM-11131",
+        "TM-1394",
+        "TM-11127",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-11780",
+        "TM-11131",
+        "TM-1394",
+        "TM-11127",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "teapot",
+        "salt-glazed stoneware",
+        "european decorative arts",
+        "pottery",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2484",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2484"
+    ],
+    "material_titles": [
+        "stoneware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7f0f5aa6-5286-dd52-9929-743fb2d18a10",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.1043a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Teapot"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:26:53-05:00",
+    "timestamp": "2023-09-24T01:44:49-05:00"
+}

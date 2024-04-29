@@ -1,0 +1,167 @@
+{
+    "id": 80445,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80445",
+    "is_boosted": false,
+    "title": "Song of Praise",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAALSsorauo7mxpruzqMG3qMK4qcS6q8W7q8S7rMS7rsW7rsW8r8e9r8i+r8i+sMvAsMvBsc3CstfMutjMuNnNutnOvNzQvNzRv97SwODUwOHVwAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGAQxREo1kRZyHJJFZYwmWVpjhA9DTSEADs=",
+        "width": 5663,
+        "height": 4428,
+        "alt_text": "A work made of silk, twill and satin weaves."
+    },
+    "main_reference_number": "1954.239",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1940,
+    "date_end": 1960,
+    "date_display": "c. 1950",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Sigrid Synnergren (Swedish, 1894-1986)\nProduced by Luigi Bevilacqua\nItaly, Venice",
+    "place_of_origin": "Venice",
+    "description": null,
+    "dimensions": "89 \u00d7 110.7 cm (35 \u00d7 43 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 110.7,
+            "width_in": 43.625,
+            "height_cm": 89,
+            "height_in": 35,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, twill and satin weaves",
+    "inscriptions": null,
+    "credit_line": "Gift of the Italian Government from His Excellency Alberto Tarchiani, Ambassador of Italy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.1859,
+    "color": {
+        "h": 354,
+        "l": 60,
+        "s": 2,
+        "percentage": 0.3691923310238562,
+        "population": 2051
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 113683,
+    "artist_title": "Sigrid Briirgitta Synnergren",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        113683
+    ],
+    "artist_titles": [
+        "Sigrid Briirgitta Synnergren"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-14"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "abdffcaf-9afb-46ae-6d53-4a3fdf1a76a5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.239"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Song of Praise"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:26:30-05:00",
+    "timestamp": "2023-09-24T00:54:45-05:00"
+}

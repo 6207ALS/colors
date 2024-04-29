@@ -1,0 +1,33 @@
+{
+    "id": 42122,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42122",
+    "title": "Jacques Fran\u00e7ois Joseph Saly",
+    "sort_title": "Saly, Jacques Fran\u00e7ois Joseph",
+    "alt_titles": [
+        "Jacques F. J. Saly",
+        "Jacques Fran\u00e7ois Joseph Saily"
+    ],
+    "is_artist": true,
+    "birth_date": 1717,
+    "death_date": 1776,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacques Fran\u00e7ois Joseph Saly",
+            "Saly, Jacques Fran\u00e7ois Joseph",
+            "Jacques F. J. Saly",
+            "Jacques Fran\u00e7ois Joseph Saily"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:37:26-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

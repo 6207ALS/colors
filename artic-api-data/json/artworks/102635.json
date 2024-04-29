@@ -1,0 +1,165 @@
+{
+    "id": 102635,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/102635",
+    "is_boosted": false,
+    "title": "Dr. John A. Tasche Residence, Sheboygan, Wisconsin, Interior Perspective",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAM3Hqs7GqtLLrtLLr9PMr9PMsNLNsNTNstXNs9XPtNbQs9jRtNjRtdjStdjQt9nRt9nTttnSt9rSt9rTt9rUt9nTudrSuNrTudvVuNrUudvUudzUuNzUudzVudzWudzUutzUvNzUvd3Vvd3WvN/XvN/Xvt7Wv+DYv+LbwOLcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQFOJlDgUAgjHCZVqEAgCxid06SgMgEHkAdJ0PBDMYsMRjSqZCWUisQQBADs=",
+        "width": 8090,
+        "height": 4364,
+        "alt_text": "A work made of graphite on tracing paper."
+    },
+    "main_reference_number": "1984.590.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1960,
+    "date_display": "1960",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William Ferguson Deknatel\nAmerican, 1907\u20131973",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "26 \u00d7 49.5 cm (18 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.5,
+            "width_in": 22,
+            "height_cm": 26,
+            "height_in": 18,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite on tracing paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Diane Deknatel Pierson (Mrs. Emory L. Pierson)",
+    "catalogue_display": "<p>Unknown 48</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.9421,
+    "color": {
+        "h": 41,
+        "l": 51,
+        "s": 12,
+        "percentage": 0.022209332100062183,
+        "population": 85
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 30844,
+    "artist_title": "William Ferguson Deknatel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30844
+    ],
+    "artist_titles": [
+        "William Ferguson Deknatel"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architecture",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-103",
+    "classification_title": "architecture",
+    "alt_classification_ids": [
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "architecture",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ec5367ce-c581-8088-aeef-6b065caca0f4",
+    "alt_image_ids": [
+        "0d263fc5-dff7-b705-a2e0-7a494a800870"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.590.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Dr. John A. Tasche Residence, Sheboygan, Wisconsin, Interior Perspective"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:31:03-05:00",
+    "timestamp": "2023-09-24T01:06:19-05:00"
+}

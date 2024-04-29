@@ -1,0 +1,31 @@
+{
+    "id": 44049,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44049",
+    "title": "Francis Whittemore",
+    "sort_title": "Whittemore, Francis",
+    "alt_titles": [
+        "Francis D. Whittemore"
+    ],
+    "is_artist": true,
+    "birth_date": 1921,
+    "death_date": 2020,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francis Whittemore",
+            "Whittemore, Francis",
+            "Francis D. Whittemore"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-10T08:34:31-05:00",
+    "updated_at": "2021-06-10T08:35:44-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

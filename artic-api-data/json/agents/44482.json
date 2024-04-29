@@ -1,0 +1,33 @@
+{
+    "id": 44482,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44482",
+    "title": "Karl Martin Vitzthum",
+    "sort_title": "Vitzthum, Karl Martin",
+    "alt_titles": [
+        "Karl M. Vitzthum",
+        "Karl Martin Vitzhum"
+    ],
+    "is_artist": true,
+    "birth_date": 1880,
+    "death_date": 1967,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Karl Martin Vitzthum",
+            "Vitzthum, Karl Martin",
+            "Karl M. Vitzthum",
+            "Karl Martin Vitzhum"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:30:43-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

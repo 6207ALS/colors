@@ -1,0 +1,31 @@
+{
+    "id": 60735,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/60735",
+    "title": "Yayoi Kusama",
+    "sort_title": "Kusama, Yayoi",
+    "alt_titles": [
+        "Yayoi Kusama"
+    ],
+    "is_artist": true,
+    "birth_date": 1929,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Yayoi Kusama",
+            "Kusama, Yayoi",
+            "Yayoi Kusama"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-11-19T11:58:43-06:00",
+    "updated_at": "2022-03-15T16:59:21-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

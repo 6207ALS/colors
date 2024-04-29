@@ -1,0 +1,178 @@
+{
+    "id": 186636,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/186636",
+    "is_boosted": false,
+    "title": "Fragments",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAB8dHh8dHyAcHSAdHSMeHiIeHyMfHyUfHCQfHSMgHyYgHSYgHiYhHiYgHychHyEeICIfICQgICQgISQhISYhISYiICYiISUiIiYjJCckJSgiISgjIyklJSomJiwpKS0pKS8rKi4rKy8rKzErKjArKzEtLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQM8FYBgUJqMSR8BQLCAkkcZxWCwkn04jgqgQNqHMI5CwUDCgIAA7",
+        "width": 1024,
+        "height": 637,
+        "alt_text": "A work made of copper plate."
+    },
+    "main_reference_number": "2006.268",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1954,
+    "date_end": 1954,
+    "date_display": "1954",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Vera Berdich\nAmerican, 1915-2003",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "25.5 \u00d7 40.7 cm (10 1/16 \u00d7 16 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 40.7,
+            "width_in": 16.0237,
+            "height_cm": 25.5,
+            "height_in": 10.0394,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Copper plate",
+    "inscriptions": null,
+    "credit_line": "Bequest of Vera Berdich",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.6881,
+    "color": {
+        "h": 352,
+        "l": 52,
+        "s": 1,
+        "percentage": 0.004754013745891174,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33607,
+    "artist_title": "Vera Berdich",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33607
+    ],
+    "artist_titles": [
+        "Vera Berdich"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "copper plate",
+        "matrix",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10104",
+    "classification_title": "copper plate",
+    "alt_classification_ids": [
+        "TM-561",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-10104",
+        "TM-561",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "copper plate",
+        "matrix",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "30dc2e92-de9a-a299-cabb-949f5fa441c8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2006.268"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragments"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:08:37-05:00",
+    "timestamp": "2023-09-24T01:35:33-05:00"
+}

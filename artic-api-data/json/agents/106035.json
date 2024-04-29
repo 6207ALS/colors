@@ -1,0 +1,33 @@
+{
+    "id": 106035,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/106035",
+    "title": "Viktor P. Sokolov",
+    "sort_title": "Sokolov, Viktor P.",
+    "alt_titles": [
+        "V. P. Sokolov",
+        "\u0412\u0438\u043a\u0442\u043e\u0440 \u0421\u043e\u043a\u043e\u043b\u043e\u0432"
+    ],
+    "is_artist": true,
+    "birth_date": 1923,
+    "death_date": 1980,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Viktor P. Sokolov",
+            "Sokolov, Viktor P.",
+            "V. P. Sokolov",
+            "\u0412\u0438\u043a\u0442\u043e\u0440 \u0421\u043e\u043a\u043e\u043b\u043e\u0432"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:20:20-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

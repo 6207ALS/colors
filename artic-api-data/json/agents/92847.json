@@ -1,0 +1,31 @@
+{
+    "id": 92847,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/92847",
+    "title": "Marshall Field's (Department store)",
+    "sort_title": "Marshall Field's (Department store)",
+    "alt_titles": [
+        "Dayton Hudson Corporation. Marshall Field's (Department store)"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Marshall Field's (Department store)",
+            "Marshall Field's (Department store)",
+            "Dayton Hudson Corporation. Marshall Field's (Department store)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-01T15:52:10-05:00",
+    "updated_at": "2020-05-01T15:55:43-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 99653,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99653",
+    "is_boosted": false,
+    "title": "At the Fountain",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABgYGCoqKisrKzQ0NDc3N0NDQ0xMTE5OTlNTU1VVVWBgYHh4eHp6eoWFhaKioqenp7S0tLu7u76+vr+/vwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURIDQ9jRQ5zGIgRUIIgHIMQQgAOw==",
+        "width": 1605,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas on board."
+    },
+    "main_reference_number": "1982.1671",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1887,
+    "date_end": 1887,
+    "date_display": "1887",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Cesare Agostino Detti\nItalian, 1847-1914",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "121.5 \u00d7 86.8 cm (47 3/4 \u00d7 34 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 86.8,
+            "width_in": 34.125,
+            "height_cm": 121.5,
+            "height_in": 47.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas on board",
+    "inscriptions": "Inscribed lower right: CDetti Paris 87",
+    "credit_line": "Gift of Dr. and Mrs. I. M. Isoe",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Paris, Soci\u00e9t\u00e9 Nationale des artistes fran\u00e7ais, 1887, cat. 769.",
+    "provenance_text": "Dr. and Mrs. I. M. Isoe by 1982; gift to Art Institute, 1982.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1983,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.06322596961540546,
+        "population": 630
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 30905,
+    "artist_title": "Cesare Agostino Detti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        30905
+    ],
+    "artist_titles": [
+        "Cesare Agostino Detti"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ac624b7a-ed36-9b5a-4257-2fb464b5023f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1671"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "At the Fountain"
+            ],
+            "weight": 671,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:07-05:00",
+    "timestamp": "2023-09-24T01:04:13-05:00"
+}

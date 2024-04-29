@@ -1,0 +1,181 @@
+{
+    "id": 220056,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/220056",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOTj4eTk4uTm4+bo5efp5ujo5urr6evr6ens6Ors6evu6+zs6u7w7e/w7fHy7/H08PX49QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYOA4x/BAjKAQyGAICbA0RQgAOw==",
+        "width": 2134,
+        "height": 3000,
+        "alt_text": "A work made of watercolor on white wove paper."
+    },
+    "main_reference_number": "2013.1279",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2010,
+    "date_end": 2010,
+    "date_display": "2010",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Silvia B\u00e4chli\nSwiss, born 1956",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "43.8 \u00d7 30.9 cm (17 1/4 \u00d7 12 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30.9,
+            "width_in": 12.1654,
+            "height_cm": 43.8,
+            "height_in": 17.2441,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Margaret Fisher Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2010 Silvia B\u00e4chli",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.7496,
+    "color": {
+        "h": 39,
+        "l": 50,
+        "s": 3,
+        "percentage": 0.0029030336701853436,
+        "population": 29
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 88955,
+    "artist_title": "Silvia Bachli",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        88955
+    ],
+    "artist_titles": [
+        "Silvia Bachli"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-13"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "paper",
+        "21st Century",
+        "paper (fiber product)",
+        "watercolor",
+        "prints and drawing"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-145",
+    "classification_title": "paper",
+    "alt_classification_ids": [
+        "TM-39",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-145",
+        "TM-39",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "paper",
+        "watercolor",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "de2f9743-6a10-7bbd-e41c-43e61a25a157",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1279"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 20,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-24T15:57:49-05:00",
+    "updated_at": "2023-04-24T16:02:29-05:00",
+    "timestamp": "2023-09-24T01:45:56-05:00"
+}

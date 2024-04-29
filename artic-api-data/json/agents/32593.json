@@ -1,0 +1,39 @@
+{
+    "id": 32593,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32593",
+    "title": "Ringl + Pit",
+    "sort_title": "Ringl + Pit",
+    "alt_titles": [
+        "Ringl and Pit",
+        "Ringl und Pit",
+        "Ringl plus Pit",
+        "Studio Ringl + Pit",
+        "Fotografie Ringl + Pit"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ringl + Pit",
+            "Ringl + Pit",
+            "Ringl and Pit",
+            "Ringl und Pit",
+            "Ringl plus Pit",
+            "Studio Ringl + Pit",
+            "Fotografie Ringl + Pit"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:06:58-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

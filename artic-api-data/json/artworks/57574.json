@@ -1,0 +1,188 @@
+{
+    "id": 57574,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/57574",
+    "is_boosted": false,
+    "title": "Head of a Fisherman XI",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHZ0aoF/coOAcoiFerq1pru3p8S/rcPAsMTBscjDscnDssvFtczHts/LudDJuNDKutTOv9XOv9TRwdXRwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBNBCwEMShEIRnMgyTNJTAgAOw==",
+        "width": 2264,
+        "height": 3000,
+        "alt_text": "A work made of woodcut on ivory wove paper."
+    },
+    "main_reference_number": "1972.198",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1911,
+    "date_end": 1911,
+    "date_display": "1911",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Max Pechstein\nGerman, 1881-1955",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Image/plate: 21.8 \u00d7 19.5 cm (8 5/8 \u00d7 7 11/16 in.); Sheet: 54.6 \u00d7 39.5 cm (21 1/2 \u00d7 15 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19.5,
+            "width_in": 7.6772,
+            "height_cm": 21.8,
+            "height_in": 8.5827,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 39.5,
+            "width_in": 15.5512,
+            "height_cm": 54.6,
+            "height_in": 21.4961,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Woodcut on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Dr. and Mrs. Richard Frank",
+    "catalogue_display": "<p>Fechter 83</p><p>Kr\u00fcger H127</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.3744,
+    "color": {
+        "h": 50,
+        "l": 50,
+        "s": 8,
+        "percentage": 0.002230172965843308,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40737,
+    "artist_title": "Max Pechstein",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40737
+    ],
+    "artist_titles": [
+        "Max Pechstein"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "woodcut",
+        "paper (fiber product)",
+        "woodcut (process)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-148",
+    "classification_title": "woodcut",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-148",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "woodcut",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3862",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3862"
+    ],
+    "technique_titles": [
+        "woodcut (process)"
+    ],
+    "theme_titles": [],
+    "image_id": "746931cc-2d5a-16e0-b0ed-d8bff7399f50",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.198"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Head of a Fisherman XI"
+            ],
+            "weight": 92,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:07:19-05:00",
+    "timestamp": "2023-09-24T00:45:16-05:00"
+}

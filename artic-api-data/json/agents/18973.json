@@ -1,0 +1,31 @@
+{
+    "id": 18973,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/18973",
+    "title": "Kenjilo Nanao",
+    "sort_title": "Nanao, Kenjilo",
+    "alt_titles": [
+        "Kenjilo Nanao"
+    ],
+    "is_artist": true,
+    "birth_date": 1929,
+    "death_date": 2013,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kenjilo Nanao",
+            "Nanao, Kenjilo",
+            "Kenjilo Nanao"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:13:24-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

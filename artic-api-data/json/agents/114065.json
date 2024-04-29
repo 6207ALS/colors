@@ -1,0 +1,28 @@
+{
+    "id": 114065,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/114065",
+    "title": "William Hallett",
+    "sort_title": "Hallett, William",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1707,
+    "death_date": 1781,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Hallett",
+            "Hallett, William"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:45:42-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

@@ -1,0 +1,179 @@
+{
+    "id": 239721,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/239721",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKCSgaCTgqOVgKCVg6KVg6KWhNXKtdbLtdfMttjNt9nNuN/SuuHTu+rcxOndx+zjz+3k0u7l1PLo1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQsT0IMhwIEh1EICOQ0UggAOw==",
+        "width": 2287,
+        "height": 3000,
+        "alt_text": "A work made of graphite, acrylic paint, and masking tape on white tracing paper, tipped onto color offset lithograph ivory wove paper."
+    },
+    "main_reference_number": "2017.199",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1972,
+    "date_end": 1972,
+    "date_display": "1972",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ed Moses\nAmerican, 1926-2018",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Primary support: 68.1 \u00d7 52.1 cm (26 13/16 \u00d7 20 9/16 in.); Secondary support: 68.7 \u00d7 52.1 cm (27 1/16 \u00d7 20 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52.1,
+            "width_in": 20.5119,
+            "height_cm": 68.1,
+            "height_in": 26.8111,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Primary support"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52.1,
+            "width_in": 20.5119,
+            "height_cm": 68.7,
+            "height_in": 27.0473,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Secondary support"
+        }
+    ],
+    "medium_display": "Graphite, acrylic paint, and masking tape on white tracing paper, tipped onto color offset lithograph ivory wove paper",
+    "inscriptions": "Signed and dated, lower right, in graphite: \"E 72\"",
+    "credit_line": "Purchased with funds provided by Sandra and Ken Tokita, M.D.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "The artist to Albertz Benda, New York; sold to the Art Institute, 2017.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.4757,
+    "color": {
+        "h": 41,
+        "l": 48,
+        "s": 76,
+        "percentage": 0.0004290197542145828,
+        "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 17827,
+    "artist_title": "Ed Moses",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        17827
+    ],
+    "artist_titles": [
+        "Ed Moses"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "216a02d2-bd89-bcc2-bf23-c2a0e69a51f1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.199"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:34-05:00",
+    "updated_at": "2023-04-07T14:57:49-05:00",
+    "timestamp": "2023-09-24T01:53:04-05:00"
+}

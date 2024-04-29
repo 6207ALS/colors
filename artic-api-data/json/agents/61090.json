@@ -1,0 +1,33 @@
+{
+    "id": 61090,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/61090",
+    "title": "Zhao Lin",
+    "sort_title": "Zhao Lin",
+    "alt_titles": [
+        "Chao Lin",
+        "Tchao Lin"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zhao Lin",
+            "Zhao Lin",
+            "Chao Lin",
+            "Tchao Lin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-11-18T12:31:35-06:00",
+    "updated_at": "2022-11-18T12:35:54-06:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

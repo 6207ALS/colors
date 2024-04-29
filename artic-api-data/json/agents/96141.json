@@ -1,0 +1,31 @@
+{
+    "id": 96141,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/96141",
+    "title": "Poul Henningsen",
+    "sort_title": "Henningsen, Poul",
+    "alt_titles": [
+        "Poul Henningsen"
+    ],
+    "is_artist": true,
+    "birth_date": 1894,
+    "death_date": 1967,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Poul Henningsen",
+            "Henningsen, Poul",
+            "Poul Henningsen"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:43:21-05:00",
+    "timestamp": "2023-09-24T02:00:32-05:00"
+}

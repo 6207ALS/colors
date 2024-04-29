@@ -1,0 +1,163 @@
+{
+    "id": 201914,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/201914",
+    "is_boosted": false,
+    "title": "Lewis Manilow House model",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAA4QCwkPEg0QEQwVGRMVFxQWFRIWGRIWGxUXGBQWGRAYGxUYGhkaGBgZGxwbGhoaHCMgGyokHDAoGTguHxUdIBoeIzYuIjIvLkQ4J0o8JUE5KlJQLF9UL15MO1xSMW5MIGBOLWROLnNIIHxPIm5QJnRVP21iPHJYQ3FkR4RWNIpnRpJsT62PYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwMbDMKAoAohC4nAppVYngIDRUY1Ios9GIwmBOCYPipVZEByQiAUzqQQBADs=",
+        "width": 3000,
+        "height": 1652,
+        "alt_text": "A work made of mixed media."
+    },
+    "main_reference_number": "2010.231",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Vinci-Hamp Architects (American, founded 1969)\nJohn Vinci (American, born 1937)\nPhilip Hamp (American, born 1953)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "42 \u00d7 107 \u00d7 81.6 cm (16 1/2 \u00d7 42 1/8 \u00d7 32 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 81.6,
+            "depth_in": 32.125,
+            "width_cm": 107,
+            "width_in": 42.125,
+            "height_cm": 42,
+            "height_in": 16.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Mixed media",
+    "inscriptions": null,
+    "credit_line": "Gift of Susan and Lewis Manilow",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 45.9902,
+    "color": {
+        "h": 40,
+        "l": 50,
+        "s": 61,
+        "percentage": 0.006647032355708266,
+        "population": 26
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Model",
+    "artwork_type_id": 20,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 27502,
+    "artist_title": "John Vinci",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        27502
+    ],
+    "artist_titles": [
+        "John Vinci"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural model",
+        "model"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-514",
+    "classification_title": "architectural model",
+    "alt_classification_ids": [
+        "TM-732"
+    ],
+    "classification_ids": [
+        "TM-514",
+        "TM-732"
+    ],
+    "classification_titles": [
+        "architectural model",
+        "model"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "085ff7c3-45c8-41b4-3076-ffe700b01918",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.231"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lewis Manilow House model"
+            ],
+            "weight": 80,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:24-05:00",
+    "updated_at": "2023-04-07T15:47:58-05:00",
+    "timestamp": "2023-09-24T01:40:24-05:00"
+}

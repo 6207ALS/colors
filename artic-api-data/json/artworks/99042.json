@@ -1,0 +1,167 @@
+{
+    "id": 99042,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/99042",
+    "is_boosted": false,
+    "title": "Kuntz House, Wayne, Illinois, Elevations",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAANfY5NbZ5NbZ5dfZ5tba5tvb59ne6d3e6uDf7N/g7d3i7d/i7N/h7uDi7uLi7+Tk7+Dk8OLn8+Tn8+fm8+Xr9ufr9unp9urq9uvq9+fu+ens+Ovs+PLx+/Lz/QAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdYLdZ04RxSwAABfJUEsQkzqUYhDAAR0ZFEYmmEQIAOw==",
+        "width": 3274,
+        "height": 2289,
+        "alt_text": "A work made of ink on polyester film."
+    },
+    "main_reference_number": "1982.1014",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1980,
+    "date_end": 1980,
+    "date_display": "1980",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Weese Seegers Hickey Weese (American, fl. 20th cent.)\nMargaret I. McCurry, Ltd. (American, 20th cent.)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "80 \u00d7 106 cm (31 1/2 \u00d7 41 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 106,
+            "width_in": 41.8125,
+            "height_cm": 80,
+            "height_in": 31.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on polyester film",
+    "inscriptions": null,
+    "credit_line": "Gift of Weese Seegers Hickey Weese",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.0437,
+    "color": {
+        "h": 218,
+        "l": 51,
+        "s": 10,
+        "percentage": 0.0048335740050390015,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 33084,
+    "artist_title": "Weese, Seegers, Hickey, Weese, Architects",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33084
+    ],
+    "artist_titles": [
+        "Weese, Seegers, Hickey, Weese, Architects"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "architecture",
+        "architectural drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103",
+        "TM-126"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture",
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "656ca6d4-d750-9102-40e6-53447656d14d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.1014"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Kuntz House, Wayne, Illinois, Elevations"
+            ],
+            "weight": 5,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:05-05:00",
+    "updated_at": "2023-04-10T11:42:25-05:00",
+    "timestamp": "2023-09-24T01:03:50-05:00"
+}

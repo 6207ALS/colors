@@ -1,0 +1,31 @@
+{
+    "id": 42147,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42147",
+    "title": "A. Wallis Mills",
+    "sort_title": "Mills, A. Wallis",
+    "alt_titles": [
+        "Arthur Wallis Mills"
+    ],
+    "is_artist": true,
+    "birth_date": 1878,
+    "death_date": 1940,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "A. Wallis Mills",
+            "Mills, A. Wallis",
+            "Arthur Wallis Mills"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:52-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

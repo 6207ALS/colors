@@ -1,0 +1,179 @@
+{
+    "id": 189226,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/189226",
+    "is_boosted": false,
+    "title": "Untitled (man on branch chair)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHVpV46BZJmLZYqAca+ieLKmgbClg7Wpg7erg7esh7+zhsC0jMG2kMq/kwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMClWSDNhHYEGGBEAOw==",
+        "width": 2038,
+        "height": 3000,
+        "alt_text": "A work made of albumen print."
+    },
+    "main_reference_number": "2006.668",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1850,
+    "date_end": 1900,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Artist unknown\nAmerican, 19th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 14.2 \u00d7 10.2 cm (5 5/8 \u00d7 4 1/16 in.); Card: 16.5 \u00d7 10.5 cm (6 1/2 \u00d7 4 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.2,
+            "width_in": 4.0158,
+            "height_cm": 14.2,
+            "height_in": 5.5906,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.5,
+            "width_in": 4.1339,
+            "height_cm": 16.5,
+            "height_in": 6.4961,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Card"
+        }
+    ],
+    "medium_display": "Albumen print",
+    "inscriptions": null,
+    "credit_line": "Gift of Helen Harvey Mills",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.8118,
+    "color": {
+        "h": 44,
+        "l": 67,
+        "s": 40,
+        "percentage": 0.27443142225446704,
+        "population": 2871
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 110752,
+    "artist_title": "Unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110752
+    ],
+    "artist_titles": [
+        "Unknown"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "19th century",
+        "photograph"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0d3a64cd-3f1c-d86e-9038-f855ba165449",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2006.668"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (man on branch chair)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-04-07T16:05:53-05:00",
+    "timestamp": "2023-09-24T01:36:28-05:00"
+}

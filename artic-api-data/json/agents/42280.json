@@ -1,0 +1,31 @@
+{
+    "id": 42280,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42280",
+    "title": "George Hanna Sabbagh",
+    "sort_title": "Sabbagh, George Hanna",
+    "alt_titles": [
+        "Georges-Hanna Sabbagh"
+    ],
+    "is_artist": true,
+    "birth_date": 1877,
+    "death_date": 1951,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Hanna Sabbagh",
+            "Sabbagh, George Hanna",
+            "Georges-Hanna Sabbagh"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:33:18-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

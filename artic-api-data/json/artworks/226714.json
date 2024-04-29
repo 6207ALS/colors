@@ -1,0 +1,188 @@
+{
+    "id": 226714,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/226714",
+    "is_boosted": false,
+    "title": "Pont Neuf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAANzXzN7Zz97b0d/b0d7b0uHc0eDc0uHd0uDd0+Le0+Dd1OPf1OLf1ePg1uPh1+Tg1uXh1uTh1+bi2efj2efj2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIGAgQ5A4TcNAhKBEDzVJUPE8yxECADs=",
+        "width": 2309,
+        "height": 2278,
+        "alt_text": "A work made of envelope, printed paper."
+    },
+    "main_reference_number": "2013.1440.8",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1969,
+    "date_end": 1969,
+    "date_display": "June 14, 1969",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Michael Kirby\nAmerican, born 1931",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Envelope: 31.8 \u00d7 31.8 cm (12 9/16 \u00d7 12 9/16 in.); Overall, insert: 32.4 \u00d7 28 cm (12 13/16 \u00d7 11 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 31.8,
+            "width_in": 12.5197,
+            "height_cm": 31.8,
+            "height_in": 12.5197,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Envelope"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 28,
+            "width_in": 11.0237,
+            "height_cm": 32.4,
+            "height_in": 12.756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Overall, insert"
+        }
+    ],
+    "medium_display": "Envelope, printed paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Dirk Denison",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.9915,
+    "color": {
+        "h": 43,
+        "l": 50,
+        "s": 8,
+        "percentage": 0.001425768774523223,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 113360,
+    "artist_title": "Michael Kirby",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        113360
+    ],
+    "artist_titles": [
+        "Michael Kirby"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "print",
+        "paper (fiber product)",
+        "Pop Art",
+        "mixed media",
+        "sculpture"
+    ],
+    "style_id": "TM-7221",
+    "style_title": "Pop Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7221"
+    ],
+    "style_titles": [
+        "Pop Art"
+    ],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-10366",
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-10366",
+        "TM-13"
+    ],
+    "classification_titles": [
+        "print",
+        "mixed media",
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dbd37243-8043-1a9c-d718-19898ce8cd61",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.1440.8"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pont Neuf"
+            ],
+            "weight": 21,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:13:18-05:00",
+    "timestamp": "2023-09-24T01:47:56-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 41208,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/41208",
+    "is_boosted": false,
+    "title": "The Presentation in the Temple",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABMTExUVFRcXFxoaGhsbGx4eHh8fHy4uLkRERE9PT1JSUmBgYGZmZm1tbXFxcXR0dIaGhpubm5+fnwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURoBQhjQE5grI8yVEQAwMETAgAOw==",
+        "width": 1727,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1972.1133",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1707,
+    "date_end": 1768,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Stefano Pozzi\nItalian, c. 1699-1768",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "118 \u00d7 90 cm (46 1/2 \u00d7 35 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 90,
+            "width_in": 35.5,
+            "height_cm": 118,
+            "height_in": 46.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Louise B. and Frank H. Woods Purchase Fund Income",
+    "catalogue_display": null,
+    "publication_history": "Claudio Strinati and Rossella Vodret, Palazzo Chigi (Milan, 2001), pp. 103, 110.",
+    "exhibition_history": null,
+    "provenance_text": "Possibly Palazzo Chigi a Piazza Colonna, Rome [see Claudio Strinati and Rossella Vodret 2001, pp. 103 and 110].  Heim Gallery, London, by 1972; purchased by Art Institute, 1972.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 47,
+        "s": 0,
+        "percentage": 0.025496589291000356,
+        "population": 236
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 36264,
+    "artist_title": "Stefano Pozzi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36264
+    ],
+    "artist_titles": [
+        "Stefano Pozzi"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "749250e6-883e-d22b-4cf4-621e22b5178d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.1133"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Presentation in the Temple"
+            ],
+            "weight": 259,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:24:19-05:00",
+    "timestamp": "2023-09-24T00:38:17-05:00"
+}

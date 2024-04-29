@@ -1,0 +1,168 @@
+{
+    "id": 100246,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/100246",
+    "is_boosted": false,
+    "title": "Interior Column from the Winston Block, Chicago, Illinois",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAQAFAPIAAI+KhrCpn7WwqL+9uMfHxQAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEGDIECQA7",
+        "width": 595,
+        "height": 2250,
+        "alt_text": "A work made of painted cast iron."
+    },
+    "main_reference_number": "1983.260",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1872,
+    "date_end": 1872,
+    "date_display": "1872",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Frederick H. Baumann (American, born Germany, 1826-1921) \nEdward Baumann (American, born Germany, 1828-1889)",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "376 \u00d7 50.7 \u00d7 50.7 cm (148 1/16 \u00d7 20 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 50.7,
+            "depth_in": 19.9607,
+            "width_cm": 50.7,
+            "width_in": 19.9607,
+            "height_cm": 376,
+            "height_in": 148.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Painted cast iron",
+    "inscriptions": null,
+    "credit_line": "Department of Architecture Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.4699,
+    "color": {
+        "h": 155,
+        "l": 65,
+        "s": 0,
+        "percentage": 0.0024186190503831836,
+        "population": 65
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 200",
+    "gallery_id": 2147477218,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural fragment",
+    "artwork_type_id": 19,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 1818,
+    "artist_title": "Frederick H. Baumann",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1818
+    ],
+    "artist_titles": [
+        "Frederick H. Baumann"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural fragment",
+        "Chicago",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-184",
+    "classification_title": "architectural fragment",
+    "alt_classification_ids": [
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-184",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "architectural fragment",
+        "architecture"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5d928d3d-54a4-a5af-daa4-9e685bec5b4a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1983.260"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Interior Column from the Winston Block, Chicago, Illinois"
+            ],
+            "weight": 82,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-18T09:11:43-05:00",
+    "updated_at": "2023-07-18T09:15:56-05:00",
+    "timestamp": "2023-09-24T01:04:40-05:00"
+}

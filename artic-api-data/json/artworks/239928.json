@@ -1,0 +1,204 @@
+{
+    "id": 239928,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/239928",
+    "is_boosted": false,
+    "title": "Gilbert: The Future's Paper Poster",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGxpX4d/box7eZF/cp57f5OJd6eJcqyYd6Caf4iCgI+GjJuJgJqPhrmfhqKdmwAAACH5BAAAAAAALAAAAAADAAUAAAQLsJnjRFFpMTBQIBEAOw==",
+        "width": 4765,
+        "height": 7006,
+        "alt_text": "A work made of offset lithograph on white wove paper."
+    },
+    "main_reference_number": "2017.492",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1994,
+    "date_end": 1994,
+    "date_display": "1994",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Rick Valicenti \nAmerican, born 1951",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "91 \u00d7 61 cm (35 7/8 \u00d7 24 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 61,
+            "width_in": 24.0625,
+            "height_cm": 91,
+            "height_in": 35.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Offset lithograph on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Rick Valicenti",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 44.2611,
+    "color": {
+        "h": 58,
+        "l": 43,
+        "s": 58,
+        "percentage": 0.013403837518681598,
+        "population": 140
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 112565,
+    "artist_title": "Rick Valicenti",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112565
+    ],
+    "artist_titles": [
+        "Rick Valicenti"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "lithograph",
+        "graphic design",
+        "20th Century",
+        "future",
+        "paper (fiber product)",
+        "wove paper",
+        "visual works",
+        "design",
+        "abstract shapes",
+        "poster",
+        "graphic design"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-12308",
+    "classification_title": "graphic design",
+    "alt_classification_ids": [
+        "TM-12309",
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-12308",
+        "TM-12309",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "graphic design",
+        "visual works",
+        "design"
+    ],
+    "subject_id": "TM-12725",
+    "alt_subject_ids": [
+        "TM-12708",
+        "TM-13641",
+        "TM-13337"
+    ],
+    "subject_ids": [
+        "TM-12725",
+        "TM-12708",
+        "TM-13641",
+        "TM-13337"
+    ],
+    "subject_titles": [
+        "future",
+        "abstract shapes",
+        "poster",
+        "graphic design"
+    ],
+    "material_id": "TM-13141",
+    "alt_material_ids": [
+        "TM-2982",
+        "TM-3074"
+    ],
+    "material_ids": [
+        "TM-13141",
+        "TM-2982",
+        "TM-3074"
+    ],
+    "material_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b5cc9f1f-e9a9-3537-4ce0-84ae40439927",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.492"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Gilbert: The Future's Paper Poster"
+            ],
+            "weight": 5,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-03T13:54:48-05:00",
+    "updated_at": "2023-06-02T17:47:41-05:00",
+    "timestamp": "2023-09-24T01:53:07-05:00"
+}

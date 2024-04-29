@@ -1,0 +1,176 @@
+{
+    "id": 128698,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/128698",
+    "is_boosted": false,
+    "title": "Untitled Valentine (Bouquet)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAANTOqtrQq9jRrdrRrNnRr9zUrtvUsd/WsuDZtOHZteHat+Lcu+Teu+fgwOrjwQAAACH5BAAAAAAALAAAAAADAAUAAAQL0K3GjEKgJDEOCREAOw==",
+        "width": 1930,
+        "height": 3000,
+        "alt_text": "A work made of collaged elements and watercolor on cut and embossed ivory wove paper (lace)."
+    },
+    "main_reference_number": "1986.487",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1855,
+    "date_end": 1860,
+    "date_display": "1855/60",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "George Kershaw\nEnglish, 19th century",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Folded sheet: 19.4 \u00d7 12.3 cm (7 11/16 \u00d7 4 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.3,
+            "width_in": 4.8426,
+            "height_cm": 19.4,
+            "height_in": 7.6378,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Folded sheet"
+        }
+    ],
+    "medium_display": "Collaged elements and watercolor on cut and embossed ivory wove paper (lace)",
+    "inscriptions": null,
+    "credit_line": "Bequest of Paul E. Pearson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1987,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.2045,
+    "color": {
+        "h": 143,
+        "l": 32,
+        "s": 81,
+        "percentage": 0.0011771843561254336,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 100449,
+    "artist_title": "George Kershaw",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        100449
+    ],
+    "artist_titles": [
+        "George Kershaw"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "collage",
+        "paper (fiber product)",
+        "valentine",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-391",
+    "classification_title": "collage",
+    "alt_classification_ids": [
+        "TM-563",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-391",
+        "TM-563",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "collage",
+        "valentine",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a2f8cdd8-44f6-253a-3303-cc597929c985",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.487"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled Valentine (Bouquet)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-04-10T10:30:43-05:00",
+    "timestamp": "2023-09-24T01:18:14-05:00"
+}

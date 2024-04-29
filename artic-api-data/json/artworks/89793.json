@@ -1,0 +1,181 @@
+{
+    "id": 89793,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/89793",
+    "is_boosted": false,
+    "title": "Apostle Spoon: The Master",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAMnEv9XS0NfU0tnW1NnX1dnX19rZ19va2dva2tvb29zZ2d3c3d7d3d/f3+Dg4AAAACH5BAAAAAAALAAAAAADAAUAAAQL0KnVxmHCIEBSKBEAOw==",
+        "width": 1186,
+        "height": 2250,
+        "alt_text": "A work made of silver; figure gilded."
+    },
+    "main_reference_number": "1940.40",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1628,
+    "date_end": 1629,
+    "date_display": "1628/29",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "London, England",
+    "place_of_origin": "London",
+    "description": null,
+    "dimensions": "18.3 \u00d7 5.2 cm (7 3/16 \u00d7 2 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5.2,
+            "width_in": 2.0625,
+            "height_cm": 18.3,
+            "height_in": 7.1875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silver; figure gilded",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Stanley Keith",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1940,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.6868,
+    "color": {
+        "h": 40,
+        "l": 49,
+        "s": 12,
+        "percentage": 0.0003709317136970986,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "silver",
+        "silver",
+        "nonferrous metal",
+        "metal",
+        "inorganic material",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-161",
+    "classification_title": "silver",
+    "alt_classification_ids": [
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-161",
+        "TM-29",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "silver",
+        "metalwork",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2436",
+    "alt_material_ids": [
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2436",
+        "TM-2683",
+        "TM-2568",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "silver",
+        "nonferrous metal",
+        "metal",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ab31536f-1fda-2ce9-81c0-63d478d449c7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1940.40"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Apostle Spoon: The Master"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:43:42-05:00",
+    "timestamp": "2023-09-24T00:59:33-05:00"
+}

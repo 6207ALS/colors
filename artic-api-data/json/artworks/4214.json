@@ -1,0 +1,166 @@
+{
+    "id": 4214,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/4214",
+    "is_boosted": false,
+    "title": "The Prophet Moses",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHZsYIR6bo2DdpeMfpePgJqQgZuSg56ThqSYi6Sai6eejq6jlK2kla6klbKqmr60pMG3psG4qM7GtdPJtwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4ARF0pMozmIQzCEUzQAESAgAOw==",
+        "width": 2227,
+        "height": 3000,
+        "alt_text": "A work made of engraving printed in gray-black on ivory laid paper."
+    },
+    "main_reference_number": "1956.987",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1470,
+    "date_end": 1470,
+    "date_display": "c. 1470",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Attributed to Baccio Baldini\nItalian, c. 1436-1487",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "Sheet, trimmed within plate: 14.2 \u00d7 10.4 cm (5 5/8 \u00d7 4 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.4,
+            "width_in": 4.0945,
+            "height_cm": 14.2,
+            "height_in": 5.5906,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, trimmed within plate"
+        }
+    ],
+    "medium_display": "Engraving printed in gray-black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Potter Palmer, Jr.",
+    "catalogue_display": "<p>Hind C.I.3A III/III</p><p>Bartsch XIII.165.3</p><p>Bartsch, illustrated 2403.054 III/III</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1949,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.877,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 49048,
+    "artist_title": "Baccio Baldini",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        49048
+    ],
+    "artist_titles": [
+        "Baccio Baldini"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "18b073ef-6882-9960-5a2a-4f99f39c044a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.987"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Prophet Moses"
+            ],
+            "weight": 421,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-04-10T15:00:06-05:00",
+    "timestamp": "2023-09-24T00:22:07-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 199777,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/199777",
+    "is_boosted": false,
+    "title": "Guerrilla Girls' Pop Quiz",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAH97e4iFhY2KiZuYl7Wysrm2tru4uMK/vsPAwMbEw8vJyM3LyczKys7My8/MzNLP0NLQ0NXT0tfV1NjX1dnX1dvY2NvZ2Nza2t/c3Ono5u3r6/Ty8vb19AAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4BMAwoBdjEFIHFIkzmFVUCNN2aZFykKFADs=",
+        "width": 3000,
+        "height": 2341,
+        "alt_text": "A work made of offset lithograph on white wove paper."
+    },
+    "main_reference_number": "2009.148",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1990,
+    "date_end": 1990,
+    "date_display": "1990",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Guerrilla Girls\nAmerican, founded 1985",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "43.3 \u00d7 55.7 cm (17 1/16 \u00d7 21 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.7,
+            "width_in": 21.9292,
+            "height_cm": 43.3,
+            "height_in": 17.0473,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Offset lithograph on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous Gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.7754,
+    "color": {
+        "h": 0,
+        "l": 58,
+        "s": 3,
+        "percentage": 0.021272990153129473,
+        "population": 118
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 56272,
+    "artist_title": "Guerrilla Girls",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        56272
+    ],
+    "artist_titles": [
+        "Guerrilla Girls"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "offset lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-689",
+    "classification_title": "offset lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-689",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "offset lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "aa7624a3-06b8-4173-8e6f-c8c10d2e92bc",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.148"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Guerrilla Girls' Pop Quiz"
+            ],
+            "weight": 500,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:50:59-05:00",
+    "timestamp": "2023-09-24T01:39:48-05:00"
+}

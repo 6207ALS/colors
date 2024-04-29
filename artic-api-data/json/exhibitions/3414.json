@@ -1,0 +1,38 @@
+{
+    "id": 3414,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3414",
+    "title": "First Annual Exhibition of the Art Institute and Opening",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1883-01-13T00:00:00-05:50",
+    "aic_end_at": "1883-03-12T00:00:00-05:50",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "d5f552d1-2c87-643a-ca46-d6d2bc24c6fd"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "First Annual Exhibition of the Art Institute and Opening"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:36-06:00",
+    "timestamp": "2023-09-24T02:01:11-05:00"
+}

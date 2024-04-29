@@ -1,0 +1,188 @@
+{
+    "id": 100018,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/100018",
+    "is_boosted": false,
+    "title": "Stupa Reliquary",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAExAMGJeXWtoZm1paHlzaXdzcHd0dIN/fpmTjaKfnqempa+qpq6rqbOxrrq3tAAAACH5BAAAAAAALAAAAAADAAUAAAQLcIhwilEkMbAcahEAOw==",
+        "width": 4860,
+        "height": 7290,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1982.2100",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1101,
+    "date_end": 1200,
+    "date_display": "Polonnaruva period, 12th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Sri Lanka",
+    "place_of_origin": "Sri Lanka",
+    "description": null,
+    "dimensions": "11.5 \u00d7 6.4 \u00d7 6.4 cm (4 1/2 \u00d7 2 1/2 \u00d7 2 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 6.4,
+            "depth_in": 2.5,
+            "width_cm": 6.4,
+            "width_in": 2.5,
+            "height_cm": 11.5,
+            "height_in": 4.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Lawrence R. Phillips",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.8689,
+    "color": {
+        "h": 110,
+        "l": 46,
+        "s": 30,
+        "percentage": 9.384807123444e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Religious/Ritual Object",
+    "artwork_type_id": 24,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "bronze",
+        "reliquary",
+        "South Asian",
+        "container",
+        "bronze",
+        "metal",
+        "asian art",
+        "ritual objects"
+    ],
+    "style_id": "TM-5344",
+    "style_title": "South Asian",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5344"
+    ],
+    "style_titles": [
+        "South Asian"
+    ],
+    "classification_id": "TM-748",
+    "classification_title": "reliquary",
+    "alt_classification_ids": [
+        "TM-297",
+        "TM-28",
+        "TM-33",
+        "TM-26",
+        "TM-12318"
+    ],
+    "classification_ids": [
+        "TM-748",
+        "TM-297",
+        "TM-28",
+        "TM-33",
+        "TM-26",
+        "TM-12318"
+    ],
+    "classification_titles": [
+        "reliquary",
+        "container",
+        "bronze",
+        "metal",
+        "asian art",
+        "ritual objects"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a8897820-9b75-e538-2e20-8be9b282ae16",
+    "alt_image_ids": [
+        "0032c3d1-d7da-c657-4680-22892042daf4",
+        "ff6cd0a0-792f-60f2-5bbe-3140809fcf1d"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.2100"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Stupa Reliquary"
+            ],
+            "weight": 307,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:06-05:00",
+    "updated_at": "2023-04-10T11:39:07-05:00",
+    "timestamp": "2023-09-24T01:04:30-05:00"
+}

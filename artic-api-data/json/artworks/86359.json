@@ -1,0 +1,167 @@
+{
+    "id": 86359,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/86359",
+    "is_boosted": false,
+    "title": "Myoko Hot Spring",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJuXhZyYiJ6bi6ikk6yolK6rma+rma6rmrGsm7Gtm7aynrq1osK8qcnFs8/KtgAAACH5BAAAAAAALAAAAAADAAUAAAQLkC2kCDimpCFcCxEAOw==",
+        "width": 2034,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print; oban."
+    },
+    "main_reference_number": "1956.1238",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1955,
+    "date_end": 1955,
+    "date_display": "1955",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Yoshida Toshi\nJapanese, 1911-1995",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "40.3 \u00d7 27.4 cm (15 7/8 \u00d7 10 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27.4,
+            "width_in": 10.75,
+            "height_cm": 40.3,
+            "height_in": 15.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; oban",
+    "inscriptions": null,
+    "credit_line": "Gift of Margaret Gentles",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.108,
+    "color": {
+        "h": 49,
+        "l": 47,
+        "s": 14,
+        "percentage": 0.013933305275855583,
+        "population": 146
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 36997,
+    "artist_title": "Yoshida Toshi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36997
+    ],
+    "artist_titles": [
+        "Yoshida Toshi"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d0829ccf-8303-c690-54fd-afc82c80dc1d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.1238"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Myoko Hot Spring"
+            ],
+            "weight": 16,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:07:02-05:00",
+    "timestamp": "2023-09-24T00:58:15-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 88105,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/88105",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEdAP1RQUlRRVGFgZKmqraqrrrq7v8bGydjX2NnZ2tra293d3+nq6unq6+vs6+zs7PDw8fHx8ff39vz7+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYJQgzlQQEjQIDxMASnMYSwgAOw==",
+        "width": 1696,
+        "height": 2250,
+        "alt_text": "A work made of earthenware."
+    },
+    "main_reference_number": "1907.247",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1896,
+    "date_end": 1896,
+    "date_display": "1896",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Albert Robert Valentien for Rookwood Pottery\nAmerican, 1862\u20131925",
+    "place_of_origin": "Cincinnati",
+    "description": null,
+    "dimensions": "19 \u00d7 (diam. top) 5.1 \u00d7 (diam. base) 6.3 cm (7 1/2 \u00d7 2 \u00d7 2 1/2 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Earthenware",
+    "inscriptions": null,
+    "credit_line": "Field Museum Exchange",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.1401,
+    "color": {
+        "h": 234,
+        "l": 43,
+        "s": 2,
+        "percentage": 0.04116824442902404,
+        "population": 388
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 37084,
+    "artist_title": "Albert Robert Valentien",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37084
+    ],
+    "artist_titles": [
+        "Albert Robert Valentien"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "vase",
+        "earthenware",
+        "earthenware",
+        "american decorative arts",
+        "american arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-2190",
+        "TM-2191",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-74",
+        "TM-2190",
+        "TM-2191",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "vase",
+        "earthenware",
+        "american decorative arts",
+        "american arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "012ce3fc-8646-3643-81ec-bebf8b01baa7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1907.247"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 126,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:01:04-05:00",
+    "timestamp": "2023-09-24T00:58:53-05:00"
+}

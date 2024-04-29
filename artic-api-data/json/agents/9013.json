@@ -1,0 +1,33 @@
+{
+    "id": 9013,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9013",
+    "title": "Hester Frood",
+    "sort_title": "Frood, Hester",
+    "alt_titles": [
+        "Helen Frood",
+        "Hester (Gwynne-Evans) Frood"
+    ],
+    "is_artist": true,
+    "birth_date": 1882,
+    "death_date": 1971,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hester Frood",
+            "Frood, Hester",
+            "Helen Frood",
+            "Hester (Gwynne-Evans) Frood"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:47-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 76380,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/76380",
+    "is_boosted": false,
+    "title": "Evening, Navajo Country",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADIyLDk4MUhHPUlIPk1KPmhkU2hkVXZwXnt2ZJmTf5+XfqOekqegkKWhlKailqqjk6ijl6+okKikmLCplrKrm7OsmbqzpLu1qcS8q8vDs9PKudDJu9vSwNjRxAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoMZM1cNRRKEcmGUgUZJJwCAE17Y0DtSFADs=",
+        "width": 3000,
+        "height": 2559,
+        "alt_text": "A work made of drypoint on cream laid paper."
+    },
+    "main_reference_number": "1990.163.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1879,
+    "date_end": 1939,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "George Elbert Burr\nAmerican, 1859-1939",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Plate: 24.9 \u00d7 30 cm (9 13/16 \u00d7 11 13/16 in.); Sheet: 34 \u00d7 39.4 cm (13 7/16 \u00d7 15 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30,
+            "width_in": 11.8111,
+            "height_cm": 24.9,
+            "height_in": 9.8032,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 39.4,
+            "width_in": 15.5119,
+            "height_cm": 34,
+            "height_in": 13.3859,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Drypoint on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Jamee J. and Marshall Field",
+    "catalogue_display": "<p>Seeber 293</p><p>Millier 293</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1990,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.3169,
+    "color": {
+        "h": 47,
+        "l": 52,
+        "s": 12,
+        "percentage": 0.03761649978469503,
+        "population": 228
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33817,
+    "artist_title": "George Elbert Burr",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33817
+    ],
+    "artist_titles": [
+        "George Elbert Burr"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ad9643f8-aa0e-24b0-6a4d-536ab5a6f048",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1990.163.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Evening, Navajo Country"
+            ],
+            "weight": 51,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:35:09-05:00",
+    "timestamp": "2023-09-24T00:53:10-05:00"
+}

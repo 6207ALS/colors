@@ -1,0 +1,180 @@
+{
+    "id": 47299,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47299",
+    "is_boosted": false,
+    "title": "Cologne Bottle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGxaI3VnVoF1WIV8Y4aBdoiDeKCTaYyKi4uLj4yMj5aMgIyNkIyNkZCPkpCQlZGQlZGSl6Cgp6qmoq2qpqKiqbS2vLm6wL6/w8LDxgAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIJIcC+M8QQNFhFFQlQAM1iUpExYCADs=",
+        "width": 2310,
+        "height": 2250,
+        "alt_text": "A work made of favrile glass."
+    },
+    "main_reference_number": "1974.279a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1919,
+    "date_end": 1919,
+    "date_display": "1919",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tiffany and Company\nAmerican, founded 1837\nNew York",
+    "place_of_origin": "New York City",
+    "description": null,
+    "dimensions": "12.7 \u00d7 10.8 cm (5 \u00d7 4 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.8,
+            "width_in": 4.25,
+            "height_cm": 12.7,
+            "height_in": 5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Favrile Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Frederick Castle in memory of her parents Vacia and Charles D. Duncan",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.9828,
+    "color": {
+        "h": 41,
+        "l": 59,
+        "s": 48,
+        "percentage": 0.004334614934482296,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36977,
+    "artist_title": "Tiffany and Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36977
+    ],
+    "artist_titles": [
+        "Tiffany and Company"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "bottle",
+        "glass",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11808",
+    "classification_title": "bottle",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11808",
+        "TM-85",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "bottle",
+        "glass",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "736022aa-0d14-a8e4-9d49-91c9e11d4ead",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1974.279a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cologne Bottle"
+            ],
+            "weight": 16,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T11:59:45-05:00",
+    "timestamp": "2023-09-24T00:41:03-05:00"
+}

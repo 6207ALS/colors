@@ -1,0 +1,35 @@
+{
+    "id": 40646,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40646",
+    "title": "Laura Knight",
+    "sort_title": "Knight, Laura",
+    "alt_titles": [
+        "Laura Johnson Knight",
+        "Dame Laura Knight",
+        "Dame Laura Knight, (n\u00e9e Johnson)"
+    ],
+    "is_artist": true,
+    "birth_date": 1877,
+    "death_date": 1970,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Laura Knight",
+            "Knight, Laura",
+            "Laura Johnson Knight",
+            "Dame Laura Knight",
+            "Dame Laura Knight, (n\u00e9e Johnson)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-26T09:35:26-05:00",
+    "updated_at": "2022-03-15T16:41:41-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

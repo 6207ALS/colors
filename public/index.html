@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Colorful</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="./assets/stylesheets/index.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.8/handlebars.min.js"></script>
+		<script type="module" src="./assets/javascripts/app.js"></script>
+	</head>
+	<body>
+		<header>Colorful</header>
+		<main>
+			<form id="color-selector">
+				<fieldset>
+					<label for="hue-value">Hue:</label>
+					<input id="hue-value" type="number" min="0" max="360">
+	
+					<label for="saturation-value">Saturation:</label>
+					<input id="saturation-value" type="number" min="0" max="360">
+	
+					<label for="lightness-value">Lightness:</label>
+					<input id="lightness-value" type="number" min="0" max="360">
+				</fieldset>
+
+				<input type="submit">
+			</form>
+
+			<div id="images-container"></div>
+		</main>
+
+		
+		<script id="images" data-type="template" type="text/x-handlebars">
+			{{#each ids}}
+			<img src="https://www.artic.edu/iiif/2/{{this}}/full/200,/0/default.jpg" onerror="this.remove()">
+			{{/each}}
+		</script>
+
+	</body>
+</html>

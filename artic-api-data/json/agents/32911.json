@@ -1,0 +1,37 @@
+{
+    "id": 32911,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32911",
+    "title": "School of the Art Institute of Chicago",
+    "sort_title": "School of the Art Institute of Chicago",
+    "alt_titles": [
+        "S.A.I.C.",
+        "SAIC",
+        "Art Institute of Chicago. School",
+        "Chicago. Art Institute. Art School"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "School of the Art Institute of Chicago",
+            "School of the Art Institute of Chicago",
+            "S.A.I.C.",
+            "SAIC",
+            "Art Institute of Chicago. School",
+            "Chicago. Art Institute. Art School"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:52:19-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

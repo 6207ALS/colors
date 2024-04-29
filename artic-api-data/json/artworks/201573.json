@@ -1,0 +1,163 @@
+{
+    "id": 201573,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/201573",
+    "is_boosted": false,
+    "title": "ES Shelf",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAANfVzuLe2OTh3OXj3+bj3+fk3/r5+Pv6+vv7+vv7+/39/P7+/f7+/v///wAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAQOsBnUmiiVhNUGUE1yMBEAOw==",
+        "width": 2448,
+        "height": 3264,
+        "alt_text": "A work made of beech wood."
+    },
+    "main_reference_number": "2009.620",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1999,
+    "date_end": 1999,
+    "date_display": "1999",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Konstantin Grcic (German, born 1965)\nManufactured by Moormann (German, founded 1982)",
+    "place_of_origin": "Germany",
+    "description": "<p>The ES Shelf is an intriguing design that requires the user to take a leap of faith. At first glance, the bookshelf looks unfinished, perhaps even broken: the four shelves lean at awkward angles and appear unstable, as though they could not support anything for long. Once books are placed on the shelves, however, the poles that support the system stabilize and demonstrate the object\u2019s ultimate fulfillment of its purpose. For Grcic, the ES Shelf was a statement of principle, illustrating that \u201cit\u2019s exaggerated to use technology that serves to build bridges just to hold up a few books, when a handful of sticks and the odd shelf will do.\u201d</p>\n",
+    "dimensions": "152.4 \u00d7 45.7 \u00d7 5 cm (60 \u00d7 18 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 5,
+            "depth_in": 2,
+            "width_cm": 45.7,
+            "width_in": 18,
+            "height_cm": 152.4,
+            "height_in": 60,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Beech wood",
+    "inscriptions": null,
+    "credit_line": "Gift of Nils Holger Moormann GmbH",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 Nils Holger Moormann GmbH.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.55,
+    "color": {
+        "h": 59,
+        "l": 62,
+        "s": 3,
+        "percentage": 0.017941346571936356,
+        "population": 170
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Design",
+    "artwork_type_id": 31,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 104625,
+    "artist_title": "Konstantin Grcic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        104625
+    ],
+    "artist_titles": [
+        "Konstantin Grcic"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "wood",
+        "design"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-84",
+    "classification_title": "wood",
+    "alt_classification_ids": [
+        "TM-13174"
+    ],
+    "classification_ids": [
+        "TM-84",
+        "TM-13174"
+    ],
+    "classification_titles": [
+        "wood",
+        "design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "50bb87c0-93bb-02ce-a99e-01ab4bc6d2ca",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.620"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "ES Shelf"
+            ],
+            "weight": 38,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:24-05:00",
+    "updated_at": "2023-04-07T15:48:27-05:00",
+    "timestamp": "2023-09-24T01:40:18-05:00"
+}

@@ -1,0 +1,176 @@
+{
+    "id": 237887,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/237887",
+    "is_boosted": false,
+    "title": "The Game",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAB1xXCV5Y1mdiHCmjVShroaxkZy5mZS+rKHEpbTLqMHSntfQq9DPsczQsuTPqAAAACH5BAAAAAAALAAAAAADAAUAAAQL0KWFVAkGCDLYaREAOw==",
+        "width": 1661,
+        "height": 3000,
+        "alt_text": "A work made of collage of cut and pasted colored silk fabrics, with traces of graphite outlines, on cream silk fabric, laid down on paper board."
+    },
+    "main_reference_number": "2017.137",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1950,
+    "date_end": 1959,
+    "date_display": "1950s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Heidi Bucher\nSwiss, 1926-1993",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "26 \u00d7 14 cm (10 1/4 \u00d7 5 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14,
+            "width_in": 5.5119,
+            "height_cm": 26,
+            "height_in": 10.2363,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Collage of cut and pasted colored silk fabrics, with traces of graphite outlines, on cream silk fabric, laid down on paper board",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by an anonymous donor",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 50.4948,
+    "color": {
+        "h": 192,
+        "l": 46,
+        "s": 65,
+        "percentage": 0.006386844968684987,
+        "population": 82
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 115166,
+    "artist_title": "Heidi Bucher",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115166
+    ],
+    "artist_titles": [
+        "Heidi Bucher"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-13"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "collage",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-391",
+    "classification_title": "collage",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-391",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "collage",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "04dea722-6bce-09e1-9bf2-c35c2da8f53f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.137"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Game"
+            ],
+            "weight": 3,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:00:33-05:00",
+    "timestamp": "2023-09-24T01:52:28-05:00"
+}

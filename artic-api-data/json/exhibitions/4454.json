@@ -1,0 +1,38 @@
+{
+    "id": 4454,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4454",
+    "title": "Paintings by George Gardner Symons",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1910-04-05T00:00:00-06:00",
+    "aic_end_at": "1910-05-01T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "8dd7a785-2979-dfe8-1a91-c065eb88a3d0"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by George Gardner Symons"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:59-06:00",
+    "timestamp": "2023-09-24T02:01:24-05:00"
+}

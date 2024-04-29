@@ -1,0 +1,180 @@
+{
+    "id": 40259,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/40259",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADUmHlJRUVhWVllYU15cV2NSSWJdVWJhW21qY3lzaHt7e359foaEhJmWlaCfnqimpa6sq8XFxsjGxNTV1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDAQgnIgi2MkDwQUUsQ0UwgAOw==",
+        "width": 1599,
+        "height": 2250,
+        "alt_text": "A work made of earthenware with lustre decoration."
+    },
+    "main_reference_number": "1972.822",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1890,
+    "date_end": 1900,
+    "date_display": "1890/1900",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England\nProbably made by William De Morgan (English, 1839-1917)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "23.3 \u00d7 15.2 cm (9 3/16 \u00d7 6 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.2,
+            "width_in": 6,
+            "height_cm": 23.3,
+            "height_in": 9.1875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware with lustre decoration",
+    "inscriptions": null,
+    "credit_line": "Gift of Ada K. Rew in memory of her parents, Mr. and Mrs. Irwin Rew",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.3502,
+    "color": {
+        "h": 39,
+        "l": 68,
+        "s": 40,
+        "percentage": 0.001800363673462039,
+        "population": 18
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 6258,
+    "artist_title": "William De Morgan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        6258
+    ],
+    "artist_titles": [
+        "William De Morgan"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "vase",
+        "earthenware",
+        "earthenware",
+        "vessel",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-74",
+        "TM-27",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-74",
+        "TM-27",
+        "TM-1394",
+        "TM-46"
+    ],
+    "classification_titles": [
+        "vase",
+        "earthenware",
+        "vessel",
+        "european decorative arts",
+        "ceramics"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "66187ba8-f9ad-fb14-8e75-781d56f3975a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.822"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 132,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:06-05:00",
+    "updated_at": "2023-06-07T09:55:14-05:00",
+    "timestamp": "2023-09-24T00:37:57-05:00"
+}

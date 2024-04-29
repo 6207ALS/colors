@@ -1,0 +1,38 @@
+{
+    "id": 5114,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5114",
+    "title": "American Paintings and Sculpture 34th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1921-11-03T00:00:00-06:00",
+    "aic_end_at": "1921-12-11T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "346c00fa-b728-d36a-9e03-2b23900cbaf9"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Paintings and Sculpture 34th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:19:51-06:00",
+    "timestamp": "2023-09-24T02:01:31-05:00"
+}

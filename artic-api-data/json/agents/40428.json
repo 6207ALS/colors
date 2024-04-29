@@ -1,0 +1,45 @@
+{
+    "id": 40428,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40428",
+    "title": "Jacopo Bassano",
+    "sort_title": "Bassano, Jacopo",
+    "alt_titles": [
+        "Giacomo Bassano",
+        "Giacomo da Ponte",
+        "Jacopo dal Ponte, (il Bassano)",
+        "Jacopo da Ponte",
+        "Jacopo da Ponte",
+        "Giacomo da Ponte",
+        "Il Bassano",
+        "Jacopo Bassano, (Jacopo da Ponte)"
+    ],
+    "is_artist": true,
+    "birth_date": 1505,
+    "death_date": 1592,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacopo Bassano",
+            "Bassano, Jacopo",
+            "Giacomo Bassano",
+            "Giacomo da Ponte",
+            "Jacopo dal Ponte, (il Bassano)",
+            "Jacopo da Ponte",
+            "Jacopo da Ponte",
+            "Giacomo da Ponte",
+            "Il Bassano",
+            "Jacopo Bassano, (Jacopo da Ponte)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:29-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

@@ -1,0 +1,188 @@
+{
+    "id": 139934,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/139934",
+    "is_boosted": false,
+    "title": "Fabula",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKynnq2pn6yooKypoK6qoa6qorGupbKvprayp7ezp7OwqbSyq7m1qL26rb26sAAAACH5BAAAAAAALAAAAAADAAUAAAQLULll2hFpBEYAKhEAOw==",
+        "width": 3449,
+        "height": 6779,
+        "alt_text": "A work made of cotton, satin damask weave."
+    },
+    "main_reference_number": "1995.164",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1993,
+    "date_end": 1993,
+    "date_display": "1993",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Renate Weisz (German, born 1944)\nProduced by Zimmer + Rohde\nGermany, Oberursel",
+    "place_of_origin": "Oberursel",
+    "description": null,
+    "dimensions": "309.3 \u00d7 141.5 cm (121 3/4 \u00d7 55 3/4 in.); Repeat: 66.3 \u00d7 55.2 cm (26 1/8 \u00d7 21 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 141.5,
+            "width_in": 55.75,
+            "height_cm": 309.3,
+            "height_in": 121.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.2,
+            "width_in": 21.75,
+            "height_cm": 66.3,
+            "height_in": 26.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Cotton, satin damask weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Zimmer + Rohde GmbH + Co KG",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1996,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.6864,
+    "color": {
+        "h": 41,
+        "l": 51,
+        "s": 6,
+        "percentage": 0.01682355526824264,
+        "population": 235
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 48004,
+    "artist_title": "Renate Weisz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        48004
+    ],
+    "artist_titles": [
+        "Renate Weisz"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "satin damask weaving",
+        "cotton (textile)",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2578",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2578"
+    ],
+    "material_titles": [
+        "cotton (textile)"
+    ],
+    "technique_id": "TM-10602",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10602"
+    ],
+    "technique_titles": [
+        "satin damask weaving"
+    ],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "ed7cd319-b3d0-1141-6ada-2bc0fd9def4c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1995.164"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fabula"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:14-05:00",
+    "updated_at": "2023-04-10T08:22:55-05:00",
+    "timestamp": "2023-09-24T01:22:06-05:00"
+}

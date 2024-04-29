@@ -1,0 +1,177 @@
+{
+    "id": 147458,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/147458",
+    "is_boosted": false,
+    "title": "Chicago Sketches, Belmont Harbor",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGtdR39zX391X4R+boqFeIyFe5aPeI+JgJeakK+kmrGmory8uMW+u8S/vc7Mx8jGzcfI0MnJ0s3V18/Q2M7Q2c7X2NHV1NDX19rX1NXY19fW2NHU39XW3dPZ2tjb29rc2d7c2uTl4OXm4wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQI+kcvmERIhFx5JxJAwMDQbUUDw2E04EQgEUCIeBIBAEADs=",
+        "width": 4316,
+        "height": 3181,
+        "alt_text": "A work made of black ink on paper."
+    },
+    "main_reference_number": "1997.103.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1996,
+    "date_end": 1996,
+    "date_display": "1996",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Vinci\nAmerican architect, born 1937",
+    "place_of_origin": "Chicago",
+    "description": null,
+    "dimensions": "22.8 \u00d7 30.4 cm (9 \u00d7 12 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30.4,
+            "width_in": 11.9686,
+            "height_cm": 22.8,
+            "height_in": 8.9764,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Black ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of John Vinci",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 24.2276,
+    "color": {
+        "h": 42,
+        "l": 60,
+        "s": 36,
+        "percentage": 0.07144180644619037,
+        "population": 374
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 27502,
+    "artist_title": "John Vinci",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        27502
+    ],
+    "artist_titles": [
+        "John Vinci"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "travel sketch",
+        "paper (fiber product)",
+        "ink",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-702",
+    "classification_title": "travel sketch",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-702",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "travel sketch",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "763f99eb-e88b-7a77-1437-ba9ac180187b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.103.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Chicago Sketches, Belmont Harbor"
+            ],
+            "weight": 2,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:05:44-05:00",
+    "timestamp": "2023-09-24T01:26:07-05:00"
+}

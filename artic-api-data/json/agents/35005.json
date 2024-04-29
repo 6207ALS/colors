@@ -1,0 +1,28 @@
+{
+    "id": 35005,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35005",
+    "title": "Albany E. Howarth",
+    "sort_title": "Howarth, Albany E.",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1872,
+    "death_date": 1936,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albany E. Howarth",
+            "Howarth, Albany E."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:59:03-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

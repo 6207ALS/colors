@@ -1,0 +1,28 @@
+{
+    "id": 116374,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/116374",
+    "title": "John Illingworth Kay",
+    "sort_title": "Kay, John Illingworth",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Illingworth Kay",
+            "Kay, John Illingworth"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-08-21T16:32:44-05:00",
+    "updated_at": "2022-03-15T16:46:21-05:00",
+    "timestamp": "2023-09-24T02:00:38-05:00"
+}

@@ -1,0 +1,48 @@
+{
+    "id": 44014,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44014",
+    "title": "Edvard Munch",
+    "sort_title": "Munch, Edvard",
+    "alt_titles": [
+        "E. (Edvard) Munch",
+        "Edvard Munk",
+        "Edward Munch",
+        "\u7231\u5fb7\u534e\u00b7\u8499\u514b"
+    ],
+    "is_artist": true,
+    "birth_date": 1863,
+    "death_date": 1944,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Edvard Munch",
+            "Munch, Edvard",
+            "E. (Edvard) Munch",
+            "Edvard Munk",
+            "Edward Munch",
+            "\u7231\u5fb7\u534e\u00b7\u8499\u514b"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edvard Munch",
+            "Munch, Edvard",
+            "E. (Edvard) Munch",
+            "Edvard Munk",
+            "Edward Munch",
+            "\u7231\u5fb7\u534e\u00b7\u8499\u514b"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-13T14:49:28-05:00",
+    "updated_at": "2022-03-15T16:55:58-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

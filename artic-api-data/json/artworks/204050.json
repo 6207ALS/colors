@@ -1,0 +1,158 @@
+{
+    "id": 204050,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/204050",
+    "is_boosted": false,
+    "title": "Mizuno no omote shu",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHJwZn51Z3R3b4N8a5mHdZWakpqck5uflqedjZuinKaonZ+moKqwp6iwq8Swnci1oc3Gt9DFtdHFttbUyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEAgwuFIS/JETQFNTGAoQwgAOw==",
+        "width": 1300,
+        "height": 1768,
+        "alt_text": "A work made of woodblock printed book."
+    },
+    "main_reference_number": "2013.311",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1826,
+    "date_end": 1836,
+    "date_display": "1831",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Suikei (Japanese)",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "22.4 \u00d7 16 cm (8 7/8 \u00d7 6 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 16,
+            "width_in": 6.2993,
+            "height_cm": 22.4,
+            "height_in": 8.8189,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Woodblock printed book",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 76,
+        "l": 68,
+        "s": 6,
+        "percentage": 0.12421684650191438,
+        "population": 2855
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 57944,
+    "artist_title": "Sh\u00fbtoku",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        57944
+    ],
+    "artist_titles": [
+        "Sh\u00fbtoku"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "book"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-11"
+    ],
+    "classification_titles": [
+        "book"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a3aa060c-bbb2-ee56-16f1-ab01fa874d38",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.311"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Mizuno no omote shu"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-21T11:17:29-05:00",
+    "updated_at": "2023-04-07T14:21:41-05:00",
+    "timestamp": "2023-09-24T01:40:55-05:00"
+}

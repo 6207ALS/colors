@@ -1,0 +1,172 @@
+{
+    "id": 127250,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/127250",
+    "is_boosted": false,
+    "title": "Girl on Stool",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFRQM29gVXRiVXFuYXBpZHBrZ3Zya3FucXNvcXlxcYZ8aoF2coV6dIl4dIWBfpWCeYeBg4GAiYuIkaGQiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBTDEchAEkDhIIyrQ0TwgAOw==",
+        "width": 2497,
+        "height": 3000,
+        "alt_text": "A work made of watercolor drawing on cream wove paper."
+    },
+    "main_reference_number": "1943.2012",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1941,
+    "date_end": 1941,
+    "date_display": "1941",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Georg Redlich (American, 20th century)\npublished by the Works Progress Administration",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "58.5 \u00d7 48.2 cm (23 1/16 \u00d7 19 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.2,
+            "width_in": 18.9764,
+            "height_cm": 58.5,
+            "height_in": 23.0315,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor drawing on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago, Works Progress Administration Allocation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.9591,
+    "color": {
+        "h": 52,
+        "l": 49,
+        "s": 74,
+        "percentage": 0.007026098442665281,
+        "population": 60
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 21476,
+    "artist_title": "Georg Redlich",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        21476
+    ],
+    "artist_titles": [
+        "Georg Redlich"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "watercolor",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-39",
+    "classification_title": "watercolor",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-39",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "watercolor",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "38ff3d6b-063b-d6f2-096d-7c6617fe363d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.2012"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Girl on Stool"
+            ],
+            "weight": 79,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:12-05:00",
+    "updated_at": "2023-04-10T10:33:56-05:00",
+    "timestamp": "2023-09-24T01:17:38-05:00"
+}

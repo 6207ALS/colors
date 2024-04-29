@@ -1,0 +1,181 @@
+{
+    "id": 104352,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104352",
+    "is_boosted": false,
+    "title": "Table",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJhzXpx1X5Z3ZY17c4p9d4qAfJSAdJyFepaPiZyamLapobCqpbeup7etqLSzsbi1srq3s7m4trq6ur28uMG6tMG9uMG+u8O/utTSztTU0tXV0tbW1dbX19jY1gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4FRRlxUtAhAcDmIUxJBAzNMoUrZ1mMaFADs=",
+        "width": 2731,
+        "height": 2250,
+        "alt_text": "A work made of mahogany with bronze."
+    },
+    "main_reference_number": "1985.514",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1885,
+    "date_end": 1895,
+    "date_display": "1885\u201395",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Herter Brothers\nAmerican, 1846\u20131906",
+    "place_of_origin": "New York City",
+    "description": null,
+    "dimensions": "70.2 \u00d7 101.6 \u00d7 75.6 cm (27 5/8 \u00d7 40 \u00d7 29 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 75.6,
+            "depth_in": 29.75,
+            "width_cm": 101.6,
+            "width_in": 40,
+            "height_cm": 70.2,
+            "height_in": 27.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Mahogany with bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society through the Mr. and Mrs. William Y. Hutchinson Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 28.518,
+    "color": {
+        "h": 42,
+        "l": 75,
+        "s": 3,
+        "percentage": 0.2002099388105174,
+        "population": 1173
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 34919,
+    "artist_title": "Herter Brothers",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34919
+    ],
+    "artist_titles": [
+        "Herter Brothers"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "table",
+        "mahogany",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-108",
+    "classification_title": "table",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-108",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "table",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3582",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3582"
+    ],
+    "material_titles": [
+        "mahogany"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "0dcc6f2b-633c-fc9e-4d62-972609e59a05",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.514"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Table"
+            ],
+            "weight": 142,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:17:57-05:00",
+    "timestamp": "2023-09-24T01:07:19-05:00"
+}

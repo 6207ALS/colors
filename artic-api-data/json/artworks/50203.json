@@ -1,0 +1,217 @@
+{
+    "id": 50203,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50203",
+    "is_boosted": false,
+    "title": "Pyxis (Container for Personal Objects)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAAEBAQIBAQECAgMCAgMDAgcHBw8ODA4NDhEPDjwvJUU1K0k3KVpAMFVCO1lGPk9EQUpGRlNJRlJNTohhQ4lhRbWGY7GOdrqPcs+ceAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYCAYBxEMQLMABcBglwIklJVVSAQ5jzSFADs=",
+        "width": 2723,
+        "height": 2250,
+        "alt_text": "A work made of terracotta."
+    },
+    "main_reference_number": "1976.2a-b",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": -730,
+    "date_end": -720,
+    "date_display": "730-720 BCE",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Greek; Athens",
+    "place_of_origin": "Athens",
+    "description": "<p>Ceramic vessels decorated with repetitive linear designs were so popular during the 8th and 7th centuries BC that the term Geometric applies to both the style and the time period (800\u2013600 BC). The body of this container is decorated with popular ornamentations, among them Greek key pattern, or meanders, as well as checkerboard patterns, dotted and crosshatched lozenges, and chevrons.</p>\n<p>The handle of this vase takes the form of horses standing side by side, suggesting a team for a four-horse chariot. Ownership of horses was an important indicator of financial status, since only the wealthy could afford to possess and train them.</p>\n",
+    "dimensions": "25 \u00d7 33 \u00d7 33.3 cm (9 7/8 \u00d7 13 \u00d7 13 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 33.3,
+            "depth_in": 13.125,
+            "width_cm": 33,
+            "width_in": 13,
+            "height_cm": 25,
+            "height_in": 9.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "terracotta",
+    "inscriptions": null,
+    "credit_line": "Costa A. Pandaleon Greek Art Memorial Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 941,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 35.5582,
+    "color": {
+        "h": 0,
+        "l": 41,
+        "s": 2,
+        "percentage": 0.10722108477103194,
+        "population": 630
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 2601,
+    "artist_title": "Ancient Greek",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        2601
+    ],
+    "artist_titles": [
+        "Ancient Greek"
+    ],
+    "category_ids": [
+        "PC-4"
+    ],
+    "category_titles": [
+        "Arts of the Ancient Mediterranean and Byzantium"
+    ],
+    "term_titles": [
+        "earthenware",
+        "terracotta",
+        "geometric",
+        "horses",
+        "animals",
+        "ceramic",
+        "inorganic material",
+        "attic",
+        "ceramics",
+        "vessel",
+        "ancient art",
+        "ancient",
+        "greek",
+        "containers"
+    ],
+    "style_id": "TM-4410",
+    "style_title": "geometric",
+    "alt_style_ids": [
+        "TM-4637",
+        "TM-8542",
+        "TM-4408"
+    ],
+    "style_ids": [
+        "TM-4410",
+        "TM-4637",
+        "TM-8542",
+        "TM-4408"
+    ],
+    "style_titles": [
+        "geometric",
+        "attic",
+        "ancient",
+        "greek"
+    ],
+    "classification_id": "TM-74",
+    "classification_title": "earthenware",
+    "alt_classification_ids": [
+        "TM-46",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_ids": [
+        "TM-74",
+        "TM-46",
+        "TM-27",
+        "TM-1392"
+    ],
+    "classification_titles": [
+        "earthenware",
+        "ceramics",
+        "vessel",
+        "ancient art"
+    ],
+    "subject_id": "TM-8804",
+    "alt_subject_ids": [
+        "TM-12218",
+        "TM-12796"
+    ],
+    "subject_ids": [
+        "TM-8804",
+        "TM-12218",
+        "TM-12796"
+    ],
+    "subject_titles": [
+        "horses",
+        "animals",
+        "containers"
+    ],
+    "material_id": "TM-2433",
+    "alt_material_ids": [
+        "TM-2432",
+        "TM-2600"
+    ],
+    "material_ids": [
+        "TM-2433",
+        "TM-2432",
+        "TM-2600"
+    ],
+    "material_titles": [
+        "terracotta",
+        "ceramic",
+        "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cb9ff11b-235e-b3aa-138e-0f74b73065a1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.2a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pyxis (Container for Personal Objects)"
+            ],
+            "weight": 2551,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-09-23T23:17:55-05:00",
+    "timestamp": "2023-09-24T00:42:37-05:00"
+}

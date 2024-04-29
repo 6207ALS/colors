@@ -1,0 +1,31 @@
+{
+    "id": 33495,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33495",
+    "title": "Ernst B\u00f6hm",
+    "sort_title": "B\u00f6hm, Ernst",
+    "alt_titles": [
+        "Prof. B\u00f6hm"
+    ],
+    "is_artist": true,
+    "birth_date": 1890,
+    "death_date": 1963,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ernst B\u00f6hm",
+            "B\u00f6hm, Ernst",
+            "Prof. B\u00f6hm"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:05:57-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

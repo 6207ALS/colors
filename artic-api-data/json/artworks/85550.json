@@ -1,0 +1,181 @@
+{
+    "id": 85550,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/85550",
+    "is_boosted": false,
+    "title": "Cow's Leg",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAMe4n8e5n8q7n8q7oMq7osu8ocy9ocy+os7ApQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQI8CAxTCiDgAgAOw==",
+        "width": 1360,
+        "height": 3000,
+        "alt_text": "A work made of charcoal on buff laid paper."
+    },
+    "main_reference_number": "1922.2786",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1899,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Unknown Artist\nEnglish, 19th century",
+    "place_of_origin": "United Kingdom",
+    "description": null,
+    "dimensions": "10.7 \u00d7 4.7 cm (4 1/4 \u00d7 1 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 4.7,
+            "width_in": 1.8504,
+            "height_cm": 10.7,
+            "height_in": 4.2126,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Charcoal on buff laid paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.347,
+    "color": {
+        "h": 40,
+        "l": 83,
+        "s": 46,
+        "percentage": 0.07787089121034707,
+        "population": 1221
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "charcoal",
+        "paper (fiber product)",
+        "paper",
+        "laid paper",
+        "charcoal",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-218",
+    "classification_title": "charcoal",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-218",
+        "TM-145",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "charcoal",
+        "paper",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-3070",
+        "TM-2411"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-3070",
+        "TM-2411"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "laid paper",
+        "charcoal"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bcfd592e-954b-de49-dc32-520310f782d1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.2786"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cow's Leg"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:09:49-05:00",
+    "timestamp": "2023-09-24T00:57:45-05:00"
+}

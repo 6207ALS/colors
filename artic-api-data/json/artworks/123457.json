@@ -1,0 +1,167 @@
+{
+    "id": 123457,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/123457",
+    "is_boosted": false,
+    "title": "Portfolio Cover, from Multiplizierte Kunst",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFxCM2FFMmVLN2dNOWtMOm1NPHBOOnNPPHJRPHJSPHNRPnhQOnhRPXpSP35UPmlQQnRXR3pTQHlUQXhUQn5XQHlWRn9cSn1dTIBZPIFYQIhdQoxoRY9rSAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4EMMQgBUGrdhx9VEzDJZVJY5EqQgiVGEADs=",
+        "width": 3000,
+        "height": 2344,
+        "alt_text": "A work made of portfolio cover."
+    },
+    "main_reference_number": "1980.369.6",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1973,
+    "date_end": 1974,
+    "date_display": "1973\u201374",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Joseph Beuys, (German, 1921-1986)\npublished by Propylaen Verlag, Berlin",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Closed: 52 \u00d7 67.2 \u00d7 1.2 cm (20 1/2 \u00d7 26 1/2 \u00d7 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.2,
+            "depth_in": 0.4725,
+            "width_cm": 67.2,
+            "width_in": 26.4567,
+            "height_cm": 52,
+            "height_in": 20.4725,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Closed"
+        }
+    ],
+    "medium_display": "Portfolio cover",
+    "inscriptions": null,
+    "credit_line": "William McCallin McKee Memorial Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.0601,
+    "color": {
+        "h": 41,
+        "l": 56,
+        "s": 41,
+        "percentage": 0.0043799772468714445,
+        "population": 308
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33630,
+    "artist_title": "Joseph Beuys",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33630
+    ],
+    "artist_titles": [
+        "Joseph Beuys"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "woodcut",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-148",
+    "classification_title": "woodcut",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-148",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "woodcut",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "226fb9b0-7b77-5cd1-7711-3745e536f9e4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.369.6"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portfolio Cover, from Multiplizierte Kunst"
+            ],
+            "weight": 26,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:11-05:00",
+    "updated_at": "2023-04-10T10:45:38-05:00",
+    "timestamp": "2023-09-24T01:15:31-05:00"
+}

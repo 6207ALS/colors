@@ -1,0 +1,33 @@
+{
+    "id": 14750,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14750",
+    "title": "Andr\u00e9 Lanskoy",
+    "sort_title": "Lanskoy, Andr\u00e9",
+    "alt_titles": [
+        "Andre Lanskoj",
+        "Lanskoy"
+    ],
+    "is_artist": true,
+    "birth_date": 1902,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Andr\u00e9 Lanskoy",
+            "Lanskoy, Andr\u00e9",
+            "Andre Lanskoj",
+            "Lanskoy"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:56-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

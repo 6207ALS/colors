@@ -1,0 +1,39 @@
+{
+    "id": 14950,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/14950",
+    "title": "Fran\u00e7ois Le Moyne",
+    "sort_title": "Le Moyne, Fran\u00e7ois",
+    "alt_titles": [
+        "Fran\u00e7ois Lemoyne",
+        "Fran\u00e7ois Lemoine",
+        "Fran\u00e7ois Le Moine",
+        "Fran\u00e7ois Le Moyne",
+        "Fran\u00e7ois Le Moine"
+    ],
+    "is_artist": true,
+    "birth_date": 1688,
+    "death_date": 1737,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fran\u00e7ois Le Moyne",
+            "Le Moyne, Fran\u00e7ois",
+            "Fran\u00e7ois Lemoyne",
+            "Fran\u00e7ois Lemoine",
+            "Fran\u00e7ois Le Moine",
+            "Fran\u00e7ois Le Moyne",
+            "Fran\u00e7ois Le Moine"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:49:59-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

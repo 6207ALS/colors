@@ -1,0 +1,35 @@
+{
+    "id": 102645,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/102645",
+    "title": "Boris Ignatovich",
+    "sort_title": "Ignatovich, Boris",
+    "alt_titles": [
+        "Boris Vsevolodovich Ignatovich",
+        "Boris Ignatowitsch",
+        "Boris Ignatovic"
+    ],
+    "is_artist": true,
+    "birth_date": 1899,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Boris Ignatovich",
+            "Ignatovich, Boris",
+            "Boris Vsevolodovich Ignatovich",
+            "Boris Ignatowitsch",
+            "Boris Ignatovic"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:43:44-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

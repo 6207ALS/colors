@@ -1,0 +1,31 @@
+{
+    "id": 32347,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32347",
+    "title": "Nishizawa Shizuo",
+    "sort_title": "Nishizawa Shizuo",
+    "alt_titles": [
+        "Shizuo Nishizawa"
+    ],
+    "is_artist": true,
+    "birth_date": 1912,
+    "death_date": 1997,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nishizawa Shizuo",
+            "Nishizawa Shizuo",
+            "Shizuo Nishizawa"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:07:04-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

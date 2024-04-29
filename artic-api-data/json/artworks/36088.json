@@ -1,0 +1,193 @@
+{
+    "id": 36088,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/36088",
+    "is_boosted": false,
+    "title": "Ceremony in a Cathedral",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGFKPmVLPG5TPnNWP2NQRmZUSXJXQnJZRXZcR39fQ3pcRHteSHphTHthTnBgU3xlVH1mWIRkS4RlTohuWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYLQ00iAcRqI8DDI5QQERQAgAOw==",
+        "width": 2132,
+        "height": 3000,
+        "alt_text": "A work made of watercolor and gouache, heightened with gum varnish, on tan wove paper."
+    },
+    "main_reference_number": "1971.150",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1800,
+    "date_end": 1899,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "possibly Louis Haghe (Belgian, 1806-1885)\nor Joseph Nash (English, 1808-1878)",
+    "place_of_origin": "Belgium",
+    "description": null,
+    "dimensions": "41.8 \u00d7 29.6 cm (16 1/2 \u00d7 11 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 29.6,
+            "width_in": 11.6536,
+            "height_cm": 41.8,
+            "height_in": 16.4567,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor and gouache, heightened with gum varnish, on tan wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Stephen Spector to honor The Women's Board",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.5783,
+    "color": {
+        "h": 43,
+        "l": 68,
+        "s": 13,
+        "percentage": 0.006601333469360811,
+        "population": 66
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40966,
+    "artist_title": "Louis Haghe",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40966
+    ],
+    "artist_titles": [
+        "Louis Haghe"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "gouache",
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "coating (material)",
+        "gouache",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-221",
+    "classification_title": "gouache",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-221",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "gouache",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-3238",
+        "TM-2404"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-3238",
+        "TM-2404"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "coating (material)",
+        "gouache"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4722bcd3-3bb7-11d0-386c-6e042c30bb58",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1971.150"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Ceremony in a Cathedral"
+            ],
+            "weight": 30,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:51:26-05:00",
+    "timestamp": "2023-09-24T00:36:28-05:00"
+}

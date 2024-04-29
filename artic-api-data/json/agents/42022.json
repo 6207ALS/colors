@@ -1,0 +1,31 @@
+{
+    "id": 42022,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42022",
+    "title": "Ozias Humphry",
+    "sort_title": "Humphry, Ozias",
+    "alt_titles": [
+        "Ozias Humphrey"
+    ],
+    "is_artist": true,
+    "birth_date": 1742,
+    "death_date": 1810,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ozias Humphry",
+            "Humphry, Ozias",
+            "Ozias Humphrey"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:56-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

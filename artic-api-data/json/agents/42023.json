@@ -1,0 +1,31 @@
+{
+    "id": 42023,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42023",
+    "title": "Antonio Pichler",
+    "sort_title": "Pichler, Antonio",
+    "alt_titles": [
+        "Johan Anton Pichler"
+    ],
+    "is_artist": true,
+    "birth_date": 1697,
+    "death_date": 1779,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antonio Pichler",
+            "Pichler, Antonio",
+            "Johan Anton Pichler"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:33:29-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

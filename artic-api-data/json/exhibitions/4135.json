@@ -1,0 +1,38 @@
+{
+    "id": 4135,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4135",
+    "title": "Chicago and Vicinity 64th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1961-03-31T00:00:00-06:00",
+    "aic_end_at": "1961-05-28T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "3751525c-00ab-0c17-a93b-57918f77ec85"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 64th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-10-14T11:22:57-05:00",
+    "updated_at": "2019-10-14T11:26:29-05:00",
+    "timestamp": "2023-09-24T02:01:19-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 6183,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6183",
+    "title": "Jules de Goncourt",
+    "sort_title": "Goncourt, Jules de",
+    "alt_titles": [
+        "Jules Huot de Goncourt",
+        "De Goncourt, Jules",
+        "Goncourt, Jules Alfred Huot de",
+        "Gonkur, Jul du"
+    ],
+    "is_artist": true,
+    "birth_date": 1830,
+    "death_date": 1870,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jules de Goncourt",
+            "Goncourt, Jules de",
+            "Jules Huot de Goncourt",
+            "De Goncourt, Jules",
+            "Goncourt, Jules Alfred Huot de",
+            "Gonkur, Jul du"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:14-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

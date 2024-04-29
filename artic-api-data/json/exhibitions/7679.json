@@ -1,0 +1,43 @@
+{
+    "id": 7679,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7679",
+    "title": "Chicago Collects: Selections from the Collection of Dr. Eugene A. Solow",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1988-05-03T00:00:00-05:00",
+    "aic_end_at": "1988-08-21T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "0f49b20e-6144-c3ab-3e35-5aa339ada973",
+    "alt_image_ids": [
+        "922ddf06-869b-6f63-3d6c-1fcf3b73ae0d",
+        "c8f17184-dcb0-cd0e-bea8-1dd02036cac6",
+        "1531e3bd-1438-0074-83b6-6308d8d0fdf5",
+        "b43afb38-0ab1-5758-b288-9187309f4a48"
+    ],
+    "document_ids": [
+        "0a465433-12db-e6d3-a199-26d7cb63b0d0"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Collects: Selections from the Collection of Dr. Eugene A. Solow"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:14:55-06:00",
+    "timestamp": "2023-09-24T02:02:05-05:00"
+}

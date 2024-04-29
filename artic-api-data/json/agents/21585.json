@@ -1,0 +1,33 @@
+{
+    "id": 21585,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/21585",
+    "title": "Ren\u00e9-Jacques",
+    "sort_title": "Ren\u00e9-Jacques",
+    "alt_titles": [
+        "Ren\u00e9 Giton",
+        "Ren\u00e9-Jacques"
+    ],
+    "is_artist": true,
+    "birth_date": 1908,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ren\u00e9-Jacques",
+            "Ren\u00e9-Jacques",
+            "Ren\u00e9 Giton",
+            "Ren\u00e9-Jacques"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:53-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

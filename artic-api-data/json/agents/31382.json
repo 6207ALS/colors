@@ -1,0 +1,31 @@
+{
+    "id": 31382,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/31382",
+    "title": "Marianne Strengell",
+    "sort_title": "Strengell, Marianne",
+    "alt_titles": [
+        "Marianne Strengell Hammarstr\u00f6m"
+    ],
+    "is_artist": true,
+    "birth_date": 1909,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Marianne Strengell",
+            "Strengell, Marianne",
+            "Marianne Strengell Hammarstr\u00f6m"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:55:05-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

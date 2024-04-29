@@ -1,0 +1,31 @@
+{
+    "id": 43504,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43504",
+    "title": "Bruce James Talbert",
+    "sort_title": "Talbert, Bruce James",
+    "alt_titles": [
+        "Bruce J. Talbert"
+    ],
+    "is_artist": true,
+    "birth_date": 1831,
+    "death_date": 1881,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bruce James Talbert",
+            "Talbert, Bruce James",
+            "Bruce J. Talbert"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:55:40-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

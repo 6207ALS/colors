@@ -1,0 +1,183 @@
+{
+    "id": 192183,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/192183",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAICEeq+Xej59k0WBjF2Dh16HkGeIineIg2mMkWuSl3SSkHCSlLufhL+ljcWojMezmsizmNCwk9SyltW9oQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PRAEVIYiaAsAxAchNQwTggAOw==",
+        "width": 1776,
+        "height": 2250,
+        "alt_text": "A work made of stencil."
+    },
+    "main_reference_number": "2010.97",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1944,
+    "date_end": 1944,
+    "date_display": "February 6, 1944",
+    "date_qualifier_title": "Original",
+    "date_qualifier_id": 5,
+    "artist_display": "Kukryniksy\n(Russian, founded 1924)",
+    "place_of_origin": "Russia",
+    "description": null,
+    "dimensions": "Image: 81.5 \u00d7 124 cm (32 1/8 \u00d7 48 7/8 in.); Sheet, pieced: 134 \u00d7 124 cm (52 13/16 \u00d7 48 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 124,
+            "width_in": 48.8189,
+            "height_cm": 81.5,
+            "height_in": 32.0867,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 124,
+            "width_in": 48.8189,
+            "height_cm": 134,
+            "height_in": 52.756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet, pieced"
+        }
+    ],
+    "medium_display": "Stencil",
+    "inscriptions": "\u201cThe Hitlerites intended to hold firmly onto their positions on the Dnieper. But, as they say, the mare tried to hold onto the shafts, but it still fell down.\u201d\n(From the address of comrade A. S. Shcherbakov on January 21, 1944)",
+    "credit_line": "Gift of the USSR Society for Cultural Relations with Foreign Countries",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 40.3085,
+    "color": {
+        "h": 193,
+        "l": 43,
+        "s": 35,
+        "percentage": 0.3386558616675775,
+        "population": 3049
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 71413,
+    "artist_title": "Kukryniksy",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        71413
+    ],
+    "artist_titles": [
+        "Kukryniksy"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "propaganda",
+        "stencil",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-627",
+    "classification_title": "stencil",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-627",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "stencil",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": "TM-8731",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8731"
+    ],
+    "subject_titles": [
+        "propaganda"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "74e35e1f-be2a-5606-02ed-14f9f525cb47",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.97"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:22-05:00",
+    "updated_at": "2023-04-07T16:01:41-05:00",
+    "timestamp": "2023-09-24T01:37:17-05:00"
+}

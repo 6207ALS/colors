@@ -1,0 +1,158 @@
+{
+    "id": 182257,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182257",
+    "is_boosted": false,
+    "title": "Saint Joseph Hospital",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAMG6q8q+r9TWqtXJuN/Put3Ws+PTuuDUu+TRvebWvevXvOvXvubYv+jYv+nYv+XXwejXwejXwujYwenawOnYwuvaw+7awO/cw+vaxOzbxOrcxOzexPDgyPHhyfDhyvTky/XjzfblzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQI0kMnh4Np3KARBYKEAMQQFxsXAwEEom9Jk0HI4EwRAEADs=",
+        "width": 2971,
+        "height": 2250,
+        "alt_text": "A work made of variable media."
+    },
+    "main_reference_number": "RX23664/129.1-326",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1969,
+    "date_end": 1978,
+    "date_display": "1969/78",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Bertrand Goldberg\nAmerican, 1913-1997",
+    "place_of_origin": "Tacoma",
+    "description": null,
+    "dimensions": "Variable dimensions",
+    "dimensions_detail": [],
+    "medium_display": "Variable media",
+    "inscriptions": null,
+    "credit_line": "The Archive of Bertrand Goldberg, gifted by his children through his estate",
+    "catalogue_display": null,
+    "publication_history": "Barrow, Heather and Lori Hanna Boyer.  Bertrand Goldberg Collection Finding Aid.  (The Art Institute of Chicago, 2007), p. 39 and 43.",
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.1203,
+    "color": {
+        "h": 0,
+        "l": 52,
+        "s": 0,
+        "percentage": 0.00018564000319300808,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 31299,
+    "artist_title": "Bertrand Goldberg",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31299
+    ],
+    "artist_titles": [
+        "Bertrand Goldberg"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural drawing",
+        "Bertrand Goldberg Archive"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-126"
+    ],
+    "classification_titles": [
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-14001"
+    ],
+    "subject_ids": [
+        "TM-14001"
+    ],
+    "subject_titles": [
+        "Bertrand Goldberg Archive"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c42f4bc1-0345-5ff1-55eb-52e4b285b4c9",
+    "alt_image_ids": [
+        "4f8be209-2390-e35c-b59e-8cd6acb4e50b",
+        "1f1c4fec-740e-e23f-20af-a59ea8675056",
+        "5f42118b-0633-8bf0-e350-d98e7a1f8755",
+        "9a23ea03-72c4-e929-6d9c-c6a373ac7b75"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "RX23664/129.1-326"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Saint Joseph Hospital"
+            ],
+            "weight": 59,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-07-26T17:59:51-05:00",
+    "updated_at": "2023-09-23T23:22:03-05:00",
+    "timestamp": "2023-09-24T01:33:47-05:00"
+}

@@ -1,0 +1,182 @@
+{
+    "id": 44002,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/44002",
+    "is_boosted": false,
+    "title": "Lily",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC0uNCYsOC4xNzQ0NTo3OUo/Pi08RjY+Qz9HSU5FQk1HRkhMT1hdXGJWSGRaSn5cRUxhY4NqUp2AVbiJVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4FAkDPFESzMpgCMFwoEYUAgAOw==",
+        "width": 1868,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1973.59",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1927,
+    "date_end": 1927,
+    "date_display": "1927",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "William S. Schwartz\nAmerican, 1896\u20131977",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "61 \u00d7 50.8 cm (24 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.8,
+            "width_in": 20,
+            "height_cm": 61,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of William S. Schwartz in memory of Dudley Crafts Watson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.0837,
+    "color": {
+        "h": 38,
+        "l": 55,
+        "s": 39,
+        "percentage": 0.009934026377761805,
+        "population": 85
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36581,
+    "artist_title": "William Samuel Schwartz",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36581
+    ],
+    "artist_titles": [
+        "William Samuel Schwartz"
+    ],
+    "category_ids": [
+        "PC-827",
+        "PC-3"
+    ],
+    "category_titles": [
+        "SAIC Alumni and Faculty",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "Modernism",
+        "canvas",
+        "modern and contemporary art"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3124"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3124"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "82e492fb-a00a-ac9d-58e7-0124c4758aa1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1973.59"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lily"
+            ],
+            "weight": 991,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:56:35-05:00",
+    "timestamp": "2023-09-24T00:39:19-05:00"
+}

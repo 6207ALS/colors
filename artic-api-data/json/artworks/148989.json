@@ -1,0 +1,190 @@
+{
+    "id": 148989,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/148989",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJFcL4pcMpBhNKNiQqNjR6tmQqhkRKRhSqlmSK5pT65pUbttU75sU7lwWL1yWwAAACH5BAAAAAAALAAAAAADAAUAAAQLUICAynAstaWOIREAOw==",
+        "width": 460,
+        "height": 768,
+        "alt_text": "A work made of silk, warp-float faced 7:1 satin weave self-patterned by ground weft floats and areas of plain and twill weaves; woven on loom with jacquard attachment."
+    },
+    "main_reference_number": "1992.390",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1850,
+    "date_end": 1870,
+    "date_display": "1850/70",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France, Lyon",
+    "place_of_origin": "Lyon",
+    "description": null,
+    "dimensions": "142.5 \u00d7 54.5 cm (56 1/8 \u00d7 21 1/2 in.); Repeat: 53.4 \u00d7 26.5 cm (21 \u00d7 10 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 54.5,
+            "width_in": 21.5,
+            "height_cm": 142.5,
+            "height_in": 56.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.5,
+            "width_in": 10.375,
+            "height_cm": 53.4,
+            "height_in": 21,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Repeat"
+        }
+    ],
+    "medium_display": "Silk, warp-float faced 7:1 satin weave self-patterned by ground weft floats and areas of plain and twill weaves; woven on loom with Jacquard attachment",
+    "inscriptions": null,
+    "credit_line": "Royalties from The Warner Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 68.6553,
+    "color": {
+        "h": 344,
+        "l": 42,
+        "s": 54,
+        "percentage": 0.11820241277935016,
+        "population": 1402
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "flowers",
+        "silk (textile)",
+        "weaving on loom with jacquard attachment",
+        "textile",
+        "weaving",
+        "foliage"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-10482",
+    "alt_subject_ids": [
+        "TM-11206"
+    ],
+    "subject_ids": [
+        "TM-10482",
+        "TM-11206"
+    ],
+    "subject_titles": [
+        "flowers",
+        "foliage"
+    ],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": "TM-10497",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10497"
+    ],
+    "technique_titles": [
+        "weaving on loom with jacquard attachment"
+    ],
+    "theme_titles": [],
+    "image_id": "2c448f8f-8d0e-948c-8437-a4d44f8787a3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1992.390"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:02:24-05:00",
+    "timestamp": "2023-09-24T01:26:49-05:00"
+}

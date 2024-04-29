@@ -1,0 +1,159 @@
+{
+    "id": 62109,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62109",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAG0AFXAAF3gLH3YJIXQNI34KIX4LJX0QJXwVKnwWLYAMI4IXLp5kbqBtd6lvfKFzfaB3gKZ2gax2gKt9hq59hqWAibCGj7KXnLqfpbSip7ylq8CssMe/wsnDxgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIEdJTpNhhWIEkLYgCVFthzAAT2dNEXOFADs=",
+        "width": 2569,
+        "height": 2250,
+        "alt_text": "A work made of cisele solid twill velvet."
+    },
+    "main_reference_number": "1907.512",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1775,
+    "date_end": 1800,
+    "date_display": "1775/1800",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "13.5 \u00d7 14.5 cm (5 3/4 \u00d7 5 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14.5,
+            "width_in": 5,
+            "height_cm": 13.5,
+            "height_in": 5.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cisele solid twill velvet",
+    "inscriptions": null,
+    "credit_line": "Art Institute of Chicago Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 63.918,
+    "color": {
+        "h": 345,
+        "l": 51,
+        "s": 51,
+        "percentage": 0.02167014191535161,
+        "population": 135
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - velvet"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-608"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-608"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - velvet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ad865b58-be19-b2e3-1d88-c37f196d21c7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1907.512"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-10T13:25:39-06:00",
+    "updated_at": "2023-04-07T12:49:52-05:00",
+    "timestamp": "2023-09-24T00:47:15-05:00"
+}

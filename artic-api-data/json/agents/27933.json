@@ -1,0 +1,33 @@
+{
+    "id": 27933,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27933",
+    "title": "Wang Guxiang",
+    "sort_title": "Wang Guxiang",
+    "alt_titles": [
+        "Wang Ku-hsiang",
+        "Wang Kou-siang"
+    ],
+    "is_artist": true,
+    "birth_date": 1501,
+    "death_date": 1568,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Wang Guxiang",
+            "Wang Guxiang",
+            "Wang Ku-hsiang",
+            "Wang Kou-siang"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:10:15-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

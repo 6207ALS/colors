@@ -1,0 +1,189 @@
+{
+    "id": 109530,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109530",
+    "is_boosted": false,
+    "title": "Book with clasp",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEMqF0o7NWhRO2lRPmdeXHpjTXJnYIxyVpyWlKKXjaSYi6amp6ioqa2srLCxsrKztLu6u769vr6+vsK/vsLAwMbFxsfGx8vMzcvMz8zMzs7P0NHS09PV1wAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4PJAjcNECBEYUjUAQkFhyaFMWaZZ3HaFADs=",
+        "width": 2920,
+        "height": 2250,
+        "alt_text": "A work made of brown leather, with silver."
+    },
+    "main_reference_number": "1984.52",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1816,
+    "date_end": 1816,
+    "date_display": "1816",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Artist unknown (American, 18th\u201319th century)\nAlexandria, Virginia\nWritten by John H. Livington\nAmerican, 1746\u20131825",
+    "place_of_origin": "Alexandria",
+    "description": null,
+    "dimensions": "11.7 \u00d7 7.3 \u00d7 3.8 cm (4 5/8 \u00d7 2 3/4 \u00d7 1 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 3.8,
+            "depth_in": 1.625,
+            "width_cm": 7.3,
+            "width_in": 2.75,
+            "height_cm": 11.7,
+            "height_in": 4.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Brown leather, with silver",
+    "inscriptions": null,
+    "credit_line": "Gift of the Antiquarian Society through the Mr. and Mrs. John S. Gates Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.7057,
+    "color": {
+        "h": 306,
+        "l": 68,
+        "s": 0,
+        "percentage": 0.4524135413815129,
+        "population": 2479
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "book",
+        "paper (fiber product)",
+        "leather",
+        "silver",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "book",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2454",
+        "TM-2436"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2454",
+        "TM-2436"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "leather",
+        "silver"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ec5ed691-908a-efc7-ca59-b7678f084539",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.52"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Book with clasp"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-20T14:04:50-05:00",
+    "updated_at": "2023-06-20T14:11:22-05:00",
+    "timestamp": "2023-09-24T01:09:16-05:00"
+}

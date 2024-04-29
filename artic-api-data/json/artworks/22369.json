@@ -1,0 +1,173 @@
+{
+    "id": 22369,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22369",
+    "is_boosted": false,
+    "title": "Painting 62",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAABoOFh0SGiEXHikeJSshJi0jLDQiJTAnLjgoKzMqMjcuNDguMT40OEE3OlBCP1NFP01AQ1RKS4l+d5OFe6CUiaudkK+hlcGypNHBr9LBr9HBsdTFtNfHtdjJuAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIJZxWrdR0lRdFkIES3MYkAIkhRAxjzOEADs=",
+        "width": 2795,
+        "height": 2250,
+        "alt_text": "A work made of oil on burlap."
+    },
+    "main_reference_number": "1964.1131",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1959,
+    "date_end": 1959,
+    "date_display": "1959",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Manolo Millares\nSpanish, 1926\u20131972",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "130.8 \u00d7 162.3 cm (51 1/2 \u00d7 63 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 162.3,
+            "width_in": 63.75,
+            "height_cm": 130.8,
+            "height_in": 51.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on burlap",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Edwin E. Hokin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.153,
+    "color": {
+        "h": 41,
+        "l": 38,
+        "s": 22,
+        "percentage": 0.002271150966898848,
+        "population": 13
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 17328,
+    "artist_title": "Manolo Millares",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        17328
+    ],
+    "artist_titles": [
+        "Manolo Millares"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "fabric",
+        "modern and contemporary art",
+        "abstract shapes"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12533",
+    "alt_subject_ids": [
+        "TM-12708"
+    ],
+    "subject_ids": [
+        "TM-12533",
+        "TM-12708"
+    ],
+    "subject_titles": [
+        "fabric",
+        "abstract shapes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "67086475-646c-8dbf-9730-a3cdea22e9b3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1964.1131"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Painting 62"
+            ],
+            "weight": 559,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:22:49-05:00",
+    "timestamp": "2023-09-24T00:29:46-05:00"
+}

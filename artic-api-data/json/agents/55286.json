@@ -1,0 +1,33 @@
+{
+    "id": 55286,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/55286",
+    "title": "Gong Xian",
+    "sort_title": "Gong Xian",
+    "alt_titles": [
+        "Kung Hsien",
+        "Kong Hien"
+    ],
+    "is_artist": true,
+    "birth_date": 1617,
+    "death_date": 1689,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gong Xian",
+            "Gong Xian",
+            "Kung Hsien",
+            "Kong Hien"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-28T10:42:37-05:00",
+    "updated_at": "2023-07-28T10:45:52-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

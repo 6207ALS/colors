@@ -1,0 +1,42 @@
+{
+    "id": 15965,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15965",
+    "title": "Ren\u00e9 Magritte",
+    "sort_title": "Magritte, Ren\u00e9",
+    "alt_titles": [
+        "Ren\u00e9 Fran\u00e7ois Ghislain Magritte",
+        "\u52d2\u5185\u00b7\u9a6c\u683c\u5229\u7279"
+    ],
+    "is_artist": true,
+    "birth_date": 1898,
+    "death_date": 1967,
+    "description": "<p>A major figure of the Surrealist movement, the Belgian artist Ren\u00e9 Magritte created some of the most extraordinary and iconic images of the 20th century. Seeking to \u201cmake the most everyday objects shriek aloud,\u201d Magritte transformed familiar, commonplace objects into unfamiliar and ambiguous scenes through surprising juxtapositions, scale shifts, and word play.</p><p>One of Magritte\u2019s most widely circulated images, <a href=\"http://www.artic.edu/aic/collections/artwork/34181\" target=\"_blank\"><em>Time Transfixed</em></a> embodies the artist\u2019s precise manner of painting and his surprising juxtapositions of seemingly unrelated elements in varying scales. As the artist described: \u201cI decided to paint the image of a locomotive. . . . In order for its mystery to be evoked, another immediately familiar image without mystery\u2014the image of a dining room fireplace\u2014was joined.\u201d&nbsp;</p><p>In 2014, the Art Institute organized a major exhibition of Magritte\u2019s work from a profoundly experimental period in his early career when he developed his mature style. <a href=\"https://www.artic.edu/exhibitions/1856/magritte-the-mystery-of-the-ordinary-1926-1938\" target=\"_blank\"><em>Magritte: The Mystery of the Ordinary, 1926\u20131938</em></a> showcased over 100 paintings, collages, drawings, and objects, along with a selection of photographs, periodicals, and early commercial work, that traced the birth of the themes and strategies Magritte used throughout his long, productive career.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Ren\u00e9 Magritte",
+            "Magritte, Ren\u00e9",
+            "Ren\u00e9 Fran\u00e7ois Ghislain Magritte",
+            "\u52d2\u5185\u00b7\u9a6c\u683c\u5229\u7279"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ren\u00e9 Magritte",
+            "Magritte, Ren\u00e9",
+            "Ren\u00e9 Fran\u00e7ois Ghislain Magritte",
+            "\u52d2\u5185\u00b7\u9a6c\u683c\u5229\u7279"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-11-10T22:07:30-06:00",
+    "updated_at": "2023-09-23T23:17:49-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

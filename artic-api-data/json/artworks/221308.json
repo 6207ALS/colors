@@ -1,0 +1,180 @@
+{
+    "id": 221308,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/221308",
+    "is_boosted": false,
+    "title": "Vase",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFtZWF1dXmdlZWtnZWxpaXFsanJubXZycZJ6YoV/f5+CbKODa6OJb6CMcaGQfJKNkK+np7OnoLarpriytAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYHEYwsAgALEoQdI4DxRJUwgAOw==",
+        "width": 1583,
+        "height": 2250,
+        "alt_text": "A work made of earthenware with silver lustre decoration, monochrome brown, and yellow ground."
+    },
+    "main_reference_number": "1922.5037",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1815,
+    "date_end": 1825,
+    "date_display": "c. 1820",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England, Leeds\nWith Transfer Decoration after Adam Buck\nIrish, 1759-1833",
+    "place_of_origin": "Leeds",
+    "description": null,
+    "dimensions": "H.: 14 cm (5 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 14,
+            "height_in": 5.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Earthenware with silver lustre decoration, monochrome brown, and yellow ground",
+    "inscriptions": null,
+    "credit_line": "Gift of Kate S. Buckingham",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.2356,
+    "color": {
+        "h": 3,
+        "l": 68,
+        "s": 5,
+        "percentage": 0.16803410983509487,
+        "population": 1697
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 33790,
+    "artist_title": "Adam Buck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33790
+    ],
+    "artist_titles": [
+        "Adam Buck"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "vase",
+        "earthenware",
+        "vessel",
+        "ceramics",
+        "european decorative arts",
+        "earthenware"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11826",
+    "classification_title": "vase",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-46",
+        "TM-1394",
+        "TM-74"
+    ],
+    "classification_ids": [
+        "TM-11826",
+        "TM-27",
+        "TM-46",
+        "TM-1394",
+        "TM-74"
+    ],
+    "classification_titles": [
+        "vase",
+        "vessel",
+        "ceramics",
+        "european decorative arts",
+        "earthenware"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d5c37224-ee8c-e4e2-6d15-9618702f4a60",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.5037"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Vase"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:25:25-05:00",
+    "timestamp": "2023-09-24T01:46:22-05:00"
+}

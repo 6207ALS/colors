@@ -1,0 +1,181 @@
+{
+    "id": 39038,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/39038",
+    "is_boosted": false,
+    "title": "Some Account of the Art of Photogenic Drawing, or the Process by which Natural Objects May Be Made to Delineate Themselves without the Aid of the Artist's Pencil",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOLbzuXe0eXf0+bg0+vm2unm3erm3Orn3uro3+zo3e3p3+vp4ezp4O/q4O7r4e/s4/Ds4/Ht4/Dt5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBzbMwjnMgSlIYRDAIQAgAOw==",
+        "width": 3763,
+        "height": 4814,
+        "alt_text": "A work made of thirteen pages of text on paper (approximately 6500 words) without illustrations, published by r. & j.e. taylor, london, 1839."
+    },
+    "main_reference_number": "1972.355",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1839,
+    "date_end": 1839,
+    "date_display": "Read before the Royal Society, January 31, 1839",
+    "date_qualifier_title": "Published",
+    "date_qualifier_id": 10,
+    "artist_display": "William Henry Fox Talbot\nEnglish, 1800\u20131877",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "23.2 \u00d7 30 cm (9 3/16 \u00d7 11 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 30,
+            "width_in": 11.8111,
+            "height_cm": 23.2,
+            "height_in": 9.1339,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Thirteen pages of text on paper (approximately 6500 words) without illustrations, published by R. & J.E. Taylor, London, 1839",
+    "inscriptions": null,
+    "credit_line": "Edward E. Ayer Endowment in memory of Charles L. Hutchinson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.0108,
+    "color": {
+        "h": 40,
+        "l": 43,
+        "s": 4,
+        "percentage": 0.0008795103765733617,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36875,
+    "artist_title": "William Henry Fox Talbot",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36875
+    ],
+    "artist_titles": [
+        "William Henry Fox Talbot"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "ink on paper",
+        "paper (fiber product)",
+        "19th century",
+        "printing process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": "TM-13203",
+    "style_title": "19th century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13203"
+    ],
+    "style_titles": [
+        "19th century"
+    ],
+    "classification_id": "TM-731",
+    "classification_title": "ink on paper",
+    "alt_classification_ids": [
+        "TM-2171",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-731",
+        "TM-2171",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "ink on paper",
+        "printing process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "30043a9f-bbe6-f53d-362e-8512dbb23c77",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.355"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Some Account of the Art of Photogenic Drawing, or the Process by which Natural Objects May Be Made to Delineate Themselves without the Aid of the Artist's Pencil"
+            ],
+            "weight": 672,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:52-05:00",
+    "updated_at": "2023-04-10T13:46:38-05:00",
+    "timestamp": "2023-09-24T00:37:28-05:00"
+}

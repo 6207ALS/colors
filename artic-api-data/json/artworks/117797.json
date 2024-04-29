@@ -1,0 +1,172 @@
+{
+    "id": 117797,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/117797",
+    "is_boosted": false,
+    "title": "Man with a Dog",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAE1JPldSQ1VQRF1ZS2FcTWJcT2FdUGhiUmplVnJtXXVwX3VwYHp0Ynt2ZX94ZYV9a4iCb5qUgbGpk7ewmbexmsK7psO8pca+qMrDq8jCrMzErs3Fr9DJs9bQugAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AJVHbYlUcZpFzJRlvQMAeMchQEIhNKEADs=",
+        "width": 3000,
+        "height": 2411,
+        "alt_text": "A work made of etching on ivory wove paper."
+    },
+    "main_reference_number": "1991.728",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1659,
+    "date_end": 1659,
+    "date_display": "1659",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Karel Dujardin\nDutch, c. 1622-1678",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": "4 \u00d7 17.5 cm (1 5/8 \u00d7 6 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.5,
+            "width_in": 6.8898,
+            "height_cm": 4,
+            "height_in": 1.5749,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Etching on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Charles R. Feldstein",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1992,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.2384,
+    "color": {
+        "h": 40,
+        "l": 51,
+        "s": 9,
+        "percentage": 0.09023831676627926,
+        "population": 515
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34326,
+    "artist_title": "Karel Dujardin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34326
+    ],
+    "artist_titles": [
+        "Karel Dujardin"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d9a87627-dd4c-c0e1-aa2f-dea926564e95",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1991.728"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Man with a Dog"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:09-05:00",
+    "updated_at": "2023-04-10T11:00:43-05:00",
+    "timestamp": "2023-09-24T01:12:17-05:00"
+}

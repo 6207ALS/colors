@@ -1,0 +1,177 @@
+{
+    "id": 6784,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/6784",
+    "is_boosted": false,
+    "title": "Cushion Cover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFRLNlRMNlZNNlhQO1hQPFlQPFlRPVtUQWVdTGZeTmdfT2hgT2lhUGxiUW1kVGxkVW9lVXJqW3dvYXhxY351Z352agAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4KRATJUAA/A4xGFESlAIjoQ0CxUCADs=",
+        "width": 5034,
+        "height": 4953,
+        "alt_text": "A work made of gauze; petit point needlework."
+    },
+    "main_reference_number": "1957.549",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "Qing dynasty (1644\u20131911), c. 1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "58.4 \u00d7 59.4 cm (23 \u00d7 23 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 59.4,
+            "width_in": 23.375,
+            "height_cm": 58.4,
+            "height_in": 23,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gauze; petit point needlework",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Chauncey McCormick",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 23.9305,
+    "color": {
+        "h": 42,
+        "l": 55,
+        "s": 32,
+        "percentage": 0.01257699838499907,
+        "population": 88
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "Chinese (culture or style)",
+        "textile",
+        "qing",
+        "needlework (visual works)",
+        "asian",
+        "weaving"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [
+        "TM-5086",
+        "TM-4694"
+    ],
+    "style_ids": [
+        "TM-4303",
+        "TM-5086",
+        "TM-4694"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)",
+        "qing",
+        "asian"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1c6be548-e7f2-9166-0da4-bfa021a11709",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1957.549"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Cushion Cover"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-04-10T14:55:36-05:00",
+    "timestamp": "2023-09-24T00:23:08-05:00"
+}

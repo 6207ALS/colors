@@ -1,0 +1,170 @@
+{
+    "id": 262566,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/262566",
+    "is_boosted": false,
+    "title": "Columbia (#3 of 7)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADo6OT09PEtKSUpLSlVLSVxcWmFaWGFhX2lkYW1pZ3Jxb3RycX18en59e4CAfYKAfoKCgIuKiL+4tcS2ssW6tsnCvsTEwcvLx8zKxsrLyM/Nyc7NytDPy9XU0QAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoHZZ2YZxEjVVnZMYBAIJATAUR6Qwz9KEADs=",
+        "width": 8977,
+        "height": 7171,
+        "alt_text": "A work made of gelatin silver print with hand applied lettering."
+    },
+    "main_reference_number": "2021.520.5",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1993,
+    "date_end": 1993,
+    "date_display": "1993",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Lewis Koch\nAmerican, born 1949",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 47.5 \u00d7 37.1 cm (18 3/4 \u00d7 14 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 37.1,
+            "width_in": 14.6063,
+            "height_cm": 47.5,
+            "height_in": 18.7008,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        }
+    ],
+    "medium_display": "Gelatin silver print with hand applied lettering",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 357,
+        "l": 50,
+        "s": 62,
+        "percentage": 1.553420572293498e-6,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117763,
+    "artist_title": "Lewis Koch",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117763
+    ],
+    "artist_titles": [
+        "Lewis Koch"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8fb75438-df95-287b-13eb-fc16794db455",
+    "alt_image_ids": [
+        "580f2b0d-0497-739c-dd2a-47e554522085",
+        "d18e2c60-7b24-71d2-d738-69dab5cf8078"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.520.5"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Columbia (#3 of 7)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-09T15:06:15-06:00",
+    "updated_at": "2023-04-07T12:30:15-05:00",
+    "timestamp": "2023-09-24T01:58:11-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 1962,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1962",
+    "title": "Max Beerbohm",
+    "sort_title": "Beerbohm, Max",
+    "alt_titles": [
+        "Sir Max Beerbohm"
+    ],
+    "is_artist": true,
+    "birth_date": 1872,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Beerbohm",
+            "Beerbohm, Max",
+            "Sir Max Beerbohm"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:50-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

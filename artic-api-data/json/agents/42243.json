@@ -1,0 +1,33 @@
+{
+    "id": 42243,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42243",
+    "title": "Gertrude A. Steel",
+    "sort_title": "Steel, Gertrude A.",
+    "alt_titles": [
+        "Gourlay Steel",
+        "Gourlay Steell"
+    ],
+    "is_artist": true,
+    "birth_date": 1819,
+    "death_date": 1894,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gertrude A. Steel",
+            "Steel, Gertrude A.",
+            "Gourlay Steel",
+            "Gourlay Steell"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:51-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

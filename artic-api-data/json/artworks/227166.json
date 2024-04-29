@@ -1,0 +1,180 @@
+{
+    "id": 227166,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/227166",
+    "is_boosted": false,
+    "title": "Title Plate, from General Dynamic F.U.N.",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAOPk3uTl3+jo4Onq4+rq4+rr5Ovs5uzs5u/v6u/w6vDw6vDx6/Ly7PLz7QAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLUAQyQEmHLdMUYhEAOw==",
+        "width": 2062,
+        "height": 3000,
+        "alt_text": "A work made of lithograph on paper."
+    },
+    "main_reference_number": "2013.167.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1970,
+    "date_display": "1970",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Eduardo Paolozzi (British, 1924-2005)\nphotolithographs printed at Richard Davis, London\nscreenprints printed by Lyndon Haywood at Alecto Studios, London\npublished by Editions Alecto, London",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "38 \u00d7 25.4 cm (15 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 38,
+            "height_in": 14.9607,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Elizabeth Gott Templeton Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.0237,
+    "color": {
+        "h": 190,
+        "l": 49,
+        "s": 7,
+        "percentage": 0.0013545966301506118,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36123,
+    "artist_title": "Eduardo Paolozzi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36123
+    ],
+    "artist_titles": [
+        "Eduardo Paolozzi"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "printed",
+        "paper",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-2316",
+        "TM-145",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-2316",
+        "TM-145",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "printed",
+        "paper",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "19b84783-8861-a4d9-2c1b-de25e648b905",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2013.167.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Title Plate, from General Dynamic F.U.N."
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:31-05:00",
+    "updated_at": "2023-04-07T15:12:27-05:00",
+    "timestamp": "2023-09-24T01:48:07-05:00"
+}

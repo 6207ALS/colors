@@ -1,0 +1,28 @@
+{
+    "id": 3477,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3477",
+    "title": "Nicolaes de Bruyn",
+    "sort_title": "Bruyn, Nicolaes de",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1571,
+    "death_date": 1656,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolaes de Bruyn",
+            "Bruyn, Nicolaes de"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-14T15:25:08-06:00",
+    "updated_at": "2023-02-14T15:27:15-06:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

@@ -1,0 +1,185 @@
+{
+    "id": 76307,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/76307",
+    "is_boosted": false,
+    "title": "St. Philip",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGFgT4SDcYaEcIaGc4mIdY2Md46NeJOQepKRfJeVf5mYgJuZg5qahp2ch7i3oAAAACH5BAAAAAAALAAAAAADAAUAAAQLcDVXCFNhJGSOABEAOw==",
+        "width": 1966,
+        "height": 3150,
+        "alt_text": "A work made of engraving in black on ivory laid paper."
+    },
+    "main_reference_number": "1952.18",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1526,
+    "date_end": 1526,
+    "date_display": "1526",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Albrecht D\u00fcrer\nGerman, 1471-1528",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "12.1 \u00d7 7.5 cm (4 13/16 \u00d7 3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 7.5,
+            "width_in": 2.9528,
+            "height_cm": 12.1,
+            "height_in": 4.7638,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Engraving in black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": "<p>Bartsch 46</p><p>Strauss 103</p><p>Meder 48 c/e</p><p>Schoch, Mende, & Scherbaum 100</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1952,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.4021,
+    "color": {
+        "h": 50,
+        "l": 45,
+        "s": 15,
+        "percentage": 0.009395088037243182,
+        "population": 107
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40561,
+    "artist_title": "Albrecht D\u00fcrer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40561
+    ],
+    "artist_titles": [
+        "Albrecht D\u00fcrer"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "paper",
+        "ink",
+        "laid paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-3070"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3070"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "laid paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cda0f459-3d6d-28e2-7960-5f447acc91df",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1952.18"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "St. Philip"
+            ],
+            "weight": 139,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-09-23T23:21:54-05:00",
+    "timestamp": "2023-09-24T00:53:08-05:00"
+}

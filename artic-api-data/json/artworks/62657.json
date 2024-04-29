@@ -1,0 +1,187 @@
+{
+    "id": 62657,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62657",
+    "is_boosted": false,
+    "title": "Portrait of a Bearded Man",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGJcUXx0Y4h8aZeKc5WJdKKVe6qZfq6fg7yskMCtkMGukcGvksWzlsu3lM25mdC5mdO8mdW/m9O9nNvEnwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoJQozyQY0AEMEREUjbMgTAgAOw==",
+        "width": 631,
+        "height": 768,
+        "alt_text": "A work made of graphite with stumping on tan wove paper."
+    },
+    "main_reference_number": "1981.388",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1885,
+    "date_end": 1905,
+    "date_display": "1885",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Adolph Menzel\nGerman, 1815\u20131905",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "19.2 \u00d7 15.8 cm (7 9/16 \u00d7 6 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.8,
+            "width_in": 6.2205,
+            "height_cm": 19.2,
+            "height_in": 7.5591,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite with stumping on tan wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Dorothy Carus",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Given by Gertrude and Ilse and Franz Gayl, Chicago, to Mr. and Mrs. Carus, LaSalle [inscription on verso of original frame]; given by Dorothy Carus to the Art Institute, 1981.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 25.4509,
+    "color": {
+        "h": 39,
+        "l": 47,
+        "s": 11,
+        "percentage": 0.029598181561720303,
+        "population": 256
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40700,
+    "artist_title": "Adolph Friedrich Erdmann von Menzel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40700
+    ],
+    "artist_titles": [
+        "Adolph Friedrich Erdmann von Menzel"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "stumping",
+        "paper (fiber product)",
+        "graphite",
+        "drawing techniques",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+    ],
+    "technique_id": "TM-3854",
+    "alt_technique_ids": [
+        "TM-3968"
+    ],
+    "technique_ids": [
+        "TM-3854",
+        "TM-3968"
+    ],
+    "technique_titles": [
+        "stumping",
+        "drawing techniques"
+    ],
+    "theme_titles": [],
+    "image_id": "4566f177-48ca-9a36-c709-1d0038a26b96",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.388"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Bearded Man"
+            ],
+            "weight": 255,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T12:58:09-05:00",
+    "timestamp": "2023-09-24T00:47:29-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 85701,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/85701",
+    "title": "Christian Frederick K\u00f6hlitz",
+    "sort_title": "K\u00f6hlitz, Christian Frederick",
+    "alt_titles": [
+        "Chr. Fr. K\u00f6hlitz"
+    ],
+    "is_artist": true,
+    "birth_date": 1701,
+    "death_date": 1900,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Christian Frederick K\u00f6hlitz",
+            "K\u00f6hlitz, Christian Frederick",
+            "Chr. Fr. K\u00f6hlitz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:23:32-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 36763,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36763",
+    "title": "Spinello Aretino",
+    "sort_title": "Spinello Aretino",
+    "alt_titles": [
+        "Spinello di Luca Spinelli",
+        "Spinello di Luca Spinelli, (Spinello Arentino)",
+        "Luca Spinello Arentino",
+        "Spinello di Luca",
+        "Arentino Spinello",
+        "Spinello Aretino",
+        "Luca Spinelli",
+        "Spinello d'Arezzo",
+        "Spinello di Luca, (Aretino)"
+    ],
+    "is_artist": true,
+    "birth_date": 1341,
+    "death_date": 1410,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Spinello Aretino",
+            "Spinello Aretino",
+            "Spinello di Luca Spinelli",
+            "Spinello di Luca Spinelli, (Spinello Arentino)",
+            "Luca Spinello Arentino",
+            "Spinello di Luca",
+            "Arentino Spinello",
+            "Spinello Aretino",
+            "Luca Spinelli",
+            "Spinello d'Arezzo",
+            "Spinello di Luca, (Aretino)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:33:45-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 225676,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/225676",
+    "is_boosted": false,
+    "title": "New York City",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAI18X5OAYaqYdrWyp8uzh8myicG7r8K8sdzEmMvGvc/LvtLLutTLu9HMwd/Vw9rUxd3Xzd3Z0eDb0+Pf1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOQw0oIQzyAUihEAx9QkUQgAOw==",
+        "width": 2192,
+        "height": 3000,
+        "alt_text": "A work made of graphite, conte crayon, and colored pencil on cream wove paper."
+    },
+    "main_reference_number": "2015.570",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1921,
+    "date_end": 1982,
+    "date_display": "n.d.",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Allan McNab\nEnglish, 1901\u20131982",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "Sight: 46.8 \u00d7 31.6 cm (18 7/16 \u00d7 12 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 31.6,
+            "width_in": 12.441,
+            "height_cm": 46.8,
+            "height_in": 18.4252,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sight"
+        }
+    ],
+    "medium_display": "Graphite, conte crayon, and colored pencil on cream wove paper",
+    "inscriptions": "Signed lower right, below image, in graphite: \"Allan McNab\"",
+    "credit_line": "Gift of Marjorie Kreilick McNab",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.0938,
+    "color": {
+        "h": 37,
+        "l": 69,
+        "s": 56,
+        "percentage": 0.023025795058088733,
+        "population": 224
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 16794,
+    "artist_title": "Allan McNab",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        16794
+    ],
+    "artist_titles": [
+        "Allan McNab"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-175",
+    "classification_title": "graphite",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-175",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "graphite",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "50f297ec-b41d-b44d-d3c4-6c1b73248dfb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.570"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "New York City"
+            ],
+            "weight": 32,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:30-05:00",
+    "updated_at": "2023-04-07T15:13:42-05:00",
+    "timestamp": "2023-09-24T01:47:48-05:00"
+}

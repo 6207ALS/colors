@@ -1,0 +1,47 @@
+{
+    "id": 40492,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40492",
+    "title": "Cigoli",
+    "sort_title": "Cigoli",
+    "alt_titles": [
+        "Ludovico Cardi",
+        "Lodovico Cardiola Cigoli",
+        "Lodovico Cardi, called Il Cigoli",
+        "Cigoli, (Ludovico Cardi)",
+        "Lodovico Cardi",
+        "Lodovico Cignoli",
+        "Lodovico Cignoli",
+        "Lodovico Cardi da Cigoli",
+        "Lodovico Gigoli"
+    ],
+    "is_artist": true,
+    "birth_date": 1559,
+    "death_date": 1613,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cigoli",
+            "Cigoli",
+            "Ludovico Cardi",
+            "Lodovico Cardiola Cigoli",
+            "Lodovico Cardi, called Il Cigoli",
+            "Cigoli, (Ludovico Cardi)",
+            "Lodovico Cardi",
+            "Lodovico Cignoli",
+            "Lodovico Cignoli",
+            "Lodovico Cardi da Cigoli",
+            "Lodovico Gigoli"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:43-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

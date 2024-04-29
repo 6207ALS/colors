@@ -1,0 +1,175 @@
+{
+    "id": 184016,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/184016",
+    "is_boosted": false,
+    "title": "Coverlet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAD0wLEU1NGJPTGNPTWpTUWtYVGBSWGxbYHNgYX5iY35rb5R7f5N+fpqDiJ2Fi6aMjKWNkqCRka2SmKqZm76nqr+tsLe6utO7v8nBwwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoOFA0qFQ2NUgk1UtAxM9CSAURBACADs=",
+        "width": 803,
+        "height": 761,
+        "alt_text": "A work made of cotton and wool, plain weave double cloth with extended ground weft fringe; attached plain weave with extended ground weft fringe."
+    },
+    "main_reference_number": "2005.73",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1892,
+    "date_end": 1893,
+    "date_display": "1892/93",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "201.9 \u00d7 210.8 cm (79 1/2 \u00d7 83 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 210.8,
+            "width_in": 83,
+            "height_cm": 201.9,
+            "height_in": 79.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton and wool, plain weave double cloth with extended ground weft fringe; attached plain weave with extended ground weft fringe",
+    "inscriptions": null,
+    "credit_line": "Don F. and Jean Stuck Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.1437,
+    "color": {
+        "h": 354,
+        "l": 46,
+        "s": 64,
+        "percentage": 0.005938621378740032,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "double cloth",
+        "textile",
+        "coverlet",
+        "weaving - coverlet",
+        "coverlet"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-1217",
+        "TM-262"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-1217",
+        "TM-262"
+    ],
+    "classification_titles": [
+        "textile",
+        "coverlet",
+        "weaving - coverlet"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [
+        "TM-14513"
+    ],
+    "subject_ids": [
+        "TM-14513"
+    ],
+    "subject_titles": [
+        "coverlet"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10556",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10556"
+    ],
+    "technique_titles": [
+        "double cloth"
+    ],
+    "theme_titles": [],
+    "image_id": "ce22bc57-6d07-cf1e-8816-d2d3d7c31f64",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2005.73"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Coverlet"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:13:44-05:00",
+    "timestamp": "2023-09-24T01:34:23-05:00"
+}

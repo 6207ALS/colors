@@ -1,0 +1,224 @@
+{
+    "id": 249111,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/249111",
+    "is_boosted": false,
+    "title": "Elmcote",
+    "alt_titles": [],
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAElMRklMR0pNRktOR0xPSU5RTE9STVBTTVBTT1FUTlNWT1VXUVZYU1ZZU1dZUwAAACH5BAAAAAAALAAAAAADAAUAAAQLkBm0QHDjKFEaSREAOw==",
+        "width": 6301,
+        "height": 10847,
+        "alt_text": "A work made of jacquard woven wool."
+    },
+    "main_reference_number": "2018.817",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1900,
+    "date_display": "Design c. 1900",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "Designed by John Henry Dearle (English, 1860\u20131932)\nProduced by Morris & Co., London (English, 1875\u20131940)\nMerton Abbey, London (English, 1881\u20131940)",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "221 \u00d7 127.3 cm (87 \u00d7 50 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 127.3,
+            "width_in": 50.125,
+            "height_cm": 221,
+            "height_in": 87,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Jacquard woven wool",
+    "inscriptions": null,
+    "credit_line": "Gift of Crab Tree Farm Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Francesca Galloway, London, by 1994; sold to Crab Tree Farm Foundation, Lake Bluff, IL, Sept. 1, 1994 [Crab Tree Farm Foundation catalog records; copy in curatorial files]; given to the Art Institute of Chicago, 2018.",
+    "edition": null,
+    "publishing_verification_level": "Web Everything",
+    "internal_department_id": 4,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 73,
+        "l": 35,
+        "s": 10,
+        "percentage": 0.003523200531546786,
+        "population": 2408
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Coverings and Hangings",
+    "artwork_type_id": 38,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 60143,
+    "artist_title": "John Henry Dearle",
+    "alt_artist_ids": [
+        60146,
+        86315
+    ],
+    "artist_ids": [
+        60146,
+        60143,
+        86315
+    ],
+    "artist_titles": [
+        "Morris & Co.",
+        "John Henry Dearle",
+        "Merton Abbey Works"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "weaving",
+        "wool (textile)",
+        "weaving",
+        "Arts and Crafts Movement",
+        "floral motifs",
+        "textile",
+        "weaving on loom with jacquard attachment",
+        "flowers",
+        "foliage",
+        "vines",
+        "british",
+        "British Arts and Crafts Movement",
+        "natural dye"
+    ],
+    "style_id": "TM-7569",
+    "style_title": "Arts and Crafts Movement",
+    "alt_style_ids": [
+        "TM-14197",
+        "TM-14957"
+    ],
+    "style_ids": [
+        "TM-7569",
+        "TM-14197",
+        "TM-14957"
+    ],
+    "style_titles": [
+        "Arts and Crafts Movement",
+        "british",
+        "British Arts and Crafts Movement"
+    ],
+    "classification_id": "TM-159",
+    "classification_title": "weaving",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-159",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "weaving",
+        "textile"
+    ],
+    "subject_id": "TM-12631",
+    "alt_subject_ids": [
+        "TM-10482",
+        "TM-11206",
+        "TM-11863"
+    ],
+    "subject_ids": [
+        "TM-12631",
+        "TM-10482",
+        "TM-11206",
+        "TM-11863"
+    ],
+    "subject_titles": [
+        "floral motifs",
+        "flowers",
+        "foliage",
+        "vines"
+    ],
+    "material_id": "TM-2581",
+    "alt_material_ids": [
+        "TM-3407"
+    ],
+    "material_ids": [
+        "TM-2581",
+        "TM-3407"
+    ],
+    "material_titles": [
+        "wool (textile)",
+        "natural dye"
+    ],
+    "technique_id": "TM-4292",
+    "alt_technique_ids": [
+        "TM-10497"
+    ],
+    "technique_ids": [
+        "TM-4292",
+        "TM-10497"
+    ],
+    "technique_titles": [
+        "weaving",
+        "weaving on loom with jacquard attachment"
+    ],
+    "theme_titles": [],
+    "image_id": "b75e18e7-d196-6b89-f2d0-85b1f47845fe",
+    "alt_image_ids": [
+        "2a621e5d-63b6-e140-262c-4e97d713a061"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2018.817"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Elmcote"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:46:38-05:00",
+    "timestamp": "2023-09-24T01:55:29-05:00"
+}

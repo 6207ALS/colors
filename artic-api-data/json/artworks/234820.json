@@ -1,0 +1,192 @@
+{
+    "id": 234820,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/234820",
+    "is_boosted": false,
+    "title": "Chicago Symphony Orchestra",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAMOzusa3vtbKzdfKzd/W1+DW2OXb2+bc3O/q6PLp5/Dq6fLv7fPv7vfy7/jz8AAAACH5BAAAAAAALAAAAAADAAUAAAQLEAW1ABNpkFOacREAOw==",
+        "width": 1504,
+        "height": 2250,
+        "alt_text": "A work made of color screenprint on off-white wove paper."
+    },
+    "main_reference_number": "2016.284.2",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "Designed",
+    "date_qualifier_id": 2,
+    "artist_display": "John Massey\nAmerican, born 1931",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "100.3 \u00d7 67.3 cm (39 1/2 \u00d7 26 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 67.3,
+            "width_in": 26.5,
+            "height_cm": 100.3,
+            "height_in": 39.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color screenprint on off-white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of John Massey",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 58.925,
+    "color": {
+        "h": 2,
+        "l": 51,
+        "s": 71,
+        "percentage": 0.039227749540696674,
+        "population": 417
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 114389,
+    "artist_title": "John Massey",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114389
+    ],
+    "artist_titles": [
+        "John Massey"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "graphic design",
+        "screenprint",
+        "20th Century",
+        "Chicago",
+        "wove paper",
+        "screenprint",
+        "lines",
+        "music"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-12308",
+    "classification_title": "graphic design",
+    "alt_classification_ids": [
+        "TM-214"
+    ],
+    "classification_ids": [
+        "TM-12308",
+        "TM-214"
+    ],
+    "classification_titles": [
+        "graphic design",
+        "screenprint"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [
+        "TM-12722",
+        "TM-8906"
+    ],
+    "subject_ids": [
+        "TM-12075",
+        "TM-12722",
+        "TM-8906"
+    ],
+    "subject_titles": [
+        "Chicago",
+        "lines",
+        "music"
+    ],
+    "material_id": "TM-13172",
+    "alt_material_ids": [
+        "TM-3074"
+    ],
+    "material_ids": [
+        "TM-13172",
+        "TM-3074"
+    ],
+    "material_titles": [
+        "screenprint",
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5f2ff1db-1555-e7e5-97de-4defdc8903ee",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.284.2"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Chicago Symphony Orchestra"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:32-05:00",
+    "updated_at": "2023-04-07T15:05:21-05:00",
+    "timestamp": "2023-09-24T01:51:26-05:00"
+}

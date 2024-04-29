@@ -1,0 +1,171 @@
+{
+    "id": 157159,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/157159",
+    "is_boosted": false,
+    "title": "Museum without Ceiling",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAABo2NyU4MCE7PTRIPilCRTJOUz5LU0FQVk5WVE5aW0lbY0Zeal1lZ1JhaFNiamFqcYN8eYd+eoZ/fW9yh3V1iGt+poR+gW+CsoWMpZGXr4KOtI6Zu4yZvZGbtYabyYmh2Iui2Ymh2o6l24yk3Y6l3Iig4ZGn4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwADi4WgwEgNAxQT6iDwFwaUUIo1ACwJmo+F0MgpDxDKhSCCHIAA7",
+        "width": 3000,
+        "height": 1978,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2001.160",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1976,
+    "date_end": 1976,
+    "date_display": "1976",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Roger Brown\nAmerican, 1941\u20131997",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "122 \u00d7 182.9 cm (48 \u00d7 72 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 182.9,
+            "width_in": 72,
+            "height_cm": 122,
+            "height_in": 48,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Ruth Horwich; Ann M. Vielehr Prize Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2001,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 51.539,
+    "color": {
+        "h": 36,
+        "l": 41,
+        "s": 90,
+        "percentage": 0.023682121918123866,
+        "population": 111
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 33774,
+    "artist_title": "Roger Brown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33774
+    ],
+    "artist_titles": [
+        "Roger Brown"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-154"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Chicago Artists"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "ab716df2-5969-611c-2703-8e139afbe07c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2001.160"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Museum without Ceiling"
+            ],
+            "weight": 1246,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:18-05:00",
+    "updated_at": "2023-04-07T16:28:03-05:00",
+    "timestamp": "2023-09-24T01:31:12-05:00"
+}

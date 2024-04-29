@@ -1,0 +1,183 @@
+{
+    "id": 87372,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/87372",
+    "is_boosted": false,
+    "title": "Portrait of a Man",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAOjk1vXx5Pjz5/n06Pn16fr16fr26vv26vv26/v37P347/358P368P788v779AAAACH5BAAAAAAALAAAAAADAAUAAAQLEDFxwEiBrGaUKxEAOw==",
+        "width": 2012,
+        "height": 3000,
+        "alt_text": "A work made of lithograph in black on ivory wove paper."
+    },
+    "main_reference_number": "1927.812",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1815,
+    "date_end": 1825,
+    "date_display": "c. 1820",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean\u2013Auguste\u2013Dominique Ingres\nFrench, 1780\u20131867",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image/plate: 10.3 \u00d7 7.8 cm (4 1/16 \u00d7 3 1/8 in.); Sheet: 27.5 \u00d7 18.5 cm (10 7/8 \u00d7 7 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 7.8,
+            "width_in": 3.0709,
+            "height_cm": 10.3,
+            "height_in": 4.0552,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.5,
+            "width_in": 7.2835,
+            "height_cm": 27.5,
+            "height_in": 10.8268,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Lithograph in black on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "The Joseph Brooks Fair Collection",
+    "catalogue_display": "<p>Delteil 7 I/I</p><p>Beraldi not included</p><p>Fonds Fran\u00e7ais 6</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1927,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.0482,
+    "color": {
+        "h": 45,
+        "l": 44,
+        "s": 26,
+        "percentage": 0.0007549655499782475,
+        "population": 8
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35059,
+    "artist_title": "Jean Auguste Dominique Ingres",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35059
+    ],
+    "artist_titles": [
+        "Jean Auguste Dominique Ingres"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "433a61bf-a446-b3ae-93d3-7e1145c9e7e9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.812"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Man"
+            ],
+            "weight": 226,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:03:57-05:00",
+    "timestamp": "2023-09-24T00:58:43-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 22687,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22687",
+    "title": "Paul S\u00e9rusier",
+    "sort_title": "S\u00e9rusier, Paul",
+    "alt_titles": [
+        "Louis Paul Henri S\u00e9rusier"
+    ],
+    "is_artist": true,
+    "birth_date": 1864,
+    "death_date": 1927,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paul S\u00e9rusier",
+            "S\u00e9rusier, Paul",
+            "Louis Paul Henri S\u00e9rusier"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:10-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 52507,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52507",
+    "title": "Camille Claudel",
+    "sort_title": "Claudel, Camille",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1864,
+    "death_date": 1943,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Camille Claudel",
+            "Claudel, Camille"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-05T16:02:52-05:00",
+    "updated_at": "2022-10-05T16:05:55-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

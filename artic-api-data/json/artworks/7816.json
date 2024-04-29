@@ -1,0 +1,184 @@
+{
+    "id": 7816,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/7816",
+    "is_boosted": false,
+    "title": "Teapot with Cover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADw8PT48Pj8+QEA/QUFAQENBQ0ZER09NUFdUVltZWmZjY2FgZW1qaW5qbXd2en57en59g4qFg46JhpGNi6qckqagm6ihmaWipqakpbyzqLKytrOztra0tcTCv8bFx8jGx8/Ny9jRyefg2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIEgQAAUDIcEozJRIBYPS0YUaUAcEkoIc9FsOB3QxxMEADs=",
+        "width": 3000,
+        "height": 2205,
+        "alt_text": "A work made of porcelain."
+    },
+    "main_reference_number": "1958.235a-b",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1790,
+    "date_end": 1800,
+    "date_display": "1790\u20131800",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "China, Qianlong reign\nChinese, made for the American market",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "15.2 \u00d7 24.1 \u00d7 13.3 cm (6 \u00d7 9 1/2 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 13.3,
+            "depth_in": 5.25,
+            "width_cm": 24.1,
+            "width_in": 9.5,
+            "height_cm": 15.2,
+            "height_in": 6,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Porcelain",
+    "inscriptions": null,
+    "credit_line": "Bequest of Frederick S. Colburn",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.6175,
+    "color": {
+        "h": 279,
+        "l": 41,
+        "s": 1,
+        "percentage": 0.3229101389950883,
+        "population": 1685
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 107170,
+    "artist_title": "Chinese export porcelain",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        107170
+    ],
+    "artist_titles": [
+        "Chinese export porcelain"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "teapot",
+        "porcelain",
+        "porcelain",
+        "american decorative arts",
+        "american arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11780",
+    "classification_title": "teapot",
+    "alt_classification_ids": [
+        "TM-38",
+        "TM-2190",
+        "TM-2191",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-11780",
+        "TM-38",
+        "TM-2190",
+        "TM-2191",
+        "TM-46",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "teapot",
+        "porcelain",
+        "american decorative arts",
+        "american arts",
+        "ceramics",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2448",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2448"
+    ],
+    "material_titles": [
+        "porcelain"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cc397bd2-bc65-269a-ea89-c8504817d330",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1958.235a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Teapot with Cover"
+            ],
+            "weight": 740,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:12-05:00",
+    "updated_at": "2023-06-21T11:25:50-05:00",
+    "timestamp": "2023-09-24T00:23:30-05:00"
+}

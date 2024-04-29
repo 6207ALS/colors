@@ -1,0 +1,175 @@
+{
+    "id": 254003,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/254003",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAH40WrAtL7k1Law9PMJJPpczRog8VqE6Q4BBX5lFUptTXbFUTKhKUrpRUrheWYlUaJNQZK1ca7ZgY65pcLN4e8RXTc9qXcFzZsF0dQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4LNclAIRFsYYQiUdQNBEBTI4UxICADs=",
+        "width": 2664,
+        "height": 2668,
+        "alt_text": "A work made of acrylic binder, tape, acrylic on canvas."
+    },
+    "main_reference_number": "2019.1184",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2006,
+    "date_end": 2006,
+    "date_display": "2006",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Heimo Zobernig\nAustrian, born 1958",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "100 \u00d7 100 cm (39 5/16 \u00d7 39 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 100,
+            "width_in": 39.3,
+            "height_cm": 100,
+            "height_in": 39.3,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic binder, tape, acrylic on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Anne, Amy and Thomas Hokin in memory of William J. Hokin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 116.3785,
+    "color": {
+        "h": 4,
+        "l": 45,
+        "s": 86,
+        "percentage": 0.6593187274066328,
+        "population": 4691
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 100103,
+    "artist_title": "Heimo Zobernig",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        100103
+    ],
+    "artist_titles": [
+        "Heimo Zobernig"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "red (color)",
+        "black (color)",
+        "green (color)",
+        "blue (color)",
+        "white (color)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [],
+    "classification_ids": [],
+    "classification_titles": [],
+    "subject_id": "TM-11851",
+    "alt_subject_ids": [
+        "TM-11845",
+        "TM-11849",
+        "TM-11843",
+        "TM-11841"
+    ],
+    "subject_ids": [
+        "TM-11851",
+        "TM-11845",
+        "TM-11849",
+        "TM-11843",
+        "TM-11841"
+    ],
+    "subject_titles": [
+        "red (color)",
+        "black (color)",
+        "green (color)",
+        "blue (color)",
+        "white (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5457155f-8171-251d-4497-f8f7d6ec42ae",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.1184"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:43:34-05:00",
+    "timestamp": "2023-09-24T01:56:45-05:00"
+}

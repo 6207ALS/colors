@@ -1,0 +1,163 @@
+{
+    "id": 48735,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/48735",
+    "is_boosted": false,
+    "title": "Woodblock for The Swallow, from A History of British Birds",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAB0cGh0dHB8fHR8fHiEgHiMjISMjIiQjISQkIiUlIycmJSgoJisqKCsrKC0sKSwsKjAwLTY1NDc2NDc3NTk5Nzo5Njs5Njw6Nzs7OkJBPkREQ0lHRUtLSUxLSUxMS05NSk5NS1JQTlRUU1pZV2NfXHNxb3h4dgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQNLFIolQMKLNYZFAKAaTEeORaEAcmRAgICgYCJWSpvPhgDymIAA7",
+        "width": 2443,
+        "height": 1593,
+        "alt_text": "A work made of wood engraving block."
+    },
+    "main_reference_number": "1943.1014",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1792,
+    "date_end": 1797,
+    "date_display": "c. 1797",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Thomas Bewick\nEnglish, 1753-1828",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Wood engraving block",
+    "inscriptions": null,
+    "credit_line": "The Joseph Brooks Fair Collection",
+    "catalogue_display": "<p>Hugo 998</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1944,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.5237,
+    "color": {
+        "h": 187,
+        "l": 46,
+        "s": 4,
+        "percentage": 0.004529278550630864,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33631,
+    "artist_title": "Thomas Bewick",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33631
+    ],
+    "artist_titles": [
+        "Thomas Bewick"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "wood engraving block",
+        "woodblock",
+        "matrix",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-500",
+    "classification_title": "wood engraving block",
+    "alt_classification_ids": [
+        "TM-2392",
+        "TM-561",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-500",
+        "TM-2392",
+        "TM-561",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "wood engraving block",
+        "woodblock",
+        "matrix",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "84198c10-1444-ac9b-5f4c-83b8c3d896b0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.1014"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Woodblock for The Swallow, from A History of British Birds"
+            ],
+            "weight": 7,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:01-05:00",
+    "updated_at": "2023-04-10T15:26:30-05:00",
+    "timestamp": "2023-09-24T00:41:46-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 54321,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/54321",
+    "title": "Norman Bel Geddes",
+    "sort_title": "Geddes, Norman Bel",
+    "alt_titles": [
+        "Norman Bel Geddes"
+    ],
+    "is_artist": true,
+    "birth_date": 1893,
+    "death_date": 1958,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Norman Bel Geddes",
+            "Geddes, Norman Bel",
+            "Norman Bel Geddes"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:15-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

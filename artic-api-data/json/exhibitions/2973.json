@@ -1,0 +1,38 @@
+{
+    "id": 2973,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2973",
+    "title": "Paintings by Francis William Loring",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1891-12-08T00:00:00-06:00",
+    "aic_end_at": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "94fd34cf-595e-a0d7-e43f-0cfcb05f248d"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Francis William Loring"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:23:18-06:00",
+    "timestamp": "2023-09-24T02:01:04-05:00"
+}

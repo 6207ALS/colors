@@ -1,0 +1,31 @@
+{
+    "id": 22806,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22806",
+    "title": "Sebasti\u00e3o Salgado",
+    "sort_title": "Salgado, Sebasti\u00e3o",
+    "alt_titles": [
+        "Sebasuchan Sarugado"
+    ],
+    "is_artist": true,
+    "birth_date": 1944,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sebasti\u00e3o Salgado",
+            "Salgado, Sebasti\u00e3o",
+            "Sebasuchan Sarugado"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:11-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

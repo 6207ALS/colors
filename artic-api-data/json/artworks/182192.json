@@ -1,0 +1,187 @@
+{
+    "id": 182192,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182192",
+    "is_boosted": false,
+    "title": "N",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGBkW2FmXGRoX2VpYJSXj5ebk5mdlZuel6Wooamtpamtpquup6uvp6ywqcjMw8nMxMnNxMnMxcnNxsvOxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYKAsQ+FAR/NMjCFFhJAgQAgAOw==",
+        "width": 2313,
+        "height": 3210,
+        "alt_text": "A work made of etching with hand-coloring on amscan paper doily."
+    },
+    "main_reference_number": "2004.96.16",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1999,
+    "date_end": 1999,
+    "date_display": "1999",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Peregrine Honig\nAmerican, born 1976",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Plate: 18.1 \u00d7 10.5 cm (7 3/16 \u00d7 4 3/16 in.); Sheets, max: 27.1 \u00d7 19.3 cm (10 11/16 \u00d7 7 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10.5,
+            "width_in": 4.1339,
+            "height_cm": 18.1,
+            "height_in": 7.126,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19.3,
+            "width_in": 7.5985,
+            "height_cm": 27.1,
+            "height_in": 10.6693,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheets, max"
+        }
+    ],
+    "medium_display": "Etching with hand-coloring on Amscan paper doily",
+    "inscriptions": null,
+    "credit_line": "Everett D. Graff Endowment",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.3187,
+    "color": {
+        "h": 61,
+        "l": 63,
+        "s": 44,
+        "percentage": 0.0014194320244142308,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 101518,
+    "artist_title": "Peregrine Honig",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        101518
+    ],
+    "artist_titles": [
+        "Peregrine Honig"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "etching",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "9e3e2376-2be1-2c17-ee2e-b611c151bb24",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.96.16"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "N"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:16:51-05:00",
+    "timestamp": "2023-09-24T01:33:44-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 33378,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33378",
+    "title": "Heinrich Aldegrever",
+    "sort_title": "Aldegrever, Heinrich",
+    "alt_titles": [
+        "Heinrich Aldegrever, (Trippenmeker)",
+        "Trippenmeker",
+        "Heinrich Aldegraf"
+    ],
+    "is_artist": true,
+    "birth_date": 1502,
+    "death_date": 1561,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Heinrich Aldegrever",
+            "Aldegrever, Heinrich",
+            "Heinrich Aldegrever, (Trippenmeker)",
+            "Trippenmeker",
+            "Heinrich Aldegraf"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-14T15:26:10-06:00",
+    "updated_at": "2023-02-14T15:27:14-06:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

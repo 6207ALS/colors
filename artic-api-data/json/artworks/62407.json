@@ -1,0 +1,173 @@
+{
+    "id": 62407,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/62407",
+    "is_boosted": false,
+    "title": "Fragment",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhDQAFAPUAAJVlPJVlPZZoQJdoQJdpQZdrQ5lrQplrQ5prQ5lqRJprRZtrRZpsRZptRZttRZtuR55vSJtwSZ1xS55zS59yTJ50TaB1TqF1T6N3UaN3UqR4UaV6VbmRbrqWdLuXdL6aeL+deL+cer6dfL+ffsCffcSlhMSmhMWnhcanhsaohsepiceqiMmriMiricmsisisi82sismujcuujcuujsuvjs+0k9K6mtjAoNzFpujUtgAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAANAAUAAAY7wJtL9oqtUjIVaSSygQAHgqCAYDAWEkXpFLlYJpWLRoPZZGaswEBgcDAaDwglQcvBOB1UK2TyfGooOEEAOw==",
+        "width": 3000,
+        "height": 1142,
+        "alt_text": "Earthenware bust of a man on a marble-painted pedestal. The man looks on the right, he wears silver shirt decorated with white flowers and a bright orange scarf, embracing his shoulders."
+    },
+    "main_reference_number": "1907.645",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1625,
+    "date_display": "Early 17th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Netherlands",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "29.2 \u00d7 9.8 cm (11 1/2 \u00d7 3 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.8,
+            "width_in": 3.875,
+            "height_cm": 29.2,
+            "height_in": 11.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and wool, compound weave (ie. Beiderwand or Lampas 2:1)",
+    "inscriptions": null,
+    "credit_line": "Art Institute of Chicago Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.7381,
+    "color": {
+        "h": 37,
+        "l": 67,
+        "s": 29,
+        "percentage": 0.03843268552085527,
+        "population": 104
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "compound weaving",
+        "textile",
+        "weaving",
+        "beiderwand",
+        "lampas"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10542",
+    "alt_technique_ids": [
+        "TM-10557",
+        "TM-10494"
+    ],
+    "technique_ids": [
+        "TM-10542",
+        "TM-10557",
+        "TM-10494"
+    ],
+    "technique_titles": [
+        "compound weaving",
+        "beiderwand",
+        "lampas"
+    ],
+    "theme_titles": [],
+    "image_id": "08b89297-fe85-5e8d-91a0-418e3a57110b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1907.645"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-10T13:25:39-06:00",
+    "updated_at": "2023-04-07T12:49:40-05:00",
+    "timestamp": "2023-09-24T00:47:23-05:00"
+}

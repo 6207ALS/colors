@@ -1,0 +1,28 @@
+{
+    "id": 44604,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44604",
+    "title": "August Hoen",
+    "sort_title": "Hoen, August",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1817,
+    "death_date": 1886,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "August Hoen",
+            "Hoen, August"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T18:25:03-05:00",
+    "updated_at": "2021-07-12T18:25:44-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

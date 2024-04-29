@@ -1,0 +1,33 @@
+{
+    "id": 57151,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/57151",
+    "title": "Th\u00e9o van Rysselberghe",
+    "sort_title": "Rysselberghe, Th\u00e9o van",
+    "alt_titles": [
+        "Theodore (Theo) van Rysselberghe",
+        "Theodore (Theo) Van Rysselberghe"
+    ],
+    "is_artist": true,
+    "birth_date": 1862,
+    "death_date": 1926,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Th\u00e9o van Rysselberghe",
+            "Rysselberghe, Th\u00e9o van",
+            "Theodore (Theo) van Rysselberghe",
+            "Theodore (Theo) Van Rysselberghe"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:45-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

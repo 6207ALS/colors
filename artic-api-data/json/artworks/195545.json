@@ -1,0 +1,173 @@
+{
+    "id": 195545,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/195545",
+    "is_boosted": false,
+    "title": "Artist's Sketchbook",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACAvTiQ0USQ2VDFAVj1GUj9IVD9NYEBJUlFYX0BPYURSY1djb19ndHN4f3l+g4aJh4+Tl6qspKyspa6up769ssO/rcbDssXFvNHOv8/NwdfTwdnXx93ayt/czAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIBY5zdVRA1EAEiMkRvBAx6Igk1ZtmcWFADs=",
+        "width": 3000,
+        "height": 2635,
+        "alt_text": "A work made of ink and colors on paper."
+    },
+    "main_reference_number": "2008.462",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1982,
+    "date_display": "1970/77",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mori Yoshitoshi\nJapanese, 1898-1992",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "53.5 \u00d7 48.5 cm (21 1/8 \u00d7 19 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 48.5,
+            "width_in": 19.125,
+            "height_cm": 53.5,
+            "height_in": 21.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink and colors on paper",
+    "inscriptions": null,
+    "credit_line": "The Frederick W. Gookin Memorial Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.5435,
+    "color": {
+        "h": 204,
+        "l": 51,
+        "s": 59,
+        "percentage": 0.0035266583309287933,
+        "population": 22
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 17707,
+    "artist_title": "Mori Yoshitoshi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        17707
+    ],
+    "artist_titles": [
+        "Mori Yoshitoshi"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "book",
+        "Japanese (culture or style)",
+        "ink"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-11"
+    ],
+    "classification_titles": [
+        "book"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c4fa5e54-f756-bbc2-ea3d-5c0103124221",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2008.462"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Artist's Sketchbook"
+            ],
+            "weight": 179,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:58:04-05:00",
+    "timestamp": "2023-09-24T01:38:07-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 48154,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/48154",
+    "title": "Albert Christoph Dies",
+    "sort_title": "Dies, Albert Christoph",
+    "alt_titles": [
+        "Albert C. Dies"
+    ],
+    "is_artist": true,
+    "birth_date": 1755,
+    "death_date": 1822,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Albert Christoph Dies",
+            "Dies, Albert Christoph",
+            "Albert C. Dies"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T18:12:55-05:00",
+    "updated_at": "2022-03-15T16:57:01-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

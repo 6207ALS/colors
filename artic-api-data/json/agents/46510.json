@@ -1,0 +1,33 @@
+{
+    "id": 46510,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46510",
+    "title": "Follower of Giuseppe Cesari",
+    "sort_title": "Cesari, Giuseppe, Follower of",
+    "alt_titles": [
+        "Follower of Cavaliere d'Arpino",
+        "Follower of Giuseppe Cesare"
+    ],
+    "is_artist": true,
+    "birth_date": 1568,
+    "death_date": 1640,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Follower of Giuseppe Cesari",
+            "Cesari, Giuseppe, Follower of",
+            "Follower of Cavaliere d'Arpino",
+            "Follower of Giuseppe Cesare"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:55-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

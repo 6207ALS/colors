@@ -1,0 +1,33 @@
+{
+    "id": 40631,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40631",
+    "title": "Louis Pierre Henriquel-Dupont",
+    "sort_title": "Henriquel-Dupont, Louis Pierre",
+    "alt_titles": [
+        "Louis P. Henriquel-Dupont",
+        "Louis Pierre Henriquel, (Henriquel Dupont)"
+    ],
+    "is_artist": true,
+    "birth_date": 1797,
+    "death_date": 1892,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Louis Pierre Henriquel-Dupont",
+            "Henriquel-Dupont, Louis Pierre",
+            "Louis P. Henriquel-Dupont",
+            "Louis Pierre Henriquel, (Henriquel Dupont)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:38-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,171 @@
+{
+    "id": 158639,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/158639",
+    "is_boosted": false,
+    "title": "Blue Note",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADgpKkUyN20/O0Q9QkZKUV5aXHRmVVxbYn9vYm12fIZtcKN0ZpeLdnh7hm+CjY6JhJGVlLicnq6gkcaypQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4JI4jBAMktIcUwQRCFA8RggAOw==",
+        "width": 1760,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2001.590",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1982,
+    "date_end": 1982,
+    "date_display": "1982",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Judith Godwin\nAmerican, 1930-2021",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "137.2 \u00d7 106.7 cm (54 \u00d7 42 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 106.7,
+            "width_in": 42,
+            "height_cm": 137.2,
+            "height_in": 54,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Gerald Nordland",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2002,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 40.3435,
+    "color": {
+        "h": 7,
+        "l": 48,
+        "s": 56,
+        "percentage": 0.002310856403383094,
+        "population": 21
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 97299,
+    "artist_title": "Judith Godwin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        97299
+    ],
+    "artist_titles": [
+        "Judith Godwin"
+    ],
+    "category_ids": [
+        "PC-8",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "52bf8856-560d-d3cc-2d62-2a7b06e00c5e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2001.590"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Blue Note"
+            ],
+            "weight": 660,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:23:59-05:00",
+    "timestamp": "2023-09-24T01:32:01-05:00"
+}

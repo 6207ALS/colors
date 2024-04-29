@@ -1,0 +1,35 @@
+{
+    "id": 3198,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/3198",
+    "title": "Raymond Breinin",
+    "sort_title": "Breinin, Raymond",
+    "alt_titles": [
+        "Raymond Breinen",
+        "\u0420\u0435\u0439\u043c\u043e\u043d\u0434 \u0411\u0440\u0430\u0439\u043d\u0438\u043d",
+        "Reimond Brainin"
+    ],
+    "is_artist": true,
+    "birth_date": 1908,
+    "death_date": 2000,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Raymond Breinin",
+            "Breinin, Raymond",
+            "Raymond Breinen",
+            "\u0420\u0435\u0439\u043c\u043e\u043d\u0434 \u0411\u0440\u0430\u0439\u043d\u0438\u043d",
+            "Reimond Brainin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:47:32-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

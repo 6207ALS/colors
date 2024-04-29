@@ -1,0 +1,176 @@
+{
+    "id": 261409,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/261409",
+    "is_boosted": false,
+    "title": "dna:study",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALuOFb2QE72RGLyRG8CTFsGUFcOWFMWXFsSWF8SXF8WYFseZF8CTGMOWGMWXGMWYGMaZGMaZGcWZGsSYHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYAAIg0EwRXI4DfQoSDRJSwgAOw==",
+        "width": 7514,
+        "height": 9028,
+        "alt_text": "A work made of ink, oil paint stick and paper on board."
+    },
+    "main_reference_number": "2021.256",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2020,
+    "date_end": 2020,
+    "date_display": "2020",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "McArthur Binion\nAmerican, born 1946",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "122 \u00d7 101.6 cm (48 \u00d7 40 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 101.6,
+            "width_in": 40,
+            "height_cm": 122,
+            "height_in": 48,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink, oil paint stick and paper on board",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by an anonymous donor and the In the Works Fund at The Chicago Community Trust",
+    "catalogue_display": null,
+    "publication_history": "None to date.",
+    "exhibition_history": "None to date.",
+    "provenance_text": "The artist; sold through Gray, Chicago and New York, to the Art Institute of Chicago, November 9, 2021.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 46,
+        "l": 43,
+        "s": 91,
+        "percentage": 0.005828729806266819,
+        "population": 3954
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 295",
+    "gallery_id": 25471,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 117652,
+    "artist_title": "McArthur Binion",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117652
+    ],
+    "artist_titles": [
+        "McArthur Binion"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "ink",
+        "painting",
+        "board",
+        "paper (fiber product)",
+        "oil paint stick"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+        "TM-13853",
+        "TM-2982",
+        "TM-14829"
+    ],
+    "material_ids": [
+        "TM-2398",
+        "TM-13853",
+        "TM-2982",
+        "TM-14829"
+    ],
+    "material_titles": [
+        "ink",
+        "board",
+        "paper (fiber product)",
+        "oil paint stick"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3afbb845-dbaf-a00a-d651-8cbd2b99df37",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.256"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "dna:study"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-24T15:08:25-06:00",
+    "updated_at": "2023-04-07T12:22:37-05:00",
+    "timestamp": "2023-09-24T01:57:50-05:00"
+}

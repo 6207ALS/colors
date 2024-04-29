@@ -1,0 +1,35 @@
+{
+    "id": 32942,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32942",
+    "title": "Jan Toorop",
+    "sort_title": "Toorop, Jan",
+    "alt_titles": [
+        "Jan Theodorus Toorop",
+        "Jean Theodoro (Jan) Toorop",
+        "Johannes Theodorus Toorop"
+    ],
+    "is_artist": true,
+    "birth_date": 1858,
+    "death_date": 1928,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan Toorop",
+            "Toorop, Jan",
+            "Jan Theodorus Toorop",
+            "Jean Theodoro (Jan) Toorop",
+            "Johannes Theodorus Toorop"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:52:18-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

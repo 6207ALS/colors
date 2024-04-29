@@ -1,0 +1,178 @@
+{
+    "id": 5311,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/5311",
+    "is_boosted": false,
+    "title": "Portrait of a Man",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABwdHSEiIygnJyUoJCcpJigoKCsvKD0/Lz5HOkFBMUdEN0ZDOUFEOkNLPUxPSGBkWHB0XXB0YpKMb5GMdgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHAkgSFBAzJFDeE8jKAsRQgAOw==",
+        "width": 2376,
+        "height": 3000,
+        "alt_text": "A work made of watercolor on ivory."
+    },
+    "main_reference_number": "1957.55",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "late 18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Crosse\nEnglish, 1742-1810",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "3.5 \u00d7 3 cm (1 3/8 \u00d7 1 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 3,
+            "width_in": 1.1875,
+            "height_cm": 3.5,
+            "height_in": 1.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Watercolor on ivory",
+    "inscriptions": null,
+    "credit_line": "Colonel Alexander F. and Jeannie C. Stevenson Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.5972,
+    "color": {
+        "h": 47,
+        "l": 62,
+        "s": 76,
+        "percentage": 0.001560841605793844,
+        "population": 14
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Miniature Painting",
+    "artwork_type_id": 30,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 34088,
+    "artist_title": "Richard Crosse",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34088
+    ],
+    "artist_titles": [
+        "Richard Crosse"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "miniature painting",
+        "ivory",
+        "portraits",
+        "european decorative arts",
+        "watercolor"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-340",
+    "classification_title": "miniature painting",
+    "alt_classification_ids": [
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-340",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "miniature painting",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-8658",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8658"
+    ],
+    "subject_titles": [
+        "portraits"
+    ],
+    "material_id": "TM-2442",
+    "alt_material_ids": [
+        "TM-2403"
+    ],
+    "material_ids": [
+        "TM-2442",
+        "TM-2403"
+    ],
+    "material_titles": [
+        "ivory",
+        "watercolor"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "13610bf7-19cd-4bab-41c9-599b933b6625",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1957.55"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Man"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-21T13:59:10-05:00",
+    "updated_at": "2023-07-21T14:00:56-05:00",
+    "timestamp": "2023-09-24T00:22:35-05:00"
+}

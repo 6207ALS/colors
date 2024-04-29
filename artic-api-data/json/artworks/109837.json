@@ -1,0 +1,168 @@
+{
+    "id": 109837,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109837",
+    "is_boosted": false,
+    "title": "Counter Tray",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAJeDf56Nh7GOhLWakbmblaSioK6lorG0s7C0tLK1tLO1tLK1tbO1tbuzsr62tbq6ubm6urm7u7q9vLq9vru9vsackdCpneS2mOfezQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIMIYSxINFfE4FnY1FCAE0KQUhxQCADs=",
+        "width": 2431,
+        "height": 2250,
+        "alt_text": "A work made of polychrome enamel on copper."
+    },
+    "main_reference_number": "1968.643a",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1785,
+    "date_end": 1795,
+    "date_display": "c. 1790",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "South Staffordshire, England",
+    "place_of_origin": "South Staffordshire",
+    "description": null,
+    "dimensions": "3.2 \u00d7 13.3 \u00d7 11.1 cm (1 1/4 \u00d7 5 1/4 \u00d7 4 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 11.1,
+            "depth_in": 4.375,
+            "width_cm": 13.3,
+            "width_in": 5.25,
+            "height_cm": 3.2,
+            "height_in": 1.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Polychrome enamel on copper",
+    "inscriptions": null,
+    "credit_line": "Gift of Nanette D. and Henry R. Levy",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 1969,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.1267,
+    "color": {
+        "h": 9,
+        "l": 42,
+        "s": 3,
+        "percentage": 0.028858582314549432,
+        "population": 190
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "tableware",
+        "copper",
+        "enamel",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1445",
+    "classification_title": "tableware",
+    "alt_classification_ids": [
+        "TM-93",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-1445",
+        "TM-93",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "tableware",
+        "enamel",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2458",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2458"
+    ],
+    "material_titles": [
+        "copper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5b7a4300-b53f-6172-d7a8-33e752bae084",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1968.643a"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Counter Tray"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:39:19-05:00",
+    "timestamp": "2023-09-24T01:09:22-05:00"
+}

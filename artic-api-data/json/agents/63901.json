@@ -1,0 +1,28 @@
+{
+    "id": 63901,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/63901",
+    "title": "Lygia Pape",
+    "sort_title": "Pape, Lygia",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1927,
+    "death_date": 2004,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lygia Pape",
+            "Pape, Lygia"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-09T13:26:54-06:00",
+    "updated_at": "2023-02-09T13:27:09-06:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

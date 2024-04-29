@@ -1,0 +1,35 @@
+{
+    "id": 63311,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/63311",
+    "title": "Nicholas of Verdun",
+    "sort_title": "Nicholas of Verdun",
+    "alt_titles": [
+        "Nikolas von Verdun",
+        "Nicolas de Verdun",
+        "Nicholas of Verdun"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicholas of Verdun",
+            "Nicholas of Verdun",
+            "Nikolas von Verdun",
+            "Nicolas de Verdun",
+            "Nicholas of Verdun"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:38-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

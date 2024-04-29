@@ -1,0 +1,177 @@
+{
+    "id": 80501,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80501",
+    "is_boosted": false,
+    "title": "Seated Figure",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALukgr+0n8Suj8azlce0l828oMy9pM2+psm+qc3CrtDDrc3Ds9HGstLKutPNvAAAACH5BAAAAAAALAAAAAADAAUAAAQLkAV3AFqpDaMEKREAOw==",
+        "width": 1460,
+        "height": 2250,
+        "alt_text": "A work made of oil and canvas on linen."
+    },
+    "main_reference_number": "1954.271",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1953,
+    "date_end": 1954,
+    "date_display": "1953/54",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Conrad Marca-Relli\nAmerican, 1913-2000",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "186.1 \u00d7 123.2 cm (73 1/4 \u00d7 48 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 123.2,
+            "width_in": 48.5,
+            "height_cm": 186.1,
+            "height_in": 73.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil and canvas on linen",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.5566,
+    "color": {
+        "h": 37,
+        "l": 43,
+        "s": 29,
+        "percentage": 0.0038354167865234418,
+        "population": 42
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 35590,
+    "artist_title": "Conrad Marca-Relli",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35590
+    ],
+    "artist_titles": [
+        "Conrad Marca-Relli"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting",
+        "abstract shapes",
+        "modern and contemporary art",
+        "white (color)",
+        "beige (color)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-12708",
+    "alt_subject_ids": [
+        "TM-11841",
+        "TM-12748"
+    ],
+    "subject_ids": [
+        "TM-12708",
+        "TM-11841",
+        "TM-12748"
+    ],
+    "subject_titles": [
+        "abstract shapes",
+        "white (color)",
+        "beige (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a0205eb6-78e2-45ce-b3bb-ac5ecf1b4513",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.271"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Seated Figure"
+            ],
+            "weight": 1001,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:01-05:00",
+    "updated_at": "2023-04-10T12:26:25-05:00",
+    "timestamp": "2023-09-24T00:54:47-05:00"
+}

@@ -1,0 +1,35 @@
+{
+    "id": 66089,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/66089",
+    "title": "Harper and Brothers",
+    "sort_title": "Harper & Brothers",
+    "alt_titles": [
+        "Harper and Brothers",
+        "Harper, firm, publishers, New York",
+        "Harper & Brothers Publishers"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Harper and Brothers",
+            "Harper & Brothers",
+            "Harper and Brothers",
+            "Harper, firm, publishers, New York",
+            "Harper & Brothers Publishers"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:10-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

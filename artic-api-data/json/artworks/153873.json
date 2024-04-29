@@ -1,0 +1,180 @@
+{
+    "id": 153873,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/153873",
+    "is_boosted": false,
+    "title": "Seated Woman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAOXl2ufo3ujp3uvq3+zp3erp4Ovp4erq4ezq4Ozr4O3r4Ovs4evt4uzs4e3s4ezs4u/s4u7t4uzt5O3v5O7v5u/v5+/w5fDw5/Hy6fPy6/Lz7PT07PT17gAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoFEcgENUVCAICadJjBVt2LQ8SnY1AwKFADs=",
+        "width": 3000,
+        "height": 2379,
+        "alt_text": "A work made of lithograph on white paper."
+    },
+    "main_reference_number": "1999.772",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1960,
+    "date_end": 1963,
+    "date_display": "1960\u201363",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Rosemary Beck (American, born 1923)\nprinted by Drum Lithographers (American, 20th century)\npublished by Collectors Graphics, Inc. (American, founded c. 1960)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "58.4 \u00d7 73 cm (23 \u00d7 28 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73,
+            "width_in": 28.7402,
+            "height_cm": 58.4,
+            "height_in": 22.9922,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph on white paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2000,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.8251,
+    "color": {
+        "h": 63,
+        "l": 52,
+        "s": 3,
+        "percentage": 0.008701458293377658,
+        "population": 49
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 49402,
+    "artist_title": "Rosemary Beck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        49402
+    ],
+    "artist_titles": [
+        "Rosemary Beck"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "offset lithograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-689"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4",
+        "TM-689"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing",
+        "offset lithograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "a0bb0823-0451-6b4a-7e9e-2bf59fdda508",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.772"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Seated Woman"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:17-05:00",
+    "updated_at": "2023-04-08T10:53:21-05:00",
+    "timestamp": "2023-09-24T01:29:20-05:00"
+}

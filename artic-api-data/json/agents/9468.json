@@ -1,0 +1,31 @@
+{
+    "id": 9468,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/9468",
+    "title": "Juan Genov\u00e8s",
+    "sort_title": "Genov\u00e8s, Juan",
+    "alt_titles": [
+        "Juan Genoves"
+    ],
+    "is_artist": true,
+    "birth_date": 1930,
+    "death_date": 2020,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan Genov\u00e8s",
+            "Genov\u00e8s, Juan",
+            "Juan Genoves"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-01-04T08:49:53-06:00",
+    "updated_at": "2022-03-15T16:48:56-05:00",
+    "timestamp": "2023-09-24T02:00:09-05:00"
+}

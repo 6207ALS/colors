@@ -1,0 +1,39 @@
+{
+    "id": 33583,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33583",
+    "title": "Stefano della Bella",
+    "sort_title": "Bella, Stefano della",
+    "alt_titles": [
+        "Stefano della Bella",
+        "Etienne de la Belle",
+        "Stefano Della Bella, (Etienne de la Belle)",
+        "Stefano Della Bella",
+        "Stefano della Belle"
+    ],
+    "is_artist": true,
+    "birth_date": 1610,
+    "death_date": 1664,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Stefano della Bella",
+            "Bella, Stefano della",
+            "Stefano della Bella",
+            "Etienne de la Belle",
+            "Stefano Della Bella, (Etienne de la Belle)",
+            "Stefano Della Bella",
+            "Stefano della Belle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:51:23-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

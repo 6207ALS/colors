@@ -1,0 +1,28 @@
+{
+    "id": 11324,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/11324",
+    "title": "Victor Hembrow",
+    "sort_title": "Hembrow, Victor",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Victor Hembrow",
+            "Hembrow, Victor"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-05-17T16:02:39-05:00",
+    "updated_at": "2019-05-17T16:03:12-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

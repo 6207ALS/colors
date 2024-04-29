@@ -1,0 +1,184 @@
+{
+    "id": 240860,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/240860",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAAMJAwYJBAcKBAoKBQoLBQwNBQ8MBQ4MBhcLBhIOBwwQCRcWDRUVDx4UDCEUCyIWDi0kHTArIz4oIkI8MgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGAgSgFJCxNNQkAMR9I8TggAOw==",
+        "width": 3430,
+        "height": 4619,
+        "alt_text": "A work made of silver dye-bleach print."
+    },
+    "main_reference_number": "2019.102",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1975,
+    "date_end": 1985,
+    "date_display": "c.1980",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Luis Medina \nAmerican, born Cuba, 1942\u20131985",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "34.5 \u00d7 25.5 cm (image appro\u00d7.); 35.1 \u00d7 27.7 (paper)",
+    "dimensions_detail": [],
+    "medium_display": "Silver dye-bleach print",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Lucia Woods Lindley and Daniel A. Lindley, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.0451,
+    "color": {
+        "h": 358,
+        "l": 32,
+        "s": 87,
+        "percentage": 0.012123682464033949,
+        "population": 116
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 35721,
+    "artist_title": "Luis Medina",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35721
+    ],
+    "artist_titles": [
+        "Luis Medina"
+    ],
+    "category_ids": [
+        "PC-829",
+        "PC-154",
+        "PC-12"
+    ],
+    "category_titles": [
+        "Latin American",
+        "Chicago Artists",
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "sex",
+        "color photograph",
+        "color photography",
+        "20th Century",
+        "photograph",
+        "photography",
+        "sexuality"
+    ],
+    "style_id": "TM-13130",
+    "style_title": "20th Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13130"
+    ],
+    "style_titles": [
+        "20th Century"
+    ],
+    "classification_id": "TM-12091",
+    "classification_title": "color photograph",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_ids": [
+        "TM-12091",
+        "TM-240",
+        "TM-67"
+    ],
+    "classification_titles": [
+        "color photograph",
+        "photograph",
+        "photography"
+    ],
+    "subject_id": "TM-12439",
+    "alt_subject_ids": [
+        "TM-12438"
+    ],
+    "subject_ids": [
+        "TM-12439",
+        "TM-12438"
+    ],
+    "subject_titles": [
+        "sex",
+        "sexuality"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-13061",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-13061"
+    ],
+    "technique_titles": [
+        "color photography"
+    ],
+    "theme_titles": [
+        "Latin American",
+        "Chicago Artists"
+    ],
+    "image_id": "6c51fe4a-7204-96a6-0160-e1b85947775d",
+    "alt_image_ids": [
+        "a0d95989-1296-d2ad-c848-c083babb3cdf"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.102"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-07-27T16:57:21-05:00",
+    "updated_at": "2023-04-10T15:07:42-05:00",
+    "timestamp": "2023-09-24T01:53:23-05:00"
+}

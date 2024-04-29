@@ -1,0 +1,33 @@
+{
+    "id": 66197,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/66197",
+    "title": "Circle of Giovanni Battista Bertani",
+    "sort_title": "Bertani, Giovanni Battista, Circle of",
+    "alt_titles": [
+        "Circle of Giovanni Battista di Egidio Bertani",
+        "Circle of Giovanni Battista Bertano"
+    ],
+    "is_artist": true,
+    "birth_date": 1516,
+    "death_date": 1576,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Giovanni Battista Bertani",
+            "Bertani, Giovanni Battista, Circle of",
+            "Circle of Giovanni Battista di Egidio Bertani",
+            "Circle of Giovanni Battista Bertano"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:09-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

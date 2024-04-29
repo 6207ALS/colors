@@ -1,0 +1,33 @@
+{
+    "id": 34942,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34942",
+    "title": "Hiratsuka Un'ichi",
+    "sort_title": "Hiratsuka Un'ichi",
+    "alt_titles": [
+        "Un'ichi Hiratsuka",
+        "Un'ichi Hiratsuka"
+    ],
+    "is_artist": true,
+    "birth_date": 1895,
+    "death_date": 1997,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hiratsuka Un'ichi",
+            "Hiratsuka Un'ichi",
+            "Un'ichi Hiratsuka",
+            "Un'ichi Hiratsuka"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:48:58-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

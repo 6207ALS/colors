@@ -1,0 +1,31 @@
+{
+    "id": 44372,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/44372",
+    "title": "Canio Radice, Jr.",
+    "sort_title": "Radice, Canio, Jr.",
+    "alt_titles": [
+        "Carrio Radice, Jr."
+    ],
+    "is_artist": true,
+    "birth_date": 1913,
+    "death_date": 1965,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Canio Radice, Jr.",
+            "Radice, Canio, Jr.",
+            "Carrio Radice, Jr."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:30:56-05:00",
+    "timestamp": "2023-09-24T02:00:25-05:00"
+}

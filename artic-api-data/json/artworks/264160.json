@@ -1,0 +1,171 @@
+{
+    "id": 264160,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/264160",
+    "is_boosted": false,
+    "title": "The Large Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFNOR1pVTltVTmBbVGJcVGReVWVfV2dhV2ZhWWhiWmpjWmtkW29pYHBpYHJsY3dvZXx1a4F5boF5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIDIwSdAQwPEISmEESwQ5UggAOw==",
+        "width": 7441,
+        "height": 8786,
+        "alt_text": "A work made of etching, roulette, and mezzotint in black on cream laid paper."
+    },
+    "main_reference_number": "2022.273",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1778,
+    "date_end": 1781,
+    "date_display": "1778/81",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean-\u00c9tienne Liotard\nSwiss, 1702-1789",
+    "place_of_origin": "Switzerland",
+    "description": null,
+    "dimensions": "Sheet: 46.6 \u00d7 39.4 cm (18 3/8 \u00d7 15 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 39.4,
+            "width_in": 15.5119,
+            "height_cm": 46.6,
+            "height_in": 18.3465,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching, roulette, and mezzotint in black on cream laid paper",
+    "inscriptions": "Inscribed verso, upper right, in graphite: \u201cPortrait de J.E. Liotard / grav\u00e9 par lui-m\u00eame\"; upper right, in pen and brown ink: \"n\u00b015\"",
+    "credit_line": "The Amanda S. Johnson and Marion J. Livingston Endowment Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Estate of the artist; by descent within the artist\u2019s family.  Sold by Sarah Sauvin Gallery, Paris, to the Art Institute of Chicago, 2022.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 37,
+        "l": 45,
+        "s": 8,
+        "percentage": 0.0014026419778836554,
+        "population": 917
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35492,
+    "artist_title": "Jean Etienne Liotard",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35492
+    ],
+    "artist_titles": [
+        "Jean Etienne Liotard"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "print",
+        "paper",
+        "prints and drawing",
+        "etching"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-17",
+    "classification_title": "print",
+    "alt_classification_ids": [
+        "TM-145",
+        "TM-4",
+        "TM-18"
+    ],
+    "classification_ids": [
+        "TM-17",
+        "TM-145",
+        "TM-4",
+        "TM-18"
+    ],
+    "classification_titles": [
+        "print",
+        "paper",
+        "prints and drawing",
+        "etching"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2d50d206-6d46-0f72-364a-4ff268bb8a07",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.273"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Large Self-Portrait"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-18T10:55:27-05:00",
+    "updated_at": "2023-08-18T10:55:52-05:00",
+    "timestamp": "2023-09-24T01:58:34-05:00"
+}

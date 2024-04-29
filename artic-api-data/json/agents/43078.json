@@ -1,0 +1,31 @@
+{
+    "id": 43078,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43078",
+    "title": "Dennis Darling",
+    "sort_title": "Darling, Dennis",
+    "alt_titles": [
+        "Darling, Dennis Carlyle"
+    ],
+    "is_artist": true,
+    "birth_date": 1946,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dennis Darling",
+            "Darling, Dennis",
+            "Darling, Dennis Carlyle"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:32:23-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

@@ -1,0 +1,183 @@
+{
+    "id": 104501,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104501",
+    "is_boosted": false,
+    "title": "Fragment (From Tablecloth)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGdngmtqg25wjHJzj3N2k3Z2kXR3k3Z3k3V3lHV4lXZ4lHZ4lXV4lgAAAAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLkCSmyDoGFTECABEAOw==",
+        "width": 1070,
+        "height": 1574,
+        "alt_text": "A work made of cotton, plain weave; double cloth."
+    },
+    "main_reference_number": "1985.640",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1903,
+    "date_end": 1918,
+    "date_display": "1903/18",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Koloman Moser (Austrian, 1868\u20131918)\nProduced by the Wiener Werkst\u00e4tte (Vienna, active 1903\u20131932)\nAustria, Vienna",
+    "place_of_origin": "Vienna",
+    "description": null,
+    "dimensions": "54.1 \u00d7 15.2 cm (17 3/4 \u00d7 6 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.2,
+            "width_in": 6,
+            "height_cm": 54.1,
+            "height_in": 17.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave; double cloth",
+    "inscriptions": null,
+    "credit_line": "Royalties from The Warner Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 34.7125,
+    "color": {
+        "h": 234,
+        "l": 50,
+        "s": 63,
+        "percentage": 0.002869934565491907,
+        "population": 30
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35850,
+    "artist_title": "Koloman (Kolo) Moser",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35850
+    ],
+    "artist_titles": [
+        "Koloman (Kolo) Moser"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "cotton (fiber)",
+        "plain weaving",
+        "Modernism",
+        "textile",
+        "weaving",
+        "double cloth"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3081",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3081"
+    ],
+    "material_titles": [
+        "cotton (fiber)"
+    ],
+    "technique_id": "TM-10513",
+    "alt_technique_ids": [
+        "TM-10556"
+    ],
+    "technique_ids": [
+        "TM-10513",
+        "TM-10556"
+    ],
+    "technique_titles": [
+        "plain weaving",
+        "double cloth"
+    ],
+    "theme_titles": [],
+    "image_id": "0ed7a3bd-e958-2226-3708-f8c089af622d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.640"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Fragment (From Tablecloth)"
+            ],
+            "weight": 95,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:25:49-05:00",
+    "timestamp": "2023-09-24T01:07:22-05:00"
+}

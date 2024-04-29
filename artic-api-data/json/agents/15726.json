@@ -1,0 +1,33 @@
+{
+    "id": 15726,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/15726",
+    "title": "Bertha Boynton Lum",
+    "sort_title": "Lum, Bertha Boynton",
+    "alt_titles": [
+        "Bertha Lum",
+        "Bertha Boynton Bull"
+    ],
+    "is_artist": true,
+    "birth_date": 1869,
+    "death_date": 1954,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bertha Boynton Lum",
+            "Lum, Bertha Boynton",
+            "Bertha Lum",
+            "Bertha Boynton Bull"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-08-04T11:30:41-05:00",
+    "updated_at": "2022-03-15T16:50:24-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

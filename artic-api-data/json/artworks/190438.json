@@ -1,0 +1,173 @@
+{
+    "id": 190438,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/190438",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACIbIS4lKVdHQWJRSWRTSmVTSmdWTmhYT4dzZJJ5ZpF8a5WAb5uAa5+Jd5eJep6LeqSOeKaRfayVfrKdib+iiL2ji7mmj8Kxmtm/ntvHqeDEo+bRruvUru3atvDYtfDcuPTdu/rpx//vzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMymw/l4NCBRKGOJKB6Oy8RQQAgCgMGicWBIIIQKJREEADs=",
+        "width": 2328,
+        "height": 1614,
+        "alt_text": "A work made of diptych, ink on kyro paper."
+    },
+    "main_reference_number": "2007.210",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1975,
+    "date_display": "c. 1970",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "T'ang Haywen\nChinese, 1927-1991",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "70 \u00d7 100 cm (27 \u00d7 39 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 100,
+            "width_in": 39.375,
+            "height_cm": 70,
+            "height_in": 27,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Diptych, ink on Kyro paper",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Marilynn Alsdorf",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 29.8696,
+    "color": {
+        "h": 38,
+        "l": 83,
+        "s": 62,
+        "percentage": 0.5043549618940834,
+        "population": 2483
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 108351,
+    "artist_title": "T'ang Haywen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        108351
+    ],
+    "artist_titles": [
+        "T'ang Haywen"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "painting",
+        "Chinese (culture or style)",
+        "ink"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d50300cc-8835-ad93-611e-0415096bf5ac",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2007.210"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 172,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-04-07T16:04:06-05:00",
+    "timestamp": "2023-09-24T01:36:48-05:00"
+}

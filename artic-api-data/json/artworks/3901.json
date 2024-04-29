@@ -1,0 +1,183 @@
+{
+    "id": 3901,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/3901",
+    "is_boosted": false,
+    "title": "St. Philip, from Apostles",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIB/aI+NdY6Nd5uZg56bhKCehqelj6imj6mokra1oL27o726pMHArcfErM7MtQAAACH5BAAAAAAALAAAAAADAAUAAAQLkCWHShNBGTAWOREAOw==",
+        "width": 1930,
+        "height": 3318,
+        "alt_text": "A work made of engraving on paper."
+    },
+    "main_reference_number": "1956.880",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1450,
+    "date_end": 1491,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Martin Schongauer\nGerman, c. 1430/50-1491",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Plate: 8.9 \u00d7 4.9 cm (3 9/16 \u00d7 1 15/16 in.); Sheet: 8.9 \u00d7 5 cm (3 9/16 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 4.9,
+            "width_in": 1.9292,
+            "height_cm": 8.9,
+            "height_in": 3.504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5,
+            "width_in": 1.9686,
+            "height_cm": 8.9,
+            "height_in": 3.504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving on paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Mrs. Potter Palmer, Jr.",
+    "catalogue_display": "<p>Lehrs 48</p><p>Bartsch 38</p><p>Hollstein, The New 48</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.6715,
+    "color": {
+        "h": 49,
+        "l": 52,
+        "s": 21,
+        "percentage": 0.0006246349789341853,
+        "population": 40
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 23279,
+    "artist_title": "Martin Schongauer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        23279
+    ],
+    "artist_titles": [
+        "Martin Schongauer"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "94ab4531-8972-5cf0-d75f-4b75e7cbe47e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1956.880"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "St. Philip, from Apostles"
+            ],
+            "weight": 209,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:45-05:00",
+    "updated_at": "2023-09-23T23:18:46-05:00",
+    "timestamp": "2023-09-24T00:21:58-05:00"
+}

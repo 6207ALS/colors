@@ -1,0 +1,160 @@
+{
+    "id": 152172,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/152172",
+    "is_boosted": false,
+    "title": "Sample (Window Blind)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFqLc12LdV2MdWKLdWSNd2OOe2ePemOOfGSQeWeQemaQfWaTfGyRe2iRf3KXhq65pq66p6u5ra+6r6+7r7G8qbO+q7W+rLC8sbK8sNvXxN3Yxt7Zx9/ax97Vy9/XzuDcyeDYz+Pa0OPa0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwMajg8hgGAdKKLCZDBQVkeBzMRQgHgAnQnBYQAuNJBEEADs=",
+        "width": 3000,
+        "height": 2155,
+        "alt_text": "A work made of rayon, metallic foil encased in synthetic film, and plastic, plain weave."
+    },
+    "main_reference_number": "1972.1160n",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1971,
+    "date_end": 1971,
+    "date_display": "1971",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Dorothy Liebes (American, 1897-1972)\nNew York, New York, United States",
+    "place_of_origin": "New York City",
+    "description": null,
+    "dimensions": "20.9 \u00d7 30.5 cm (8 1/4 \u00d7 12 in.)\nRepeat: 24.8 \u00d7 .5 cm (9 3/4 \u00d7 1/4 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Rayon, metallic foil encased in synthetic film, and plastic, plain weave",
+    "inscriptions": null,
+    "credit_line": "Gift of Dorothy Liebes Design, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 45.375,
+    "color": {
+        "h": 154,
+        "l": 60,
+        "s": 67,
+        "percentage": 0.008235051910237934,
+        "population": 42
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35485,
+    "artist_title": "Dorothy Liebes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35485
+    ],
+    "artist_titles": [
+        "Dorothy Liebes"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "Modernism",
+        "textile",
+        "weaving"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5981"
+    ],
+    "style_titles": [
+        "Modernism"
+    ],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "831ec45f-92f3-1896-fe3b-d8933c74bcc7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1972.1160n"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sample (Window Blind)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-21T09:59:03-05:00",
+    "updated_at": "2023-09-21T10:01:36-05:00",
+    "timestamp": "2023-09-24T01:28:30-05:00"
+}

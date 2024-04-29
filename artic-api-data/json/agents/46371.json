@@ -1,0 +1,35 @@
+{
+    "id": 46371,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46371",
+    "title": "School of Rembrandt van Rijn",
+    "sort_title": "School of Rembrandt van Rijn",
+    "alt_titles": [
+        "School of Rembrandt Harmenszoon van Rijn",
+        "School of Rembrandt Harmensz. van Rijn",
+        "School of Rembrandt"
+    ],
+    "is_artist": true,
+    "birth_date": 1606,
+    "death_date": 1669,
+    "description": "<p><a href=\"https://www.artic.edu/artists/40769/rembrandt-van-rijn\" target=\"_blank\">Rembrandt van Rijn</a>\u2019s compelling drawings not only impacted the style and approaches of the students of his workshop but also the manners of various other artists in his own century and beyond.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "School of Rembrandt van Rijn",
+            "School of Rembrandt van Rijn",
+            "School of Rembrandt Harmenszoon van Rijn",
+            "School of Rembrandt Harmensz. van Rijn",
+            "School of Rembrandt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:17:45-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

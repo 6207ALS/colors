@@ -1,0 +1,160 @@
+{
+    "id": 71136,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/71136",
+    "is_boosted": false,
+    "title": "Motherhood",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEVAPWBaV2hiXZCPkpWTlZeUlpiVl5+cnJ6dnaOhoaOhorWzs7a0s9bW1evr6wAAACH5BAAAAAAALAAAAAADAAUAAAQLkJRxhElBMYDcahEAOw==",
+        "width": 3446,
+        "height": 5087,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1915.197",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1902,
+    "date_end": 1902,
+    "date_display": "Modeled 1902, cast by 1915",
+    "date_qualifier_title": "Modeled",
+    "date_qualifier_id": 50,
+    "artist_display": "Bessie Potter Vonnoh\nAmerican, 1872\u20131955",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "36.2 \u00d7 18.4 \u00d7 21.6 cm (14 1/4 \u00d7 7 1/4 \u00d7 8 1/2 in.) (without pedestal)",
+    "dimensions_detail": [],
+    "medium_display": "Bronze",
+    "inscriptions": "Signed: Bessie Potter Vonnoh (on back edge of base); inscribed: \u2116 XV (on back right corner of base); inscribed: ROMAN BRONZE WORKS N-Y- (on left side of base)",
+    "credit_line": "William C. Seipp Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, <em>Seven Special Exhibitions: Paintings by George Bellows, Paintings by Charles Warren Eaton, Paintings by Jane Peterson, Paintings by Robert Vonnoh, Paintings by Charles H. Woodbury, Sculpture by Bessie Potter Vonnoh, Etchings by Earl H. Reed</em>, Dec. 19, 1914\u2013Jan. 3, 1915, cat. 207.\n\nEvanston, Illinois, Scott Hall, Northwestern University, Apr. 2\u20139, 1954.\n\nArt Institute of Chicago, <em>Art in Illinois: In Honor of the Illinois Sesquicentennial</em>, June 15\u2013Sept. 8, 1968, no cat.",
+    "provenance_text": "Bessie Potter Vonnoh (1872\u20131955), by 1915; sold to the Art Institute of Chicago, 1915.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.8765,
+    "color": {
+        "h": 301,
+        "l": 59,
+        "s": 0,
+        "percentage": 0.35005978838247415,
+        "population": 3674
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 27615,
+    "artist_title": "Bessie Potter Vonnoh",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        27615
+    ],
+    "artist_titles": [
+        "Bessie Potter Vonnoh"
+    ],
+    "category_ids": [
+        "PC-825",
+        "PC-3"
+    ],
+    "category_titles": [
+        "Women artists",
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "bronze",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "344d7512-34db-d2a4-3dc1-405c913745dd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1915.197"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Motherhood"
+            ],
+            "weight": 301,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:55:38-05:00",
+    "timestamp": "2023-09-24T00:51:14-05:00"
+}

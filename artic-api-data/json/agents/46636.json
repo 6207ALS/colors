@@ -1,0 +1,33 @@
+{
+    "id": 46636,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/46636",
+    "title": "Style of Giuseppe Cesari",
+    "sort_title": "Cesari, Giuseppe, Style of",
+    "alt_titles": [
+        "Style of Cavaliere d'Arpino",
+        "Style of Giuseppe Cesare"
+    ],
+    "is_artist": true,
+    "birth_date": 1568,
+    "death_date": 1640,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Style of Giuseppe Cesari",
+            "Cesari, Giuseppe, Style of",
+            "Style of Cavaliere d'Arpino",
+            "Style of Giuseppe Cesare"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:51-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

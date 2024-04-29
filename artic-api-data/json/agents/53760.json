@@ -1,0 +1,31 @@
+{
+    "id": 53760,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/53760",
+    "title": "Lewis Foreman Day",
+    "sort_title": "Day, Lewis Foreman",
+    "alt_titles": [
+        "Lewis F. Day"
+    ],
+    "is_artist": true,
+    "birth_date": 1845,
+    "death_date": 1910,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lewis Foreman Day",
+            "Day, Lewis Foreman",
+            "Lewis F. Day"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:58:11-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

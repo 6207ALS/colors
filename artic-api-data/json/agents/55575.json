@@ -1,0 +1,43 @@
+{
+    "id": 55575,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/55575",
+    "title": "Nicolas Lavreince",
+    "sort_title": "Lavreince, Nicolas",
+    "alt_titles": [
+        "Niclas Lavreince, II",
+        "Niclas Lafrensen, II",
+        "Niclas Lawerentz, II",
+        "Niclas Lawreince, II",
+        "Niclas Lavrince, II",
+        "Nicolas Lavrince",
+        "Niklas Lafrensen, le jeune"
+    ],
+    "is_artist": true,
+    "birth_date": 1737,
+    "death_date": 1807,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nicolas Lavreince",
+            "Lavreince, Nicolas",
+            "Niclas Lavreince, II",
+            "Niclas Lafrensen, II",
+            "Niclas Lawerentz, II",
+            "Niclas Lawreince, II",
+            "Niclas Lavrince, II",
+            "Nicolas Lavrince",
+            "Niklas Lafrensen, le jeune"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-18T10:51:20-06:00",
+    "updated_at": "2021-02-18T10:55:49-06:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

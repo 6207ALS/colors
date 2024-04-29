@@ -1,0 +1,43 @@
+{
+    "id": 8253,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8253",
+    "title": "Women in Chicago Architecture",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1998-11-20T00:00:00-06:00",
+    "aic_end_at": "1999-03-14T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "3c6e256b-efec-0847-4206-7c062588c50c",
+    "alt_image_ids": [
+        "47f55768-5349-8976-9868-1683409ce5fd",
+        "a9c1219a-659d-1828-3c05-0d3ed740d188",
+        "9e1dff06-16ba-ad96-5d7e-4acfa4284e34",
+        "9beaaba4-8fbf-dda6-5d6d-e5933377e26c",
+        "0d8d827c-9acd-6c46-1feb-bf868f66c126",
+        "d181300a-9a89-bb03-0e63-941d046f0ae1"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Women in Chicago Architecture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:13:13-06:00",
+    "timestamp": "2023-09-24T02:02:14-05:00"
+}

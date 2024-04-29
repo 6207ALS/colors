@@ -1,0 +1,170 @@
+{
+    "id": 79496,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/79496",
+    "is_boosted": false,
+    "title": "Voyage \u00e0 Venise",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANSymNjLndnMt9jCud/Wu+DWtt7cyuHczObfzuvjxuDhz+bj0Ofi0+fk0ufi1Ojk0vDp3PPt3vPw3vLw4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PE0DhEUSAIMCyMYCjRJUQgAOw==",
+        "width": 2240,
+        "height": 3000,
+        "alt_text": "A work made of illustrated book."
+    },
+    "main_reference_number": "1953.276",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1951,
+    "date_end": 1952,
+    "date_display": "1951\u201352",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Andr\u00e9 Masson (French, 1896-1987)\nLeo Marchutz (German, active in France, 1903-1976)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Illustrated book",
+    "inscriptions": null,
+    "credit_line": "Prints and Drawings Purchase Fund",
+    "catalogue_display": "<p>Saphire 33</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 32.528,
+    "color": {
+        "h": 37,
+        "l": 52,
+        "s": 83,
+        "percentage": 0.015760490970814722,
+        "population": 150
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 35656,
+    "artist_title": "Andr\u00e9 Masson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35656
+    ],
+    "artist_titles": [
+        "Andr\u00e9 Masson"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "book",
+        "prints and drawing",
+        "paper",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-11",
+        "TM-4",
+        "TM-145",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-11",
+        "TM-4",
+        "TM-145",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "book",
+        "prints and drawing",
+        "paper",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fdeeaa97-dcf3-aac7-ec1e-89b016bf904c",
+    "alt_image_ids": [
+        "9c8f2024-d843-37e9-e918-6a0719d78e51",
+        "169bc967-1211-1b42-2b10-0e06ac2ab57c",
+        "0d3dd72f-a164-a3ed-0a1d-274d96062f68",
+        "7179a5a8-3181-e426-fa86-364d7d07314a",
+        "fc5a14a8-e925-406d-2f26-264b0cbf59a3",
+        "cbb0f685-24dd-00e2-806b-d068118d9ec1"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1953.276"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Voyage \u00e0 Venise"
+            ],
+            "weight": 60,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:10-05:00",
+    "updated_at": "2023-04-10T15:25:06-05:00",
+    "timestamp": "2023-09-24T00:54:19-05:00"
+}

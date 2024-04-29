@@ -1,0 +1,173 @@
+{
+    "id": 73034,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/73034",
+    "is_boosted": false,
+    "title": "Bag",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABobHB4fICosLjAxMTc4Ozg4OEFCRUdIS0tLSlNTU1dYWFpaWmlpam1tbXp6eYOCgoyMjJOSkZWVlbq6uQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIJMg0QEEULMoEjEIzlMYUwgAOw==",
+        "width": 2613,
+        "height": 3000,
+        "alt_text": "A work made of glass beads, round, opaque and transparent; worked in silk in buttonhole stitch without foundation textile; lined; fringe has been removed."
+    },
+    "main_reference_number": "1917.291",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1801,
+    "date_end": 1900,
+    "date_display": "19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "15.2 \u00d7 17.8 cm (6 \u00d7 7 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 17.8,
+            "width_in": 7,
+            "height_cm": 15.2,
+            "height_in": 6,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass beads, round, opaque and transparent; worked in silk in buttonhole stitch without foundation textile; lined; fringe has been removed",
+    "inscriptions": null,
+    "credit_line": "Gift of Sarah E. Raymond Fitzwilliam",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.6971,
+    "color": {
+        "h": 219,
+        "l": 49,
+        "s": 6,
+        "percentage": 0.0056370891052223955,
+        "population": 46
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Costume and Accessories",
+    "artwork_type_id": 12,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "glass",
+        "textile",
+        "needlework (visual works)",
+        "silk (fiber)",
+        "costume"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-81"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-81"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "costume"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-2453",
+        "TM-3688"
+    ],
+    "material_titles": [
+        "glass",
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7e425d57-9bb0-331a-6d4f-7791375eb3f3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1917.291"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bag"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:00-05:00",
+    "updated_at": "2023-04-10T12:41:32-05:00",
+    "timestamp": "2023-09-24T00:51:53-05:00"
+}

@@ -1,0 +1,57 @@
+{
+    "id": 108780,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/108780",
+    "title": "Guy-Louis Vernansal",
+    "sort_title": "Vernansal, Guy-Louis",
+    "alt_titles": [
+        "Gui de",
+        "Gui de Vernansal",
+        "Guy Louis De Vernansal",
+        "Guy Louis Vernansal",
+        "Guy Louis de Vernansal",
+        "Guy Louis I Vernansal",
+        "Guy Louuis De Vernansal"
+    ],
+    "is_artist": true,
+    "birth_date": 1648,
+    "death_date": 1729,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Guy-Louis Vernansal",
+            "Vernansal, Guy-Louis",
+            "Gui de",
+            "Gui de Vernansal",
+            "Guy Louis De Vernansal",
+            "Guy Louis Vernansal",
+            "Guy Louis de Vernansal",
+            "Guy Louis I Vernansal",
+            "Guy Louuis De Vernansal"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Guy-Louis Vernansal",
+            "Vernansal, Guy-Louis",
+            "Gui de",
+            "Gui de Vernansal",
+            "Guy Louis De Vernansal",
+            "Guy Louis Vernansal",
+            "Guy Louis de Vernansal",
+            "Guy Louis I Vernansal",
+            "Guy Louuis De Vernansal"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:44:25-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

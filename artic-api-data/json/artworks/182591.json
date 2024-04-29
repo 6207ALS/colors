@@ -1,0 +1,171 @@
+{
+    "id": 182591,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182591",
+    "is_boosted": false,
+    "title": "The Matterhorn Smiles",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGJZWGNeX3BeUmxgWHtkU3pnW2djYH55bIV5ZYZ6bY2DcYyEcImFe4mGf4uIgAAAACH5BAAAAAAALAAAAAADAAUAAAQL8IxgBEikLKSYaxEAOw==",
+        "width": 1953,
+        "height": 3000,
+        "alt_text": "A work made of photomechanical print in color on coated cream bwove card, with inscriptions in pen and blue in(recto) and pen and brown ink (verso); with postal  stamps (verso)."
+    },
+    "main_reference_number": "2004.862",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1897,
+    "date_end": 1897,
+    "date_display": "1897",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Emil Nolde\nGerman, 1867-1956",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "13.8 \u00d7 8.8 cm (5 7/16 \u00d7 3 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 8.8,
+            "width_in": 3.4646,
+            "height_cm": 13.8,
+            "height_in": 5.4331,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Photomechanical print in color on coated cream bwove card, with inscriptions in pen and blue in(recto) and pen and brown ink (verso); with postal  stamps (verso)",
+    "inscriptions": null,
+    "credit_line": "Gift of Barbara Butts and Michael Parke-Taylor",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.1548,
+    "color": {
+        "h": 49,
+        "l": 40,
+        "s": 41,
+        "percentage": 0.0017404287866921318,
+        "population": 19
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36038,
+    "artist_title": "Emil Nolde",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36038
+    ],
+    "artist_titles": [
+        "Emil Nolde"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "postcard",
+        "prints and drawing",
+        "print",
+        "photomechanical process"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10273",
+    "classification_title": "postcard",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-17",
+        "TM-1597"
+    ],
+    "classification_ids": [
+        "TM-10273",
+        "TM-4",
+        "TM-17",
+        "TM-1597"
+    ],
+    "classification_titles": [
+        "postcard",
+        "prints and drawing",
+        "print",
+        "photomechanical process"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f40e4459-d3f0-9913-d1ed-44330a008bad",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.862"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Matterhorn Smiles"
+            ],
+            "weight": 507,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:16:16-05:00",
+    "timestamp": "2023-09-24T01:33:54-05:00"
+}

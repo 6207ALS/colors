@@ -1,0 +1,35 @@
+{
+    "id": 48628,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/48628",
+    "title": "Michelangelo Anselmi",
+    "sort_title": "Anselmi, Michelangelo",
+    "alt_titles": [
+        "Michelangelo da Siena",
+        "Michelangelo da Lucca",
+        "Michelangelo Anselmi, (Lo Scalabrino)"
+    ],
+    "is_artist": true,
+    "birth_date": 1487,
+    "death_date": 1556,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Michelangelo Anselmi",
+            "Anselmi, Michelangelo",
+            "Michelangelo da Siena",
+            "Michelangelo da Lucca",
+            "Michelangelo Anselmi, (Lo Scalabrino)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:05-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

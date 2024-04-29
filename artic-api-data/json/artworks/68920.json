@@ -1,0 +1,172 @@
+{
+    "id": 68920,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/68920",
+    "is_boosted": false,
+    "title": "Wine Glass",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIyIhY2KiZOTlJWVlrWllLiyrsfHycnJy+jm5unn5ubn6Ofo6O3p6O3q6O3q6e7q6fj29/f3+Pj3+Pj4+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BAAwlEQxpIgyuQ0EcQ8UggAOw==",
+        "width": 1669,
+        "height": 2250,
+        "alt_text": "A work made of glass with gilding."
+    },
+    "main_reference_number": "1913.206",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1850,
+    "date_end": 1899,
+    "date_display": "Mid 19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Attributed to Baccarat Glassworks\nFrench, founded 1764",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "H.: 10.8 cm (4 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 10.8,
+            "height_in": 4.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass with gilding",
+    "inscriptions": null,
+    "credit_line": "Gift of Alfred D. Pell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.6352,
+    "color": {
+        "h": 330,
+        "l": 49,
+        "s": 1,
+        "percentage": 0.0022972950395134745,
+        "population": 22
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 1356,
+    "artist_title": "Baccarat Glassworks",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        1356
+    ],
+    "artist_titles": [
+        "Baccarat Glassworks"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "drinking vessel",
+        "glass",
+        "glass",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11734",
+    "classification_title": "drinking vessel",
+    "alt_classification_ids": [
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-11734",
+        "TM-85",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "drinking vessel",
+        "glass",
+        "european decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7f6cc429-cbe9-804b-03d6-da4f6fdfe6f0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1913.206"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Wine Glass"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:46:57-05:00",
+    "timestamp": "2023-09-24T00:50:21-05:00"
+}

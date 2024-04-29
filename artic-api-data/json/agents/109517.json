@@ -1,0 +1,28 @@
+{
+    "id": 109517,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/109517",
+    "title": "Al Jaffee",
+    "sort_title": "Jaffee, Al",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1921,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Al Jaffee",
+            "Jaffee, Al"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-06-22T17:57:16-05:00",
+    "updated_at": "2021-06-22T18:00:44-05:00",
+    "timestamp": "2023-09-24T02:00:35-05:00"
+}

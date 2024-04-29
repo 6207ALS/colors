@@ -1,0 +1,31 @@
+{
+    "id": 20140,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/20140",
+    "title": "John Dean Paul",
+    "sort_title": "Paul, John Dean",
+    "alt_titles": [
+        "Paul, John Dean, Sir"
+    ],
+    "is_artist": true,
+    "birth_date": 1775,
+    "death_date": 1852,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Dean Paul",
+            "Paul, John Dean",
+            "Paul, John Dean, Sir"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:51:30-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

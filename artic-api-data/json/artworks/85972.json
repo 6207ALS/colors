@@ -1,0 +1,185 @@
+{
+    "id": 85972,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/85972",
+    "is_boosted": false,
+    "title": "Carolus Gustavus",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAMq5otbGstvOud3Qu97Ru97RvOHVv+HUwuLWw+TYw+XYw+TYxOXYxOTZxOXaxuTax+bbxufcxuTayObcyejdyerhz+zhzOzizQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoBE11NFckMUgVUAsjwQI05AoThECADs=",
+        "width": 1593,
+        "height": 1609,
+        "alt_text": "A work made of pen and brown ink, on vellum."
+    },
+    "main_reference_number": "1922.3212",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1692,
+    "date_end": 1692,
+    "date_display": "1692",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "John Faber, I\nDutch, 1660-1721",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": "13 \u00d7 12.6 cm (5 1/8 \u00d7 5 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.6,
+            "width_in": 4.9607,
+            "height_cm": 13,
+            "height_in": 5.1182,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and brown ink, on vellum",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.293,
+    "color": {
+        "h": 38,
+        "l": 91,
+        "s": 54,
+        "percentage": 0.09938764387162964,
+        "population": 713
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 41901,
+    "artist_title": "John Faber, I",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41901
+    ],
+    "artist_titles": [
+        "John Faber, I"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "ink",
+        "coating (material)",
+        "drawings (visual works)",
+        "prints and drawing",
+        "vellum (paper)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-3238",
+        "TM-3028"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3238",
+        "TM-3028"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "coating (material)",
+        "vellum (paper)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "44013ea2-8601-3f17-6221-6ee287508ddb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.3212"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Carolus Gustavus"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:08:03-05:00",
+    "timestamp": "2023-09-24T00:58:03-05:00"
+}

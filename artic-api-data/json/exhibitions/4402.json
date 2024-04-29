@@ -1,0 +1,41 @@
+{
+    "id": 4402,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4402",
+    "title": "Art Crafts 7th Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1908-12-08T00:00:00-06:00",
+    "aic_end_at": "1908-12-22T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [
+        "d02543d1-6cc4-ef41-0a3a-1d094fbb5860",
+        "34fb0323-2aa1-57b0-7acc-fa1d8a00122c"
+    ],
+    "document_ids": [
+        "222722de-8aa9-bb6d-bcb7-f28b20460433"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art Crafts 7th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:05-06:00",
+    "timestamp": "2023-09-24T02:01:23-05:00"
+}

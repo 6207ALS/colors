@@ -1,0 +1,173 @@
+{
+    "id": 59911,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59911",
+    "is_boosted": false,
+    "title": "Leda",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG5iWHpuZHpvZ5iQiqGYkaafmqihm6ukoLq6ur29vcLBwMTExNbV1Nna2tna29/e3ePj4evr6vj5+P7+/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURILIoSWMUDiMMDwQEkUQcUwgAOw==",
+        "width": 1690,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1947.86",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1897,
+    "date_end": 1907,
+    "date_display": "1900",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Aristide Joseph-Bonaventure Maillol\nFrench, 1861-1944",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "H.: 24.2 cm (9 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 24.2,
+            "height_in": 9.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Charles H. and Mary F. S. Worcester Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.5136,
+    "color": {
+        "h": 61,
+        "l": 93,
+        "s": 2,
+        "percentage": 0.3332466384591149,
+        "population": 3152
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 40682,
+    "artist_title": "Aristide Joseph-Bonaventure Maillol",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40682
+    ],
+    "artist_titles": [
+        "Aristide Joseph-Bonaventure Maillol"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "sculpture",
+        "women",
+        "modern and contemporary art",
+        "nudes"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": "TM-8735",
+    "alt_subject_ids": [
+        "TM-8649"
+    ],
+    "subject_ids": [
+        "TM-8735",
+        "TM-8649"
+    ],
+    "subject_titles": [
+        "women",
+        "nudes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "09092203-cc21-8ba3-a128-4e00c75b25c2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1947.86"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Leda"
+            ],
+            "weight": 992,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:03:52-05:00",
+    "timestamp": "2023-09-24T00:46:11-05:00"
+}

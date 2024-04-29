@@ -1,0 +1,172 @@
+{
+    "id": 44374,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/44374",
+    "is_boosted": false,
+    "title": "A Street in Seville",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAKmjlsG8ssjEuM3Jv9rUyNvXztzYzt3Zzt3Z0N7Z0d7a0N/b0N7a0d/b0uDb0eDb0uHc0eDc0uLd0uDc1OHd1OHd1eLd1eLe1ePf2OTg1eTg1uTg1+Xh2ejj3AAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUcYHJI2eJEkzYI0HVVXQAQHPY02tZQVmH8CAUjBAA7",
+        "width": 3000,
+        "height": 2233,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1927.3097",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1858,
+    "date_end": 1874,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Mariano Jos\u00e9 Mar\u00eda Bernardo Fortuny y Carb\u00f3\nSpanish, 1838-1874",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "5.8 \u00d7 10 cm (2 5/16 \u00d7 3 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 10,
+            "width_in": 3.9371,
+            "height_cm": 5.8,
+            "height_in": 2.2835,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": "<p>Beraldi VI.14</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.8067,
+    "color": {
+        "h": 43,
+        "l": 50,
+        "s": 13,
+        "percentage": 0.0018919292191440537,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 41876,
+    "artist_title": "Mariano Fortuny y Marsal",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41876
+    ],
+    "artist_titles": [
+        "Mariano Fortuny y Marsal"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "94581c1a-3f69-e44f-c1a5-27e39e67fe83",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.3097"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "A Street in Seville"
+            ],
+            "weight": 92,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:35:18-05:00",
+    "timestamp": "2023-09-24T00:39:32-05:00"
+}

@@ -1,0 +1,175 @@
+{
+    "id": 78999,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/78999",
+    "is_boosted": false,
+    "title": "Commedia del'Arte (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAALJ9bKV+dKSHfquHeqmHfKuIeqyJfKyLfrKCcbSCcLOFc7OFdLWHdbWJdraMebGNf7GPfraMfKeOhamMgbCOga6UhrGRgrSVgreZgwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4FQQgQABiDJcTOQcWLI0RvVYlBQCADs=",
+        "width": 4874,
+        "height": 5025,
+        "alt_text": "A work made of cotton, plain weave; copperplate printed."
+    },
+    "main_reference_number": "1952.1264",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1750,
+    "date_end": 1784,
+    "date_display": "before 1784",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "199.5 \u00d7 195 cm (78 5/8 \u00d7 76 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 195,
+            "width_in": 76.75,
+            "height_cm": 199.5,
+            "height_in": 78.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, plain weave; copperplate printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.0925,
+    "color": {
+        "h": 6,
+        "l": 52,
+        "s": 36,
+        "percentage": 0.21254028641748807,
+        "population": 1557
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "dogs",
+        "textile",
+        "animals",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "subject_id": "TM-8865",
+    "alt_subject_ids": [
+        "TM-12218"
+    ],
+    "subject_ids": [
+        "TM-8865",
+        "TM-12218"
+    ],
+    "subject_titles": [
+        "dogs",
+        "animals"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "17411a16-22e8-474f-62b5-7f5cb1ae18b4",
+    "alt_image_ids": [
+        "9cf142d9-b531-d63a-9263-07a29fcd241c"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1952.1264"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Commedia del'Arte (Furnishing Fabric)"
+            ],
+            "weight": 55,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:44:13-05:00",
+    "timestamp": "2023-09-24T00:54:03-05:00"
+}

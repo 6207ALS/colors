@@ -1,0 +1,31 @@
+{
+    "id": 36215,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36215",
+    "title": "Charles Adams Platt",
+    "sort_title": "Platt, Charles Adams",
+    "alt_titles": [
+        "Charles A. Platt"
+    ],
+    "is_artist": true,
+    "birth_date": 1861,
+    "death_date": 1933,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Adams Platt",
+            "Platt, Charles Adams",
+            "Charles A. Platt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:34:41-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

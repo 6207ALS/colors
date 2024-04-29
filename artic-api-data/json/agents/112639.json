@@ -1,0 +1,28 @@
+{
+    "id": 112639,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/112639",
+    "title": "Monika Baer",
+    "sort_title": "Baer, Monika",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1964,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Monika Baer",
+            "Baer, Monika"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-12-07T10:08:41-06:00",
+    "updated_at": "2022-03-15T16:45:21-05:00",
+    "timestamp": "2023-09-24T02:00:36-05:00"
+}

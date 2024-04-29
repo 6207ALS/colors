@@ -1,0 +1,168 @@
+{
+    "id": 216971,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/216971",
+    "is_boosted": false,
+    "title": "Wine Glass",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEZHTEdITVJTV3R1eHh5e52cnLm4tsfGw8rJx8vKyMzMytLRz9fW1N3c2uHf3QAAACH5BAAAAAAALAAAAAADAAUAAAQLMAhAymBpudOUQREAOw==",
+        "width": 1302,
+        "height": 2250,
+        "alt_text": "A work made of glass."
+    },
+    "main_reference_number": "2012.875",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1745,
+    "date_end": 1755,
+    "date_display": "c. 1750",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "15.4 \u00d7 6.7 cm (6 1/16 \u00d7 2 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 15.4,
+            "height_in": 6.0625,
+            "diameter_cm": 6.7,
+            "diameter_in": 2.625,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Anne Simon Moffat and Keith Moffat",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2013,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.1893,
+    "color": {
+        "h": 211,
+        "l": 40,
+        "s": 40,
+        "percentage": 8.141658341821013e-5,
+        "population": 1
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "drinking vessel",
+        "glass",
+        "european decorative arts",
+        "glass"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-11734",
+    "classification_title": "drinking vessel",
+    "alt_classification_ids": [
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_ids": [
+        "TM-11734",
+        "TM-1394",
+        "TM-85"
+    ],
+    "classification_titles": [
+        "drinking vessel",
+        "european decorative arts",
+        "glass"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6cbd086f-7470-f14b-255a-591be24bdcbd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2012.875"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Wine Glass"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:26:11-05:00",
+    "timestamp": "2023-09-24T01:44:56-05:00"
+}

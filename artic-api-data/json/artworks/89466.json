@@ -1,0 +1,167 @@
+{
+    "id": 89466,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/89466",
+    "is_boosted": false,
+    "title": "Postcard of Laton Alton Huffman",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAHl4cYuKgJeViZ6ckKqomayqm7u5qr+9rsC+rsPAr8TCssnGs8vJt9HPvNPPwNbTw9jVwd7bxdzZxt3bx9/byuLezOPfzeXhzubjz+fj0ufk0Ojk0Ojl0+nm0urm0urn1Ovm1uro1Ovo1e7p2O7r2O/s2fPv2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJBHVCKFNBnKQnJATCIXh8AACCgGD0uCUSA0IJWRifTpYDacIAA7",
+        "width": 3000,
+        "height": 1931,
+        "alt_text": "A work made of postcard."
+    },
+    "main_reference_number": "1980.234",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1926,
+    "date_end": 1926,
+    "date_display": "1926",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Artist unknown\nAmerican, active early 20th century",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "8.9 \u00d7 14 cm (3 9/16 \u00d7 5 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14,
+            "width_in": 5.5119,
+            "height_cm": 8.9,
+            "height_in": 3.504,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Postcard",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Jesmer",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.2494,
+    "color": {
+        "h": 49,
+        "l": 50,
+        "s": 5,
+        "percentage": 0.06390811239073245,
+        "population": 292
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 110752,
+    "artist_title": "Unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110752
+    ],
+    "artist_titles": [
+        "Unknown"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-68",
+    "classification_title": "photographic process",
+    "alt_classification_ids": [
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6c37af2b-28ce-c30a-3756-845d43175a01",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.234"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Postcard of Laton Alton Huffman"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:00:38-05:00",
+    "timestamp": "2023-09-24T00:59:25-05:00"
+}

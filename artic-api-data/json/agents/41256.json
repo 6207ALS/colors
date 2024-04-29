@@ -1,0 +1,31 @@
+{
+    "id": 41256,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41256",
+    "title": "Jan van de Velde, I",
+    "sort_title": "Velde, Jan van de, I",
+    "alt_titles": [
+        "Hans van de Velde, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1563,
+    "death_date": 1623,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jan van de Velde, I",
+            "Velde, Jan van de, I",
+            "Hans van de Velde, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-05-08T10:26:02-05:00",
+    "updated_at": "2022-03-15T16:42:10-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

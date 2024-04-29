@@ -1,0 +1,44 @@
+{
+    "id": 3781,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3781",
+    "title": "Contemporary Drawings from 12 Countries",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1952-10-23T00:00:00-06:00",
+    "aic_end_at": "1952-12-14T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "d4ca44ad-b5d5-1161-75bb-4dcfaf2ec930",
+    "alt_image_ids": [
+        "2afd2ef6-57b7-c760-f730-2a41da9f19e0",
+        "9c9d2690-7fa9-7853-3665-606fa4685e77",
+        "838caca5-95cf-fc10-4610-0a84f4dfc887",
+        "1630ff3d-a297-598c-6d49-b8764589d8bd",
+        "e205e1ad-fb08-bdc8-d0f7-60483860702b"
+    ],
+    "document_ids": [
+        "9edd451b-0c5c-2fa0-d553-30de45635259"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Contemporary Drawings from 12 Countries"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:21:59-06:00",
+    "timestamp": "2023-09-24T02:01:15-05:00"
+}

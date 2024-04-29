@@ -1,0 +1,167 @@
+{
+    "id": 21914,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/21914",
+    "is_boosted": false,
+    "title": "The Storm",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADEwLTYxLDk3Mz08OT09PUxFO01JP1BENWdWPWhXOXRfO3ViO3ZjP3pmP1BRT19gUmNkWXFvXHh4bo92Sot4VoB9bJeDWoKDfZGSh52biLaznquvoa2xo7WzowAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILdpWRV12CVBj+EQAyAExYFQzNIok5WEADs=",
+        "width": 8430,
+        "height": 6654,
+        "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1935.374",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1814,
+    "date_end": 1830,
+    "date_display": "1814/30",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Georges Michel\nFrench, 1763-1843",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "58.7 \u00d7 73 cm (23 1/8 \u00d7 28 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 73,
+            "width_in": 28.75,
+            "height_cm": 58.7,
+            "height_in": 23.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Wilson L. Mead Fund",
+    "catalogue_display": null,
+    "publication_history": "The Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961) p. 311.\n\nJohn Fitzmaurice Mills, \"Art Forum,\" The Irish Times, 14 March 1966, p. 7 (ill.).",
+    "exhibition_history": "Winnipeg, Canada, Winnipeg Art Gallery, French Pre-Impressionist Painters of the 19th Century, April 10\u2013May 9, 1954, cat. no. 57 (ill.).",
+    "provenance_text": "Julius H. Weitzner, New York by 1935; sold to the Art Institute, 1935.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1936,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 30.5792,
+    "color": {
+        "h": 39,
+        "l": 50,
+        "s": 53,
+        "percentage": 0.001605437080245097,
+        "population": 9
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 222",
+    "gallery_id": 2147483607,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 35766,
+    "artist_title": "Georges Michel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35766
+    ],
+    "artist_titles": [
+        "Georges Michel"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-80",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on panel",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ff7cae53-a6f6-9965-70e9-7e264ead9265",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1935.374"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Storm"
+            ],
+            "weight": 1787,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:24:13-05:00",
+    "timestamp": "2023-09-24T00:29:31-05:00"
+}

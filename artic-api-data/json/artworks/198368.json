@@ -1,0 +1,182 @@
+{
+    "id": 198368,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/198368",
+    "is_boosted": false,
+    "title": "Poncho",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAAMGDgUJEAQKEQUKEQkOFQ0QGAwRGA0SGREWGxMYHxQYHhQZHxYaITQ1ODg9Qj5CR0NGSkNHS0VJTklMT0lMU1ZYXVdZXl5gYl5hZmptcWtudHF0dn2AhICCh4WHi4yOkpydoaiqrQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwM0Ecnk4MhGEYDBIUCSERYNhwFQUgQOgYAlxPh2PBhQEADs=",
+        "width": 3000,
+        "height": 2050,
+        "alt_text": "A work made of two panels joined: wool, warp-faced plain weave; resist-dyed; applied edging: wool, warp-faced plain weave with plied weft fringe."
+    },
+    "main_reference_number": "2009.200",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1890,
+    "date_end": 1910,
+    "date_display": "c. 1900",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ranquel\nArgentina, probably La Pampa",
+    "place_of_origin": "Argentina",
+    "description": null,
+    "dimensions": "179.1 \u00d7 144.2 cm (70 1/2 \u00d7 56 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 144.2,
+            "width_in": 56.75,
+            "height_cm": 179.1,
+            "height_in": 70.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Two panels joined: wool, warp-faced plain weave; resist-dyed; applied edging: wool, warp-faced plain weave with plied weft fringe",
+    "inscriptions": null,
+    "credit_line": "Belle M. Borland Estate",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2009,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 14.1618,
+    "color": {
+        "h": 37,
+        "l": 65,
+        "s": 35,
+        "percentage": 0.007825886384605246,
+        "population": 38
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 109539,
+    "artist_title": "Ranquel people",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        109539
+    ],
+    "artist_titles": [
+        "Ranquel people"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Latin American"
+    ],
+    "term_titles": [
+        "resist dyeing",
+        "wool (textile)",
+        "textile",
+        "plain weaving",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2581",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2581"
+    ],
+    "material_titles": [
+        "wool (textile)"
+    ],
+    "technique_id": "TM-4232",
+    "alt_technique_ids": [
+        "TM-10513"
+    ],
+    "technique_ids": [
+        "TM-4232",
+        "TM-10513"
+    ],
+    "technique_titles": [
+        "resist dyeing",
+        "plain weaving"
+    ],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "ceb32d64-55a3-c8b9-3f29-2421793ebb2f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2009.200"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Poncho"
+            ],
+            "weight": 35,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:23-05:00",
+    "updated_at": "2023-04-07T15:54:06-05:00",
+    "timestamp": "2023-09-24T01:39:12-05:00"
+}

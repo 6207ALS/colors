@@ -1,0 +1,31 @@
+{
+    "id": 47789,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47789",
+    "title": "Coco Schoenberg",
+    "sort_title": "Schoenberg, Coco",
+    "alt_titles": [
+        "Coco Swartchild"
+    ],
+    "is_artist": true,
+    "birth_date": 1939,
+    "death_date": 1939,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Coco Schoenberg",
+            "Schoenberg, Coco",
+            "Coco Swartchild"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:18-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

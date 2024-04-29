@@ -1,0 +1,57 @@
+{
+    "id": 16414,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16414",
+    "title": "Bernat Martorell",
+    "sort_title": "Martorell, Bernardo",
+    "alt_titles": [
+        "Bernardo Martorell",
+        "Master of Saint George",
+        "Master of S. George",
+        "Master of St. George",
+        "Benito",
+        "Master of S. Jordi",
+        "Master of S. Jorge"
+    ],
+    "is_artist": true,
+    "birth_date": 1395,
+    "death_date": 1452,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Bernat Martorell",
+            "Martorell, Bernardo",
+            "Bernardo Martorell",
+            "Master of Saint George",
+            "Master of S. George",
+            "Master of St. George",
+            "Benito",
+            "Master of S. Jordi",
+            "Master of S. Jorge"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bernat Martorell",
+            "Martorell, Bernardo",
+            "Bernardo Martorell",
+            "Master of Saint George",
+            "Master of S. George",
+            "Master of St. George",
+            "Benito",
+            "Master of S. Jordi",
+            "Master of S. Jorge"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:23:12-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

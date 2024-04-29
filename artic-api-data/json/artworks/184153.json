@@ -1,0 +1,174 @@
+{
+    "id": 184153,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/184153",
+    "is_boosted": false,
+    "title": "False Image Postcard",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAAwNEAwOESUmJyYmJzEyMjU2NjY3Nzg5Ojw8PEVFRExNTFFSUF1eW19eXGxraQAAACH5BAAAAAAALAAAAAADAAUAAAQLkJV1AlHCIDBcahEAOw==",
+        "width": 1939,
+        "height": 3000,
+        "alt_text": "A work made of offset lithograph on card."
+    },
+    "main_reference_number": "2004.850.7",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1968,
+    "date_end": 1968,
+    "date_display": "1968",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Eleanor Dube\nAmerican, born 1946",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "9 \u00d7 14 cm (3 9/16 \u00d7 5 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 14,
+            "width_in": 5.5119,
+            "height_cm": 9,
+            "height_in": 3.5434,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Offset lithograph on card",
+    "inscriptions": null,
+    "credit_line": "Gift of the Roger Brown Study Collection of the School of The Art Institute of Chicago",
+    "catalogue_display": "<p>Webster 461d</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 8.0044,
+    "color": {
+        "h": 201,
+        "l": 51,
+        "s": 12,
+        "percentage": 0.003274894657555182,
+        "population": 36
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 105026,
+    "artist_title": "Eleanor Dube",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        105026
+    ],
+    "artist_titles": [
+        "Eleanor Dube"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "offset lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-689",
+    "classification_title": "offset lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-689",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "offset lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "7e772b1f-a1a8-d09c-f59e-eb6bd399f4e5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.850.7"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "False Image Postcard"
+            ],
+            "weight": 144,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:13:31-05:00",
+    "timestamp": "2023-09-24T01:34:26-05:00"
+}

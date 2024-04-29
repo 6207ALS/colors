@@ -1,0 +1,35 @@
+{
+    "id": 67905,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/67905",
+    "title": "Works Progress Administration",
+    "sort_title": "Works Progress Administration",
+    "alt_titles": [
+        "W.P.A.",
+        "United States. Works Progress Administration",
+        "WPA"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Works Progress Administration",
+            "Works Progress Administration",
+            "W.P.A.",
+            "United States. Works Progress Administration",
+            "WPA"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-20T16:41:55-05:00",
+    "updated_at": "2021-10-20T16:45:49-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

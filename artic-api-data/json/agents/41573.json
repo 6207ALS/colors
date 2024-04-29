@@ -1,0 +1,37 @@
+{
+    "id": 41573,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41573",
+    "title": "George Smith of Chichester",
+    "sort_title": "Smith, George, of Chichester",
+    "alt_titles": [
+        "George Smith",
+        "George Smith of Chichester",
+        "George Smith, (of Chichester)",
+        "George Smith (of Chichester)"
+    ],
+    "is_artist": true,
+    "birth_date": 1714,
+    "death_date": 1776,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Smith of Chichester",
+            "Smith, George, of Chichester",
+            "George Smith",
+            "George Smith of Chichester",
+            "George Smith, (of Chichester)",
+            "George Smith (of Chichester)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-06-15T14:55:29-05:00",
+    "updated_at": "2020-06-15T14:55:36-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

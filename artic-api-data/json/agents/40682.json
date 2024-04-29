@@ -1,0 +1,31 @@
+{
+    "id": 40682,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40682",
+    "title": "Aristide Joseph-Bonaventure Maillol",
+    "sort_title": "Maillol, Aristide Joseph-Bonaventure",
+    "alt_titles": [
+        "Aristide Maillol"
+    ],
+    "is_artist": true,
+    "birth_date": 1861,
+    "death_date": 1944,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Aristide Joseph-Bonaventure Maillol",
+            "Maillol, Aristide Joseph-Bonaventure",
+            "Aristide Maillol"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-12T17:06:15-05:00",
+    "updated_at": "2022-03-15T16:41:45-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

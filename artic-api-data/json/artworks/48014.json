@@ -1,0 +1,166 @@
+{
+    "id": 48014,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/48014",
+    "is_boosted": false,
+    "title": "Bedcover",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEc/PUk/PEhAP0tGSFFGRlRJQ1NKRlJKR1VLSFZMSFVMSlFLTlNPTVpPTGVVT2FVUWBWUWBWUmRXUmVeXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4KAcwTI9BhFBDOJIDVAkQggAOw==",
+        "width": 1872,
+        "height": 2250,
+        "alt_text": "A work made of silk, velvet, plain twill, damask, also warp-faced plain weave; patterns in warp dyeing, printing, brocading, and extra pattern wefts; wadding and printed warp-faced tabby weave silk lining."
+    },
+    "main_reference_number": "1943.762",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1915,
+    "date_display": "c 1900/10",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "130.9 \u00d7 106.7 cm (51 1/2 \u00d7 42 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 106.7,
+            "width_in": 42,
+            "height_cm": 130.9,
+            "height_in": 51.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, velvet, plain twill, damask, also warp-faced plain weave; patterns in warp dyeing, printing, brocading, and extra pattern wefts; wadding and printed warp-faced tabby weave silk lining",
+    "inscriptions": null,
+    "credit_line": "Bequest of Martin A. Ryerson Estate",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 46.1069,
+    "color": {
+        "h": 214,
+        "l": 52,
+        "s": 61,
+        "percentage": 0.0033959475806215516,
+        "population": 29
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "needlework - quilt",
+        "silk (fiber)",
+        "textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-1016",
+    "classification_title": "needlework - quilt",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-1016",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "needlework - quilt",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2cb3b37b-d307-8782-a2cc-be753f9c9129",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.762"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bedcover"
+            ],
+            "weight": 132,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:55-05:00",
+    "updated_at": "2023-04-10T13:26:21-05:00",
+    "timestamp": "2023-09-24T00:41:26-05:00"
+}

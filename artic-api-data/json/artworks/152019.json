@@ -1,0 +1,167 @@
+{
+    "id": 152019,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/152019",
+    "is_boosted": false,
+    "title": "Saint John the Baptist in the Wilderness",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABcVGCIeICUjIDEmJDMqKj0wKj4wLz01LDkxMToxMD0zMDo8OUs7Nk4+NUc9OklEN0JFPVJDP19NQmlWRgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4CMAAXQUxDJMkdJIhsMkSAgAOw==",
+        "width": 1730,
+        "height": 2250,
+        "alt_text": "A work made of oil on copper."
+    },
+    "main_reference_number": "1999.296",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1600,
+    "date_end": 1619,
+    "date_display": "1600/19",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Denys Calvaert\nFlemish, c. 1540-1619",
+    "place_of_origin": "Flanders",
+    "description": null,
+    "dimensions": "23.5 \u00d7 18.1 cm (9 1/4 \u00d7 7 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 18.1,
+            "width_in": 7.125,
+            "height_cm": 23.5,
+            "height_in": 9.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on copper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Edward and Inge Maser Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Purchased by Edward and Inge Maser, Chicago,  before 1955 [Inge Maser oral communication to Larry Feinberg on July 25, 2006]; given to the Art Institute, 1999.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1999,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.9606,
+    "color": {
+        "h": 52,
+        "l": 45,
+        "s": 28,
+        "percentage": 0.0010823354200760233,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 41179,
+    "artist_title": "Denys Calvaert",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41179
+    ],
+    "artist_titles": [
+        "Denys Calvaert"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on copper",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-490",
+    "classification_title": "oil on copper",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-490",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on copper",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "63a98f96-93d4-a6a7-4309-c24818135b9f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1999.296"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Saint John the Baptist in the Wilderness"
+            ],
+            "weight": 1101,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-16T11:05:51-05:00",
+    "updated_at": "2023-08-16T11:11:02-05:00",
+    "timestamp": "2023-09-24T01:28:28-05:00"
+}

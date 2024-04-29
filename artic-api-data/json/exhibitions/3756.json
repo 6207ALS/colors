@@ -1,0 +1,38 @@
+{
+    "id": 3756,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3756",
+    "title": "Henri Matisse",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1952-04-01T00:00:00-06:00",
+    "aic_end_at": "1952-05-04T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "5883292a-caa2-0c20-f7eb-0e1cb7a5a927",
+    "alt_image_ids": [],
+    "document_ids": [
+        "289084df-b931-6707-c861-2eceb6e21b30"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henri Matisse"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:22:02-06:00",
+    "timestamp": "2023-09-24T02:01:15-05:00"
+}

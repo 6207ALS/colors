@@ -1,0 +1,52 @@
+{
+    "id": 8675,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8675",
+    "title": "Henry Moore",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1947-04-17T00:00:00-06:00",
+    "aic_end_at": "1947-05-18T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "ea34d17c-c26c-90db-17c5-4f9601d77729",
+    "alt_image_ids": [
+        "70e2c731-e3fb-28bc-3b47-46242ffdeb0d",
+        "1a1aff37-5409-4ce7-2d06-2304fddf9eef",
+        "910ccfc2-ae9b-06f2-47cf-e6684c7bdfaf",
+        "a80310bb-c84c-8e78-65ca-c22bde0c577a",
+        "969a46ee-6a8c-dc4b-cd76-c18e37bea6f5",
+        "822bd346-9511-d9ef-bab4-267c3078cd4e",
+        "317689d9-9820-328c-a43b-795e98af07db",
+        "dbd08d07-e93e-e7cc-7b07-81363b0e33f9",
+        "fa31bccb-70ca-99ee-e73d-290a9696df64",
+        "1e4cef16-caef-61b3-cda1-ee57e3622442",
+        "e81698a5-fe3a-e2bd-1682-f24da13fae8c",
+        "ae7f0bbd-712a-1bea-0c4b-d614bfd1cff5",
+        "e5a00ac7-b561-4ec6-5591-dfcd58c80416",
+        "4ae1d64d-69bf-43e7-84e1-82301994e606",
+        "02bf9b13-d165-af73-9582-6a9d41aa11ab"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henry Moore"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:12:16-06:00",
+    "timestamp": "2023-09-24T02:02:20-05:00"
+}

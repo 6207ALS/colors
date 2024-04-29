@@ -1,0 +1,31 @@
+{
+    "id": 61118,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/61118",
+    "title": "Zhu Yunming",
+    "sort_title": "Zhu Yunming",
+    "alt_titles": [
+        "Chu Y\u00fcn-ming"
+    ],
+    "is_artist": true,
+    "birth_date": 1460,
+    "death_date": 1526,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zhu Yunming",
+            "Zhu Yunming",
+            "Chu Y\u00fcn-ming"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-15T15:08:10-06:00",
+    "updated_at": "2023-02-15T15:12:20-06:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

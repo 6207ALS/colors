@@ -1,0 +1,164 @@
+{
+    "id": 63045,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/63045",
+    "is_boosted": false,
+    "title": "Tassel Fringe",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhDAAFAPUAAD5AQEZKSUdKSUlLTEhMTVNWVlZYV1VYWVdaWlhcW1hcXl5hYl9jYmNmZWJmaGlsa2xvbG5xb29zcnBzcnJ2dnZ4d3d6e3d6fHp9e4SHhoWIiI6PjJCSkZWXlZeZmJqcmqmsrautrKyur66vr7K0trW2tLi5trq6uLq6ubi5uru8ur2+vMHCwsLDw8fHw8TFxc3Ozc3OztnZ19vb2eHh4eXk4urp5+7t7O/u7PPy8/n39fr49wAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAMAAUAAAY3wJwIRGqxXjGYCrWjXQgOBqIh4Uw6tYziIEhQFgUPZnUzDCyAR0AT+WxcuNMoFapATKWZzKYLAgA7",
+        "width": 10780,
+        "height": 4500,
+        "alt_text": "A work made of silk."
+    },
+    "main_reference_number": "1907.920",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1800,
+    "date_display": "17th/18th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Italy",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "14.6 \u00d7 6.9 cm (5 3/4 \u00d7 2 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 6.9,
+            "width_in": 2.75,
+            "height_cm": 14.6,
+            "height_in": 5.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "silk",
+    "inscriptions": null,
+    "credit_line": "Art Institute of Chicago Purchase Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.2563,
+    "color": {
+        "h": 46,
+        "l": 49,
+        "s": 6,
+        "percentage": 0.02729699126496279,
+        "population": 81
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "silk (textile)",
+        "textile",
+        "weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2579"
+    ],
+    "material_titles": [
+        "silk (textile)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "14ddd0ac-8b06-994d-0b15-cdf94dbeaa51",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1907.920"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tassel Fringe"
+            ],
+            "weight": 4,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-10T13:25:39-06:00",
+    "updated_at": "2023-04-07T12:49:10-05:00",
+    "timestamp": "2023-09-24T00:47:40-05:00"
+}

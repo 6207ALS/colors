@@ -1,0 +1,197 @@
+{
+    "id": 263743,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/263743",
+    "is_boosted": false,
+    "title": "The Neri Oxman: Material Ecology Catalogue",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACMkJikpKSkpKioqKi0sKywsLS4uLi8uLjAvLiUoMycsOTQzMzMzNDo5Ojo6OkFBRERFR1RUWVVWWgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PJAjhBJBZEoiAEABxMMTQgAOw==",
+        "width": 7419,
+        "height": 9156,
+        "alt_text": "A work made of book."
+    },
+    "main_reference_number": "2022.175",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2020,
+    "date_end": 2020,
+    "date_display": "2020",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Irma Boom\nDutch, born 1960",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "29.9 \u00d7 24.1 \u00d7 1.6 cm (11 3/4 \u00d7 9 1/2 \u00d7 3 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 1.6,
+            "depth_in": 3,
+            "width_cm": 24.1,
+            "width_in": 9.5,
+            "height_cm": 29.9,
+            "height_in": 11.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Book",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 220,
+        "l": 38,
+        "s": 38,
+        "percentage": 7.949551088850014e-5,
+        "population": 54
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 112759,
+    "artist_title": "Irma Boom",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        112759
+    ],
+    "artist_titles": [
+        "Irma Boom"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "book",
+        "book",
+        "21st Century",
+        "book",
+        "graphic design",
+        "book",
+        "books",
+        "graphic design",
+        "graphic design"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-11",
+    "classification_title": "book",
+    "alt_classification_ids": [
+        "TM-12308"
+    ],
+    "classification_ids": [
+        "TM-11",
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "book",
+        "graphic design"
+    ],
+    "subject_id": "TM-14696",
+    "alt_subject_ids": [
+        "TM-14980",
+        "TM-12453",
+        "TM-13337",
+        "TM-15068"
+    ],
+    "subject_ids": [
+        "TM-14696",
+        "TM-14980",
+        "TM-12453",
+        "TM-13337",
+        "TM-15068"
+    ],
+    "subject_titles": [
+        "book",
+        "book",
+        "books",
+        "graphic design",
+        "graphic design"
+    ],
+    "material_id": "TM-13142",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-13142"
+    ],
+    "material_titles": [
+        "book"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "81fbdda4-afea-e122-1c9a-eed8d5dc837c",
+    "alt_image_ids": [
+        "fa588ba5-33c4-b65f-fa12-909031555c0d"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.175"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Neri Oxman: Material Ecology Catalogue"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T15:50:31-05:00",
+    "updated_at": "2023-05-17T15:53:34-05:00",
+    "timestamp": "2023-09-24T01:58:25-05:00"
+}

@@ -1,0 +1,182 @@
+{
+    "id": 158709,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/158709",
+    "is_boosted": false,
+    "title": "Rain Drawings",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHJbVnRbVX5cU3pfXX1gWIZhUohhUIxkVYNnX45qXKF0X4NpZI1vaZBtYJJvYJBvZJVwYpRzaqV0ZKp6aal5bKt8baB5caF6d6+AaauAbrOAZ7aEZ7SDaqqCerGCcLKFcryMcbyPd7mMfQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIGgYGg4ABfKhPMJLSwVCUaxIXREHk0GhGBEEocHJBAEADs=",
+        "width": 3000,
+        "height": 2131,
+        "alt_text": "A work made of chromogenic print."
+    },
+    "main_reference_number": "2001.638",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1933,
+    "date_end": 1997,
+    "date_display": "1933/97",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Nathan Lerner\nAmerican, 1913\u20131997",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/paper: 37.7 \u00d7 53.1 cm (14 7/8 \u00d7 20 15/16 in.); Mount: 50 \u00d7 60 cm (19 11/16 \u00d7 23 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 53.1,
+            "width_in": 20.9056,
+            "height_cm": 37.7,
+            "height_in": 14.8426,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/paper"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 60,
+            "width_in": 23.6221,
+            "height_cm": 50,
+            "height_in": 19.6851,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Mount"
+        }
+    ],
+    "medium_display": "Chromogenic print",
+    "inscriptions": null,
+    "credit_line": "Gift of Kiyoko Lerner",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2002,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.0721,
+    "color": {
+        "h": 8,
+        "l": 60,
+        "s": 23,
+        "percentage": 0.13387278520745333,
+        "population": 676
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 35455,
+    "artist_title": "Nathan Lerner",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35455
+    ],
+    "artist_titles": [
+        "Nathan Lerner"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "chromogenic color print",
+        "photographic process",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-558",
+        "TM-68",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-558",
+        "TM-68",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photography",
+        "chromogenic color print",
+        "photographic process",
+        "photograph"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a9178087-000b-fcf0-8822-4d568f686762",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2001.638"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Rain Drawings"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:23:50-05:00",
+    "timestamp": "2023-09-24T01:32:03-05:00"
+}

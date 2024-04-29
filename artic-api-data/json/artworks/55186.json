@@ -1,0 +1,155 @@
+{
+    "id": 55186,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/55186",
+    "is_boosted": false,
+    "title": "Calligraphy",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAFlTQmRcSHlwV310V3pxWHxzWX10WX91WH50Wn11XYB3W4F4W4R5W4V7W4Z7XIV7XoB4YIV8YId9YYp/YYqAY4uBY42CYYyBY4uCZ46DZo6EZ5CCYZGDYpSEYpGFZZKFZJSHZpiHZJKIapWKbJSKbZWMbpaMb5mNa52PbJ2RcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwBQEAxGVNImNB8A4NCwDRwjkuTwWlRMC9QkUCBOFQcAZYUykDCUi6QQBADs=",
+        "width": 3000,
+        "height": 1639,
+        "alt_text": "A work made of handscroll; ink on paper."
+    },
+    "main_reference_number": "1946.241",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": null,
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mi Fu\nChinese",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Handscroll; ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. Harley F. MacNair",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1946,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 44,
+        "l": 50,
+        "s": 20,
+        "percentage": 0.06638194020744356,
+        "population": 3264
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 62379,
+    "artist_title": "Mi Fu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        62379
+    ],
+    "artist_titles": [
+        "Mi Fu"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "handscroll",
+        "painting",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-468",
+    "classification_title": "handscroll",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-468",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "handscroll",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2b4caf3b-96e5-6d13-11c0-49e13a4880ac",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1946.241"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Calligraphy"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-01-24T14:51:31-06:00",
+    "updated_at": "2023-04-07T12:39:00-05:00",
+    "timestamp": "2023-09-24T00:44:37-05:00"
+}

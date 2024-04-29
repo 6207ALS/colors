@@ -1,0 +1,176 @@
+{
+    "id": 23114,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/23114",
+    "is_boosted": false,
+    "title": "Moles",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD04MFBKP1hSRl5XSmJbTm9nV3ZuX3hvX4N6aYqAbIuBbo6Eb4uCcJeNeKufiLOmjberkr6xmdnMrtnMsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYHQEhQIwzjJMUiIQzWMgUAgAOw==",
+        "width": 2284,
+        "height": 3000,
+        "alt_text": "A work made of pen and ink on paper."
+    },
+    "main_reference_number": "1965.250",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1958,
+    "date_end": 1958,
+    "date_display": "1958",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Rodolfo Abularach\nGuatemalan, born 1934",
+    "place_of_origin": "Guatemala",
+    "description": null,
+    "dimensions": "101 \u00d7 76.5 cm (39 13/16 \u00d7 30 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 76.5,
+            "width_in": 30.1182,
+            "height_cm": 101,
+            "height_in": 39.7638,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Miss Margaret Fisher",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 21.2264,
+    "color": {
+        "h": 37,
+        "l": 62,
+        "s": 21,
+        "percentage": 0.1127302692560338,
+        "population": 1052
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33348,
+    "artist_title": "Rodolfo Abularach",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33348
+    ],
+    "artist_titles": [
+        "Rodolfo Abularach"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-829"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Latin American"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Latin American"
+    ],
+    "image_id": "5285cb95-d6a2-22b0-6073-94d85a9a3a02",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1965.250"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Moles"
+            ],
+            "weight": 147,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:49-05:00",
+    "updated_at": "2023-04-10T14:20:29-05:00",
+    "timestamp": "2023-09-24T00:30:16-05:00"
+}

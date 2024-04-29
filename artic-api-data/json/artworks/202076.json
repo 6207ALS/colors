@@ -1,0 +1,178 @@
+{
+    "id": 202076,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202076",
+    "is_boosted": false,
+    "title": "Palm",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKerrqirrb29vb3Bw77Aw7/Bw7/CxL/DxMDAwMLDxMPFxcLFx8PGx8TFxcbHyMXIysfKzMjLzMjLzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOI0QrQYiQQEyjMcDAFBRQgAOw==",
+        "width": 1800,
+        "height": 2153,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "2022.325",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2001,
+    "date_end": 2001,
+    "date_display": "2001",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Gabriel Orozco\nMexican, born 1962",
+    "place_of_origin": "Mexico",
+    "description": null,
+    "dimensions": "27.9 \u00d7 21.6 cm (11 \u00d7 8 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 21.6,
+            "width_in": 8.504,
+            "height_cm": 27.9,
+            "height_in": 10.9843,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 41,
+        "l": 49,
+        "s": 1,
+        "percentage": 0.00118697424781958,
+        "population": 46
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 63714,
+    "artist_title": "Gabriel Orozco",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        63714
+    ],
+    "artist_titles": [
+        "Gabriel Orozco"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "paper (fiber product)",
+        "drawing",
+        "prints and drawing",
+        "paper",
+        "ink"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-14658",
+    "classification_title": "drawing",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-1627"
+    ],
+    "classification_ids": [
+        "TM-14658",
+        "TM-4",
+        "TM-145",
+        "TM-1627"
+    ],
+    "classification_titles": [
+        "drawing",
+        "prints and drawing",
+        "paper",
+        "ink"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "62292b7e-4cb9-2922-2fcc-4860dc65578b",
+    "alt_image_ids": [
+        "277c8a2a-5b64-6ca9-d36c-9f5550548507"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.325"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Palm"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-20T09:41:48-05:00",
+    "updated_at": "2023-07-20T09:45:57-05:00",
+    "timestamp": "2023-09-24T01:40:31-05:00"
+}

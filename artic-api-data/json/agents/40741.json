@@ -1,0 +1,47 @@
+{
+    "id": 40741,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40741",
+    "title": "Perino del Vaga",
+    "sort_title": "Perino del Vaga",
+    "alt_titles": [
+        "Pietro Buonaccorsi",
+        "Perino del Vaga",
+        "Perino del Vaga, (Pietro Buonaccorsi)",
+        "Perino del Ceri",
+        "Pierino del Ceri",
+        "Pierino del Vaga",
+        "Perino del Vaga",
+        "Perino del Vaga, (Piero Buonaccorsi)",
+        "Pierino Vaga del"
+    ],
+    "is_artist": true,
+    "birth_date": 1501,
+    "death_date": 1547,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Perino del Vaga",
+            "Perino del Vaga",
+            "Pietro Buonaccorsi",
+            "Perino del Vaga",
+            "Perino del Vaga, (Pietro Buonaccorsi)",
+            "Perino del Ceri",
+            "Pierino del Ceri",
+            "Pierino del Vaga",
+            "Perino del Vaga",
+            "Perino del Vaga, (Piero Buonaccorsi)",
+            "Pierino Vaga del"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-01-27T08:40:30-06:00",
+    "updated_at": "2022-03-15T16:41:53-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

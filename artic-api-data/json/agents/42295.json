@@ -1,0 +1,33 @@
+{
+    "id": 42295,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42295",
+    "title": "Rev. Matthew William Peters",
+    "sort_title": "Peters, Matthew William, Rev.",
+    "alt_titles": [
+        "Matthew W. Peters",
+        "Matthew William Peters"
+    ],
+    "is_artist": true,
+    "birth_date": 1742,
+    "death_date": 1814,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rev. Matthew William Peters",
+            "Peters, Matthew William, Rev.",
+            "Matthew W. Peters",
+            "Matthew William Peters"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:51-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

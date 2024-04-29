@@ -1,0 +1,180 @@
+{
+    "id": 60203,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/60203",
+    "is_boosted": false,
+    "title": "Emaciated Siddhartha",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAF5JOGNNPWNfXXRiUnJmWnJmW3dmWGdiYGllY29qaXNycoKAgZWPi5uTjJ6WkJqam6GcmqeinqyrrbOuqwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIIcwlIQimQMDxQAzOQ0UQgAOw==",
+        "width": 5632,
+        "height": 7040,
+        "alt_text": "A work made of gilt bronze."
+    },
+    "main_reference_number": "1980.268",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1850,
+    "date_end": 1900,
+    "date_display": "1850/1900",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Thailand",
+    "place_of_origin": "Thailand",
+    "description": null,
+    "dimensions": "14.8 \u00d7 10.6 \u00d7 6.6 cm (5 7/8 \u00d7 4 1/8 \u00d7 2 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 6.6,
+            "depth_in": 2.625,
+            "width_cm": 10.6,
+            "width_in": 4.125,
+            "height_cm": 14.8,
+            "height_in": 5.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gilt bronze",
+    "inscriptions": null,
+    "credit_line": "Bertha Evans Brown Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.3803,
+    "color": {
+        "h": 38,
+        "l": 66,
+        "s": 75,
+        "percentage": 0.0027011148851688537,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "bronze",
+        "bronze",
+        "Southeast Asian",
+        "metal",
+        "sculpture",
+        "asian art"
+    ],
+    "style_id": "TM-5345",
+    "style_title": "Southeast Asian",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5345"
+    ],
+    "style_titles": [
+        "Southeast Asian"
+    ],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-33",
+        "TM-13",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3a9c8f9b-a589-5711-665b-62ca0ee482b5",
+    "alt_image_ids": [
+        "e79eb55c-d2cb-642d-bb4f-97759e000ab1",
+        "42f6e09a-2b1e-b57a-7b1e-0015401a59b6"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.268"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Emaciated Siddhartha"
+            ],
+            "weight": 1066,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:57-05:00",
+    "updated_at": "2023-04-10T13:03:10-05:00",
+    "timestamp": "2023-09-24T00:46:20-05:00"
+}

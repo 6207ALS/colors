@@ -1,0 +1,39 @@
+{
+    "id": 743,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/743",
+    "title": "Fra Angelico",
+    "sort_title": "Angelico, Fra",
+    "alt_titles": [
+        "Fra Angelico",
+        "Fra Angelico, called Giovanni da Fiesole",
+        "Beato Angelico",
+        "Giovanni da Fiesole",
+        "Giovanni da Fiesole"
+    ],
+    "is_artist": true,
+    "birth_date": 1387,
+    "death_date": 1455,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fra Angelico",
+            "Angelico, Fra",
+            "Fra Angelico",
+            "Fra Angelico, called Giovanni da Fiesole",
+            "Beato Angelico",
+            "Giovanni da Fiesole",
+            "Giovanni da Fiesole"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:35-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

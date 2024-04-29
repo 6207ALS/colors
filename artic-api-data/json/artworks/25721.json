@@ -1,0 +1,179 @@
+{
+    "id": 25721,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/25721",
+    "is_boosted": false,
+    "title": "Niobe",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGNeUGZhUnVrWHZwYXhxYnx0Y5mOeaWWe6Wagq6ii7qtlcK0msi5nsy9o9/QseLVu+vcwPbkwvPixfTkxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAQ9U5QAioMEwyIQRXMYTAgAOw==",
+        "width": 2184,
+        "height": 3000,
+        "alt_text": "A work made of color lithograph on ivory wove paper."
+    },
+    "main_reference_number": "1966.346",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1965,
+    "date_end": 1965,
+    "date_display": "1965",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Leon Golub\nAmerican, 1922-2004",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/sheet: 104.5 \u00d7 77.5 cm (41 3/16 \u00d7 30 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 77.5,
+            "width_in": 30.5119,
+            "height_cm": 104.5,
+            "height_in": 41.1418,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/sheet"
+        }
+    ],
+    "medium_display": "Color lithograph on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Joseph R. Shapiro",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1967,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 27.9613,
+    "color": {
+        "h": 37,
+        "l": 44,
+        "s": 41,
+        "percentage": 0.0017414571283986583,
+        "population": 17
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40614,
+    "artist_title": "Leon Golub",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40614
+    ],
+    "artist_titles": [
+        "Leon Golub"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-154",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "99e81751-69a4-6072-49b8-9a69cc2b7f18",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1966.346"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Niobe"
+            ],
+            "weight": 138,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:50-05:00",
+    "updated_at": "2023-04-10T14:14:40-05:00",
+    "timestamp": "2023-09-24T00:31:43-05:00"
+}

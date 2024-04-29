@@ -1,0 +1,44 @@
+{
+    "id": 7485,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7485",
+    "title": "Hugh Ferriss: Metropolis",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1986-12-02T00:00:00-06:00",
+    "aic_end_at": "1987-01-18T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "62be621c-5ed8-3614-c112-80fcd8729ecc",
+    "alt_image_ids": [
+        "dea852a9-e3a1-0522-c8fd-05c878ae0245",
+        "b5dbb019-fd53-65f9-4fba-d22669ee752c",
+        "6ec534ab-a110-c13d-0a07-3c266e7177fc",
+        "fd361512-9122-f1de-c9ef-9141d78f1f7a",
+        "e379ca2c-2a07-12f4-85cc-c5994f34761f"
+    ],
+    "document_ids": [
+        "e47623e1-eac6-7957-2aef-f3dae7a41b8e"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hugh Ferriss: Metropolis"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:15:14-06:00",
+    "timestamp": "2023-09-24T02:02:03-05:00"
+}

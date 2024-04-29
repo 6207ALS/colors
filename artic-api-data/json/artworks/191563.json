@@ -1,0 +1,160 @@
+{
+    "id": 191563,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/191563",
+    "is_boosted": false,
+    "title": "Portrait of Mme. Lina Cavalieri",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACcpLC4sLjMzNTY0NUc/OUM/PEdDQVJJQldORFVMRlVPRlVPSVZTTlxTSVlTTF1VTV5XTF9YUWBWTWJYTGJYTWFYUGNbUmBdV2ddVAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIJQYD6Yci0U1DhNJSAEM1UQEwhUCADs=",
+        "width": 7192,
+        "height": 6637,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2007.288",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1901,
+    "date_end": 1901,
+    "date_display": "1901",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Giovanni Boldini\nItalian, 1842\u20131931",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "95.3 \u00d7 102.9 cm (37 1/2 \u00d7 40 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 102.9,
+            "width_in": 40.5,
+            "height_cm": 95.3,
+            "height_in": 37.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Bequest of Brooks McCormick",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 2008,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.0455,
+    "color": {
+        "h": 44,
+        "l": 85,
+        "s": 40,
+        "percentage": 0.0007633459590754963,
+        "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 226",
+    "gallery_id": 2147483601,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 33680,
+    "artist_title": "Giovanni Boldini",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33680
+    ],
+    "artist_titles": [
+        "Giovanni Boldini"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "41527b5e-8ac0-abd0-0a9b-afb6d4ab76bf",
+    "alt_image_ids": [
+        "5bdd44fe-8f38-4a79-f062-fc2e02907e99"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2007.288"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Mme. Lina Cavalieri"
+            ],
+            "weight": 5510,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-16T11:55:42-06:00",
+    "updated_at": "2023-04-07T12:25:43-05:00",
+    "timestamp": "2023-09-24T01:37:15-05:00"
+}

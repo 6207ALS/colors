@@ -1,0 +1,33 @@
+{
+    "id": 40516,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40516",
+    "title": "Charles Fran\u00e7ois Daubigny",
+    "sort_title": "Daubigny, Charles Fran\u00e7ois",
+    "alt_titles": [
+        "Charles-Fran\u00e7ois Daubigny",
+        "Charles F. Daubigny"
+    ],
+    "is_artist": true,
+    "birth_date": 1817,
+    "death_date": 1878,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Fran\u00e7ois Daubigny",
+            "Daubigny, Charles Fran\u00e7ois",
+            "Charles-Fran\u00e7ois Daubigny",
+            "Charles F. Daubigny"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:49-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

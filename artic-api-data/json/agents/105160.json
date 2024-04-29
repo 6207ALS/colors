@@ -1,0 +1,28 @@
+{
+    "id": 105160,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/105160",
+    "title": "Charles Atlas",
+    "sort_title": "Atlas, Charles",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1958,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Atlas",
+            "Atlas, Charles"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-07-10T16:06:22-05:00",
+    "updated_at": "2022-03-15T16:44:01-05:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

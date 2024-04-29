@@ -1,0 +1,33 @@
+{
+    "id": 43052,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/43052",
+    "title": "Venetian School",
+    "sort_title": "Venetian School",
+    "alt_titles": [
+        "School of  Venice",
+        "School of Venice"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Venetian School",
+            "Venetian School",
+            "School of  Venice",
+            "School of Venice"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:43:14-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

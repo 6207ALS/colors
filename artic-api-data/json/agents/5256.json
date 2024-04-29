@@ -1,0 +1,35 @@
+{
+    "id": 5256,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5256",
+    "title": "W.T. Copeland & Sons",
+    "sort_title": "W.T. Copeland & Sons",
+    "alt_titles": [
+        "Copeland and Sons",
+        "W.T. Copeland and Sons, ltd., Stoke-on-Trent, Eng.",
+        "W.T. Copeland and Sons"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "W.T. Copeland & Sons",
+            "W.T. Copeland & Sons",
+            "Copeland and Sons",
+            "W.T. Copeland and Sons, ltd., Stoke-on-Trent, Eng.",
+            "W.T. Copeland and Sons"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:03-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

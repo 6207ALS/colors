@@ -1,0 +1,43 @@
+{
+    "id": 40574,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40574",
+    "title": "Filippo Napoletano",
+    "sort_title": "Napoletano, Filippo",
+    "alt_titles": [
+        "d'Angeli Filippo",
+        "Filippo Napoletano",
+        "Filippo d'Angeli",
+        "Filippo d' Angeli",
+        "Filippo de Liano d' Angeli, (il Napoletano)",
+        "Filippo Napoletano, (Filippo d'Angeli)",
+        "il Napoletano"
+    ],
+    "is_artist": true,
+    "birth_date": 1589,
+    "death_date": 1629,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Filippo Napoletano",
+            "Napoletano, Filippo",
+            "d'Angeli Filippo",
+            "Filippo Napoletano",
+            "Filippo d'Angeli",
+            "Filippo d' Angeli",
+            "Filippo de Liano d' Angeli, (il Napoletano)",
+            "Filippo Napoletano, (Filippo d'Angeli)",
+            "il Napoletano"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-01-03T11:30:37-06:00",
+    "updated_at": "2022-03-15T16:41:23-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

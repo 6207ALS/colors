@@ -1,0 +1,28 @@
+{
+    "id": 61313,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/61313",
+    "title": "Yang Ki-hun",
+    "sort_title": "Yang Ki-hun",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1843,
+    "death_date": 1898,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Yang Ki-hun",
+            "Yang Ki-hun"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-09-21T09:10:17-05:00",
+    "updated_at": "2022-09-21T09:10:57-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

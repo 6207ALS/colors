@@ -1,0 +1,39 @@
+{
+    "id": 29318,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/29318",
+    "title": "Mori Yoshiyuki (Nansuitei Yoshiyuki)",
+    "sort_title": "Mori Yoshiyuki (Nansuitei Yoshiyuki)",
+    "alt_titles": [
+        "Nansui",
+        "Mori Yonejiro",
+        "Rikukaen (Rikkaen)",
+        "Rikukaken (Rikkaken)",
+        "Keisetsu"
+    ],
+    "is_artist": true,
+    "birth_date": 1835,
+    "death_date": 1879,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mori Yoshiyuki (Nansuitei Yoshiyuki)",
+            "Mori Yoshiyuki (Nansuitei Yoshiyuki)",
+            "Nansui",
+            "Mori Yonejiro",
+            "Rikukaen (Rikkaen)",
+            "Rikukaken (Rikkaken)",
+            "Keisetsu"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:09:48-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

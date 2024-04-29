@@ -1,0 +1,37 @@
+{
+    "id": 36620,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36620",
+    "title": "Ben Shahn",
+    "sort_title": "Shahn, Ben",
+    "alt_titles": [
+        "Benjamin Shan",
+        "Benjamin Shahn",
+        "\u0411\u0435\u043d \u0428\u0430\u043d",
+        "Ben Shan"
+    ],
+    "is_artist": true,
+    "birth_date": 1898,
+    "death_date": 1969,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ben Shahn",
+            "Shahn, Ben",
+            "Benjamin Shan",
+            "Benjamin Shahn",
+            "\u0411\u0435\u043d \u0428\u0430\u043d",
+            "Ben Shan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:34:26-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

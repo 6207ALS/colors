@@ -1,0 +1,186 @@
+{
+    "id": 63793,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/63793",
+    "is_boosted": false,
+    "title": "Three Twenty North Michigan Avenue Building, Chicago, Illinois, Elevation",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAF9dVGdgU2poXWtwaXpzZVqMmmuTmnuUlmaYp3ydo3+hpnOmtn+ruLKunoWorJ+0scnCsdjTv93Xw+bhzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4HIkTAEMiBEIjkI00gNNUQgAOw==",
+        "width": 1700,
+        "height": 2250,
+        "alt_text": "A work made of graphite and colored pencil on tracing paper."
+    },
+    "main_reference_number": "1981.825",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1981,
+    "date_end": 1981,
+    "date_display": "1981",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Booth Hansen (American, founded 1980)\nLaurence O. Booth (American, born 1936)",
+    "place_of_origin": "Michigan Avenue, 320 North (apartment building)",
+    "description": null,
+    "dimensions": "61 \u00d7 45.3 cm (24 \u00d7 17 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 45.3,
+            "width_in": 17.875,
+            "height_cm": 61,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Graphite and colored pencil on tracing paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous Gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 1982,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 52.2512,
+    "color": {
+        "h": 198,
+        "l": 36,
+        "s": 81,
+        "percentage": 0.0858854492191652,
+        "population": 808
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 65577,
+    "artist_title": "Booth, Nagle and Hartray",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        65577
+    ],
+    "artist_titles": [
+        "Booth, Nagle and Hartray"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "design drawing",
+        "Chicago",
+        "paper (fiber product)",
+        "graphite",
+        "colored pencil",
+        "architectural drawing",
+        "architecture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-914",
+    "classification_title": "design drawing",
+    "alt_classification_ids": [
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_ids": [
+        "TM-914",
+        "TM-126",
+        "TM-103"
+    ],
+    "classification_titles": [
+        "design drawing",
+        "architectural drawing",
+        "architecture"
+    ],
+    "subject_id": "TM-12075",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12075"
+    ],
+    "subject_titles": [
+        "Chicago"
+    ],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410",
+        "TM-2420"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410",
+        "TM-2420"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite",
+        "colored pencil"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "01872637-895f-b41d-14a9-528c35a2f14d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1981.825"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Three Twenty North Michigan Avenue Building, Chicago, Illinois, Elevation"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:58-05:00",
+    "updated_at": "2023-04-10T12:55:45-05:00",
+    "timestamp": "2023-09-24T00:48:03-05:00"
+}

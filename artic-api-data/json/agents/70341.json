@@ -1,0 +1,37 @@
+{
+    "id": 70341,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/70341",
+    "title": "Gerard van Obstal",
+    "sort_title": "Opstal, G\u00e9rard van",
+    "alt_titles": [
+        "Gerard Van Opstal",
+        "Gerard van Opstal",
+        "Gerard van Opstael",
+        "G\u00e9rard van Opstal"
+    ],
+    "is_artist": true,
+    "birth_date": 1594,
+    "death_date": 1668,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gerard van Obstal",
+            "Opstal, G\u00e9rard van",
+            "Gerard Van Opstal",
+            "Gerard van Opstal",
+            "Gerard van Opstael",
+            "G\u00e9rard van Opstal"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:06-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 223001,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/223001",
+    "is_boosted": false,
+    "title": "Tile",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACwqKjc1Nj46OUI/PkI/P1FRU19bW3R2f0hnilFrjFRujVt5mmN6k4yJiaqttrm3tLi4t7W1ure5usG8trq+xsLEy8PGzdLS1tPT1gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYEAMAmBM0FM00pIcEYMozkVVFhYCADs=",
+        "width": 2248,
+        "height": 2250,
+        "alt_text": "A work made of tin-glazed earthenware with cobalt decoration."
+    },
+    "main_reference_number": "1984.985b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1601,
+    "date_end": 1800,
+    "date_display": "17th/18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Netherlands",
+    "place_of_origin": "Netherlands",
+    "description": null,
+    "dimensions": "13.5 \u00d7 12.7 cm (5 1/16 \u00d7 5 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 12.7,
+            "width_in": 5,
+            "height_cm": 13.5,
+            "height_in": 5.0625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Tin-glazed earthenware with cobalt decoration",
+    "inscriptions": null,
+    "credit_line": "Bequest of Hans G. Cahen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.6231,
+    "color": {
+        "h": 211,
+        "l": 32,
+        "s": 62,
+        "percentage": 0.024315101223906944,
+        "population": 173
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Ceramics",
+    "artwork_type_id": 36,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "earthenware",
+        "tin-glazed ware",
+        "ceramics",
+        "european decorative arts",
+        "earthenware"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-2340",
+    "classification_title": "tin-glazed ware",
+    "alt_classification_ids": [
+        "TM-46",
+        "TM-1394",
+        "TM-74"
+    ],
+    "classification_ids": [
+        "TM-2340",
+        "TM-46",
+        "TM-1394",
+        "TM-74"
+    ],
+    "classification_titles": [
+        "tin-glazed ware",
+        "ceramics",
+        "european decorative arts",
+        "earthenware"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-11755",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-11755"
+    ],
+    "material_titles": [
+        "earthenware"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "bfeb8789-091b-ea40-064b-66257a8ac03a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1984.985b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Tile"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:25:03-05:00",
+    "timestamp": "2023-09-24T01:46:45-05:00"
+}

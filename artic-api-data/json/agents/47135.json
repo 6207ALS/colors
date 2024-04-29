@@ -1,0 +1,35 @@
+{
+    "id": 47135,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47135",
+    "title": "Style of James McNeill Whistler",
+    "sort_title": "Whistler, James McNeill, Style of",
+    "alt_titles": [
+        "Style of James Abbott McNeill Whistler",
+        "Style of J. A. M. Whistler",
+        "Style of James A. McNeill Whistler"
+    ],
+    "is_artist": true,
+    "birth_date": 1834,
+    "death_date": 1903,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Style of James McNeill Whistler",
+            "Whistler, James McNeill, Style of",
+            "Style of James Abbott McNeill Whistler",
+            "Style of J. A. M. Whistler",
+            "Style of James A. McNeill Whistler"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:39-05:00",
+    "timestamp": "2023-09-24T02:00:26-05:00"
+}

@@ -1,0 +1,172 @@
+{
+    "id": 181064,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/181064",
+    "is_boosted": false,
+    "title": "Portrait of Samuel Bernard, Counselor of State",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFBMRF1ZUGFdUnRvY3VwZHhzZ3ZxaHlzaX95b4R+cIaAc4qDdpCJeJCIegAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQL8CCj1khElABWYxEAOw==",
+        "width": 2021,
+        "height": 3000,
+        "alt_text": "A work made of engraving on ivory laid paper."
+    },
+    "main_reference_number": "1887.250",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1729,
+    "date_end": 1729,
+    "date_display": "1729",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Pierre-Imbert Drevet (French, 1697-1739)\nafter Hyacinthe Rigaud (French, 1659-1743)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image/sheet; cut within plate: 62 \u00d7 41.8 cm (24 7/16 \u00d7 16 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 41.8,
+            "width_in": 16.4567,
+            "height_cm": 62,
+            "height_in": 24.4095,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/sheet; cut within plate"
+        }
+    ],
+    "medium_display": "Engraving on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Elizabeth Hammond Stickney Collection",
+    "catalogue_display": "<p>Nevill p. 217 II/II</p><p>Firmin-Didot 11 III/III</p><p>Le Blanc 18</p><p>Portalis & Beraldi 60</p><p>Fonds Fran\u00e7ais 8 III/III</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.1883,
+    "color": {
+        "h": 37,
+        "l": 55,
+        "s": 11,
+        "percentage": 0.21401621288971195,
+        "population": 2257
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 85631,
+    "artist_title": "Pierre-Imbert Drevet",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        85631
+    ],
+    "artist_titles": [
+        "Pierre-Imbert Drevet"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "engraving",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e8dd86fd-c2e5-d5a9-b2d1-421d8024e8af",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.250"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Samuel Bernard, Counselor of State"
+            ],
+            "weight": 374,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:18:48-05:00",
+    "timestamp": "2023-09-24T01:33:22-05:00"
+}

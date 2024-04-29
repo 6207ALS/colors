@@ -1,0 +1,160 @@
+{
+    "id": 201938,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/201938",
+    "is_boosted": false,
+    "title": "Beautiful Woman Beautifully Painted",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAN3c2N7c2N/d2eHf2+Lh3ePh3uXi3ufl4efm4+jm4ujn5Onn5PDt6fHw7PHx8PPy8fb08Pb08fX08/f18vn38/n39Pr49fv49fr59/v6+fv7+vz8+v39+wAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdoDZVlxVlGUQdDJVtVAIEDYcZwSAA0lMsCAXBEQIAOw==",
+        "width": 3070,
+        "height": 2302,
+        "alt_text": "A work made of lacquer on canvas."
+    },
+    "main_reference_number": "Obj: 201938",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2002,
+    "date_end": 2002,
+    "date_display": "2002",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Michael Krebber\nGerman, born 1954",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "120 \u00d7 100.3 cm (47 1/4 \u00d7 39 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 100.3,
+            "width_in": 39.5,
+            "height_cm": 120,
+            "height_in": 47.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lacquer on canvas",
+    "inscriptions": null,
+    "credit_line": "Promised gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.7154,
+    "color": {
+        "h": 345,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.0033785305644398397,
+        "population": 18
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 111072,
+    "artist_title": "Michael Krebber",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        111072
+    ],
+    "artist_titles": [
+        "Michael Krebber"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7e13525d-6325-e221-9710-a32d27f8c0b7",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "Obj: 201938"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Beautiful Woman Beautifully Painted"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-01T11:20:37-05:00",
+    "updated_at": "2023-09-01T11:20:54-05:00",
+    "timestamp": "2023-09-24T01:40:25-05:00"
+}

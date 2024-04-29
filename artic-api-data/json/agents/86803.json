@@ -1,0 +1,31 @@
+{
+    "id": 86803,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/86803",
+    "title": "Claire Zeisler Studio",
+    "sort_title": "Claire Zeisler Studio",
+    "alt_titles": [
+        "Claire Zeisler Studio"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Claire Zeisler Studio",
+            "Claire Zeisler Studio",
+            "Claire Zeisler Studio"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-08-01T10:07:08-05:00",
+    "updated_at": "2019-08-01T10:10:39-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

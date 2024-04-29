@@ -1,0 +1,28 @@
+{
+    "id": 35181,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35181",
+    "title": "Max Kahn",
+    "sort_title": "Kahn, Max",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1903,
+    "death_date": 2005,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Kahn",
+            "Kahn, Max"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-18T16:00:39-05:00",
+    "updated_at": "2023-07-18T16:00:53-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

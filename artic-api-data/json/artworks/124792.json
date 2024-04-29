@@ -1,0 +1,174 @@
+{
+    "id": 124792,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/124792",
+    "is_boosted": false,
+    "title": "Figure Study",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGNYSmZcTnRnVXRoVXZpVnhqVn1xYYd3X4V3YoV3ZIl5Yoh6ZZCBapKDbJKEbpiKdZmMdqKVgqeah6+jkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYJMYCFMACzQETkQIz3QoUggAOw==",
+        "width": 2309,
+        "height": 3000,
+        "alt_text": "A work made of black and white chalk on brown wove paper."
+    },
+    "main_reference_number": "1993.305",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1856,
+    "date_end": 1919,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Sir Edward John Poynter\nEnglish, 1836-1919",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "35.5 \u00d7 27.4 cm (14 \u00d7 10 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 27.4,
+            "width_in": 10.7875,
+            "height_cm": 35.5,
+            "height_in": 13.9764,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Black and white chalk on brown wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of D.H. Weinglass and M. Carbonell",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1994,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 20.1139,
+    "color": {
+        "h": 38,
+        "l": 90,
+        "s": 45,
+        "percentage": 0.001733318166799374,
+        "population": 16
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40755,
+    "artist_title": "Sir John Edward Poynter",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40755
+    ],
+    "artist_titles": [
+        "Sir John Edward Poynter"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "chalk",
+        "paper (fiber product)",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-209",
+    "classification_title": "chalk",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-209",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "chalk",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a887c39a-4ae2-aee9-dc7a-3871e83a526d",
+    "alt_image_ids": [
+        "8f01538f-21a9-5540-fbf6-e411264075b4"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1993.305"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Figure Study"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:11-05:00",
+    "updated_at": "2023-04-10T10:41:29-05:00",
+    "timestamp": "2023-09-24T01:16:13-05:00"
+}

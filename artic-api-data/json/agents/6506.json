@@ -1,0 +1,31 @@
+{
+    "id": 6506,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/6506",
+    "title": "John Demos",
+    "sort_title": "Demos, John",
+    "alt_titles": [
+        "Demos, Giannes"
+    ],
+    "is_artist": true,
+    "birth_date": 1944,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Demos",
+            "Demos, John",
+            "Demos, Giannes"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:16-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

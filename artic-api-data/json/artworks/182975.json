@@ -1,0 +1,168 @@
+{
+    "id": 182975,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182975",
+    "is_boosted": false,
+    "title": "Lu Xun (Zhongguo zuojia- Lu Xun xiansheng)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACUrICYsIjpANTtBNz9GPEFIP0ZLQEZMQFNZTVNYTlxiWGRoX25zaoWJgYWKgaGlncHFvt3h3OHk3+zv6gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoHMYCBEMBcA0QiJFyjNBSwgAOw==",
+        "width": 2325,
+        "height": 2906,
+        "alt_text": "A work made of multi-block woodcut printed with water-soluble ink."
+    },
+    "main_reference_number": "2004.196",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1998,
+    "date_end": 1998,
+    "date_display": "1998",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Wu Biduan\nChinese, born 1926",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "42.9 \u00d7 34.6 cm (16 15/16 \u00d7 13 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 34.6,
+            "width_in": 13.6,
+            "height_cm": 42.9,
+            "height_in": 16.9,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Multi-block woodcut printed with water-soluble ink",
+    "inscriptions": null,
+    "credit_line": "Margaret Gentles Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.4063,
+    "color": {
+        "h": 73,
+        "l": 51,
+        "s": 2,
+        "percentage": 0.003604906728671063,
+        "population": 32
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 101925,
+    "artist_title": "Wu Biduan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        101925
+    ],
+    "artist_titles": [
+        "Wu Biduan"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodcut",
+        "Chinese (culture or style)",
+        "print"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-148",
+    "classification_title": "woodcut",
+    "alt_classification_ids": [
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-148",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "woodcut",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cfa4594e-8bd7-1516-4458-872817bdc22e",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.196"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Lu Xun (Zhongguo zuojia- Lu Xun xiansheng)"
+            ],
+            "weight": 96,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:15:09-05:00",
+    "timestamp": "2023-09-24T01:34:07-05:00"
+}

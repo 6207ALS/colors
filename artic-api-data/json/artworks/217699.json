@@ -1,0 +1,173 @@
+{
+    "id": 217699,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/217699",
+    "is_boosted": false,
+    "title": "Title slip \u5c71\u6c34\u518c\u9801 \u5c01\u9762",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAQAFAPIAAFo8GFxAH2ZEG2BDIWNGJQAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEOAJBCQA7",
+        "width": 412,
+        "height": 2250,
+        "alt_text": "A work made of ink on paper."
+    },
+    "main_reference_number": "1943.106.26",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1895,
+    "date_end": 1896,
+    "date_display": "Qing dynasty (1644\u20131911), 1895/96",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Liu Songfu (Chinese, ?- c. 1917)",
+    "place_of_origin": "China",
+    "description": null,
+    "dimensions": "30.5 \u00d7 5 cm (12 \u00d7 2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 5,
+            "width_in": 2,
+            "height_cm": 30.5,
+            "height_in": 12,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Ink on paper",
+    "inscriptions": "\"Monk [Master] Xugu Landscape Album [Liu] Songfu gifted to Mrs. Ayscough for her appreciation\"",
+    "credit_line": "Gift of Florence Ayscough and Harley Farnsworth MacNair",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": "Florence Ayscough & Harley Farnsworth MacNair Collection",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.5105,
+    "color": {
+        "h": 240,
+        "l": 49,
+        "s": 5,
+        "percentage": 5.1530826255574346e-5,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 14404,
+    "artist_title": "Xugu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        14404
+    ],
+    "artist_titles": [
+        "Xugu"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "painting",
+        "paper (fiber product)",
+        "Chinese (culture or style)",
+        "album leaf"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-4303"
+    ],
+    "style_titles": [
+        "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-280"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-280"
+    ],
+    "classification_titles": [
+        "painting",
+        "album leaf"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "12575224-2442-cd95-cafc-63be09804e25",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.106.26"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Title slip \u5c71\u6c34\u518c\u9801 \u5c01\u9762"
+            ],
+            "weight": 19,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-28T14:12:46-05:00",
+    "updated_at": "2023-07-28T14:15:51-05:00",
+    "timestamp": "2023-09-24T01:45:17-05:00"
+}

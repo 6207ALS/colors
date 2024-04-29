@@ -1,0 +1,175 @@
+{
+    "id": 48987,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/48987",
+    "is_boosted": false,
+    "title": "Le manteau de Saint Jean Baptiste",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAAAAAAEBAwEBBAAABQAABgsOGBgXGhkZHDg1O0pGQkZIS1BJQ1dNS2liXoF1dIaDfpCFgZWMh5iRj6OclaecmLOvqbyyssS7quLbywAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYKBUh0A8WAIU0tUMiDVFhkMtEBMCADs=",
+        "width": 4110,
+        "height": 4500,
+        "alt_text": "A work made of linen and wool, plain weave with supplementary brocading wefts and self-patterned by main warp floats; main warp fringe."
+    },
+    "main_reference_number": "1975.345",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1975,
+    "date_end": 1975,
+    "date_display": "1975",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Cecile Brocard (French, born 1925)\nFrance, Paris",
+    "place_of_origin": "Paris",
+    "description": null,
+    "dimensions": "301.7 \u00d7 320.5 cm (118 3/4 \u00d7 126 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 320.5,
+            "width_in": 126.125,
+            "height_cm": 301.7,
+            "height_in": 118.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen and wool, plain weave with supplementary brocading wefts and self-patterned by main warp floats; main warp fringe",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. John V. Farwell III and Mrs. Theodore D. Tieken",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.716,
+    "color": {
+        "h": 356,
+        "l": 55,
+        "s": 8,
+        "percentage": 0.04819500082895402,
+        "population": 375
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 3314,
+    "artist_title": "Cecile Brocard",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        3314
+    ],
+    "artist_titles": [
+        "Cecile Brocard"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving",
+        "liturgical",
+        "fiber art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159",
+        "TM-10317",
+        "TM-10653"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159",
+        "TM-10317",
+        "TM-10653"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving",
+        "liturgical",
+        "fiber art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "549508e7-2f0d-2a80-83ad-f630f787c7e6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1975.345"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Le manteau de Saint Jean Baptiste"
+            ],
+            "weight": 38,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-14T15:37:43-05:00",
+    "updated_at": "2023-07-14T15:40:51-05:00",
+    "timestamp": "2023-09-24T00:41:54-05:00"
+}

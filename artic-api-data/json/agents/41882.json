@@ -1,0 +1,33 @@
+{
+    "id": 41882,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41882",
+    "title": "Frederick de Moucheron",
+    "sort_title": "Moucheron, Frederick de",
+    "alt_titles": [
+        "Frederik de Moucheron",
+        "Fr\u00e9d\u00e9ric de Moucheron"
+    ],
+    "is_artist": true,
+    "birth_date": 1633,
+    "death_date": 1686,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frederick de Moucheron",
+            "Moucheron, Frederick de",
+            "Frederik de Moucheron",
+            "Fr\u00e9d\u00e9ric de Moucheron"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:31:37-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

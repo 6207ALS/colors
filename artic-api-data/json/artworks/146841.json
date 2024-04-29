@@ -1,0 +1,182 @@
+{
+    "id": 146841,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146841",
+    "is_boosted": false,
+    "title": "Sunny Room",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJ2bgKOjjbSyjrW1n7q7rNHIh+Dan87NpsfIrsjIqcrMq8rJut3YwOXjxOnnyuvpzunn1O3q1+/t3PDv3/Tx2PXx2/Pw3PPw3/Xx3vTw4fj15vn26Pr26f357AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYDdFlLVhAVAYVUYsAiJpg3IkEMc0j3OFADs=",
+        "width": 3000,
+        "height": 2509,
+        "alt_text": "A work made of color lithograph on paper."
+    },
+    "main_reference_number": "1996.783",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1931,
+    "date_end": 1931,
+    "date_display": "1931",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Emil Ganso\nAmerican, 1895-1941",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "21 \u00d7 24.8 cm (8 1/4 \u00d7 9 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.8,
+            "width_in": 9.75,
+            "height_cm": 21,
+            "height_in": 8.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Anthony R. White",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 33.5211,
+    "color": {
+        "h": 53,
+        "l": 54,
+        "s": 80,
+        "percentage": 0.003870001598478921,
+        "population": 23
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 9270,
+    "artist_title": "Emil Ganso",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        9270
+    ],
+    "artist_titles": [
+        "Emil Ganso"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "lithography",
+        "paper (fiber product)",
+        "printing",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3859",
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3859",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "lithography",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "17404bf5-d69a-05ba-83a5-442551914567",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1996.783"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sunny Room"
+            ],
+            "weight": 15,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:16-05:00",
+    "updated_at": "2023-04-10T08:07:36-05:00",
+    "timestamp": "2023-09-24T01:25:43-05:00"
+}

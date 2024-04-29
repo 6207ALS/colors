@@ -1,0 +1,183 @@
+{
+    "id": 133237,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/133237",
+    "is_boosted": false,
+    "title": "Notre Dame, Paris",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEk9KFxPNmJTN2tcPWNYQWteRHNmTXdqTH9wT5CDZZGEZJKGapSIbZmLbpmMb5qMcK+hgrWohLWohbKlireqibmskLyvkbywkLmwmruym7y0nL+4oMC4n8G5oAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGMsDjQlgwAEj4IcRNFIEXVZ1dZxWoaFADs=",
+        "width": 3000,
+        "height": 2491,
+        "alt_text": "A work made of etching in black on cream laid paper."
+    },
+    "main_reference_number": "1932.660",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1900,
+    "date_display": "1900",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Donald Shaw MacLaughlan\nAmerican, born Canada, 1876-1938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/plate: 18.6 \u00d7 25.4 cm (7 3/8 \u00d7 10 in.); Sheet: 21.2 \u00d7 25.7 cm (8 3/8 \u00d7 10 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 18.6,
+            "height_in": 7.3229,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.7,
+            "width_in": 10.1182,
+            "height_cm": 21.2,
+            "height_in": 8.3465,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching in black on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Walter S. Brewster",
+    "catalogue_display": "<p>Roullier Catalogue 27 ?/III</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1932,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 22.2834,
+    "color": {
+        "h": 45,
+        "l": 41,
+        "s": 44,
+        "percentage": 0.004575495678698525,
+        "population": 27
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 41757,
+    "artist_title": "Donald Shaw MacLaughlan",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        41757
+    ],
+    "artist_titles": [
+        "Donald Shaw MacLaughlan"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4f491fd9-d09a-2ac6-f63f-7e489b9a6961",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1932.660"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Notre Dame, Paris"
+            ],
+            "weight": 28,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:13-05:00",
+    "updated_at": "2023-04-10T10:21:46-05:00",
+    "timestamp": "2023-09-24T01:20:11-05:00"
+}

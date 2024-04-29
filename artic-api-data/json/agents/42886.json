@@ -1,0 +1,33 @@
+{
+    "id": 42886,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42886",
+    "title": "Mahonri Mackintosh Young",
+    "sort_title": "Young, Mahonri Mackintosh",
+    "alt_titles": [
+        "Mahonri Young",
+        "Mahonri M. Young"
+    ],
+    "is_artist": true,
+    "birth_date": 1877,
+    "death_date": 1957,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mahonri Mackintosh Young",
+            "Young, Mahonri Mackintosh",
+            "Mahonri Young",
+            "Mahonri M. Young"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-07-26T13:04:32-05:00",
+    "updated_at": "2022-03-15T16:43:02-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

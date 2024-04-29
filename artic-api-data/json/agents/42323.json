@@ -1,0 +1,35 @@
+{
+    "id": 42323,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42323",
+    "title": "Giuseppe Galli-Bibiena",
+    "sort_title": "Galli-Bibiena, Giuseppe",
+    "alt_titles": [
+        "Giuseppe Galli Bibiena",
+        "Giuseppe Galli da Bibiena",
+        "Giuseppe Galli da Bibiena"
+    ],
+    "is_artist": true,
+    "birth_date": 1696,
+    "death_date": 1756,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giuseppe Galli-Bibiena",
+            "Galli-Bibiena, Giuseppe",
+            "Giuseppe Galli Bibiena",
+            "Giuseppe Galli da Bibiena",
+            "Giuseppe Galli da Bibiena"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:35:28-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

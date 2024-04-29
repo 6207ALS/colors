@@ -1,0 +1,28 @@
+{
+    "id": 19261,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/19261",
+    "title": "Nichiren",
+    "sort_title": "Nichiren",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1301,
+    "death_date": 1500,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nichiren",
+            "Nichiren"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-31T16:42:16-05:00",
+    "updated_at": "2022-10-31T16:45:52-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

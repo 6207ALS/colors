@@ -1,0 +1,183 @@
+{
+    "id": 45409,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/45409",
+    "is_boosted": false,
+    "title": "La Porte St. Denis, Paris",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIqFbY6IcZGNdpeSfKehi6WgjKeijqikkaynlLGsmbOunbazn7eyo7izorm1pb25p726q8C9rcTBscfEtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDRF0LMMByIAhREQiaM0TAgAOw==",
+        "width": 2341,
+        "height": 3000,
+        "alt_text": "A work made of etching on ivory laid paper."
+    },
+    "main_reference_number": "1927.3541",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1901,
+    "date_end": 1927,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Lester George Hornby\nAmerican, 1881-1956",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image/plate: 20 \u00d7 15.7 cm (7 7/8 \u00d7 6 3/16 in.); Sheet: 26.1 \u00d7 20.5 cm (10 5/16 \u00d7 8 1/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 15.7,
+            "width_in": 6.1812,
+            "height_cm": 20,
+            "height_in": 7.8741,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20.5,
+            "width_in": 8.0709,
+            "height_cm": 26.1,
+            "height_in": 10.2756,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "The Charles Deering Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.4896,
+    "color": {
+        "h": 44,
+        "l": 47,
+        "s": 16,
+        "percentage": 0.026910065462853128,
+        "population": 245
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34998,
+    "artist_title": "Lester George Hornby",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34998
+    ],
+    "artist_titles": [
+        "Lester George Hornby"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "d380af34-6663-aca8-fd0d-afffa7645b3a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.3541"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "La Porte St. Denis, Paris"
+            ],
+            "weight": 45,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:54-05:00",
+    "updated_at": "2023-04-10T13:32:58-05:00",
+    "timestamp": "2023-09-24T00:40:04-05:00"
+}

@@ -1,0 +1,152 @@
+{
+    "id": 249364,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/249364",
+    "is_boosted": false,
+    "title": "Atlanta",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHoAGIMAGIIBGYUBGYYBGYcBGYgAGIkBGYoAGIoBGYwBGY4BGY8BGY8DHY8FHI4IHpABGJABGZEBGZUBGJQCGpUDGpcDG5ACHJUCHJQGHZYHHJgBGJoBGJkCGZwDG6ACGaMCGaICGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMKiAwphGodI5+PJXAqMDceieQgSkAml4gAEDAiFZBAEADs=",
+        "width": 6841,
+        "height": 4701,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2019.199",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1958,
+    "date_end": 1958,
+    "date_display": "1958",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Ralph Humphrey\nAmerican, 1932-1990",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "167.6 \u00d7 243.8 cm (66 \u00d7 96 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 243.8,
+            "width_in": 96,
+            "height_cm": 167.6,
+            "height_in": 66,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Walter Aitken and Mr. and Mrs. Cyrus McCormick Jr. endowment funds",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2019,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 52.155,
+    "color": {
+        "h": 353,
+        "l": 33,
+        "s": 99,
+        "percentage": 1.007381729451318,
+        "population": 4917
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 68465,
+    "artist_title": "Ralph Humphrey",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        68465
+    ],
+    "artist_titles": [
+        "Ralph Humphrey"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [],
+    "classification_ids": [],
+    "classification_titles": [],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c34527ed-a334-3a73-c35d-48e03c527ca8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.199"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Atlanta"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:36-05:00",
+    "updated_at": "2023-04-07T14:46:17-05:00",
+    "timestamp": "2023-09-24T01:55:35-05:00"
+}

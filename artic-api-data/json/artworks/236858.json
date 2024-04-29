@@ -1,0 +1,187 @@
+{
+    "id": 236858,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/236858",
+    "is_boosted": false,
+    "title": "Black & White II",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABEQEjIyMzY1Nj87NDk4Oj08PVRORVJRUlZUVVdVVlhVUlhWV19bVWRfWW5pYgAAACH5BAAAAAAALAAAAAADAAUAAAQLcAlUAHFGsdFOSBEAOw==",
+        "width": 2924,
+        "height": 4999,
+        "alt_text": "A work made of linen, warp ikat dyed; plain weave."
+    },
+    "main_reference_number": "1985.634b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1980,
+    "date_end": 1980,
+    "date_display": "1980",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Han-Lien Wu (American, born 1954)\nAnn Arbor, Michigan, United States",
+    "place_of_origin": "Michigan",
+    "description": null,
+    "dimensions": "159 \u00d7 84.7 cm (62 5/8 \u00d7 33 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 84.7,
+            "width_in": 33.375,
+            "height_cm": 159,
+            "height_in": 62.625,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "linen, warp ikat dyed; plain weave",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Textile Society",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 9.0086,
+    "color": {
+        "h": 37,
+        "l": 47,
+        "s": 14,
+        "percentage": 0.011113278886498847,
+        "population": 135
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 33179,
+    "artist_title": "Han-Lien Wu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33179
+    ],
+    "artist_titles": [
+        "Han-Lien Wu"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "linen (material)",
+        "ikat dyed",
+        "textile",
+        "dye",
+        "fiber art",
+        "weaving - printed",
+        "plain weaving"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-10653",
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-10653",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "fiber art",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-3093",
+    "alt_material_ids": [
+        "TM-3394"
+    ],
+    "material_ids": [
+        "TM-3093",
+        "TM-3394"
+    ],
+    "material_titles": [
+        "linen (material)",
+        "dye"
+    ],
+    "technique_id": "TM-10578",
+    "alt_technique_ids": [
+        "TM-10513"
+    ],
+    "technique_ids": [
+        "TM-10578",
+        "TM-10513"
+    ],
+    "technique_titles": [
+        "ikat dyed",
+        "plain weaving"
+    ],
+    "theme_titles": [],
+    "image_id": "cecfaf91-c11a-7ea8-bb7d-e32b8746dcec",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.634b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Black & White II"
+            ],
+            "weight": 9,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T11:23:27-05:00",
+    "updated_at": "2023-08-29T11:25:59-05:00",
+    "timestamp": "2023-09-24T01:52:17-05:00"
+}

@@ -1,0 +1,160 @@
+{
+    "id": 148889,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/148889",
+    "is_boosted": false,
+    "title": "Portrait of Jacques B\u00e9nigne Bossuet, Bishop of Meaux",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEZDOkhGPFVRR1dUS1hUSltYTWFcUWBcUmZhV2llWG1oW5KKe5WMfpmSgpyThQAAACH5BAAAAAAALAAAAAADAAUAAAQLcIAjUkCtEGXYchEAOw==",
+        "width": 2010,
+        "height": 3000,
+        "alt_text": "A work made of engraving on cream laid paper."
+    },
+    "main_reference_number": "1924.586",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1723,
+    "date_end": 1723,
+    "date_display": "1723",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Pierre-Imbert Drevet (French, 1697-1739)\nafter Hyacinthe Rigaud (French, 1659-1743)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "501 \u00d7 333 (sheet; cut within plate and to image in spots)",
+    "dimensions_detail": [],
+    "medium_display": "Engraving on cream laid paper",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": "<p>Firmin-Didot 12 V/V</p><p>Fonds Fran\u00e7ais 9 V/V</p><p>Le Blanc 19 III/III</p><p>Portalis & Beraldi 61</p><p>Nevill p. 217</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 13.3263,
+    "color": {
+        "h": 153,
+        "l": 51,
+        "s": 8,
+        "percentage": 0.0021688005778439105,
+        "population": 23
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34303,
+    "artist_title": "Pierre Drevet",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34303
+    ],
+    "artist_titles": [
+        "Pierre Drevet"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12",
+    "classification_title": "engraving",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "516f2aae-05e8-3a9e-8b3d-40a8d2be8dd4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1924.586"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Jacques B\u00e9nigne Bossuet, Bishop of Meaux"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:46:33-05:00",
+    "updated_at": "2023-04-10T15:21:35-05:00",
+    "timestamp": "2023-09-24T01:26:46-05:00"
+}

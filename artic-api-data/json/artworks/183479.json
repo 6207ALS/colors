@@ -1,0 +1,169 @@
+{
+    "id": 183479,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/183479",
+    "is_boosted": false,
+    "title": "Untitled (recto and verso)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACIhGCMiGCwrHzg2KktJO0tKO0xLPGZkU2tqWG5sWW9uXHZ0YHl4ZIKCboOCboSCboWEb4aFcImJdI+OeJKSe5OSfZWUfpaVfpeVfpeWf5iXgKGgiQAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIDJdlLZoVSM5xWYEwgAczGMpRAJlWYSFADs=",
+        "width": 979,
+        "height": 768,
+        "alt_text": "A work made of soot and saliva, applied with sharpened stick and smudging (recto and verso) on ivory card."
+    },
+    "main_reference_number": "2004.821",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1977,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "James Castle \nAmerican, 1900-1977",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "20.3 \u00d7 25.4 cm (8 \u00d7 10 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 25.4,
+            "width_in": 10,
+            "height_cm": 20.3,
+            "height_in": 7.9922,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Soot and saliva, applied with sharpened stick and smudging (recto and verso) on ivory card",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.5765,
+    "color": {
+        "h": 56,
+        "l": 48,
+        "s": 9,
+        "percentage": 0.1503886235851715,
+        "population": 838
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 99025,
+    "artist_title": "James Castle",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        99025
+    ],
+    "artist_titles": [
+        "James Castle"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "soot",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10369",
+    "classification_title": "soot",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-10369",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "soot",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ad5b9ea6-89a5-c0cd-2094-2e376c5173ad",
+    "alt_image_ids": [
+        "81fb9f53-6a14-ffb3-5210-f875849ae763"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.821"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled (recto and verso)"
+            ],
+            "weight": 251,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-04-20T13:55:32-05:00",
+    "updated_at": "2023-04-20T13:57:29-05:00",
+    "timestamp": "2023-09-24T01:34:21-05:00"
+}

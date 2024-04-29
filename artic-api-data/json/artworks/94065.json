@@ -1,0 +1,181 @@
+{
+    "id": 94065,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/94065",
+    "is_boosted": false,
+    "title": "Three Onions",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAMTIus7SxdLRxNXXy9razt7f093f1ODe0Nzg0d/g0t7h1eDh0+Hj2OPl2eLm2uPn3Obo2+fp3err4Ors4evt4evu5O7u5O/w5fDx5/P06/T06vb37/n37vb38Pn68/v89iH5BAAAAAAALAAAAAAHAAUAAAUdIKddFwUdXoc9UZN8HQIEzLJllaMYhDVJjcJAEAIAOw==",
+        "width": 3000,
+        "height": 2103,
+        "alt_text": "A work made of colored pencils and graphite on white wove paper."
+    },
+    "main_reference_number": "1977.295",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1970,
+    "date_end": 1977,
+    "date_display": "c. 1975\u201377",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Po Kim\nKorean, 20th century",
+    "place_of_origin": "Korea",
+    "description": null,
+    "dimensions": "38.5 \u00d7 55.1 cm (15 3/16 \u00d7 21 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.1,
+            "width_in": 21.693,
+            "height_cm": 38.5,
+            "height_in": 15.1575,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Colored pencils and graphite on white wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Fairweather Hardin Gallery",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 10.8185,
+    "color": {
+        "h": 161,
+        "l": 41,
+        "s": 48,
+        "percentage": 0.00040143472771686,
+        "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 13858,
+    "artist_title": "Po Kim",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        13858
+    ],
+    "artist_titles": [
+        "Po Kim"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "colored pencil",
+        "paper (fiber product)",
+        "graphite",
+        "pencil",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-296",
+    "classification_title": "colored pencil",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-296",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "colored pencil",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2410",
+        "TM-2450"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2410",
+        "TM-2450"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "graphite",
+        "pencil"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2f2d835b-66d4-c5d7-8614-5d33eddb0e1d",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.295"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Three Onions"
+            ],
+            "weight": 73,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:04-05:00",
+    "updated_at": "2023-04-10T11:53:21-05:00",
+    "timestamp": "2023-09-24T01:01:38-05:00"
+}

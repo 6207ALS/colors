@@ -1,0 +1,37 @@
+{
+    "id": 302,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/302",
+    "title": "Jaacov Agam",
+    "sort_title": "Agam, Jaacov",
+    "alt_titles": [
+        "Yaacov Agam",
+        "Yaacov Gipstein",
+        "Jacob Gipstein Agam",
+        "Ya`akov Agam"
+    ],
+    "is_artist": true,
+    "birth_date": 1928,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jaacov Agam",
+            "Agam, Jaacov",
+            "Yaacov Agam",
+            "Yaacov Gipstein",
+            "Jacob Gipstein Agam",
+            "Ya`akov Agam"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T14:31:30-05:00",
+    "timestamp": "2023-09-24T02:00:06-05:00"
+}

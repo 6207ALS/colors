@@ -1,0 +1,31 @@
+{
+    "id": 104707,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/104707",
+    "title": "Clara Driscoll",
+    "sort_title": "Driscoll, Clara",
+    "alt_titles": [
+        "Clara Pierce Wolcott"
+    ],
+    "is_artist": true,
+    "birth_date": 1861,
+    "death_date": 1944,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Clara Driscoll",
+            "Driscoll, Clara",
+            "Clara Pierce Wolcott"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-02-27T11:53:13-06:00",
+    "updated_at": "2023-02-27T11:57:13-06:00",
+    "timestamp": "2023-09-24T02:00:34-05:00"
+}

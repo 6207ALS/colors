@@ -1,0 +1,38 @@
+{
+    "id": 5019,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5019",
+    "title": "Paintings and Drawings by Stephen Haweis",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1920-04-06T00:00:00-06:00",
+    "aic_end_at": "1920-05-05T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "e75a324a-1cd9-dfb3-195b-92b68240833c"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings and Drawings by Stephen Haweis"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:20:00-06:00",
+    "timestamp": "2023-09-24T02:01:30-05:00"
+}

@@ -1,0 +1,182 @@
+{
+    "id": 56055,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/56055",
+    "is_boosted": false,
+    "title": "Untitled, plate one from Barcelona Series",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKulnbqzrMW9tsfAuMrDvM3DvczFvc/Hv9TNxdnQyNnRydvRytzTy9/Vzd3Vzt7Wzt/X0ODX0OPb0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYBMMzwIYEhMJSnIgTEE4UAgAOw==",
+        "width": 1715,
+        "height": 2250,
+        "alt_text": "A work made of lithograph on ivory wove paper."
+    },
+    "main_reference_number": "1979.275",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1939,
+    "date_end": 1939,
+    "date_display": "1939, published 1944",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Joan Mir\u00f3\nSpanish, 1893-1983",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "69.8 \u00d7 52.1 cm (27 1/2 \u00d7 20 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 52.1,
+            "width_in": 20.5119,
+            "height_cm": 69.8,
+            "height_in": 27.4804,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph on ivory wove paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Rue Winterbotham Shaw",
+    "catalogue_display": "<p>Cramer, Mourlot, and Leiris 6</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Successi\u00f3 Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 7.94,
+    "color": {
+        "h": 39,
+        "l": 52,
+        "s": 5,
+        "percentage": 0.014264906827634878,
+        "population": 133
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 32048,
+    "artist_title": "Joan Mir\u00f3",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        32048
+    ],
+    "artist_titles": [
+        "Joan Mir\u00f3"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "lithography",
+        "paper (fiber product)",
+        "printing",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": "TM-3859",
+    "alt_technique_ids": [
+        "TM-3861"
+    ],
+    "technique_ids": [
+        "TM-3859",
+        "TM-3861"
+    ],
+    "technique_titles": [
+        "lithography",
+        "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "d3e202a5-9727-06a9-951f-aef5405ab02c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1979.275"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled, plate one from Barcelona Series"
+            ],
+            "weight": 636,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-09-23T23:23:49-05:00",
+    "timestamp": "2023-09-24T00:45:01-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 65955,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/65955",
+    "title": "Circle of Stefano dall' Arzere",
+    "sort_title": "Arzere, Stefano dall', Circle of",
+    "alt_titles": [
+        "Circle of Stefano dall'Arzere"
+    ],
+    "is_artist": true,
+    "birth_date": 1515,
+    "death_date": 1581,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Circle of Stefano dall' Arzere",
+            "Arzere, Stefano dall', Circle of",
+            "Circle of Stefano dall'Arzere"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:25:12-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

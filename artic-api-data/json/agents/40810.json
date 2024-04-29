@@ -1,0 +1,45 @@
+{
+    "id": 40810,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40810",
+    "title": "Georges Seurat",
+    "sort_title": "Seurat, Georges",
+    "alt_titles": [
+        "Georges Pierre Seurat",
+        "Georges-Pierre Seurat",
+        "\u4e54\u6cbb\u00b7\u4fee\u62c9"
+    ],
+    "is_artist": true,
+    "birth_date": 1859,
+    "death_date": 1891,
+    "description": "<p>Inspired by recently published research in optical and color theory, Georges Seurat distinguished his art from what the Impressionists considered a more intuitive painting approach by developing his own \u201cscientific\u201d style called Pointillism. Tackling the issues of color, light, and form, Seurat\u2019s method juxtaposed tiny dabs of colors to create hues that he believed, through optical blending, were more intense and luminous.</p><p>Although Seurat embraced the subject matter of modern life preferred by artists such as Claude Monet and Pierre-Auguste Renoir, he went beyond their concern for translating paint qualities of light in nature. Rather, Seurat sought to evoke permanence by recalling the art of the past, especially Egyptian and Greek sculpture and even Italian Renaissance frescoes, although some contemporary critics found his figures to be less a nod to earlier art history than a commentary on the posturing and artificiality of modern Parisian society.</p><p>\u201cBedlam,\u201d \u201cscandal,\u201d and \u201chilarity\u201d were among the epithets used to describe what is now considered Georges Seurat\u2019s greatest work\u2014<a href=\"/artworks/27992/a-sunday-on-la-grande-jatte-1884\"><em>A Sunday on La Grande Jatte\u20141884</em></a><em>\u2014</em>when it was first exhibited in Paris. Recognized for its unusual technique, simplified figure types, and enormous scale, the monumental work is a manifesto of the new style of painting that broke with Impressionism.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Georges Seurat",
+            "Seurat, Georges",
+            "Georges Pierre Seurat",
+            "Georges-Pierre Seurat",
+            "\u4e54\u6cbb\u00b7\u4fee\u62c9"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Georges Seurat",
+            "Seurat, Georges",
+            "Georges Pierre Seurat",
+            "Georges-Pierre Seurat",
+            "\u4e54\u6cbb\u00b7\u4fee\u62c9"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-13T14:51:58-05:00",
+    "updated_at": "2023-09-23T23:24:10-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

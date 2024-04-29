@@ -1,0 +1,178 @@
+{
+    "id": 54858,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/54858",
+    "is_boosted": false,
+    "title": "Sampler",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIhqQ4psRYdtSZFzTp11Tp93T7qbfL2dfb6ef7yegMCggsKhgte/qtfAq9jBrNzItN7Jtt/Jtt/KtgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURINQwkUEURxIAiCIMy9M4UggAOw==",
+        "width": 1984,
+        "height": 2250,
+        "alt_text": "A work made of linen, plain weave; embroidered with silk in cross stitches."
+    },
+    "main_reference_number": "1946.84",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1833,
+    "date_end": 1833,
+    "date_display": "1833",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Sophia Middleton (born 1819 or 1820)\nEngland or United States",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "43.9 \u00d7 44.8 cm (17 1/4 \u00d7 17 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 44.8,
+            "width_in": 17.625,
+            "height_cm": 43.9,
+            "height_in": 17.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Linen, plain weave; embroidered with silk in cross stitches",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Meyer Rosenfield",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.0825,
+    "color": {
+        "h": 41,
+        "l": 31,
+        "s": 29,
+        "percentage": 0.03672875812127439,
+        "population": 296
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 82253,
+    "artist_title": "Sophia Middleton",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        82253
+    ],
+    "artist_titles": [
+        "Sophia Middleton"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "needlework (visual works)",
+        "sampler",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-83",
+        "TM-10346"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-83",
+        "TM-10346"
+    ],
+    "classification_titles": [
+        "textile",
+        "needlework (visual works)",
+        "sampler"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "000940ec-4235-2c7a-4236-296e924e1232",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1946.84"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sampler"
+            ],
+            "weight": 104,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:56-05:00",
+    "updated_at": "2023-04-10T13:10:46-05:00",
+    "timestamp": "2023-09-24T00:44:30-05:00"
+}

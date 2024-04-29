@@ -1,0 +1,167 @@
+{
+    "id": 89043,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/89043",
+    "is_boosted": false,
+    "title": "Portrait of General Jos\u00e9 Manuel Romero",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACYkGSkmGy8rHi8qHy8rHy8sHzMsHzQtID46J080I1tJMV5MMWZCK2JSP2tbObBnPphlQKluSgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHEMBNAogRE5AfIwhbBASQgAOw==",
+        "width": 1767,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1970.1036",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1805,
+    "date_end": 1815,
+    "date_display": "c. 1810",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Francisco Jos\u00e9 de Goya y Lucientes\nSpanish, 1746-1828",
+    "place_of_origin": "Spain",
+    "description": "<p>The early 19th century was a troubled time in Spain. After Napoleon placed his brother, Joseph Bonaparte, on the Spanish throne in 1808, the people rose up in rebellion, eventually driving the French out with the help of the British army. Although his own sentiments were patriotic and liberal, Francisco de Goya dutifully fulfilled his obligations as first painter to the king. This is a portrait of Jos\u00e9 Manuel Romero, a minister under Joseph Bonaparte, although the degree to which the man is overwhelmed by his splendid court uniform and decorations may suggest a certain lack of sympathy on the part of the artist.</p>\n",
+    "dimensions": "105.5 \u00d7 87.7 cm (41 1/2 \u00d7 34 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 87.7,
+            "width_in": 34.5,
+            "height_cm": 105.5,
+            "height_in": 41.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Charles Deering McCormick",
+    "catalogue_display": "<p>Gassier and Wilson GW 882</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1971,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 48.5488,
+    "color": {
+        "h": 47,
+        "l": 66,
+        "s": 75,
+        "percentage": 0.008070409346639558,
+        "population": 73
+    },
+    "latitude": 41.8799599352701,
+    "longitude": -87.6235919818281,
+    "latlon": "41.87995993527,41.87995993527",
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 40615,
+    "artist_title": "Francisco Jos\u00e9 de Goya y Lucientes",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40615
+    ],
+    "artist_titles": [
+        "Francisco Jos\u00e9 de Goya y Lucientes"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5553b728-cc59-1d08-7505-f9b3826334b8",
+    "alt_image_ids": [],
+    "document_ids": [
+        "7a92bff8-130c-2e74-b20d-7000bbb5fc76"
+    ],
+    "sound_ids": [
+        "7a92bff8-130c-2e74-b20d-7000bbb5fc76"
+    ],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.1036"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of General Jos\u00e9 Manuel Romero"
+            ],
+            "weight": 4536,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:17-05:00",
+    "timestamp": "2023-09-24T00:59:15-05:00"
+}

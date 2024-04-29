@@ -1,0 +1,183 @@
+{
+    "id": 65501,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/65501",
+    "is_boosted": false,
+    "title": "The Story of Joseph (Furnishing Fabric)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAIqKio+Pj5CQkJOTk5SUlJWVlZubm5ycnJ2dnZ+fn6CgoKGhoaKioqWlpaampqenpyH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAQPEIxAGkqHPVYcUstxGEIEADs=",
+        "width": 2046,
+        "height": 2286,
+        "alt_text": "A work made of cotton, plain weave; engraved roller printed."
+    },
+    "main_reference_number": "1949.393a-b",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1820,
+    "date_end": 1830,
+    "date_display": "c. 1820",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Fran\u00e7ois Pieters (French, active c. 1820) after Charles Abraham Chasselat (French, 1782-1843) engraved Tony Johannot (Germany, active 1813-1852)\nFrance, Rouen",
+    "place_of_origin": "Rouen",
+    "description": null,
+    "dimensions": "196.8 \u00d7 84.4 cm (77 1/2 \u00d7 33 1/4 in.); Warp repeat: H.: 57.8 cm (22 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 84.4,
+            "width_in": 33.25,
+            "height_cm": 196.8,
+            "height_in": 77.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 57.8,
+            "height_in": 22.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; engraved roller printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Robert Allerton",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 53,
+        "s": 0,
+        "percentage": 0.054652653424102075,
+        "population": 434
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 106385,
+    "artist_title": "Fran\u00e7ois Pieters",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        106385
+    ],
+    "artist_titles": [
+        "Fran\u00e7ois Pieters"
+    ],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "engraved roller printing",
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-10547",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-10547"
+    ],
+    "technique_titles": [
+        "engraved roller printing"
+    ],
+    "theme_titles": [],
+    "image_id": "83ec0fd0-e19d-9ccb-dfd4-65c5326013fd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1949.393a-b"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Story of Joseph (Furnishing Fabric)"
+            ],
+            "weight": 57,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-05-17T10:34:05-05:00",
+    "updated_at": "2023-05-17T10:45:07-05:00",
+    "timestamp": "2023-09-24T00:48:46-05:00"
+}

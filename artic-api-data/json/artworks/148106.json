@@ -1,0 +1,184 @@
+{
+    "id": 148106,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/148106",
+    "is_boosted": false,
+    "title": "\"Log Cabin\" pattern spooner",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADZ3mgBbogBxrhl2oyt6qz59okR+rzyEs0uCsIKDhoSIj4qLjYOLk4eMko6OkpydobWztpqyy73Fz7rF0sHCxcXEycHGzM3O087S2AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4NIwSvIUA+BUh0BAFxIYFDZFkhUCADs=",
+        "width": 2075,
+        "height": 2250,
+        "alt_text": "A work made of pressed blue glass."
+    },
+    "main_reference_number": "1997.538",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1875,
+    "date_display": "c. 1875",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Central Glass Company\nWheeling, West Virginia",
+    "place_of_origin": "Wheeling",
+    "description": null,
+    "dimensions": "12.1 \u00d7 7.6 \u00d7 6.4 cm (4 3/4 \u00d7 3 \u00d7 2 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 6.4,
+            "depth_in": 2.5,
+            "width_cm": 7.6,
+            "width_in": 3,
+            "height_cm": 12.1,
+            "height_in": 4.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pressed blue glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Harold Allen",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1998,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 74.9385,
+    "color": {
+        "h": 200,
+        "l": 34,
+        "s": 96,
+        "percentage": 0.25723489361481217,
+        "population": 1982
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 115911,
+    "artist_title": "Central Glass Company",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        115911
+    ],
+    "artist_titles": [
+        "Central Glass Company"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "glass",
+        "glass",
+        "container",
+        "spoon holder",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-297",
+        "TM-11828",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-297",
+        "TM-11828",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "glass",
+        "container",
+        "spoon holder",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9adfe1b2-a034-f731-943d-1447940d8d4f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1997.538"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "\"Log Cabin\" pattern spooner"
+            ],
+            "weight": 22,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:50:16-06:00",
+    "updated_at": "2023-04-07T12:17:51-05:00",
+    "timestamp": "2023-09-24T01:26:27-05:00"
+}

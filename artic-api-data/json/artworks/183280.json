@@ -1,0 +1,188 @@
+{
+    "id": 183280,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/183280",
+    "is_boosted": false,
+    "title": "Kimono",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEpJSktKTFhXV2RiZGdmZm5tbnJwcHNyc3l3eHp5ent7e3x7fYaEhY+PkKWlpbi4uLm4uLq6vNHS0tLS0gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIMojQEECzQc0yMUkkMkUQgAOw==",
+        "width": 1795,
+        "height": 2250,
+        "alt_text": "A work made of silk, warp and weft resist dyed (warp and weft ikat) plain weave; lining: silk, plain weave with creped wefts (chirimen)."
+    },
+    "main_reference_number": "2004.1115",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1912,
+    "date_end": 1926,
+    "date_display": "1912/26, Taish\u00f4 period (1912\u20131926)",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Japan",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "162.8 \u00d7 127.6 cm (64 1/8 \u00d7 50 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 127.6,
+            "width_in": 50.25,
+            "height_cm": 162.8,
+            "height_in": 64.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silk, warp and weft resist dyed (warp and weft ikat) plain weave; lining: silk, plain weave with creped wefts (chirimen)",
+    "inscriptions": null,
+    "credit_line": "Gift of Ralph E. Hays in memory of Mary Van Artsdalen Hays",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 2005,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 1.6118,
+    "color": {
+        "h": 342,
+        "l": 66,
+        "s": 0,
+        "percentage": 0.1914159387468996,
+        "population": 1704
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "resist dyeing",
+        "silk (textile)",
+        "weaving - printed",
+        "taisho",
+        "plain weaving",
+        "ikat dyed",
+        "dye",
+        "textile"
+    ],
+    "style_id": "TM-5224",
+    "style_title": "taisho",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-5224"
+    ],
+    "style_titles": [
+        "taisho"
+    ],
+    "classification_id": "TM-353",
+    "classification_title": "weaving - printed",
+    "alt_classification_ids": [
+        "TM-69"
+    ],
+    "classification_ids": [
+        "TM-353",
+        "TM-69"
+    ],
+    "classification_titles": [
+        "weaving - printed",
+        "textile"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2579",
+    "alt_material_ids": [
+        "TM-3394"
+    ],
+    "material_ids": [
+        "TM-2579",
+        "TM-3394"
+    ],
+    "material_titles": [
+        "silk (textile)",
+        "dye"
+    ],
+    "technique_id": "TM-4232",
+    "alt_technique_ids": [
+        "TM-10513",
+        "TM-10578"
+    ],
+    "technique_ids": [
+        "TM-4232",
+        "TM-10513",
+        "TM-10578"
+    ],
+    "technique_titles": [
+        "resist dyeing",
+        "plain weaving",
+        "ikat dyed"
+    ],
+    "theme_titles": [],
+    "image_id": "f0ad066b-198b-c9ce-a550-a41a91df1aa9",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2004.1115"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Kimono"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:14:21-05:00",
+    "timestamp": "2023-09-24T01:34:16-05:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 209911,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/209911",
+    "is_boosted": false,
+    "title": "Circum I",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFqtcn27k6iOiqCHmrWtiLC+krW/k5eWqq6orLyyrrGsuc2/pMO7ssi+s5fAms/NrtHLv+XZse/atu7nvPTgu8S+wOjZw+7awPLmwvXpw/zpxPvvx//txPztx/LnyvHoyvfvzP3tyP7zzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf4KQXBwbGVNYXJrCgAsAAAAAAcABQAABiFAQiHgeCgYh8oHhOlAGhaPKLS5UDSczEQyWCASEYBBEAQAOw==",
+        "width": 1024,
+        "height": 738,
+        "alt_text": "A work made of acrylic resin on canvas."
+    },
+    "main_reference_number": "2011.117",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1959,
+    "date_end": 1960,
+    "date_display": "1959/60",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Morris Louis\nAmerican, 1912\u20131962",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "255.3 \u00d7 353.1 cm (100 1/2 \u00d7 139 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 353.1,
+            "width_in": 139,
+            "height_cm": 255.3,
+            "height_in": 100.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Acrylic resin on canvas",
+    "inscriptions": null,
+    "credit_line": "Bequest of the Marcella Brenner Revocable Trust in honor of Morris Louis",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2011,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 The Art Institute of Chicago.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.5704,
+    "color": {
+        "h": 153,
+        "l": 45,
+        "s": 44,
+        "percentage": 0.036289567334706875,
+        "population": 186
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 15628,
+    "artist_title": "Morris Louis",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        15628
+    ],
+    "artist_titles": [
+        "Morris Louis"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10368",
+    "classification_title": "acrylic paintings (visual works)",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10368",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "acrylic paintings (visual works)",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "ed869938-e4b7-d368-65e4-e52b399c9429",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2011.117"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Circum I"
+            ],
+            "weight": 824,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:26-05:00",
+    "updated_at": "2023-04-07T15:37:48-05:00",
+    "timestamp": "2023-09-24T01:42:31-05:00"
+}

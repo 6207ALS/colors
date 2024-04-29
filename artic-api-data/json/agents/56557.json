@@ -1,0 +1,35 @@
+{
+    "id": 56557,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/56557",
+    "title": "Jean Charles Le Vasseur",
+    "sort_title": "Le Vasseur, Jean Charles",
+    "alt_titles": [
+        "Jean C. Le Vasseur",
+        "Jean-Charles Le Vasseur",
+        "Jean Charles Levasseur"
+    ],
+    "is_artist": true,
+    "birth_date": 1734,
+    "death_date": 1816,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Charles Le Vasseur",
+            "Le Vasseur, Jean Charles",
+            "Jean C. Le Vasseur",
+            "Jean-Charles Le Vasseur",
+            "Jean Charles Levasseur"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-03-25T17:26:28-05:00",
+    "updated_at": "2022-03-25T17:26:29-05:00",
+    "timestamp": "2023-09-24T02:00:28-05:00"
+}

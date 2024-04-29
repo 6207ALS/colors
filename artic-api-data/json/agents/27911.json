@@ -1,0 +1,28 @@
+{
+    "id": 27911,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27911",
+    "title": "Carl Walters",
+    "sort_title": "Walters, Carl",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1883,
+    "death_date": 1955,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Carl Walters",
+            "Walters, Carl"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-07-19T15:46:45-05:00",
+    "updated_at": "2022-07-19T16:11:03-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

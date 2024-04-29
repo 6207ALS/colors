@@ -1,0 +1,43 @@
+{
+    "id": 5372,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5372",
+    "title": "Lorenzo di Ottavio Costa",
+    "sort_title": "Costa, Lorenzo di Ottavio",
+    "alt_titles": [
+        "Lorenzo Costa",
+        "Lorenzo Costa, the Elder",
+        "Lorenzo Costa, I",
+        "Lorenzo Costa, (called Ottavio)",
+        "Lorenzo Costa",
+        "Lorenzo Ottavio",
+        "Lorenzo Costa, (the elder)"
+    ],
+    "is_artist": true,
+    "birth_date": 1455,
+    "death_date": 1535,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lorenzo di Ottavio Costa",
+            "Costa, Lorenzo di Ottavio",
+            "Lorenzo Costa",
+            "Lorenzo Costa, the Elder",
+            "Lorenzo Costa, I",
+            "Lorenzo Costa, (called Ottavio)",
+            "Lorenzo Costa",
+            "Lorenzo Ottavio",
+            "Lorenzo Costa, (the elder)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:05-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

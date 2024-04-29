@@ -1,0 +1,52 @@
+{
+    "id": 6572,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6572",
+    "title": "Arthur Dove",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1975-07-12T00:00:00-05:00",
+    "aic_end_at": "1975-08-31T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "0967b305-be19-5782-c734-93dbd5806166",
+    "alt_image_ids": [
+        "0c22bf54-c2ea-94fe-13ec-ef172c5584b7",
+        "201ce308-1c70-d485-99d7-8fb9dc72584f",
+        "0f881fd1-cd8d-942f-81c1-d632f19eb2d5",
+        "b0cd740a-f51f-21a3-3126-80a04d4c924b",
+        "52653ab3-b09a-b962-0269-b2dc97e0a3e3",
+        "f59ec867-52fb-f5a9-b062-53644a0cabd9",
+        "d8ea92ad-dbc9-418f-3b6c-85a61496c0cb",
+        "343bf811-58f8-1443-031a-eb24fe8e518b",
+        "45ee38fa-5162-8280-d65c-cd713f77b173",
+        "aa9888cb-6e14-a527-5793-340ffc11205f",
+        "f7118c27-b892-ded4-de82-4d65e9616362",
+        "53ca3236-fda7-81d4-3a68-c9d0284e124f",
+        "7bc920f6-b5b2-cd6b-18fc-9269d6966714"
+    ],
+    "document_ids": [
+        "58ebdc15-d70e-01bd-dc78-69fb894dd9eb"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arthur Dove"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:17:15-06:00",
+    "timestamp": "2023-09-24T02:01:50-05:00"
+}

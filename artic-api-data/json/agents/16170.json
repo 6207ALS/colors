@@ -1,0 +1,31 @@
+{
+    "id": 16170,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16170",
+    "title": "Joseph Marchi",
+    "sort_title": "Marchi, Joseph",
+    "alt_titles": [
+        "Giuseppe Filippo Liberati Marchi"
+    ],
+    "is_artist": true,
+    "birth_date": 1730,
+    "death_date": 1808,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joseph Marchi",
+            "Marchi, Joseph",
+            "Giuseppe Filippo Liberati Marchi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:14:05-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

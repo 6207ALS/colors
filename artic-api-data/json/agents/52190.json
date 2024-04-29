@@ -1,0 +1,31 @@
+{
+    "id": 52190,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/52190",
+    "title": "John Whetton Ehninger",
+    "sort_title": "Ehninger, John Whetton",
+    "alt_titles": [
+        "John W. Ehninger"
+    ],
+    "is_artist": true,
+    "birth_date": 1827,
+    "death_date": 1889,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Whetton Ehninger",
+            "Ehninger, John Whetton",
+            "John W. Ehninger"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:57-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

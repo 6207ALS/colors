@@ -1,0 +1,39 @@
+{
+    "id": 40608,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40608",
+    "title": "William James Glackens",
+    "sort_title": "Glackens, William James",
+    "alt_titles": [
+        "William J. Glackens"
+    ],
+    "is_artist": true,
+    "birth_date": 1870,
+    "death_date": 1938,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "William James Glackens",
+            "Glackens, William James",
+            "William J. Glackens"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "William James Glackens",
+            "Glackens, William James",
+            "William J. Glackens"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:41:30-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

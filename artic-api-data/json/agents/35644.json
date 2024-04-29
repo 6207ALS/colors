@@ -1,0 +1,33 @@
+{
+    "id": 35644,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35644",
+    "title": "Maryan",
+    "sort_title": "Maryan",
+    "alt_titles": [
+        "Pinchas Burstein",
+        "Maryan S. Maryan"
+    ],
+    "is_artist": true,
+    "birth_date": 1927,
+    "death_date": 1977,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maryan",
+            "Maryan",
+            "Pinchas Burstein",
+            "Maryan S. Maryan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-11-19T11:56:44-06:00",
+    "updated_at": "2022-04-22T10:56:49-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

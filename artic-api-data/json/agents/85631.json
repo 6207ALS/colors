@@ -1,0 +1,31 @@
+{
+    "id": 85631,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/85631",
+    "title": "Pierre-Imbert Drevet",
+    "sort_title": "Drevet, Pierre-Imbert",
+    "alt_titles": [
+        "Pierre Imbert Drevet"
+    ],
+    "is_artist": true,
+    "birth_date": 1697,
+    "death_date": 1739,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre-Imbert Drevet",
+            "Drevet, Pierre-Imbert",
+            "Pierre Imbert Drevet"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T17:00:55-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

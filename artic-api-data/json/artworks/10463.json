@@ -1,0 +1,172 @@
+{
+    "id": 10463,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/10463",
+    "is_boosted": false,
+    "title": "Futarasan Shrine at Nikko (Nikko Futarasan jinja)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAC03Nk9SSVVbUFdaUVxkWmdrX2ptYGtwYnNwYXR3aHp9bIGBb4mEb4KEc42Jco2Mc4qKdIuMdo2Md5CQfpSUfZWVf5qVf5eVgZuXgZmYg5mahaOchaWiiKuljK+pjrOulbWtlMK6nsO9ogAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQESgoMkcFgMAQZEQGCYNziMCuTAcngpFgtlYPqJQBxQEADs=",
+        "width": 3000,
+        "height": 2192,
+        "alt_text": "A work made of color woodblock print; oban."
+    },
+    "main_reference_number": "1932.30",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1939,
+    "date_display": "c. 1930s",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tsuchiya Koitsu\nJapanese, 1870-1949",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "30.3 \u00d7 41.3 cm (11 15/16 \u00d7 16 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 41.3,
+            "width_in": 16.25,
+            "height_cm": 30.3,
+            "height_in": 11.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print; oban",
+    "inscriptions": null,
+    "credit_line": "Clarence Buckingham Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 19.2449,
+    "color": {
+        "h": 59,
+        "l": 53,
+        "s": 10,
+        "percentage": 0.2763399115712283,
+        "population": 1435
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 14227,
+    "artist_title": "Tsuchiya Koitsu",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        14227
+    ],
+    "artist_titles": [
+        "Tsuchiya Koitsu"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "Japanese (culture or style)",
+        "print",
+        "asian art"
+    ],
+    "style_id": "TM-13407",
+    "style_title": "Japanese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-13407"
+    ],
+    "style_titles": [
+        "Japanese (culture or style)"
+    ],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f31b0eb0-7c93-21ae-9e50-a729f07c1735",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1932.30"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Futarasan Shrine at Nikko (Nikko Futarasan jinja)"
+            ],
+            "weight": 301,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:46-05:00",
+    "updated_at": "2023-04-10T14:48:42-05:00",
+    "timestamp": "2023-09-24T00:24:39-05:00"
+}

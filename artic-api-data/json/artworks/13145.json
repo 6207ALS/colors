@@ -1,0 +1,185 @@
+{
+    "id": 13145,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/13145",
+    "is_boosted": false,
+    "title": "Decorated Bookbinding",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGxPJ21QKHVVKHdWKX1cKWNKMGVMMolhHoliH5BlG5ZpGJJpH6d0FqZ1GKd3G6p4GohiIIpiIpBoIpFqJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYBFNgNA4EKEky8A8h4FIQQgAOw==",
+        "width": 554,
+        "height": 768,
+        "alt_text": "A work made of lacquer and paint on pasteboard with leather."
+    },
+    "main_reference_number": "1932.1157",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1800,
+    "date_display": "18th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Iran",
+    "place_of_origin": "Iran",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": "Lacquer and paint on pasteboard with leather",
+    "inscriptions": null,
+    "credit_line": "Gift of the Orientals",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 79.5708,
+    "color": {
+        "h": 42,
+        "l": 46,
+        "s": 72,
+        "percentage": 0.1451088671665312,
+        "population": 1430
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Book",
+    "artwork_type_id": 11,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 29882,
+    "artist_title": "Islamic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29882
+    ],
+    "artist_titles": [
+        "Islamic"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "miniature painting",
+        "flora",
+        "bookbinding",
+        "manuscript",
+        "asian art",
+        "brown (color)",
+        "yellow (color)",
+        "book",
+        "Islamic (culture or style)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [
+        "TM-13482"
+    ],
+    "style_ids": [
+        "TM-13482"
+    ],
+    "style_titles": [
+        "Islamic (culture or style)"
+    ],
+    "classification_id": "TM-340",
+    "classification_title": "miniature painting",
+    "alt_classification_ids": [
+        "TM-116",
+        "TM-26",
+        "TM-11"
+    ],
+    "classification_ids": [
+        "TM-340",
+        "TM-116",
+        "TM-26",
+        "TM-11"
+    ],
+    "classification_titles": [
+        "miniature painting",
+        "manuscript",
+        "asian art",
+        "book"
+    ],
+    "subject_id": "TM-12108",
+    "alt_subject_ids": [
+        "TM-11844",
+        "TM-11842"
+    ],
+    "subject_ids": [
+        "TM-12108",
+        "TM-11844",
+        "TM-11842"
+    ],
+    "subject_titles": [
+        "flora",
+        "brown (color)",
+        "yellow (color)"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-4041",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-4041"
+    ],
+    "technique_titles": [
+        "bookbinding"
+    ],
+    "theme_titles": [],
+    "image_id": "3ee1fa49-d9c5-883d-1f01-1886f5149542",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1932.1157"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Decorated Bookbinding"
+            ],
+            "weight": 2808,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-07-29T16:32:35-05:00",
+    "updated_at": "2023-04-10T15:15:16-05:00",
+    "timestamp": "2023-09-24T00:25:47-05:00"
+}

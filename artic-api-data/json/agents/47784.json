@@ -1,0 +1,31 @@
+{
+    "id": 47784,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47784",
+    "title": "J. Sheldon Carey",
+    "sort_title": "Carey, J. Sheldon",
+    "alt_titles": [
+        "J. Sheldon Cary"
+    ],
+    "is_artist": true,
+    "birth_date": 1911,
+    "death_date": 1999,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "J. Sheldon Carey",
+            "Carey, J. Sheldon",
+            "J. Sheldon Cary"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:29:19-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 59819,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/59819",
+    "is_boosted": false,
+    "title": "High Chair",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAK+ilLutoLiuprSvq7+5s+Le3Ofm5Orl4fLx8fPz8vPz8/b19fb39/f39/n5+Pn5+fr6+vv7+/39/QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NMUjnQICxQAjEIMCYQYUQgAOw==",
+        "width": 1688,
+        "height": 2250,
+        "alt_text": "A work made of walnut."
+    },
+    "main_reference_number": "1980.77",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1740,
+    "date_end": 1775,
+    "date_display": "1740\u201375",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 18th century)\nPennsylvania",
+    "place_of_origin": "Pennsylvania",
+    "description": null,
+    "dimensions": "94 \u00d7 33 \u00d7 28.5 cm (37 \u00d7 13 \u00d7 11 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 28.5,
+            "depth_in": 11.25,
+            "width_cm": 33,
+            "width_in": 13,
+            "height_cm": 94,
+            "height_in": 37,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Walnut",
+    "inscriptions": null,
+    "credit_line": "Barker Welfare Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.1337,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "seating",
+        "walnut",
+        "Folk Art",
+        "furniture",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": "TM-12125",
+    "style_title": "Folk Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12125"
+    ],
+    "style_titles": [
+        "Folk Art"
+    ],
+    "classification_id": "TM-466",
+    "classification_title": "seating",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-466",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "seating",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3609",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-3609"
+    ],
+    "material_titles": [
+        "walnut"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "30dff056-2127-efac-3438-0e46c697fecd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1980.77"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "High Chair"
+            ],
+            "weight": 179,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:23:01-05:00",
+    "timestamp": "2023-09-24T00:46:07-05:00"
+}

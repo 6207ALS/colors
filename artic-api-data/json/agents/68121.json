@@ -1,0 +1,33 @@
+{
+    "id": 68121,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/68121",
+    "title": "D. Coder Taylor",
+    "sort_title": "Taylor, D. Coder",
+    "alt_titles": [
+        "Darl Coder Taylor",
+        "Coder Taylor"
+    ],
+    "is_artist": true,
+    "birth_date": 1913,
+    "death_date": 2000,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "D. Coder Taylor",
+            "Taylor, D. Coder",
+            "Darl Coder Taylor",
+            "Coder Taylor"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:24:59-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

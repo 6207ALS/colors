@@ -1,0 +1,233 @@
+{
+    "id": 111728,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111728",
+    "is_boosted": false,
+    "title": "The Dutch Whaling Fleet",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACMXDyccEi8lFDksFDktFjouFj0vFEQzE0AxFWJQHE1HIVhHI1xOIF5UIVFYM29dImhhIWdlKHltJnxwKm5rMW1tN2dtO3x1Nnh5QIJ2MYtzMoJ4M4Z9M6CTQwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4JVVmOVsEjdBkfZ0SUMtB4MMSmEQASCEADs=",
+        "width": 995,
+        "height": 784,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2019.1423",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1401,
+    "date_end": 1900,
+    "date_display": "1690/1700",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Abraham Storck\nDutch, 1644-1710",
+    "place_of_origin": "Holland",
+    "description": null,
+    "dimensions": "49 \u00d7 63.7 cm (19 1/4 \u00d7 25 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 63.7,
+            "width_in": 25,
+            "height_cm": 49,
+            "height_in": 19.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "George F. Harding Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 49.0995,
+    "color": {
+        "h": 53,
+        "l": 66,
+        "s": 75,
+        "percentage": 0.0010719032714487846,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 25021,
+    "artist_title": "Abraham Storck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        25021
+    ],
+    "artist_titles": [
+        "Abraham Storck"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "european painting",
+        "dutch",
+        "oil paint (paint)",
+        "painting",
+        "ships",
+        "painting",
+        "15th century",
+        "oil on canvas",
+        "dutch",
+        "fishing",
+        "frozen",
+        "ice",
+        "sailing",
+        "sailors",
+        "sails",
+        "sealife",
+        "whale",
+        "wreckage"
+    ],
+    "style_id": "TM-14096",
+    "style_title": "dutch",
+    "alt_style_ids": [
+        "TM-14074"
+    ],
+    "style_ids": [
+        "TM-14096",
+        "TM-14074"
+    ],
+    "style_titles": [
+        "dutch",
+        "15th century"
+    ],
+    "classification_id": "TM-54",
+    "classification_title": "european painting",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-66"
+    ],
+    "classification_ids": [
+        "TM-54",
+        "TM-9",
+        "TM-66"
+    ],
+    "classification_titles": [
+        "european painting",
+        "painting",
+        "oil on canvas"
+    ],
+    "subject_id": "TM-12235",
+    "alt_subject_ids": [
+        "TM-14230",
+        "TM-12106",
+        "TM-14231",
+        "TM-14232",
+        "TM-12236",
+        "TM-8812",
+        "TM-14233",
+        "TM-12723",
+        "TM-13079",
+        "TM-14234"
+    ],
+    "subject_ids": [
+        "TM-12235",
+        "TM-14230",
+        "TM-12106",
+        "TM-14231",
+        "TM-14232",
+        "TM-12236",
+        "TM-8812",
+        "TM-14233",
+        "TM-12723",
+        "TM-13079",
+        "TM-14234"
+    ],
+    "subject_titles": [
+        "ships",
+        "dutch",
+        "fishing",
+        "frozen",
+        "ice",
+        "sailing",
+        "sailors",
+        "sails",
+        "sealife",
+        "whale",
+        "wreckage"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2451"
+    ],
+    "material_titles": [
+        "oil paint (paint)"
+    ],
+    "technique_id": "TM-14210",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-14210"
+    ],
+    "technique_titles": [
+        "painting"
+    ],
+    "theme_titles": [],
+    "image_id": "1bf7217a-0230-5159-39da-dd22a1744bf1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2019.1423"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Dutch Whaling Fleet"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:22:43-05:00",
+    "timestamp": "2023-09-24T01:09:57-05:00"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 222827,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/222827",
+    "is_boosted": false,
+    "title": "Table Centerpiece",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAALR8HLV8HMCGI8KLLMKSPMWVP8mmasupbdi4f72qir6ris+5ktvDm9zEnd/IoOHKo+vj1eXl5ezp5O3q5enp6erq6u3r6u3s6ezs6+3u7+/v7+7v8PDw8PHx8vLz9vL09vP1+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIjGA/lwKhTNA+HoYDKWwoBw2UwOAEHAIAExEgtFAxQEADs=",
+        "width": 3000,
+        "height": 2250,
+        "alt_text": "A work made of gilt bronze."
+    },
+    "main_reference_number": "2014.591",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1768,
+    "date_end": 1768,
+    "date_display": "1768",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Denis Ren\u00e9 Gastecloux\nFrench, active mid-18th century\nLondon, England",
+    "place_of_origin": "London",
+    "description": null,
+    "dimensions": "30.5 \u00d7 43.5 \u00d7 24.5 cm (12 \u00d7 17 \u00d7 9 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 24.5,
+            "depth_in": 9.75,
+            "width_cm": 43.5,
+            "width_in": 17,
+            "height_cm": 30.5,
+            "height_in": 12,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Gilt bronze",
+    "inscriptions": null,
+    "credit_line": "The Antiquarian Society, Richard T. Crane, Jr. Memorial fund, European Decorative Arts Purchase funds, Mr. and Mrs. Stanford Marks, Florence L. Notter",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": 2014,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 76.6935,
+    "color": {
+        "h": 39,
+        "l": 53,
+        "s": 74,
+        "percentage": 0.08408787182605823,
+        "population": 448
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 233",
+    "gallery_id": 25288,
+    "nomisma_id": null,
+    "artwork_type_title": "Metalwork",
+    "artwork_type_id": 35,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 113535,
+    "artist_title": "D.R. Gastecloux",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        113535
+    ],
+    "artist_titles": [
+        "D.R. Gastecloux"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "decorative object/ornament",
+        "bronze",
+        "tableware",
+        "bronze",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-30",
+    "classification_title": "decorative object/ornament",
+    "alt_classification_ids": [
+        "TM-1445",
+        "TM-28",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_ids": [
+        "TM-30",
+        "TM-1445",
+        "TM-28",
+        "TM-1394",
+        "TM-29"
+    ],
+    "classification_titles": [
+        "decorative object/ornament",
+        "tableware",
+        "bronze",
+        "european decorative arts",
+        "metalwork"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "acef7286-c639-619a-e418-e0ce1ec48000",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2014.591"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Table Centerpiece"
+            ],
+            "weight": 359,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:25:10-05:00",
+    "timestamp": "2023-09-24T01:46:43-05:00"
+}

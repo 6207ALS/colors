@@ -1,0 +1,163 @@
+{
+    "id": 201695,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/201695",
+    "is_boosted": false,
+    "title": "Bizzarri House, Cincinnati, Ohio, Floor Plan",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAF6XT3mhXWSib52abZ+fb4ujY5ynbJ6pcJ6qcKCrd6ere6GueaKofqq2drqzh8G3isa5j8u8jcW5kca4k8i6kci6ksq7k8m8k8i7lMm8lMq9lMu+lcq9lsu9lsq9l86/lsu9mMy/mM/Al83AmtDBmNjHotnIo9rIpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwApG4nhENqKM52BYCBKlEChAGAAKpxGHoZg0EKaO5mKBUD6kIAA7",
+        "width": 3000,
+        "height": 1997,
+        "alt_text": "A work made of pastel on blueline print on paper."
+    },
+    "main_reference_number": "1995.360.3",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Richard Joseph Neutra\nAmerican, born Austria, 1892\u20131970",
+    "place_of_origin": "Kenridge Drive, 6970",
+    "description": null,
+    "dimensions": "Approx.: 60.8 \u00d7 91.5 cm (23 15/16 \u00d7 36 1/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 91.5,
+            "width_in": 36.0625,
+            "height_cm": 60.8,
+            "height_in": 23.9375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Approx."
+        }
+    ],
+    "medium_display": "Pastel on blueline print on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Michael Bizzarri",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 38.3513,
+    "color": {
+        "h": 51,
+        "l": 38,
+        "s": 53,
+        "percentage": 0.005074821905468755,
+        "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Architectural Drawing",
+    "artwork_type_id": 34,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 35994,
+    "artist_title": "Richard Joseph Neutra",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35994
+    ],
+    "artist_titles": [
+        "Richard Joseph Neutra"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "architectural drawing",
+        "paper (fiber product)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-126",
+    "classification_title": "architectural drawing",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-126"
+    ],
+    "classification_titles": [
+        "architectural drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7171f761-4d9d-b9a4-d30b-f69d53c76f56",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1995.360.3"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bizzarri House, Cincinnati, Ohio, Floor Plan"
+            ],
+            "weight": 134,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:24-05:00",
+    "updated_at": "2023-04-07T15:48:20-05:00",
+    "timestamp": "2023-09-24T01:40:20-05:00"
+}

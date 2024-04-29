@@ -1,0 +1,31 @@
+{
+    "id": 42532,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42532",
+    "title": "Gian Francesco de Maineri",
+    "sort_title": "Maineri, Gian Francesco de",
+    "alt_titles": [
+        "Gian F. de Maineri"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gian Francesco de Maineri",
+            "Maineri, Gian Francesco de",
+            "Gian F. de Maineri"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:47-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

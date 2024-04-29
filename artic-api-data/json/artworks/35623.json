@@ -1,0 +1,179 @@
+{
+    "id": 35623,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/35623",
+    "is_boosted": false,
+    "title": "Swan-Necked Flask",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADhzsn+Prqu71r7I3sbJ18jO3czQ28rQ3tjW3tjX3srQ4Nva4tna5trb5+Pg5QAAACH5BAAAAAAALAAAAAADAAUAAAQLEDXmhkpiHVBMIBEAOw==",
+        "width": 1422,
+        "height": 2250,
+        "alt_text": "A work made of glass, partially mold-blown."
+    },
+    "main_reference_number": "1927.849",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1701,
+    "date_end": 1801,
+    "date_display": "Qajar dynasty (1796\u20131925), 18th/19th century",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Iran",
+    "place_of_origin": "Iran",
+    "description": null,
+    "dimensions": "28.8 \u00d7 9.4 \u00d7 10.1 cm (11 5/16 \u00d7 3 11/16 \u00d7 3 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 10.1,
+            "depth_in": 3.9375,
+            "width_cm": 9.4,
+            "width_in": 3.6875,
+            "height_cm": 28.8,
+            "height_in": 11.3125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Glass, partially mold-blown",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles H. Schweppe",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 49.5422,
+    "color": {
+        "h": 206,
+        "l": 47,
+        "s": 86,
+        "percentage": 0.00062246456842753,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Glass",
+    "artwork_type_id": 37,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 29882,
+    "artist_title": "Islamic",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29882
+    ],
+    "artist_titles": [
+        "Islamic"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "glass",
+        "glass",
+        "asian art",
+        "vessel",
+        "Islamic (culture or style)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [
+        "TM-13482"
+    ],
+    "style_ids": [
+        "TM-13482"
+    ],
+    "style_titles": [
+        "Islamic (culture or style)"
+    ],
+    "classification_id": "TM-85",
+    "classification_title": "glass",
+    "alt_classification_ids": [
+        "TM-26",
+        "TM-27"
+    ],
+    "classification_ids": [
+        "TM-85",
+        "TM-26",
+        "TM-27"
+    ],
+    "classification_titles": [
+        "glass",
+        "asian art",
+        "vessel"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "46c5fa84-ddc9-2add-4527-7a2ae1b83327",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1927.849"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Swan-Necked Flask"
+            ],
+            "weight": 99,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-16T16:18:36-05:00",
+    "updated_at": "2023-04-07T11:44:16-05:00",
+    "timestamp": "2023-09-24T00:36:13-05:00"
+}

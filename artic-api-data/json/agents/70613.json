@@ -1,0 +1,35 @@
+{
+    "id": 70613,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/70613",
+    "title": "Jessie Marion King",
+    "sort_title": "King, Jessie Marion",
+    "alt_titles": [
+        "Mrs. E. A. Taylor",
+        "Jessie M. King",
+        "Mrs. Ernest Archibald Taylor"
+    ],
+    "is_artist": true,
+    "birth_date": 1875,
+    "death_date": 1949,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jessie Marion King",
+            "King, Jessie Marion",
+            "Mrs. E. A. Taylor",
+            "Jessie M. King",
+            "Mrs. Ernest Archibald Taylor"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-09-28T13:39:52-05:00",
+    "updated_at": "2022-09-28T15:55:56-05:00",
+    "timestamp": "2023-09-24T02:00:30-05:00"
+}

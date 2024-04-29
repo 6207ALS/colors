@@ -1,0 +1,38 @@
+{
+    "id": 7310,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7310",
+    "title": "Paintings by Karl Knaths",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1942-01-22T00:00:00-06:00",
+    "aic_end_at": "1943-02-23T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "3145dd09-adf6-dd6f-93a5-47a866810a6e"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Karl Knaths"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:15:29-06:00",
+    "timestamp": "2023-09-24T02:02:01-05:00"
+}

@@ -1,0 +1,177 @@
+{
+    "id": 94532,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/94532",
+    "is_boosted": false,
+    "title": "Wall Clock",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKeMZ6aKariRZLGhjrSlkr+zpbezr7u0rcS7ssO+uMfCvMLCxMfIx8fGyMnMzgAAACH5BAAAAAAALAAAAAADAAUAAAQLsKF1giFgKFFcYhEAOw==",
+        "width": 1306,
+        "height": 2250,
+        "alt_text": "A work made of pine, carved, gessoed, and gilded; enamel, brass, and glass."
+    },
+    "main_reference_number": "1977.916",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1745,
+    "date_end": 1755,
+    "date_display": "c. 1750",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "England",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "102.5 \u00d7 46.2 \u00d7 17.4 cm (40 3/8 \u00d7 18 3/16 \u00d7 6 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 17.4,
+            "depth_in": 6.875,
+            "width_cm": 46.2,
+            "width_in": 18.1875,
+            "height_cm": 102.5,
+            "height_in": 40.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pine, carved, gessoed, and gilded; enamel, brass, and glass",
+    "inscriptions": null,
+    "credit_line": "Gift of Antiquarian Society through Mrs. Harold T. Martin Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 6,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.6024,
+    "color": {
+        "h": 38,
+        "l": 78,
+        "s": 80,
+        "percentage": 0.015522419275250074,
+        "population": 190
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": 56708,
+    "artist_title": "Thomas Johnson",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        56708
+    ],
+    "artist_titles": [
+        "Thomas Johnson"
+    ],
+    "category_ids": [
+        "PC-9"
+    ],
+    "category_titles": [
+        "Applied Arts of Europe"
+    ],
+    "term_titles": [
+        "glass",
+        "clock",
+        "furniture",
+        "furniture",
+        "european decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-565",
+    "classification_title": "clock",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_ids": [
+        "TM-565",
+        "TM-76",
+        "TM-1394"
+    ],
+    "classification_titles": [
+        "clock",
+        "furniture",
+        "european decorative arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-2453",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2453"
+    ],
+    "material_titles": [
+        "glass"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "1e2313a0-eb09-6b8b-88a3-6a2c941dae46",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1977.916"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Wall Clock"
+            ],
+            "weight": 18,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-07T09:22:07-05:00",
+    "updated_at": "2023-06-07T09:42:36-05:00",
+    "timestamp": "2023-09-24T01:01:55-05:00"
+}

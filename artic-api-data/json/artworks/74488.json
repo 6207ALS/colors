@@ -1,0 +1,176 @@
+{
+    "id": 74488,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/74488",
+    "is_boosted": false,
+    "title": "Head of Girl",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEpIS0tKSlRQTVhUU2FeXmJhYWtpZnFubZ2cm6CenLCgj7Snmb61rsi7rNLPzQAAACH5BAAAAAAALAAAAAADAAUAAAQLMBBwmihrIGUcSxEAOw==",
+        "width": 1470,
+        "height": 2250,
+        "alt_text": "A work made of plaster."
+    },
+    "main_reference_number": "1918.282",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1900,
+    "date_end": 1918,
+    "date_display": "c. 1900\u201318",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "James Earle Fraser\nAmerican, 1876\u20131953",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "38.1 \u00d7 15.2 \u00d7 20.3 cm (15 3/4 \u00d7 6 1/2 \u00d7 8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 20.3,
+            "depth_in": 8,
+            "width_cm": 15.2,
+            "width_in": 6.5,
+            "height_cm": 38.1,
+            "height_in": 15.75,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Plaster",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.8199,
+    "color": {
+        "h": 354,
+        "l": 36,
+        "s": 0,
+        "percentage": 0.20671834625322996,
+        "population": 2248
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 8766,
+    "artist_title": "James Earle Fraser",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        8766
+    ],
+    "artist_titles": [
+        "James Earle Fraser"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "plaster",
+        "sculpture",
+        "bust/head",
+        "plaster",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-347",
+        "TM-414",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-347",
+        "TM-414",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "bust/head",
+        "plaster",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2439",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2439"
+    ],
+    "material_titles": [
+        "plaster"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f103a4c8-cd06-1d5b-30e3-ad5b441928b0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1918.282"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Head of Girl"
+            ],
+            "weight": 50,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-21T10:59:13-05:00",
+    "updated_at": "2023-06-21T11:21:03-05:00",
+    "timestamp": "2023-09-24T00:52:30-05:00"
+}

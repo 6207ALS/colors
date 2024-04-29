@@ -1,0 +1,33 @@
+{
+    "id": 81339,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/81339",
+    "title": "Workshop of Rembrandt van Rijn",
+    "sort_title": "Workshop of Rembrandt van Rijn",
+    "alt_titles": [
+        "Workshop of Rembrandt",
+        "Workshop of Rembrandt Harmenszoon van Rijn"
+    ],
+    "is_artist": true,
+    "birth_date": 1606,
+    "death_date": 1669,
+    "description": "<p><a href=\"https://www.artic.edu/artists/40769/rembrandt-van-rijn\" target=\"_blank\">Rembrandt van Rijn</a> ran a flourishing workshop in which he oversaw the production of students\u2019 paintings that continued the psychological intensity, deep chiaroscuro, and distinctive application of paint seen in his own work.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Workshop of Rembrandt van Rijn",
+            "Workshop of Rembrandt van Rijn",
+            "Workshop of Rembrandt",
+            "Workshop of Rembrandt Harmenszoon van Rijn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2023-09-23T23:17:46-05:00",
+    "timestamp": "2023-09-24T02:00:31-05:00"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 34142,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34142",
+    "title": "Abigail Davenport (Williams)",
+    "sort_title": "Davenport Williams, Abigail",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1696,
+    "death_date": 1766,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Abigail Davenport (Williams)",
+            "Davenport Williams, Abigail"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:03:12-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

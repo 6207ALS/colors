@@ -1,0 +1,33 @@
+{
+    "id": 33997,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33997",
+    "title": "Alvin Langdon Coburn",
+    "sort_title": "Coburn, Alvin Langdon",
+    "alt_titles": [
+        "Alvin L. Coburn",
+        "A. L. (Alvin Langdon) Coburn"
+    ],
+    "is_artist": true,
+    "birth_date": 1882,
+    "death_date": 1966,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alvin Langdon Coburn",
+            "Coburn, Alvin Langdon",
+            "Alvin L. Coburn",
+            "A. L. (Alvin Langdon) Coburn"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:51-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

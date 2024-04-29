@@ -1,0 +1,159 @@
+{
+    "id": 31257,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/31257",
+    "is_boosted": false,
+    "title": "Six Flounces",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAEFESWxucnN0eHR2e3l7foGDhImJjpKOirSmn6Kio6KhpaqkoKSkqqSlrKqqq6qprKytrru0rry2rr65q66tsa2usK+vsbKztMKxpMC6q8O9t8/AsMrEuMzJwMrJy9HNz8/P0svM1tDO0tTR0NXV1NfV1NTW1tnZ2NnZ2d3a2N7f5ebl4Obq7wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqQAPFUoFcHImHIgQisU4lleiwkEw6nIwmwkCMUJtVCvMBNAYBU4HgEQQBADs=",
+        "width": 1024,
+        "height": 552,
+        "alt_text": "A work made of silk, warp-faced plain weave; brocaded."
+    },
+    "main_reference_number": "1939.541a-f",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1840,
+    "date_end": 1860,
+    "date_display": "c. 1850",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France, Lyon",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "a: 27.9 \u00d7 328.1 cm (11 \u00d7 129 in.)\nRepeat: 19 cm (7 1/2 in.)\nb: 29.8 \u00d7 59 cm (11 3/4 \u00d7 23 1/4 in.)\nc: 30.7 \u00d7 59 cm (12 1/8 \u00d7 23 1/4 in.)\nd: 29.2 \u00d7 59 cm (11 1/2 \u00d7 23 1/4 in.)\ne: 30.8 \u00d7 59 cm (12 1/8 \u00d7 23 1/4 in.)\nf: 30.4 \u00d7 59 cm (12 \u00d7 23 1/4 in.)",
+    "dimensions_detail": [],
+    "medium_display": "Silk, warp-faced plain weave; brocaded",
+    "inscriptions": null,
+    "credit_line": "Gift of Emily Crane Chadbourne",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": 1940,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.2562,
+    "color": {
+        "h": 357,
+        "l": 47,
+        "s": 35,
+        "percentage": 0.008622446580024142,
+        "population": 33
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "fashion",
+        "textile",
+        "weaving",
+        "silk (fiber)"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-159"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-159"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving"
+    ],
+    "subject_id": "TM-8663",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-8663"
+    ],
+    "subject_titles": [
+        "fashion"
+    ],
+    "material_id": null,
+    "alt_material_ids": [
+        "TM-3688"
+    ],
+    "material_ids": [
+        "TM-3688"
+    ],
+    "material_titles": [
+        "silk (fiber)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "480f51b9-3574-3f0c-d1df-e78edcd2a470",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1939.541a-f"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Six Flounces"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:55-05:00",
+    "updated_at": "2023-04-10T15:28:37-05:00",
+    "timestamp": "2023-09-24T00:34:16-05:00"
+}

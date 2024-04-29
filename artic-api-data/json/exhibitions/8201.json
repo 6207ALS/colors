@@ -1,0 +1,65 @@
+{
+    "id": 8201,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8201",
+    "title": "Ivan Albright (1997)",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1997-02-20T00:00:00-06:00",
+    "aic_end_at": "1997-05-11T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "4f7af2f6-b365-8c9b-5f13-473a178a34db",
+    "alt_image_ids": [
+        "58ec32cc-f7d9-d36c-e3f2-88b30edfc508",
+        "1f225d86-6b3c-987f-b73e-65afaa0f2b70",
+        "deb2bceb-e158-2a57-ef15-37b3f4b02216",
+        "57fbbfef-a76e-90bf-141e-d20d4dc70cba",
+        "2b49acd2-45d1-10c9-4ae4-cfbb5b81c977",
+        "05b958d3-9357-739e-574a-af5c91bd1a87",
+        "7f26a298-30b1-4273-f8c1-8ef46a1cc2b6",
+        "14e27aa6-dba7-8625-3862-3e8742b36611",
+        "6381401a-afdb-7398-e6dc-fcf0705a6d76",
+        "84ee0ada-2054-964f-4804-f62ea45f109d",
+        "881b68fd-86a7-5b23-94c6-0d1401cb2a8c",
+        "92505fbe-8233-8229-fa97-442111b6d42e",
+        "a004e86e-d38b-6395-8c1a-5428bf3d6719",
+        "600edc2d-c010-8ee0-7c81-eafdd309b7ad",
+        "df4c87e1-9e34-99b9-87a5-6e8c9816020a",
+        "28306106-d98b-0248-1f24-95c95c4888b9",
+        "55c966cd-c411-544d-c5d3-dd36322d81d0",
+        "dfd41531-4791-3c8d-9d6b-c154199948e9",
+        "49a34852-b992-1cf6-280b-f94d1916b3f2",
+        "44d7b822-2a42-bc41-460a-e02d5058291b",
+        "03de1b9d-5fcb-4a5c-c938-6a60431a1e5a",
+        "dd04424f-7061-e8cc-f311-bc570591a304",
+        "5381fad3-d449-0aa9-2a08-a32770f13383",
+        "fd82a279-6f49-16c4-6070-d20def7fd6ef",
+        "f8e5044b-564b-3e2b-c082-9db02007edc6",
+        "c894cee9-b60e-a204-a8ac-8023ed2ff913",
+        "961c82d2-f1b5-f5e0-eb52-2b8715e59ee0",
+        "453d5e33-a294-251c-bd75-b2af945fd707"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ivan Albright (1997)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:13:28-06:00",
+    "timestamp": "2023-09-24T02:02:13-05:00"
+}

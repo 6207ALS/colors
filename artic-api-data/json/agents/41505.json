@@ -1,0 +1,35 @@
+{
+    "id": 41505,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41505",
+    "title": "Jacob Weyer",
+    "sort_title": "Weyer, Jacob",
+    "alt_titles": [
+        "Jacob Weier",
+        "Johann Mathias Weyer",
+        "Johann Mathias Weier"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacob Weyer",
+            "Weyer, Jacob",
+            "Jacob Weier",
+            "Johann Mathias Weyer",
+            "Johann Mathias Weier"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:58-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 60191,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/60191",
+    "title": "Hans Weiditz, II",
+    "sort_title": "Weiditz, Hans, II",
+    "alt_titles": [
+        "Hans Weiditz, the younger",
+        "Hans Weiditz, II, (Master of Petrarch)",
+        "Hans Wydytz, II, (Master of Petrarch)",
+        "Hans Weiditz, (the Younger)",
+        "Hans Wydyz, the younger"
+    ],
+    "is_artist": true,
+    "birth_date": 1490,
+    "death_date": 1541,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hans Weiditz, II",
+            "Weiditz, Hans, II",
+            "Hans Weiditz, the younger",
+            "Hans Weiditz, II, (Master of Petrarch)",
+            "Hans Wydytz, II, (Master of Petrarch)",
+            "Hans Weiditz, (the Younger)",
+            "Hans Wydyz, the younger"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:59:14-05:00",
+    "timestamp": "2023-09-24T02:00:29-05:00"
+}

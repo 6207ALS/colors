@@ -1,0 +1,185 @@
+{
+    "id": 85640,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/85640",
+    "is_boosted": false,
+    "title": "Birth of the Virgin",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAIRwUYp2VoJyWYt6X4x6XY9+YZeDZJWFaJeHbZuJbJ6LbJ6OcZ+PdaGQc6CRdqaTdKmWda6ghLOkireojrupi7ywmL6ymcG0l8m7nwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIHZFjjURy1EJA1VIAQApyWMgDRMCADs=",
+        "width": 3000,
+        "height": 2849,
+        "alt_text": "A work made of pen and brown ink with brush and brown wash, over traces of graphite, on ivory laid paper, tipped onto ivory laid paper."
+    },
+    "main_reference_number": "1922.2839",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1607,
+    "date_end": 1684,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Attributed to Francesco Allegrini\nItalian, 1587-1684",
+    "place_of_origin": "Italy",
+    "description": null,
+    "dimensions": "10.9 \u00d7 11.5 cm (4 5/16 \u00d7 4 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 11.5,
+            "width_in": 4.5276,
+            "height_cm": 10.9,
+            "height_in": 4.2914,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and brown ink with brush and brown wash, over traces of graphite, on ivory laid paper, tipped onto ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "The Leonora Hall Gurley Memorial Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1921,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 26.4841,
+    "color": {
+        "h": 37,
+        "l": 62,
+        "s": 40,
+        "percentage": 0.04967378410438909,
+        "population": 335
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 526,
+    "artist_title": "Francesco Allegrini",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        526
+    ],
+    "artist_titles": [
+        "Francesco Allegrini"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-2399",
+        "TM-2410"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "wash",
+        "graphite"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5a7ccd44-28d4-2d8f-ba3e-d91031a6a505",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1922.2839"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Birth of the Virgin"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:03-05:00",
+    "updated_at": "2023-04-10T12:09:32-05:00",
+    "timestamp": "2023-09-24T00:57:48-05:00"
+}

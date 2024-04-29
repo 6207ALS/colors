@@ -1,0 +1,172 @@
+{
+    "id": 254335,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/254335",
+    "is_boosted": false,
+    "title": "Pedestal (leveled)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALi4uLq6usLCwsbGxsjHxMnIxs/Oy9HR0NXV1dzb2+Lh4OTk4+Xl5ejn5u3t7e7u7vHx8QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYAAEwZAUAtIQB6MYC/Q4UAgAOw==",
+        "width": 8220,
+        "height": 11507,
+        "alt_text": "A work made of stainless steel, mdf paint."
+    },
+    "main_reference_number": "2020.74",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "1993",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tony Tasset \nAmerican, born 1960",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "87 \u00d7 49.7 \u00d7 49.6 cm (38 1/4 \u00d7 18 5/8 \u00d7 19 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 49.6,
+            "depth_in": 19.5,
+            "width_cm": 49.7,
+            "width_in": 18.625,
+            "height_cm": 87,
+            "height_in": 38.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stainless steel, MDF paint",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": "None to date.",
+    "exhibition_history": "Chicago, Kavi Gupta Gallery, Tony Tasset: Selected Works, 1986\u20131996, May 1\u2013Aug. 11, 2010, no cat.",
+    "provenance_text": "Provenance: The artist; given to the Art Institute of Chicago, Apr. 14, 2020.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 246,
+    "fiscal_year": 2020,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 2.2459,
+    "color": {
+        "h": 41,
+        "l": 58,
+        "s": 4,
+        "percentage": 0.010253935701791422,
+        "population": 102
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 37470,
+    "artist_title": "Tony Tasset",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37470
+    ],
+    "artist_titles": [
+        "Tony Tasset"
+    ],
+    "category_ids": [
+        "PC-154",
+        "PC-8"
+    ],
+    "category_titles": [
+        "Chicago Artists",
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "sculpture",
+        "museum",
+        "pedestals"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": "TM-13215",
+    "alt_subject_ids": [
+        "TM-11225"
+    ],
+    "subject_ids": [
+        "TM-13215",
+        "TM-11225"
+    ],
+    "subject_titles": [
+        "museum",
+        "pedestals"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Chicago Artists"
+    ],
+    "image_id": "4aea34a2-a4ce-c5c0-c2a6-3e901a5a2500",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.74"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pedestal (leveled)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:37-05:00",
+    "updated_at": "2023-04-07T14:43:31-05:00",
+    "timestamp": "2023-09-24T01:56:47-05:00"
+}

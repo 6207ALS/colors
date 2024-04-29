@@ -1,0 +1,41 @@
+{
+    "id": 35327,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/35327",
+    "title": "Isoda Koryusai",
+    "sort_title": "Isoda Koryusai",
+    "alt_titles": [
+        "Isoda K\u00f4ry\u00fbsai",
+        "K\u00f4ry\u00fbsai",
+        "Isoda Masakatsu",
+        "Sh\u00f4bei",
+        "Harukiro",
+        "K\u00f4ri\u00fbsai"
+    ],
+    "is_artist": true,
+    "birth_date": 1735,
+    "death_date": 1790,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Isoda Koryusai",
+            "Isoda Koryusai",
+            "Isoda K\u00f4ry\u00fbsai",
+            "K\u00f4ry\u00fbsai",
+            "Isoda Masakatsu",
+            "Sh\u00f4bei",
+            "Harukiro",
+            "K\u00f4ri\u00fbsai"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:57:40-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

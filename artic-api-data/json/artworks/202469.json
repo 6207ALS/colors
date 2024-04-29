@@ -1,0 +1,163 @@
+{
+    "id": 202469,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202469",
+    "is_boosted": false,
+    "title": "Girl Drawing",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIOBgaeZh6qsrcK2pMe8rby/wsXGxsXIyszP0dTY3tvd393f4ufo6+jo6Orq6wAAACH5BAAAAAAALAAAAAADAAUAAAQLsDGn0jICHVBIGBEAOw==",
+        "width": 1557,
+        "height": 2688,
+        "alt_text": "A work made of silkscreen on stainless steel."
+    },
+    "main_reference_number": "2015.645",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1979,
+    "date_end": 1979,
+    "date_display": "1979",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Michelangelo Pistoletto\nItalian, born 1933",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "229.9 \u00d7 124.9 cm (90 1/2 \u00d7 49 3/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 124.9,
+            "width_in": 49.1875,
+            "height_cm": 229.9,
+            "height_in": 90.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silkscreen on stainless steel",
+    "inscriptions": null,
+    "credit_line": "Gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 17.1997,
+    "color": {
+        "h": 204,
+        "l": 77,
+        "s": 4,
+        "percentage": 0.2625217579174361,
+        "population": 3220
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 64411,
+    "artist_title": "Michelangelo Pistoletto",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        64411
+    ],
+    "artist_titles": [
+        "Michelangelo Pistoletto"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "silkscreen",
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-10309",
+    "classification_title": "silkscreen",
+    "alt_classification_ids": [
+        "TM-9"
+    ],
+    "classification_ids": [
+        "TM-10309",
+        "TM-9"
+    ],
+    "classification_titles": [
+        "silkscreen",
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "9f973239-42e4-8c35-a11d-cd4b60b48dfb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2015.645"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Girl Drawing"
+            ],
+            "weight": 101,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-04T13:00:31-05:00",
+    "updated_at": "2023-07-04T13:01:09-05:00",
+    "timestamp": "2023-09-24T01:40:40-05:00"
+}

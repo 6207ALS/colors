@@ -1,0 +1,31 @@
+{
+    "id": 27952,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/27952",
+    "title": "James Ward",
+    "sort_title": "Ward, James",
+    "alt_titles": [
+        "James Ward, I"
+    ],
+    "is_artist": true,
+    "birth_date": 1769,
+    "death_date": 1859,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Ward",
+            "Ward, James",
+            "James Ward, I"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:53:22-05:00",
+    "timestamp": "2023-09-24T02:00:14-05:00"
+}

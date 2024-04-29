@@ -1,0 +1,28 @@
+{
+    "id": 117777,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/117777",
+    "title": "George Wolfkiel",
+    "sort_title": "George Wolfkiel",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1805,
+    "death_date": 1867,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "George Wolfkiel",
+            "George Wolfkiel"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-12-01T09:40:10-06:00",
+    "updated_at": "2021-12-01T09:40:54-06:00",
+    "timestamp": "2023-09-24T02:00:39-05:00"
+}

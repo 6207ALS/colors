@@ -1,0 +1,165 @@
+{
+    "id": 240890,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/240890",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAMC5tcXAu8jCvMzIxNDPzdLQy9TTz9fUztnY1NnY19nZ2d7d3OPi4eXk5Ofm5QAAACH5BAAAAAAALAAAAAADAAUAAAQLUATgWmJLIUNOGREAOw==",
+        "width": 333,
+        "height": 500,
+        "alt_text": "A work made of steel and paint."
+    },
+    "main_reference_number": "2017.277",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2017,
+    "date_end": 2017,
+    "date_display": "2017",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mathias Poledna\nAustrian, born 1965",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "61 \u00d7 121.9 \u00d7 11.4 cm (24 \u00d7 48 \u00d7 4 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 11.4,
+            "depth_in": 4.5,
+            "width_cm": 121.9,
+            "width_in": 48,
+            "height_cm": 61,
+            "height_in": 24,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Steel and paint",
+    "inscriptions": null,
+    "credit_line": "The Neil G. Bluhm Contemporary Art Matching Fund Initiative",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.9815,
+    "color": {
+        "h": 41,
+        "l": 81,
+        "s": 6,
+        "percentage": 0.22684724494442665,
+        "population": 2421
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 113702,
+    "artist_title": "Mathias Poledna",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        113702
+    ],
+    "artist_titles": [
+        "Mathias Poledna"
+    ],
+    "category_ids": [
+        "PC-8"
+    ],
+    "category_titles": [
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "21st Century",
+        "sculpture"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8ee2527e-ae75-4ffe-7681-65ac877dea43",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.277"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:34-05:00",
+    "updated_at": "2023-04-07T14:56:11-05:00",
+    "timestamp": "2023-09-24T01:53:24-05:00"
+}

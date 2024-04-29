@@ -1,0 +1,39 @@
+{
+    "id": 51884,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/51884",
+    "title": "Jean Marie Carzou",
+    "sort_title": "Carzou, Jean Marie",
+    "alt_titles": [
+        "Jean Carzou",
+        "Garzu",
+        "Karzou",
+        "Karnig Zouloumian",
+        "Karzu"
+    ],
+    "is_artist": true,
+    "birth_date": 1907,
+    "death_date": 2000,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean Marie Carzou",
+            "Carzou, Jean Marie",
+            "Jean Carzou",
+            "Garzu",
+            "Karzou",
+            "Karnig Zouloumian",
+            "Karzu"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:55-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

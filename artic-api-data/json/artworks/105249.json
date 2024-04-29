@@ -1,0 +1,201 @@
+{
+    "id": 105249,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/105249",
+    "is_boosted": false,
+    "title": "Sculptor Working on a Motif with Marie-Th\u00e9r\u00e8se Posing, from the Suite Vollard",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAMC4qc7GuNLKvNjQwtrSxd/XyePczuXczOri0+7k0uzk1e7m2O/m2PDn1fHn1fLo1fLo1vLo1/Lp1/Dn2fPp2PLq2PPq2PLq2fPq2fTr2Pbt2vXt3Pfv3ffv3gAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUd4NUkjwNJHREoBYNxA3AgDLUZArJM1JVpD0ikEgIAOw==",
+        "width": 3000,
+        "height": 2290,
+        "alt_text": "A work made of etching on copper in black on off-white laid paper."
+    },
+    "main_reference_number": "1986.134",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1933,
+    "date_end": 1933,
+    "date_display": "March 31, 1933, printed 1939",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Pablo Picasso (Spanish, 1881-1973)\nprinted by Roger Lacouri\u00e8re (French, 1892-1966)\npublished by Ambroise Vollard (French, 1867-1939)",
+    "place_of_origin": "Spain",
+    "description": null,
+    "dimensions": "Image/plate: 19.3 \u00d7 26.9 cm (7 5/8 \u00d7 10 5/8 in.); Sheet: 33.9 \u00d7 44.2 cm (13 3/8 \u00d7 17 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.9,
+            "width_in": 10.5906,
+            "height_cm": 19.3,
+            "height_in": 7.5985,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image/plate"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 44.2,
+            "width_in": 17.4016,
+            "height_cm": 33.9,
+            "height_in": 13.3465,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on copper in black on off-white laid paper",
+    "inscriptions": null,
+    "credit_line": "Bequest of Maribel G. Blum",
+    "catalogue_display": "<p>Geiser 321 III /III, c</p><p>Bloch 168</p><p>Baer & Geiser 321 II/II, B.d</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1986,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.9329,
+    "color": {
+        "h": 37,
+        "l": 91,
+        "s": 59,
+        "percentage": 1.142147665616946,
+        "population": 6191
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36198,
+    "artist_title": "Pablo Picasso",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36198
+    ],
+    "artist_titles": [
+        "Pablo Picasso"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "Cubism",
+        "print",
+        "prints and drawing",
+        "paper",
+        "ink",
+        "laid paper"
+    ],
+    "style_id": "TM-7539",
+    "style_title": "Cubism",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-7539"
+    ],
+    "style_titles": [
+        "Cubism"
+    ],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4",
+        "TM-145"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing",
+        "paper"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [
+        "TM-2398",
+        "TM-3070"
+    ],
+    "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3070"
+    ],
+    "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "laid paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3b59f448-ef72-2211-4512-1d160122fa8b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1986.134"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Sculptor Working on a Motif with Marie-Th\u00e9r\u00e8se Posing, from the Suite Vollard"
+            ],
+            "weight": 150,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-09-23T23:23:54-05:00",
+    "timestamp": "2023-09-24T01:07:43-05:00"
+}

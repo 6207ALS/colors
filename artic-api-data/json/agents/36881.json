@@ -1,0 +1,39 @@
+{
+    "id": 36881,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36881",
+    "title": "Yves Tanguy",
+    "sort_title": "Tanguy, Yves",
+    "alt_titles": [
+        "Raymond Georges Yves Tanguy"
+    ],
+    "is_artist": true,
+    "birth_date": 1900,
+    "death_date": 1955,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Yves Tanguy",
+            "Tanguy, Yves",
+            "Raymond Georges Yves Tanguy"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Yves Tanguy",
+            "Tanguy, Yves",
+            "Raymond Georges Yves Tanguy"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:33:17-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

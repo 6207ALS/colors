@@ -1,0 +1,163 @@
+{
+    "id": 203043,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/203043",
+    "is_boosted": false,
+    "title": "FRAME 32",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJWKibCior2poLmur721ucKwrcC3tMG3tse8usu9uc/GxM/IytjMzN/U1Ojf3uvj4/Pp4/ft5/Tu6vjx7QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BRBkgEMzkIEyCEUjJI0TwgAOw==",
+        "width": 1992,
+        "height": 2468,
+        "alt_text": "A work made of magazine."
+    },
+    "main_reference_number": "2010.18.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2003,
+    "date_end": 2003,
+    "date_display": "2003",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "COMA (Amsterdam and New York, founded 1996)\nCornelia Blatter (American, born Switzerland 1960)\nMarcel Hermans (American, born the Netherlands 1961)\n\nEdited by Robert Thiemann",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "29.6 \u00d7 23 cm (11 5/8 \u00d7 9 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 23,
+            "width_in": 9,
+            "height_cm": 29.6,
+            "height_in": 11.6,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Magazine",
+    "inscriptions": null,
+    "credit_line": "Gift of COMA",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 25,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 16.5436,
+    "color": {
+        "h": 8,
+        "l": 52,
+        "s": 12,
+        "percentage": 0.06942456015961967,
+        "population": 611
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Graphic Design",
+    "artwork_type_id": 32,
+    "department_title": "Architecture and Design",
+    "department_id": "PC-5",
+    "artist_id": 110636,
+    "artist_title": "COMA",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        110636
+    ],
+    "artist_titles": [
+        "COMA"
+    ],
+    "category_ids": [
+        "PC-5"
+    ],
+    "category_titles": [
+        "Architecture and Design"
+    ],
+    "term_titles": [
+        "graphic design",
+        "21st Century"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-12308",
+    "classification_title": "graphic design",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-12308"
+    ],
+    "classification_titles": [
+        "graphic design"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5a475e90-e960-b1d3-5aaa-40350e40554a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.18.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "FRAME 32"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:46:23-05:00",
+    "timestamp": "2023-09-24T01:40:48-05:00"
+}

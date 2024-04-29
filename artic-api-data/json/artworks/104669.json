@@ -1,0 +1,167 @@
+{
+    "id": 104669,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/104669",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAEFAQ0VERUVFRUVFR0ZGSVJSU1RTUlVVVVZWV1dYWVlZWVlZXFtbXVtbXlxdX11dX11eX15fYl9fYmBgY2FhY2FjZWJkZWNkZ2ZoamhqbWpsbWpsbmxtb2ttcm1ucW5vc25wc29wdHBxdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwIBBwXhUNh/BgeFgWDQgAuIRmWA4ogECIqFgPCFAIbFoXDKdIAA7",
+        "width": 1537,
+        "height": 1049,
+        "alt_text": "A work made of cotton, twill weave; printed."
+    },
+    "main_reference_number": "1985.772",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1969,
+    "date_end": 1990,
+    "date_display": "c. 1979/80",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Designed by Countess Elsie Lee Gozzi (Italian, active c. 1979\u20131980)\nProduced by Fortuny, Inc.\nItaly, Venice",
+    "place_of_origin": "Venice",
+    "description": null,
+    "dimensions": "89 \u00d7 55.7 cm (35 \u00d7 22 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.7,
+            "width_in": 22,
+            "height_cm": 89,
+            "height_in": 35,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cotton, twill weave; printed",
+    "inscriptions": null,
+    "credit_line": "Gift of Fortuny, Inc.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.5863,
+    "color": {
+        "h": 217,
+        "l": 51,
+        "s": 11,
+        "percentage": 0.017948321213058952,
+        "population": 87
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": 35440,
+    "artist_title": "Elsie, Countess Lee Gozzi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35440
+    ],
+    "artist_titles": [
+        "Elsie, Countess Lee Gozzi"
+    ],
+    "category_ids": [
+        "PC-14",
+        "PC-825"
+    ],
+    "category_titles": [
+        "Textiles",
+        "Women artists"
+    ],
+    "term_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists"
+    ],
+    "image_id": "1e1c9c3a-9249-6c9c-48b9-4d5f0a333531",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1985.772"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 45,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:07-05:00",
+    "updated_at": "2023-04-10T11:25:18-05:00",
+    "timestamp": "2023-09-24T01:07:28-05:00"
+}

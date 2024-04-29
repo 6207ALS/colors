@@ -1,0 +1,31 @@
+{
+    "id": 41456,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41456",
+    "title": "Anthoni Schoonjans",
+    "sort_title": "Schoonjans, Anthoni",
+    "alt_titles": [
+        "Anthoni Schoonjans, (Parrhasius)"
+    ],
+    "is_artist": true,
+    "birth_date": 1650,
+    "death_date": 1726,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Anthoni Schoonjans",
+            "Schoonjans, Anthoni",
+            "Anthoni Schoonjans, (Parrhasius)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:00:58-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

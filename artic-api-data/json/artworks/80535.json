@@ -1,0 +1,163 @@
+{
+    "id": 80535,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/80535",
+    "is_boosted": false,
+    "title": "Portrait of a Man",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAB0dHR8fHyAgICEhISIiIiMjIyUlJScnJyoqKi4uLjExMTMzMzQ0NDU1NTY2NgAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAQPkKiVglOHDFBMKQ3CCEcEADs=",
+        "width": 1614,
+        "height": 2214,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1954.286",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1625,
+    "date_end": 1630,
+    "date_display": "1625/30",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Follower of Anthony van Dyck\nFlemish, 1599-1641",
+    "place_of_origin": "Genoa",
+    "description": null,
+    "dimensions": "108 \u00d7 80 cm (42 1/2 \u00d7 31 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 80,
+            "width_in": 31.5,
+            "height_cm": 108,
+            "height_in": 42.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Max and Leola Epstein Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1955,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 47,
+        "s": 0,
+        "percentage": 0.004412483017071178,
+        "population": 43
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 46378,
+    "artist_title": "Follower of Anthonie van Dyck",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        46378
+    ],
+    "artist_titles": [
+        "Follower of Anthonie van Dyck"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a061fcd4-88da-53f4-726f-72e3d71757a3",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1954.286"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of a Man"
+            ],
+            "weight": 124,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:23:33-05:00",
+    "timestamp": "2023-09-24T00:54:48-05:00"
+}

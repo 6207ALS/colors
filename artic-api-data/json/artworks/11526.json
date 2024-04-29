@@ -1,0 +1,162 @@
+{
+    "id": 11526,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11526",
+    "is_boosted": false,
+    "title": "Portfolio of Twelve Photographs",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAJGSjpKTjpOUjpOUj5WVkJWWkZaWkZaXkpeXkpiYk5mZlJqZlJmalZqalpydmJ2emSH5BAAAAAAALAAAAAAEAAUAAAQP0D3XSgAjMWbIOQKiLEYEADs=",
+        "width": 2358,
+        "height": 3000,
+        "alt_text": "A work."
+    },
+    "main_reference_number": "1960.31.1-12",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1957,
+    "date_end": 1957,
+    "date_display": "1957",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Don Worth\nAmerican, 1924\u20132009",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": null,
+    "dimensions_detail": [],
+    "medium_display": null,
+    "inscriptions": null,
+    "credit_line": "Photo Gallery fund misc",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.2427,
+    "color": {
+        "h": 69,
+        "l": 59,
+        "s": 2,
+        "percentage": 0.5853810615131022,
+        "population": 5295
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 37360,
+    "artist_title": "Don Worth",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37360
+    ],
+    "artist_titles": [
+        "Don Worth"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-800"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Collected by Hugh Edwards"
+    ],
+    "term_titles": [
+        "photographic process",
+        "Collected by Hugh Edwards",
+        "photography",
+        "photograph"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-68",
+    "classification_title": "photographic process",
+    "alt_classification_ids": [
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_ids": [
+        "TM-68",
+        "TM-67",
+        "TM-240"
+    ],
+    "classification_titles": [
+        "photographic process",
+        "photography",
+        "photograph"
+    ],
+    "subject_id": "TM-13177",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-13177"
+    ],
+    "subject_titles": [
+        "Collected by Hugh Edwards"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fbdb9b4a-0fd0-22d7-f15b-ec890e9800b2",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1960.31.1-12"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portfolio of Twelve Photographs"
+            ],
+            "weight": 24,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2021-05-03T18:45:49-05:00",
+    "updated_at": "2023-04-10T15:30:23-05:00",
+    "timestamp": "2023-09-24T00:25:01-05:00"
+}

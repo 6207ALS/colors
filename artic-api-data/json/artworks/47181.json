@@ -1,0 +1,167 @@
+{
+    "id": 47181,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/47181",
+    "is_boosted": false,
+    "title": "Portrait of Mr. Delvalle",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAA0NDRISEhQUFBgYGB8fHyEhISUlJSoqKiwsLC4uLjQ0NDc3N0pKSlJSUl5eXmJiYnt7ewAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURIEEYw+I8AcJAQCE0w3EoSQgAOw==",
+        "width": 1815,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1943.531",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1837,
+    "date_end": 1837,
+    "date_display": "1837",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Claude Marie Dubufe\nFrench, 1790-1864",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "81 \u00d7 65.2 cm (31 7/8 \u00d7 25 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 65.2,
+            "width_in": 25.625,
+            "height_cm": 81,
+            "height_in": 31.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Inscribed at top of chair: Dubufe",
+    "credit_line": "Gift of Samuel Weis",
+    "catalogue_display": null,
+    "publication_history": "Emmanuel Br\u00e9on, Claude-Marie, Edouard et Guillaume Dubufe: Portraits d\u2019un si\u00e8cle d\u2019\u00e9l\u00e9gance parisienne, exh. cat. (Paris, 1988), p. 93, ill.",
+    "exhibition_history": null,
+    "provenance_text": "Painted for Mr. Delvalle, New Orleans, 1837 [according to description of pendant in 1927 auction catalogue cited below]; by descent in the family of Mr. Delvalle; sold Samuel T. Freeman and Company, Philadelphia, January 17, 1927, lot 80.  Samuel Weis, Chicago; given to the Art Institute, 1943.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1943,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 0,
+        "l": 47,
+        "s": 0,
+        "percentage": 0.007265008201513165,
+        "population": 64
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 7131,
+    "artist_title": "Claude Marie Dubufe",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        7131
+    ],
+    "artist_titles": [
+        "Claude Marie Dubufe"
+    ],
+    "category_ids": [
+        "PC-10"
+    ],
+    "category_titles": [
+        "Painting and Sculpture of Europe"
+    ],
+    "term_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_ids": [
+        "TM-66",
+        "TM-9",
+        "TM-54"
+    ],
+    "classification_titles": [
+        "oil on canvas",
+        "painting",
+        "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5ec4aa8b-bbc6-4417-8c77-aca4f24ceb58",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1943.531"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Mr. Delvalle"
+            ],
+            "weight": 275,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-08-29T15:17:51-05:00",
+    "updated_at": "2023-08-29T15:24:14-05:00",
+    "timestamp": "2023-09-24T00:40:59-05:00"
+}

@@ -1,0 +1,170 @@
+{
+    "id": 262564,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/262564",
+    "is_boosted": false,
+    "title": "Bosnia (#1 of 7)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADo6OD8+PEhHRU1MSlRMSV9dWmBWVGJfXW1pZnJua3Rxbnp3dH99eX99eoB9eYF+e4aDf4eEgLytqL6xrLu0r8PBvMbBvMbDvsjDvsnFwMvGwc7JxAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoJZVV4ZllDRZW5MYBMIIATAUB6Q40fKEADs=",
+        "width": 8992,
+        "height": 7166,
+        "alt_text": "A work made of gelatin silver print with hand applied lettering."
+    },
+    "main_reference_number": "2021.520.1",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1993,
+    "date_end": 1993,
+    "date_display": "1993",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Lewis Koch\nAmerican, born 1949",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 47.4 \u00d7 19.1 cm (18 11/16 \u00d7 7 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 19.1,
+            "width_in": 7.5197,
+            "height_cm": 47.4,
+            "height_in": 18.6615,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        }
+    ],
+    "medium_display": "Gelatin silver print with hand applied lettering",
+    "inscriptions": null,
+    "credit_line": "Gift of the artist",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2022,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 359,
+        "l": 36,
+        "s": 64,
+        "percentage": 1.551911309137753e-5,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Photograph",
+    "artwork_type_id": 2,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 117763,
+    "artist_title": "Lewis Koch",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117763
+    ],
+    "artist_titles": [
+        "Lewis Koch"
+    ],
+    "category_ids": [
+        "PC-12"
+    ],
+    "category_titles": [
+        "Photography and Media"
+    ],
+    "term_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-67",
+    "classification_title": "photography",
+    "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+    ],
+    "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cb000d56-1313-d68c-53d3-a7d9554bb4db",
+    "alt_image_ids": [
+        "a203f43a-f06b-8705-ba7a-290011722d3a",
+        "a6360105-ac9e-761d-6073-fc3108a33b48"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2021.520.1"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bosnia (#1 of 7)"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-02-09T15:04:51-06:00",
+    "updated_at": "2023-04-07T12:30:15-05:00",
+    "timestamp": "2023-09-24T01:58:11-05:00"
+}

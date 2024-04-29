@@ -1,0 +1,184 @@
+{
+    "id": 187168,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/187168",
+    "is_boosted": false,
+    "title": "Jar",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFhWV1hXV2RjZGhmYnh1dH55dbi4uL67usLAvsHAwMLAwMPCwsXFxMbFxMfGxcjGxNbV1djZ2OLh4eLi4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoHIgyVMQjSMADBQMkWQsUwgAOw==",
+        "width": 5128,
+        "height": 7041,
+        "alt_text": "A work made of stoneware; iron glaze."
+    },
+    "main_reference_number": "2006.105",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "c. 1960's",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hamada Shoji\nJapanese, 1894-1978",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "25 \u00d7 13.2 \u00d7 13.2 cm (9 7/8 \u00d7 5 1/4 \u00d7 5 1/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 13.2,
+            "depth_in": 5.25,
+            "width_cm": 13.2,
+            "width_in": 5.25,
+            "height_cm": 25,
+            "height_in": 9.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Stoneware; iron glaze",
+    "inscriptions": null,
+    "credit_line": "Gift of Alice Blum",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 5.9934,
+    "color": {
+        "h": 311,
+        "l": 41,
+        "s": 0,
+        "percentage": 0.08796833140069575,
+        "population": 858
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 10768,
+    "artist_title": "Hamada Sh\u00f4ji",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        10768
+    ],
+    "artist_titles": [
+        "Hamada Sh\u00f4ji"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "Japanese",
+        "jars",
+        "stone",
+        "characters",
+        "vessel",
+        "decorative arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-12060",
+    "classification_title": "jars",
+    "alt_classification_ids": [
+        "TM-27",
+        "TM-1678"
+    ],
+    "classification_ids": [
+        "TM-12060",
+        "TM-27",
+        "TM-1678"
+    ],
+    "classification_titles": [
+        "jars",
+        "vessel",
+        "decorative arts"
+    ],
+    "subject_id": "TM-12558",
+    "alt_subject_ids": [
+        "TM-13377"
+    ],
+    "subject_ids": [
+        "TM-12558",
+        "TM-13377"
+    ],
+    "subject_titles": [
+        "Japanese",
+        "characters"
+    ],
+    "material_id": "TM-2434",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2434"
+    ],
+    "material_titles": [
+        "stone"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4a0b1709-0b28-8e1a-6453-7e3b0de5e5ef",
+    "alt_image_ids": [
+        "e3f034a7-ef9c-21e7-cb3c-ce15a493c564"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2006.105"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jar"
+            ],
+            "weight": 9,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:21-05:00",
+    "updated_at": "2023-04-07T16:07:16-05:00",
+    "timestamp": "2023-09-24T01:35:50-05:00"
+}

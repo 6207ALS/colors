@@ -1,0 +1,33 @@
+{
+    "id": 22170,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/22170",
+    "title": "Johann Heinrich Roos",
+    "sort_title": "Roos, Johann Heinrich",
+    "alt_titles": [
+        "Johann Heinrich Roose",
+        "Johann Heinrich Rose"
+    ],
+    "is_artist": true,
+    "birth_date": 1631,
+    "death_date": 1685,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Johann Heinrich Roos",
+            "Roos, Johann Heinrich",
+            "Johann Heinrich Roose",
+            "Johann Heinrich Rose"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:52:05-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

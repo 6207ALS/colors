@@ -1,0 +1,48 @@
+{
+    "id": 6104,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6104",
+    "title": "Willem de Kooning",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1969-05-17T00:00:00-05:00",
+    "aic_end_at": "1969-07-06T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "63e02db2-f19a-17f1-a977-f30e01bba49c",
+    "alt_image_ids": [
+        "45bdcefb-2f01-cdec-de54-c310eb42f86f",
+        "03226237-74a2-2a95-d8fe-21fdf32a6f32",
+        "12e77be7-b335-4e14-82b4-f6ed918827da",
+        "8b752116-85c4-150b-4700-d6c72d3915ea",
+        "7c45db81-c686-39a6-49f3-74e71d27283e",
+        "82d37130-54f0-a376-c21f-a92d0a5f41ef",
+        "adfef503-86cf-1ab9-ea22-b22b6a647b7d",
+        "89ae2bea-281c-223d-afef-302f5444aa2e",
+        "48c6fa03-0087-76ce-d452-a2dec8e4edd3"
+    ],
+    "document_ids": [
+        "f328d783-b446-405c-8d60-0e64865c8004"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Willem de Kooning"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:18:15-06:00",
+    "timestamp": "2023-09-24T02:01:44-05:00"
+}

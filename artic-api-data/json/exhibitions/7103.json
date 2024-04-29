@@ -1,0 +1,40 @@
+{
+    "id": 7103,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7103",
+    "title": "Degas in the Art Institute of Chicago",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1984-07-19T00:00:00-05:00",
+    "aic_end_at": "1984-09-23T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "c4fd19df-7186-4466-2ec7-64513d104560",
+    "alt_image_ids": [
+        "0cb10b15-a13d-fccc-9f0b-c7430fd44eb0",
+        "9133cb6a-2a14-ed0c-ae87-c1d23372c021",
+        "5afa33d4-1a78-789a-01bd-cfbb527bab54"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Degas in the Art Institute of Chicago"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:15:52-06:00",
+    "timestamp": "2023-09-24T02:01:58-05:00"
+}

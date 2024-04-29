@@ -1,0 +1,173 @@
+{
+    "id": 52980,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/52980",
+    "is_boosted": false,
+    "title": "The Alameda",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADQ8KVxcO1thOXx1OUhQQFBfSVhlSVpkTFFqWmRiQGtoVHN7V114Y3F/Y4F4LIJ2T4V7SJh/V3+AWHeKdnuOc5WRPomEQYGEUY2HU42JXK6dVJCQa6eaYKmbZQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYIMw1LRcRnEIjvVIG1cFUNZpA0AoEZaEADs=",
+        "width": 2795,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1978.397",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1928,
+    "date_end": 1928,
+    "date_display": "1928",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Emil Armin\nAmerican, 1883\u20131971",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "43.2 \u00d7 50.8 cm (16 1/4 \u00d7 20 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.8,
+            "width_in": 20,
+            "height_cm": 43.2,
+            "height_in": 16.25,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Emil Armin",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Springfield, Illinois State Museum, <em>Emil Armin: Chicago Artist</em>, Apr. 27\u2013June 8, 1980.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 61.8814,
+    "color": {
+        "h": 53,
+        "l": 50,
+        "s": 66,
+        "percentage": 0.035290191947197486,
+        "population": 202
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 33448,
+    "artist_title": "Emil Armin",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        33448
+    ],
+    "artist_titles": [
+        "Emil Armin"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "oil paint (paint)",
+        "painting",
+        "canvas",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-3124"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-3124"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7a234567-f4e5-b0a5-8408-eb82938fb565",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1978.397"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Alameda"
+            ],
+            "weight": 1567,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:56:12-05:00",
+    "timestamp": "2023-09-24T00:43:53-05:00"
+}

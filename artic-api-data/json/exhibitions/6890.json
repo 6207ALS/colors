@@ -1,0 +1,40 @@
+{
+    "id": 6890,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6890",
+    "title": "Joan Miro in the Art Institute of Chicago",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1981-04-01T00:00:00-06:00",
+    "aic_end_at": "1981-06-28T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "3b19644e-5a86-94bc-b0f6-46f946788fb9",
+    "alt_image_ids": [
+        "43048fd1-f889-cc7f-6126-5a9d18440bfe",
+        "33c4a758-ba14-5b2f-51df-291f7170bdf8",
+        "5cdb1ea8-5c6c-85f0-99dd-efdb7c7c0d82"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joan Miro in the Art Institute of Chicago"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:16:27-06:00",
+    "timestamp": "2023-09-24T02:01:54-05:00"
+}

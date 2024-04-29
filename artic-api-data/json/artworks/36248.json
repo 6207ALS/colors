@@ -1,0 +1,168 @@
+{
+    "id": 36248,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/36248",
+    "is_boosted": false,
+    "title": "Noah's Ark",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFZnWGlnamtqa2p5cHh1eXh2eHl3eH19fHGDdH+BfYiGh4uNiaGgn6KtprWys83Pzdra2d7c3eLj4vLy8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFAQgbIkBoMAR9QMziQ9UAgAOw==",
+        "width": 1905,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1971.350",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1943,
+    "date_end": 1943,
+    "date_display": "1943",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Carl Milles\nAmerican, born Sweden, 1875\u20131955",
+    "place_of_origin": "Sweden",
+    "description": null,
+    "dimensions": "33 \u00d7 29.9 \u00d7 14.3 cm (13 \u00d7 11 3/4 \u00d7 5 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 14.3,
+            "depth_in": 5.625,
+            "width_cm": 29.9,
+            "width_in": 11.75,
+            "height_cm": 33,
+            "height_in": 13,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Alfred Shaw",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.2621,
+    "color": {
+        "h": 267,
+        "l": 45,
+        "s": 0,
+        "percentage": 0.2678874801051521,
+        "population": 2247
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35786,
+    "artist_title": "Carl Milles",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35786
+    ],
+    "artist_titles": [
+        "Carl Milles"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "sculpture",
+        "bronze",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "832849a8-cde4-6111-705e-94743f58d8f6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1971.350"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Noah's Ark"
+            ],
+            "weight": 102,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2023-04-07T11:55:45-05:00",
+    "timestamp": "2023-09-24T00:36:33-05:00"
+}

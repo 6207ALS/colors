@@ -1,0 +1,37 @@
+{
+    "id": 21371,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/21371",
+    "title": "Raphael-Schwartz",
+    "sort_title": "Raphael-Schwartz",
+    "alt_titles": [
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0428\u0432\u0430\u0440\u0446",
+        "Rafael' Shvarts",
+        "Rafael Schwartz",
+        "Raphael Schwartz"
+    ],
+    "is_artist": true,
+    "birth_date": 1874,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Raphael-Schwartz",
+            "Raphael-Schwartz",
+            "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0428\u0432\u0430\u0440\u0446",
+            "Rafael' Shvarts",
+            "Rafael Schwartz",
+            "Raphael Schwartz"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:39-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

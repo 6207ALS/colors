@@ -1,0 +1,28 @@
+{
+    "id": 1815,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/1815",
+    "title": "Lubin Baugin",
+    "sort_title": "Baugin, Lubin",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1612,
+    "death_date": 1663,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lubin Baugin",
+            "Baugin, Lubin"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-08-12T20:59:55-05:00",
+    "updated_at": "2020-08-12T21:01:04-05:00",
+    "timestamp": "2023-09-24T02:00:07-05:00"
+}

@@ -1,0 +1,171 @@
+{
+    "id": 108715,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/108715",
+    "is_boosted": false,
+    "title": "O'Hara Reading",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAOHc1uHd1uHe1uLg2OPh2uLi2uXi2uTj3OXj3ebj3eTj3uXk3efk3ubl3ufl3+jj3Onl3+fm4Ojl4Ojn4enn4eno4+vp5O/t6PHv6gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYEAUBwMxzTIYlzUNQoJRlRNZF4AoiPSEADs=",
+        "width": 3000,
+        "height": 2460,
+        "alt_text": "A work made of lithograph in brown on acetate."
+    },
+    "main_reference_number": "1982.920j",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1967,
+    "date_end": 1967,
+    "date_display": "1967",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Larry Rivers (American, 1923-2002)\npublished by Universal Limited Art Editions (American, founded 1955)",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "55 \u00d7 67.4 cm (21 11/16 \u00d7 26 9/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 67.4,
+            "width_in": 26.5355,
+            "height_cm": 55,
+            "height_in": 21.6536,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Lithograph in brown on acetate",
+    "inscriptions": null,
+    "credit_line": "U.L.A.E. Collection acquired through a challenge grant of Mr. and Mrs. Thomas Dittmer; purchased with funds provided by supporters of the Department of Prints and Drawings; Centennial Endowment; Margaret Fisher Endowment Fund",
+    "catalogue_display": "<p>Sparks 46 trial proof</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.7761,
+    "color": {
+        "h": 41,
+        "l": 67,
+        "s": 14,
+        "percentage": 0.004806759677466426,
+        "population": 28
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36398,
+    "artist_title": "Larry Rivers",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36398
+    ],
+    "artist_titles": [
+        "Larry Rivers"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "lithograph",
+        "archival material",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+        "TM-673",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-71",
+        "TM-673",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "lithograph",
+        "archival material",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "c64375b5-f801-2028-6eb7-17a38083f320",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1982.920j"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "O'Hara Reading"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:08-05:00",
+    "updated_at": "2023-04-10T11:19:03-05:00",
+    "timestamp": "2023-09-24T01:08:49-05:00"
+}

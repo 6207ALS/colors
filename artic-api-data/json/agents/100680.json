@@ -1,0 +1,37 @@
+{
+    "id": 100680,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/100680",
+    "title": "Zhang Yuzhao",
+    "sort_title": "Zhang Yuzhao",
+    "alt_titles": [
+        "Chang Lien-ch`ing",
+        "Chang Y\u00fc-chao",
+        "Cho Yusho",
+        "Zhang Lianqing"
+    ],
+    "is_artist": true,
+    "birth_date": 1823,
+    "death_date": 1894,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zhang Yuzhao",
+            "Zhang Yuzhao",
+            "Chang Lien-ch`ing",
+            "Chang Y\u00fc-chao",
+            "Cho Yusho",
+            "Zhang Lianqing"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-11-18T12:31:35-06:00",
+    "updated_at": "2022-11-18T12:35:53-06:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

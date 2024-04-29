@@ -1,0 +1,181 @@
+{
+    "id": 238581,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/238581",
+    "is_boosted": false,
+    "title": "Portrait of Mario",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAB4cHR8dHiIfICMgICcjIyckJSomJSsoKCwpKFVMQVlRRl1USGFVQmZbTXZqVwAAACH5BAAAAAAALAAAAAADAAUAAAQLsByU2GpOgSDIMBEAOw==",
+        "width": 1661,
+        "height": 2624,
+        "alt_text": "A work made of photo-etching on transparent film, mounted on black and white wove paper, with graphite and pen and black ink."
+    },
+    "main_reference_number": "2016.520",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1969,
+    "date_end": 1969,
+    "date_display": "1969",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Keith Smith\nAmerican, born 1938",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "Image: 6.8 \u00d7 9.8 cm (2 11/16 \u00d7 3 7/8 in.); Mount: 21.2 \u00d7 13.4 cm (8 3/8 \u00d7 5 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 9.8,
+            "width_in": 3.8583,
+            "height_cm": 6.8,
+            "height_in": 2.6772,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 13.4,
+            "width_in": 5.2756,
+            "height_cm": 21.2,
+            "height_in": 8.3465,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Mount"
+        }
+    ],
+    "medium_display": "Photo-etching on transparent film, mounted on black and white wove paper, with graphite and pen and black ink",
+    "inscriptions": null,
+    "credit_line": "Anonymous gift",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 20,
+    "fiscal_year": 2017,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 18.2747,
+    "color": {
+        "h": 37,
+        "l": 52,
+        "s": 23,
+        "percentage": 0.004007566285146356,
+        "population": 45
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Photography and Media",
+    "department_id": "PC-12",
+    "artist_id": 36725,
+    "artist_title": "Keith Smith",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36725
+    ],
+    "artist_titles": [
+        "Keith Smith"
+    ],
+    "category_ids": [
+        "PC-12",
+        "PC-13"
+    ],
+    "category_titles": [
+        "Photography and Media",
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "photoetching",
+        "paper (fiber product)",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-791",
+    "classification_title": "photoetching",
+    "alt_classification_ids": [
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-791",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "photoetching",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f4d68031-37c7-2e07-387a-f3c950e4b0eb",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.520"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Portrait of Mario"
+            ],
+            "weight": 6,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T14:59:18-05:00",
+    "timestamp": "2023-09-24T01:52:42-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 33951,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33951",
+    "title": "Daniel Chester French",
+    "sort_title": "French, Daniel Chester",
+    "alt_titles": [
+        "Daniel C. French"
+    ],
+    "is_artist": true,
+    "birth_date": 1850,
+    "death_date": 1931,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Daniel Chester French",
+            "French, Daniel Chester",
+            "Daniel C. French"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:54-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

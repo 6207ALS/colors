@@ -1,0 +1,180 @@
+{
+    "id": 182752,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/182752",
+    "is_boosted": false,
+    "title": "London Characters The Park Keeper",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABkQBQ4QERIRER8mITEwJ1UuFX57aaCUfKiXjbe1o720p7qzqLu7rcGunNjWygAAACH5BAAAAAAALAAAAAADAAUAAAQLcLHTVCrIAWJEGBEAOw==",
+        "width": 1690,
+        "height": 2517,
+        "alt_text": "A work made of color lithograph on cream wove paper."
+    },
+    "main_reference_number": "1920.314",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1920,
+    "date_end": 1920,
+    "date_display": "July 24, 1920",
+    "date_qualifier_title": "Published",
+    "date_qualifier_id": 10,
+    "artist_display": "Elijah Albert Cox (English, 1876-1955)\nprinted by The Avenue Press Limited\npublished by Underground Electric Railways Company of London Limited",
+    "place_of_origin": "England",
+    "description": null,
+    "dimensions": "75.3 \u00d7 49.3 cm (29 11/16 \u00d7 19 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 49.3,
+            "width_in": 19.4095,
+            "height_cm": 75.3,
+            "height_in": 29.6457,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color lithograph on cream wove paper",
+    "inscriptions": null,
+    "credit_line": "The Art Institute of Chicago",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 39.7286,
+    "color": {
+        "h": 12,
+        "l": 43,
+        "s": 89,
+        "percentage": 0.0005671265117466079,
+        "population": 6
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34058,
+    "artist_title": "E. Albert Cox",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        34058
+    ],
+    "artist_titles": [
+        "E. Albert Cox"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "poster",
+        "paper (fiber product)",
+        "printing process",
+        "lithograph",
+        "prints and drawing",
+        "print"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-220",
+    "classification_title": "poster",
+    "alt_classification_ids": [
+        "TM-2171",
+        "TM-71",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_ids": [
+        "TM-220",
+        "TM-2171",
+        "TM-71",
+        "TM-4",
+        "TM-17"
+    ],
+    "classification_titles": [
+        "poster",
+        "printing process",
+        "lithograph",
+        "prints and drawing",
+        "print"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f6029ec7-dedd-48b4-3d0e-aa95d3b9a6f4",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1920.314"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "London Characters The Park Keeper"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:20-05:00",
+    "updated_at": "2023-04-07T16:15:55-05:00",
+    "timestamp": "2023-09-24T01:33:58-05:00"
+}

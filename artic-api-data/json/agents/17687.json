@@ -1,0 +1,31 @@
+{
+    "id": 17687,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/17687",
+    "title": "Charles Leonard Morgan",
+    "sort_title": "Morgan, Charles Leonard",
+    "alt_titles": [
+        "Charles L. Morgan"
+    ],
+    "is_artist": true,
+    "birth_date": 1890,
+    "death_date": 1947,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Leonard Morgan",
+            "Morgan, Charles Leonard",
+            "Charles L. Morgan"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-10-20T16:01:29-05:00",
+    "updated_at": "2021-10-20T16:05:56-05:00",
+    "timestamp": "2023-09-24T02:00:12-05:00"
+}

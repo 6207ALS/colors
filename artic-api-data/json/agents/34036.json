@@ -1,0 +1,31 @@
+{
+    "id": 34036,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34036",
+    "title": "Carlotta Corpron",
+    "sort_title": "Corpron, Carlotta",
+    "alt_titles": [
+        "Carlotta M. Corpron"
+    ],
+    "is_artist": true,
+    "birth_date": 1901,
+    "death_date": 1988,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Carlotta Corpron",
+            "Corpron, Carlotta",
+            "Carlotta M. Corpron"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:39:28-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

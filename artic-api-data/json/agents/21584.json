@@ -1,0 +1,35 @@
+{
+    "id": 21584,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/21584",
+    "title": "Rene Lalique et Cie.",
+    "sort_title": "Ren\u00e9 Lalique et Cie.",
+    "alt_titles": [
+        "Lalique et cie.",
+        "Lalique (Ren\u00e9) et cie.",
+        "Ren\u00e9 Lalique & cie."
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rene Lalique et Cie.",
+            "Ren\u00e9 Lalique et Cie.",
+            "Lalique et cie.",
+            "Lalique (Ren\u00e9) et cie.",
+            "Ren\u00e9 Lalique & cie."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:12:31-05:00",
+    "timestamp": "2023-09-24T02:00:13-05:00"
+}

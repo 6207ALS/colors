@@ -1,0 +1,31 @@
+{
+    "id": 41444,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41444",
+    "title": "Michael Kock",
+    "sort_title": "Kock, Michael",
+    "alt_titles": [
+        "Michael Koeck"
+    ],
+    "is_artist": true,
+    "birth_date": 1760,
+    "death_date": 1825,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Michael Kock",
+            "Kock, Michael",
+            "Michael Koeck"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:34:02-05:00",
+    "timestamp": "2023-09-24T02:00:23-05:00"
+}

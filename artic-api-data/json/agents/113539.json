@@ -1,0 +1,31 @@
+{
+    "id": 113539,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/113539",
+    "title": "Frank Beard",
+    "sort_title": "Beard, Frank",
+    "alt_titles": [
+        "Thomas Francis Beard"
+    ],
+    "is_artist": true,
+    "birth_date": 1842,
+    "death_date": 1905,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frank Beard",
+            "Beard, Frank",
+            "Thomas Francis Beard"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:45:28-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

@@ -1,0 +1,175 @@
+{
+    "id": 50483,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/50483",
+    "is_boosted": false,
+    "title": "Panel",
+    "alt_titles": [],
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALCfoq6ho7CipLGkpLelpbikpLSmqbenqb2rrLytrb2trsCrq8CsrcGursGxrwAAACH5BAAAAAAALAAAAAADAAUAAAQL8ADTElqFOaJGEBEAOw==",
+        "width": 513,
+        "height": 768,
+        "alt_text": "A work made of cotton, plain weave; block printed."
+    },
+    "main_reference_number": "1976.85",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1775,
+    "date_end": 1800,
+    "date_display": "1775/1800",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "France",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "113.9 \u00d7 112 cm (44 7/8 \u00d7 44 1/8 in.); Warp repeat: H.: 59.2 cm (23 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 112,
+            "width_in": 44.125,
+            "height_cm": 113.9,
+            "height_in": 44.875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 0,
+            "width_in": 0,
+            "height_cm": 59.2,
+            "height_in": 23.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Warp repeat"
+        }
+    ],
+    "medium_display": "Cotton, plain weave; block printed",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by Mrs. Julian Armstrong, Jr.",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Art Institute of Chicago, Selected Textile Acquisitions Since 1973, Dec. 15, 1977\u2013Mar. 26, 1978.",
+    "provenance_text": "Elinor Merrell (died 1993), Elinor Merrell Antiques, New York, by 1976 [invoice, Apr. 29, 1976; permanent receipt RX10586, May 7, 1976, in curatorial object file, Textiles Department]; sold to the Art Institute of Chicago, 1976",
+    "edition": null,
+    "publishing_verification_level": "Web Everything",
+    "internal_department_id": 4,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 37.9063,
+    "color": {
+        "h": 351,
+        "l": 46,
+        "s": 53,
+        "percentage": 0.0032898880122120646,
+        "population": 35
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Textile",
+    "artwork_type_id": 5,
+    "department_title": "Textiles",
+    "department_id": "PC-14",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+        "PC-14"
+    ],
+    "category_titles": [
+        "Textiles"
+    ],
+    "term_titles": [
+        "block printing",
+        "textile",
+        "weaving - printed"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-69",
+    "classification_title": "textile",
+    "alt_classification_ids": [
+        "TM-353"
+    ],
+    "classification_ids": [
+        "TM-69",
+        "TM-353"
+    ],
+    "classification_titles": [
+        "textile",
+        "weaving - printed"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-3942",
+    "alt_technique_ids": [],
+    "technique_ids": [
+        "TM-3942"
+    ],
+    "technique_titles": [
+        "block printing"
+    ],
+    "theme_titles": [],
+    "image_id": "c78ff226-b388-6e93-3eda-382b35372662",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1976.85"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Panel"
+            ],
+            "weight": 8,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-21T10:21:46-05:00",
+    "updated_at": "2023-07-21T10:25:50-05:00",
+    "timestamp": "2023-09-24T00:42:45-05:00"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 40613,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40613",
+    "title": "Hubert Goltzius",
+    "sort_title": "Goltzius, Hubert",
+    "alt_titles": [
+        "Hubrecht Goltzius",
+        "Hubrecht Goltz",
+        "Hubert Goltz",
+        "Hubertus Goltzius"
+    ],
+    "is_artist": true,
+    "birth_date": 1526,
+    "death_date": 1583,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hubert Goltzius",
+            "Goltzius, Hubert",
+            "Hubrecht Goltzius",
+            "Hubrecht Goltz",
+            "Hubert Goltz",
+            "Hubertus Goltzius"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-11-17T13:02:20-06:00",
+    "updated_at": "2022-03-15T16:41:30-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

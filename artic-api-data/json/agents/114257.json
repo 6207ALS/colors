@@ -1,0 +1,31 @@
+{
+    "id": 114257,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/114257",
+    "title": "Daniel M\u00fcller",
+    "sort_title": "M\u00fcller, Daniel",
+    "alt_titles": [
+        "M\u00fcller & Brothers Carousel Company"
+    ],
+    "is_artist": true,
+    "birth_date": 1872,
+    "death_date": 1951,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Daniel M\u00fcller",
+            "M\u00fcller, Daniel",
+            "M\u00fcller & Brothers Carousel Company"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-08-28T11:53:29-05:00",
+    "updated_at": "2022-03-15T16:45:44-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

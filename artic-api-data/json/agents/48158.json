@@ -1,0 +1,35 @@
+{
+    "id": 48158,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/48158",
+    "title": "Pierre-Charles Canot",
+    "sort_title": "Canot, Pierre-Charles",
+    "alt_titles": [
+        "Pierre-C. Canot",
+        "Pierre Cannot",
+        "Pierre Charles Canot"
+    ],
+    "is_artist": true,
+    "birth_date": 1710,
+    "death_date": 1777,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre-Charles Canot",
+            "Canot, Pierre-Charles",
+            "Pierre-C. Canot",
+            "Pierre Cannot",
+            "Pierre Charles Canot"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:57:01-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

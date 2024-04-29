@@ -1,0 +1,191 @@
+{
+    "id": 34161,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/34161",
+    "is_boosted": false,
+    "title": "Writing Stand",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMKUaM2og9rItd/QweHa1uPc1+/m2+/v7/Ht5/Hu7PPy8vX09Pb09Pb19fX29/f4+/j4+Pj5+fj6+vv9/QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoPMkDRIAhiQMk1IQBwNFSwgAOw==",
+        "width": 1688,
+        "height": 2250,
+        "alt_text": "A work made of easterrn white pine and soft maple."
+    },
+    "main_reference_number": "1970.419",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1835,
+    "date_end": 1870,
+    "date_display": "1835\u201370",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Artist unknown (American, 19th century)\nNew England",
+    "place_of_origin": "New England",
+    "description": null,
+    "dimensions": "81.6 \u00d7 50.5 \u00d7 49.5 cm (32 1/8 \u00d7 19 7/8 \u00d7 19 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 49.5,
+            "depth_in": 19.5,
+            "width_cm": 50.5,
+            "width_in": 19.875,
+            "height_cm": 81.6,
+            "height_in": 32.125,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Easterrn white pine and soft maple",
+    "inscriptions": null,
+    "credit_line": "Bessie Bennett Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 36.8099,
+    "color": {
+        "h": 41,
+        "l": 68,
+        "s": 83,
+        "percentage": 0.0041159559782677525,
+        "population": 39
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Furniture",
+    "artwork_type_id": 6,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 114854,
+    "artist_title": "Artist unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        114854
+    ],
+    "artist_titles": [
+        "Artist unknown"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "desk",
+        "pine",
+        "Folk Art",
+        "furniture",
+        "maple",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "style_id": "TM-12125",
+    "style_title": "Folk Art",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12125"
+    ],
+    "style_titles": [
+        "Folk Art"
+    ],
+    "classification_id": "TM-306",
+    "classification_title": "desk",
+    "alt_classification_ids": [
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-306",
+        "TM-76",
+        "TM-2190",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "desk",
+        "furniture",
+        "american decorative arts",
+        "american arts"
+    ],
+    "subject_id": "TM-9132",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-9132"
+    ],
+    "subject_titles": [
+        "furniture"
+    ],
+    "material_id": "TM-3636",
+    "alt_material_ids": [
+        "TM-3584"
+    ],
+    "material_ids": [
+        "TM-3636",
+        "TM-3584"
+    ],
+    "material_titles": [
+        "pine",
+        "maple"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "dc94d631-e9e9-c8bc-320f-4f656a067fb1",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1970.419"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Writing Stand"
+            ],
+            "weight": 79,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-27T15:45:58-05:00",
+    "updated_at": "2023-06-27T15:47:46-05:00",
+    "timestamp": "2023-09-24T00:35:37-05:00"
+}

@@ -1,0 +1,167 @@
+{
+    "id": 158891,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/158891",
+    "is_boosted": false,
+    "title": "20 Years of Solitude",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACspJ0M/O0xHQUdIR11bV2BgXn16d4+RkpiZmbi2s7y9u8fEwMjFws/PzNfV1N3Z1ODe3OPg3eLi4eLj4ejm4unq6+3s6/Hx8fb29gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoNRAFjYVA3IpBHBUiRAYDvUwSxQCADs=",
+        "width": 5700,
+        "height": 6000,
+        "alt_text": "A work made of white gouache on gelatin silver prints, cut torn and tipped together."
+    },
+    "main_reference_number": "2001.716",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1993,
+    "date_end": 1993,
+    "date_display": "1993",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Anselm Kiefer\nGerman, born 1945",
+    "place_of_origin": "Germany",
+    "description": null,
+    "dimensions": "Sight: 82 \u00d7 57.7 cm (32 5/16 \u00d7 22 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 57.7,
+            "width_in": 22.7166,
+            "height_cm": 82,
+            "height_in": 32.2835,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sight"
+        }
+    ],
+    "medium_display": "White gouache on gelatin silver prints, cut torn and tipped together",
+    "inscriptions": null,
+    "credit_line": "Gift of Susan and Lewis Manilow",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2007,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 6.1408,
+    "color": {
+        "h": 176,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.025409867855313534,
+        "population": 190
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 31711,
+    "artist_title": "Anselm Kiefer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        31711
+    ],
+    "artist_titles": [
+        "Anselm Kiefer"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "gouache",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-221",
+    "classification_title": "gouache",
+    "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-221",
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "gouache",
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "211ad926-a23c-4041-2e5a-375069c5540c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2001.716"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "20 Years of Solitude"
+            ],
+            "weight": 3741,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:23:38-05:00",
+    "timestamp": "2023-09-24T01:32:06-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 115103,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/115103",
+    "title": "Katsukawa Shunko",
+    "sort_title": "Katsukawa Shunko",
+    "alt_titles": [
+        "\u52dd\u5ddd \u6625\u5149"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Katsukawa Shunko",
+            "Katsukawa Shunko",
+            "\u52dd\u5ddd \u6625\u5149"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:09-05:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

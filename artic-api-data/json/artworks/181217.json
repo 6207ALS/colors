@@ -1,0 +1,176 @@
+{
+    "id": 181217,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/181217",
+    "is_boosted": false,
+    "title": "Unknown (Figure)",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKR5RqV9UKuET6qFUa+JU6+LV62EWq+JWK6MXa2RWLOSXLeWXrGParCRYbWTYrSXYbaXYreZYL2bYbqYZL+fZr2aaLubcb+cdL+hbMKdY8CfcMCcc8ekacKshQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4LVZSOFo1SIADfcEBtNlynAQE0ZJUQKFADs=",
+        "width": 3000,
+        "height": 2314,
+        "alt_text": "A work made of pen and black ink and watercolor on tan wove paper."
+    },
+    "main_reference_number": "2003.605",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1946,
+    "date_end": 1946,
+    "date_display": "1946",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Paul Wieghardt\nAmerican, born Germany, 1897-1969",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "38.6 \u00d7 50.6 cm (15 1/4 \u00d7 19 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 50.6,
+            "width_in": 19.9213,
+            "height_cm": 38.6,
+            "height_in": 15.1969,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Pen and black ink and watercolor on tan wove paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Louise H. Landau",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2004,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.0761,
+    "color": {
+        "h": 37,
+        "l": 46,
+        "s": 39,
+        "percentage": 0.038872159868601146,
+        "population": 213
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 28522,
+    "artist_title": "Paul Wieghardt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        28522
+    ],
+    "artist_titles": [
+        "Paul Wieghardt"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "prints and drawing",
+        "drawings (visual works)",
+        "watercolor"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-212",
+    "classification_title": "pen and ink drawings",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-5",
+        "TM-39"
+    ],
+    "classification_ids": [
+        "TM-212",
+        "TM-4",
+        "TM-5",
+        "TM-39"
+    ],
+    "classification_titles": [
+        "pen and ink drawings",
+        "prints and drawing",
+        "drawings (visual works)",
+        "watercolor"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6269ea08-f243-61e5-6e10-8940c678fb36",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2003.605"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Unknown (Figure)"
+            ],
+            "weight": 115,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:19-05:00",
+    "updated_at": "2023-04-07T16:18:28-05:00",
+    "timestamp": "2023-09-24T01:33:25-05:00"
+}

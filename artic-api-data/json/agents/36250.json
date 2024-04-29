@@ -1,0 +1,31 @@
+{
+    "id": 36250,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36250",
+    "title": "Adolphe Martial Pot\u00e9mont",
+    "sort_title": "Pot\u00e9mont, Adolphe Martial",
+    "alt_titles": [
+        "Adolphe Th\u00e9odore Jules Martial Potemont"
+    ],
+    "is_artist": true,
+    "birth_date": 1828,
+    "death_date": 1883,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Adolphe Martial Pot\u00e9mont",
+            "Pot\u00e9mont, Adolphe Martial",
+            "Adolphe Th\u00e9odore Jules Martial Potemont"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:34:29-05:00",
+    "timestamp": "2023-09-24T02:00:20-05:00"
+}

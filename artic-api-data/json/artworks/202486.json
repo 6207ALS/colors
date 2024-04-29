@@ -1,0 +1,172 @@
+{
+    "id": 202486,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202486",
+    "is_boosted": false,
+    "title": "Pumpkin",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEQyI1ZHL15BME5VN0hlPXBcS19namNqbWxtbHVuaHZ2d3l5eX57eY1OLpJPL4hfOZ9wS612RYF1bJt7Yq+AYeWDRe+DQOuERuiJR+yIRuiNT/COSvGTT+SQUQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIHIk0sIYU6dRSoFx2yVAVlY5wfBEDUCEADs=",
+        "width": 2520,
+        "height": 2250,
+        "alt_text": "A work made of painted bronze; edition number one of two."
+    },
+    "main_reference_number": "2017.432",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1998,
+    "date_end": 1998,
+    "date_display": "1998",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Tony Tasset\nAmerican, born 1960",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "88.9 \u00d7 99.1 \u00d7 99.1 cm (35 \u00d7 39 \u00d7 39 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 99.1,
+            "depth_in": 39,
+            "width_cm": 99.1,
+            "width_in": 39,
+            "height_cm": 88.9,
+            "height_in": 35,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Painted bronze; edition number one of two",
+    "inscriptions": null,
+    "credit_line": "Gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2018,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 85.7332,
+    "color": {
+        "h": 127,
+        "l": 60,
+        "s": 42,
+        "percentage": 0.0015753514215183552,
+        "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 37470,
+    "artist_title": "Tony Tasset",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        37470
+    ],
+    "artist_titles": [
+        "Tony Tasset"
+    ],
+    "category_ids": [
+        "PC-834",
+        "PC-154",
+        "PC-8"
+    ],
+    "category_titles": [
+        "Halloween",
+        "Chicago Artists",
+        "Contemporary Art"
+    ],
+    "term_titles": [
+        "pumpkin",
+        "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": null,
+    "classification_title": null,
+    "alt_classification_ids": [
+        "TM-13"
+    ],
+    "classification_ids": [
+        "TM-13"
+    ],
+    "classification_titles": [
+        "sculpture"
+    ],
+    "subject_id": "TM-14444",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-14444"
+    ],
+    "subject_titles": [
+        "pumpkin"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Halloween",
+        "Chicago Artists"
+    ],
+    "image_id": "2afc6fc7-6689-e5b7-924f-e18a01e0dfd5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2017.432"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Pumpkin"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-15T15:33:44-05:00",
+    "updated_at": "2023-09-15T15:35:53-05:00",
+    "timestamp": "2023-09-24T01:40:41-05:00"
+}

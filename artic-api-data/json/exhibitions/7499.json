@@ -1,0 +1,56 @@
+{
+    "id": 7499,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7499",
+    "title": "John Singer Sargent",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1987-02-07T00:00:00-06:00",
+    "aic_end_at": "1987-04-19T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "9f0ba0c7-02a1-ebe8-7db6-d519c95c193c",
+    "alt_image_ids": [
+        "a92e473b-e26b-1e54-e45c-655b94cc6117",
+        "6d9ab65c-b612-658a-9815-b49f97a9c81c",
+        "7265b47d-b380-4cfc-aa8c-78651ec4354e",
+        "d7c41915-9756-7004-44ff-4b9b0b146135",
+        "44ec7890-5765-d1ab-7d91-e382ebcffdec",
+        "d84c8406-29ee-b2b1-93c9-cc82f39364ab",
+        "8834cb21-4ceb-cc43-2a9e-d6028b9ce313",
+        "d5af8b84-33f4-7511-063c-b3de64b4ec3f",
+        "74e7e97d-959d-e563-e139-b43f59066341",
+        "ba10ca85-412a-4f9a-8817-9f0daf13afed",
+        "b91df481-a603-b893-9d61-8b8830087ab1",
+        "2bec342c-d66c-3394-9b53-6712d34cce1b",
+        "bb5d2dab-b72d-cc39-fe6f-6d4b0a84c323",
+        "e30e717f-3ad4-10e7-52eb-012cef5ea42f",
+        "d23c32f4-4a13-3162-d38f-81989ce65719",
+        "3240ed30-1f97-1400-7d67-7277cd658577",
+        "01cbbeef-a7a0-e8f6-0e21-a6a657fd3ba2",
+        "bc2510d3-e03f-e088-a125-4c7022ff20b0",
+        "b143f8ef-f4f4-ec07-f994-788dd009c008"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Singer Sargent"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-12-31T15:36:52-06:00",
+    "updated_at": "2020-01-08T01:43:08-06:00",
+    "timestamp": "2023-09-24T02:02:03-05:00"
+}

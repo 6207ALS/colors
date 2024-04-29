@@ -1,0 +1,185 @@
+{
+    "id": 30284,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/30284",
+    "is_boosted": false,
+    "title": "Morning",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADUvJ1dPQVlSRmRZSm1kU3dtW4h/co2EdJKJeZWKfJiNfpmQf5uQgJySgaGYiK2ikLitncG2pMO5qMe9qQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYKQkEDMARlMICxIQx/Q4UggAOw==",
+        "width": 2306,
+        "height": 3000,
+        "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1926.996",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1758,
+    "date_end": 1815,
+    "date_display": "n.d.",
+    "date_qualifier_title": "Artist's working dates",
+    "date_qualifier_id": 15,
+    "artist_display": "Emmanuel Jean Nepomucene de Ghendt (French, 1738-1815)\nafter Pierre-Antoine Baudouin (French, 1723-1769)",
+    "place_of_origin": "France",
+    "description": null,
+    "dimensions": "Image: 27 \u00d7 20 cm (10 11/16 \u00d7 7 7/8 in.); Sheet: 34.6 \u00d7 26.5 cm (13 5/8 \u00d7 10 7/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 20,
+            "width_in": 7.8741,
+            "height_cm": 27,
+            "height_in": 10.63,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Image"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 26.5,
+            "width_in": 10.4331,
+            "height_cm": 34.6,
+            "height_in": 13.6221,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of the Print and Drawing Club",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 15.6177,
+    "color": {
+        "h": 37,
+        "l": 27,
+        "s": 14,
+        "percentage": 0.04768748154948631,
+        "population": 441
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 9583,
+    "artist_title": "Emmanuel Jean Nepomucene de Ghendt",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        9583
+    ],
+    "artist_titles": [
+        "Emmanuel Jean Nepomucene de Ghendt"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "25dd9cd5-673a-17ba-856d-19d8a364c526",
+    "alt_image_ids": [
+        "df19e4fe-36b8-1d68-e498-35f08c9ffb63"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1926.996"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Morning"
+            ],
+            "weight": 211,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:51-05:00",
+    "updated_at": "2023-04-10T14:03:28-05:00",
+    "timestamp": "2023-09-24T00:33:55-05:00"
+}

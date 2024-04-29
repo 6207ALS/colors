@@ -1,0 +1,35 @@
+{
+    "id": 34042,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34042",
+    "title": "Colyn de Coter",
+    "sort_title": "Coter, Colyn de",
+    "alt_titles": [
+        "Colijn de Coter",
+        "Colin de Coter",
+        "Colyn De Coter"
+    ],
+    "is_artist": true,
+    "birth_date": 1450,
+    "death_date": 1540,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Colyn de Coter",
+            "Coter, Colyn de",
+            "Colijn de Coter",
+            "Colin de Coter",
+            "Colyn De Coter"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:39:27-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

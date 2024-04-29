@@ -1,0 +1,57 @@
+{
+    "id": 40543,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40543",
+    "title": "Hilaire Germain Edgar Degas",
+    "sort_title": "Degas, Hilaire Germain Edgar",
+    "alt_titles": [
+        "Edgar Degas",
+        "Hilaire Germain Edgard Degas",
+        "Edgar (Hilaire Germain) Degas",
+        "Edgar Germaine Hilaire Degas",
+        "Hilaire Germain Edgar De Gas",
+        "Hilaire Germain Edgar De Gas",
+        "\u57c3\u5fb7\u52a0\u00b7\u5fb7\u52a0"
+    ],
+    "is_artist": true,
+    "birth_date": 1834,
+    "death_date": 1917,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Hilaire Germain Edgar Degas",
+            "Degas, Hilaire Germain Edgar",
+            "Edgar Degas",
+            "Hilaire Germain Edgard Degas",
+            "Edgar (Hilaire Germain) Degas",
+            "Edgar Germaine Hilaire Degas",
+            "Hilaire Germain Edgar De Gas",
+            "Hilaire Germain Edgar De Gas",
+            "\u57c3\u5fb7\u52a0\u00b7\u5fb7\u52a0"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hilaire Germain Edgar Degas",
+            "Degas, Hilaire Germain Edgar",
+            "Edgar Degas",
+            "Hilaire Germain Edgard Degas",
+            "Edgar (Hilaire Germain) Degas",
+            "Edgar Germaine Hilaire Degas",
+            "Hilaire Germain Edgar De Gas",
+            "Hilaire Germain Edgar De Gas",
+            "\u57c3\u5fb7\u52a0\u00b7\u5fb7\u52a0"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-06-13T14:39:54-05:00",
+    "updated_at": "2022-03-15T16:41:07-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

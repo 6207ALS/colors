@@ -1,0 +1,37 @@
+{
+    "id": 36044,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/36044",
+    "title": "James Northcote",
+    "sort_title": "Northcote, James",
+    "alt_titles": [
+        "Thomas James Northcote",
+        "James Northcote, R.A.",
+        "James Northcoat",
+        "James Northcoate"
+    ],
+    "is_artist": true,
+    "birth_date": 1746,
+    "death_date": 1831,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Northcote",
+            "Northcote, James",
+            "Thomas James Northcote",
+            "James Northcote, R.A.",
+            "James Northcoat",
+            "James Northcoate"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:38:49-05:00",
+    "timestamp": "2023-09-24T02:00:19-05:00"
+}

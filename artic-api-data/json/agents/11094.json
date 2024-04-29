@@ -1,0 +1,33 @@
+{
+    "id": 11094,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/11094",
+    "title": "William Stanley Haseltine",
+    "sort_title": "Haseltine, William Stanley",
+    "alt_titles": [
+        "William S. Haseltine",
+        "William Stanley Haseltine, N.A."
+    ],
+    "is_artist": true,
+    "birth_date": 1835,
+    "death_date": 1900,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Stanley Haseltine",
+            "Haseltine, William Stanley",
+            "William S. Haseltine",
+            "William Stanley Haseltine, N.A."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-06T10:02:50-05:00",
+    "updated_at": "2023-07-06T10:05:49-05:00",
+    "timestamp": "2023-09-24T02:00:10-05:00"
+}

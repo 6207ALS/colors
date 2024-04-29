@@ -1,0 +1,176 @@
+{
+    "id": 18388,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18388",
+    "is_boosted": false,
+    "title": "Torso",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADw5NkE9OV1aWXVyc3ZzdH59goaFhYeGhJybm6Khn6+urbCwr7e3t87PztbX2AAAACH5BAAAAAAALAAAAAADAAUAAAQLkIxygkkAMbGcahEAOw==",
+        "width": 1456,
+        "height": 2250,
+        "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1934.92",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1922,
+    "date_end": 1922,
+    "date_display": "1922",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mario J. Korbel\nAmerican, born Czechoslovakia, 1882\u20131954",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "61 \u00d7 30.5 \u00d7 20.3 cm (24 1/2 \u00d7 12 \u00d7 8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 20.3,
+            "depth_in": 8,
+            "width_cm": 30.5,
+            "width_in": 12,
+            "height_cm": 61,
+            "height_in": 24.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Bronze",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Blanche Gresham Giddens, in memory of Louis Michael Stumer by his wife and children",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": 1934,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 4.45,
+    "color": {
+        "h": 290,
+        "l": 45,
+        "s": 1,
+        "percentage": 0.12299383938333748,
+        "population": 1351
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35324,
+    "artist_title": "Mario J. Korbel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35324
+    ],
+    "artist_titles": [
+        "Mario J. Korbel"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "bronze",
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-28",
+    "classification_title": "bronze",
+    "alt_classification_ids": [
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_ids": [
+        "TM-28",
+        "TM-33",
+        "TM-13",
+        "TM-155"
+    ],
+    "classification_titles": [
+        "bronze",
+        "metal",
+        "sculpture",
+        "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2430"
+    ],
+    "material_titles": [
+        "bronze"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4cebbc51-b185-8efb-21d9-05dbc8ef56e8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1934.92"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Torso"
+            ],
+            "weight": 105,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-09-13T15:22:39-05:00",
+    "updated_at": "2023-09-13T15:25:54-05:00",
+    "timestamp": "2023-09-24T00:27:38-05:00"
+}

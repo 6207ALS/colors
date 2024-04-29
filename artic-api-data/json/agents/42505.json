@@ -1,0 +1,31 @@
+{
+    "id": 42505,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/42505",
+    "title": "Giovanni Battista Tinti",
+    "sort_title": "Tinti, Giovanni Battista",
+    "alt_titles": [
+        "Giambattista Tinti"
+    ],
+    "is_artist": true,
+    "birth_date": 1558,
+    "death_date": 1604,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Giovanni Battista Tinti",
+            "Tinti, Giovanni Battista",
+            "Giambattista Tinti"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:42:44-05:00",
+    "timestamp": "2023-09-24T02:00:24-05:00"
+}

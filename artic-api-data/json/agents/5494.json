@@ -1,0 +1,35 @@
+{
+    "id": 5494,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5494",
+    "title": "Frans Crabbe van Esplegem",
+    "sort_title": "Crabbe van Esplegem, Frans",
+    "alt_titles": [
+        "Frans Crabbe van Espleghem",
+        "Frans Crabbe van Esplegem, (The Crayfish Master)",
+        "Frans Crabbe van Espleghem, (Master of the Crab)"
+    ],
+    "is_artist": true,
+    "birth_date": 1480,
+    "death_date": 1552,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frans Crabbe van Esplegem",
+            "Crabbe van Esplegem, Frans",
+            "Frans Crabbe van Espleghem",
+            "Frans Crabbe van Esplegem, (The Crayfish Master)",
+            "Frans Crabbe van Espleghem, (Master of the Crab)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:48:06-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

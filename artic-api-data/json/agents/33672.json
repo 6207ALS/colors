@@ -1,0 +1,51 @@
+{
+    "id": 33672,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/33672",
+    "title": "Peter Blume",
+    "sort_title": "Blume, Peter",
+    "alt_titles": [
+        "Piotr Sorckshabel",
+        "Piotar Blum",
+        "Piter Blume",
+        "\u041f\u0451\u0442\u0440 \u0411\u043b\u0443\u043c",
+        "\u041f\u0438\u0442\u0435\u0440 \u0411\u043b\u0443\u043c"
+    ],
+    "is_artist": true,
+    "birth_date": 1906,
+    "death_date": 1992,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Peter Blume",
+            "Blume, Peter",
+            "Piotr Sorckshabel",
+            "Piotar Blum",
+            "Piter Blume",
+            "\u041f\u0451\u0442\u0440 \u0411\u043b\u0443\u043c",
+            "\u041f\u0438\u0442\u0435\u0440 \u0411\u043b\u0443\u043c"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Peter Blume",
+            "Blume, Peter",
+            "Piotr Sorckshabel",
+            "Piotar Blum",
+            "Piter Blume",
+            "\u041f\u0451\u0442\u0440 \u0411\u043b\u0443\u043c",
+            "\u041f\u0438\u0442\u0435\u0440 \u0411\u043b\u0443\u043c"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-26T10:29:52-05:00",
+    "updated_at": "2023-07-26T10:30:54-05:00",
+    "timestamp": "2023-09-24T02:00:17-05:00"
+}

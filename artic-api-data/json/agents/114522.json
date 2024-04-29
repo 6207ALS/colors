@@ -1,0 +1,28 @@
+{
+    "id": 114522,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/114522",
+    "title": "Theresa Burga",
+    "sort_title": "Burga, Theresa",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1935,
+    "death_date": 2021,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Theresa Burga",
+            "Burga, Theresa"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2021-02-12T08:58:12-06:00",
+    "updated_at": "2021-02-12T09:00:50-06:00",
+    "timestamp": "2023-09-24T02:00:37-05:00"
+}

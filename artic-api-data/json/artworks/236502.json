@@ -1,0 +1,160 @@
+{
+    "id": 236502,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/236502",
+    "is_boosted": false,
+    "title": "Painting of Madame X",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC8sHBYgIxojJR8mJx4pLRooMS8sIistKSoxLzo1JkAxJUI3JEg3Lkk5LlBEOyo5RilAU1RNTmFMQH5oWgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURILAYRDI5AiI1waAwxfFEUAgAOw==",
+        "width": 5024,
+        "height": 6224,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "2016.92",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1927,
+    "date_end": 1930,
+    "date_display": "1927/30",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Francis Picabia\nFrench, 1879-1953",
+    "place_of_origin": null,
+    "description": null,
+    "dimensions": "81.3 \u00d7 64.8 cm (32 \u00d7 25 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 64.8,
+            "width_in": 25.5,
+            "height_cm": 81.3,
+            "height_in": 32,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of The Leonard and Ruth Horwich Family Foundation",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": 2016,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "\u00a9 2017 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 31.4229,
+    "color": {
+        "h": 199,
+        "l": 42,
+        "s": 68,
+        "percentage": 0.007885733468967948,
+        "population": 70
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 396",
+    "gallery_id": 25478,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Modern Art",
+    "department_id": "PC-11",
+    "artist_id": 36197,
+    "artist_title": "Francis Picabia",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36197
+    ],
+    "artist_titles": [
+        "Francis Picabia"
+    ],
+    "category_ids": [
+        "PC-11"
+    ],
+    "category_titles": [
+        "Modern Art"
+    ],
+    "term_titles": [
+        "painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [],
+    "classification_ids": [
+        "TM-9"
+    ],
+    "classification_titles": [
+        "painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e5566e0d-cd24-b2b9-4cf2-e4e4b6d92e8c",
+    "alt_image_ids": [
+        "7948930d-07fd-1dac-1f7e-b2a1df005979"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2016.92"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Painting of Madame X"
+            ],
+            "weight": 1043,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:33-05:00",
+    "updated_at": "2023-04-07T15:02:12-05:00",
+    "timestamp": "2023-09-24T01:52:07-05:00"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 32075,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/32075",
+    "title": "Mount Washington Glass Works",
+    "sort_title": "Mount Washington Glass Works",
+    "alt_titles": [
+        "Mount Washington Glass Co."
+    ],
+    "is_artist": true,
+    "birth_date": 1837,
+    "death_date": 1900,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mount Washington Glass Works",
+            "Mount Washington Glass Works",
+            "Mount Washington Glass Co."
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:07:07-05:00",
+    "timestamp": "2023-09-24T02:00:16-05:00"
+}

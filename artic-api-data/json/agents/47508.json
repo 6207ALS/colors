@@ -1,0 +1,37 @@
+{
+    "id": 47508,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/47508",
+    "title": "Kunstgewerbeschule Wien",
+    "sort_title": "Kunstgewerbeschule Wien",
+    "alt_titles": [
+        "Kunstgewerbeschule",
+        "K.K. \u00d6sterreichisches Museum f\u00fcr Kunst und Industrie. Kunstgewerbeschule",
+        "Kunstgewerbeschule des K.K. \u00d6sterreichischen Museums f\u00fcr Kunst und Industrie",
+        "K.K. Kunstgewerbeschule des \u00d6sterreichischen Museums f\u00fc\u00b0r Kunst und Industrie"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kunstgewerbeschule Wien",
+            "Kunstgewerbeschule Wien",
+            "Kunstgewerbeschule",
+            "K.K. \u00d6sterreichisches Museum f\u00fcr Kunst und Industrie. Kunstgewerbeschule",
+            "Kunstgewerbeschule des K.K. \u00d6sterreichischen Museums f\u00fcr Kunst und Industrie",
+            "K.K. Kunstgewerbeschule des \u00d6sterreichischen Museums f\u00fc\u00b0r Kunst und Industrie"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-05-23T16:15:55-05:00",
+    "updated_at": "2022-05-23T16:16:01-05:00",
+    "timestamp": "2023-09-24T02:00:27-05:00"
+}

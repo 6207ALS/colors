@@ -1,0 +1,43 @@
+{
+    "id": 16502,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/16502",
+    "title": "Masaccio",
+    "sort_title": "Masaccio",
+    "alt_titles": [
+        "Tommaso Guido",
+        "Masaccio, (Tommaso di ser Giovanni di Mone Guidi)",
+        "Masaccio, (Tommaso Guido)",
+        "Maso di ser Giovanni di Mone Guidi",
+        "Tommaso Guidi",
+        "Tommaso di Giovanni di Simone Guido Masaccio",
+        "Tommaso di Giovanni di Simone Guidi"
+    ],
+    "is_artist": true,
+    "birth_date": 1401,
+    "death_date": 1438,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Masaccio",
+            "Masaccio",
+            "Tommaso Guido",
+            "Masaccio, (Tommaso di ser Giovanni di Mone Guidi)",
+            "Masaccio, (Tommaso Guido)",
+            "Maso di ser Giovanni di Mone Guidi",
+            "Tommaso Guidi",
+            "Tommaso di Giovanni di Simone Guido Masaccio",
+            "Tommaso di Giovanni di Simone Guidi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:50:40-05:00",
+    "timestamp": "2023-09-24T02:00:11-05:00"
+}

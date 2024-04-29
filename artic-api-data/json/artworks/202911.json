@@ -1,0 +1,180 @@
+{
+    "id": 202911,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/202911",
+    "is_boosted": false,
+    "title": "Personal Codes",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAM7OytDOydPU0NTU0NjY1NnZ1drZ1drZ1tza197d2t3e29/f3OHf3OLh3uTi3+Li4OPj4eTj4ePk4uXk4eXl4ubl4+bm5Ofn5Ono5urp6Ovr6Ovr6QAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAUdIENdFFU5xgJJ1jYZ1lEokRY0AyAQCVI9DwsmEwIAOw==",
+        "width": 3000,
+        "height": 2246,
+        "alt_text": "A work made of silverpoint on white wove paper, prepared with a white ground."
+    },
+    "main_reference_number": "2010.408",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2008,
+    "date_end": 2008,
+    "date_display": "2008",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Michiko Itatani\nJapanese, born 1948",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "38 \u00d7 55.6 cm (15 \u00d7 21 15/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 55.6,
+            "width_in": 21.8898,
+            "height_cm": 38,
+            "height_in": 14.9607,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Silverpoint on white wove paper, prepared with a white ground",
+    "inscriptions": null,
+    "credit_line": "Gift of Jake Milgram Wien",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2010,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 3.6197,
+    "color": {
+        "h": 51,
+        "l": 49,
+        "s": 2,
+        "percentage": 0.013723532850941756,
+        "population": 73
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 12545,
+    "artist_title": "Michiko Itatani",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        12545
+    ],
+    "artist_titles": [
+        "Michiko Itatani"
+    ],
+    "category_ids": [
+        "PC-13",
+        "PC-825",
+        "PC-827"
+    ],
+    "category_titles": [
+        "Prints and Drawings",
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "paper (fiber product)",
+        "21st Century",
+        "prints and drawing"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+        "TM-12913"
+    ],
+    "style_titles": [
+        "21st Century"
+    ],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+        "Women artists",
+        "SAIC Alumni and Faculty"
+    ],
+    "image_id": "99bdd1f6-c849-b4c4-8f19-6a4781750437",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2010.408"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Personal Codes"
+            ],
+            "weight": 113,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:19:25-05:00",
+    "updated_at": "2023-04-07T15:46:31-05:00",
+    "timestamp": "2023-09-24T01:40:46-05:00"
+}

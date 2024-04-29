@@ -1,0 +1,37 @@
+{
+    "id": 41138,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/41138",
+    "title": "Isaac Oliver, the elder",
+    "sort_title": "Oliver, Isaac, the elder",
+    "alt_titles": [
+        "Isaac Oliver, I",
+        "Isaac Oliver",
+        "Isaac Olivier",
+        "Isaac Ollivier"
+    ],
+    "is_artist": true,
+    "birth_date": 1558,
+    "death_date": 1617,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Isaac Oliver, the elder",
+            "Oliver, Isaac, the elder",
+            "Isaac Oliver, I",
+            "Isaac Oliver",
+            "Isaac Olivier",
+            "Isaac Ollivier"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-13T10:34:22-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

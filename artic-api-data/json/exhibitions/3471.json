@@ -1,0 +1,39 @@
+{
+    "id": 3471,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3471",
+    "title": "Collection of Mrs. P.C. Hanford",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1895-05-11T00:00:00-06:00",
+    "aic_end_at": "1899-05-05T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "f5b8f399-10a3-f444-0aac-fd677e00fce7",
+        "88fdc0d8-5f30-9c12-4d4e-7ab0676d91b2"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Collection of Mrs. P.C. Hanford"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-05-31T11:54:36-05:00",
+    "updated_at": "2019-05-31T11:55:14-05:00",
+    "timestamp": "2023-09-24T02:01:12-05:00"
+}

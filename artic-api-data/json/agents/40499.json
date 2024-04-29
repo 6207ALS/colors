@@ -1,0 +1,35 @@
+{
+    "id": 40499,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40499",
+    "title": "Peter Cornelius",
+    "sort_title": "Cornelius, Peter",
+    "alt_titles": [
+        "Peter von Cornelius",
+        "Peter Joseph Cornelius",
+        "Peter (Joseph) Cornelius"
+    ],
+    "is_artist": true,
+    "birth_date": 1783,
+    "death_date": 1867,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Peter Cornelius",
+            "Cornelius, Peter",
+            "Peter von Cornelius",
+            "Peter Joseph Cornelius",
+            "Peter (Joseph) Cornelius"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:40:46-05:00",
+    "timestamp": "2023-09-24T02:00:21-05:00"
+}

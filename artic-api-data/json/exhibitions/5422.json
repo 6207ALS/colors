@@ -1,0 +1,38 @@
+{
+    "id": 5422,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5422",
+    "title": "Animal Sculpture by Franz Barwig",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1928-12-27T00:00:00-06:00",
+    "aic_end_at": "1929-01-27T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "f490c9b6-9bdc-1d75-5618-348c04a9d2e9"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Animal Sculpture by Franz Barwig"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2020-12-15T10:19:24-06:00",
+    "timestamp": "2023-09-24T02:01:35-05:00"
+}

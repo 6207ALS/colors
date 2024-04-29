@@ -1,0 +1,31 @@
+{
+    "id": 5703,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/5703",
+    "title": "Charles Courtney Curran",
+    "sort_title": "Curran, Charles Courtney",
+    "alt_titles": [
+        "Charles C. Curran"
+    ],
+    "is_artist": true,
+    "birth_date": 1861,
+    "death_date": 1942,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Courtney Curran",
+            "Curran, Charles Courtney",
+            "Charles C. Curran"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2023-07-05T16:36:24-05:00",
+    "updated_at": "2023-07-05T16:40:49-05:00",
+    "timestamp": "2023-09-24T02:00:08-05:00"
+}

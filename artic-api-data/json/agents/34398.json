@@ -1,0 +1,33 @@
+{
+    "id": 34398,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/34398",
+    "title": "Peter Henry Emerson",
+    "sort_title": "Emerson, Peter Henry",
+    "alt_titles": [
+        "Peter H. Emerson",
+        "Emerson, P. H. (Peter Henry)"
+    ],
+    "is_artist": true,
+    "birth_date": 1856,
+    "death_date": 1936,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Peter Henry Emerson",
+            "Emerson, Peter Henry",
+            "Peter H. Emerson",
+            "Emerson, P. H. (Peter Henry)"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-04-22T10:54:07-05:00",
+    "timestamp": "2023-09-24T02:00:18-05:00"
+}

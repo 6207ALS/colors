@@ -1,0 +1,165 @@
+{
+    "id": 265988,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/265988",
+    "is_boosted": false,
+    "title": "Native",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAF9YVGBTSWxcTmZcVW1fUm1fVWdeWWpiXXFlXnFmYHRrZnFranZuan10a354d4h+dYd/eYV/fY6Bd46Ee42EfpGGfY6Hgo+Hg46JhpaKgZeMg5CJhJKNjJiRjZeSkZyWkZ6amqGenaSgn6qkn6Ghpa+qpamnqMnLzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwM9EU5FkHqUOgbIRFA4WD4MTSSAMENIiMFA4AI0T6BISmTCjIAA7",
+        "width": 5856,
+        "height": 3896,
+        "alt_text": "A work made of cow dung background and white watercolor on traditionally treated cloth."
+    },
+    "main_reference_number": "2022.625",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 2019,
+    "date_end": 2019,
+    "date_display": "2019",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Mayur Vayeda (Indian, born 1987)\nTushar Vayeda (Indian, born 1992)",
+    "place_of_origin": "India",
+    "description": null,
+    "dimensions": "153.4 \u00d7 230.9 cm (60 3/8 \u00d7 90 7/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 230.9,
+            "width_in": 90.875,
+            "height_cm": 153.4,
+            "height_in": 60.375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Cow dung background and white watercolor on traditionally treated cloth",
+    "inscriptions": null,
+    "credit_line": "Arts of Asia Discretionary Fund",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 2023,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 3,
+        "l": 47,
+        "s": 2,
+        "percentage": 0.0017751497963442958,
+        "population": 405
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 118048,
+    "artist_title": "Vayeda Brothers",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        118048
+    ],
+    "artist_titles": [
+        "Vayeda Brothers"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "painting",
+        "watercolor"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-39"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-39"
+    ],
+    "classification_titles": [
+        "painting",
+        "watercolor"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b9dfa633-1fe0-dcec-6e29-4b87336825c4",
+    "alt_image_ids": [
+        "a71dda0d-ed25-5a29-0637-788507f5b6af"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2022.625"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Native"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-06-29T14:20:25-05:00",
+    "updated_at": "2023-06-29T14:22:56-05:00",
+    "timestamp": "2023-09-24T01:58:50-05:00"
+}

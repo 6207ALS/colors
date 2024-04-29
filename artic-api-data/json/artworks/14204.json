@@ -1,0 +1,167 @@
+{
+    "id": 14204,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/14204",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKJjLYmdOpGaNpSVSbGIVrObdJehfq+vfLygdb62fsmxYsS2fbi0i7i4iKKplbSzoceuhsK4lMu9mcC9pMbEkszDoM/Ip9LKpdbNrAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoIVRDTM5gZA8xqAs0kEARXVBSBQCADs=",
+        "width": 2735,
+        "height": 3000,
+        "alt_text": "A work made of color woodblock print."
+    },
+    "main_reference_number": "1962.290",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1948,
+    "date_end": 1948,
+    "date_display": "1948",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Yamaguchi Gen\nJapanese, 1896-1976",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "39.9 \u00d7 36.5 cm (15 11/16 \u00d7 14 3/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 36.5,
+            "width_in": 14.375,
+            "height_cm": 39.9,
+            "height_in": 15.6875,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Color woodblock print",
+    "inscriptions": null,
+    "credit_line": "Gift of Cornelius Crane",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": 1962,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 52.601,
+    "color": {
+        "h": 51,
+        "l": 50,
+        "s": 73,
+        "percentage": 0.030811418711774584,
+        "population": 240
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 29187,
+    "artist_title": "Yamaguchi Gen",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        29187
+    ],
+    "artist_titles": [
+        "Yamaguchi Gen"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-402",
+    "classification_title": "woodblock print",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-402",
+        "TM-17",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "woodblock print",
+        "print",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "3585b23c-9fd6-7a1b-aa1b-6ff640dabfde",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1962.290"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:47-05:00",
+    "updated_at": "2023-04-10T14:41:32-05:00",
+    "timestamp": "2023-09-24T00:26:10-05:00"
+}

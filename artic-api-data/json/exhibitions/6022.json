@@ -1,0 +1,43 @@
+{
+    "id": 6022,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6022",
+    "title": "Chicago and Vicinity 71st Annual",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "1968-03-30T00:00:00-06:00",
+    "aic_end_at": "1968-05-12T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "8327bdd5-c45b-c654-e5b3-22de2bb8dab1",
+    "alt_image_ids": [
+        "e80e368f-3fab-2265-7b52-ea1b5d54a715",
+        "579f9107-d500-d797-ddf5-64fb77bcadf1",
+        "f068a0ee-3690-239b-08ca-8afb84814b77",
+        "db12457c-0cb5-0afc-a3fb-b618df4f9379"
+    ],
+    "document_ids": [
+        "b2f18786-5045-2936-e751-209d0be44ef0"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 71st Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-11-18T10:33:51-06:00",
+    "updated_at": "2019-11-18T11:11:22-06:00",
+    "timestamp": "2023-09-24T02:01:42-05:00"
+}

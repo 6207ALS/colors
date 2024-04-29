@@ -1,0 +1,183 @@
+{
+    "id": 24453,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/24453",
+    "is_boosted": false,
+    "title": "Bird on a Branch",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHxiOoNkOZV3QpJ4Sph+TY96WIx8YpuFYpiIbZiJbqGMaKaQZ6mQYKCSd6OTeQAAACH5BAAAAAAALAAAAAADAAUAAAQLEAnWyHJDJXBMKBEAOw==",
+        "width": 288,
+        "height": 432,
+        "alt_text": "A work made of hanging scroll; ink and color on paper."
+    },
+    "main_reference_number": "1965.918",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": null,
+    "date_end": null,
+    "date_display": "Early\u2013mid-19th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Matsumura Keibun\nJapanese, 1799\u20131844",
+    "place_of_origin": "Japan",
+    "description": null,
+    "dimensions": "Painting: 102.8 \u00d7 35.6 cm (40 7/16 \u00d7 14 in.); With mounting: 196.9 \u00d7 47.7 cm (77 1/2 \u00d7 18 3/4 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 35.6,
+            "width_in": 14,
+            "height_cm": 102.8,
+            "height_in": 40.4375,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "Painting"
+        },
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 47.7,
+            "width_in": 18.75,
+            "height_cm": 196.9,
+            "height_in": 77.5,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": "With mounting"
+        }
+    ],
+    "medium_display": "Hanging scroll; ink and color on paper",
+    "inscriptions": null,
+    "credit_line": "Gift of Mr. and Mrs. Harold G. Henderson",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 38,
+        "l": 45,
+        "s": 30,
+        "percentage": 2.3871527777777777,
+        "population": 2970
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": 35229,
+    "artist_title": "Matsumura Keibun",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35229
+    ],
+    "artist_titles": [
+        "Matsumura Keibun"
+    ],
+    "category_ids": [
+        "PC-7"
+    ],
+    "category_titles": [
+        "Arts of Asia"
+    ],
+    "term_titles": [
+        "hanging scroll",
+        "paper (fiber product)",
+        "painting",
+        "asian art"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-335",
+    "classification_title": "hanging scroll",
+    "alt_classification_ids": [
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_ids": [
+        "TM-335",
+        "TM-9",
+        "TM-26"
+    ],
+    "classification_titles": [
+        "hanging scroll",
+        "painting",
+        "asian art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7dfaff6c-fb2d-8362-ab3b-41eb7ff58e8b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1965.918"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Bird on a Branch"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-10-31T16:42:16-05:00",
+    "updated_at": "2023-04-07T14:19:39-05:00",
+    "timestamp": "2023-09-24T00:31:06-05:00"
+}

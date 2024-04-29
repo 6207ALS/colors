@@ -1,0 +1,31 @@
+{
+    "id": 102380,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/102380",
+    "title": "Willard Frederic Elms",
+    "sort_title": "Elms, Willard Frederic",
+    "alt_titles": [
+        "Willard Frederic Elmes"
+    ],
+    "is_artist": true,
+    "birth_date": 1900,
+    "death_date": 1956,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Willard Frederic Elms",
+            "Elms, Willard Frederic",
+            "Willard Frederic Elmes"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-04-01T15:59:27-05:00",
+    "updated_at": "2019-05-13T10:15:34-05:00",
+    "timestamp": "2023-09-24T02:00:33-05:00"
+}

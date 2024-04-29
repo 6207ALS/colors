@@ -1,0 +1,39 @@
+{
+    "id": 28949,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/28949",
+    "title": "Michel Wolgemut",
+    "sort_title": "Wolgemut, Michel",
+    "alt_titles": [
+        "Martin Wolgemut",
+        "Michael Wolgemut",
+        "Michael Wohlgemut",
+        "Michael Wolgemith",
+        "Michael Wolgemuth"
+    ],
+    "is_artist": true,
+    "birth_date": 1434,
+    "death_date": 1519,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Michel Wolgemut",
+            "Wolgemut, Michel",
+            "Martin Wolgemut",
+            "Michael Wolgemut",
+            "Michael Wohlgemut",
+            "Michael Wolgemith",
+            "Michael Wolgemuth"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:09:54-05:00",
+    "timestamp": "2023-09-24T02:00:15-05:00"
+}

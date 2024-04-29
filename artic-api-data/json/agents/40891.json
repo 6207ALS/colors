@@ -1,0 +1,33 @@
+{
+    "id": 40891,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/40891",
+    "title": "Jacob de Wit",
+    "sort_title": "Wit, Jacob de",
+    "alt_titles": [
+        "Jacob Dewitt",
+        "Jacob de Witt"
+    ],
+    "is_artist": true,
+    "birth_date": 1695,
+    "death_date": 1754,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacob de Wit",
+            "Wit, Jacob de",
+            "Jacob Dewitt",
+            "Jacob de Witt"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:36:35-05:00",
+    "timestamp": "2023-09-24T02:00:22-05:00"
+}

@@ -1,0 +1,181 @@
+{
+    "id": 259324,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/259324",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIadr5ekrI6kspSrvpiruqWsr7a0rq2xsa+zs6+1uK62ury7uLu8u8C9ucvCuKi2wra7wrW+xcnFwMzJyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDMlDPJEkkJAizAAh1MERggAOw==",
+        "width": 6034,
+        "height": 7796,
+        "alt_text": "A work made of white and blue acrylic paint over an offset lithograph in black ink on cream wove paper (newsprint)."
+    },
+    "main_reference_number": "2020.659",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1985,
+    "date_end": 1985,
+    "date_display": "1985",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Al Taylor\nAmerican, 1948-1999",
+    "place_of_origin": "United States",
+    "description": null,
+    "dimensions": "31.5 \u00d7 24.4 cm (12 7/16 \u00d7 9 5/8 in.)",
+    "dimensions_detail": [
+        {
+            "depth_cm": 0,
+            "depth_in": 0,
+            "width_cm": 24.4,
+            "width_in": 9.6063,
+            "height_cm": 31.5,
+            "height_in": 12.4016,
+            "diameter_cm": 0,
+            "diameter_in": 0,
+            "clarification": null
+        }
+    ],
+    "medium_display": "White and blue acrylic paint over an offset lithograph in black ink on cream wove paper (newsprint)",
+    "inscriptions": "Signed and dated lower right, in graphite: \u201cAl Taylor \u201885\u201d",
+    "credit_line": "Gift of Donna and Howard Stone",
+    "catalogue_display": null,
+    "publication_history": "James Rondeau and Judith Russi Kirshner, Contemporary collecting: the Donna and Howard Stone collection, exh. cat. (Chicago: Art Institute of Chicago; New Haven: Yale University Press, 2010), 155 (ill.).",
+    "exhibition_history": null,
+    "provenance_text": "Estate of the artist; sold by Zwirner & Wirth, New York, to Donna and Howard Stone, Chicago, May 21, 2008; given to the Art Institute of Chicago, Dec. 31, 2020.",
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 204,
+        "l": 38,
+        "s": 56,
+        "percentage": 0.0007865468349100267,
+        "population": 370
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Drawing and Watercolor",
+    "artwork_type_id": 14,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 117330,
+    "artist_title": "Al Taylor",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        117330
+    ],
+    "artist_titles": [
+        "Al Taylor"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "drawings (visual works)",
+        "acrylic paint",
+        "prints and drawing",
+        "paper",
+        "paint",
+        "wove paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-5",
+    "classification_title": "drawings (visual works)",
+    "alt_classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-10387"
+    ],
+    "classification_ids": [
+        "TM-5",
+        "TM-4",
+        "TM-145",
+        "TM-10387"
+    ],
+    "classification_titles": [
+        "drawings (visual works)",
+        "prints and drawing",
+        "paper",
+        "paint"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2407",
+    "alt_material_ids": [
+        "TM-3074"
+    ],
+    "material_ids": [
+        "TM-2407",
+        "TM-3074"
+    ],
+    "material_titles": [
+        "acrylic paint",
+        "wove paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "89db5ca4-91c0-2558-0576-6eb7bea739ad",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "2020.659"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Untitled"
+            ],
+            "weight": 1,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-07-31T10:51:53-05:00",
+    "updated_at": "2023-07-31T10:55:53-05:00",
+    "timestamp": "2023-09-24T01:57:27-05:00"
+}
